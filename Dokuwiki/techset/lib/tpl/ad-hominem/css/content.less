@@ -1,0 +1,466 @@
+/**
+ * This contains the content styling
+ * @author Sascha Leib <sascha@leib.be>
+ */
+
+body {
+	overflow: hidden auto;
+}
+
+.dokuwiki main {
+	p,
+	blockquote,
+	div.table {
+		margin-bottom: .5em;
+		margin-top: .5em;
+	}
+
+/* headlines: */
+	h1, h2, h3, h4, h5, h6 {
+		font-family:	@ini_headline_fonts;
+		color:			@ini_headlines;
+		margin:			1em 0 1em 0;
+		line-height:	1.1em;
+	}
+	h1 { font-size: 2em; }
+	h2 { font-size: 1.5em; }
+	h3 { font-size: 1.125em; }
+	h4 { font-size: 1em; }
+	h5 { font-size: .875em; }
+	h6 { font-size: .75em; }
+	h1 *, h2 *, h3 *, h4 *, h5 *, h6 * {
+		font-family: inherit;
+		font-size: inherit;
+		color: inherit;
+		margin: inherit;
+		line-height: inherit;
+	}
+	/* Definition Terms are like Headlines in many ways */
+	dl dt {
+		font-family: @ini_headline_fonts;
+		color: @ini_headlines;
+	}
+
+	/* make strike-through and underline more useful! */
+	u {
+		-webkit-text-decoration-color: #F30;
+		-webkit-text-decoration-line: underline;
+		-webkit-text-decoration-style: wavy;
+		-webkit-text-decoration-thickness: .7pt;
+		text-decoration: underline #F30 wavy .7pt;
+	}
+	s, del {
+		-webkit-text-decoration-color: rgba(255,0,0,.5);
+		-webkit-text-decoration-line: line-through;
+		-webkit-text-decoration-style: solid;
+		-webkit-text-decoration-thickness: .1em;
+		text-decoration: line-through rgba(255,0,0,.5) solid .1em;
+	}
+
+	/* subscript and superscript */
+	sup, sub {
+		line-height: 1;
+		font-size: .6em;
+		font-weight: 600;
+		margin: 0 .1em;
+	}
+	sup {
+		vertical-align: .5em;
+	}
+	sub {
+		vertical-align: -.15em;
+	}
+
+	/* lists: */
+	ul, ol {
+		margin: 0 2em 1em 1em;
+		padding-left: 1.75em;
+	}
+	ul { list-style: square outside; }
+	ul ul { list-style-type: disc; }
+	ul ul ul { list-style-type: none; }
+	ul ul ul li {margin-left: 1em; }
+	ul ul ul li:before { display: block; content: '\2043'; text-align:center; float: left; width: 1em; margin-left: -1em; }
+	ul ul ul ul li:before { content: '\FE63' }
+	ul ul ul ul ul li:before { content: '\00B7' }
+
+	/* numbered lists vary by nestling: */
+	ol { list-style: decimal outside; }
+	ol ol { list-style-type: lower-alpha; }
+	ol ol ol { list-style-type: lower-roman; }
+	ol ol ol ol { list-style-type: lower-greek; }
+	ol ol ol ol ol { list-style-type: decimal-leading-zero; font-size: .96em;}
+	ol ol ol ol ol ol { list-style-type: upper-alpha; font-size: .96em;}
+	ul ul ul ol li { margin-left: 0; }
+	ul ul ul ol li:before { display: none; content: ''; }
+
+	li::marker {
+		color: #666;
+	}
+
+	ul ul, ul ol,
+	ol ul, ol ol {
+		margin-bottom: 0;
+		padding-left: .25em;
+	}
+
+	/* horizontal rules */
+	hr {
+		border: #666 solid 0;
+		border-top-width: 1pt;
+		height: 0;
+		margin: 3pt 0;
+	}
+
+	tt, blockquote tt,
+	pre, pre *,
+	code, code *,
+	blockquote code {
+		font-family: @ini_mono_fonts;
+	}
+	code, blockquote code {
+		border: @ini_border solid 1px;
+		border-radius: 3pt;
+		padding: 0 2pt;
+	}
+	pre {
+		overflow-x: auto;
+		white-space: pre-wrap;
+		word-wrap: normal;
+		border: 1px solid @ini_border;
+		border-radius: 2px;
+		box-shadow: inset 0 0 .5em @ini_border;
+		padding: .3em;
+		font-variant-numeric: slashed-zero;
+	}
+
+	/* overwrite pre styling for CodeMirror plugin: */
+	.CodeMirror pre {
+		max-width: 100%;
+	}
+	/* quotes: */
+	blockquote {
+		border: @ini_blockquote solid 0;
+		border-width: 0 0 0 .4em;
+		border-radius: .5em;
+		padding: .25em 0 .25em .75em;
+		margin: 0 2em 1em 1em;
+		font-family: @ini_alt_fonts;
+		font-size: @ini_alt_font_size;
+		hanging-punctuation: first allow-end;
+	}
+	blockquote * {
+		font-family: @ini_alt_fonts;
+	} 
+
+	svg {
+		display: block;
+		fill-rule: evenodd;
+		clip-rule: evenodd;
+		stroke-linejoin: round;
+		stroke-miterlimit: 1.5;
+	}
+	svg.math {
+		margin-left: 15px
+	}
+
+	/*  tables */
+	div.table {
+		overflow-x: auto;
+	}
+	table {
+		& {
+			border-collapse: collapse;
+			empty-cells: show;
+			border-spacing: 0;
+			font-size: smaller;
+			border: 1px solid @ini_border;
+			margin-bottom: 1em;
+		}
+		th, td {
+			padding: .5em .3em;
+			vertical-align: top;
+			border: 1px solid @ini_border;
+			line-height: 1.25em;
+		}
+		th.centeralign, td.centeralign {
+			text-align: center;
+		}
+		th.rightalign, td.rightalign {
+			text-align: right;
+		}
+		th {
+			font-weight: bold;
+			background-color: @ini_background_alt;
+			text-align: left;
+		}
+		&.inline {
+			min-width: 50%;
+			margin-bottom: 0;
+		}
+		&.inline tr:hover td {
+			background-color: @ini_background_alt;
+		}
+		&.inline tr:hover th {
+			background-color: @ini_border;
+		}
+	}
+
+	/* asides */
+	aside {
+		& > * {
+			margin: .25em 0;
+		}
+		&.float-left, &.float-right {
+			width: 50%;
+			max-width: 220px;
+			min-width: 150px;
+			font-size: smaller;
+			line-height: 1.5em;
+		}
+		&.float-left {
+			clear: left;
+			float: left;
+			margin-right: .5em;
+		}
+		&.float-right {
+			clear: right;
+			float: right;
+			margin-left: .5em;
+		}
+		& footer {
+			line-height: 1.1em;
+		}
+	}
+
+	/* images */
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+	
+	/* abbbreviations a reslightly widened and made smaller */
+	abbr {
+		letter-spacing: .01em;
+		font-size: 97%;
+	}
+
+	/* extra styles for ad-hoc tags: */
+	kbd {
+		padding: .15em .25em;
+		margin: 0 .1em;
+		font-size: 85%;
+		color: @ini_headlines;
+		border: @ini_border solid 1px;
+		border-radius: .25em;
+		display: inline-block;
+		white-space: nowrap;
+		line-height: 1.2em;
+		letter-spacing: .03em;
+	}
+	kbd kbd {
+		background-color: @ini_background_alt;
+		-webkit-box-shadow: 0 .1em 0 rgba(0,0,0,0.25);
+		box-shadow: 0 .1em 0 rgba(0,0,0,0.25);
+		font-weight: bold;
+	}
+	samp {
+		background-color: @ini_background_alt;
+		font-family: @ini_mono_fonts;
+		white-space: nowrap;
+	}
+	mark {
+		background-color: @ini_highlight;
+	}
+
+	/* box / notification classes */
+	.box, .wrap_box,
+	.outline, .wrap_outline {
+		padding: 1pt .5em;
+		margin: .5em 0;
+	}
+	.box, .wrap_box {
+		background-color: @ini_background_alt;
+	}
+	.rounded, .wrap_rounded {
+		border-radius: .5em;
+	}
+
+	/* hyphenation only in the main-content */
+	p, li {
+		word-wrap: break-word;
+		overflow-wrap: break-word;
+		hyphens: auto;
+		-ms-hyphens: auto;
+		-moz-hyphens: auto;
+		-webkit-hyphens: auto;
+		hyphenate-limit-chars: 6 2 3;
+	}
+	
+	/* footnotes section */
+	div.footnotes {
+		border-top: transparent 0 none;
+		margin-top: 1.5em;
+		font-size: smaller;
+	}
+	div.footnotes:before {
+		content: ' ';
+		display: block;
+		width: 33%;
+		min-width: 5em;
+		border-top: @ini_border solid 1.5pt;
+		height: .5em;
+	}
+	div.footnotes div.fn {
+		margin-left: 1em;
+	}
+}
+
+/* footnotes and similar poups: */
+.JSpopup {
+	background-color: @ini_background;
+	color: @ini_text;
+	border: @ini_border solid 1px;
+	padding: .25em;
+	box-shadow: 2px 2px 4px rgba(0, 0, 0, .5);
+}
+
+
+/* on the homepage only, reduce the H1 top margin: */
+body.home h1:first-child { margin-top: .5em; }
+
+
+[dir=rtl] {
+	main {
+		blockquote {
+			border-width: 0 .4em 0 0;
+			padding: .25em .75em .25em 0;
+			margin: 0 1em 1em 2em;
+		}
+
+		ul, ol {
+			margin-left: 0;
+			margin-right: .5em;
+			padding-left: 0;
+			padding-right: .25em;
+		}
+		ul li, ol li {
+			width: 100%;
+		}
+		
+		ul ul ul li:before {
+			float: right;
+			margin-left: 0;
+			margin-right: -1em;
+		}
+
+	}
+}
+
+/* tablet break point: */
+@media (max-width: @ini_tablet_width) {
+	
+	/* tighter hyphenation for narrower screens */
+	#main-content p, #main-content li {
+		hyphenate-limit-chars: 5 2 2;
+	}
+}
+
+/* phone break point: */
+@media (max-width: @ini_phone_width) {
+
+	.nophone, .wrap_nophone {
+		display: none !important;
+	}
+	
+	main aside {
+		width:			100%;
+		max-width:		initial;
+		float:			none;
+		margin-left:	0;
+	}
+}
+
+/* dark mode overrides */
+@media (prefers-color-scheme: dark) {
+
+	body.darkmode {
+		main {
+			h1, h2, h3, h4, h5, h6, dt { color: @ini_headlines_dark; }
+			table {
+				& { border-color: @ini_border_dark; }
+				&.inline tr:hover td,
+				&.inline tr:hover th { background-color: @ini_border_dark; }
+				th { background-color: rgba(255,255,255,0.05); }
+			}
+			#acl_manager table tr:hover { background-color: rgba(255,255,255,0.1); }
+			code,
+			blockquote { border-color: @ini_blockquote_dark }
+			blockquote code { border-color: @ini_border_dark; }
+			kbd {color: @ini_headlines_dark;border-color: @ini_border_dark;}
+			kbd kbd {background-color: @ini_background_alt_dark;}
+			samp {background-color: @ini_background_alt_dark;}
+			pre {border-color: @ini_border_dark; box-shadow: inset 0 0 .5em @ini_background_site_dark;}
+			dl dt {	color: @ini_headlines_dark; }
+
+			details summary {
+				& {
+					color: @ini_headlines_dark;
+				}
+				&::after {
+					background-color: @ini_link_dark;
+				}
+				&:hover {
+					& {
+						color: @ini_text_dark;
+					}
+					&::after {
+						background-color: lighten(@ini_link_dark, 10%);
+					}
+				}
+				&:focus {
+					outline: @ini_focus_color solid 2px;
+				}
+			}
+			
+			/* overrides for PRE blocks: */
+			pre.code {
+				.me1 {color: #3C3;}
+				.kw2 {color: #0C7;}
+				.kw3 {color: #0CF;}
+			}
+
+			div.error {background-color: #4B2F36; color: #FFB3D2; border-color: #743E4C;}
+			div.success {background-color: #28381F; color: #FBE2A1; border-color: #37562E;}
+			div.notify {background-color: #42381F; color: #FCE2A1; border-color: #56562E;}
+
+			/* colour overrides for Wrap Plugin */
+			.wrap_hi {background-color: @ini_highlight; color: #000;}
+			.wrap_box, .box {background-color: @ini_background_alt_dark; color: inherit;}
+			.wrap_outline, .outline {border-color: @ini_border_dark; color: inherit}
+			.red, .wrap_red { color: #E53935; }
+			.green, .wrap_green { color: #00E676; }
+			.wrap_tip {background-color: #47391B;}
+			.wrap_important {background-color: #603000;}
+			.wrap_alert, .wrap_danger {background-color: #4C0909;}
+			.wrap_help, .wrap_info {background-color: #112847;}
+			.wrap_download, .wrap_safety {background-color: #1C3802;}
+			.wrap_todo, .wrap_notice {background-color: #004A7F;}
+			.wrap_caution {background-color: #fcffaa;}
+			.wrap_warning {background-color: #FFC9AA;}
+			
+			/* MathML fixes */
+			merror { background-color: @ini_highlight; color: red; }
+			
+		}
+		
+		/* footnote and similar poups: */
+		.JSpopup {
+			background-color: @ini_background_site_dark;
+			color: @ini_text_dark;
+			border-color: @ini_border_dark;
+			box-shadow: 2px 2px 4px #000;
+		}
+	}
+}
+

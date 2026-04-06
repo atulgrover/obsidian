@@ -1,0 +1,7 @@
+﻿base   attribute
+author CosmoCode & Michael Wilmes
+email  dokuwiki@cosmocode.de
+date   2023-07-11
+name   Attribute Plugin
+desc   Arbitrary attribute definition and storage for user associated data.
+url    https://www.dokuwiki.org/plugin:attribute

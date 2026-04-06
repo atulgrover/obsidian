@@ -1,0 +1,661 @@
+<html>
+<div>
+	<h2>
+		T V Sandeep Kumar Reddy vs State Bank Of India on 2 January, 2023
+	</h2>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL AT CHENNAI (APPELLATE JURISDICTION) Company Appeal (AT) (CH) (INS.) No. 414 of 2022 (Under Section 61 of the Insolvency and Bankruptcy Code, 2016) (Arising out of the `Order' dated 15.11.2022 inCP(IB) No. 308/7/HDB/2022, passed by the `Adjudicating Authority', (`National Company Law Tribunal', Hyderabad Bench - II, Hyderabad)In the matter of:Mr. T.V. Sandeep Kumar Reddy,Suspended Director,M/s. Gayatri Projects LimitedR/o. H. No. 8-2-331 / 2 / A,Road No. 3, Banjara Hills,Hyderabad, Telangana - 500034 ..... Appellant v.1. State Bank of India 2nd Floor, Prabhat Towers, Opp. SBI LHO, Chapel Road, Gunfoundry, Hyderabad - 500001 ..... Respondent No.12. M/s. Gayatri Projects Limited, Through its Interim Resolution Professional having Registered Office at: TSR Towers, B-1, 6-3-1090, Rajbhavan Road, Somajiguda, Hyderabad - 500082 ..... Respondent No. 2Present:For Appellant : Mr. P.H. Arvindh Pandian, Senior Advocate For Mr. Muthuchharan Sundresh and Mr. Nithin Chowdary Pavuluri, AdvocatesFor Respondent No.1 : Mr. M.S. Krishnan, Senior Advocate For Mr. M.G. Pranava Charan, AdvocateFor Respondent No.2 : Mr. Sai Ramesh Kanuparthi, IRP in personComp. App (AT) (CH) (INS.) No. 414 of 2022 Page 1 of 56 JUDGMENT
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(Virtual Mode) Justice M. Venugopal, Member (Judicial):
+	</p>
+	<p title="Issue">
+		Background:
+	</p>
+	<p title="Issue">
+		Company Appeal (AT) (CH) (INS.) No. 414 of 2022:
+	</p>
+	<p title="Issue">
+		The `Appellant' / `Respondent' (the `Suspended Director' Mr. T.V.
+	</p>
+	<p title="Issue">
+		Sandeep Kumar Reddy of `M/s. Gayatri Projects Limited' / `Corporate Debtor'), has pferred the instant Comp. App (AT) (CH) (INS.) No. 414 of 2022, before this `Tribunal', as an `Aggrieved Person', on being dissatisfied with the `impugned order' dated 15.11.2022, in CP(IB) No. 308 / 07 / HDB / 2022, (Filed under Section 7 of the Insolvency and Bankruptcy Code, 2016), passed by the `Adjudicating Authority', (`National Company Law Tribunal', Hyderabad Bench - II, Hyderabad).
+	</p>
+	<p title="Fact" data-structure="Facts">
+		2. The `Adjudicating Authority', (`National Company Law Tribunal', Hyderabad Bench - II, Hyderabad), while passing the `impugned order' dated 15.11.2022 in CP(IB) No. 308 / 07 / HDB / 2022, among other things, at Paragraphs 2 (a) to 2 (j), had observed the following:
+	</p>
+	<p title="Fact">
+		2. ``Brief facts of the case as stated by the Applicant is as under:-
+	</p>
+	<p title="Fact">
+		a. That the Applicant (earlier State Bank of Bikaner and Jaipur which got merged with the Applicant) along with consortium of lenders on the request of the Corporate Debtor has sanctioned Term Loans including Short Term Loans, Equipment Loans, Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 2 of 56 Demand Loan, ECB Loan and working capital facilities, both fund based and non-fund based for the purpose and the terms and conditions contained in various loan agreements / facility agreements entered into between the Corporate Debtor and the Applicant and other lenders. Further, in order to secure such facilities, the Corporate Debtor has from time-to-time, created security by way of hypothecation of its movable assets, book-debts etc. the Applicant has specifically vide its sanction letter bearing No.SGH/ADV/458 dated 14.01.2012 has sanctioned fund based working capital facility of Rs.50 Crores and the Corporate Debtor has executed Agreement of Loan for overall limits with the Applicant in furtherance of the same.
+	</p>
+	<p title="Fact">
+		b. That the Applicant submits that the working of the Corporate Debtor's operating divisions came under strain and in the year 2014, the lenders have identified incipient stress and categorized the account of the Corporate Debtor as SMA-2.
+	</p>
+	<p title="Fact">
+		c. In order to overcome difficulties faced by the Corporate Debtor, the Corporate Debtor had requested the lenders including the Applicant for carrying out debt restructuring. Pursuant to which a joint lenders' forum (the "JLF") meeting was convened on August 13, 2014 as per the extent guidelines of the Reserve Bank of India and the lenders including the Applicant decided to restructure the facilities granted to the Corporate Debtor as a corrective action taken by the lenders and Pursuant thereto MITCON was requested to draw a Techno Economic Viability Report (the "TEV Report") and based on which a restructuring package was drawn by IDBI Capital Market Service Limited. Thereafter, the restructuring package was approved by the Joint Lenders Forum on 19.01.2015 ("Approved JLF"). In furtherance of the said package, the Applicant also sanctioned the said restructured facilities to the Corporate Debtor.
+	</p>
+	<p title="Fact">
+		d. That the Applicant submits that the Corporate Debtor has executed Master Restructuring Agreement dated 23.01.2015 wherein the existing loans were restructured in terms of the said Agreement. The details of the existing loans upon restructuring of Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 3 of 56 the existing loans by lenders including the Applicant are as follows:
+	</p>
+	<p title="Fact">
+		In Crores Facility Aggregate Limit Facility A-Restructured Term Loan 450.00 Facility B-Rupee Term Loan (ECB) by 135.00 IDBI Bank Facility C-Working Capital Term Loan 165.23 Facility D-Funded Interest Term Loan 130.99 (FITL) Facility E-Cash Credit 776.00 Facility F-Bank Guarantee and Letter of 2563.81 Credit Total 4221.04
+	</p>
+	<p title="Fact">
+		Out of the said total amount of Rs.4221.04 Crores, the restructured amount of Applicant was Rs.50 crores which is part of FB-WC Facility E. e. The Applicant submits that the above-mentioned restructured facilities were secured by (1) Deed of Hypothecation dated 12.03.2015 (ii) Personal Guarantee Agreement dated 12.03.2015
+	</p>
+	<p title="Fact">
+		(iii) Corporate Guarantee Agreement dated 12.03.2015 (iv) Pledge Agreement dated 12.03.2015 and Power of Attorney (v) Memorandum of Entry dated 12.03.2015 and Declaration and Undertaking dated 12.03.2015 (vi) Trust and Retention Agreement dated 23.01.2015 (vii) Security Trustee Agreement dated 23.01.2015.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		f. The Applicant submits that at the request of the Corporate Debtor, the lenders have from time-to-time either revised or enhanced or granted additional facilities to the Corporate Debtor. g. The Applicant submits that as on the date of Seventh Amendment to the MRA on 09.11.2020 the following facilities were extended to the Corporate Debtor by the lenders.
+	</p>
+	<p title="Respondent's Argument">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 4 of 56 In Crores Facility Aggregate Limit Facility A-Restructured Term Loan 347.08 Facility B-Rupee Term Loan (ECB) by 107.64 IDBI Bank Facility C-Working Capital Term Loan 124.44 Facility D-Funded Interest Term Loan 36.77 (FITL) Facility E-Cash Credit 1023.50 Facility F-Bank Guarantee and Letter of 4447.16 Credit Facility G-COVID Emergency Credit 60.25 Line (CECL) Facility H- COVID FITL 81.60 Facility I-Arbitration BGs by Canara (227.11) Bank &amp; IDBI as sub-limit of existing limits Total : 6228.44
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Out of the said total amount of Rs.6,228.44 Crores, the restructured amount of Applicant is as under:
+	</p>
+	<p title="Issue">
+		In Crores Facility Aggregate Limit Facility A-Restructured Term Loan -
+	</p>
+	<p title="Issue">
+		Facility B-Rupee Term Loan (ECB) by - IDBI Bank Facility C-Working Capital Term Loan - Facility D-Funded Interest Term Loan - (FITL) Facility E-Cash Credit 50.00 Sub limit of CC (30.00) Facility F-Bank Guarantee and Letter of 250.00 Credit Facility G-COVID Emergency Credit 5.00 Line (CECL) Facility H- COVID FITL 4.45 Facility I-Arbitration BGs by Canara - Bank &amp; IDBI as sub-limit of existing limits Total : 309.45Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 5 of 56
+	</p>
+	<p title="Issue">
+		h. The aggregate amount of default of the Corporate Debtor with respect to Applicant/Financial Creditor as on 30.09.2022 is Rs.242,33,00,269/- (Rupees Two Hundred and Forty-Two Crores Thirty-Three Lakhs Two Hundred and Sixty-Nine only) and the date of default along with days of default with respect to facilities availed by Corporate Debtor have been annexed Exhibit-4 at Page No.34.
+	</p>
+	<p title="Issue">
+		i. The account of Corporate Debtor has been declared as Non- Performing Asset (NPA) on 30.04.2022 with Applicant in accordance with the guidelines pscribed by Reserve Bank of India.
+	</p>
+	<p title="Issue">
+		j. The Applicant upon default committed by Corporate Debtor in repayment of the dues has issued demand notice on 04.08.2022, under Section 13(2) of Securitisation and Reconstructions of Financial Assets and Enforcement of Security Interest Act, 2002, calling upon Corporate Debtor to pay outstanding liabilities (in aggregate) amounting to Rs.182,21,12,388.20/- excluding BG in force (Rs.55,56,18,677.00/-) as on 03.08.2022 with further interest and incidental expenses, costs etc. The Corporate Debtor in response to the said notice has issued reply on 08.10.2022 to the Applicant.'' and further that, considering the fact there was no `repsentation' for the `Corporate Debtor', even on 10.11.2022, on perusal of record, placed by the `1st Respondent / State Bank of India / Financial Creditor', opined that various `Term Loans', including `Short Term Loans', `Equipment Loans', `Demand Loans', `ECB Loans' and `Working Capital Facilities' (both Fund based and non-Fund based) to the `Corporate Debtor, was provided from time to time and that a `Sum' of Rs. 242,33,00,269/-, became `Due' and `Payable' as on 30.09.2022 and the `Account' of the `Corporate Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 6 of 56 Debtor', was `Classified' as `Non Performing Asset' on 30.04.2022 and despite `Opportunity', the `Corporate Debtor', had failed to place any `Record', disclosing that there was `no Debt or Default', as `Claimed', by the `1st Respondent / Bank / Financial Creditor / Applicant', and `Admitted' the main `Petition', `appointed' the `Interim Resolution Professional Viz. Mr. Sai Ramesh Kanuparthi and `declared', `Moratorium', etc. Appellant's Submissions:
+	</p>
+	<p title="Fact" data-structure="Facts">
+		3. Assailing the `Validity', `Propriety' and `Legality' of the `impugned order' dated 15.11.2022, in CP(IB) No. 308 / 07 / HDB / 2022, passed by the `Adjudicating Authority', (`National Company Law Tribunal', Hyderabad Bench - II, Hyderabad), filed by the `1st Respondent / Applicant / Financial Creditor' (under Section 7 of the I &amp; B Code, 2016), the Learned Senior Counsel for the `Appellant' submits that the main CP (IB) No. 308 / 07 / HDB /2022, was filed on 17.10.2022 and the same was `Registered' on 18.10.2022 and the `Notice', was ordered on 26.10.2022, to the `Corporate Debtor', as per `Order' dated 21.10.2022, passed by the `Adjudicating Authority' and on 04.11.2022, the `Corporate Debtor', was called `absent', and since the `Corporate Debtor', was served, `Service' was held `sufficient', and set ex-parte and the matter was directed to be listed, `on 10.11.2022'. Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 7 of 56
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		4. It comes to be known that the said `Petition', came to be listed on 10.11.2022, before the `Adjudicating Authority', wherein, the matter was heard ex-parte and reserved for `Judgment'.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		5. In fact, exactly 14 days of the service of Notice and 20 days after the `issuing of Notice', the `Adjudicating Authority', had `Reserved' the matter for `Judgment Ex-parte'.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		6. According to the `Appellant', the `Corporate Debtor', projected `Two Interlocutory Applications', (a) IA No. 1339 of 2022, filed under Rule 49 (2) r/w Rule 11 of the NCLT Rules, 2016, seeking to set aside the `ex-parte order', dated 04.11.2022, passed by the `Adjudicating Authority' (b) IA No. 1338 of 2022 (filed under Section 60 (5) of the Insolvency and Bankruptcy Code, 2016, r/w. Rule 11 of NCLT Rules, 2016, seeking to recall the `Order' dated 10.11.2022.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		7. It is repsented on behalf of the `Appellant' that the `IA Nos. 1338 &amp; 1339 of 2022', were filed by the `Corporate Debtor', praying for `providing a fair opportunity' to the `Corporate Debtor', to file a Counter and to be given a reasonable opportunity', of `Hearing', prior to the `Initiation of Corporate Insolvency Resolution Process', based on the `Principles of Natural Justice'.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		8. The Learned Counsel for the Appellant submits that both the IA Nos. 1338 &amp; 1339 of 2022, were `Numbered' on 15.11.2022, and inspite Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 8 of 56 of `urgency', being expssed, the `Adjudicating Authority' (`NCLT', Hyderabad Bench-II, Hyderabad), had recused to take up the `Applications', and `observed', they will be listed in their own course and proceeded to `deliver' the `Final Order', in the main `Petition', which is impugned in the instant `Appeal'.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		9. The Learned Counsel for the Appellant, refers to Paragraph 8 of the `impugned order', to the following effect:
+	</p>
+	<p title="Petitioner's Argument">
+		8. ``We, therefore, in the light of the above ruling carefully examined whether the Corporate Debtor had made out any ground against admission of the psent application for initiation of the Corporate Insolvency Resolution Process (CIRP) against the `Corporate Debtor' and found none.'' and contends that `after taking note of the Paragraph 88 of the Hon'ble Supme Court's decision, in the matter of Vidarbha Industries Power Ltd. v. Axis Bank Ltd. [2022] 8 SCC 352, came to an untenable conclusion, because of the fact that the question of considering the `Corporate Debtor's objections does not even arise, as none could be placed on record, due to an `unwarranted haste' of the `Adjudicating Authority'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		10. The Learned Counsel for the Appellant points out that the `Proceedings', under Section 7 of the I &amp; B Code, 2016, are not to be `concluded', unless and until, the `respective parties', are provided with a `fair' and `reasonable' opportunity of hearing them. Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 9 of 56
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		11. In this regard, the Learned Counsel for the Appellant, adverts to Rule 37 of the NCLT Rules, 2016, which enjoins as under:
+	</p>
+	<p title="Precedent Analysis">
+		37. ``Notice to Opposite Party:
+	</p>
+	<p title="Precedent Analysis">
+		(1) The Tribunal shall issue notice to the respondent to show cause against the application or petition on a date of hearing to be specified in the Notice. Such notice in Form No. NCLT.5 shall be accompanied by a copy of the application with supporting documents.
+	</p>
+	<p title="Precedent Analysis">
+		(2) If the respondent does not appear on the date specified in the notice in Form No. NCLT.5, the Tribunal, after according reasonable opportunity to the respondent, shall forthwith proceed ex-parte to dispose of the application.'' and comes out with a `Plea', to ensure `Fair Adjudication of Dispute', between the `Parties', a `Reasonable Opportunity' of being `heard', is to be provided.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		12. It is the version of the Appellant that when a `Statute' specifies that a `particular thing', is to be performed in a `particular manner', it has to be done only in that `fashion', and further that in the psent case, the `procedure enunciated', under Rule 37 of NCLT Rules, 2016, was not followed, by the `Adjudicating Authority' / `Tribunal'.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		13. Advancing his argument, the Learned Counsel for the Appellant, relies on the Judgment of this `Tribunal' dated 14.07.2022 in Mr. Ashok Tiwari v. DBS Bank India &amp; Anr. (vide Comp. App (AT) (INS) No. 464 of 2022), wherein, at Paragraphs 9 and 12, it is observed as under:
+	</p>
+	<p title="Precedent Analysis">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 10 of 56
+	</p>
+	<p title="Precedent Analysis">
+		9. ``29th March, 2022, was the first date of hearing before the Adjudicating Authority and as per Rules, that is, National Company Law Tribunal Rules, 2016, when notice is issued in Form No.NCLT-5, by the Adjudicating Authority, the Corporate Debtor is to file a reply accompanied with an affidavit, along with copies of such documents on which it relies before the next date of hearing.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Rule 37 is as follows:
+	</p>
+	<p title="Analysis of the law">
+		"37. Notice to Opposite Party.- (1) The Tribunal shall issue notice to the respondent to show cause against the application or petition on a date of hearing to be specified in the Notice. Such notice in Form No. NCLT.5 shall be accompanied by a copy of the application with supporting documents.
+	</p>
+	<p title="Analysis of the law">
+		(2) If the respondent does not appear on the date specified in the notice in Form No. NCLT.5, the Tribunal, after according reasonable opportunity to the respondent, shall forthwith proceed ex-parte to dispose of the application.
+	</p>
+	<p title="Analysis of the law">
+		(3) If the respondent contests to the notice received under sub-rule (1), it may, either in person or through an authorised repsentative, file a reply accompanied with an affidavit and along with copies of such documents on which it relies, with an advance service to the petitioner or applicant, to the Registry before the date of hearing and such reply and copies of documents shall form part of the record."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		12. The procedure, which is to be adopted by the Tribunal has to be in consonance with the rules of natural justice and equity as required by the rules itself. Unless, it is held that due to non-filing of the reply before the date of hearing by the Corporate Debtor, the Adjudicating Authority is obliged to decide the application under Section 7, the Adjudicating Authority has ample jurisdiction to consider any request for reasonable time by a Corporate Debtor for filing a reply. The Tribunal is fully entitle to grant time for filing Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 11 of 56 a reply asked for by the Corporate Debtor on the first date of hearing. Rejecting the request of the Corporate Debtor on the very first day for grant of time to file a reply, cannot be said to be in consonance with the principles of natural justice. There can be no dispute that in appropriate case, if the Adjudicating Authority is satisfied that the Corporate Debtor is deliberately delaying the matter, the request for grant of any further time to file a reply can be refused. But psent is not a case where it can be said that Corporate Debtor was delaying the disposal of the case, since 29.03.2022 was the first date of hearing as indicated in the notice served on the Corporate Debtor on 07.03.2022.''
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		14. The Learned Counsel for the Appellant cites the Judgment of this `Tribunal', dated 20.05.2022, in Yogesh Goswami v. L &amp; T Finance Ltd.&amp; Anr. (vide Comp. App (AT) (INS) No. 313 of 2022, wherein, at Paragraphs 7 to 10, it is observed as under:
+	</p>
+	<p title="Precedent Analysis">
+		7. ``The psent is the case where the counsel appeared and made a request for filing 'Vakalatnama' and 'Reply'. Learned Adjudicating Authority has simply observed in paragraph 9 that despite notice was served, no one has appeared. We have no reasons to disbelieve the Affidavit filed by the Counsel in this Appeal, that he appeared and made a request to file the 'Vakalatnama' and 'Reply'. We are of the view that at least one opportunity ought to have been given to the Respondent to file his Reply. The Order dated 17.02.2022 being virtually Ex-Parte deserve to be set aside. The Corporate Debtor is allowed one week time from today to file its 'Reply' before the Learned Adjudicating Authority and the Financial Creditor may also file their Rejoinder within two weeks, thereafter.
+	</p>
+	<p title="Precedent Analysis">
+		8. Further, with regard to the amount deposited by the Financial Creditor in pursuance of the Para-16 of the impugned order Learned Adjudicating Authority shall pass appropriate Order in the pending proceedings. Learned Counsel for the Parties are at Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 12 of 56 liberty to make an Application for fixing a date after three weeks before the Learned Adjudicating Authority.
+	</p>
+	<p title="Precedent Analysis">
+		9. We make it clear that we have not expssed any opinion on the merits of this case.
+	</p>
+	<p title="Precedent Analysis">
+		10. Learned Counsel for the Appellant shall also make payment of a cost of Rs. 10,000/- to the Financial Creditor within a period of one week.'' and that the `Appeal', came to be `disposed of'.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		15. The Learned for the Appellant refers to the decision of the Hon'ble Supme Court of India in Jai Balaji Industries Limited v State Bank of India &amp; Ors., reported in (2019) 5 SCC at Page 410 at Spl. Pgs.: 412 and 413, at Paragraphs 7 to 11, it is observed as under:
+	</p>
+	<p title="Precedent Analysis">
+		7. ``While Respondent No. 1 has submitted that an advanced copy of the appeal was served on the appellant, the same cannot be treated as service of notice as stipulated under Rule 48 of the NCLAT Rules which, inter alia, provides:
+	</p>
+	<p title="Precedent Analysis">
+		"48. Issue of notice &minus; (1) Where notice of an appeal or petition or interlocutory application is issued by the Appellate Tribunal, copies of the same, the affidavit in support thereof and if so ordered by the Appellate Tribunal the copy of other documents filed therewith, if any, shall be served along with the notice on the other side."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		8. Rule 48 of the NCLAT Rules clearly stipulates service of notice on the other side, pursuant to issuance of notice by the NCLAT in the appeal, regardless of supply of advance copy of appeal paper book prior to the issuance of notice by NCLAT. Further, Rule 52 of the NCLAT Rules categorically states that the judicial section of the registry of the NCLAT shall record, in the "Notes of the Registry" column in the order-sheet, the details Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 13 of 56 regarding completion of service of notice on the respondents. It notes:
+	</p>
+	<p title="Analysis of the law">
+		"52. Entries regarding service of notice or process.&minus; The Judicial Section of the Registry shall record in the column in the order-sheet 'Notes of the Registry', the details regarding completion of service of notice on the respondents, such as date of issue of notice, date of service, date of return of notice, if unserved, steps taken for issuing fresh notice and date of completion of services etc."
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		9. However, it is pertinent to note that the material placed before us do not indicate that the aforementioned stipulation has been complied with. As per the rejoinder-affidavit filed on behalf of the appellant, the counsel for the appellant had undertaken a search of the register of process fee and summons, and the file concerned in the office of the NCLAT on 28-2-2019. However, no record of Respondent 1 having paid the process fee for issuance and service of notice to the appellant was found.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		10. Thus, in view of the above position, it is abundantly clear that no notice was served upon the appellant before the NCLAT as stipulated under the Rules, and the right of the appellant to be heard, audi alteram partem, has been violated [see: Ghaziabad Development Authority v. Machhla Devi5.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		11. In the facts and circumstances of the case, we are of the considered opinion that the instant appeal can be disposed of by setting aside the order of NCLAT and remanding the matter back to the NCLAT for fresh consideration. Accordingly, we set aside the impugned order dated 8-2-2019, passed by the NCLAT and remand the matter back to NCLAT with a direction to dispose of the matter as expeditiously as possible after affording an opportunity of hearing to the parties. The appellant and the respondents are also directed to approach the NCLAT on 13-3-2019 with a prayer for early listing of the matter. It is clarified that there is no necessity for the NCLAT to issue any fresh notice to the appellant herein.'' Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 14 of 56
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		16. The Learned Counsel for the Appellant points out that M/s. Gayatri Projects Limited, the Corporate Debtor, is the `Flagship Company', of the `Esteemed and well Diversified Gayatri Group', that has interest in `Infrastructure', `Power', `Hospitality' and `Real Estate' Industry. Furthermore, with a `Annual Turnover of Rs.3,463 Crores, Net Worth of Rs.1,329.63 Crores and Total Assets of Rs.5,864 Crores on a `Standalone basis', in the Financial Year 2019, it is one of `India's Leading Infrastructure Players'.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		17. The Learned Counsel for the Appellant brings it to the notice of this `Tribunal', that the `Corporate Debtor', is a going concern with `Arbitral Awards', in its favour, amounting to over Rs.850,00,00,000/-, which are at the execution stage and these aspects were not considered by the `Adjudicating Authority', at the time of passing the `impugned order' and mechanically `allowed' the `Application' (projected under Section 7 of the I &amp; B Code, 2016), by arriving at a conclusion that the `Corporate Debtor', will be unable to `repay' the `Debt'.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		18. The Learned Counsel for the Appellant submits that the `Corporate Insolvency and Resolution Process', Proceedings are `Proceedings in Rem' (as per decision of the Hon'ble Supme Court of India in Swiss Ribbons Pvt. Ltd. v. Union of India (2019) 4 SCC 17 (vide Paragraph 82). Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 15 of 56
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		19. The Learned Counsel for the Appellant points out that the `Adjudicating Authority', as per `Order' dated 21.10.2022, had granted two weeks' time to the `Appellant', to file its `Reply' to the Section 7 `Application' of the `Code', and further the `Notice, as per the `Respondents', only served on 26.10.2022 and as such the period to file `Reply would not come to an end, before 9 / 10.11.2022, therefore the `Adjudicating Authority' was required to adjourn the matter beyond 09.11.2022, rather than setting the `Appellant Ex-parte' on 04.01.2022. And as such, the `Order' of the `Adjudicating Authority', is clearly quite contrary, to the `First Order' of the `Tribunal', as well as 21.10.2022.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		20. Therefore, the continuation of `CIRP' proceedings is to be set aside, in view of the fact that `no reply', was filed, when that too, the time to `file Reply', had not expired and that the `Adjudicating Authority', had `admitted', the `Petition', in a `mechanical manner.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		21. The Learned Counsel for the Appellant advances an argument that as per Rule 37 (3) of the NCLT Rules 2016, only on receipt of the notice, issued under Rule 37 (1) and 34 (4) of the NCLT Rules, 2016, that the `Right' of the `Appellant', to `contest' the `Notice', arises.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		22. Moreover, `no Notice', was received, as per the requirement of the NCLT Rules, 2016, and that the `Appellant', was not required to enter an `appearance' or `file its Reply'.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 16 of 56
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		23. The Learned Counsel for the Appellant contends that the Section 7 `Application' of the Code, filed by the 1st Respondent / Bank was allowed in a total span of 25 days from the date of `pliminary hearing', i.e., on 21.10.2022 and this shows that the proceedings before the `Adjudicating Authority', were conducted in a haste manner.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		24. While summing up his arguments, the Learned Counsel for the Appellant prays for `allowing' of the instant `Appeal', to secure `Ends of Justice'.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Pleas of 1st Respondent / Bank:
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		25. The Learned Senior Counsel for the 1st Respondent / Bank submits that as on 30.09.2022, the `2nd Respondent' (`Borrower') and the `Appellant' (Guarantor'), are liable to pay a total sum of Rs.242,33,00,269/- to the `1st Respondent' (`Bank' / `Financial Creditor').
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		26. The Learned Counsel for the 1st Respondent points out that the I &amp; B Code, 2016, is a `special Law' and a `Consolidated / Composite Code', in itself and need not rely on other `Act' / `Rules', framed thereunder.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		27. It is repsented on behalf of the Learned Counsel for the 1st Respondent that the `Adjudicating Authority' / `NCLT', is enjoined to `hear the matters under I &amp; B Code, 2016' (vide Section 60 of the Code), and `need not follow the Rules made by the Central Government', under the `powers', granted in the Companies Act, 2013.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 17 of 56
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		28. According to the Learned Counsel for the `1st Respondent / Bank', that the `Central Government', as per Section 239 of the Code, has made Rules for the I &amp; B Code, under Insolvency and Bankruptcy (`Application to Adjudicating Authority') Rules, 2016, which is mandatory in character.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		29. The Learned Counsel for the 1st Respondent, projects an argument that `Section 238 of the I &amp; B Code, 2016', will pvail over any other `Law', for the time being in force.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		30. The Learned Counsel for the 1st Respondent / Bank submits that in a procedural provision, (Viz. Rule 37 of the `NCLT' Rules, 2016, the word `shall' may not make the same mandatory, if otherwise, no pjudice is caused. In this connection, the Learned Counsel for the 1st Respondent, cites the decision of the Hon'ble Supme Court of India, in P.T. Rajan v. T.P.M. Sahir &amp; Ors., reported in (2003) 8 SCC at Page 498, wherein at Paragraph 50, it is observed as under:
+	</p>
+	<p title="Precedent Analysis">
+		50. ``Furthermore, a provision in a statute which is procedural in nature, although employs the word "shall", may not be held to be mandatory, if thereby no pjudice is caused. (See Raza Buland Sugar Co. Ltd. v. Municipal Board, Rampur (1965) 1 SCR 970, State Bank of Patiala vs. S.K. Sharma (1996) 3 SCC 364, Venkataswamppa v. Special Dy. Commr. Revenue (1997) 9 SCC 128 and RaI Vimal Krishna and Ors. v. State of Bihar and Ors.'' Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 18 of 56
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		31. The Learned Counsel for the 1st Respondent / Bank contends that in all four `Notices' (Two Notices through `email' and other Two Notices, through `Courier / RPAD', were sent, and that the `Bank', had complied with all the provisions under the `I &amp; B Code' and `Insolvency and Bankruptcy (Application to Adjudicating Authority') Rules 2016.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		32. The Learned Counsel for the 1st Respondent, by adverting to Rule 4 of the Insolvency and Bankruptcy (Application to Adjudicating Authority') Rules, 2016, submits the `1st Respondent / Bank', had sent the `Notice', to the `Registered Office' of the `2nd Respondent', on 17.10.2022, and that the `1st Respondent / Bank', had sent the `Application', to the `2nd Respondent', through the official email of the `2nd Respondent', found in the `Company's Master Data'.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		33. On behalf of the `1st Respondent / Bank', it is pointed out that the main CP (IB) No. 308 / HDB / 2022, came before the `Adjudicating Authority' / `Tribunal', for the `First Hearing', on 21.10.2022, and that the `Adjudicating Authority', had directed the `1st Respondent / Bank', to issue `Private Notice' to the `2nd Respondent', through a `Registered Post' and `Email'.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		34. Pursuant to the `Orders' of the `Adjudicating Authority', the `1st Respondent', had issued the `Notice', through a `Registered Post' and `Email' on 25.10.2022 and that the `1st Respondent', had filed a `Memo', Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 19 of 56 attaching the `Proof of Delivery' of the `Notice', on the `2nd Respondent' (vide Pages 20 to 22 of Reply), filed by the `1st Respondent / Bank'.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		35. It transpires that the matter was again posted before the `Adjudicating Authority', on 04.11.2022, and in the said `Hearing', there was no `appearance', on behalf of the `2nd Respondent', and hence the `Adjudicating Authority', had set the `2nd Respondent' as `Ex-parte'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		36. In the case of `Petition', filed by the 1st Respondent / Bank, on 04.11.2022, because of the non-appearance of the `Corporate Debtor', on 04.11.2022, the `Adjudicating Authority', had set the `Corporate Debtor' as `Ex-parte', and posted the matter to 10.11.2022. Further that, the matter was not `heard' on the same day when the `Corporate Debtor', was set `Ex-parte', on 04.11.2022. Therefore, the Plea of the `1st Respondent / Bank' is that, an `ample opportunity', was provided to the `2 nd Respondent / Corporate Debtor', to repsent their case.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		37. When the matter came up for hearing, before the `Adjudicating Authority', on 10.11.2022, there was no `appearance' on behalf of the `2nd Respondent', and hence, the matter was `Reserved for Orders'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		38. Also that, on 10.11.2022, the following `Petitions' against the `2nd Respondent / Corporate Debtor', were listed before the `Adjudicating Authority', namely; (a) CP No. 32 / 2022 (filed by Bank of Baroda) along with IAs as item 108; (b) CP No. 26 / 2022 (filed by IL &amp; FS Financial Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 20 of 56 Services Limited) along with IAs as item 109; (c) CP No. 308 / 2022 (filed by SBI as item 111), and in reality, the 2nd Respondent in item 108 and 109, was repsented and it was contested. Besides this, the `2 nd Respondent' / `Corporate Debtor', was not repsented in other two matters, on the same day i.e., 10.11.2022. Later, on 15.11.2022, the `Adjudicating Authority', had `admitted' the `Application', filed by the `1st Respondent' / `Bank'.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		39. The Learned Counsel for the 1st Respondent points out that, as per Rule 38 (2) of the NCLT Rules, 2016, an `Adjudicating Authority', is empowered to direct the `Parties', to undertake `Private Notice', on the `Appellant', and in fact the Process, pscribed under Rule 38 (2)(c) of NCLT Rules, 2016, was followed by the `Adjudicating Authority' / `Tribunal'.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		40. Apart from the above, it is repsented by the 1st Respondent / Bank that the `Notice' sent by the `1st Respondent / Bank', on 25.10.2022 is in compliance of Rule 38 of the NCLT Rules, 2016, and in this connection, refers to Form No. NCLT.5, which specifically indicates, `Omit if not applicable', meaning that the `Parties', can `omit the irrelevant part', and `submit only the necessary' and therefore, even otherwise, there is no `violation' of Rule 38 of the NCLT Rules, 2016.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 21 of 56
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		41. The Learned Counsel for the 1st Respondent contends that the `Appellant' in one of their pleadings admit that they had received the `Notice' from the `1st Respondent / Bank', but the `Security Personnel', had misplaced the same, `somewhere' (vide Page 69 of the Appeal Paper Book of the `Appellant').
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		42. In substance, the plea of the 1st Respondent / Bank is that the Bank, had sent `Notices' through Email and Post, on two occasions, Viz. 17.10.2022 and 25.10.2022 and totally four Notices - two through Email, one through Courier and one through RPAD were sent.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		43. According to the 1st Respondent / Bank, the `Order' of the `Adjudicating Authority', is not to be displaced, just on a hyper technical objection, that `Notice' under the Format, given under Form No.5, was not given by the `Adjudicating Authority', even assuming without `admitting' that the `Adjudicating Authority', ought to have issued `Notice', under Form No.5.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		44. The Learned Counsel for the 1st Respondent takes a plea that the `Appellant' had purposefully concealed the receipt of Statutory Notice, under Rule 4 (3) of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016. Furthermore, the 1st Notice sent on 17.10.2022 was delivered on 18.10.2022 and that the `Appellant', had not Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 22 of 56 set forth any submission, in regard to the `Notice', issued by the `1st Respondent / Bank', on 17.10.2022.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		45. The Learned Counsel for the 1st Respondent, adverts to the decision of the Hon'ble Supme Court of India in the matter of Amar Singh v Union of India (2011) 7 SCC, Page 69, wherein, it is observed and held as under:
+	</p>
+	<p title="Precedent Analysis">
+		``This Court wants to make it clear that an action at law is not a game of chess. A litigant who comes to Court and invokes its writ jurisdiction must come with clean hands. He cannot pvaricate and take inconsistent positions.''
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		46. The Learned Counsel for the 1st Respondent points out that the 2nd Respondent as on 30.09.2022, is liable to pay a total sum of Rs.242,33,00,269/- and that the `2nd Respondent' / `Corporate Debtor', had `Admitted', the `Default' / `Debt', in the undermentioned documents:
+	</p>
+	<p title="Respondent's Argument">
+		(a) Balance Confirmation as on 31.03.2021 (vide Page 172 of Reply filed by the 1st Respondent).
+	</p>
+	<p title="Respondent's Argument">
+		(b) Reply to Section 13 (3-A) of SARFAESI Act, 2002 (vide Page 173 of Reply filed by the 1st Respondent - Para 9 in Page 176).
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		(c) Annual Report 2021 - 2022 (vide Page 199 of Reply of the 1st Respondent).
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		47. The Learned Counsel for the 1st Respondent / Bank, refers to Section 58 of the Indian Evidence Act, 1872, under the Caption `Facts admitted need not be proved': --
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 23 of 56 ``No fact need to be proved in any proceeding which the parties thereto or their agents agree to admit at the hearing, or which, before the hearing, they agree to admit by any writing under their hands, or which by any rule of pleading in force at the time they are deemed to have admitted by their pleadings: Provided that the Court may, in its discretion, require the facts admitted to be proved otherwise than by such admissions.'' and contends that, in as much as the `2nd Respondent / Corporate Debtor', had admitted their `Liability', `Debt' and `Default' in the aforementioned documents and as the same was admitted, the same does not require to be proved, the `Adjudicating Authority', is deemed to `admit' the `Application', filed by the `1st Respondent / Bank', and there would not be any reason to stop the `Corporate Insolvency Resolution Process' proceedings and remit the matter, back to the `Adjudicating Authority'.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		48. The Learned Counsel for the 1st Respondent / Bank points out that the exposure of the `1st Respondent / Bank', is about Rs.242 Crores, as on 30.09.2022, the exposure of `Bank of Baroda', is Rs.1287.08 Crores and the `Canara Bank', is Rs.1,520.74 Crores. As such, there cannot be any `plausible defence / ground / contention for this `Tribunal', to even consider taking back the `Order' of `Initiation' of `Corporate Insolvency Resolution Process', against the `2nd Respondent' and further that the `Corporate Insolvency Resolution Process', is not only beneficial for the `Creditors' at large, but also for the `2nd Respondent', to `revive'. Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 24 of 56
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		49. The Learned Counsel for the 1st Respondent / Bank points out the Judgment of the Hon'ble Supme Court of India dated 14.05.2015, in Dharampal Satyapal Limited v. Dy. Commissioner of Central Excise and Ors. (vide Civil Appeal No. 4458 - 4459 of 2015), reported in MANU/SC/0615/2015, wherein, it is observed as under:
+	</p>
+	<p title="Precedent Analysis">
+		``We are not concerned with these aspects in the psent case as the issue relates to giving of notice before taking action. While emphasizing that the principles of natural justice cannot be applied in straight-jacket formula, the aforesaid instances are given. We have highlighted the jurisprudential basis of adhering to the principles of natural justice which are grounded on the doctrine of procedural fairness, accuracy of outcome leading to general social goals, etc. Nevertheless, there may be situations wherein for some reason - perhaps because the evidence against the individual is thought to be utterly compelling - it is felt that a fair hearing 'would make no difference' - meaning that a hearing would not change the ultimate conclusion reached by the decision-maker- then no legal duty to supply a hearing arises. Such an approach was endorsed by Lord Wilberforce in Malloch v. Aberdeen Corporation (1971) 1 WLR 1578 at 1595, who said that a 'breach of procedure ... cannot give (rise to) a remedy in the courts, unless behind it there is something of substance which has been lost by the failure. The court dos not act in vain'. Relying on these comments, Brandon LJ opined in Cinnamond v. British Airports Authority [MANU/UKWA/0013/1980] : (1980) 1 WLR 582 and 593 that 'no one can complain of not being given an opportunity to make repsentations if such an opportunity would have availed him nothing'. In such situations, fair procedures appear to serve no purpose since 'right' result can be secured without according such treatment to the individual. In this behalf, we need to notice one other exception which has been carved out to the aforesaid principle by the Courts. Even if it is found by the Court that there is Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 25 of 56 a violation of principles of natural justice, the Courts have held that it may not be necessary to strike down the action and refer the matter back to the authorities to take fresh decision after complying with the procedural requirement in those cases where non-grant of hearing has not caused any pjudice to the person against whom the action is taken. Therefore, every violation of a facet of natural justice may not lead to the conclusion that order passed is always null and void. The validity of the order has to be decided on the touchstone of 'pjudice'. The ultimate test is always the same, viz., the test of pjudice or the test of fair hearing.''
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		50. The Learned Counsel for the 1st Respondent falls back upon the decision of the Hon'ble Supme Court of India in Escorts Farms Limited (pviously known as Escorts Farms (Ramgarh) Ltd. v. Commissioner Kumaon Division, Nainital, U.P. and Ors., reported in MANU/SC/0144/2004 : (2004) 4 SCC at Page 281, wherein, it is observed as under:
+	</p>
+	<p title="Precedent Analysis">
+		``Right of hearing to a necessary party is a valuable right. Denial of such right is serious breach of statutory procedure pscribed and violation of rules of natural justice. In these appeals pferred by the holder of lands and some other transferees, we have found that the terms of Government Grant did not permit transfers of land without permission of the State as grantor. Remand of cases of a group of transferees who were not heard, would, therefore, be of no legal consequence, more so, when on this legal question all affected parties have got full opportunity of hearing before the High Court and in this appeal before this Court. Rules of natural justice are to be followed for doing substantial justice and not for completing a mere ritual of hearing without possibility of any change in the decision of the case on merits. In view of the legal position explained by us above, we, therefore, refrain from Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 26 of 56 remanding these cases in exercise of our discretionary powers under Article 136 of the Constitution of India.'' Onus of Proving:
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		51. The `Burden' of `Proving', the `Service of Summons', is on the `Petitioner' / `1st Respondent' / `Bank' / `Financial Creditor'.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		52. In `Law', if a `registered Summons / Notice' is sent to a `Respondent / Defendant', at `his / her correct address', the `psumption of Service', arises, and an `Ex-parte Decree', will not be `set aside'.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		53. In a given case, where `Summons / Notice', correctly addressed sent by a `Registered Post with Acknowledgement', not received back, the same is `psumed to be Served'.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Hon'ble Supme Court's Decisions:
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		54. In the Judgment of the Hon'ble Supme Court of India dated 04.08.2005, in the matter of P.T. Thomas v. Thomas Job. (vide Civil Appeal No. 4677 of 2005), reported in (2005) 6 SCC 478, wherein, it is observed as under:
+	</p>
+	<p title="Precedent Analysis">
+		``..... Though the notice was correctly addressed and despite the intimation by the post office, the notice was not accepted by the Respondent and was returned unserved. In such circumstances, the psumption of law is that the notice has been served on the Respondent. The High Court, in our view, has also misinterpted Section 27 of the Post Office Act, 1998. The requirement of Section has been complied with in this case. The reasoning of the High Court on this issue is not correct and not in accordance with Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 27 of 56 factual position. In the notice issued, the Postman has made the endorsement. This psumption is correct in law. He had given notice and intimation. Nevertheless, the respondent did not receive the notice and it was returned unserved. Therefore, in our view, there is no obligation cast on the appellant to examine the Postman as assumed by the High Court. The psumption under Section 114 of the Evidence Act, 1872, operates apart from that under the Post Office Act, 1998.''
+	</p>
+	<p title="Precedent Analysis">
+		55. Also, this `Tribunal', points out the decision of the Hon'ble Supme Court of India in Salem Advocate Bar Association v. Union of India (vide Writ Petition (Civil) No. 496 of 2002 with Writ Petition (Civil) No. 570 of 2002), reported in AIR 2005 SC 3353, wherein, at Paragraph 29, it is observed as under:
+	</p>
+	<p title="Precedent Analysis">
+		29. `` .....While considering the submissions of learned counsel, it has to be borne in mind that problem in respect of service of summons has been one of the major causes of delay in the due progress of the case. It is common knowledge that the defendants have been avoiding to accept summons. There have been serious problems in process serving agencies in various courts. There can, thus, be no valid objection in giving opportunity to the plaintiff to serve the summons on the defendant or get it served through courier. There is, however, danger of false reports of service. It is required to be adequately guarded. The courts shall have to be very careful while dealing with a case where orders for deemed service are required to be made on the basis of endorsement of such service or refusal. The High Courts can make appropriate rules and regulations or issue practice directions to ensure that such provisions of service are not abused so as to obtain false endorsements. In this regard, the High Courts can consider making a provision for filing of affidavit setting out details of events at the time of refusal of service. For instance, it can be provided that the Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 28 of 56 affidavit of person effecting service shall state as to who all were psent at that time and also that the affidavit shall be in the language known to the deponent. It can also be provided that if affidavit or any endorsement as to service is found to be false, the deponent can be summarily tried and punished for perjury and the courier company can be black-listed. The guidelines as to the relevant details to be given can be issued by the High Courts. The High Courts, it is hoped, would issue as expeditiously as possible, requisite guidelines to the trial courts by framing appropriate rules, order, regulations or practice directions.'' Hon'ble High Court's Decisions:
+	</p>
+	<p title="Precedent Analysis">
+		56. At this juncture, this `Tribunal', relevantly points out that, on the `Addressee', a `Presumption of Service of Summons', in `Law', can be `raised', as per the `Order' of the Hon'ble Allahabad High Court dated 01.08.2007 (vide Civil Misc. Recall Appln. No. 110206 of 2007 in C.M.W.P. No. 6586 of 2006), in Hari Gopal v. Vijay Kumar &amp; Ors.
+	</p>
+	<p title="Precedent Analysis">
+		57. The `Burden', to `establish' the `Service of Summons', is on the `Plaintiff', as per decision AIR 1925 Cal. Page 801.
+	</p>
+	<p title="Precedent Analysis">
+		58. Indeed, the `Mode of Service', by a `Registered Post Acknowledgment Due', is an `additional', and not an `alternative Mode of Service', as per decision 2001 AIHC Page 1408, 1413 (MP).
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Task of an `Adjudicating Authority:
+	</p>
+	<p title="Precedent Analysis">
+		59. An `Adjudicating Authority', under the I &amp; B Code, 2016, is to provide a `reasonable opportunity', to a `Corporate Debtor', and as per Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 29 of 56 sub-section 4 (7) of the Code, is to `ascertain the factum of `Default', from the records of `Information Utility' or from the `evidence furnished', by the `Financial Creditor'.
+	</p>
+	<p title="Precedent Analysis">
+		60. Where the `Record' showed that an `Application' / `Petition' was pferred on the `Proforma', pscribed under the Rule 4 (2) of the `Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016', and if an `Adjudicating Authority', was satisfied, if the `Default', had taken place, there is no `illegality', in `admitting' the `Application', filed by the `Financial Creditor', under the I &amp; B Code, 2016.
+	</p>
+	<p title="Precedent Analysis">
+		61. An `Adjudicating Authority' (`National Company Law Tribunal') is not one, to ascertain the `Quantum Sum' or `Default' or to pass a `Decree', as to how much exact amount is actually / really due to the `Financial Creditor', as opined by this `Tribunal'. Further that, an `Adjudicating Authority', is not to decide a `Money Claim' or `Suit'.
+	</p>
+	<p title="Precedent Analysis">
+		62. An `Adjudicating Authority', is not a `Civil Court', to determine the `Violation of a Contract', between the `Parties', in the considered opinion of this `Tribunal'.
+	</p>
+	<p title="Precedent Analysis">
+		63. Really speaking, an `Application' / `Petition', under Section 7 of the Code, is to be considered by an `Adjudicating Authority', on its own `merits', taking into consideration of the `available materials on record'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 30 of 56
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		64. Where the post filing, the `Notice', as required under Rule 4 (3) of the `Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016', was sent to the `Corporate Debtor', and if the said `Corporate Debtor', does not `appear', before the `Adjudicating Authority', the `Petition', filed by a `Financial Creditor', can be determined `Ex-parte'. There is no `prohibition' in `Law', in this regard.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		65. An `Application', under Section 7 of the I &amp; B Code, 2016, is not to be `rejected', merely on `technical ground'.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		An Acknowledgement &amp; its Meaning:
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		66. Under the Limitation Act, 1963, an `Acknowledgement', ought to be in `writing' and `signed' by a `Person', making an `Acknowledgement'. In fact, the `exact sum' or `nature of Claim', need not be `Acknowledged'.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		67. The requirement of Section 18 and 19 of the Limitation Act, 1963, are quite `independent' and they are not `cumulative in character'.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		68. A mere `denial', will not take the `sheen off' the `document(s)' and the `Claim of the Creditor', remain `alive', within the meaning of Section 18 of the Limitation Act, 1963, as per decision in Deepika Housing Projects, reported in AIR 2007 Cal. 280.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 31 of 56 Distinction:
+	</p>
+	<p title="Court's Reasoning">
+		69. The difference between the `ingredients of Section 18 of the Limitation Act, 1963' and `Section 25 (3) of the Indian Contract Act, 1872', is that, in case of `Section 18', a `written acknowledgement of liability', must be made, prior to the `lapse of Limitation period', for a `Suit', and the `provision under Section 25 (3) of the Indian Contract Act, 1872', may be made, `after the expiry of period of Limitation', as per decision in State Bank of India v. Meghraj Contractor &amp; Ors., reported in AIR 2012 Chh. 149.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Balance Confirmation:
+	</p>
+	<p title="Precedent Analysis">
+		70. In `Law', a `Letter' of `Balance Confirmation', extends the `period of `Limitation'.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Discretion:
+	</p>
+	<p title="Precedent Analysis">
+		71. The Hon'ble Supme Court of India in the matter of Jai Singhani v. Union of India, AIR 1967 SC 1427 at 1434, had observed that `Discretion', is governed by `Rule', and it must not be an `Arbitrary', a `Vague' and a `Fanciful' one.
+	</p>
+	<p title="Precedent Analysis">
+		72. A `Judicial Discretion', is to be `regulated', as per `known Rules of Law', and not on `mere impulse' or `whim' of a `Person', for whom, it is given on the `hypothesis' that he is `circumspect'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 32 of 56
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		73. This `Tribunal', appositely points out that, where the `Legislature', concedes wide `Discretion', it also, `imposes', a `heavy responsibility', as per decision AIR 1933 Sind 49.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Assessment:
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		74. On behalf of the Appellant, it is projected before the `Tribunal' that the `Corporate Debtor', had pferred IA No. 1338 of 2022 and IA No. 1339 of 2022, before the `Adjudicating Authority' in CP (IB) No. 308 / 7 / HDB / 2022, for `Recall of the Order dated 10.11.2022' and for `setting aside the `Ex-parte Order dated 04.11.2022'.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		75. Before the `Adjudicating Authority', the `Petitioner / Corporate Debtor', in IA No. 1338 of 2022 (Filed against the `1st Respondent / State Bank of India', under Rule 49 (2) r/w. Rule 11 of NCLT Rules, 2016), had among other things at Paragraph 6, had averred the following:
+	</p>
+	<p title="Analysis of the law">
+		6. ``That the Corporate Debtor has inadvertently missed the notice issued by this Hon'ble Tribunal and the same was not done to evade the proceedings before this Hon'ble Tribunal. The Corporate Debtor is actively contesting matters before this Hon'ble Tribunal as well as other forums. It is submitted that the Corporate Debtor has been in talks with several investors and is expecting to receive loan sanctions of approximately 5000 crores and is in the final stage of securing necessary compliances from concerned statutory authorities. That the details of the matters contested by the Corporate Debtor before this Hon'ble Tribunal is as given below:
+	</p>
+	<p title="Analysis of the law">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 33 of 56 S.No. CP No. Parties Status 1 CP IB 317/7/HBD of 2021 SERI Vs Gayatri Projects Ltd Contesting 2 CP IB 32/7/HBD of 2022 Bank of Baroda Vs Gayatri Contesting Projects Ltd 3 CP IB 26/7/HBD of 2022 IL &amp; FS Vs Gayatri Project Ltd Contesting 4 CP IB 116/7/HBD of 2022 Axis Trustee Vs Gayatri Hi-Tech Contesting Hotels Ltd 5 CP IB 72/9/HBD of 2022 Katariya Vs Gayatri Projects Ltd Contesting 6 CP IB 176/9/HDB of 2022 Kunal Conchem Vs Gayatri Contesting Projects Ltd 7 IA 157 of 2022 AGRS Vs Gayatri Projects Contesting (Respondent No 6) Amravathi Bench and further at Paragraph 7, had mentioned that an `Adjudicating Authority', has to consider the grounds made out by the `Corporate Debtor', against an `admission', on its own merit, by referring to the decision of the Hon'ble Supme Court of India between Vidarbha Industries Power Limited v. Axis Bank Limited (2022) 8 SCC at Page
+	</p>
+	<p title="Analysis of the law">
+		352.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		76. In effect, in IA No. 1338 of 2022 in CP (IB) No. 308 / 7 / HDB / 2022, the `Petitioner' / `M/s.Gayatri Projects Limited' (`Corporate Debtor'), had prayed for a `chance being provided to it, to put forward its case and further that the `Corporate Debtor', was actively contesting matters and due to some inadvertence', the `Corporate Debtor', was unable to `appear before the `Tribunal' (`Adjudicating Authority'), in the captioned `Application'. Hence, the `Petitioner / Corporate Debtor', had Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 34 of 56 filed IA No. 1338 of 2022 in main CP (IB) No. 308 / 7 / HDB / 2022, seeking for `Recall of the Order dated 10.11.2022', and for `allowing', the said Application'.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		77. The `Petitioner / Corporate Debtor', in IA No. 1339 of 2022 in CP (IB) No. 308 / 7 / HDB / 2022, had sought a `Relief', for `setting aside the `Ex-parte Order dated 04.11.2022', passed by the `Adjudicating Authority'.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		78. According to the Appellant, the aforesaid IA No. 1338 of 2022 and IA No. 1339 of 2022, were numbered on 15.11.2022, by the `Adjudicating Authority', the `Adjudicating Authority', had not taken up the said `Applications', and stated that they would be listed, in their own course and proceeded to pass `Final Order', in the main CP (IB) No. 308 / 7 / HDB / 2022.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		79. On behalf of the Appellant, it is contended that a `Private Notice', issued by the `1st Respondent / Bank', is not in consonance with Rule 38 (1) of NCLT Rules, 2016, and further this would not amount to `sufficient compliance' of Rule 37 of NCLT Rules, 2016.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		80. The Learned Counsel for the Appellant contends that Rule 38 (1) of NCLT Rules, 2016, `any notice or process to be issued by the `Tribunal', may be served by post [or by courier] or at the e-mail address as provided in the petition or application or in the reply', and further that Rule 38 (2) Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 35 of 56 of the NCLT Rules, 2016, `(2) The notice or process if to be served physically may be served in any one of the following modes as may be directed by the Tribunal;- (a) by hand delivery through a process server or respective authorised repsentative; (b) by registered post or speed post with acknowledgment due; or (c) service by the party himself [Explanation. - For the purposes of sub-rules (1) and (2), the term ``courier'' means a person or agency which delivers the document and provides proof of its delivery.]', comes into existence, only in cases, where there is a direction from `Tribunal', to serve the `Notice' physically, comes into existence, in respect of cases, where there is a discretion from `Tribunal', to serve the `Notice' physically, and added further unless there is a specific direction from the `Tribunal', Rule 38 (2) of NCLT Rules, 2016, will have no `Application', whatsoever.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		81. It is brought to the notice of this `Tribunal', on the side of the `Appellant' that, only Rule 38 (2) (c) of NCLT Rules, 2016, relates to the `Service of Notice, by the `Party' himself', and that Rule 38 (2) (c), cannot be read in `isolation' and to be read `along with Rule 38 (3) of NCLT Rules, 2016. Further, a conjoint reading of Rule 38 (2) (c) and Rule 38 (3) of NCLT Rules, 2016, it is evident that a `Party', can serve a `Notice', by himself, provided the said `Notice', is a `Notice', issued by Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 36 of 56 the `Tribunal', in the relevant `Form', and not a `Private Notice', issued by the `Party' himself.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		82. In this connection, it is out of place for this `Tribunal', to make a relevant mention that, according to the `Appellant', the `1st Respondent / Bank', claims to have served the `Notice', on the `Appellant', on 25.10.2022, and that the said `Notice', was a `Private' one and not a `Notice', issued by the `Adjudicating Authority' (`Tribunal').
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		83. The Learned Counsel for the Appellant raises a plea that, Rule 38 (3) of the NCLT Rules, 2016, `allows' a `Respondent', to serve by himself, only a `Notice', issued by the `Adjudicating Authority' (`Tribunal'), under Form No. NCLT.5, and not a `Private Notice', issued by himself. As such, a `Private Notice', issued by a `Respondent', is not `fulfilling the requirement of Rule 37 and 38 of the NCLT Rules, 2016.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		84. While, coming out with a plea, on behalf of the Appellant, it is forcefully pointed out that a `Private Notice', issued by the `Party', cannot be equated with that of a `Notice', issued by the `Tribunal', and further that the `Adjudicating Authority' (`Tribunal'), had not issued any `Notice', in terms of Rule 37 of NCLT Rules, 2016. However, the `Adjudicating Authority' (`Tribunal'), on 21.10.2022, during `Hearing' of CP(IB) No. 308 / 7 / HDB / 2022, had observed the following:
+	</p>
+	<p title="Respondent's Argument">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 37 of 56 ``Learned Counsel for the Financial Creditor psent. We direct the Financial Creditor to serve notice to Corporate Debtor by Speed Post and e-mail within five days from today and to be filed proof of service before next hearing date. Meanwhile, the counter if any, by the Corporate Debtor to file within two weeks.
+	</p>
+	<p title="Respondent's Argument">
+		The matter is adjourned to 04.11.2022.''
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		85. Conversely, it is the contention of the 1 st Respondent / Bank that in compliance with the Rule 4 (3) of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016, the `1 st Respondent / Bank', had sent a copy of the `Application', to the Registered Office of the 2nd Respondent on 17.10.2022, and that, the `Application', was sent to the `2nd Respondent', through the `Official Email Address' of the `2nd Respondent', available in the `Company Master Data' (vide Pages 13 to 16 of the Reply, filed by the `1st Respondent / Bank' dated 28.11.2022, received in Diary No. 3082 dated 29.11.2022 by the `Registry' of the `Tribunal'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		86. It is the version of the 1st Respondent /Bank that the `Adjudicating Authority' on 21.01.2022 in main CP (IB) No. 308 / 7 / HDB / 2022, had directed the 1st Respondent / Bank to issue `Private Notice' to the `2nd Respondent', through Registered Post and E-mail and that in obedience to the said direction issued, the 1st Respondent' had issued `Notice', through `Registered Post' and `Email' on 25.10.2022 (vide Page 20 of the Reply, Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 38 of 56 filed by the `1st Respondent / Bank' - Appeal Paper Book of the Bank in Diary No. 3082 dated 28.11.2022), and to that effect, a `Memo', attaching `Proof of Delivery of Notice', on the `2nd Respondent', was filed before the `Adjudicating Authority'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		87. Not resting with the above, this `Tribunal', points out that the main CP (IB) No. 308 / 7 / HDB / 2022, was again posted before the `Adjudicating Authority', on 04.11.2022, and that the 2 nd Respondent / Corporate Debtor, because of its non-appearance was set `Ex-parte' and the matter was posted to 10.11.2022. Therefore, it is the stand of the `1 st Respondent / Bank', `enough opportunity', was provided to the `2nd Respondent / `Corporate Debtor', to repsent its case.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		88. The categorical stand of the `1st Respondent / Bank' is that the `Adjudicating Authority', as per the Rule 38 (2) of the NCLT Rules, 2016, is enjoined to direct the `Parties', to undertake `Private Notice' on the other side (`Appellant' herein) and in fact, the process adumbrated in Rule 38 (2) (c) of the NCLT Rules, 2016, was followed by the `Adjudicating Authority'.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		89. It is pertinently pointed out by this `Tribunal', that Section 239 of the I &amp; B Code, 2016, provides for `Power to make Rules', and that the `Central Government', in exercise of the powers conferred by clauses (c),
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(d), (e) and (f) of sub-section (1) of Section 239 read with sections 7, 8, 9 Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 39 of 56 and 10 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016), has made the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016, and Rule 4 (1) to (3) of the said Rules, reads as under:
+	</p>
+	<p title="Analysis of the law">
+		4. ``Application by financial creditor.-- (1) A financial creditor, either by itself or jointly, shall make an application for initiating the corporate insolvency resolution process against a corporate debtor under section 7 of the Code in Form 1, accompanied with documents and records required therein and as specified in the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(2) Where the applicant under sub-rule (1) is an assignee or transferee of a financial contract, the application shall be accompanied with a copy of the assignment or transfer agreement and other relevant documentation to demonstrate the assignment or transfer.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(3) The applicant shall dispatch forthwith, a copy of the application filed with the Adjudicating Authority, by registered post or speed post to the registered office of the corporate debtor.''
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		90. By virtue of Rule 4 (3) of the The Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016, the `1st Respondent / Bank', had sent the copy of the `Application', to the `Registered Office' of the `2nd Respondent' / `M/s. Gayatri Projects Ltd', on 17.10.2022, and further that the `1st Respondent' / `Bank', had sent the `Application', under Section 7 of the I &amp; B Code, to the `2nd Respondent / `M/s. Gayatri Projects Limited', Official email address, available in the `Company Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 40 of 56 Master Data', and therefore, the `1st Respondent's /Bank's dispatch of the copy of `Application', filed with the `Adjudicating Authority', to the `2 nd Respondent', through its Official E-mail Address, available in the Company Master Data, cannot be found fault with, because of the latent and patent fact that through `Electronic' means, as per Rule 4 (3) of the `The Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016, the same is in `Order' of `Sufficient Compliance' of the requirement of the `Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		91. In fact, through Courier `DTDC Expss Limited, Bengaluru - 560047, to the `2nd Respondent' / `M/s. Gayatri Projects Limited', Hyderabad City, the `Consignment', was sent on 17.10.2022, by the `Learned Counsel for the 1st Respondent / Bank', as seen from the `Delivery Receipt Noting', made in `Column ` Booking Branch / Franchisee Code Courier's Signature' (Page 14 of the Appeal Paper Book of the 1st Respondent / Bank dated 29.11.2022 vide Diary No. 3082).
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		92. In Page 16 (Continuation of Page 15, under the Head `Shipment Summary - Tracking History') of the 1st Respondent / Bank's Appeal Paper Book dated 29.11.2022 vide Diary No. 3082, at Serial No. 2, under the Caption `Consignee', the `2nd Respondent / M/s. Gayatri Projects' name is mentioned and in the Remarks Column, the Seal of the `2 nd Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 41 of 56 Respondent / M/s. Gayatri Projects Ltd., is seen with an `initial / signature' of a `Person' of the said `Company'.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		93. Added further, a photo / xerox copy of the India Post for the Consignment having been sent to the `2nd Respondent / M/s. Gayatri Projects', is seen from the Page 21 of the 1st Respondent / Bank's Appeal Paper Book dated 29.11.2022 in Diary No. 3082 and in Page 22, under the Head `Track Consignment', the current status, was mentioned as `Item Delivered', by the `India Post', and that apart, a `Memo', on behalf of the `1st Respondent /Bank', was filed through its Learned Counsel, before the `Adjudicating Authority', in CP (IB) No. 308 / 7 / HDB / 2022 dated 02.11.2022, which indicates clearly, that the `1 st Respondent / Bank', which sent the `Notice' through `Speed Post', was delivered to the `2nd Respondent / M/s. Gayatri Projects Ltd.' (`Corporate Debtor') vide Consignment No. EN422127021IN. The said `Memo', indicates that the copy of Email dated 25.10.2022, copy of `Notice' dated 25.10.2022, Postal Receipt dated 31.10.2022 and the Post Track Reports were mentioned in the `Memo' dated 02.11.2022, filed by the `1 st Respondent / Bank', through its Learned Counsel. Therefore, it cannot be said that the `2nd Respondent / Corporate Debtor', had not received the `Notice', from the `1st Respondent / Bank', through `Official Email Address' of the `Corporate Debtor' / `Company', available in the `Company Master Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 42 of 56 Data', and further that the `Contra Plea', taken on behalf of the `Appellant', is `not acceded to', by this `Tribunal'.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		94. Coming to the `Plea', taken on behalf of the `Appellant' that a cumulative reading of Rule 38 (2) (c) of the NCLT Rules, 2016, and Rule 38 (3) of the NCLT Rules, 2016, a `Party', can serve a `Notice', by himself, where a `Notice', was issued by the `Tribunal', in the relevant `Form', and not a `Private Notice', issued by the `Party, himself.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		95. It is pertinently pointed out that the `Notice', issued by a `Tribunal', to the `Opposite Party', speaks of `Form No. NCLT.5', which shall be accompanied by a `copy of the Application' with `supporting documents', and certainly, the `Notice', issued by the `Tribunal' (`Adjudicating Authority' - `National Company Law Tribunal'), cannot be kept on the same pedestal, in respect of a `Private Notice', issued by the `Party'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		96. In the instant case, it cannot be forgotten that the `Adjudicating Authority' (`Tribunal'), on 21.10.2022 at 2.30 P.M. (through Video Conferencing Hearing in CP (IB) / 308 / 7 / HDB / 2022), had directed the `1st Respondent' / `Bank' (`Financial Creditor'), to `serve Notice to the `2nd Respondent / M/s. Gayatri Projects Ltd.' (`Corporate Debtor'), by `Speed Post', and `Email', within 5 days from today, i.e., 21.10.2022' and the `Proof of Service', was directed to be filed, before the next hearing Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 43 of 56 date'. In the meanwhile, the Counter, if any, by the Corporate Debtor (`2nd Respondent' in `Appeal'), was directed to be filed and the aforesaid directions of the `Adjudicating Authority' (`Tribunal') is a `correct mode of Service', and the `Adjudicating Authority' / `Tribunal', as per Rule 34 of the NCLT Rules, 2016, can determine a `Procedure', in a certain / particular case, and `adopting' / `resorting' to such a `procedure', is a `recognised' and `sufficient' one, as opined by this `Tribunal', and in any event, the same is not an `irregularity' or `illegality' and further, it is not a `fatal' one, from the Prudent Homo-sapien's perspective.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		97. In this connection, this `Tribunal', worth `Recalls' and `Recollects', the decision of the Hon'ble Supme Court of India, in Subodh S. Salaskar vs Jayprakash M. Shah &amp; Anr., reported in (2008) 13 SCC 689, wherein at Paragraphs 21 &amp; 22, it is observed as under:
+	</p>
+	<p title="Precedent Analysis">
+		21. ``In terms of the provisions of the General Clauses Act, a notice must be deemed to have been served in the ordinary course subject to the fulfillment of the conditions laid down therein. Section 27 of the General Clauses Act reads as under:
+	</p>
+	<p title="Precedent Analysis">
+		"27. Meaning of service by post.--Where any Central Act or Regulation made after the commencement of this Act authorises or requires any document to be served by post, whether the expssion `serve' or either of the expssion `give' or `send' or any other expssion is used, then, unless a different intention appears, the service shall be deemed to be effected by properly addressing, p-paying and posting by registered post, a letter containing the document, and, unless the contrary is proved, to have been effected at the Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 44 of 56 time at which the letter would be delivered in the ordinary course of post.
+	</p>
+	<p title="Precedent Analysis">
+		Thirty days' time ordinarily must be held to be sufficient for service of notice. In fact when the service of notice is sought to be effected by Speed Post, ordinarily the service takes place within a few days. Even under Order V, Rule 9(5) of the Code of Civil Procedure, 1908, summons is psumed to be served if it does not come back within thirty days. In a situation of this nature, there was no occasion for the Court to hold that service of notice could not be effected within a period of thirty days.
+	</p>
+	<p title="Precedent Analysis">
+		22. Presumption of service, under the statute, would arise not only when it is sent by registered post in terms of Section 27 of the General Clauses Act but such a psumption may be raised also under Section 114 of the Evidence Act. Even when a notice is received back with an endorsement that the party has refused to accept, still then a psumption can be raised as regards the valid service of notice. Such a notice, as has been held by a Three-Judge Bench of this Court in C.C. Alavi Haji v. Palapetty Muhammed and Another [(2007) 6 SCC 555] should be construed liberally, stating :
+	</p>
+	<p title="Precedent Analysis">
+		"17. It is also to be borne in mind that the requirement of giving of notice is a clear departure from the rule of criminal law, where there is no stipulation of giving of a notice before filing a complaint. Any drawer who claims that he did not receive the notice sent by post, can, within 15 days of receipt of summons from the court in respect of the complaint under Section 138 of the Act, make payment of the cheque amount and submit to the court that he had made payment within 15 days of receipt of summons (by receiving a copy of complaint with the summons) and, therefore, the complaint is liable to be rejected. A person who does not pay within 15 days of receipt of the summons from the court along with the copy of the complaint under Section 138 of the Act, cannot obviously contend that there was no proper service of notice as required under Section 138, by ignoring Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 45 of 56 statutory psumption to the contrary under Section 27 of the GC Act and Section 114 of the Evidence Act. In our view, any other interptation of the proviso would defeat the very object of the legislation. As observed in Bhaskaran case if the "giving of notice" in the context of Clause (b) of the proviso was the same as the "receipt of notice" a trickster cheque drawer would get the pmium to avoid receiving the notice by adopting different strategies and escape from legal consequences of Section 138 of the Act."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Emphasis supplied]
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		98. When a question as to `Service of Notice', is raised, the `Court', is duty bound to `Record a Finding' thereon, as per decision of the Hon'ble Supme Court in the matter of Naresh Chandra Agarwal V. Bank of Baroda and others, AIR 2001 SC 1253.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		99. As a matter of fact, this `Tribunal', aptly points out the decision of the Hon'ble Supme Court of India in 2002 7 SCC at Page 531, wherein, it is observed that, `once it is proved that a `Summons', was sent by a `Registered Post', to a `correct and given address', the `Defendant's bald assertion', that was not `tendered', will not be `sufficient to discharge the statutory burden', caused on the `Defendant', and further that, the `Service', was found sufficient'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		100. In the instant case, the main CP (IB) / 308 / 7 / HDB / 2022, came up for `Hearing', on 04.11.2022, (after the first hearing date on 21.10.2022), before the `Adjudicating Authority', (`National Company Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 46 of 56 Law Tribunal', Hyderabad Bench - II, Hyderabad), there was `no appearance', on the side of the `2nd Respondent / M/s. Gayatri Projects Ltd.' (`Corporate Debtor'), and hence, the `2nd Respondent' / `Corporate Debtor', was set `Ex-parte'.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		101. In reality, the `Adjudicating Authority' (`NCLT', Hyderabad Bench
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		- II, Hyderabad) in CP (IB) / 308 / 7 / HDB / 2022 on 04.11.2022, had passed the following `Order':
+	</p>
+	<p title="Precedent Analysis">
+		``Mr. P. Ravicharan, Learned Counsel for Financial Creditor appeared via video conference.
+	</p>
+	<p title="Precedent Analysis">
+		Proof of service filed. As per the same, item delivered to the Corporate Debtor at the address mentioned on 26.10.2022. An email copy has also been filed wherein also Corporate Debtor has been served. Corporate Debtor called absent. Service held sufficient. Corporate Debtor set ex-parte.
+	</p>
+	<p title="Precedent Analysis">
+		For hearing, list the matter on 10.11.2022.''
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		102. Admittedly, the `Adjudicating Authority', had posted the matter on 10.1.2022, after setting the `2nd Respondent / Corporate Debtor', `Ex- parte', on 04.11.2022. When the main CP (IB) / 308 / 7 / HDB / 2022, came up for hearing on 10.11.2022, there was `no appearance', on the side of the `2nd Respondent / Corporate Debtor', and the matter was `Reserved for Orders', on 10.11.2022, `giving liberty to the `Financial Creditor' (`1st Respondent / Bank'), to file written submissions, not exceeding 5 pages within 3 days'.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 47 of 56
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		103. It transpires that, only on 15.11.2022, the `Adjudicating Authority' (`NCLT', Hyderabad Bench - II), passed an `Order of Admission' of the `Application', in CP (IB) / 308 / 7 / HDB / 2022 (filed by the `1 st Respondent' / `Bank' (`Financial Creditor).
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		104. In view of the above factual scenario, the `Contra Plea', taken on behalf of the `Appellant' that there was no opportunity / enough opportunity provided to the `2nd Respondent / Corporate Debtor', by the `Adjudicating Authority' (`Tribunal), has no legs to stand in the eye of `Law'.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		105. A mere running of the eye, in respect of `Rule 38 - Service of Notices and Processes', of the NCLT Rules, 2016, this `Tribunal', significantly / saliently points out that an `Adjudicating Authority' (`Tribunal'), as per Rule 38 (2) of the NCLT Rules, 2016, is enjoined to `direct the Parties / Litigants', to undertake `Private Notice' on the `Opposite Party' (in the instant case, on the `2nd Respondent / Corporate Debtor') and that the `Adjudicating Authority', has followed the `Mandate', pscribed under Rule 38 (2) (c) of the NCLT Rules, 2016, which cannot be found fault with, on any score.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		106. More importantly, the `Appellant', had tacitly admitted that they received the `Email' (which went to the Spam Folder), and the `Registered Post' from the `1st Respondent / Bank', was `misplaced by the Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 48 of 56 Security of the `2nd Respondent / Corporate Debtor' (vide Page 69 of the Appeal Paper Book), and therefore, it is crystalline and clear that the `Appellant' / `2nd Respondent' / `Corporate Debtor', was provided with an `opportunity', to `project the available defences in `Law', but it was not availed. As such, there is no room for complaint, in regard to the `Principles of Natural Justice', being `violated'.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		107. Before the `Adjudicating Authority', the `1st Respondent / Bank' in CP (IB) No. 308 / 7 / HDB / 2022 (filed under Section 7 of the Code, r/w Rule 4 of the IB (Application to Adjudicating Authority) Rules, 2016 in Form I), under Part IV (`Particulars of Financial Debt'), had `Claimed' a sum of Rs.242,33,00,269/- (Rupees Two Hundred Forty Two Crores Thirty Three Lakhs Two Hundred and Sixty Nine only), being the `Default Amount', as on 30.09.2022.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		108. Admittedly, the `1st Respondent / Bank', had given `numerous Term Loans' (including Short Term Loans, Equipment Loans, Demand Loans, ECB Loans and Working Capital Facilities) to the `2 nd Respondent / Corporate Debtor', from time to time and the `Account', was classified as `Non Performing Asset', on 30.04.2022.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		109. The Plea of the 1st Respondent /Bank, before this `Tribunal' is that the `1st Respondent / Bank', had issued the `Statutory Notice' (under Rule 4 (3) of the Insolvency and Bankruptcy (Application to Adjudicating Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 49 of 56 Authority) Rules, 2016, to the `2nd Respondent / Corporate Debtor' on 17.10.2022, and the same was delivered on 18.10.2022, which fact was not pointed out by the `Appellant'. No wonder, the `compliance of Statutory Rule requirement (made by the `Central Government'), to be followed by a `Stakeholder' / `Litigant', has the `Force of Law', in the considered opinion of this `Tribunal'.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		110. It is pointed out that the Insolvency and Bankruptcy Code, 2016 (31 of 2016), received the assent of the Present on 28.05.2016 and was published in the Gazette of India, Ext; Pt. II, S.1 dated 28-5-2016.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		111. As a matter of fact, the National Company Law Tribunal Rules, 2016 (made by the Central Government in exercise of powers, conferred by Section 469 of the Companies Act, 2013), came into force on the date of publication in the `Official Gazette' (vide G.S.R.716 (E) dated 21-7- 2016, published in the Gazette of India, Ext., Pt. II, S 3 (i), dated 22-7- 2016.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Adjudicating Authority:
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		112. Section 5 (1) of the I &amp; B Code, 2016, defines, an `Adjudicating Authority', for the purpose of this Part (Part II), meaning `National Company Law Tribunal', constituted under Section 408 of the Companies Act, 2013 (8 of 2013).
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 50 of 56 Appellate Tribunal:
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		113. Section 410 of the Companies Act, 2013, (Chapter XXVII), provides for the `Constitution of Appellate Tribunal' (`National Company Law Appellate Tribunal').
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Prologue of IBC:
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		114. A mere glance of the I &amp; B Code, 2016 (31 of 2016), proceeds to the following effect:
+	</p>
+	<p title="Precedent Analysis">
+		``An Act to consolidate and amend the laws relating to reorganisation and insolvency resolution of corporate persons, partnership firms and individuals in a time bound manner for maximisation of value of assets of such persons, to promote entrepneurship, availability of credit and balance the interests of all the stakeholders including alteration in the order of priority of payment of Government dues and to establish an Insolvency and Bankruptcy Board of India, and for matters connected therewith or incidental thereto.'' Overriding Effect of IBC:
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		115. Further that, Section 238 of the Insolvency and Bankruptcy Code, 2016, will govern the `Parties', in view of the fact that the `Code', is a `Special' one, overriding any other `Law', for the time being in force.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		116. Undoubtedly, the Central Government, in terms of Section 239, `Power to make Rules', has made `Rules for carrying out the provisions of the I &amp; B Code, 2016', Viz. `the Insolvency and Bankruptcy Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 51 of 56 (Application to Adjudicating Authority) Rules, 2016, which came into force from 01.12.2016. In fact, the `Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016, shall `apply' to the matters relating to the `Corporate Insolvency Resolution Process'.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		117. Although, the `NCLT Rules, 2016', is made by the Central Government, as per `powers', showered by Section 469 of the Companies Act, 2013 (18 of 2013), for matters to be dealt with under the Companies Act, 2013, the `Adjudicating Authority', as per Section 5 (1) of the I &amp; B Code, 2016, is the `National Company Law Tribunal', constituted under Section 408 of the Companies Act, 2013, there is no `embargo' in `Law', upon the `Adjudicating Authority' (`Tribunal'), to make use of the `NCLT Rules', 2016, wherever it is found necessary, at the time of dealing with the matters, pertaining to the `Corporate Insolvency Resolution Process', under the I &amp; B Code, 2016,
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		118. By virtue of the `Letter' dated 10.05.2021 on `Balance Confirmation', as on 31.03.2021, was signed by the `Managing Director' of the `2nd Respondent / Corporate Debtor', addressed to the `1st Respondent / Bank' (`State Bank of India'), in respect of the `Balances', relating to `Seven Account Numbers' of the `1 st Respondent / Bank' (State Bank of India, Industrial Finance Branch - 9103). Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 52 of 56
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		119. In the Reply of the `Authorised Signatory' of the `2nd Respondent' / `Corporate Debtor', dated 08.10.2022, addressed to the `1st Respondent' / `Bank' (vide Page 173 at Page 175 of the `1st Respondent / Bank's Appeal Paper Book dated 29.11.2022 - Diary No.3082'), it is mentioned at Paragraph 5 (e) and (f), as under:
+	</p>
+	<p title="Conclusion">
+		e. ``We have receivables of about Rs.374/- crores from our current projects which receivables got struck with various government departments and others. Due to COVID-19 pandemic situation, there are no regular operations being carried on and there is a delay in receivables from various state governments and NHAI, because of which we are facing severe cash flow mismatch and they are finding it difficult to pay crucial dues from March 2021. Despite such difficulties, we are making all efforts to regularize the NPA status.
+	</p>
+	<p title="Conclusion">
+		f. We further bring to your attention that in view of the current financial crunch being faced by the Company, the Company and its promoters have sought for investment from third parties for the purpose of raising funds in the Company which would enable the Company to repay any pending dues and keep it as a going concern. M/s. Mark AB Capital and M/s. AA Group of Companies for investment. The M/s. Mark AB Capital conducting due diligence and it is willing to invest in our Company to the tune of Rs.350 Crores. M/s. AA Group of Companies formally agreed to sanction a loan to the tune of Rs.5000 Crores which investment would enable the Company to clear pending dues, if any to lender banks and regularize our loan accounts. The Borrower is psently in final stage of securing necessary compliances from statutory authorities for bringing in such investment.'' Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 53 of 56
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		120. According to the `1st Respondent / Bank', in the `Annual Report 2021-2022' of the `2nd Respondent / Corporate Debtor', the `2nd Respondent / Corporate Debtor', had admitted the `Default' / `Debt', under Section 7 of the I &amp; B Code, 2016, a `Financial Creditor', before an `Adjudicating Authority', is to `establish the `Debt' and `Default', and in the instant case, the `2nd Respondent / Corporate Debtor', had not `displaced' the aspect that there was no `Debt' and `Default', as put forward by the `1st Respondent / Bank'.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		121. The Tribunals' (an `Adjudicating Authority' and the `Appellate Tribunal'), under I &amp; B Code, 2016, are not to, `discharge their functions', as `Courts' of Equity'.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		122. Any `Person', who is in `Law', entitled to `Stake a Claim' for `payment', has no `prohibition', under the I &amp; B Code, 2016, to `pfer' the same, by means of an `Application' / `Petition'. The pvalent of `Default', is a `Sine Qua Non', for `Admitting', an `Application' / `Petition', under the `I &amp; B Code', 2016, in respect of the `Insolvency Proceedings'.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		123. Be that as it may, even though on behalf of the Appellant, a `Plea' is taken before this `Tribunal' that the `2nd Respondent / Corporate Debtor / Flagship Company' of the well diversified `M/s. Gayatri Group', with an `Annual Turnover' of Rs.3463.00 Crores, etc., and that the `2 nd Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 54 of 56 Respondent / Corporate Debtor', is a going concern with `Arbitral Awards', in its favour, amounting to Rs.850 Crores only, which are at the execution stage, this `Tribunal', on going through the `impugned order' dated 15.11.2022, in CP (IB) No. 308 / 07 / HDB / 2022, (Filed under Section 7 of the Insolvency and Bankruptcy Code, 2016, r/w Rule 4 of the I &amp; B (Application to Adjudicating Authority) Rules, 2016, passed by the `Adjudicating Authority', (`National Company Law Tribunal', Hyderabad Bench - II, Hyderabad), comes to a consequent conclusion that in the instant case on hand, there is `overwhelming evidence' of `Debt Due', payable in `Fact' and in `Law', and `Default', the `Adjudicating Authority', had exercised its `subjective discretion' in a `sound, judicious and right thinking manner', and accordingly `Admitted' the CP (IB) No.308 / 7 / HDB / 2022, filed by the `1 st Respondent / Bank' (`Financial Creditor'), which requires `no interference', in the hands of this `Tribunal', sitting in `Appeal'. Consequently, the `Appeal' fails.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Result:
+	</p>
+	<p title="Conclusion">
+		In fine, the instant Comp. App (AT) (CH) (INS.) No. 414 of 2022 is dismissed. No costs. The connected pending IA No. 1009 of 2022 (`For Interim Stay') and other two IA No. 1010 of 2022 (`Seeking Exemption Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 55 of 56 to file Legible and Typed copies of Annexures') and IA No. 1011 of 2022 (`Seeking Exemption to file the `Certified Copies' of the `impugned order') are closed.
+	</p>
+	<p title="Conclusion">
+		[Justice M. Venugopal] Member (Judicial) [Naresh Salecha] Member (Technical) 02/01/2023 SR / TM Comp. App (AT) (CH) (INS.) No. 414 of 2022 Page 56 of 56
+	</p>
+</div>
+</html>

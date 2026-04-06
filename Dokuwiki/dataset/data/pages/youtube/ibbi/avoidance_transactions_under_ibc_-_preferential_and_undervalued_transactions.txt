@@ -1,0 +1,282 @@
+# Avoidance Transactions under IBC - Preferential and Undervalued Transactions
+![](https://img.youtube.com/vi/cl5C6s2PbZU/hqdefault.jpg)
+2 years ago (May 13, 2022) — 30:57
+[https://youtube.com/watch?v=cl5C6s2PbZU](https://youtube.com/watch?v=cl5C6s2PbZU)
+
+
+## Summary
+In this tele lecture, Ashish Makhija discusses avoidance transactions under the Insolvency and Bankruptcy Code (IBC), focusing on undervalued and preferential transactions in a Corporate Insolvency Resolution Process (CIRP). He explains the duties of the Insolvency Resolution Professional (IRP) or Resolution Professional (RP) in identifying and determining such transactions within specific time limits. Avoidance transactions, also known as vulnerable or look-back transactions, occur during a vulnerable period when the company is in financial strain. The genesis of IBC's avoidance transactions can be traced back to the Bankruptcy Law Reforms Committee and the Companies Act of 1956. Preferential transactions, covered under sections 43 and 45, are the responsibility of the RP or liquidator to file an application for avoidance. Undervalued transactions, from sections 45 to 48, can also be reported by creditors, members, or partners if the RP or liquidator fails to do so. The meaning of preferential transactions involves a transfer of property or interest for the benefit of a creditor or guarantor while anticipating financial or operational debt. The effect of such a transfer should put the creditor in a more beneficial position than they would have been in distribution of assets under section 53. Defenses against preferential transactions include ordinary course of business, subsequent new value, and contemporaneous exchange.
+
+## Foreign friends, very good afternoon to all of you.
+0:07
+Foreign friends, very good afternoon to all of you. Welcome to this tele lecture on avoidance transactions and here today we will be dealing with undervalued transactions and preferential transactions in a cirp matter under ibc. Friends, as we are all aware that insolvency and bankruptcy code has brought in a paradigm change now with that, it also brings lot of issues where the rps and the promoters they have to deal with it, including the committee of creditors. 
+
+3:08
+Now, in a cirp when an rp is appointed, definitely it is his responsibility to keep the company as a going concern now. When he keeps the company as a going concern now he has to make sure that all the transactions which have been done and he has to examine the transactions. in fact it is his responsibility. 
+
+3:29
+If we look at the duties of the irp or the rps, the law very clearly mentions that it is the duty of the irp or rpe to form an opinion about the avoidance transactions, then determine the avoidance transactions and then file an appropriate application as may be necessary, and this is to be done in a time limit manner, in a time bound manner. Now, what is the time limit? 
+
+
+## Avoidance Transactions - Time limit
+3:53
+The time limit is that the avoidance transactions have to be found out within 75 days. that means he has to make an opinion within 75 days and then by 115th day there must be a determination whether he determines or whether he appoints a forensic auditor or a transaction auditor. But it is the responsibility of the insolvency professional who is carrying out the cirp or he has been appointed as a liquidator. 
+
+4:19
+Both of them are responsible to determine that and then by 135th day then the application has to be filed. Appropriate application is to be filed, but before we deal with those applications and the cases and those provisions, let us look at the history of the avoidance transactions. So i'll be dealing with my ppt. So here the avoidance transactions. Now avoidance transactions can be called as vulnerable transactions. 
+
+4:46
+They can be called as look back transactions and in some square, some circles, we also call them as clawback transactions. Now, why do we call them as vulnerable transaction? Vulnerable transaction? Because these transactions have been done during vulnerable period. We call it as a twilight zone when the company is not doing well, it is in financial strain. 
+
+
+## Look Back Transactions & Related Events
+5:09
+Then in that case there are certain circumstances where the promoters or the management may enter into certain transactions, whether voluntary or involuntary. So in a vulnerable state, when the company is handling doing certain transactions, they are known as vulnerable transactions. 
+
+5:26
+We call them as look back transactions also because for a very simple reason: because the rp or the liquidator now he has to look back, like when we are riding a uc vehicle, there is a rear view mirror. now while we, when we drive, we look at in front, but definitely at times we also look at the back. Now the back is because we look at the rear view mirror. 
+
+5:49
+So here the rear view mirror will be known as the look back transactions. So there are transactions which have been incurred, which have been which have happened one year before or two years before, depending upon whether it is a related party transaction or not. Therefore, friends, this is known as look back transactions. Also now let us look at the other aspects. 
+
+
+## ibc reversal: Look back transactions and period prior to liquidation
+6:09
+The other aspects are that this genesis of ibc is from the blrc, which is known as bankruptcy law reforms committee. now here there are provisions to provide for its reversal, that if the rp or the liquidator is in a position to find out such transactions, then he has to make an application for the reversal and the assets will definitely be part of the liquidation. 
+
+6:34
+Now this concept of look back transactions and the period of the time is prior to cirp applications. So whether the company is under cirp or whether the company is under liquidation, friends, the time period of the look back it starts from the date of the insolvency commencement date. Now, if it is a related party transaction, the period will be two years prior to that. 
+
+6:56
+If it is a non related party transaction, it will be one year. so all transactions need to be scrutinized by the insolvency professional during that look back period and not only verify then he has to determine now if some benefit has been given to certain party, then of course those transactions need to be reversed on an application which is made to the adjudicating authority that is nclt. 
+
+
+## Companies Act 1956 & Companies Act 1956 - a new concept
+7:22
+Now if we look at the next aspect, which is very important, and that is talking about that whether this concept is a new concept, friends, this is not a new concept. Now this has a genesis, of course, from the blrc, but companies act 1956 already had a provision. If you look at the screen, we'll see that section 531 of companies act 1956 talked about fraudulent preference. 
+
+7:48
+Similarly, we had section 531a which talked about voluntary preference, and both these transactions could be set aside by the high court or later on of course, under companies act 2013 by the nclt. Similarly, if you look at the last part of the slide which you are looking at, companies act 2013 also has two sections, section 328 and section 329, and they talk about fraudulent preference and transactions not in good faith. 
+
+8:14
+So therefore, under ibc friends, these are not new transactions, but these are transactions which have genesis, which are coming from companies, particularly when the companies are in the winding up. Now, if we go to the next part of the slides now we will see. This is an overview. We all know that cirps are covered under part 2. Now preferential transactions. 
+
+
+## Undervalued transactions are dependent on section 49
+8:37
+There are two sections, section 43 and 44. undervalued transactions are from 45 to 48. Then we have transactions defrauding creditors for section 49, which is also dependent upon the under value transaction it's not an independent section, so to say. And then we have extortionate credit transactions, section 50 and 51, and of course we have section 66, which talks about the fraudulent transactions. 
+
+9:01
+Of course, in this session I will be covering the preferential transactions under value transactions and the transactions defrauding creditors which are dependent upon the undervalued transaction. So now, first of all, let us understand what is the who is responsible for these avoidance transactions, so as to find out so the duty of the rp or the liquidator. 
+
+9:24
+If we look at preferential transaction, section 43 or section 45, it clearly says that the application is to be made either by the rp or by the liquidator. So resolution professional has to file an application for avoidance of transactions in accordance with section 25,2, and then liquidator is also responsible under section 35,3 to investigate the affairs of the corporate data to determine avoidance transactions. 
+
+
+## cirp is the time limit for rp to file application
+9:51
+This is what I was mentioning in the beginning, that whether it is under cirp, these are the time limits. The rp has to make an opinion about the avoidance transaction. that means the existence. 
+
+10:04
+It's only a prima facie opinion within 75th day, because everything is time bound and then determination is to be done by 115th day and then the onus is on the rp to file an application by 135th day, because we all know that cirp needs to be completed by 180th day. So this is all time bound. Friends and rp's are required to do this. They are, they are under the obligation to do that. 
+
+10:31
+Then one more aspect, as I mentioned that there is a duty of the rp or the liquidator to file the preference rather preferential transactions or for avoidance of the under value transaction. Now, friends, one more aspect. under section 47, supposing the liquidator or the rp does not find out such transaction does not file this application. That means he misses this kind of a transaction. Then what happens then? 
+
+
+## Undervalued Transactions: What is the meaning of the preferential transactions?
+11:00
+There is a section, which is a section 47, which clearly talks about that. In case the rp or the liquidator fails to report the undervalued transaction, it is only related to undervalued then the adjudicating authority is directed to advise the board to initiate discipline proceedings. Now the discipline proceedings can also be initiated if the rp or the liquidator fails to file or report such undervalued transactions. 
+
+11:28
+So therefore, I would say it is the duty of the rps or the liquidator, and they must perform this duty with the complete sincerity right. so. Therefore, if we move on to the next item, talking about the preferential transactions now, who can file the application now? This is also important for preferential transactions which are covered under section 43 resolution professional or liquidator, so this is their responsibility. 
+
+11:57
+Similarly, under undervalued, of course, the primary responsibility is that of the resolution professional or liquidator, but the undervalued transaction section also provides that a creditor member or a partner of a cd under section 47 can also do it if the resolution professional liquidator fails to do that, and I mentioned the consequences of not filing that. Now. If we look at the preferential transactions, let's understand what is the meaning of preferential transactions. Now. 
+
+
+## Preferential Transaction: What is the meaning of the preference?
+12:26
+Preferential transaction is a technical word in a simpler word. I can define that, but let us look at what are the parts of section 43 now. Section 43 has got important concepts which need to be understood. Number one: what is the meaning of the preference and how it is going to be determined? Section talks about that. Second, these transactions must happen during the relevant period. So how the relevant period is to be calculated. 
+
+12:54
+That is also mentioned in section 43. Similarly, whether the person that the transaction which has been done, whether it is a related party or not, of course, that is also to be seen. That is very important for this section. And then good faith exception. Of course, all transactions will not be covered, so there are certain good faith exceptions which are also covered. 
+
+13:14
+So this section also says that not all transactions will be covered, but certain transactions will be excluded from the purview of preferential transaction, and then of course it talks about the application to be made and what orders can be passed. So section 43 gives us the conspectus of the preferential transactions. What is covered? What is not covered? What is what is the relevant period, whether the transaction is a related party or not? 
+
+
+## What is the relevant period for that?
+13:40
+So what is the relevant period for that? But the application is to be made under section 43. The orders which the adjudicating authority can pass are mentioned in section 44. So I think anyone who wants to know about preferential transaction, he or she needs to study section 43 as well as section 44. so now coming to the preferential transaction sections, which is again a very important section, which we need to understand that what exactly is meant by the preference? 
+
+14:11
+But before we do that, let us look at this. Is the opinion to be formed whether a preference has been given in a transaction by a cd or not? So first we need to understand the meaning of the word preference. Then it must be done during the relevant time or the relevant period, or it should, whether we have to understand whether it is a related party or it is to a non related party transaction. 
+
+14:36
+Now what is the meaning of the preference? The meaning of the preference or the deemed preference, friends, is given in section 43 itself and it says trans. if you look at the presentation before you, the first item clearly mentions transfer of property or interest in the property of the corporate debtor. 
+
+
+## 
+14:55
+Now this is extremely important, so there must be a transfer number two, it must be for the benefit of a creditor or surety or a guarantor. So it must accrue to the benefit of a creditor or a surety or a guarantor. This also needs to be satisfied. The third condition, which is also extremely important, is and some people do miss this it must be on account of anticipated financial or operational debt or other liabilities. 
+
+15:23
+So this is very important that there must exist an antecedent financial or operational debt and a transfer of property has taken place personal to the anticipated financial debt, which is extremely important. so if these conditions are satisfied, definitely the transaction will fall within the domain of preference. Preferential transaction. 
+
+15:47
+Now not only that, if we looked at look at the other conditions that the property that the property must be the anticipated financial debt should be owed by the corporate debtor. Now that's also important. 
+
+
+## 
+15:59
+And then the last condition which cannot be missed is that the effect of such transfer is putting such creditor or surety or guarantor in a beneficial position than it would have been in distribution of assets under section 53. So, friends, in a simpler word, I can explain that preferential here means that preferring one creditor over the other creditor. 
+
+16:22
+Now I can give you a small example that supposing an amount was due to x 20 lakh rupees and amount was due to why, say, 10 lakh rupees, and both are operational creditors who have supplied goods to the company. Now, if the corporate debtor prefers x and they make the payment of 20 lakhs but they don't pay any amount to why? Now if the company comes into cirp or ultimately if it goes to liquidation? 
+
+16:50
+We are all aware when if the company comes into liquidation, then the money is distributed in accordance with section 53, which we call it as waterfall mechanism. so both the operational creditors will fall into the same category and they will receive the money, if available, in proportion to their amount, which is owed to the owed by the company. 
+
+
+## 
+17:08
+Now here, in case, if the x has been preferred and the payment has been made over y, then of course it will be considered as a preferential transaction. So this is extremely important, friend. So we need to really understand what are the elements. Of course, when we speak about transfer, the definition of transfer is given in section 3, subsection 34. I don't have to read that it's a very detailed definition. 
+
+17:31
+But the another important definition which has been given in the ibc is section 335, which talks about transfer of property. so here the transfer of property means transfer of any property and includes the transfer of any property and creation of any charge upon such property. So either it is a transfer of the property or transfer of any interest in the property. Now the benefit of a creditor. 
+
+17:55
+I can give few examples: creditor who receives a check or payment from the debtor against outstanding invoice in preference to the other creditors. Goods are returned by the debtor to the creditor because he is not able to consume it and he returns that. But obviously this has been given a preference and lastly is an obligation of the creditor is reduced by the debtor. So these are certain examples which can be given now. 
+
+
+## 
+18:22
+One of the important aspects which we saw was anticipated. now what is the meaning of anticipated financial debt? I think you can see it on your screen: payment or transfer made on a pre existing debt. Now this is one of the conditions pre existing debt or obligation, as opposed to cash on delivery or cash in advance payment. 
+
+18:41
+Now, if transfer is made after the debt or obligation comes into existence, then the transfer is deemed to be made for on an account of anticipated. So this is extremely important that there must exist anticipated financial debt. Now the creditor receives more as contemplated to under liquidation. 
+
+19:02
+This is also to be compared, as I just explained, under section 53, if the company comes into liquidation, then the creditors get their money in accordance with the priority as determined in section 53. of course, secured creditors have the top most priority after the cirp cost and the liquidation cost, but this is very important. 
+
+
+## 
+19:23
+The comparison is to be made, you see, in accordance with section 53. So if under section 53 I was supposed to get only one lakh rupees but I get 10 lakh rupees, that means there is a preference to me. So this is a very important element which cannot be missed in these particular circumstances. Now, friends, this is one part. Is this now what are the defenses? 
+
+19:47
+It is not that every transaction of this nature will be considered as a preferential transaction. Now, at the end of the day, corporate data is doing business and the supplier who has supplied the materials is also doing business. so if it is done in the ordinary course of the business of both the creditor as well as the debtor corporate debtor, then in that case this transaction will be outside the purview of a preference. 
+
+20:14
+Similarly, if this transaction creates a subsequent new value, so this is known as subsequent new value defense and then there could be a contemporaneous exchange defense. So these are the three defenses or exceptions which are allowed now. Ordinary course of business is definitely a subjective test. The controlling factor will be whether the transactions between the data and the creditor both before and during the relevant period were constant. 
+
+
+## 
+20:40
+No, it is not should not be an extraordinary transaction. so transactions may be considered ordinary for the purpose of ordinary course of business defense if they were consistent with the course of dealing between the party. 
+
+20:52
+So if I'm paying a creditor, say within 30 days now, if I make the payment, say, on 31st day, I think it's an ordinary course of business, then it cannot be treated as a that it is outside the ordinary course of business. 
+
+21:06
+So the courts generally consider now what is the criteria which the court considers the what are the factors rather which the court considers to determine whether a transaction is an ordinary course or not, a prior course of dealing between the parties, amount of the payments, timing of the payments and lastly, circumstances surrounding the payment. so circumstances will vary from case to case, and these are the factors which are which. 
+
+
+## 
+21:34
+Additionally, these are the two more factors which are considered. That means if there are first time transactions now, first time transactions will be generally considered as ordinary codes, and terms and conditions of course need to be examined. So payments which are made in accordance with the terms are considered as ordinary course of business. But if you're paying out of the ordinary, then of course it will not be considered at this. 
+
+21:55
+Now, what are the steps which are to prove now? First is that there has to be a preparation of the payment history, so to determine whether it's an ordinary course of transaction or not ordinary course of business transaction or not. A payment history is required. 
+
+22:09
+Then we will compare the days which are outstanding prior to the preference periods to the days outstanding during the preference periods, and if those average days are in excess or lower, then of course it will be seen whether they are consistent with the normal payments or not. Now these are the few factors which may go against proving the ordinary. That means reduced terms during the preference period. 
+
+
+## 
+22:32
+So normally you pay within 30 days, but if you pay within 15 days, then it will not be treated as an ordinary course of business. Change in the mode of payment could also be considered, as that it is not an ordinary course of business collection action right, so threats to cut off the supplies or the shipments decision to enforce the credit limit. 
+
+22:50
+So if the threats are accompanied, then of course under a question or under a threat. If the payment is made, then it will be considered as the preferential transaction. So increased number of invoices which have been paid during or shortly before the commencement of the preference periods, because there could be an arm twisting also, or the promoters may do it voluntarily. So here the intention is not relevant. 
+
+23:13
+Now the second aspect is that the transaction will be outside the purview preference if it creates a subsequent new value. Now what do you mean by new value? New value definitely means new money, or money or money is worth in goods, services or new credit. So this is extremely important. so if it is creating a new value, like supposing a loan is given for a purchase of new machinery. 
+
+
+## 
+23:37
+So now the company has got loan against the machinery and the machinery was bought. So it has created a new value. So it is not the old value which has been given against the previous debt. So it is a new debt and a new transaction, or the new goods have come into the company. So code allows the creditor to offset against a preferential transfer which creates security interest in the property. 
+
+24:00
+So this is the this is also very important that when a security interest is also created, it is also treated as a transfer of property. But if it creates a new value, then it is outside the purview of preferential transaction. so now what is the relevant period? As I mentioned in the beginning, there is a relevant period, so related party, it is two years preceding the insolvency commencement date. 
+
+24:22
+For non related party, the period has been defined to be one year preceding the insolvency commencement date. Friends, this is a very small case study. Here one company obtained an unsecured loan, working capital loan. So please understand it was a working capital loan for rupees 50 lakhs and no security was given on a particular date. That is 15th july 2019. As an example. 
+
+
+## 
+24:46
+Now the person who gave the lender who gave the loan, they realized the company is difficult, is in difficulty, so he must obtain some security interest. So the security interest is created. Said two days later certain machinery is charged. now the loan is given for working capital, but the machinery is charged as a security interest and the cirp commences, say, almost 11 months later. 
+
+25:08
+Now whether this transaction is to be considered as a preferential transaction or not. Now there are certain steps which needs to be seen. Now, what are the transactions? Which are the elements which have to be seen? Does this transaction fall within the relevant time? The answer is yes, because it was within one year before and because it was a non related party. 
+
+25:28
+Assuming that is there a transfer of property or interest for the benefit of creditor? The answer is yes. Is there anticipated financial or operational debt? Well, of course, there was a loan which was given working capital, so security interest was given against that. so there is an anticipated financial or operational debt. Was the transfer foreign account of the antecedent debt to the creditor? The answer is yes. 
+
+
+## 
+25:50
+Has that transfer put the creditor in a beneficial position? Definitely yes, because the security interest was created and was it registered with the iu within 30 days? This is also to be seen, of course. Let us let us presume that it was registered with the iu now, but we have to see whether this is an ordinary course of business or financial affairs or not. That will depend upon the facts and circumstances of each case. 
+
+26:13
+Then security interest in the property secures a new value. Well, it was given for a working capital. So in working capital some debtors or stocks must have been bought. was it given at the time or after the signing of the security agreement? Answer again is yes. Was the loan used by the cd to acquire such property here? Now that condition is not satisfied. 
+
+26:35
+So having not satisfied this condition, so I would say that this would be covered as a preferential transaction. So all the conditions friends are required to be satisfied to treat it as a preferential transaction. So this is extremely important. All of us have to see all these things. So I have just given a small, you can say chart where the answers are yes to most of the questions. 
+
+
+## 
+26:58
+And the last is whether the loan was used by the cd to acquire such property. The answer is no. So therefore this will be considered as a preferential transactions. So what orders can be passed? well the adjudicating authority. The orders are very simple: the property which has gone it can come back if the property has been sold, so money can come back. 
+
+27:20
+If somebody has obtained the benefit, that benefit can also come back or if the security interest has been given, that can be directed to be released or discharged. Now if we look at the undervalued transaction. So let me also devote certain time to undervalued transactions. So undervalued transactions are slightly different from preferential transactions. Under value transactions clearly mean that okay, let's look at this. Rp or liquidator must examine the transactions. 
+
+27:50
+Obviously these transactions must be during relevant period and to determine whether they are undervalued or not. of course there is a check application is to be made, then those transactions can be declared as void or and the transactions can also be reversed. So now what is the meaning of undervalued? 
+
+
+## 
+28:07
+The simple meaning of the word undervalued is that if a transaction or a property is given at a lower value than what it can fetch in the market, so if it is a gift, so obviously it can be considered as undervalued. 
+
+28:19
+Transfer of a property of a cd to consideration significantly lower than the value of consideration provided by the cd, and it is not in the ordinary course of business of the cd, then adjudicating authority may. now the word is may because there is a judgment of nclit also, where a challenge was made that the nclt or adjudicating authority came to a conclusion without appointing an expert. 
+
+28:43
+So nclat, the applet authority, has held that it is not mandatory in each case to determine the undervalued transaction that a expert or independent expert has to be appointed. It is the discretion of the adjudicating authority because of the presence of the word may in that particular thing. So this is also needs to be looked into. 
+
+
+## 
+29:03
+Now, if we look at the related party and non related party, the relevant period, the relevant period, friends is quite similar: two years in case of related parties and in case of non related parties, transactions made one year prior to the insolvency commencement date. now what are the orders which can be passed in case of undervalued transactions? 
+
+29:24
+Well, of course adjudicating authority can say wasting of the property back to the cd, release of the security interest, payment of benefit received to the rp or the liquidator, or payment of the consideration as determined by the independent expert. So these are the very important aspects. So now the right to apply is with the creditor, member or partner of cd. 
+
+29:47
+Now that's also very important and this has to be done and as I already mentioned, that under section 47, if the liquidator or the rp fails to do it, then it needs to be. It's a serious issue and the matter can be referred to the discipline committee. And then the third is transaction defrauding creditors. if it's a undervalued transaction first, then transaction defrauding creditors can also be brought back to the company. 
+
+
+## 
+30:13
+They can be set aside. So, friends, it is the duty of the rp and liquidator to look at both these transactions, preferential as well under value transactions. Now. If they don't do, it's a serious consequences. It is mandatory for the rp and the liquidator to do that, and I think the promoters should also understand the consequences of this. 
+
+30:31
+So if they do these kind of transactions so then they are going to be in trouble because those transactions they can be directed to bring back that money to the corporate editor. So, friends, thank you so much for hearing patiently, and this was all about preferential transactions and undervalued transactions. so I must thank ibbi for inviting me for this particular lecture. thank you so much. 
+
+
+

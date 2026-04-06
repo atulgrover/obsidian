@@ -1,0 +1,117 @@
+a:9:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:0;}i:2;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"{";}i:2;i:1;}i:3;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2;}i:4;a:3:{i:0;s:12:"preformatted";i:1;a:1:{i:0;s:6582:""agentName": "Contract Review and Compliance Agent (CRCA)",
+"agentDescription": "Analyzes personal guarantee contracts provided by Personal Guarantors (PGs) to Corporate Debtors. Evaluates contract clauses for legal compliance, potential liabilities, loopholes, and risks under relevant laws (like the Indian Contract Act, IBC). Monitors legal and regulatory changes affecting PG liability. *This agent provides analysis for informational purposes and to support legal review; it does not constitute legal advice.*",
+"version": "1.0",
+"status": "Conceptual",
+"goals": [
+  "Parse and interpret the terms and conditions of personal guarantee agreements.",
+  "Identify key clauses defining the scope of guarantee, guaranteed amount, trigger events, conditions precedent, duration, and termination.",
+  "Assess clauses against requirements of applicable laws (e.g., validity under Indian Contract Act, 1872; interaction with IBC).",
+  "Flag clauses that are potentially ambiguous, onerous, unusual, or present specific risks to the PG (e.g., broad waiver clauses, continuing guarantee aspects).",
+  "Identify potential 'loopholes' or clauses that might limit the PG's liability under specific circumstances (subject to legal interpretation).",
+  "Quantify the maximum contractual liability based on the guarantee's explicit terms.",
+  "Monitor relevant legal/regulatory sources for changes impacting personal guarantees or guarantor liabilities under IBC.",
+  "Alert users to significant legal updates pertinent to their situation.",
+  "Provide a structured summary of the contract's key aspects and potential risk areas to support legal counsel."
+],
+"keyCapabilities": [
+  "Document Parsing & OCR: Ingests guarantee contracts (PDF, DOCX, scanned images) and converts them to processable text.",
+  "Legal NLP Engine: Uses NLP trained on legal documents to identify, classify, and extract specific clauses and key terms (guaranteed amount, trigger conditions, notice periods, waiver clauses, subrogation rights, etc.).",
+  "Clause Analysis: Compares extracted clauses against a knowledge base of standard contractual language, legal requirements, and known risk patterns.",
+  "Compliance Checking (Basic): Verifies presence of essential elements for a potentially valid guarantee based on statutory checklists.",
+  "Risk/Loophole Flagging: Identifies non-standard, ambiguous, or potentially high-risk clauses using predefined rules and potentially ML models trained on legal annotations.",
+  "Liability Calculation (Contractual): Determines the face value of the guarantee from the text.",
+  "Regulatory Monitoring & Alerting: Tracks predefined legal sources (statute repositories, legal news feeds, court ruling databases) for keywords related to personal guarantees, IBC.",
+  "Report Generation: Creates summaries of contract analysis, highlighting key terms, potential risks, and compliance flags.",
+  "Knowledge Base: Maintains reference information on relevant sections of the Contract Act, IBC, and landmark rulings related to PGs."
+],
+"targetUsers": [
+  "Personal Guarantors to Corporate Debtors",
+  "Legal Counsel advising Personal Guarantors",
+  "Financial Advisors providing context to Personal Guarantors"
+],
+"inputDataRequirements": [
+  "Copy of the Personal Guarantee Agreement(s) (Digital preferred).",
+  "Basic information about the underlying debt/Corporate Debtor (for context).",
+  "Access to curated legal databases and monitoring sources.",
+  "Potentially, user queries focusing on specific clauses or concerns.",
+  "Relevant Jurisdiction's Legal Framework (pre-configured, e.g., India - Contract Act, IBC)."
+],
+"outputFormats": [
+  "Contract Analysis Report (PDF, HTML) with summaries, flagged clauses, risk assessments.",
+  "Annotated Contract (highlighting key clauses and issues, optional).",
+  "List of Potential Risks and Loopholes identified (for legal review).",
+  "Maximum Contractual Liability Statement.",
+  "Legal and Regulatory Update Notifications relevant to PGs.",
+  "Compliance Checklist Report (based on predefined rules).",
+  "Structured data export of key contract terms (JSON)."
+],
+"potentialBenefits": [
+  "Provides PGs with a clearer understanding of their contractual commitments and potential risks.",
+  "Accelerates the review process for legal counsel by highlighting critical areas.",
+  "Helps identify potential negotiation points or defenses based on contract language.",
+  "Ensures PGs are aware of potentially unfavorable or non-standard clauses.",
+  "Keeps PGs and their advisors informed about relevant changes in the legal landscape.",
+  "Standardizes the initial assessment of guarantee documents.",
+  "Provides objective, data-extracted information to support legal strategy development."
+],
+"requiredTools": [
+  {
+    "toolCategory": "Document Processing & NLP (Core)",
+    "tools": [
+      "PDF/DOCX Parsing Libraries (PyMuPDF/Fitz, python-docx)",
+      "OCR Engines (Tesseract, Cloud OCR APIs)",
+      "Advanced NLP Libraries & Models (spaCy, NLTK, Transformers - specifically models fine-tuned on legal text for clause detection, entity extraction)",
+      "Regular Expression Libraries"
+    ]
+  },
+  {
+    "toolCategory": "Legal Knowledge & Compliance",
+    "tools": [
+      "Legal Databases API Access (LexisNexis, Westlaw, Manupatra etc. - if available)",
+      "Web Scraping tools (carefully used for public regulatory sites/gazettes)",
+      "Internal Knowledge Base (SQL DB or Document DB like Elasticsearch for storing rules, statutes, summaries)"
+    ]
+  },
+  {
+    "toolCategory": "Rule Engine & Analysis Logic",
+    "tools": [
+      "Custom scripting (Python, Java)",
+      "Rule Engine Libraries (Optional, for complex compliance logic)"
+    ]
+  },
+  {
+    "toolCategory": "Data Storage (Secure)",
+    "tools": [
+      "Databases (SQL or NoSQL for storing analysis results, contract metadata)",
+      "Secure File Storage (for original documents)"
+    ]
+  },
+  {
+    "toolCategory": "Security & Privacy",
+    "tools": [
+      "Strong Authentication (MFA)",
+      "Encryption (at rest, in transit)",
+      "Access Controls",
+      "Anonymization techniques (if used for model training/analytics)"
+    ]
+  },
+  {
+    "toolCategory": "Reporting & Output",
+    "tools": [
+      "PDF Generation Libraries (ReportLab, FPDF)",
+      "Document Annotation Tools/Libraries"
+    ]
+  },
+  {
+    "toolCategory": "Alerting",
+    "tools": [
+       "Email Service APIs (SendGrid, SES)"
+    ]
+  },
+  {
+    "toolCategory": "User Interface (Optional)",
+    "tools": [
+      "Web Frameworks (Flask, Django, React, Angular)"
+    ]
+  }
+]";}i:2;i:2;}i:5;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2;}i:6;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"}";}i:2;i:6820;}i:7;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:6820;}i:8;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:6820;}}

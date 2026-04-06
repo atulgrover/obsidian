@@ -1,0 +1,579 @@
+#
+# Case Summary
+
+# Case Summary
+
+# Case Details
+
+- Case Name: E S Krishnamurthy & Ors. v. Bharath Hi Tech Builders Pvt. Ltd.
+- Civil Appeal No.: 3325 of 2020
+- Decided on: 14-Dec-21
+
+# Judges
+
+- Dr. Justice D.Y. Chandrachud
+- Mr. Justice Ajjikuttira Somaiah Bopanna
+
+# Impugned Order
+
+(2020) ibclaw.in 454 NCLAT, set aside.
+
+# Corporate Debtor
+
+Bharath Hi Tech Builders Pvt. Ltd.
+
+# Brief about the decision
+
+# Facts of the case
+
+On a petition under Section 7 of the IBC, the NCLT declined to admit the petition and directed the respondent to settle the claims within three months. The NCLAT upheld this decision.
+
+# Decision of the Supreme Court
+
+The Supreme Court considered whether the Adjudicating Authority can dismiss a petition under Section 7 based on the initiation of settlement process. The Court summarized its decision in the following points:
+
+# Summary of Supreme Court Decision
+
+1. The central question was whether the NCLT and NCLAT were correct in rejecting the appellants' petition under Section 7 and directing them to settle with the respondent within 3 months.
+
+Print Date: June 6, 2024
+---
+#
+# IBC Laws
+
+# Segment 1
+
+- Sub-Section (1) of Section 7 enables the financial creditor to file an application for initiation of CIRP against the corporate debtor before the Adjudicating Authority “when a default has occurred”. The expression “default” is defined in Section 3(12) of the IBC. The definition of default adverts to the non-payment of a debt, when it has become due and payable in whole or in part, by the debtor or the corporate debtor. Since the definition of “default” incorporates the expression “debt”, it is necessary to advert to the definition of the latter expression under Section 3(11) of the IBC. A “debt” is defined to be a liability or an obligation in respect of a claim due from any person. This includes a financial debt and an operational debt.
+
+# Segment 2
+
+- On a bare reading of the provision, it is clear that both, Clauses (a) and (b) of sub-Section (5) of Section 7, use the expression “it may, by order” while referring to the power of the Adjudicating Authority. In Clause (a) of sub-Section (5), the Adjudicating Authority may, by order, admit the application or in Clause (b) it may, by order, reject such an application. Thus, two courses of action are available to the Adjudicating Authority in a petition under Section 7. The Adjudicating Authority must either admit the application under Clause (a) of sub-Section (5) or it must reject the application under Clause (b) of sub-Section (5). The statute does not provide for the Adjudicating Authority to undertake any other action, but for the two choices available.
+
+# Segment 3
+
+- In Innoventive Industries [2017] ibclaw.in 02 SC, a two-judge Bench of this Court has explained the ambit of Section 7 of the IBC, and held that the Adjudicating Authority only has to determine whether a “default” has occurred, i.e., whether the “debt” (which may still be disputed) was due and remained unpaid. If the Adjudicating Authority is of the opinion that a “default” has occurred, it has to admit the application unless it is incomplete.
+
+# Segment 4
+
+- The Adjudicating Authority has clearly acted outside the terms of its jurisdiction under Section 7(5) of the IBC. The Adjudicating Authority is empowered only to verify whether a default has occurred or if a default has not occurred. Based upon its decision, the Adjudicating Authority must then either admit or reject an application respectively. These are the only two courses of action which are open to the Adjudicating Authority in accordance with Section 7(5). The Adjudicating Authority cannot compel a party to the proceedings before it to settle a dispute.
+
+# Segment 5
+
+- Undoubtedly, settlements have to be encouraged because the ultimate purpose of the IBC is to facilitate the continuance and rehabilitation of a corporate debtor, as distinct from allowing it to go into liquidation. As the Statement of Objects and Reasons accompanying the introduction of the Bill indicates, the objective of the IBC is to facilitate insolvency resolution “in a time bound manner” for maximisation of the value of assets, promotion of entrepreneurship, ensuring the availability of credit and balancing the interest of all stakeholders. What the Adjudicating Authority and Appellate Authority, however, have proceeded to do in the present case is to abdicate their jurisdiction to decide a petition under Section 7 by directing the respondent to settle the remaining claims within three months and leaving it open to the original petitioners, who are aggrieved by the settlement process, to move fresh proceedings in accordance with law. Such a course of action is not contemplated by the IBC.
+
+# Segment 6
+
+- The IBC is a complete code in itself. The Adjudicating Authority and the Appellate Authority are creatures of the statute. Their jurisdiction is statutorily conferred. The statute which confers jurisdiction also structures, channelises and circumscribes the ambit of such jurisdiction. Thus, while the Adjudicating Authority and Appellate Authority can encourage settlements, they cannot direct them by acting as courts of equity. The Court refers Pratap Technocrats (2021) ibclaw.in 148 SC judgment. In Arun Kumar
+---
+#
+# Jagatramka v. Jindal Steel & Power Ltd.
+
+# Segment Headers
+
+# Judgment/Order:
+
+# Segment Lists
+
+- Admit.
+- The present appeal under Section 62 of the Insolvency and Bankruptcy Code 2016 has arisen from a judgment of the National Company Law Appellate Tribunal dated 30 July 2020, which upheld an order dated 28 February 2020 of the National Company Law Tribunal at its Bengaluru Bench.
+- On a petition which was instituted by the appellants (and others) under Section 7 of the IBC for initiating the Corporate Insolvency Resolution Process in respect of the respondent, the NCLT declined to admit the petition and instead directed the respondent to settle the claims within three months. The NCLAT found no merit in the appeal against the NCLT’s order.
+
+# Segment KeyValuePairs
+
+Issue for Adjudication: Whether the Adjudicating Authority can dismiss a petition under Section 7 of the IBC without considering its merits.
+
+# Segment Paragraphs
+
+The Court allows the appeal and set aside the impugned judgment of the NCLAT and of the NCLT. The petition under Section 7 of the IBC is accordingly restored to the NCLT for disposal afresh.
+
+The genesis of the case arises from a Master Agreement to Sell which was entered into between the respondent, IDBI Trusteeship Limited and Karvy Realty (India) Limited on 22 June 2014, in order to raise an amount of Rs 50 crores for the development of 100 acres of agricultural land.
+
+# Segment Tables
+
+Print Date
+June 6, 2024
+---
+#
+# Document
+
+# Segment 7
+
+- The case of the appellants is that during the year 2015-2016, the Facility Agent acting through its sister concern (Karvy Private Wealth) advised its clients to extend loans to the respondent. The appellants claim that they (with the exception of the ninth appellant), along with several others, extended term loans to the respondent acting on the advice of the Facility Agent and its sister concern. Thus, requisite Deeds of Adherence were signed. It is alleged by the appellants that through the Loan Agreement, the respondent raised over Rs 15 crores from nearly 300 investors in the first tranche of loans.
+
+# Segment 8
+
+- By a letter dated 29 February 2016, addressed to one of the original petitioners in the petition before the NCLT who was allotted a plot under the Master Agreement, the respondent sought an extension of time till 31 October 2016 for conveying the plots. It has been alleged that in its letter, the respondent undertook that in the event of its failure to convey the plots by 31 October 2016, the entire amount which was paid would be returned, together with interest as agreed in the Master Agreement itself.
+
+# Segment 9
+
+- Further, on 30 November 2016, the respondent is stated to have extended the term of the Loan Agreement, due to its alleged inability to refund the principal amount along with interest. The respondent is also alleged to have sought an extension of the loan period by 12 months, with an assurance that the principal amount would be repaid in three equal instalments in the 13th, 14th and 15th months.
+
+# Segment 10
+
+- However, on 26 April 2019, 11 out of the 17 appellants before this Court (together with 72 other petitioners) instituted a petition under Section 7 of the IBC before the Adjudicating Authority, due to the respondent’s default in making the repayment of an amount of Rs 33,84,32,493.
+
+# Segment 11
+
+- On 11 September 2019, the Adjudicating Authority adjourned the proceedings on the ground that the parties were attempting to resolve the dispute. A further extension of time for exploring the possibility of a settlement was sought on 24 October 2019 by the respondent, which was granted by the Adjudicating Authority and the petition was posted for 5 November 2019. On 22 November 2019, the respondent informed the Adjudicating Authority that it was exploring the possibility of a settlement, following which it was observed that any proposal for settlement should be furnished to the petitioners well before the next date of hearing. On 20 December 2019, with the respondent having failed to resolve the issue, the Adjudicating Authority posted the petition for admission on 29 January 2020. On 29 January 2020, on the respondent’s request, the Adjudicating Authority granted a further opportunity to the respondent to settle the dispute with the petitioners before it. On 27 February 2020, the respondent filed a memo before the Adjudicating Authority stating that it had reached a settlement with 140 investors. According to the appellants, however, out of 83 petitioners who were before the Adjudicating Authority in the petition, a settlement had been arrived at only with 13 petitioners. There was, in other words, no settlement with the other 70 petitioners before the NCLT.
+
+# Segment 12
+
+- Eventually, by its order dated 28 February 2020, the NCLT disposed of the petition. The Adjudicating Authority noted that “both the learned Counsels have filed Joint Consent Terms dated"
+---
+#
+# Document
+
+# Segment 1
+
+- Date: 12.02.2020
+- Consent terms were arrived at by the respondent with only one of the petitioners before the Adjudicating Authority
+- Respondent settled claims of about 140 Creditors
+
+# Segment 2
+
+Observations by Adjudicating Authority:
+
+1. Corporate Debtor with bona fide intention exploring settlement
+
+2. Interest of Home Buyers and Creditors at stake if put under CIRP
+
+3. Lists showing settled cases and remaining cases filed
+
+# Segment 3
+
+Adjudicating Authority decided to dispose the petition based on:
+
+1. Respondent's efforts to settle the dispute were bona fide
+2. Settlement process underway with other petitioners
+3. IBC procedure summary in nature
+4. Initiation of CIRP would jeopardize interests of home buyers and creditors
+
+# Segment 4
+
+Directions issued by Adjudicating Authority:
+
+a. Corporate Debtor to settle remaining claims within 3 months
+
+b. Remaining Petitioners can approach Authority if aggrieved
+
+# Segment 5
+
+Order of Adjudicating Authority challenged in appeal before NCLAT by 7 original petitioners
+
+Appellate Authority dismissed the appeal in its judgment on 30 July 2020
+---
+#
+
+# Document
+
+# Segment Headers
+
+# Appellate Authority’s Decision
+
+# Segment Lists
+
+- NCLT decided to dismiss the petition under Section 7 at the ‘pre-admission stage’
+- NCLT protected the rights of all the appellants/petitioners by setting a time-frame for settlement
+- Respondent had to be shown leniency due to the effects of the COVID-19 pandemic on businesses
+- Claims of home buyers have to be given priority
+
+# Segment KeyValuePairs
+
+Print Date: June 6, 2024
+
+# Group Sections
+
+# Adjudicating Authority's Decision
+
+The Adjudicating Authority passed an order related to claims in a Housing Project.
+
+# Challenged Judgment
+
+NCLAT’s judgment and order dated 30 July 2020 has been challenged before this Court.
+
+# Segment Paragraphs
+
+The Adjudicating Authority's decision was influenced by the settlement of claims and the time frame provided for unsettled claims.
+
+The impact of COVID-19 on business operations was considered in the decision-making process.
+
+# Group Code Blocks
+
+The impugned order in appeal would not be the appropriate course.
+The settlement process set in motion at the preadmission stage is supported by the Consent Terms filed by some stakeholders.
+
+# Segment Tables
+
+|Individuals|Role|
+|---|---|
+|Original petitioners before NCLT|Appealed before NCLAT|
+|Direct appeal before NCLAT|Joined the cause before this Court|
+---
+#
+
+# Document
+
+# Segment Headers
+
+# Appellants and their Positions
+
+- Brig. E.S. Krishnamurthy - First Appellant - Appellant - Petitioner
+- Dhwani Nishith Sanghvi - Second Appellant - Appellant - Petitioner
+- Kriti Milind Ranka - Third Appellant - Appellant - Petitioner
+- Marie Therese Lima Fernandes - Fourth Appellant - Appellant - Petitioner
+- Nitin Dinkar Palekar - Fifth Appellant - Appellant - Petitioner
+- Sunil Jain - Sixth Appellant - Appellant - Petitioner
+- Bhupesh Dinger - Seventh Appellant - Appellant - Petitioner
+- Battula Satish - Eight Appellant - Appellant - Not a Party
+- Shashi Arora - Ninth Appellant - Appellant - Not a Party
+- Gangasagar Nemina Hemade - Tenth Appellant - Not a Party - Petitioner
+- P.V. Lakshminarayana - Eleventh Appellant - Not a Party - Petitioner
+- Shaila S Kothari - Twelfth Appellant - Not a Party - Not a Party
+- Nemmara Raju Dorai Mahadevan - Thirteenth Appellant - Not a Party - Not a Party
+- Mayank Gupta - Fourteenth Appellant - Not a Party - Not a Party
+- Manjushri Basu - Fifteenth Appellant - Not a Party - Petitioner
+- Madhukar V. Limaye - Sixteenth Appellant - Not a Party - Petitioner
+- Dipankar Kanjilal - Seventeenth Appellant - Not a Party - Not a Party
+
+# Legal Counsel
+
+- Mr Srijan Sinha - Counsel for the appellants
+- Ms Aakanksha Nehra - Counsel for the respondent
+
+# Principal Challenge by Appellants
+
+On behalf of the appellants, the principal challenge is on the ground that:
+
+1. The Appellate Authority as well as the Adjudicating Authority have acted beyond the scope of their jurisdiction under the IBC, and thus their orders are liable to be set aside since they were coram non judice. Reliance has been placed upon the judgment of this Court in Embassy Property Developments (P) Ltd. v. State of Karnataka in support of this proposition;
+2. The impugned orders are contrary to the mandate of Section 7 of the IBC. This ground has been sought to be substantiated by urging as follows:
+- The orders of the Adjudicating Authority and the Appellate Authority are contrary to the principles enunciated in the judgment of this Court in Innoventive Industries Ltd. v. ICICI Bank (“Innoventive Industries”), with respect to the scope and extent of the enquiry which has to be made in a petition under Section 7 of the IBC. This Court has
+
+# Print Date: June 6, 2024
+---
+#
+
+# Segment 1
+
+- IBC Laws® | www.ibclaw.in
+
+# Segment 2
+
+- Held that while entertaining the petition under Section 7, the Adjudicating Authority has to merely satisfy itself whether a default has occurred. As such, Section 7(5) only provides the Adjudicating Authority with two options – to pass an admission order under Section 7(5)(a) or reject the petition under Section 7(5)(b). Thus, unless the debt has not become due or is interdicted by some law, the Adjudicating Authority must admit a petition under Section 7;
+- Admittedly, in the present case, the respondent has committed an act of default as understood in the provisions of Section 3(12) of the IBC. This is evident from the fact that it is willing to settle the debt owed to the appellants, which was also noted by the Adjudicating Authority. Further, the dispute between the respondent and as many as 70 original petitioners had not been settled, at the time when the Adjudicating Authority passed its order. In spite of this, the Adjudicating Authority failed to act in accordance with the provisions of Section 7(5)(a) and issue an order admitting the application;
+- Further, the Appellate Authority has also erred in observing that the petition under Section 7 was disposed of at a ‘pre-admission stage’ by the Adjudicating Authority. Where the Adjudicating Authority is not satisfied that the financial debt is owed and a default has occurred, Section 7(5)(b) provides that it shall reject the application. Thus, an option to dispose at a ‘pre-admission stage’ is not available to the Adjudicating Authority;
+
+# Segment 3
+
+- The Adjudicating Authority and Appellate Authority have acted beyond the scope of their jurisdiction in ‘directing’ the parties to settle with the respondent. To substantiate this argument, it has been urged:
+- The Adjudicating Authority as well as the Appellate Authority are creatures of the statute – the IBC – and are bound by its provisions. Thus, their jurisdiction is limited by the provisions of the IBC;
+- Hence, once there is an admitted default by the respondent, the Adjudicating Authority was statutorily bound to admit the petition and has acted patently beyond its jurisdiction in not entertaining it on the ground that there was a possibility of a settlement. The Appellate Authority has merely placed its stamp of approval on the judgment of the Adjudicating Authority. In doing so, Adjudicating Authority and Appellate Authority have acted as courts of equity, which is not prescribed by the IBC. In support of this proposition, reliance has been placed upon the judgment of this Court in Pratap Technocrats (P) Ltd. and Others v. Monitoring Committee of Reliance Infratel Limited and Another13 (“Pratap Technocrats”);
+- In any case, out of 83 petitioners before the Adjudicating Authority, only 13 had entered into a settlement. As a result, there was no settlement with the remaining 70 petitioners. Moreover, even in respect of the financial creditors with whom the respondent had entered into a settlement, the respondent had failed to comply with the settlement even before the passing of the impugned order;
+- Further, the direction by the Adjudicating Authority to the respondent to settle all individual claims is beyond its jurisdiction, as a judicial authority cannot dispose of a
+---
+#
+
+# Document
+
+# Segment 1
+
+petition with a direction to settle a dispute. At the highest, a proceeding may be adjourned in order to enable the parties to explore the possibility of a settlement. In the present case, as many as four opportunities were granted to the respondent to resolve the dispute with the petitioners, but to no avail. Hence, once the parties failed to arrive at a settlement, the judicial authority was duty bound to decide the case on merits alone; and
+
+# Segment 2
+
+Finally, the admission of the petition by the Adjudicating Authority would not have automatically nullified any potential for settlement. This Court has held in its judgment in Swiss Ribbons Pvt Ltd and Anr. v. Union of India and Ors.14 that even after a petition under Section 7 of the IBC is admitted and before the Committee of Creditors15 is formed, the parties can settle the dispute. Further, even after the CoC is formed, Section 12A of the IBC does provide for a mechanism through which the petition can be withdrawn (if the parties were to reach a settlement);
+
+# Segment 3
+
+The IBC envisages two classes of creditors – financial and operational creditors. Except some differences in their rights and role in the CIRP, the IBC confers equal rights upon both the classes of creditors. However, through the impugned judgment, the Appellate Authority has created a sub-class within the class of financial creditors by observing that in the resolution of disputes relating to claims of allottees in housing projects, their rights have to be given primacy and the project entity/corporate debtor should not be sent into liquidation only at the behest of the other investors; and
+
+# Segment 4
+
+The threshold requirement of 10 per cent allotees of a housing project filing a petition under Section 7 of the IBC has been upheld by this Court in Manish Kumar v. Union of India16 (“Manish Kumar”). However, in paragraph 181, this Court has held that such a requirement only needs to be assessed at the threshold while admitting the petition. Hence, if subsequent to the admission, withdrawal applications are preferred and the 10 per cent threshold is reduced, it shall not affect the maintainability of the original petition. Thus, in the present case, the 83 original petitioners did meet the 10 per cent threshold and the petition should have been admitted.
+
+# Segment 5
+
+Based on the above submissions, the appellants have prayed that the orders of the NCLAT and NCLT be set aside, and the original petition under Section 7 of the IBC be restored for a decision on its admissibility under Section 7(5) of the IBC.
+
+# Segment 6
+
+On the other hand, the respondent counters by submitting that:
+
+# Group 1
+
+- The present appeal has been filed by the appellants to obviate the procedural requirements of Section 7 of the IBC. It has been urged:
+- The petition under Section 7 was instituted by the first appellant on behalf of himself and 82 other petitioners/proposed purchasers. Out of these 83 petitioners, only 7 of the original petitioners (including the first appellant) approached the NCLAT in appeal. The present appeal has been filed by the first appellant on behalf of the following persons:
+---
+#
+# Document
+
+# Segment 1
+
+- Eight and ninth appellants, who were not parties to the original petition under Section 7 but had filed an appeal before the NCLAT;
+- Tenth, eleventh, fifteenth and sixteenth appellants, who were parties before the NCLT but not before the NCLAT; and
+- Twelfth to fourteen and seventeenth appellants, who were neither parties before the NCLT nor the NCLAT;
+
+# Segment 2
+
+The reduced number of litigants establishes that the respondent has made efforts to settle the disputes with many of the proposed purchasers;
+
+# Segment 3
+
+- Further, the Parliament has amended Section 7 with effect from 28 December 2019, which was upheld by the judgment of this Court in Manish Kumar (supra). The amendment has introduced the threshold requirement (of 10 per cent or 100 home buyers) for filing a petition under Section 7, with the objective of protecting a corporate debtor from being dragged into insolvency proceedings by an isolated set of creditors;
+- Thus, the present appeal being a continuation of the original proceedings under Section 7, the threshold requirement would have to be met. Evidently, with the reduced number of litigants, it is not met;
+- Further, if the appellants have to file a fresh proceeding before the Adjudicating Authority or if their proceedings are restored before the Adjudicating Authority at this stage, they would still have to fulfil the mandatory requirement of bringing together 100 creditors in the same class or 10 per cent of the total number of such creditors;
+
+# Segment 4
+
+The present proceedings have only been filed by the appellants to arm-twist the respondent, instead of taking up the settlements offered to them:
+
+# Sub-segment 1
+
+- The first appellant preferred a petition on behalf of 82 home buyers. The Adjudicating Authority in its order dated 28 February 2020 recorded that the respondent had fully settled with 140 investors against a payment of Rs 27.25 crores. Further, it was noted that the claims of 13 petitioners before the NCLT were settled, 40 were in the process of settlement and 39 were pending settlements. It was in this backdrop that the NCLT disposed of the petition, with specific directions that the appellants could approach it if the respondent did not settle their claims within three months;
+- Even after the disposal of the proceedings by the NCLT, the respondent has continued to settle with proposed purchasers. However, while numerous efforts have been made to arrive at a settlement with the appellants, none of the options offered were agreeable to them;
+- During the pendency of the appeal, agreed amounts have been paid in full to the eighth, fourteenth and sixteenth appellants in November 2020. With respect to the tenth, twelfth, thirteenth and seventeenth appellants, a settlement was arrived at and cheques have been handed over by the respondent to them, which have not been encashed;
+- The respondent reiterates its commitment to settle with the proposed purchasers;
+---
+#
+# Document
+
+# Segment 1:
+
+Despite the real-estate industry being severely affected due to the COVID-19 pandemic;
+
+# Segment 2:
+
+- The respondent should not be pushed to insolvency merely because a few of its alleged creditors are not willing to settle.
+- The appellants are merely speculative investors and are not allottees within the meaning of Section 5(8)(12) of the IBC, and thus they have no claim under Section 7 of the IBC.
+
+# Segment 3:
+
+On the above hypothesis, it has been submitted that the appellants are utilising the process to facilitate recovery whereas the primary focus of IBC is to ensure revival and continuation of the corporate debtor, and to protect it from corporate death by liquidation.
+
+# Segment 4:
+
+The rival submissions will now be considered.
+
+# Segment 5:
+
+At the very outset, there is a factual question in relation to the settlements which have been made by the respondent with the present appellants. The respondent has alleged that settlements have been reached with the eighth, fourteenth and sixteenth appellants and agreed amounts have been paid in full. Further, settlements were arrived at with tenth, twelfth, thirteenth and seventeenth appellants and cheques have been handed over to them, but they have not been encashed. However, the appellants note that while a settlement amount was agreed between the respondent and the fourteenth appellant, it was never actually paid before the appeal was filed. Further, upon the filing of the present appeal, when the respondent offered a new settlement amount, it was rejected by the fourteenth appellant. Similarly, no settlement has been arrived at with the sixteenth appellant. In respect of the tenth, twelfth, thirteenth and seventeenth appellants, it is submitted that the cheques were issued in June 2020 but the respondent itself in October 2020 told them not to encash them till the outcome of the present appeal. Presently, the appellants acknowledge that final settlements have been reached between the respondent and the eighth, tenth and twelfth appellants. This position has not been controverted by the respondent.
+
+# Segment 6:
+
+The central question in this appeal then is whether the NCLT and the NCLAT were correct in their approach of rejecting the appellants’ petition under Section 7 of the IBC at the ‘pre-admission stage’, and directing them to settle with the respondent within 3 months. Section 7 of the IBC provides for the initiation of CIRP by a financial creditor or a class of financial creditors. Section 7, as it stood prior to its amendments in 201917, is reproduced below:
+
+# Group Section:
+
+“7. Initiation of corporate insolvency resolution process by financial creditor.—(1) A financial creditor either by itself or jointly with other financial creditors, or any other person on behalf of the financial creditor, as may be notified by the Central Government, may file an application for initiating corporate insolvency resolution process against a corporate debtor before the Adjudicating Authority when a default has occurred:
+
+Explanation.—For the purposes of this sub-section, a default includes a default in respect of a financial debt owed not only to the applicant financial creditor but to any other financial creditor of the corporate debtor.
+
+(2) The financial creditor shall make an application under sub-section (1) in such form and manner and accompanied with such fee as may be prescribed.
+---
+#
+
+# Document
+
+# Segment 1: Provisions related to Application by Financial Creditor
+
+- (3) The financial creditor shall, along with the application furnish—
+
+(a)
+record of the default recorded with the information utility or such other record or evidence of default as may be specified;
+(b)
+the name of the resolution professional proposed to act as an interim resolution professional; and
+(c)
+any other information as may be specified by the Board.
+
+- (4) The Adjudicating Authority shall, within fourteen days of the receipt of the application under sub-section (2), ascertain the existence of a default from the records of an information utility or on the basis of other evidence furnished by the financial creditor under sub-section (3):
+- (5) Where the Adjudicating Authority is satisfied that—
+
+(a)
+a default has occurred and the application under sub-section (2) is complete, and there is no disciplinary proceedings pending against the proposed resolution professional, it may, by order, admit such application; or
+(b)
+default has not occurred or the application under sub-section (2) is incomplete or any disciplinary proceeding is pending against the proposed resolution professional, it may, by order, reject such application:
+
+Provided that the Adjudicating Authority shall, before rejecting the application under clause (b) of sub-section (5), give a notice to the applicant to rectify the defect in his application within seven days of receipt of such notice from the Adjudicating Authority.
+
+(6) The corporate insolvency resolution process shall commence from the date of admission of the application under sub-section (5).
+
+- (7) The Adjudicating Authority shall communicate—
+
+(a)
+the order under clause (a) of sub-section (5) to the financial creditor and the corporate debtor;
+(b)
+the order under clause (b) of sub-section (5) to the financial creditor, within seven days of admission or rejection of such application, as the case may be.
+
+# Segment 2: Definition of Default
+
+Sub-Section (1) of Section 7 enables the financial creditor to file an application for initiation of CIRP against the corporate debtor before the Adjudicating Authority “when a default has occurred”. The expression “default” is defined in Section 3(12) of the IBC in the following terms:
+
+“(12) “default” means non-payment of debt when whole or any part or instalment of the amount of debt has become due and payable and is not paid by the debtor or the corporate debtor, as the case may be;”
+
+The definition of default adverts to the non-payment of a debt, when it has become due and payable
+---
+#
+# IBC Laws
+
+# Segment 22
+
+- If the above criteria are met, the financial creditor can make an application under sub-Section (2) of Section 7, in the manner prescribed, along with the necessary fees.
+- Sub-Section (3) requires the financial creditor, inter alia, to furnish a record of the default with the information utility or such other record or evidence of default as may be specified along with the application.
+- Under sub-Section (4), the Adjudicating Authority must, within 14 days of the receipt of the application under sub-Section (2), ascertain the existence of a default from the record of an information utility or on the basis of other information furnished by the financial creditor under sub-Section (3).
+
+# Segment 23
+
+- Sub-Section (5) of Section 7 is comprised in two parts: Clause (a), which is the first part, empowers the Adjudicating Authority to admit the application where it is satisfied that: (i) a default has occurred; (ii) the application under sub-Section (2) is complete; and (iii) no disciplinary proceeding is pending against the proposed resolution professional.
+- Clause (b), which is the second part, empowers the Adjudicating Authority to reject the application where it is satisfied that: (i) default has not occurred; or (ii) the application under sub-Section (2) is incomplete; or (iii) a disciplinary proceeding is pending against the proposed resolution professional.
+- Under sub-Section (7), the Adjudicating Authority has to communicate its order of acceptance or rejection to the financial creditor and the corporate debtor or the financial creditor, as the case may be.
+
+# Segment 24
+
+- On a bare reading of the provision, it is clear that both, Clauses (a) and (b) of sub-Section (5) of Section 7, use the expression “it may, by order” while referring to the power of the Adjudicating Authority.
+- Thus, two courses of action are available to the Adjudicating Authority in a petition under Section 7.
+
+# Segment 25
+
+- In Innoventive Industries (supra), a two-judge Bench of this Court has explained the ambit of Section 7 of the IBC, and held that the Adjudicating Authority only has to determine whether a “default” has occurred, i.e., whether the “debt” (which may still be disputed) was due and remained unpaid.
+- If the Adjudicating Authority is of the opinion that a “default” has occurred, it has to admit the application unless it is incomplete.
+---
+#
+# Document
+
+# Segment 1
+
+- When it comes to a financial creditor triggering the process, Section 7 becomes relevant.
+- Explanation to Section 7(1) states that a default is in respect of a financial debt owed to any financial creditor of the corporate debtor.
+- Application under Section 7(2) is to be made in the prescribed form and manner as per the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016.
+
+# Segment 2
+
+- Adjudicating authority must ascertain the existence of a default within 14 days of receiving the application.
+- Corporate debtor can point out that a default has not occurred if the debt is not due in law or in fact.
+- Application must be admitted if default is confirmed, unless incomplete.
+
+# Segment 3
+
+- Adjudicating authority needs to verify the records or evidence to confirm a default by a corporate debtor.
+- Debt being disputed does not matter as long as it is "due" i.e. payable unless legally prevented or not yet due.
+- Adjudicating authority may reject an application only if it is proved that the debt is not due.
+
+# Segment 4
+
+In the present case, the Adjudicating Authority had adjourned the petition multiple times to explore settlement possibilities, but no agreement was reached by all parties involved.
+
+Joint consent terms were filed, but they did not cover all original petitioners before the Adjudicating Authority.
+
+Claims of some investors were settled, while others were still in the process of settlement.
+---
+#
+# Document
+
+# Segment 27
+
+- The Adjudicating Authority has clearly acted outside the terms of its jurisdiction under Section 7(5) of the IBC. The Adjudicating Authority is empowered only to verify whether a default has occurred or if a default has not occurred. Based upon its decision, the Adjudicating Authority must then either admit or reject an application respectively. These are the only two courses of action which are open to the Adjudicating Authority in accordance with Section 7(5). The Adjudicating Authority cannot compel a party to the proceedings before it to settle a dispute.
+
+# Segment 28
+
+- Undoubtedly, settlements have to be encouraged because the ultimate purpose of the IBC is to facilitate the continuance and rehabilitation of a corporate debtor, as distinct from allowing it to go into liquidation. As the Statement of Objects and Reasons accompanying the introduction of the Bill indicates, the objective of the IBC is to facilitate insolvency resolution “in a time bound manner” for maximisation of the value of assets, promotion of entrepreneurship, ensuring the availability of credit and balancing the interest of all stakeholders. What the Adjudicating Authority and Appellate Authority, however, have proceeded to do in the present case is to abdicate their jurisdiction to decide a petition under Section 7 by directing the respondent to settle the remaining claims within three months and leaving it open to the original petitioners, who are aggrieved by the settlement process, to move fresh proceedings in accordance with law. Such a course of action is not contemplated by the IBC.
+
+# Segment 29
+
+- The IBC is a complete code in itself. The Adjudicating Authority and the Appellate Authority are creatures of the statute. Their jurisdiction is statutorily conferred. The statute which confers jurisdiction also structures, channelises and circumscribes the ambit of such jurisdiction. Thus, while the Adjudicating Authority and Appellate Authority can encourage settlements, they cannot direct them by acting as courts of equity. In Pratap Technocrats (supra), a two-judge Bench of this Court, speaking through Justice DY Chandrachud, held:
+
+47. These decisions have laid down that the jurisdiction of the Adjudicating Authority and the Appellate Authority cannot extend into entering upon merits of a business decision made by a requisite majority of the CoC in its commercial wisdom.Nor is there a residual equity based jurisdiction in the Adjudicating Authority or the Appellate Authority to interfere in this decision, so long as it is otherwise in conformity with the provisions of the IBC and the Regulations under the enactment.
+
+50. Hence, once the requirements of the IBC have been fulfilled, the Adjudicating Authority and the Appellate Authority are duty bound to abide by the discipline of the
+
+Print Date: June 6, 2024
+---
+#
+# Document
+
+# Segment 30:
+
+In Arun Kumar Jagatramka v. Jindal Steel & Power Ltd.18, a two judge Bench of this Court issued a note of caution to the Adjudicating Authorities and the Appellate Authority against judicial interference with the framework created by the IBC. Speaking through Justice DY Chandrachud, the Court held:
+
+“95…we do take this opportunity to offer a note of caution for NCLT and NCLAT, functioning as the adjudicatory authority and appellate authority under the IBC respectively, from judicially interfering in the framework envisaged under the IBC. As we have noted earlier in the judgment, the IBC was introduced in order to overhaul the insolvency and bankruptcy regime in India. As such, it is a carefully considered and well thought out piece of legislation which sought to shed away the practices of the past. The legislature has also been working hard to ensure that the efficacy of this legislation remains robust by constantly amending it based on its experience. Consequently, the need for judicial intervention or innovation from NCLT and NCLAT should be kept at its bare minimum and should not disturb the foundational principles of the IBC…”
+
+# Segment 31:
+
+In the synopsis which has been appended to the paper book, a tabulated statement has been appended for the purpose of indicating the status of the settlement process. The statement is reproduced below:
+
+|Sl. No.|Name|Settlement Proposed Date|Proposal Accepted/Rejected|Date of Settlement|Date of Default|
+|---|---|---|---|---|---|
+|1|E. S. Krishnamurthy|Yes|14.12.2019|Rejected|N.A.|N.A.|
+|2|Dhwani Sanghvi|Yes|14.12.2019|Rejected|N.A.|N.A.|
+|3|Sunil Jain|Yes|Sep-19|Rejected|N.A.|N.A.|
+|4|Lakshminarayan P.V.|Yes|May-19|Accepted then subsequently rejected|N.A.|N.A.|
+|5|Milind Raka|No|N.A.|N.A.|N.A.|N.A.|
+|6|Nitin Palekar|No|N.A.|N.A.|N.A.|N.A.|
+|7|Marie Therese Lima Fernandes|No|N.A.|N.A.|N.A.|N.A.|
+|8|Shashi Arora|Yes|30.08.2019|Rejected|N.A.|N.A.|
+
+Print Date: June 6, 2024
+---
+#
+
+# Document
+
+# Segment Lists
+
+- Bhupesh Dinger - Yes - Dec-19 - Rejected - N.A. - N.A.
+- Shaila S Kothari - Yes - 13.07.2019 - Accepted - Yes - 31.10.2019
+- Nemmar Mahadevan - Yes - 24.06.2019 - Accepted - Yes - Aug-18
+- Satish Battula - Yes - 06.07.2018 - Accepted - Yes - 31.08.2019
+- Mayank Gupta - Yes - 08.03.2018 - Accepted - Yes - 30.09.2019
+- Gangasagar Neminath Hemade - Yes - 02.08.2029 - Accepted - Yes - 2019
+- Manjushri Basu - No (not till the passing of order by Adjudicating Authority) - N.A. - N.A. - N.A.
+- Madhukar V. - No (not till the passing of order by Adjudicating Authority) - N.A. - N.A. - N.A.
+- Dipankar Kanjilal - Yes - Jul-19 - Accepted - Yes - Sep-19
+
+# Segment Paragraphs
+
+The above statement indicates that a settlement has admittedly not been arrived at by the respondent with all the appellants. Moreover, in the present appeal, impleadment applications have also been filed on behalf of an additional set of individuals claiming non-payment of their dues by the respondent.
+
+For the above reasons, we have come to the conclusion that the order of the Adjudicating Authority, and the directions which eventually came to be issued, suffered from an abdication of jurisdiction. The Appellate Authority sought to make a distinction by observing that the directions of the Adjudicating Authority were at the ‘pre-admission stage’, and that the order was not of such a nature which was prejudicial to the rights and interest of the stakeholders. The Appellate Authority was cognizant of the fact that even the time schedule for settlement which had been indicated by the Adjudicating Authority had elapsed, but then noted the impact of the outbreak of COVID-19 pandemic on the real estate market, including on the respondent. While acknowledging that the consent terms were “filed by some of the stakeholders though may not be all encompassing”, the Appellate Authority nonetheless proceeded to dismiss the appeal as not maintainable. The observation that the appeal was not maintainable is erroneous. Plainly, the Adjudicating Authority
+
+# Segment KeyValuePairs
+
+Print Date: June 6, 2024
+
+Page: 17 | 20
+---
+#
+
+# Segment 1
+
+failed to exercise the jurisdiction which was entrusted to it. A clear case for the exercise of jurisdiction in appeal was thus made out, which the Appellate Authority then failed to exercise.
+
+# Segment 2
+
+We may note at this stage that the provisions of Section 7 of the IBC have been amended with retrospective effect from 28 December 2019 by Act 1 of 2020. These provisions have been construed in the judgment of this Court in Manish Kumar (supra). Since we are inclined to restore the proceedings back to the Adjudicating Authority for a fresh consideration, it is not necessary for this Court to dwell on any other aspect, save and except for what weighed with the Adjudicating Authority in disposing of the petition without adjudicating on other issues of maintainability or merits. We leave open all the rights and contentions of the parties to be urged before and decided by the Adjudicating Authority.
+
+# Segment 3
+
+We accordingly allow the appeal and set aside the impugned judgment and order dated 30 July 2020 of the NCLAT in Company Appeal (AT) (Insolvency) No 649 of 2020 and of the NCLT dated 28 February 2020 in CP (IB) No.188/BB/2019. The petition under Section 7 of the IBC (i.e., CP (IB) No.188/BB/2019) is accordingly restored to the NCLT for disposal afresh.
+
+# Segment 4
+
+The impleadment applications shall stand disposed of, with liberty being granted to the applicants to adopt appropriate proceedings in accordance with law before the Adjudicating Authority, or before such other forum as they may be advised.
+
+# Segment 5
+
+Pending application(s), if any, shall stand disposed of.
+
+# Signatures:
+
+[Dr Dhananjaya Y Chandrachud]
+
+[A S Bopanna]
+
+# Location and Date:
+
+New Delhi; December 14, 2021
+
+Original judgment copy is available here.
+
+Case Laws Portal
+
+Print Date: June 6, 2024

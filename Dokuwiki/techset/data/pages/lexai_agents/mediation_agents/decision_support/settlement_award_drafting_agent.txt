@@ -1,0 +1,7 @@
+**Settlement / Award Drafting Agent**
+
+The Settlement / Award Drafting Agent consolidates validated clauses, factual summaries, and compliance confirmations into a final structured document. It formats the settlement or award according to prescribed layouts used by NCLT or mediation platforms, ensuring readability and legal precision.
+
+It ensures that the final draft clearly defines obligations, timelines, rights, and enforcement mechanisms for all parties. By integrating insights from negotiation and decision-support agents, it produces a balanced, enforceable outcome that reflects mutual consent and statutory compliance.
+
+Finally, the agent can automatically generate digital filing formats, annexures, and sign-off pages for submission or e-filing. This end-to-end automation accelerates closure of cases and enhances consistency in settlement documentation across multiple insolvency proceedings.

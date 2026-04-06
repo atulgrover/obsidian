@@ -1,0 +1,190 @@
+<html>
+<p>
+	<div>
+		<h1>
+			Whether a Financial Creditor can initiate CIRP against the Personal Guarantor in the absence of any Resolution Process/Liquidation Process against the Corporate Debtor &ndash; Insta Capital Pvt. Ltd. Vs. Ketan Vinod Kumar Shah &ndash; NCLT Mumbai Bench
+		</h1>
+		<div>
+			August 24, 2021
+		</div>
+		<p>
+			Adjudicating Authority held that upon conjoined reading of p 60 of IBC r/w p 128 of the Contract Act, 1872, it is clear that the CIRP can be initiated against the Corporate Debtor as well as corporate guarantor. But however, in the instant case, p 60(2) contains non-obstante clause which specifies that only where a CIRP process or liquidation process of a Corporate Debtor is pending before NCLT, an application initiating Insolvency Resolution Process against the Personal Guarantor, of such Corporate Debtor shall be filed before such NCLT. Further, the code also provides the definition of personal guarantor which includes the surety in a contract of guarantee to a Corporate Debtor which means that Financial Creditor can initiate proceedings of CIRP against the personal guarantor of Corporate Debtor. While Section 7 petition can be filed by the Financial Creditor against the Corporate Debtor and Corporate Guarantor, but under Section 95 of the Code can be filed by Financial Creditor only against personal guarantor of Corporate Debtor, which is already been undergoing CIRP or is in Liquidation. An application for insolvency for resolution against the personal guarantor is not maintainable unless that CIRP/liquidation is ongoing against the Corporate Debtor. It is further observed that filing of applications seeking resolution of personal guarantors without the Corporate Debtor undergoing CIRP, would tantamount to vesting of jurisdiction on two course one is NCLT and another is the Debts Recovery Tribunal. In view of the above observation, the petition is dismissed with no costs.
+		</p>
+	</div>
+</p>
+<div>
+	<div>
+		<div>
+			<p>
+				<div>
+					<div>
+						<p>
+							<strong>
+								I. Case Reference
+							</strong>
+						</p>
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										Case Citation
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										(2021)  462 NCLT
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Case Name
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Insta Capital Pvt. Ltd. Vs. Ketan Vinod Kumar Shah
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Financial Creditor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Insta Capital Pvt. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Personal Guarantor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Ketan Vinod Kumar Shah
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Appeal No.
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										CP (IB)/ 1365/MB-IV/2020
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Judgment Date
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										10-Aug-21
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Court/Bench
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										NCLT Mumbai Bench
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Act
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Insolvency &amp; Bankruptcy Code 2016
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Judicial)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Smt. Suchitra Kanuparthi&nbsp;
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Technical)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Shri Rajesh Sharma
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<p>
+							<strong>
+								II. Brief about the decision
+							</strong>
+						</p>
+						<p>
+							This Petition has been filed by the Applicant (Financial Creditor)&nbsp;under Section 95 of the Code&nbsp;read&nbsp;with Rule 7(2) of the AAAIRPPG&nbsp;Rules, 2019&nbsp;against&nbsp;Personal Guarantor/Respondent of the Corporate Debtor&nbsp;for initiating Insolvency Resolution Process.&nbsp;The issue for consideration is whether a Financial Creditor can initiate CIRP against the personal guarantor in the absence of any resolution process/liquidation process against the corporate debtor.
+						</p>
+						<p>
+							Adjudicating Authority observed that though it is settled law that the liability of&nbsp;principal borrower and guarantor is co-extensive as enunciated&nbsp;u/s 128 of the Contract Act, 1872, and the Creditor may proceed&nbsp;against the principal borrower or the guarantor simultaneously,&nbsp;however, the judgement of Hon&rsquo;ble NCLAT in the case of&nbsp;
+							<em>
+								Dr. Vishnu Kumar Agarwal Vs. Piramal Enterprises Limited&nbsp;[2019]  16 NCLAT
+							</em>
+							, it was&nbsp;laid down that there cannot be two CIRP proceedings, one against&nbsp;the borrower and one against the guarantor.&nbsp;The judgment of Hon&rsquo;ble NCLAT in&nbsp;
+							<em>
+								State Bank of India Vs. Athena&nbsp;
+							</em>
+							<em>
+								Energy Ventures Pvt. Ltd.&nbsp;(2020)  344 NCLAT
+							</em>
+							, further clarified that CIRP can&nbsp;be initiated against the principal borrower and the guarantor.
+							<strong>
+								(p13-14)
+							</strong>
+						</p>
+						<p>
+							It held that upon conjoined reading of p 60 r/w p 128 of the&nbsp;Contract Act, 1872, it is clear that the CIRP can be initiated&nbsp;against the Corporate Debtor as well as corporate guarantor. But&nbsp;however, in the instant case, p 60(2) contains&nbsp;non-obstante clause which specifies that only where a CIRP&nbsp;process or liquidation process of a Corporate Debtor is pending&nbsp;before NCLT, an application initiating Insolvency Resolution&nbsp;Process against the Personal Guarantor, of such Corporate&nbsp;Debtor shall be filed before such NCLT. Further, the code also&nbsp;provides the definition of personal guarantor which includes the&nbsp;surety in a contract of guarantee to a Corporate Debtor which&nbsp;means that Financial Creditor can initiate proceedings of CIRP&nbsp;against the personal guarantor of Corporate Debtor. While&nbsp;Section 7 petition can be filed by the Financial Creditor against&nbsp;the Corporate Debtor and Corporate Guarantor, but under&nbsp;Section 95 of the Code can be filed by Financial Creditor only against personal guarantor of Corporate Debtor, which is already&nbsp;been undergoing CIRP or is in Liquidation.
+							<strong>
+								(p17)
+							</strong>
+						</p>
+						<p>
+							In view of the judgement of Hon&rsquo;ble NCLAT in&nbsp;
+							<em>
+								State Bank of&nbsp;
+							</em>
+							<em>
+								India Vs. Atheena Energy Ventures Pvt. Ltd.&nbsp;(2020)  344 NCLAT
+							</em>
+							&nbsp;and the law as&nbsp;entailed in p 60(2), this bench is of the considered view that&nbsp;an application for insolvency for resolution against the personal&nbsp;guarantor is not maintainable unless that CIRP/liquidation is&nbsp;ongoing against the Corporate Debtor. It is further observed that&nbsp;filing of applications seeking resolution of personal guarantors&nbsp;without the Corporate Debtor undergoing CIRP, would&nbsp;tantamount to vesting of jurisdiction on two course one is NCLT&nbsp;and another is the Debts Recovery Tribunal.&nbsp;In view of the above observation, the petition is dismissed with no&nbsp;costs.
+							<strong>
+								(p18-19)
+							</strong>
+						</p>
+					</div>
+				</div>
+			</p>
+		</div>
+	</div>
+</div>
+</html>

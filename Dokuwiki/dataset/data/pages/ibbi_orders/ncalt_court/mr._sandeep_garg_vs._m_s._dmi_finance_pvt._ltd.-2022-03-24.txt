@@ -1,0 +1,328 @@
+<html>
+<div>
+	<h2>
+		Mr. Sandeep Garg And Anr vs M/S Dmi Finance Pvt. Ltd. And Anr on 24 March, 2022
+	</h2>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL PRINCIPAL BENCH, NEW DELHI Company Appeal (AT) (Insolvency) No. 321 of 2021IN THE MATTER OF:1. Mr. Sandeep Garg,Director, M/s Abloom Infotech Pvt. Ltd.R/o AKG Farm, Mandi Road, Sultanpur,Mehrauli, Delhi 110030 ...Appellant No. 12. Mr. Ram Mehar Garg,Director, M/s Abloom Infotech Pvt. Ltd.R/o AKG Farm, Mandi Road, Sultanpur,Mehrauli, Delhi 110030 ...Appellant No. 2 VERSUS1. M/s DMI Finance Pvt. Ltd.Expss Building, 3rd Floor,9-10 Bahadur Shah Zafar Marg,New Delhi - 110002 ...Respondent no. 12. Mr. Praveen BansalInterim Resolution Professional,M/s Abloom Infotech Pvt. Ltd.E-10A, Kailash Colony,New Delhi - 110048 ...Respondent No. 2321Present:For Appellant: Mr. Manish Paliwal, Mr. Vikas Kumar, Mr. Nikhil Sharma, Advocates. For Respondent: Mr. Vipul Ganda, Mr. Guresha Bhamra, Mr. Sumit Chander, Advocates for R1. Mr. Shashwat Anand, Mr. Shashwar Parihar, Mr. Veenu Drall, Mr. Dhruva Vig, Mr. Adya Singh, Advocates for R2. JUDGMENT
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(Date: 24.03.2022) [Per.: Dr. Alok Srivastava, Member (Technical)] This Appeal is pferred by the Appellants who are aggrieved by the order dated 11.03.2021 (hereafter called 'impugned order') of the Adjudicating Authority (National Company Law Tribunal, New Delhi) in CP (IB) No. 2115(ND)/2019 filed under Section 7 of the Insolvency and Bankruptcy Code, 2016 (in short 'IBC').
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		2. The Appellant is aggrieved by the fact that despite there being no default and incorrect averments of the Appellant, Section 7 application submitted by the Respondent No. 1 was admitted vide the Impugned Order
+	</p>
+	<p title="Fact" data-structure="Facts">
+		3. The Appellants have stated in the appeal that they are ex- directors of the Corporate Debtor-M/s Abloom Infotech Pvt. Ltd., which is an associate company of Ninex Group of Companies. The four companies in Ninex Group entered into a common loan agreement dated 27.4.2016 for availing a total loan of Rs. 69,51,00,000/- from the Respondent No. 1. The Appellants have further stated that the corporate debtor, who is one of the borrowers, and three other co-borrowers have repaid Rs.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 2 of 25 88,37,00,000/- against the loan which is much more than the combined principal and interest amount and yet a Section 7 application alleging that the corporate debtor/Abloom Infotech Pvt. Ltd. had defaulted in repayment of Rs. 7,94,47,080/- of financial debt to the Respondent No. 1 was filed by Respondent No. 1 and which was admitted by the Adjudicating Authority vide the Impugned Order.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		4. The Appellants have claimed that the said default was alleged erroneously and, therefore, they asked for proper account statement from Respondent No. 1 vide notice dated 24.07.2020 which was not provided to them. They have also alleged that in order to appropriate a valuable land plot held by the Appellants, Respondent No. 1 brought in a related company M/s Pardos Realtors Pvt. Ltd. and entered into a tripartite agreement dated 28.09.2018 between M/s Pardos Realtors, the Appellants and the Respondent No. 1 for purchase of the land plot situated in Sector 132, Noida (U.P.). In accordance with this agreement, the first two payments of Rs. 3,91,78,073/- and Rs. 1,71,95,717/- was made by M/s Pardos Realtors (the 'buyer') to the corporate debtor which was transferred by the corporate debtor to Respondent No. 1. Thereafter, without any authorisation the next three payments made by the Appellants to M/s Pardos Realtors amounting to Rs. 1.75 crores each was transferred to Respondent No. 1 and thereafter, without any proper grounds of infringement of the tripartite agreement M/s Pardos Realtors sent a legal notice dated 27.08.2019 for termination of the tripartite agreement. M/s Pardos Realtors also asked for returning their security deposit of Rs. 10,88,73,790/- with interest at the rate of 30% from the corporate debtor. Further it is stated by the Appellants that, to the distress of the Corporate Debtor, Respondent No. 1 filed an application under Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 3 of 25 section 7 of IBC claiming of Rs. 7,94,47,080/- to be financial debt which is payable by the Corporate Debtor which was in default.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		5. The Appellants have further stated that the Respondent No. 1 filed the application for personal Insolvency against the personal guarantor (Appellant No. 2) under section 95 of the IBC and despite a 'stay order' dated 12.10.2020 in a writ petition filed by the Appellant in Delhi High Court the Adjudicating Authority went ahead and admitted the section 7 application. During consideration of section 7 application the Resolution Professional (in short 'RP') of Ninex Group filed an impleadment application as it is a co-borrower with the Corporate Debtor but this application for impleadment was rejected by the Adjudicating Authority.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		6. The questions that have been raised by the Appellants in this appeal are:-
+	</p>
+	<p title="Issue">
+		(i) Whether any amount was due and payable by the Corporate Debtor Abloom Infotech Pvt. Ltd./Corporate Debtor to the Financial Creditor (Respondent No. 1);
+	</p>
+	<p title="Issue">
+		(ii) Whether the financial creditor can invoke multiple remedies by filing claims of the same amount in some other Corporate Insolvency Resolution Processes (in short 'CIRP') going on against other companies of the Ninex Group; and
+	</p>
+	<p title="Issue">
+		(iii) Whether the claim of Respondent No. 1 which is being considered in the CIRP of the Corporate Debtor/Abloom Infotech Pvt. Ltd. does not pclude him from filing an application for initiating CIRP against the personal guarantor (Appellant No. 2).
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 4 of 25
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		7. We heard the oral arguments submitted by the Learned Counsels of both the parties and also perused the record.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		8. The Ld. Counsel for the Appellant has submitted the following arguments:-
+	</p>
+	<p title="Petitioner's Argument">
+		(i) That out of total sanctioned loan amount of Rs. 16 Crores the Corporate Debtor was disbursed an amount of Rs. 6,75,50,000/-
+	</p>
+	<p title="Issue" data-structure="Issue">
+		against which it has already repaid an amount of Rs. 13,38,99,599/- to Respondent No. 1.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(ii) Despite repeated requests, Respondent No. 1 did not provide any clear statement of accounts to the Appellants, neither under Section 7 application nor in response to the legal notice dated 24.07.2020 (attached at Pg. 162-174 of the Appeal Paper Book) to settle the issue of repayment.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(iii) The Appellants submitted written submission to the Adjudicating Authority raising issues which were not taken into account in the Impugned Order.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(iv) Certain amounts were transferred by the Respondent No. 1 to the Corporate Debtor as and the same were transferred in accounts controlled by the Respondent No.1 on the same date and therefore, these amounts were not disbursed against time value of money and cannot be considered as loan amounts. These amounts were disbursed for ever-greening of loan given to Red Topaz Real Estate Pvt. Ltd. and were given to the Corporate Debtor vide transactions dated 12.02.2018, 13.03.2018 and 16.05.2018 and on the same dates it was withdrawn by the Respondent No. 1 (Details at Pg. 139 of the Rejoinder filed by the Appellant). Certain amounts were retained by the Respondent No. 1 for future repayment and referred as Debt Service Reserve Account (in short 'DSRA') totalling to Rs.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 5 of 25 1,06,97,157 and, therefore, these amounts cannot be considered as financial debt.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(v) The entire exercise was done by the Financial Creditor/Respondent No. 1 is to appropriate a parcel of land owned by the Corporate Debtor located in Sector 132, Noida for which Respondent No. 1 brought an associated company by the name of M/s Pardos Realtors Pvt. Ltd. with whom the corporate debtor signed an agreement to sell for a consideration of Rs. 56,76,92,800. M/s Pardos Realtors (The buyer of the said plot of land located in Noida) terminated the agreement vide notice dated 27.08.2019 which was completely illegal.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(vi) The Respondent No. 1 has filed claims in multiple proceedings for the same alleged financial debt prior to admission of proceedings under Section 7 of IBC in this case and therefore, the psent proceedings are not maintainable. Respondent No. 1 has filed claim for the same amount in the CIRP of Ninex Developers Ltd. (refer Pg. 16 of Rejoinder of the Appellant) and also filed claim regarding the same amount in the CIRP of Red Topaz Real Estate Pvt. Ltd. (refer Pg. 31 of Rejoinder of Appellant). It has also invoked proceedings against property located at Baddi (Himachal Pradesh) worth more than 18 Crores under the SARFAESI Act, 2002. Also, Respondent No. 1 has also filed personal Insolvency Petition against Mr. Ram Mehar Garg, a personal guarantor for the same amount before the NCLT.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(vii) Red Topaz Real Estate, a co-borrower, is undergoing CIRP in which the Respondent No. 1 is a secured creditor whose claim has been admitted by the RP. The liquidation value of assets of Red Topaz Real Estate is more than Rs. 102 Crores and the total financial debt due to the secured creditors is less than the liquidation value. After approval of the resolution plan by the Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 6 of 25 Adjudicating Authority the entire debt due to the Respondent No. 1 will be paid and, therefore, the psent proceedings CIRP against the Corporate Debtor/Abloom Infotech Pvt. Ltd. is not justified.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		9. The Ld. Counsel for the Respondent No. 1 has argued that in accordance with clause 2.5 and Schedule 2 of the loan agreement dated 27.04.2016 (attached at pp. 59-154 of the Appeal Paper Book) a total loan of Rs. 13,35,00,000 was disbursed by Respondent No. 1 against the payment of interest in accordance with the following four letters of drawal:-
+	</p>
+	<p title="Petitioner's Argument">
+		Sl. No. Date Amount Disbursed in Rs. 1. 04.05.2016 7,00,00,000/- 2. 12.02.2018 2,00,00,000/- 3. 13.03.2018 2,75,00,000/- 4. 16.05.2018 1,60,00,000/- Total 13,35,00,000/-
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		This disbursed amount has been admitted by the Corporate Debtor in Paragraph Nos. 4.5 and 4.8 of the Reply to section 7 application (attached at pp. 437-440 of the Reply filed by Respondent No. 1).
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		10. The Ld. Counsel for Respondent No. 1 has stated that the Corporate Debtor has admitted default in repayment in paragraph 4.5 of its reply to IBC Petition that Ninex Developers Pvt. Ltd. and Red Topaz Real Estate Pvt. Ltd. (which are co-borrowers in the loan agreement dated 27.04.2016) are under CIRP due to their inability Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 7 of 25 to repay the loans (attached at Pg. 438, 439 of Reply of Respondent No. 1).
+	</p>
+	<p title="Issue" data-structure="Issue">
+		11. We note from the details included in section 7 application that an event of default took place on 15.09.2017, and there were subsequent events of default thereafter whose dates are stated in Part-IV of the section 7 application. A statutory demand notice dated 19.03.2019 under Section 25 of the Payment and Settlement Systems Act, 2007 r/w Negotiable Instruments Act, 1881, and a legal notice dated 27.06.2019 were issued on behalf of the Respondent No. 1 to the Corporate Debtor which also establish the 'event of default' in repayment of the disbursed loan.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		12. The Ld. Counsel of Appellant has claimed that the IBC Petition under Section 7 filed by the Respondent No. 1 before the Adjudicating Authority was complete in all respects and no defects or deficiencies were raised by the Corporate Debtor at that time and hence the debt and default are not disputed. The main dispute raised by the Appellant is that there are CIRPs going on against two other co-borrowers viz Ninex Developers and Red Topaz Real Estate companies on the basis of the same loan agreement, and hence the section 7 application against Abloom Infotech is not maintainable.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		13. In order to examine whether debt was disbursed and if so whether it was disbursed against time value of money we look at the definition of financial debt given in Section 5(8) of IBC, which is as follows:-
+	</p>
+	<p title="Analysis of the law">
+		Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 8 of 25 "5(8) "financial debt" means a debt alongwith interest, if any, which is disbursed against the consideration for the time value of money and includes-
+	</p>
+	<p title="Analysis of the law">
+		(a) money borrowed against the payment of interest;"
+	</p>
+	<p title="Analysis of the law">
+		xxx xxx
+	</p>
+	<p title="Analysis of the law">
+		14. The loan agreement dated 27.04.2016 (Attached at pp.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		58-154 of Appeal Paper book), which is not disputed, shows that the loan facility was sanctioned by the Respondent No. 1 for the Corporate Debtor alongwith three other co-borrowers. This loan agreement was between Ninex Developers Limited (First Part), Red Topaz Real Estate (P) Limited, (2nd Part), RMG Developers (P) Limited (3rd Part) and Abloom Infotech Primate Limited (4th Part) who are collectively referred to as 'Borrowers' and the persons/entities listed in Part A of Schedule 1 individually referred as 'Guarantor' and collectively as 'Guarantors' (4th Part) and DMI Finance Limited, 'Lender' (6th Part).
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		15. We also note that the averments that the Corporate Debtor and the co-borrower have already repaid more than of Rs. 88,73,00,000/- to the Respondent No. 1 which includes principal amount of Rs. 69,51,00,000 and Rs. 16,45,00,000 as interest was never submitted before the Adjudicating Authority and therefore, should not be taken into account here before the Appellate Tribunal.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		16. The Applicable Rate of Interest is given in Article 1 "DEFINITIONS AND INTERPRETATION" in the Loan Agreement (supra) which is as follows:-
+	</p>
+	<p title="Analysis of the law">
+		Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 9 of 25 "Applicable Rate of Interest" means in respect of the Loan Facility the rate at which interest is agreed to be pain in respect thereof as pscribed Schedule 2"
+	</p>
+	<p title="Analysis of the law">
+		Further, the quantum of Applicable Rate of Interest is given in Schedule 2 of the Loan Agreement (supra) in the section on 'Financial Terms' wherein the Applicable Rate of Interest is given as follows:-
+	</p>
+	<p title="Analysis of the law">
+		"21% per annum till the first Reset Date. The Applicable Rate of Interest will stand reduced to 19% per annum from the Reset Date."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		17. Further in the Loan agreement event of default are defined in Article 8 "Events of Default and Remedies" which is as follows:-
+	</p>
+	<p title="Analysis of the law">
+		"8.1 Events of Defaults In addition to any events as may be specified as an Event of Default in Schedule 8, each of the following events shall constitutes an Event of Default:
+	</p>
+	<p title="Analysis of the law">
+		(a) Financial Default
+	</p>
+	<p title="Analysis of the law">
+		(i) Default by the Obligor in repayment of any Due on the Due Date;
+	</p>
+	<p title="Analysis of the law">
+		(ii) Any Default in payment of amounts due and payable to the Lender under any existing Debt of any member of the Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 10 of 25 Promoter Group. If such Default has not been cured within the cured period, if any, provided in accordance with the documents executed in respect of such Debt;"
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		18. The details of Personal Guarantors of Corporate Guarantors is given in Schedule 1 of the Loan Agreement dated 27.04.2016 wherein Mr. RM Garg and Sandeep Garg (Both Appellant Nos. 1 and 2) have been included in Schedule 1A as promoters.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		19. We also note that in the reply filed by the Corporate Debtor in response to section 7 application (attached at pp. 433- 503 of Reply filed by the Respondent No. 1 Vol. III at Pg. 437) states as follows:-
+	</p>
+	<p title="Court's Reasoning">
+		"4.3 That the loans which were granted by the Financial Creditor to the Ninex Group Companies were secured by the various assets of the Ninex Group Companies under the various documentations which executed between the Financial Creditor and the said companies.
+	</p>
+	<p title="Court's Reasoning">
+		4.5 That however on account of certain financial problems and inability to pay their loans to other, two of the co of 'Ninex Group' namely M/s Ninex Developers Limited as well as M/s Red Topaz Real Estate Pvt. Ltd. are psently under CIRP and IRP has been appointed in their cases and CIRP on going. There is a moratorium declared under Section 14 of the IBC, 2016 process as regards the said companies. The Financial Creditor in the case of CIRP of M/s Ninex Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 11 of 25 Developers Limited has filed a claim before the IRP for a sum of Rs. 2,19,58,952/- for penal interest and costs despite their full and final settlement between the Financial Creditor and said M/s Ninex Developers Limited. The said claim has till d ate not been verified and approved by the RP. The said claim is an unwarranted claim in light of the no claim letters issued by the Financial Creditor against M/s Ninex Developers Limited on 25.07.2017. The Financial Creditor however has not filed any claim against the company M/s Red Topaz Real Estate Pvt. Ltd. which is also under CIRP. The cop of the list of creditors of M/s Ninex Developers Limited as furnished to the Corporate Debtor in the meeting of the committee of creditors of the said company is enclosed as Annexure R-3 and that of M/s Red Topaz Real Estate Pvt. Ltd. is Annexure R-4.
+	</p>
+	<p title="Court's Reasoning">
+		20. A point raised by the Appellant in his written submissions is that certain amounts were retained by the Respondent No. 1 for future repayment which is referred to as Debt Service Reserve Account (DSRA) and thus a total amount of Rs. 1,06,97,157 was retained from the four disbursements made by the Financial Creditor to the Corporate Debtor. We note that DSRA is allowed to be kept by the Financial Creditor from money to be made available by the Corporate Debtor. The provision for DSRA has been made in Schedule 7 of the Loan Agreement (supra) which is described on pg. 130 of the Appeal Paper book Vol. I as follows:-
+	</p>
+	<p title="Court's Reasoning">
+		"2. The following Security Interest shall be created in favour of Lender for securing the Obligations:
+	</p>
+	<p title="Court's Reasoning">
+		Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 12 of 25
+	</p>
+	<p title="Court's Reasoning">
+		(a) Security Interest to be created prior to first Drawdown:
+	</p>
+	<p title="Court's Reasoning">
+		(i) Maintenance of DSRA as a fixed deposit and hypothecation/charge over the same in favour of the Lender;"
+	</p>
+	<p title="Court's Reasoning">
+		DSRA has been defined in Schedule 7 Security Governance of the Loan Agreement (supra) at Pg. 127 of Appeal Paper Book as follows:-
+	</p>
+	<p title="Court's Reasoning">
+		"1. In this Agreement the following capitalised terms shall have the meaning ascribed to below:
+	</p>
+	<p title="Court's Reasoning">
+		Xxx xxx xxx
+	</p>
+	<p title="Court's Reasoning">
+		(i) "DSRA" means an amount equivalent to succeeding two payment instalments.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Xxx xxx xxx
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		21. From the abovementioned inclusion in Schedule 7 of Loan Agreement dated 24.07.2016 it is clear that a DSRA has to be maintained in favour of the Lender. Therefore, the amount that was deducted by the Financial Creditor totalling Rs. 1,06,97,157/- was deducted from the four disbursements made to the Corporate Debtor and kept in DSRA.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		22. Further in the Loan Agreement (supra) provision is made of a Security Interest to be created by Abloom Infotech in favour of the Lender in relation to the IT Land situated in sector 132 of Noida Authority. This provision is included in Schedule 7 "Security Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 13 of 25 Covenants" on Pg. 131 of the Appeal Paper Book which is as hereunder:-
+	</p>
+	<p title="Precedent Analysis">
+		"2. The following Security Interest shall be created in favour of Lender for securing the Obligations:
+	</p>
+	<p title="Precedent Analysis">
+		Xxx
+	</p>
+	<p title="Precedent Analysis">
+		(b) Security Interest to be created after first Drawdown:
+	</p>
+	<p title="Precedent Analysis">
+		(i) The following security interest shall be created by Abloom in favour of the Lender, in a form satisfactory to be Lender, within forty five (45) days of final decision of the High Court of Allahabad in Civil Miscellaneous Writ Petition No. 4923 of 2013 or by or before 15.04.2017 whichever is earlier and for this purpose, Abloom shall apply for necessary permission to mortgage to the NOIDA Authority and make payment of all its dues to for the IT Land to the NOIDA Authority;
+	</p>
+	<p title="Precedent Analysis">
+		(a) First charge by way of equitable mortgage on the entire right title and interest in IT Land;
+	</p>
+	<p title="Precedent Analysis">
+		(b) First charge by way of hypothecation over the IT Project Receivables and all movable assets, current assets and work in progress relating to the IT Project; and
+	</p>
+	<p title="Precedent Analysis">
+		(c) Escrow of the IT Project Receivables and first charge by way of hypothecation over such Escrow Accounts in respect thereof in favour of the Lender, in a form satisfactory to the Lender, including the terms of Schedule 7C."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		23. The details of the 'IT Land' is given in Schedule 7 'Security Governance' of the Loan Agreement (supra) at pg. 127 of Appeal Paper book, which is as hereunder:-
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 14 of 25
+	</p>
+	<p title="Precedent Analysis">
+		(m) "IT Land" means the land admeasuring 20242.60 sq. mtrs. constituted in plot No. A-3A, Sector 132, New Okhla Industrial Development Area, Distt. Gautam Budh Nagar, UP leased to Abloom by NOIDA Authority under lease deed dated 24.08.2006."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		24. The permitted purposes for the loan facility is given in clause 8 of Schedule 2 of Loan Agreement (supra) which is as follows:-
+	</p>
+	<p title="Precedent Analysis">
+		"Permitted Purpose The Term Loan Facility shall be used only for the following purpose:
+	</p>
+	<p title="Precedent Analysis">
+		(i) Proceeds of the First Tranche shall first be used for repayment and full and final settlement of unsecured loans obtained by Abloom as identified below. .........
+	</p>
+	<p title="Precedent Analysis">
+		(ii) Proceeds of Second Tranche shall first be used for repayment and full and final settlement of unsecured loans obtained by Abloom from Dhoot Ninex Projects Pvt. Ltd. .......
+	</p>
+	<p title="Precedent Analysis">
+		(iii) Balance amount shall be utilised first for the payment of dues to NOIDA Authority for the IT Land.......
+	</p>
+	<p title="Precedent Analysis">
+		(iv) Any amount remaining shall be utilised for general corporate purposes subject to End Use Restrictions."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 15 of 25
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		25. Part-IV of the section 7 application (attached at pp 52-77 of Reply filed by the Respondent No. 1) gives the amount claimed in default and payable as Rs. 7,94,4,080 and the first default in repayment has been shown to take place on 15.09.2017 and thereafter every month on the 15th of each month upto 15.08.2019 (refer pp 57-58 of Respondent No. 1's Reply). The amount in default is also included in the section 7 application. Moreover, the section 7 application also mentions in S. No. 2 of Part-IV in clause 5 that 'Mr. RM Garg and Mr. Sandeep Garg are promoters of the co-borrowers and personal guarantors of the Loan Facility vide Deed of Guarantee dated 2.04.2016 and Dauphin AKG Hotels Pvt. Ltd. has also provided a guarantee vide Deed of Guarantee dated 15.05.2018 to secure Loan Facility'. The deeds of guarantee are also attached with the Section 7 application.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		26. The Appellant has raised an issue that part of the Loan Facility was used for ever-greening and therefore it cannot be termed as a loan given for time value of money. In this regard, we note the purpose of the Loan Facility which is included in Schedule 2 clause 8 wherein the 'Permitted Purpose' is repayment 'repayment and full and final settlement of unsecured loans obtained by Abloom as identified below' and repayment and full and final settlement of unsecured loans obtained by Abloom from Dhoot Ninex Projects Pvt. Ltd.' Thus, repayment of unsecured loans towards full and final settlement is a permitted purpose of Loan Facility and hence, the amount disbursed vide agreement dated 27.04.2016 qualifies as financial debt as defined in Section 5(8)(a) of the IBC. Admittedly, the default has taken place in accordance with the Event of Default as defined in the Loan Agreement in Article 8 and further Ninex Developers Pvt. Ltd. and Red Topaz Real Estate Pvt. Ltd. who are co-borrowers in the said Loan Agreement Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 16 of 25 dated 27.04.2016 are already under CIRP due to their inability to repay the loan amounts. Furthermore, statutory demand notice under Section 25 of the Payment and Settlement Systems Act, 2007 r/w Negotiable Instruments Act, 1881 dated 19.03.2019 and legal notice dated 2.06.2019 issued on behalf of the Financial Creditor to the Corporate Debtor also establish the Event of Default. This default has first taken place on 15.09.2019 and hence, the section 7 application is under limitation.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		27. From the various clauses and conditions included in the loan agreement dated 27.4.2016 (supra), it is amply clear that admittedly a disbursement amounting to Rs. 13,35,00,000 was made by the Financial Creditor to the Corporate Debtor and an event of default as described in Article 8 'Event of Default and Remedies' of the Loan Agreement, the Corporate Debtor defaulted in the repayment of the due loan amounts. In accordance with clause 8.2 of Article 8 the Lender had the right to terminate the said agreement after giving a notice to the borrower. The terms and conditions relating to Applicable Rate of Interest, Permitted Purpose, Security Interest (regarding the IT Land) define the use of loan amount, the time value of money aspect and the personal guarantors specified in the Loan Agreement. All these are among the issues raised by the Appellant which are cogently covered in the Loan Agreement. Thus we find that the Loan Agreement, which is a written document, signed by the corporate debtor and financial creditor along with the guarantors, lays down conditions of disbursement and events of default and thus establish various aspects and conditions of the loan provided by the financial creditor to the corporate debtor.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 17 of 25
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		28. The Appellant has also raised the issue of Financial Creditor/Respondent No. 1 colluding with M/s Prados Realtors to appropriate 'IT Land' situated in sector 132, NOIDA from the Corporate Debtor regarding the sale of the 'IT Land' by the Corporate Debtor. The said IT Land has been provided as a security in first charge by way of equitable mortgage on the entire right and interest in the Commercial Land favour of the Lender (Financial Creditor) vide clause 2(b) of the Schedule 7 of the Loan Agreement (supra) at pg. 131 of Appeal Paper book. Further an agreement to sell has been signed between the Abloom Infotech/Corporate Debtor and Pardos Realtors and DMI Finance Pvt. Ltd./Financial Creditor wherein the said IT Land has been subject of the agreement to sell in compliance of the condition of the Loan Agreement where the major part of the sell consideration has to be utilised first and foremost for meeting the obligation of the seller/its associate companies towards the amounts due under the Loan Facility and for p-payment of Loan Facility.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		29. Therefore, the 'Agreement to Sell' is done with the purpose of repayment of Loan Facility and can hardly be called a collusive action by the Financial Creditor alongwith Pardos Realtors Pvt. Ltd. against the Corporate Debtor. Later, this IT Land agreement was also terminated vide letter dated 27.08.2019 (attached at pp. 194- 196 of the Appeal Paper Book) wherein Pardos Realtors Pvt. Ltd. has exercised its right to terminate the said agreement to sell/buy as the Corporate Debtor failed to take actions required for transfer of the loan, including withdrawal of the Writ Petitions/Litigations initiated by the Corporate Debtor against the Noida Authority thereby delaying the transfer. It has also asked for return of the refundable security deposit of Rs. 10,88,73,790/- together with interest at the rate of 30% per annum compound monthly as stated Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 18 of 25 in Paragraph 4 of termination letter. Be that as it may, the termination of the agreement to sell has no bar on the adjudication of section 7 application.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		30. The Ld. Counsel for Appellants has opposed the simultaneously on-going CIRPs against co-borrowers. The judgments of Hon'ble Supme Court in the matters of Lalit Kumar Jain Vs. Union of India &amp; Ors. [Transferred Case (C) No. 245 of 2020], State Bank of India. Vs. Ramakrishnan &amp; Anr. (Civil Appeal No. 3595 of 2018) and State Bank of India Vs. Athena Energy Ventures Pvt. Ltd. [(2020) SCC Online NCLAT 774] are relevant in this context which hold that the principal debtor and surety have co-extensive liabilities and also that there is no bar under the IBC for the financial creditor to simultaneously file claims against all co-borrowers or there is any prohibition for the financial creditor to proceed against both the corporate debtor and the surety.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		31. We also note that the judgment of NCLAT in the matter of Dr. Vishnu Kumar Agarwal Vs. M/s Piramal Enterprises Ltd. [CA (AT) (Ins) No. 346 of 2018 has been subsequently revised through a judgment of NCLAT in the case of State Bank of India Vs. Athena Energy Ventures Pvt. Ltd. (supra) wherein it was held as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"16. We find substance in the arguments being made by the learned Counsel for Appellant which are in tune with the Report of ILC. The ILC in para-7.5 rightly referred to subsequent Judgment of "Edelweiss Asset Reconstruction Company Ltd. V. Sachet Infrastructure Ltd." dated 20th September, 2019 which permitted Company Appeal (AT) (Ins.) No. Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 19 of 25 186 of 2021 simultaneously initiation of CIRPs against Principal Borrower and its Corporate Guarantors. In that matter Judgment in the matter of Piramal was relied on but the larger Bench mooted the idea of group Corporate Insolvency Resolution Process in para -34 of the Judgment. The ILC thus rightly observed that provisions are there in the form of Section 60 (2) and (3) and no amendment or legal changes were required at the moment. We are also of the view that simultaneously remedy is central to a contract of guarantee and where Principal Borrower and surety are undergoing CIRP, the Creditor should be able to file claims in CIRP of both of them. The IBC does not pvent this. We are unable to agree with the arguments of Learned Counsel for Respondent that when for same debt claim is made in CIRP against Borrower, in the CIRP against Guarantor the amount must be said to be not due or not payable in law. Under the Contract of Guarantee, it is only when the Creditor would receive amount, the question of no more due or adjustment would arise. It would be a matter of adjustment when the Creditor receives debt due from the Borrower/ Guarantor in the respective CIRP that the same should be taken note of and adjusted in the other CIRP. This can be conveniently done, more so when IRP/RP in both the CIRP is same. Insolvency and Bankruptcy Board of India may have to lay down regulations to guide IRP/RPs in this regard.
+	</p>
+	<p title="Precedent Analysis">
+		Xxx xxx xxx xxx
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		32. There is no substance in the submissions of Counsel for Respondent that case would be different if same IRP/RP is there in the two CIRPs. It would be just a matter of co-ordination between the two IRPs/RPs. Till payment is received in one CIRP, claim can be maintained in both CIRPs Company Appeal (AT) (Ins.) No. 186 of 2021 for same amount and repsentation in CoC in both CIRPs to the extent of amount due will be justified. This is the reason why Section 60 (3) provides for transfer of proceeding to Adjudicating Authority where already there is a pending proceeding. There is no question of looking into Judgments when Section 60 of IBC is clear and makes the two CIRPs maintainable in such matters. If they are maintainable, claim in both (subject to adjustments on receipts) would also be maintainable. There is no Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 20 of 25 need to be tied down with Judgments if we see Section 60 which has been reproduced (supra). That is the law."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(Emphasis supplied)
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		32. Therefore, when the liabilities of the principal borrower and surety are co-extensive under an agreement, it stands to reason that the liabilities of co-borrowers who have equal and similar liabilities under a loan agreement will also be there and CIRPs against them can run simultaneously. Moreover, till the financial creditor is able to get payment of his claim, he can file claim in all the CIRPs and also have voting rights in the respective CoCs based on the quantum of his financial debt. Thus we infer that the liabilities of the corporate debtor and the co-borrower companies are joint and co-extensive in nature and that claims of similar amounts could be submitted by the financial creditor in all the CIRPs.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		33. The Respondent No. 1 is also entitled to initiate independent proceedings under the different statutes and that would not be a bar for initiating proceedings under Section 7 of the IBC in the psent case. The Judgment of NCLAT in the matter of Punjab National Bank Vs. Vindhya Cereals Pvt. Ltd. [CA (AT) (Ins) No. 854 of 2019] and Neeraj Jain Vs. Yes Bank Ltd. &amp; Anr. [CA (AT) (Ins) No. 323 of 2019] have been cited in support of this contention by the Ld. Counsel of Respondent No. 1.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		34. The issue about simultaneous CIRP against the Corporate Debtor and the Personal Guarantor is also sought to be answered by the Ld. Counsel for the Respondent No. 1 by citing certain Judgments of the Hon'ble Supme Court and the NCLAT in the Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 21 of 25 matter of State Bank of India Vs. Athena Energy Ventures Pvt. Ltd. [CA (AT) (Ins) No.633 of 2020] the NCLAT, has taken note of the Judgment in the matter of M/s Piramal Enterprises Ltd., held that in view of Sub-Section(2) and (3) of Section 60 of IBC wherein the words "Liquidation or bankruptcy of the Corporate Debtor for Personal Guarantor as the case may be, of such Corporate Debtor"
+	</p>
+	<p title="Precedent Analysis">
+		have been used vide amendment in the Insolvency and Bankruptcy Code (Second Amendment) Act, 2018 which is operational from retrospective effect from 06.06.2018 held that simultaneous action regarding Liquidation or bankruptcy of a Corporate Debtor and Personal Guarantor can take place simultaneously. Furthermore, in the same Judgement it is held as follows:-
+	</p>
+	<p title="Precedent Analysis">
+		"If the above provisions of Section 60(2) and (3) are kept in view, it can be said that IBC has no aversion to simultaneously proceeding against the Corporate Debtor and Corporate Guarantor. If two Applications can be file, the same amount against Principal Borrower and Guarantor keeping in view the above provisions, the Applications can also be maintained. It is for such reason that Sub-Section (3) of Section 60 provides that if insolvency resolution process or liquidation or bankruptcy proceedings of a Corporate Debtor is pending in any Court or Tribunal, it shall stand transferred to the Adjudicating Authority dealing with insolvency resolution process or liquidation proceeding of such Corporate Debtor. Apparently and for obvious reasons, the law requires that both the proceedings should be before same Adjudicating Authority."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 22 of 25
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		35. In the Judgment of Hon'ble Supme Court in the matter of State Bank of India Vs. Ramakrishna &amp; Anr. (Civil Appeal No. 3595 of 2018), it is held in Para 23 as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"23...... The object of the Code is not to allow such guarantors to escape from an independent and co-extensive liability to pay off the entire outstanding debt, which is why Section 14 is not applied to them. However, insofar as firms and individuals are concerned, guarantees are given in respect of individual debts by persons who have unlimited liability to pay them."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		36. In the matter of Lalit Kumar Jain Vs. Union of India &amp; Ors. [Transferred Case (C) No. 245 of 2020], the Hon'ble Supme Court has held the validity of notification authorising the Central Government and the Insolvency and Bankruptcy Board of India to frame Rules and Regulations on how to allow actions against a Personal Guarantor to a Corporate Debtor before the Adjudicating Authority. In Para 95 of the said Judgment, it is held as follows:-
+	</p>
+	<p title="Precedent Analysis">
+		"95. The impugned notification authorises the Central Government and the Board to frame rules and regulations on how to allow the pending actions against a personal guarantor to a corporate debtor before the Adjudicating Authority."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		37. Later in the Lalit Kumar Jain Judgment in Para 111 and 112, it is held by the Hon'ble Apex Court as below:-
+	</p>
+	<p title="Precedent Analysis">
+		111. In view of the above discussion, it is held that approval of a resolution plan does not ipso facto discharge a personal Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 23 of 25 guarantor (of a corporate debtor) of her or his liabilities under the contract of guarantee. As held by this Court, the release or discharge of a principal borrower from the debt owed by it to its creditor, by an involuntary process, i.e. by operation of law, or due to liquidation or insolvency proceeding, does not absolve the surely/guarantor of his or her liability, which arises out of an independent contract.
+	</p>
+	<p title="Precedent Analysis">
+		112. For the foregoing reasons, it is held that the impugned notification is legal and valid. It is also held that approval of a resolution plan relating to a corporate debtor does not operate so as to discharge the liabilities of personal guarantors (to corporate debtors). The writ petitions, transferred cases and transfer petitions are accordingly dismissed in the above terms, without order on costs.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		38. Thus, it is clear that simultaneous proceedings are possible against the Corporate Debtor and the Personal Guarantor who has stood surety through a valid deed of guarantee. In the psent case, Mr. RM Garg and Mr. Sandeep Garg have stood guarantee of the Loan Facility advanced by the Financial Creditor to the Corporate Debtor vide Loan Agreement dated 27.04.2016 and through the deed of guarantee dated 27.04.2016 and hence can be moved against under the IBC while CIRP proceedings are going on against the Corporate Debtor.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		39. In view of the detailed discussions above and in the light of various provisions of the IBC, we are clear that a loan amounting to Rs. 13,35,00,000/- was disbursed by the Financial Creditor/DMI Finance Pvt. Limited to the Corporate Debtor/Abloom Infotech Pvt. Ltd. in accordance with Loan Agreement dated 27.04.2016 whose Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 24 of 25 repayments were in default and a Section 7 application was moved against the Corporate Debtor by the Financial Creditor consequently. Ingredients of section 7 application are satisfied and the Adjudicating Authority has correctly admitted the section 7 application, thereby initiating CIRP against the Corporate Debtor. In such a situation, we do not find any reason to interfere with the impugned order dated 11.03.2021 and hold it as correct. The Appeal is thus disposed of accordingly.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		40. In view of the facts of the case, there is no order as to costs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice Ashok Bhushan] Chairperson [Dr. Alok Srivastava] Member (Technical) New Delhi 24th March, 2022 /SC/ Company Appeal (AT) (Insolvency) No. 321 of 2021 Page 25 of 25
+	</p>
+</div>
+</html>

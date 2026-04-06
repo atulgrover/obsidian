@@ -1,0 +1,1237 @@
+# Perspectives on IBC (Series VIII) | Treatment of Government Dues under IBC with relevant case laws
+![](https://img.youtube.com/vi/rzHoWWPmaSo/hqdefault.jpg)
+5 months ago (Feb 23, 2024) — 2:41:15
+[https://youtube.com/watch?v=rzHoWWPmaSo](https://youtube.com/watch?v=rzHoWWPmaSo)
+
+
+## Summary
+Today's discussion will focus on the treatment of government dues or Crown debts under the Insolvency and Bankruptcy Code (IBC). The presentation will cover the status prior to IBC, important definitions, decided cases, impact of moratorium, order of priority under section 53, and the treatment of government dues under various legislations and judgments. The speaker has compiled 20 cases, including landmark judgments, to provide a comprehensive understanding of the topic. Prior to IBC, the Companies Act 1956 and 2013, Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, and the Recovery of Debts and Bankruptcy Act 1993 were the major legislations that dealt with government dues. The IBC, introduced in 2016, altered the order of priority of payment of government dues, making it lesser significant compared to other dues. The preamble of the IBC also supports this alteration. The definitions of operational debt and operational creditor are crucial to understanding the treatment of government dues under the IBC. Regulation 7 of the CP regulation and Regulation 17 of the liquidation regulation specify the claim filing process for operational creditors. Section 30 of the IBC deals with the submission of a resolution plan, and section 31 speaks about the approval of a resolution plan. Once approved, the resolution plan is binding on all parties, including the government.
+
+## Screen. So today we will be looking at the treatment of Crown debts or government dues
+0:01
+Screen. Yeah, so today we will be looking at the treatment of Crown debts or government dues under the IBC. I will take you through the brief U scheme of what I propos to take. So first we will. So we will look at this: the status prior to IBC. What was the law there prior to IBC? Then we will look at some important definitions which are required to understand how the government use are being treated. 
+
+0:55
+We'll also look at some decided cases which will help us determine how the government dues are placed and also on the impact of moratorium and how the statutory authorities claim should be treated during moratorium. The order of priority under section 53 in case of liquidation, so whether the secured FC versus the secured OC, how they are going to be treated. 
+
+1:21
+We'll also look at 11 Provisions under the various other legislations and judgments pertaining to L like the U income tax, GST, Customs, PF, ESI and all these other legislations which deal with government use, and apart from that, we will also look at how they are treated in the voluntary liquidation and among the cases, I have tried to compile some 20 odd cases, including most of the landmark judgments that are required for us to know the treatment of the ground debts and also try to cover the latest cases to the extent possible. 
+
+
+## IBC: First priority payment to Workman dues
+2:01
+So I will proceed with the first leg of the presentation, which is the status prior to IBC. Just a yeah, just give me a minute. The screen is a little slow. Yeah. so prior to IC we had three major legislations. 
+
+2:27
+We had the companies act, we had surfacing and we had the recovery of debts and bankruptcy act 1993. So among that, the first we will see the companies act 1956 and the subsequently the companies act 2013. So the company's act primarily provides for the first priority payment to Workman dues and secured creditors and post that it gives the second priority of to government dues. 
+
+2:59
+That would be parasu with these six modules that I have set forth, so the first being wages of salary of employees not exceeding four months, and then it is ACR holiday remuneration payable to the employees. Then the employer's contribution payable under ESI act. then the compensation under the workman's compensation act, sums due to an employee from PF pension fund, gradu fund or any other fund for the welfare of employees maintained by the company. 
+
+
+## IBC Distribution: How Companies Act 1956 acted for this distribution
+3:34
+And lastly, expenses in of any investigations who, as far as they are payable by the company, all these will be in priority payment to other classes of creditors apart from Workman dues and secured creditors. So if we see this is similar to what we have seen under the present IBC as well, where we can see the similar kind of distribution being done. 
+
+4:00
+Now, if you can recall, in the company's act 1956, there were provisions of 529 capital A and 530 of the companies, act 1956 which provided for this kind of a distribution, and post that companies act 2013 as well provided for a similar pattern. subsequently IBC introduced in 2016. So apart from the companies act, we also had prior to IBC the surfacy and the recovery of debts and bankruptcy act. 
+
+4:49
+So the securitization and reconstruction of financial assets and enforcement of security interest act, as the the name of the act itself suggests it covered two important aspects. One was the Reconstruction of financial assets and the second was enforcement of security interest. 
+
+
+## Surfacey Act: What it was to enforce security
+5:12
+So this act could be opted for by the financial creditors or any creditor only if they had a security interest, which means if you are either a secured Financial creditor or a SE secured operational creditor. 
+
+5:29
+Of course those these terms are defined only under IBC, but essentially any creditor who is secured could take you know into the surfacey act and enforces security without going through the court process directly by way of issuing of notice and then selling the particular property through the auction. 
+
+5:50
+One mandatory requirement under surface was the cersi registration, so the lenders had to register them, and the security under the CI website, which is the government website for registration as far as the recovery of debts and bankruptcy Act is concerned. So this act. What it did, was it established a tribunals. 
+
+
+## The doctrine of election: What is the doctrine of election?
+6:12
+So we are aware of the debt recovery tribunals which were established under the rdb act, and these tribunals started to the banks approached these tribunals to recover their debt, and the tribunals heard and passed the orders under the this particular act. So this act opened up to all types of creditors that is being secured or unsecured. Both of them could go through the rdb act and seek relief for non payment of their dues. 
+
+6:44
+Now what we going to see is what is called the doctrine of election. So the basically the doctrine of election says that when you have two remedies that are available for the same kind of relief, the party to whom the said remedies are available has an option to elect either of them. 
+
+7:03
+But this Doctrine would not apply, where the Ambit and scope of the two remedies are essentially different, so which leads us to the question as to whether, When A lender is a, say a secure lender, he has an option to go through either the IBC or the surfacing, or he can choose to do through the recovery of dead act. 
+
+
+## uncitral legislative guide on insolvency law - uncitral legislative guide
+7:29
+So which act he is going to select would depend on his choice of where he is going to get the maximum recovery. But law gives him so the right to elect which action which remedy he would like to take is called the doctrine of election, which again would depend on which option he feels would give the maximum recovery to him. 
+
+7:52
+Apart from this now as a run up to the IBC, we had the ancal legislative guide. So we have the uncitral's registra of guide on insolvency Law and also the blrc report. 
+
+8:17
+So when we when first when the India followed the uncitral legislative guide on insolvency law to make its code compliant and with the international laws, the basic law that was there in the ancestral legislative guide was that the government du should not be given priority and they should be given a lesser priority as compared to the other dues, like the secured Financial creditors and the Workman dues. Why this was given? 
+
+
+## Government dues should be given over secured creditors
+8:48
+The reasoning was also given in the uncal guide, which said that to promote credit for the banks to have maximum amount of recovery the it is advisable that you know the recovery goes more to the creditors and lesser to the government, and the blrc report, which also was the precursor to the IBC, also said that priority of payments towards Crown debts should be given over secured creditors, as this hampers the recoveries made by banks in the event the datar is being wound up. 
+
+9:24
+Now why would allowing the government securities Prevail over sec? Ured creditors be very important. if we allow the government dues, then what happens is it leads to uncertainty for the secured creditors regarding the sums that would be payable to them in the event of the company's insolvency, so they are not able to correctly determine what will be the recovery that they will get in case the company goes into insolvency. Why? 
+
+9:55
+Because the government dues are asserted at a later date. The government comes back with their assessment notices after considerable period of time. Unlike Banks or other financial institution lending, where the terms are clear, the and you are able to determine the quantum that is due to be payable. 
+
+
+## What is the sum that is due to the secured Financial creditor?
+10:14
+So, depending on the asset and the quantum that is due, the secured Financial creditor, or the even the any Financial creditor, will be able to analyze and understand what will be the sum that he would get out of the insolvency, whereas if the government dees are given priority, then there is always an uncertainty on what he will get. 
+
+10:33
+The second is that it will slow down or complicate the exercise of out of for out of court enforcement rights, and it will also substantially increase the costs of the secured creditor. 
+
+10:47
+Why this would complicate the out of court enforcement of right is because minute you have the priority to the government dues, the secured Financial creditor, even when he is exercising his right over the property, would have to first allocate towards the government use and only take the balance amount. 
+
+
+## Government dues to be paid in priority
+11:03
+But, and there might be some claims, counter claims, against the government, which would keep going back and forth, which will ultimately increase the cost and delay the realization to the creditor. 
+
+11:15
+Another reason is that the cost of credit for the CD may increase because secured creditors will obviously pass on the risk of arising from the collecting the use back to the Creditor in terms of higher interest rate, so which in the long run would not be very beneficial for the market sources and funding requirements of corporates. 
+
+11:40
+Another very big reason for not recommending the government dues to be paid in priority is the that for the government with such a large base and tax base and collection ability, this amount due would be a minuscule amount in terms of percentage, in terms of value to the entire gamut of dues that are there to the government or the amount that it collects. 
+
+
+## IBC: How to consolidate and amend laws on corporate persons, partnerships, firms and individuals
+12:07
+So the law makers felt that the government would by stepping down the damage to the government would be very less as compared to some other creditor for whom this amount would be very significant and it will be important for them to have this recovery in their. Now we'll also look at the preamble to the IBC. 
+
+12:33
+So the preamble to the IBC says, and act to consolidate and amend the laws relating to reorganization and insolvency resolution of corporate persons, partnership, firms and individuals in a Time bound manner for maximization of value of assets of the such persons. 
+
+12:55
+So the basic objective was to one the it is a code, so obviously it combines all the laws relating to corporate persons, firms, individuals, everything into the code and also there is a importance on given on the time bound process and also maximization of value. 
+
+
+## What is an operational debt and who is an operational creditor?
+13:14
+Why is that important is to promote entrepreneurship, availability of credit and balance, the interest of all the stakeholders and the very important thing, what I have underlined in the presentation, including alteration in the order of priority of payment of government dues and to establish the insolvency and bankruptcy Board of India and for matters connected there with our incidental there. 
+
+13:39
+So what is very important here for us to note is the Preamble of IBC itself says that the you should alter the order of priority of payment of government dues and make it lesser significant as far as the other views are concerned, which is the main intention of IBC. Next, we move on to some of the important definitions. So the first we have to understand what is an operational debt and who is an operational creditor. 
+
+14:22
+So section five, subsection 21. These are definitions relating to the corporate insolv resolution process, where it says operational debt means a claim in respect of the provision of goods or services, including employment of a debt in respect of payment of dues arising under any law for the time being in force and payable to the central government, any state government or any local Authority. 
+
+
+## CP Regulations: How to Claim OC Creditor Under CP Regulations
+14:51
+So here the classification of government use has been very clearly said that if it is, under any law, payable for the time being in force and whether it is paid to the central government or state government or any local Authority, it is covered under the operational debt. And then section five, subsection 20 defines operational creditor. 
+
+15:14
+So operational credit means a person to whom operational debt is owed and includes any person to whom such debt has been legally assigned or transferred. So the assigning of a debt or a person who has taken the debt would also be classified as an operational creditor. So in the case of government dues or crown debts, they would come under the definition of operational creditor. 
+
+15:50
+Next we move on to the relevant regulation of CP and liquidation regulations. I will first cover the corporate insolvency resolution process and then move on to the other aspects of IBC. So regulation 7 of the CP regulation state that the claim by an operational creditor should be in formed B. Regulation 17 of the liquidation regulation says that the claim of an OC should be in form C. 
+
+
+## PF authorities must submit claim for demand raised
+16:19
+There has been a recent judgment saying that even if the claim has been submitted in the wrong form, the P or the Liquidator would have to compile it and in practice I think we do intimate the regulat, the relevant creditor or the government Department that the form they have submitted is wrong and they'll have to correct and submit the form. So claim can be filed only for the demand raised. 
+
+16:46
+That is something that we all have to note. So claim cannot be given for any demand that is not yet been assessed or raised on an adhoc basis. This experience we have had in the case of PF authorities or ESI authorities who ad hop compute an amount that this has not been paid by the financial credit by the corporate data based on the past data. 
+
+17:11
+So they will assume that you have these many number of employees in the company and you were supposed to remit this amount of ESI orpf so that we can we have to make sure at the time of verification of the claim that the claim is raised only for the demand that has already been raised and not for assessments that are pending. 
+
+
+## Section 30 of the IBC: Payment of Insolvency Resolution Process Cost
+17:34
+So next we move on to the next very important section, which is section 30 of the IBC, which speaks about the submission of a resolution plan. So I have just extracted the important subsections in section 30 for our understanding. 
+
+17:54
+So subsection two it says that the resolution professionals and exam examine each resolution plan received by him to confirm that each resolution plan a provides for the payment of insolvency resolution process cost in the manner specified by the board in priority to the payment of other debts of the corporate dator. So on top is the payment of the CP cost. Subsequently, under sub subsection B, we have two amounts which are ranking parasu. 
+
+18:33
+So it says, provides for the payment of debts of operational creditors in such a manner as may be specified by the board, which shall not be less than one, the amount to be paid to such creditors in the event of liquidation of the corporate dator under section 53, or the amount that would have been paid to such creditors if the amount to be distributed under the resolution plan and being distribution in accordance with the priority order of priority under subsection one of section 53. So section 30 leads us to the distribution under section 53 in case of a liquidation. 
+
+
+## 
+19:14
+Now why there is an essential difference between one and two is that in certain cases the value of the resolution plan might be more than the liquidation value, which is why maybe it is preferred by the by the COC. 
+
+19:32
+In other cases, the liquid the liquidation value may be more than the what has been offer offered in the resolution plan, which, again, the COC and its commercial Mis may choose to approve the plan even though it is lower than the liquidation value because of its own assessment of the realization of the liquidation value or in the interest of keeping the corporate data as a going concern. 
+
+19:54
+So in both these aspects, whether it is lower or high higher than the liquidation value, it has been s that the minimum amount payable to the operation creditor should be the provided, as in the in the order of priority under section 53. So whichever is higher should be provided and provides for payment of debts of financial creditors who do not vote in favor of the resolution plan. 
+
+
+## 
+20:22
+Who are the dissenting Financial creditors is how the term we use in such manner as may be specified by the board, which shall not be less than the amount paid to such creditors in accordance with subsection one of 53, in the event of liquidation of the corporate data. So the higher of the two would be what has to be paid under a resolution plan to the operational creditors. 
+
+20:53
+Now we move on to section 31. Section 31 speaks about the approval of a resolution plan. So if the adjudicating authority is satisfied that the resolution plan is approved by the COC under subsection 4 of section 30, meets the requirements as referred to in subsection two of section 30, which we just saw it, shall, by order, approve the resolution plan, which shall be binding on the corporate data is employes, members, creditors, including the central government, any state government or any local authority to whom the debt in respect of the payment of dues Rising under any law for the time being in force, such as authorities to whom statutory dues are owed, guaran and other stakeholders involved in the resolution plan. 
+
+21:45
+So the section 31 clearly mentions that once the resolution plan is approved by the NT, then it will be binding not only on the corporate data, employees, members and credit datas, but also on the central government, state government or any other local Authority. 
+
+
+## 
+22:04
+So here itself it is very clear that once the plan is approved, depending on what has been allocated in the plan, the government Authority cannot ask for any further amounts in respect of the dues prior to the CP. Now we move on to section 53 is providing the priority or the waterfall as per which the proceeds of the liquidation estate are to be dispersed to the shareholders. 
+
+22:33
+Here again, the priority to the statutory debts of the crown debts is relatively lower as compared to the previous legislations, as under the companies act 1956 or the companies act 2013. So we will just quickly run through section order of priority under section 53. So the first is, as we discussed, the payment of the insolvency resolution process cost and the liquidation cost. 
+
+23:01
+Both are to be FID in full, followed by the following debts, which will rank equally between and among the following. So we have two debts here which are equally ranked. 
+
+
+## 
+23:12
+The first one is the Workman dues for the period of 24 months preceding the liquidation commencement date, and the second is a debts ow to a secured creditor in the event a secure creditor has relinquished his Securities in the manner set out in section 52. If he has not relinquished his security has retained he comes lower in the waterfall. 
+
+23:33
+And the third one is the wages and any unpaid dues ow to employees other than Workman for a period of 12 months preceding the liquidation commencement date. Then, on the fourth priority, we have Financial debts or to unsecured creditors and the fifth priority, again we have two debts which rank equally. 
+
+23:56
+One is any amount due to the central government and the state government, including amount to be received on account of the Consolidated fund of India and the Consolidated fund of the state, if any in respect of whole or any part of the period two years preceding the liquidation commencement date. 
+
+
+## 
+24:16
+So here is where the first set of government dues comes into the picture, followed by debts owe to a secured creditor for any amount unpaid following the enforcement of security interest. So in the waterfall mechanism, if we are not able to come to the fifth category, if the amount finishes in the third or fourth category, then there will be no amount that would be paid to the government for any dues that are there. 
+
+24:46
+However, and that too it is limited for a period of only two years preceding the liquidation commencement date. All other dues come under the Sixth priority only. So the government, if at all it is taking it, is taking in the fifth priority and that to with along with the parasu, with the secured creditor who has not relinquished his security, and in spite of that only for a period of two years. 
+
+25:13
+So this is a marked a departure from the earlier laws, where the government has substantially reduced the amount that it has taken through the liquidation process. And the last is of course any remaining debts where the period beyond the two years of liquid commencement date for the government authorities would come under the Sixth priority only. I think very rare. 
+
+
+## 
+25:33
+In terms of liquidation we are able to reach the sixth level, but maybe in terms of resolution plan sometimes allocation is made to the government Department as well. There was some confusion in between whether operational creditor should be treated as one category of creditors and whether discrimination can be made between the trade creditors and the government use. All that has now become a settled law. 
+
+26:01
+It is possible and we only have to go through the waterall mechanism under 53, even in the case of resolution plan. So what is very important here is that the Creditor should decide if it is a secured creditor with security. then he has to decide whether he is going to stand outside the liquidation or he is going to give his asset for the purpose of liquidation. 
+
+26:29
+And if he surrenders his asset to the Liquidator, then he comes higher in the priority in the second priority. And if he chooses to keep the asset himself and sell it, then it comes in the lower fifth priority on parasu with the governments. 
+
+
+## 
+26:48
+So beyond that, we still have last two category under section 53, which is the preference shareholders and the equity shareholders are Partners in the case of an LLP, and any contractual Arrangement between the recipients with equal ranking if disrupting the order of priority under that subsection shall be disregarded by the Liquidator. So inter say Arrangements has to the priority also has to be disregarded. 
+
+27:18
+This also is very important in case of the first charge, second charge, parasu charge, so many different kinds of charges that have been filed depending on the variet so the, and there were also some discussions as to whether a person having higher security should rank better than a person who is holding a lesser value of security for the loan. So all these also have been secured in, I mean settled in the court of law. 
+
+27:47
+Next, we move on to a very important discussion as to how we are going to say who is a secured Financial creditor versus secured operational creditor. How do they stand? So we will look at one case, which is on the committee of creditors of Sr Steel versus Satish Kumar Gupta. That was a decision given by. 
+
+
+## 
+28:11
+The Honorable Supreme Court in 2019. I will just give you a very brief background to understand how we are going to see this particular: secur FC versus secur OC. So Sr steel India Limited, which is the corporate data, went into CP and there were two resolution applicants who had shown interest initially in giving submitting a resolution plan. So one was arcar metal and the other was new metal. 
+
+28:45
+Both were found ineligible under 29 capital A of the code. So when they went and approached the Supreme Court, since the value of Sr steel was the pretty high and the amount of loans that they were taken was substantial, they both approached the Supreme Court and subsequently the vanta also expressed its interest in giving a resolution plan. So what the honorable Supreme Court did? 
+
+29:15
+It gave another chance to both arcar metal and to new metal to satate their default under Section 29a and again submit the resolution plan. It was a second life given so quickly. What happened was RR went and paid off their NPS and then resubmitted the plan which was in that plan. The allocation to the various creditors was left to the discretion of the COC. 
+
+
+## 
+29:46
+What the COC did was it allocated all the amount to the secured FC's except Standard chared Bank. The reason why they said Standard Charter bank is not being allocated is because Standard chter Bank was not a direct lender to SRC, but it was in the stage of a guarantee which had been given by Sr steel for a loan taken by one of its foreign subsidaries. so the. 
+
+30:13
+Since it was not a direct lender, the COC decided that they should go in for the distribution to all other creditors alone. When the matter reached, encl unilaterally altered the distribution schedule, where it gave a sweeping judgment which says that all creditor secured unsecured OCS. Everybody should be treated at par. This was what had come before the enet. 
+
+30:44
+So enet laid down what is called an equality principle down the board, where what it said is whether creditors are secured or unsecured. Financial or operational Equitable treatment demands that they are all treated as one group of creditors and, as a result, no difference can be made in the terms of amount of debt to be repaid to them, whether on the basis of whether they are secured or unsecured or whether they are Financial or operational creditors. 
+
+
+## 
+31:14
+So this came as a big blow to the entire IBC who were dealing with IBC and subsequently what happened was the government went ahead and pass the IBC Amendment act 2019 with retrospective effect, which said that only minimum payment should be given to the OCS and in terms of liquidation and dissenting, Financial creditors also should be given the liquidation value. so when the matter went before. 
+
+31:46
+The Honorable supreme court because all the creditors were very unhappy because their realizations had come down to less than 66% because of the decision of the honorable endclass that they went to before. The Supreme Court. 
+
+31:59
+The Supreme Court had observed that if equality for all approaches adopted, then the secured Financial creditors in many cases be intensifies to vote for liquidation rather than resolution, as they would have better rights if the CD was liquidated rather than in resolution, which would ultimately defeat the very purpose of the pop cord and where which said that first you should ensure resolution of dist asset and only when it is not possible you have to go in for liquidation. 
+
+
+## 
+32:32
+So. The Honorable Supreme Court felt that the FC's and OC's can never be placed equally. However, in between, when the Supreme matter was before. The Supreme Court, the IBC Amendment Act was passed, so with retrospective effect. So that is what we have in effect now. So section 30, subsection two, which we already saw that will be the priority as what it stands now. Next we move on to the initiation of CP. 
+
+33:04
+So once the CP is initiated, the tax authorities who are being an operational creditor can also give can should submit their claim. Apart from submitting their claim, they can also initiate CP under section 9, being an operational creditor, they'll have to follow the same process of giving a demand notice. the probability is that once the demand notice is issued, they make the CD May pay their dues. 
+
+33:32
+But mostly the statutory authorities would not prefer to go down this line because of their own internal approval constraints and also given the fact that they have to bear the first month's CP cost, which would be very uncertain, and it will be difficult for any government authority to get this approval done. So they will not be able to go through this, but they may participate if somebody else has the initiated the C. 
+
+
+## 
+34:04
+Now we look at moratorium, so once the C, the CDs application or the OC's or FC's application is admitted and the company goes into CP, moratorium sets in immediately and a claim has to be given by the OC. 
+
+34:23
+We will just look at one of the early cases in 2017 before the honorable enat, which is the director general of income tax and another versus Synergy dor Automotive limited and others, where the encl considered whether income tax, value added tax or other statutory dues, such as Municipal tax, excise duty, Etc come within the meaning of operational debt, and whether central government, state government or any other legal Authority having statutory claim come within the meaning of operational creditor. 
+
+35:01
+So this was what was before the honorable encl and. The Honorable enat held that the operational debt in normal course means a debt arising during the operation of a CD. So what happens is when a CD is operational, it is being considered as a going concern. obviously statutory liabilities arise, such as income tax, value added tax. 
+
+
+## 
+35:27
+So, depending on what activity the company is carrying on and since they all are, this income tax and value added tax and other statut to use arise out of the existing law when the CD is operational, such statutary dues have n Nexus with the operation of the CD. This was the observation of. The Honorable enct. Therefore, all statutory dues, including income tax V Etc, come within the meaning of the operational debt. 
+
+36:00
+So it also clarified consequently that income tax department of the central government and sales tax department of the state government and a local Authority, who are entitled to dues out of the existing laws, are all operational creditors. So this Clarity was clearly given by honorable enat. there's one that the imposition of moratorium does not prevent the tax assessments from taking place. What it does prevent is the execution of any judgment or order. 
+
+36:35
+So the assessments, the hearings, everything can go through during the moratorium. However, the final order or the execution of order alone would be kept on hold pending the decision of the CP, and any action to recover is prohibited during the moratorium period. What happens if the government Authority cont this moratorium? The penalty is provided under Section 74 of the IBC. 
+
+
+## 
+37:02
+We will just briefly look at section 74, which is punishment for contravention of moratorium of the resolution plan. So, where a creditor violates the provisions of section 14, any person who knowingly and willfully authorized or permitted such contravention by a creditor shall be punishable with imprisonment for a term which shall not be less than one year but may extend to five years, or with a fine which shall not be less than one lakh, but which may extend to one CR or with both. 
+
+37:35
+So there is a severe punishment given here for violation of section 14, which would be the person who is signing the order or the authorized person who has been willfully contravening the moratorium. He will be subjected to imprisonment for not less than one year, up to five years, and also with fine of one lakh which may extend to one CR. there is quite a huge penalty levied in case of contravention of the moratorium. 
+
+38:06
+So the government departments have to be educated of showing all these Provisions that they are not entitled to pass any order or initiate any recovery during the moratorium period. Now, next we come to the committee of creditors. In the committee of creditors, the OCS will also form part of the committee of creditors in case there is no Financial creditor. There are three different voting limits prescribed under the COC meetings. One is the 51%. 
+
+
+## 
+38:35
+That is a simple more than 50. That's a simple majority. Apart from that, we have a 66% voting for the purpose of resolution plan and 90% voting in case of withdrawal under section 12, capital A. now the section 243c gives the right of all the OC to attend the COC meetings if the aggregate vies are not less than 10% of the total debt or claim. 
+
+39:03
+So here the RP will have to invite for the claims and then after they have seen whether there's any particular OC class which is more than 10%, then they have to invite them to attend the COC meeting. One more case is where the committee does not have any Financial creditor, then the committee will have will have to be formed only of operational creditors. 
+
+39:29
+One more case would be if all the financial creditors are related to the corporate data. There again the committee will be created only by the operational creditors. so the 18 largest OCS by value would be called to convin to form the committee of creditors and their voting rights would be in proportion to the debt due by such creditor. 
+
+
+## 
+39:51
+So you have to the government Department also has a right to come to the committee of credit crors if they satisfied either the 10% criteria or if one of the financial creditors are there to form the COC next is on the verification of claims. So the first what has to be checked is whether the claim is in the correct form. if it is not in the correct form. 
+
+40:19
+Also harp can collate the claim and inform the respective authority to resubmit the claim in the correct format, and then we have to check whether the authority of the officer signing the claim form is there by way of any order or any internal communication which they will have to provide to say that they have the authority to submit the claim. 
+
+40:41
+Then all necessary enclosures to support the claim should be there, like the assessment order, the appeal order, the recovery certificate, the statement of account and if there are any refunds, the refunds should be adjusted from the claim amount. 
+
+
+## 
+40:57
+The IRP or RP should cross verify these from the records of the corporate data as well, to the extent available, or they can also access it from the respective tax websites when most of the tax returns are now filed online. Apart from that, you have to be aware of the limitation Act. 
+
+41:18
+So in normal circumstances the limitation period is 3 years, whereas for the purpose of crown debts, that's the government dues, the limit is 30 years, so the government can come back without any Li. The limitation period of to 30 years to clean the dues and the plane should be to the period prior to CP. If it is during CRP and post approval of the liquidation plan, the treatment would be different. 
+
+41:48
+So if it is for the CP when you are admitting the claim, so the period up to the insolvency commencement date. Similarly, if it is a claim during liquidation, then after the liquidation commencement date that is what has to be admitted as the claim. So the powers and duties of a resolution professional. So as soon as the resolution professional takes control, they immediately have to give a public announcement. 
+
+
+## 
+42:22
+Most of the government authorities do not keep track of these public announcement, though recently they are keeping track to some extent. But majority of them do not keep track. There is too many divisions and circles and departments for them to keep track US to which fall under their particular jurisdiction. So it becomes imperative on the IRP to immediately intimate all these statutory authorities. 
+
+42:48
+So what can be done is we can take all the registrations that the company has taken, make a list of those and in at all the relevant statutory authorities. To some extent we will also know, depending on the business in which the particular CD is engaged in. We will have an idea as to what are all the authorities that have to be intimated. 
+
+43:15
+Apart from that, from the books of records and other relevant documents with the government authorities also can be accessed by the IRP or RP. They have to take immediate control and custody of the asset which the CD has ownership right. In certain cases the CD may not be H in having possession of their own assets, basically in case of any attachment or possession by the statutory Authority. 
+
+
+## 
+43:44
+So the authorities would have to be immediately intimated and the position should be re taken by the IRP or RP and in case they are not cooperating in including government authorities. If they are not cooperating in providing the information or giving access to the IRP or RP, they can approach the NT to seek directions. 
+
+44:09
+Apart from this, the RP is responsible for complying with all the laws applicable to the CD, which would include TDS, TCS, payment of income tax, GST, regular filing of returns. What we have not, Mr, is PF ESI if it is a going concern. So all the statutory payments have to be ensured by the RP and in case no claim is received, then what should the RP do? There is a guidance on that as well. 
+
+44:40
+Says, take the available information from the CD from all the websites of the government departments and include that in the information memorandum so that the prospective resolution applicants are aware of what is the government dues that are there to be paid by the company. 
+
+
+## 
+44:57
+So the best estimate would have to be done and maybe wherever estimate is not possible, the RP can make some kind of estimate and update the information memorandum once further information is received. Next we look at some of the important Landmark judgments in case of government Dees. So the first case we will look at is gansam Mishra and Suns private limited versus edway asset Rec Construction Company. it was decided by. 
+
+45:44
+The Honorable Supreme Court in 2021. So what was held in major in this particular case is that once the resolution plan is approved by the COC, the claims as provided in the plan shall stand Frozen. 
+
+45:59
+It will be binding on the corporate data, its employees, members, creditors, including the central government, any state government or any local Authority, guars or other stakeholders they have reproduce what is there in the code on the date of approval of the resolution plan? All claims which are not part of the resolution plan shall stand extinguished. 
+
+
+## 
+46:22
+So here it is very clear: in case anybody has not submitted their claim, it should be stand extinguished and no proceedings in respect of such dues for a period prior to the date on which the AA grants its approval under section 31 would be continued. So there is an embargo on the continuation of the proceedings prior to the which have initiated prior to the commencement of the insolvency process. 
+
+46:51
+So two very important things we will have to note here that one is the claims has stand Frozen and secondly, is that which are not PL part of the resolution plan stands extinguished on the date of approval of the resolution plan, something what we call the Clean Slate Theory. the next very important Landmark judgment in terms of the government dues is that of the rainbow papers, which was the Judgment delivered by. 
+
+47:18
+The Honorable supreme court on the 6th of September 2022. So here the one very important question that was placed before. The Honorable Supreme Court is whether the provisions of IBC, in particular section 53, override section 48 of the GAC Act of 2003. So the Gujarat value added tax is was what was under consideration before. The Honorable Supreme Court. The sales the state tax officer had filed this appeal before. The Supreme Court. 
+
+
+## 
+47:50
+Let us first look at section 48 of the Gat act, which says that tax to be a first charge on property. so it starts with a non Oban Closs, not withstanding anything to the contrary contained in any law. 
+
+48:04
+For the time being, enforc any amount payable by a dealer or any other person on account of tax, interest or penalty for which he is liable to pay to the government shall be a first charge on the property of such dealer or, as the case may be, suchar person. So that starts with a non take law. 
+
+48:26
+The Act was passed in 2003, much prior to the passing of the IBC, and it also said that, not withstanding anything contrary contained in any other law, which is very important for us to note. 
+
+
+## 
+48:41
+Any amount payable by a dealer on account of any tax or interest or penalty, so it covers everything it covers tax, interest, and a penalty that is any damages or any penalty that is leviable by the government will be a first charge on the property of the dealer. So he has given the first right to that of the St tax officer. So what happened in Rainbow? 
+
+49:06
+I'll just give a brief flow of events for us to understand, because it's one of the landmark judgments. immediately after this order came. Ibba also was kind enough to give a summary of all the major decisions and circulated to all the U IPS. 
+
+49:22
+So the flow of events is like this: first, on 8th of July 2016, the recovery proceedings were initiated by initiated by the state tax officer on 12th of September 2017. That's nearly a year after that. 
+
+
+## 
+49:37
+The corporate letteror was admitted to CP on the 22nd September of 2017. IRP was appointed in June 2018. A resolution plan was approved after the approval of the resolution plan on the 8th of October of 2018. The property was attached by the state tax officer and the claim was also filed by him beyond the approve time. 
+
+50:05
+After the approval of the resolution plan and after the resolution plan was approved and he submitted his claim, the state tax officer called for the RP and asked what was the amount that was allocated to the department in the resolution plan, to which the RP deed there was no claim. Nothing was allocated in the resolution plan. 
+
+50:28
+So on the 20th of December 2018, the state tax officer challenged the resolution plan, where he said the entire claim was waved off without giving him any opportunity to look at the resolution plan and in on 27th February 2019, NT Ahmedabad rejected the application as not maintainable. 
+
+
+## 
+50:54
+So we have seen in the flow of nearly three years from the time the recovery proceedings were initiated to the time, NT Ahmedabad has rejected the application of the state tax officer. subsequently he filed an appeal before the honorable enat and on 8th of April 2019 the appeal before encl was also dismissed and the allocation in the resolution plan was upheld. Again, the matter reached the Supreme Court and. 
+
+51:29
+The Honorable Supreme Court examined both IBC and the regulations and the timelines. In IBC it was said that the 180 timeline or the 14 days timeline to admit the application all these were directory and not mandatory, and one of the sweeping judgments in this orders was that no obligation on the state to Lodge a claim with respect to dues which are statutory, for which recovery proceedings were also initiated. 
+
+52:00
+So we have to remember that this a regulation 121 of the CP regulations. this was amended with effect from 4th of July 2018, where the instead of the words proof of claim, the words claim was replaced. So prior to that, the stand taken by. 
+
+
+## 
+52:19
+The Honorable Supreme Court was that only proof of claim had to be submitted by the government authorities and hence the claim itself should have been noted by the IRP and therefore it should have taken cognizance of the claim, especially when the recovery proceedings were initiated and it was in the knowledge of the IRP and RP. 
+
+52:45
+Subsequently, of course, once the regulation 12 has amended, it is now mandatory for the government departments to now submit a claim rainbow judgment was to the prior period where this regulation was not ended. now we look at some important paragraphs which I have extracted from the order. Par 55 of the order it says, in our considered view, the encl clearly ER in its observation that 53 of IBC override section 48 of the Gat act. 
+
+53:19
+So section 53 of IBC also begins with a non obstante clause which says that, not withstanding anything contrary contained in any law enacted by the parliament or any state legislature, for the time being in force, the proceeds from sale of liquidation of assets shall be distribution in the following order of priority which we have already seen earlier. 
+
+
+## 
+53:43
+So the court observed section 53 also begins with a non obstante of similar to section 48 of the Gat act. Further, it said section SE 48 of the gback ACT is not contrary or inconsistent with section 53 or any of the provisions of the IBC says that under Section 531 B2, debts owed to a secured creditor, which would include the state under the GB act, are to rank equally with other specified debts, including debts on account of workman dues, for a period of 24 months preceding the liquidation commencement date. 
+
+54:23
+The secured creditor was the word that has been used in section 53, which. The Honorable Supreme Court said is not inconsistent or contrary to section 48, when section 48 you have to read that it is that state is a secured creditor as per the provisions of the law itself. further this so this is what it is observed as observed about. 
+
+54:47
+The state is a secured creditor under the Gap act and under Section 330 of IBC defines secured credit cror to mean a creditor in FA in whose favor the security interest has been created. So such security interest need not be necessarily be created by the agreement between the parties. It can also be created by the operation of Law and further, the definition of the secured creditor does not exclude any government or governmental authori. 
+
+
+## 
+55:18
+This was also an observation of the court and therefore the court concluded that it is possible for the state tax officer to claim the amount as a secured creditor in priority under section 53. against this order of the rainbow J papers order. Five review petitions were filed before. The Honorable Supreme Court. There were two people who were not actual parties before the initial civil appeal, who also filed the review petition. 
+
+55:56
+One was the Liquidator of botor Industries, who is also registered dealer under the GAC Act of 2.2003. He claimed the review P. He filed a review petition claiming to be an grieved person, so he was also a dealer under Gat, so it would have affected him also directly. That is why he filed a review petition. 
+
+56:18
+Similarly, SBI, who was one of the Consortium of lenders to botor Industries, also filed a review petition in the same B. so the first Court first took note that even third parties who have who consider themselves to be an agreed person may to propose to a remedy of the review petition. It is not necessarily that you should be a party to the original civil appeal. 
+
+
+## 
+56:45
+This was one of the important what I wanted to bring it to your attention. The court also referred to in the review petition to Paran Davi and others versus Sumit DVI and others. This was a judgment given by. The Honorable Supreme Court in the Year 1997, which read about order 47 rule one of CPC, where it is said that it is not permissible for an erous decision to be reheard and credited corrected. 
+
+57:14
+The review petition has a limited purpose and cannot allow to be an appeal in Disguise. so when the matter reaches the Supreme Court, it is supposed to reach finality and you cannot go in for an appeal towards the review by way of a review petition. It can only be to any you know limited purpose of any correction that can be made through the review. 
+
+57:38
+So the final review order was given on the 31st of October 2023, where it said that the petitioners have failed to make out any mistake or error on the face of record in the judgment and have failed to bring the case within the parameters laid down by this court in various decisions for reviewing the impact judgment. Therefore, the review petitions were dismissed. 
+
+
+## 
+58:04
+So in effect the rainbow paper judgment T, except for the fact that the review petition limited it to this particular matter and thereafter none of the other. What gave relief to the government Department subsequently was sorry to the credit creditor. Subsequently was this piman vidut vran Nigam limited versus Raman its fate limited, which was again an order of the honorable Supreme Court on 17th of July 2023. Which kind of DED the rainbow judgment further? 
+
+58:42
+So we'll run through the facts of this case. The CD entered into an agreement with this piman vid V neam for supply of electricity on the 11th of February 2010, which provided that outstanding electricity dues will constitute a charge on its assets. 
+
+59:02
+The Clause eight of the agreement that was entered into for supply of electricity also mentioned that the parties will be governed by the 203 act, that is, the electricity Act of 2003. So this ptbnl started raising bills for supply of electricity to the corporate dat from time to time and when the dues remained unpaid, pvvnl attached the CD's Properties by order dated 12th of January 2016. So the agreement was in place from 2010. Subsequently, when the dues increased in 2016, they attached the CD's property in by way of an order. 
+
+
+## 
+59:43
+So the CD underwent resolution process initially, but the process could not succeed. They were not able to get a resolution applicant and a plan, so therefore it went into liquidation. now. The pbn's arguments were that this being a special law relating to all aspects of electricity, that is, electricity act 2003 covered everything right from the generation to the transmission to distribution to adjudication of disputes. 
+
+1:00:10
+It had privacy over all other laws, including that of IBC, which was a general law leading with corporate insolvency, implemented much later. So they invoked the provisions of interpretation, which said that the special Act should always be given more priority than a general law, and also, they said, while dealing with the interplay between electricity Act and the IBC, 238 of the IBC overrides provisions of electricity act, both containing similar Provisions in terms of both had non obstante Clauses, that is, section 173 and 174 of the electricity act, as well as section 238 of the IBC. 
+
+1:00:56
+So the Supreme Court here is where we said rainbow papers did not notice the waterfall mechanism under section 53. The provision had not been adverted to or extracted in the Judgment with the G act creates a first charge in favor of the state. 
+
+
+## 
+1:01:17
+A separate and distinct treatment of amounts payable to secured creditor on the one hand and dues payable to the government on the other hand, under the waterfall mechanism under section 53, clearly signifies parliament's intention to treat the latter differently. It's very therefore in the present case having lower priority. It is also evident from the preamble to the IBC. 
+
+1:01:42
+This court has clearly clarified in the pvvnl Judgment that the rainbow papers did not notice the waterfall mechanism under section 53 and there is a separate distinction between government dues and secured creditors and therefore only secured creditors would fall under the priority under section 53 and the government use would come on and on and the rainbow papers has to be ConEd to the facts of that case alone. 
+
+1:02:11
+The Supreme Court also dealt with one more issue, which is section 77 of the companies act. So section 773 of the company's act says again with the non op take la, because not withstanding anything contained in any law, for the time being in force, no charge created by a company shall be taken into account by the Liquidator or any other creditor unless it is duly registered under subsection one and a certificate of registration of such charges given by the registar under subsection two. 
+
+
+## 
+1:02:46
+Therefore, there is two requirements that have been given under Section 77. In case the company the corporate datar is a company, the charge would have to be will not cannot be taken into account by the Liquidator unless it is registered and a certificate of registration has been given by the regist of companies. therefore this again section 77 is only for the purpose of the Liquidator, not under the CP process. 
+
+1:03:14
+Under the CP process per se there is no distinction in first of the committee of creditors, whether they are secured or unsecured. There only distinction between Financial creditors and operational creditors where it comes under importance when you come to the liquid, the distribution under a resolution plan or a distribution under liquidation. 
+
+1:03:34
+So therefore the court concluded that in the Court's opinion the Liquidator cannot urge this aspect at this stage because of the concurrent filings of NT and the nclat that pvvnl is a secured creditor. So what RP should look out for is they have to examine the relevant legislation to see whether the charge is created in favor of the statutary authority. we'll have to look at the language and intent of the legislation. 
+
+
+## 
+1:04:06
+So therefore, there is no requirement of an agreement to be entered into for creation of charge in favor of a statutory Authority, and we also have to examine whether the governing legislation has any provision relating to IBC. How the claim has been submitted is also very important aspect. 
+
+1:04:25
+Whether the While submitting the claim, the government department has declared that it has a charge over the property or there is any existing, you know, attachment over the properties or any prior action or notice that the government department has provided. All these have to be looked out for by the RP. 
+
+1:04:44
+Very important to see the state legislations wherever it is applicable to the corporate data and also read the language of those particular legislation to see whether. The sagittary Authority exercises any charge over the assets of the corporator. If there is no such provision, then there would be an unsecured government due only, which will come lower in the priority. 
+
+
+## 
+1:05:06
+However, like in the case of the Gujarat value added tax, if they are having the right to attach the property, they do get charge over first charge over the property, which means they will be treated as a secured creditor higher up in the Matrix waterfall mechanism. 
+
+1:05:23
+Now we will look at individually each of the tax laws and other government claims and see whether how they are treated under the various provisions of the particular act and also in terms of the orders that have been issued by the honorable NT L and the Supreme Court. First we will take up the very important tax law being the income tax act. 
+
+1:05:49
+So the RP or the Liquidator is responsible for deducting and remitting the DDS and TCS and filing of returns. So during the CB and the liquidation period the RP would be doing that and section 178 of the income tax access. The Liquidator should notify the assessing officer immediately on liquidation order being passed. 
+
+
+## 
+1:06:09
+However, there is a specific exemption under Section 178 to companies undergoing liquidation, where it says that the prior approval of the income tax department before the sale of assets is not required. 
+
+1:06:22
+The tax law has been amended to take in cognizance of the IBC and section 46 of the income tax act, which says capital gains on distribution of assets under liquidation will not be regarded as a transfer under section 45, then section 288 of the income tax act, which says that the RP or the Liquidator can appear before the income tax authorities as an authorized representative in case of any notice or any kind of tax dispute or demand or any kind of hearing of the RP and Liquidator can appear either in person or can authorize somebody through a power of attorney or authorization. 
+
+1:07:00
+Then section 140 of the income tax act, where verification of Return of income can be authorized by the RP or Liquidator. Section 238 subsection 2 say the right of the Liquidator to claim refunds from the income tax department. 
+
+
+## 
+1:07:16
+So what happens is sometimes there is lot of refunds that is due to the corporate data and that might those refunds may help in the using the cash flow or the immediate meeting of the CP expenses or liquidation expenses. Therefore there is a right given to the Liquidator to approach the department to release all the pending refunds to ease the cash flow of the corporate data. 
+
+1:07:41
+These are the main provisions of the income tax act which is relevant to the government dues. Now we will look at some of the U decided cases. the first is our Puja Bahari, the Liquidator of sham Line Products private limited versus GSAT private limited. That was before the NT of New Delhi. 
+
+1:08:05
+So here the Liquidator had sold the Assets in auction and there was a doubt whether the capital gains taxs will be attracted on the sale of secured assets and whether that would form part of the liquidation cost. 
+
+
+## 
+1:08:20
+If the capital gains was attracted and it falls part of the liquidation cost, it comes under the first priority and the department would have to be paid prior to distribution of any other to the any other secured creditor and Workman, whereas if it had to be treated as a government due it would come with lower the priority. the Liquidator did not know how to classify this. So she rightly approached. 
+
+1:08:43
+The Honorable NT seeking directions under 60 subsection 5, and it was also discussed the applicability of section 178 and 194 IIA of the income tax Tax Act will not have overriding effect on the waterfall mechanism under section 53. So 194 IIA provides that wherever the property is being purchased, the purchaser will have to deduct 1% tax at source and remit the same. 
+
+1:09:09
+So the applicability of both 178 and 194 IIA was said to not to have overriding effect over the waterfall mechanism and the capital gains would be paid only as an operational debt and that to only if assets are available for distribution to operational creditors. So the direction given by NT New Delhi was here very clear. 
+
+
+## 
+1:09:32
+So the whatever amount was sold in auction was available for distribution as per the waterfall mechanism and the capital gains tax had to be cont I mean calculated and added to the operational debt payable to the income tax department in case in the waterfall mechanism down the line in the fourth priority, if any amount is, that would be paid to the income tax Department. 
+
+1:09:57
+The next case is on Leo Edibles and fats limited versus the tax recovery officer. This is a Andra Pradesh high court order given on the 26th of July 2018. So what happened is the company here, P the, bought out this corporate data through the CP process and after that and they went into to register the company. 
+
+1:10:23
+The sub register refuses to register the purchase of the removal property in liquidation proceedings, saying that the IT department had a claim over the charge of the property purch to the attachment proceedings. 
+
+
+## 
+1:10:38
+So the Court held that the IT department cannot claim the property merely because of the fact that there is an order of attachment long before the initiation of the CP proceedings, which itself means even if there is an order of attachment and the buyer has genuinely bought the proceedings in auction under liquidation, he gets priority instead of the income tax department, which comes lower in the priority. 
+
+1:11:03
+What has to be done is income tax department would have had to file a claim with the Liquidator and the Liquidator will distribute the amount. But the income tax department cannot stop the transfer of the property. so. 
+
+1:11:15
+The matter went before the Andra Pradesh high court and there section 363b of the code was exam, where it said that liquidation estate assets may or may not be in the possession of the CD but including not limited to encumbered assets. Order of attachment therefore cannot be taken as a bar for completion of sale effected by the Liquidator. 
+
+
+## 
+1:11:40
+Under the provisions of the code, the IT department has to submit the claim to the Liquidator for consideration and the Liquidator will accordingly distribute. In the waterfall mechanism, the red petition was allowed and the sub regist was ordered to entertain and register the sale transaction. So in case any government Department any registration issues are there, this particular matter can be referred to. 
+
+1:12:07
+You will have to file a r petition before the high court and get the orders to the for the sub register to register. Move on to one more matter: principal Commissioner of income tax versus c? R submania RP of B Corporation. 
+
+1:12:25
+This is an encl judgment on the 13th of December 2019 says that even if the IT department was ConEd to be a secured creditor, as per the provisions of the it act, it cannot be claimed. 
+
+
+## 
+1:12:42
+It cannot be claimed as a secured creditor under the court and there is no provision in the CP regulations for OC's to claim that the CD had created Creed a security interest, while there is such provision in favor of the FC's. 
+
+1:12:59
+So here in the particular, englad has clarified in 2019 that under the provisions of the income tax act, even if the income tax department is claimed to be a secured creditor under the CP or under the IBC code, it cannot be treated as a secured creditor. It will be only treated as operational credit unsecured operational creditor. One more case: income tax department versus G madhusudan ra RP. This Is by. The Honorable encl. 
+
+1:13:35
+So it was submitted that the IT department it was a secured operational creditor and therefore it was entitled to the benefit of the rainbow judgment. The Enad held. the rainbow judgment was to be a secured credor on the basis of the relevant statutory provisions, and in the case of the Income Tax Act, there was no statutory provision to prove that the income start department is a secured operational creditor. 
+
+
+## 
+1:14:00
+There again, the Act was clearly examined, so the only G Act was found to have a sweeping Provisions which said that charge would be created by way of a legislation itself first charge, whereas in the income tax department the court has observed that such charge is not available. Such provision is not available. Therefore IBC will only Prevail and income tax depart will be treated as an unsecured operational creditor only there's one more case. 
+
+1:14:33
+I pulled out lot of cases on the income tax department because there has been quite a bit of confusion and tax laws are very difficult to handle. So this tax deducted at source is not a tax demand. This is the case in the case of om prakash Agarwal versus Chief Commissioner of income tax TDS by the NT New Delhi. 
+
+1:14:56
+So it says that wherever a sale price comes to the Liquidator, it comes only after deduction of TDS. So where is a question of it Authority standing in que for realization of TDS deduction of tax at source shall not be construed as a tax demand. That was what was held by. The Honorable NT New Delhi. moving on to one more case, in the case of Von healthare versus deputy director of income tax investigation. 
+
+
+## 
+1:15:34
+This is before. The Honorable high court of madas a recent judgment last month, 9th of January 2024. So here was in healthcare. The corporate data was under corporate insolvency resolution process. 
+
+1:15:47
+There was a successful resolution applicant who took over the management of the corporate data and the resolution plan was approved on 1 of April 2023. The CD and thewi directors were prosecuted by the income tax department for offense under the income tax act that was committed during the various assessment years right from 20101 to 201516. Just to give a background here the there was a one of the promoters of Bon health care during the course of the CP. 
+
+1:16:26
+He also passed away. But there was some criminal cases pending against the MD, the then MD, of the CD, and also against some of the other officials of the corporate data, as well as the corporate data itself. So the r prediction was filed before. 
+
+
+## 
+1:16:44
+The Honorable high court of Madras to squash the petitions that were filed against the new management, saying that, as per se SE 32A of the IBC, the liability of the corporate dator gets completely wiped off after the resolution plan is approved by the n and therefore prosecution against the CD cannot be continued, especially for the period prior to the resolution approval date. Resolution plan approval date. So these are the orders of the. 
+
+1:17:17
+I've extracted the relevant portions of the order of the honorable high court of Madras. so with is that once the resolution plan is accepted by the NT and orders are passed, the CD gets into the hands of the new management and therefore all past liabilities, including criminal liability of the CD, gets wiped off and the new management takes over the company with the sleen Slate, the Clean Slate Theory, we saw also. 
+
+1:17:44
+The only confusion was with the pass liabilities also include the criminal liability, because there was always a confusion whether the only the Civil laws EX exting inment was covered or whether criminal liability was also covered. So the Court held that the criminal liability of a company cannot be transfer to another company or through the new management, if so facto. Therefore, the continuation of criminal proceedings against the CD can no longer subsist. 
+
+
+## 
+1:18:09
+They also said, it is left open to the respondent to identify persons who are in charge of running the company and were involved in the day to day Affairs of the company during the relevant point of time, and it will be left open to the respondent to continue the criminal prosecution against those officers. 
+
+1:18:28
+Therefore, by order of the honorable Madras High Court, the continuation of criminal proceedings under the New Management of the corporate dator was stopped and only against those persons who are responsible. It was allowed to be continued. Clean Slate theory was applied. We come to the last case which I have compined under the income tax act. So vinod Kumar kotari, the Liquidator of nisco Corporation versus it Department, passed by. The Honorable NT Kolkata this month. 
+
+1:19:06
+That's the 1st of February 2024 order. So the Ia was filed for refunding the full amount of about 54 lakhs in the liquidation account of the corporate data which was wrongfully adjusted against perpet tax dues of the corporate data. 
+
+
+## 
+1:19:24
+So in the order the income, the NT Kolkata held that the income tax department may have a claim against the corporate dator, but this would fall under the category of an operational creditor and would have to find a claim before the resolution professional or Liquidator and the Liquidator with the Liquidator to recover their dues in the requisite form. It was so. Therefore their unilateral action of adjusting the refund amount against the claim was not allowed. 
+
+1:19:56
+It said that the refund of income tax falls under the asset of the corporate dator and would be added to the liquidation asset under the scheme of the Court. The creditors, in this case, the income tax department, are not empowered to set off the returns of the corporate datar which fell within the liquidation period against the past dues. Sorry, it should be read at refunds. 
+
+1:20:24
+Thus, it is clear that the code overrides the income tax act in so far as the present case is concerned, and hence the adjustment of income tax refunds during the liquidation period which is an asset of the corporate dator and pursuance of the it Act is void. Therefore, the court directed. The respondents to refund the amount of 54 acts to the Liquidator within two weeks from the date of the order. 
+
+
+## 
+1:20:49
+Therefore, if there is any amount that is due as income Inc tax refund in the books of the corporate data or if it is so determined from the income tax department, it is important for the RP or theator to quickly approach the department citing this case and take the refund independently, without it being adjusted with the claims feeling which it you can approach. The Honorable NT for necessary directions similar to this. 
+
+1:21:16
+So with this we have done with the Income Tax Act. We will move on to cases under the GST act. So GST is payable on transfer of the movable assets. Can I ask one doubt? Yes, sir, please, Madam. now my confusion is that is the rainbow case or the ramen case, which is supreme now is both same or yes, sir, is the final Ramen case is the final. 
+
+1:21:46
+So government de is last priority, sir, you will have to see the relevant act. That is what I said. If you take Income Tax Act, then it will be treated as Government low priority. I'm talking the old sales tax acts of each state government, each state. You will have to examine, sir, the Gujarat sales tax act still has priority because the law still holds Good think every state. I think in every state. 
+
+
+## 
+1:22:11
+That is the issue. I think the old V acts are showing it as first charge. Yes, sir, so we'll have to examine. if you're coming under the V dues under the V act, then the it will be first charge. Okay, understood, yes, thank you, thank you. Yes. So when it comes to GST, the sale of a business or part as a going concern is not taxable. There is a clear notification in 2017 to that effect. 
+
+1:22:44
+Only if it is on movable assets, then GST is liable to be paid. Now we will look at some of the cases in this. One of the landmark judgments, here again is the JB judgment given by. 
+
+1:22:57
+The Honorable encl in 21st of October 2022, so Enad while dealing with the issue of whether the Department of State Tax can be treated as secured creditor for the purpose of IBC Pur to provisions of section 82 of the Maharashtra GST act. so here it is analyzed the Maharashtra GST Act of 2017 which is enacted after the IBC. So section 82 of the Maharashtra GST access starts to be a first charge on property. 
+
+
+## 
+1:23:29
+Here again it starts with a non obst Closs, not withstanding anything to the contrary contained in any law for the time being course. Here it says: save as otherwise provided under the IBC. 
+
+1:23:42
+So here there is a specific exemption given to the IBC: any amount payable by a taxable person or by any other person on account of tax interest penalty, which is he is liable to pay to the government, shall be first charge on the property of such taxable person or such person. So here again similar wordings as in the J ATT. Only difference is it excludes sa as otherwise provided under the IBC. 
+
+1:24:16
+So the enant has held the provisions of section 82 of the Maharashtra GST act contains an exception with regard to IBC and therefore, on the strength of views of the Maharashtra GST act, no charge can be claimed on the assets of the corporate data. The ratio laid in Rainbow papers will not be applicable to the dues under the Maharashtra GST act in view of the specific exclusion of IBC under Section 82 C mam. 
+
+
+## 
+1:24:44
+Is it because the Jet Airways people? It is a very classic case and is an abuse of the IBC 8 500 CR and 350 settlement because they are so powerful they got it like that? is it so? Not necessarily, sir. 
+
+1:24:56
+If we independently look at the ACT per se itself, there is a specific exclusion to IBC, so there's a clear demarcation how they have treated GAC act and how they have seen the Maharashtra GST act when there is an act is giving a specific exclusion. I think court has analyzed that and given the order accordingly. No comments on that, actually, but I find that the J in all cases has employees and everyone and they escaped. 
+
+1:25:24
+That's it, sir, even though they are not able to pay. The resolution applicant is exactly that's true. They appointed the global Grand thr turn and like that actually yes, anyway, on please, yes, so the next we will look at the assistant Commissioner of commercial taxes versus Alo Kaa Saka. 
+
+
+## 
+1:25:50
+This is one of the matters before enat again, where the enat relied on the pvvnl judgment to hold that the claim under Section 82 of the kataka goods and services tax would not constitute first charge at par with the secured creditors, due to the specific exemption provided under Section 82 of the Karnataka goods and service Tax Act, similar to what the 82 of the Maharashtra GST act that we had seen earlier. 
+
+1:26:17
+So on the GST acts, I think all states are clear that you have to. It will not be given priority. Rainbow will not hold, but pnl judgment would hold good move on to now one more case where the Kerala State GST Department versus NT. This is before. The Honorable high court of Kerala, again a very recent judgment on the 30th of January 2024. I will run you through the facts of the case. 
+
+1:26:44
+So this albana engineering India private limited is the corporate data who was admitted to CP on the 25th of October 2019 and moratorium was declared against the CD on admission into CP and subsequently, on the 2nd of December 2021, the liquidation order was passed. So, as we are aware, the moratorium under section 14 comes to an end and section 33 continues. 
+
+
+## 
+1:27:12
+So a notice was issued under 251 of the Kerala abat act to the CD for a period of 20 pertaining to 2015 2016 and the assessment for the year 20156 was completed in 25 to 2021. That is during the period of CP when the moratorium existed and the total liability was assessed at around 11 crores. So what the department did when the liquidation was announced? 
+
+1:27:42
+They filed the claim before the Liquidator around 11 crores sir, is what they filed now. Against that, the Liquidator filed an application before NT COI Ben under 335 seeking to file an appeal against the order of the assessment. Now, though, the application filed by the Liquidator was only to file know an permission to file an appeal. 
+
+1:28:12
+NT said this order of passing the order during CP itself is a violation of section 141a and therefore what it did? It declared the assessment order itself void have issue and the N dismissed the application and directed. The Liquidator to consider the claim independently, with ignoring the assessment order of 25.2021. So here the nclt did not invoke the penalty provisions of section 74, but instead they just declared the order as void have been issue. 
+
+
+## 
+1:28:50
+Now the issue before the high court was the high court of Kerala was is whether the NT is empowered to declare an assessment order. Why been issue under Section 335 of the IBC? So the decision of the high court is follows: while determining the Quantum of tax and other levies against the corporate data during the moratorium period under section 14 of IBC, the issue what it held was after declaring moratorium. 
+
+1:29:20
+There is an embargo on enforce the demand, but there is no embargo under section 14 read with Section 335 for determining the Quantum of tax in other laies. The court was very clear: you cannot enforce a demand, but that doesn't stop you from determining whether there is a demand or not, so those proceedings can continue. 
+
+1:29:40
+The second issue that was decided by the high court was whether the NT has power under IC to declare an assessment order void abin issue. So what the high court felt is that the company law tribunal does not have any power or authority under IBC to declare an assessment order wi app in issue. So once this was determined, the act of NT declaring the water vo have issue could not be done. 
+
+
+## 
+1:30:11
+But this is the order of the honorable Kerala High Court. We have to see if at all the case reaches the honorable Supreme Court in this matter. Next we will move on to the Customs act. so under the Customs act we had one case for. The Honorable Delhi High Court sh metallics metalling limited versus additional director of additional director General, where they distinguish the rainbow papers judgment here again. 
+
+1:30:43
+So we have to again, as I said, examine each and every law. Section 142a of the Customs act says that the used to customs Authority has a first charge in respect of liability under the Customs act. 
+
+1:30:57
+As we know, Customs Act is effective from the year 1962 and what the court Delhi High Court held, where there is a specific exemption provided under section 142a of the Customs act, which provides precedence of the IBC over section 142a, rainbow paper judgment will not be applicable. 
+
+
+## 
+1:31:20
+So here again it said there was a specific exemption to IBC under the Customs act and therefore the rainbow paper judgment will not be applicable in the case of the Customs act as well. 
+
+1:31:32
+So it further went on to say the high court went on to say that the factual Matrix in the rainbow paper judgment was different, given that it involved the filing of claim post the last date of submission of claim after the resolution plan was approved by the NT. However, in the stre metallics case, the S of authorities never submitted a proof of claim. 
+
+1:31:54
+So having never submitted a proof of claim, you cannot claim the charge over the property. That is how the honorable High Court distinguished it. there is one more case of sundaresh B Liquidator of ABG Shipyard versus the central Board of indirect taxes and Customs by. 
+
+
+## 
+1:32:12
+The Honorable supreme court on the 26th of August 22. So in this the corporate data ABG Shipyard was into the business of ship building and they had to regularly import materials for construction of the ships. Most of the materials were imported from China also, and some goods were stored in the custom bonded warehouses of Gujarat and some container straight Freight stations in Maharashtra. 
+
+1:32:39
+In both these places, the propor was storing its goods that it had imported. On 2nd of August 2017, CP was initiated against the corpor cred dator and on the IRP taking over, he sought custody of the warehoused goods from cbdt. now CBD issued five notices between 2019 and sorry that should be 7th April 2019, raising a total demand of about 15,8 crores for what was there in before in their bonded warehouses as the claim. 
+
+1:33:22
+There is a demand, not a claim. There is a demand now once the after subsequently nclt passed an order declaring liquidation and continuing of moratorium under Section 335 of IBC. Liquidator filed an application under Section 60, subsection five of the code seeking Direction against CB and Customs to release the warehouse Goods. 
+
+
+## 
+1:33:47
+So for the first time, on July 20,19, the Customs issued a notice to the CD, again in section 721 of the Customs act, for an amount of about 7663 crores. NC allowed the application filed by the Liquidator and directed. The respondent to release the warehouse Goods to the possession of the Liquidator. Appeal was filed before the encl. The encl allowed the appeal where it directed. 
+
+1:34:21
+The Warehouse Goods can be released or disposed of as per the applicable provisions of the Customs act by the proper officer. So here they reversed the Judgment of the honorable nclt and allowed the Customs Department to take and dispose of the items in the warehouse. So the Liquidator filed a civil appeal before. The Honorable Supreme Court. The Supreme Court framed two issues in this matter. 
+
+1:34:49
+The first one was whether the provision of IBC would Prevail over the Customs act and, if so, to what extent, and second, whether the respondent, the authorities under the Customs act could claim title over the goods and issue notice to sell the goods in terms of the Customs act when a liquidation process has been initiated. These were the two issues that were framed by. The Honorable Supreme Court in this matter. 
+
+
+## 
+1:35:19
+So the Supreme Court observed that from section 142a of the Customs act provides that the Customs Authority would have a first charge on the assets of the assy under the Customs act, except there is an exception in the provided in the 142a of the act itself, which says: cases under 529a of the companies act 1956, the recovery of debts due to Banks and financial institutions Act of 1993, then the surfacey act of 2002 and BC of 2016. So all these four acts were excluded from section 142 capital A. 
+
+1:35:59
+So what it said? The court observed that such an exception created under the Customs Act is also acknowledged under Section 238 of the IBC, where overriding power is given to the IBC against any other law that is inconsistent to it. 
+
+1:36:16
+Another reason the court said for the IBC to Prevail over the C Customs Act was that IBC being more recent statute clearly overrides the Customs act and since the demand notice were issued subsequent to the initiation of the CP, the same requires determination of dues by a proper officer, and the Supreme Court held the demand notices seeking enforcement of Customs du to be violative of section 14 or 33 f. 
+
+
+## 
+1:36:45
+As I said, assessments are possible, but demand notice cannot be issued during the moratorium period. So it's very clear. It says at best the respondent could only initiate assessment or reassessment of Duties and other levies, but not transgress the mai of moratorium and proceed to initiate recovery against the corporator. So what was held by the NC was upheld. what was order given by encl was rejected and therefore the appeal survived. 
+
+1:37:21
+So the encl held that the CD had abandoned the goods much before the insolvency process and thereby the title of goods had passed to the customs of authority. Appellant contended that CD had not lost the ownership of the goods. The respondent, by issuing notice under Section 72 and filing its claim with the Liquidator, had admitted that the CD is the owner. 
+
+1:37:45
+So here the mistake, or rather the what the Customs Department had done was that by filing a claim and also issuing notice under 7 72, it has admitted that the title to the goods belongs to that of the corporate data and had not passed on to the Customs Authority, as observed by. The Honorable encl. what is the basis of when you say that CD abandoned? What is the? What is the rational for that, sir? 
+
+
+## 
+1:38:14
+So when you have left the goods at the mercy of the custom bonded warehouses and not claimed it for years, okay, that is when I have not taken delivery of the goods from the custom Warehouse, from the warehouse. So then it is then you presume that it is abandoned exactly and therefore the title passes to the Customs Authority. Okay, right, okay. so on the first issue that was framed by. 
+
+1:38:45
+The Honorable Supreme Court as to whether the provisions of IBC would Prevail over the Customs act and, if so, to what extent. The court has concluded that IBC would Prevail over the Customs act once moratorium is imposed in terms of either 14 or 335 of the IBC, as the case may be, and the respondent authority only has a limited jurisdiction to assertain and determine the Quantum of custom duties and other levies, it does not have the power to initiate recovery of dues by means of sale or confiscation, as provided under the Customs act. 
+
+1:39:20
+That is the issue number one that was decided by. The Honorable Supreme Court. the second issue was whether the respondent would claim title over the goods and issue notice to sell the goods in terms of the Customs act when the liquidation process has initiated. The court has answered it negative. Therefore there is no right in the moratorium under 335 continues and therefore the Customs authorities cannot sell the goods. 
+
+
+## 
+1:39:45
+It would remain with the right to with the Liquidator. So the next is on Vijay Kumar gar, Liquidator of lands witha thermal power limited versus Deputy Commissioner of Customs division one nagpur. So here again, the CD was setting up a big Power project and had to import a lot of materials from China and the ministry of power here being a very important project, the power project for India. 
+
+1:40:17
+They took special sanction from the ministry and allowed import of equipment at zero Duty. And but it was just subject to some condition that the CD should produce a bank guarantee and fixed deposit for equalent to the amount of Duty payable. So they just had to give security that they will be importing these items, give a bank guarantee and subsequently, once it has been imported, they would be able to take back their vgs and fds. 
+
+1:40:49
+So the Liquidator one once the company went into liquidation, filed for the return of the bank guarantees and the fixed deposit receipts and it was held that under moratorium, invocation of Bank guarantees was allowed. 
+
+
+## 
+1:41:04
+So in case the CD did not fulfill its obligation to set up the power plant within the time limit prescribed by the ministry, the ministry had a right to invoke the bank guarantee and also encash the fixed deposit receipt in it favor. So whether this could have been done during the moratorium period under CP. The Honorable NT felt it could be done. It allowed the invocation of the bank guarantees. So if why it allowed? 
+
+1:41:34
+Say if you look at section 14, subsection three, the provisions of subsection one will not apply to two cases where the moratorium provision will not apply one such transactions agreements or other arrangements as may be notified by the central government in consultation with any financial sector regulator or any other authority. And B assurity in a contract of guarantee to a corporate dator. 
+
+1:42:02
+Therefore, section 14 has a specific exemption to a shity in case of a contract of guarantee and therefore this appeal was dismissed by. The Honorable encl. Distinguishing invocation of guarantee is possible not covered under Mor under section 14. So we move on to one more bomb high court judgment Jal janta shahari Bank versus joint Commissioner of sales tax. 
+
+
+## 
+1:42:37
+This was an order passed in the 30th of August 2022 here basically, this is a proceeding against in the surfacey ACT, where it was held that the dues of a secured creditor is and subject to proceedings under IBC would rank superior to the dues of the relevant Department of the state government. So I just run you through the facts of this case. 
+
+1:43:05
+It's slightly different from what we have seen till now, because basically deals more with surfacey and the rdb ACT rather than IBC. But first the facts of the case as follows. So the batch of rent petitions were filed by various banks on the insertion of the chapter 4 a in the surfacing act. so what section the chapter 4 a provided was the mandatory registration by secured creditors and other creditors under the CI website. 
+
+1:43:37
+And also section 31b of the rdb Act was also amended to provide priority to the secured creditors. Now the petitioner filed a petition seeking priority with respect to Two Flats which were mortgaged to it as a as a secured creditor over the sales tax authorities. So the state submitted that under Section 6,26 e of the surface act merely provides priority to secured creditors. It does not create a first charge in favor of the secure creditors. 
+
+
+## 
+1:44:10
+All secure creditors would be equally treated. so the B the code that the code noted both rdb act and surfacey act provide the dues of the secured creditor will take precedence over debts, revenues, taxes, taxs and other, not only to the state government and local Authority, but also to the central government. 
+
+1:44:32
+Therefore, both I all IBC, the rdb Act and the surfacey act all provide for similar Provisions, now priority to the secured creditors over the government debts. So the court observed these particular I have extracted where it says: without recourse having been taken to the procedure Enis under the rdb act for Recovery of its dues and without there being a determination of its claim by the DRT to the effect the any sum due is payable to it. a secured creditor is not entitled to evoke invoke the provisions of section 31b of the rdb act. 
+
+1:45:10
+So therefore, if you have to recover invoke the provisions of the rdb ACT, then you will have to go before the DRT. DRT would have to determine that the sum is doable and payable to the borrower and therefore you will be able to enti to recover the amount. 
+
+
+## 
+1:45:28
+And if the immovable property is shown to have been attached in accordance with the law prior to chapter 4 a of surface being enforced, then attachment is followed by a proclamation. According to law that is, priority is accorded by section 26 C and 31b of the RB act will not get attracted if it is prior to the amendment. Now on the issue of treatment of statutory dues under the IBC. this is where the. 
+
+1:45:57
+The Honorable Bombay High Court comes to the IBC as well, where it refers to the rainbow papers judgment, which is decided on 6th September and has held the resolution plan excludes statutory dues payable to the government. It cannot be said to be Conformity with the provisions IBC. Therefore, the rainbow paper judgment it said would apply only to IBC and not to surface now there is Provident fund. 
+
+1:46:29
+So under Provident fund there is always one confusion that we have. There is a claim by the department, there is a claim by the employee, which one should the RP accept. So employees go on to the Provident fund portal. they check whether the PF deducted from their account has been remitted by the corporate data and in case it has not been remitted, what they do. They add that to their claim when they submit their claim. 
+
+
+## 
+1:46:56
+Employees and workmen similarly, they do it for ESI. They do it for TDS. So when the corporate dat goes into insolvency, the first thing they do is they, though they deduct the PF and ESI from the salaries payable to the employees. They do not remit it to the income tax department or to the BF department. 
+
+1:47:16
+So when they do not remit it, the employee starts claiming it in his claim form, as well as the department also claims it in their claim form. So the let us look at some of these cases under the Provident fund law. so first is 2019 NC 2018 nld Mumbai judgment, one of the earliest judgments in. The Provident against Provident fund Precision Fasteners limited versus employee Provident fund organization. 
+
+1:47:50
+So here they say, in alignment with the provisions of the EPF Act of 1952, section 36413 of IBC also provides the dues in respect of PF pension fund graduate fund shall not be treated as part of the liquidation estate and as long as it is not treated as a part of the liquidation asset, the provisions of the Court will not be applicable for realization of such dues from the assets of the CD. 
+
+
+## 
+1:48:19
+So this is the first judgement which clarified that you will have to keep the PF amount gra pension amount separate from that of the liquidation estate. it is not to be distributed to the under the waterfall mechanism but to be paid in priority. Subsequently there was an NCL Deli order on the 11th of March 2022 in the matter of sikander Singh, jam junal versus Vin talwar. 
+
+1:48:46
+So it is in the matter of the CD applied electromagnetic private limited. Here they said that section 364a lists out the cases which are not covered in the liquidation estate assets and should not be used for Recovery in liquidation. One of that is all the sums due to any Workman or employee from. The Provident fund pension fund and graduat fund. 
+
+1:49:12
+So what the enat essentially did is it compared section 17b of the PF Act with the provisions under the IBC. so we'll see section 17b of the PF act, which speaks about the liability in case of transfer of establishment. 
+
+
+## 
+1:49:32
+So when an employer, in relation to an establishment, transfers that establishment in whole or in part by sale, gift, lease, license or any manner, the employer and the person to whom the establishment is so transferred shall be jointly and severally liable to pay the contribution. 
+
+1:49:52
+So here the law under the section 17b, what it conveys is that in case there is a transfer of establishment, however, the transfer is whole or part or any mode, gift, lease or any other manner, two people are responsible: the employer and the person to whom it is being transferred. 
+
+1:50:12
+Both of them it says, will be jointly and severly liable to pay the contribution and such other sums due from the employer under the provisions of this act. So such other sums here include, apart from contribution, it might include interest penalty damages, any other charges that are levied by the department, and it also, goes on to say so, any sums due from the employer under the provision of this act, which is the PF act or the scheme or the pension scheme or Insurance scheme, as the case may be in respect of the period up to the date of such transfer. 
+
+
+## 
+1:50:53
+So if there is a transfer, both of them are jointly and severly liable, provided that the liability of the transfer shall be limited to the value of assets obtained by him by such transfer. so there is a limit given to the liability of the purchaser, which would be to the value of the asset that he has obtained by such transfer. 
+
+1:51:14
+Now, the enl, when it compared the IBC and section 17b of the BFI act, said that there is nothing conflicting in the between the PF Act and the IBC and therefore the overriding effect of IBC cannot be triggered. IBC overriding effect will be triggered only when there is a conflict with any of the existing laws here. 
+
+1:51:37
+Since there is no conflict, the court concluded that the resolution applicant should pay the PF dues also, and it unilaterally amended the resolution plan to that extent that PF du should be paid in priority. 
+
+
+## 
+1:51:54
+So we move on to one of the other landmark case in this, that is the jet Airbase maintenance Engineers Welfare Association versus Ashish chaar RP of jet Airbase, this honorable encl judgment on the 21st of October 2022, which was subsequently upheld by the Supreme Court as well. So now here what the ened. It saw some Reflections in section 18f and in it explanation. So what does first section 18f of the IBC say? 
+
+1:52:26
+That the RP has to take control and custody of any asset over which the corporate datar has ownership rights, as recorded in the balance sheet of the corporate data or with the information utility or depository of Securities or any other registry that records the ownership of assets. 
+
+1:52:46
+So there is a wide range of responsibility cast on the IRP, where it says that you have to check the balance sheet, the corporate data, if any asset is there. You have to take control of that. Then you will check with the information utility, which will also provide a list of assets and the claims available. Then the depository of Securities, so whether the company has any investments in demat material form, then any other security. 
+
+
+## 
+1:53:14
+That for with any registry, if this is available so it might be cersi. It might be any registry which has a record of the assets of the corporate dator. All these would have to be checked and all the control and custody of all these assets would have to be taken over. so let me just read the last slide again. Ownership of assets, including inclusive what all it covers. 
+
+1:53:37
+Assets over which the corporate datar has ownership rights which may be located in any foreign country. That also we have to take assets that may or may not be in the position of the corporate data. 
+
+1:53:50
+The Highlight should be on two tangible assets, whether movable or immovable t sorry, intangible assets, including intellectual property Securities, including shares held in any subsidary of the corporate data, financial instruments, insurance policies, assets subject to determination of ownership by a court of authority. So we have to take control over the asset which may or may not be in the position of the corporate dator. 
+
+
+## 
+1:54:18
+And then there is an exp ation to section 18, which also the court observed in the Jet Airways gate, which is that for the purpose of this section, assets shall not include the following: what it should not include is a assets owned by a third party in the possession of the corporate data held under trust or any contractual Arrangement, including bailment. 
+
+1:54:39
+So this may be in the case of if you are doing a job work, you might have a third party product with you for you to convert and return it back, so that will be an asset of a third party in the position of the corporate data. This asset thep need not take control over and the second is assets on of any Indian or foreign subsidary of the corporate data. 
+
+1:55:01
+So subsidaries assets may not be taken over just treated as an independent legal entity and such other assets as may be notified by the central government in consultation with any financial sector regulator. Now what does the enat read in this? So what the enat said? 
+
+
+## 
+1:55:18
+If the corporate dat are m contains a fund for the payment of a Provident fund or a gradu fund or any other retirement benefits to its workers and employees, that will be an asset. So if the corporator has an in house fund, it will be an asset of the company. But IRP is required to take control and custody of the asset over which corporate dat has ownership rights. 
+
+1:55:44
+Now when we look at the explanation to section 181. The assets comprising of Provident fund gratuity fund pension fund belonging to the corporate data are assets which employees and workmen have a right. Although assets are in possession of the corporate data right, the graduat fund pension fund are essentially assets of the employees and the workmen, so therefore those will not be taken control by the IRP, even after initiation of the CP process. 
+
+1:56:13
+So we look at the conclusions of. The Honorable end plat. first one, it said that the funds that is, the Provident fund pension fund gratuity fund, maintained by the corporate data, have to be utilized fully for the payment of the PF pension fund and gratuity fund of the workmen and employees, and these assets cannot be included in the information memorandum as the assets of the corporate dator. 
+
+
+## 
+1:56:38
+While in while inviting the resolution plans, therefore, the RPS have to be careful to exclude these amounts specifically in the information memorandum and should not be shown as asset of the cor, for jetas was depositing the PF deductions to epfo, so therefore jet was not maintaining an in house pension fund for its employees. 
+
+1:57:06
+So the claim of a Workman towards an employees towards Provident fund should be towards the Provident fund which is not deposited in the epfo account. further, they said that if you do not pay the Provident fund or the employee or the gratuity, it will lead to violation of section 32e and hence to save the plan above, payments have to be made. 
+
+1:57:31
+So honorable encl observed that the priority in the resolution plan should be payment to Provident fund and graduate fund. Now, apart from the payment of PF which has been deducted and the employ employer contribution that is due. There was also a discussion of whether interest on delayed payment penalty damages. All these are also part of the priority under the which will stay outside the liquidation estate. 
+
+
+## 
+1:58:05
+Now, if we read par 118 and 119, the encl has decided that interest on delayed payment of pay of dues will also have to be paid. What it did is it cited the supreme court judgment in the Maharashtra State Cooperative Bank versus assistant Provident fund commissioner in 2009, which says that any amount due from an employer appearing subsection two of section 11 has to be interpreted keeping in view the object of the act and also the other Provisions under Section 117 a 7.14b 152. It quoted various sections of the PF act and it said that the interest on delayed payment would be covered under the words any amount due from the employer. 
+
+1:58:56
+So what happens is the employer is liable to pay interest also damages. Also in case there is a default in payment to the fund and if it is not paid into the paid within the stipulated time, the employer is required to pay. interest is a mentioned under 7 capital Q of the EPF Act. I'm trying to connect with DEA Ma. I think some connection issue is there. 
+
+2:00:16
+So I think we can take a break for 10 minutes. Sure, sure, let's take a break. I'm sorry just logged out by m St. I just share the screen again. Hello, Madam. The Institute has announced that the there is a break for 10 minutes. Yes, sir, we'll take the break, sir, thank you. Yeah, thank you than yeah, so we will just continue where we left off. We'll proceed with the Manas under the I. 
+
+
+## 
+2:12:18
+So ESI I have pulled out one n Ahmedabad order on 24th of November 2023. so in this, the one of the prayers by the esic Regional director was to include the ESI fund into the liquidation estate under Section 364. So they wanted priority on par with the PF fund and the Liquidator also be directed to give priority of dues of ESI on and give parasu charge with that of the secured creditors for an amount payable of 7.000. And they also said that pending hearing and final disposal to condone the delay in lodging the claim as per the order passed under 45a of the ESI act, and they requested the N to direct the Liquidator to accept the claim of the ESI Corporation. 
+
+2:13:20
+Now if you look at section 94 of the ESI act, so the ESI act says contribution Etc due to the corporation to have priority over other debts. so as in any government tax legislation. 
+
+2:13:35
+It said that there shall be deemed to be included among the debts which, under Section 49 of the presidency towns insolvency act or 61 of the provincial insolvency act or any other law relating to insolvency in force in the territories immediately before 1st November 1956, in the distribution of property of the insolvent or distribution of the assets of a company being wound up, to be paid in priority to all other debts. 
+
+
+## 
+2:14:05
+So this is what section 94 of the ESI act and it says, and any other amount payable under the act, the liability whereof aced before the date of order of adjudication of insolvent or the date of winding up. As the case may be. so as it is ESI act. The ESI commissioner also claimed priority over all other Debs as per section 94. Now. 
+
+2:14:30
+The Honorable NT held that insurance is a coverage of the premium paid, whether it is run by a private or a government. It offers a service and the event is triggered only on. The Happening of some eventuality and this cannot be equated to other benefits which are protected under the IBC. 
+
+2:14:51
+And it also went on to say that there is no provision under esic or for any charge or special status other than what is provided under section 45a or what and therefore IBC, which overrides all other laws, and the applicant also prayed for condation of delay in lodging the claim. here again the N amazingly usually is very, you know, concerned and very liberal towards the government department. 
+
+
+## 
+2:15:23
+But here the NT said that the applicant has not given any reason for filing the delayed in the claim and without any satisfactory reason the delay cannot be condoned. So it also said that the claim of the applicant was not in time, it was not in the proper format and therefore the tribunal does not deem fit for the direct for to direct the Liquidator to condone the delay. 
+
+2:15:49
+Now we will look at some on electricity dues. This one case, which was before. The Honorable NT New Delhi and sorry n Kolkata, which was affirmed by the encl SBA versus impex Metal and feroy allo is limited. so here again. There was a successful auction purchaser under the for of the CD under liquidation and he purchased it as boing concern and after purchasing he wanted. 
+
+2:16:17
+He filed an application before NT Kolkata seeking a direction to the power distribution company to restore the electricity connection so that he can run the corporate datar as a going concern itself. Now the power distribution company contended that the new connection could be given only on payment of the all the acred dues, and they also said that a high tension agreement has to be entered with the CD. 
+
+
+## 
+2:16:42
+So there which is automatically terminated on the auction sale has concluded. So new agreement had to be entered into and that would all be done only after the approved dues are paid. now. The successful auction purchaser had already made the necessary deposit for the high tension in connection with the Power Distribution Company. Now the power company was directed to conclude the necessary documentation and provide the connection immediately and for the past use. 
+
+2:17:12
+It was ordered to file a claim with the Liquidator and it also further asked the Liquidator to consider the dues and make payment as per section 53, and it also ordered that the electricity dues from the date of new connection will be paid by the CD. However, whole dues would continue to be given under the waterfall mechanism. This Clarity was given. 
+
+2:17:35
+Now there are some more statutory claims that are there which may not be exactly covered under any of the tax laws. But still I found this one very interesting case in the case of the municipal Corp oparation of Greater Mumbai versus abilash L. So I will just give you a big background about this case. 
+
+
+## 
+2:17:55
+So this corporator was called Seven Hills and they were running two hospitals in one in Mumbai and one in vag when they went into CP. Now the hospital in Mumbai was by way of a land given by the municipal Corporation of Greater Mumbai. so when the corporation PL the layout of any City. They allocate some place for the public distribution services, some for the hospital, some so as a part of the layout. 
+
+2:18:26
+They have some allocation of land like that. The municipal Corporation of Greater Mumbai allocated land to this corporate data to build a hospital, and this land was given by way of a lease and it was subject to certain conditions, mainly that the land should be used only for the purpose of hospital. 
+
+2:18:46
+Now the corporate data built the Hospital on this promises in Mumbai, But the lease date could not be completed and there were certain defaults in meeting the conditions that were played for in the Le for the corporation. So what the corporation did? It issued a Shas notice proposing to terminate the contract. now. 
+
+
+## 
+2:19:07
+In the meantime, before the Shas notice could be issued, the corporate dator was admitted into insolvency and subsequently they also found resolution applicant I think Dr st's Medical Center, New Medical Center. He was the one of the resolution applicants whose resolution plan was also approved by the committee of creditors. After the approval of the plan, mcgm woke up and opposed the plan. They said they are a Public Authority. 
+
+2:19:37
+They are a planning Authority and there is an act called the Mumbai Municipal Corporation Act of 1888 and as per that act, the plan required approval of the Improvement Committee of the corporation before the resolution plan could have been approved, or they contended that without their approval, the set resolution plan could not have been approved by the committee of creditors. 
+
+2:20:02
+It was also argued that the showas notice was issued prior to the insolvency commencement date and they had proposed to already proposed to terminate the contract. Now the resolution plan was approved by the adjudicating Authority. They said a clean slate Theory and the as long as commercial wisdom of the COC and therefore they upheld the resolution plan passed by the committee of creditors. 
+
+
+## 
+2:20:29
+It been before en Enad also approved the resolution plan submitted by Dr shetes. Then it moved further on appeal before. The Supreme Court. Supreme Court said it is not that the provisions of IBC that the Supreme Court has to privately deal with here. It is a process adopted by the n and encl and overloading the mcgm concerns. So they said. Essentially the land belong to the Mumbai Corporation. 
+
+2:20:59
+So when the land belongs to a third party, how can the corporate data by way of resolution plan sell away that particular property and, moreover, the plan also provided for encumbering this property and taking some loans. So they said you cannot put the encumber of property owned by the corporation, especially when even the lease date is not properly executed, in favor of the corporate data and when it has not fulfilled the obligations under the contract. 
+
+2:21:32
+The ncgm has full rights to take away the assets of the of the corporate data and the AL. what is important to note here is that the corporate restructuring by taking over the company was restructuring the company's liabilities by mortgaging the land which directly affected. The rights of the Mumbai Corporation and the Mumbai Municipal Corporation prescribes for prior permission if the properties are being dealt with through leasing or through creating any other interest. 
+
+
+## 
+2:22:06
+Therefore, the said act cannot be ignored and since the resolution plan was never approved by the corporation. The Proposal could not be the resolution plan cannot be approved by the COC. They said if the COC wanted to approve the resolution plan, it should be in such a way that it did not result in encumbering the land belonging to mcgm. 
+
+2:22:29
+So then the argument provided by the CD and the resolution applicant were that provisions of IBC override all other laws and therefore, once the NT has approved the plan, then it approves it acquires privacy over all the legal provisions. Supreme Court observed that on the face of it the argument has Merit, but the section 238 cannot override mcm's right to control and regulate how its own properties are dealt with. 
+
+2:23:01
+So when the right exists with the Mumbai Municipal Corporation, it said IBC cannot override the right of another person to his own property. so the this is what was the landmark judgment that was given under the section 238 says that importance when the properties and assets of a deor belong to it and not when it is of a third party. 
+
+
+## 
+2:23:24
+And therefore it was held that in the absence of Mumbai Municipal corporations approval, the a could not have overridden mgm's objections and enabled creation of a new R in aspects of properties and land. So this is one of the judgments which is not directly due to the government dues, but indirectly dealt with the property and uses to the government. Now we will look at how you should treat government dues in a resolution plan. 
+
+2:23:56
+So first we have already seen whether a resolution plan is binding on statutory authorities, even if the claim is not filed by them. we have seen that in all the other cases. Yes, it is binding, even if they have not filed the claim. 
+
+2:24:10
+Then they have said the payment to the OCS, including the government Authority, should not be less than higher of the two one is the amount to be paid to such creditors in the event of liquidation of the corporate data, or the amount which would have been paid if the amount was distributed in accordance with the resolution plan. So essentially you arrive at the liquidation value. See how much the OC will get. 
+
+
+## 
+2:24:34
+You distribute the resolution plan value also in the same manner as section 53 and you see how much the OCS will get. The higher of the two should be there in the resolution plan. That is one of the essential conditions. so generally it is provided in the resolution plan how the payment would be made to the government departments and other operational creditors. 
+
+2:25:00
+And in case it is not paid, then it has mean the resolution plan will not satisfy the provisions of section 30 and cannot be approved. Nowadays there is one option where the resolution applicants leaves it to the RIS of the COC to allocate the resolution plan amount, but still the COC has to allocate keeping in mind the provisions of the code and it should not be less than the liquidation value. 
+
+2:25:28
+In case there is no liquidation Val payable to the OCS, then nothing need to be provided for the government as well. Then we spoke about the Discrimination among class of creditors whether in the same class of the OC class there are statutory dues. there are the used to trade creditors. All these come under the operational creditors employees, workmen whether you can discriminate among these class of creditors, whether you can provide different payment for each person. 
+
+
+## 
+2:26:02
+So the courts have clarified that different percentages can be given among different class of creditors. And of course, the Clean Slate theory was also upheld by the court, which said that once the resolution plan is approved, there can be no further claims. 
+
+2:26:19
+Now we will move on to one more Landmark judgment in the case for resolution plan that is committee of creditors of Sr Steel versus Satish Kumar Gupta and lit Kumar Jan versus Union of India. In both these matters before. The Supreme Court, it was held that once a resolution plan is approved, it shall be binding on all the stakeholders. so this is to ensure that the successful resolution applicant starts running the business. 
+
+2:26:48
+On fres slate also, we saw the supreme court order in gansam Mishra versus edil asset reconstruction company. It said that on the date of approval of the resolution planned by the adjudication Authority, all claims which are not part of the resolution plan will stand extinguished and no person will be entitled to initiate or continue any proceedings in respect to a claim which is not part of the resolution plan. 
+
+
+## 
+2:27:15
+So when someone successfully takes over a struggling company, they should not be surprised with unexpected claims later on. This is the only reason why it is said that there is a clean slate Theory. 
+
+2:27:27
+This will only promote resolution applicants from applying and taking over distressed financial assets, and you know helping the corporate data remain as a going concern, failing which there will be an increase tendency for them to push them into liquidation, which is against the very provisions of the Court. 
+
+2:27:47
+We see one more case on ultratech, NATA, cement limited versus Union of India, which is in the Rajasthan high court on the 12th of July 2022. so here the application was filed by the cgst department, seeking modification clarification of order dated 7.2020 passed by the court, and the department submitted that the relevant date to be considered for absolving the CD from its liability would be the date on which the resolution plan was submitted, which was in 2017, and the few liabilities which are generated after that date would remain alive. 
+
+
+## 
+2:28:24
+So essentially what the department was claiming here is that the date to see the Clean Slate Theory, or to absolve the CD of all its liability, would be the date of submission of the resolution plan by the resolution applicant and not the date of approval of the resolution plan by the corporate dator. So the intern period. They sought to say that they had a right to claim that amount as well. 
+
+2:28:48
+So here the court, Rajasthan High Court clearly clarified that it should not be the liability should not be fixed as the date when the resolution plan was submitted, but it should be well settled a law that the relevant date would be the date of approval of the resolution planned by the n and on the date on which he takes possession and should not be the date when he submitted. 
+
+2:29:19
+Therefore, they said the order of the Rajasthan High Court did not suffer from any ambiguity and it was held to be correct and no need to modify the same. Now we look at one more aspect of contingent claims. So there are certain claims which are not determined. They are subject to some kind of litigation or some kind of determination by the department. so regulation 14 of the CB regul deals with what is the contingent claims. 
+
+
+## 
+2:29:49
+So it gives guidance on how you must treat these contingent claims. So it says, when the amount claimed by the Creditor is not precise due to any contingency or any other reason, the IRP or RP shall make the best estimate of the amount of claim based on the information available. 
+
+2:30:09
+So in case there are proceedings spending before any Authority, the RP has to make a best estimate of what would be the liability and mention that in the information. It also says that the IRP and RP can revise the amounts of claims admitted, including the estimate of claims made under sublation one as soon as practicable when further additional information warranting such revision comes to his knowledge. that is for the treatment of conent claims. 
+
+2:30:42
+Now, in the matter of data steel BSL limited version versus vsha in the Bombay High Court, a 2019 order, the high court allowed the admission of a claim of an OC which was pending dispute before the Civil Court. Now the high court clarified that the Candor cannot be denied the opportunity to have his claim added to the information memorandum merely because it was pending for dispute before the Civil. 
+
+
+## 
+2:31:10
+So accordingly what the court did, it directed the IRP to include a Subud this claim at a notional value of one rupee. This is what is suggested by the court itself. In case the RP is not able to determine the claim, he may assign a notional value of one rupee in the information memorandum. as soon as additional information is provided, he can include the same in the information memorandum. 
+
+2:31:35
+Now we come to the rights of the OC's. So OC is a member of the Committee of creditors. Accordingly, they have the right to have the information memorandum, the rfr? R p copy of the resolution plan. All of course, subject to submission of undertaking, confidentiality undertaking and when the value is available, the liquidation value. 
+
+2:31:58
+Also to understand what will be the chance of recovery post submission of the resolution plan now in liquidation, what happens start of fresh proceedings is again prohibited. However, if there are any continuing proceedings which have been kept pending due to the moratorium and C? P. Those can be continued after liquidation order is passed and in terms of Regulation 453 redw formage the Liquidator has to intimate all the statutory authorities. 
+
+
+## 
+2:32:29
+So regulation 453 only talks about formage to be submitted by the Liquidator for the n and in the formage there is a column which says the dates when the statutary authorities are intimated. Like the income tax and GST and other authorities, the it implies the Liquidator would have to intimate all the statutary authorities immediately on commencement of liquidation. 
+
+2:32:52
+The government departments are expected to file their claim as an OC in the relevant form and it is also clarified in case they do not give a claim during liquidation. The same claim given at the time of CP can be taken during liquidation as well. however, government Department should be educated to give their claim again, because there might be an enhanced amount due to the flex of time. 
+
+2:33:13
+There might be some additional amounts which have come to their notice or some kind of past assessments which should have happened and interest and delayed payments which they would have determined. So all these could be added and given as a claim in the liquidation stage and all the assets of the CDs, if attached by government's authorities against tax dues, they have to be released in favor of the Liquidator. 
+
+
+## 
+2:33:36
+This may be in the form of a bank account. Movable immovable properties. All these which would have been earlier attached will have to be released in favor of the liquidate and the tax authorities would have to fall under the waterfall mechanism under section 53 and wait for distribution by the last if the assets are realized and already adjusted towards tax dues, and then the same is not required to be reversed, as the ownership of assets have already been transferred by from the CD to the government of third parties, now the stakeholders consultation committee. 
+
+2:34:20
+So the Liquidator on commencement of liquidation has to constitute the stakeholders consultation committee within 60 days Days of the liquidation commencement date. based on the list of stakeholders he has prepared and the stakeholders consultation committee will form part of the OC also will be formed part of the stakeholders consultation committee, one representative, so from the government Department. What all matters now? It has been recently enhanced. 
+
+2:34:49
+This is just prior to the amendment: the remuneration of professionals appointed under regulation 7, sale under regulation 32, that is, the manner of sales pre reserve price marketing strategy auction process and the fees of the Liquidator, valuation under subregulation two of Regulation 35 and then manner in which the proceedings in respect of the Pu transaction shall be pursued after the closure of the liquidation proceedings. 
+
+
+## 
+2:35:14
+So all these matters would be decided by the stakeholders consultation committee. Though the recommendations of the committee is not binding on the Liquidator, but still they will have an opportunity to participate and give their views, and the voting share in the stakeholders consultation committee will be in proportion to the admitted claim to the total claim, and only those creditors who have not, who have relinquish the security in favor of the Liquidator will for part of the stakeholders committee. 
+
+2:35:45
+Those who have not will not form part of the consultation committee and the Liquidator will facilitate the stakeholders of each class to nominate their representative. So here under the government department has been given a specific class where they can nominate one person to represent them on the committee of stakeholders consultation committee, and in case they are they fail to nominate, then they'll be selected by the majority voting share of that class present and voting so they said the one representative who is there on the consultation committee shall vote in proportion to the voting share of the stakeholders it represents. 
+
+2:36:24
+So six consultation committee should advise a liquidator by vote of not less than 66% of the representatives of the consultation committee voting and it of course is not binding on the Liquidator. but however, if the Liquidator is not following the recommendations of the consultation committee, he will have to report the same to the board and also to the nclt in the progress report. Now we move on to voluntary liquidation. 
+
+
+## 
+2:36:52
+So there has been a recent Amendment in 31st of January 2024, where the regulation 31a has been amended and subregulation 3 has been added, where it says the corporate person has made sufficient provision to meet the obligations arising on account of pending matters maintained under sub Clause 3 of clause B. So what is sub Clause 3 of clause B that has been added? 
+
+2:37:16
+It says the Declaration of solvency shall be accompanied by a disclosure about pending proceedings or assessments before the statutory authorities and pending litigations in respect of the corporate person. 
+
+2:37:28
+So earlier, as when we filed a voluntary liquidation, we used to see only what the liabilities were there in the balance sheet of the company and whether the company has sufficient assets to cover the liabilities, and accordingly Declaration of solvency was given by the directors on the basis which voluntary liquidation was initiated. 
+
+
+## 
+2:37:48
+Now they have added one more clause, in case there are any pending matters before any of the statut authorities say, for example, if the income tax assessment for the previous year is not yet over earlier what we used to do, as long as the tax dues were completely paid, we used to go ahead and apply for voluntary liquidation. 
+
+2:38:08
+Now we have to provide me a best assessment and in case there is any pending assessment, it has to be disclosed in the Declaration, and some provision would also be have to be made in case there are any obligations that come out of the pending matters. 
+
+2:38:27
+So with this I think we can conclude so the blrc report captures the rational for subordinating the crown debts in favor of the recovering because of the recoveries of the banking sector which have to be made so this is in interest of the business and the banks at large, so that the banks do not pass on the burden of increased interest and Recovery cost by way of higher interest to the corporate datas rather to the companies. 
+
+
+## 
+2:38:59
+And one more very good aspect of this law is that all the discussion papers, draft amendments, everything is put up for public comments. Ample time is given by to the professionals and to the public at large to look at the Amendments proposed and give their suggestion post that only these suggestions are implemented by the ibbi and also that there are frequent changes made to IBC based on the various cases that have been before. 
+
+2:39:30
+The Honorable courts and feedback that is given in needs and Market perspectives. So IBC is a very Dynamic law. It has evolved to change depending on the needs of the sector, which is a very good factor, and that dynamism is required today for the economic environment. so though we may have to keep updating, I think we'll have to take it as in the interest of the public at large. 
+
+2:39:58
+So with this I conclude my presentation, and if anybody has any queries, I would be happy to answer. I think with that we can conclude the session. Thank you very much for all the patient hearing, and it's always a pleasure to address fellow professionals. May I request aneli to please close the session? 
+
+
+## 
+2:40:32
+Yes, ma'am, on behalf of participants and team icsa IAP, I would like to extend my sincere thanks to map for taking out time and addressing session on the topic treatment of government under IBC. Thank you very much, ma'am, for sharing your experience and learning with us. It is very interactive and insightful session, with you looking forward to have more session with you. thank you very much, ma'am. You requested to please share your material with us. Sure I will do that okay, thank you very much. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

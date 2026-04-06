@@ -1,0 +1,566 @@
+# Valuation Under IBC #valuation #ibc
+![](https://img.youtube.com/vi/4G9fOQb2ZSo/hqdefault.jpg)
+1 year ago (Jun 12, 2023) — 1:04:35
+[https://youtube.com/watch?v=4G9fOQb2ZSo](https://youtube.com/watch?v=4G9fOQb2ZSo)
+
+
+## Summary
+Summary not available...
+
+## 61st Triple A Weekly webinar series 61st episode
+0:00
+Namaste, good morning. So today we are conducting our 61st Triple A weekly webinar series, 61st episode, and today the subject is slightly different. It is a subject on valuation which is supposed to be done by registered valuer and we are trying to analyze the regulations, the under the cirp regulations, regulations under liquidation process regulations and various judicial pronouncements by nclt and clat, where some issue regarding the valuation done by registered valuers are involved. 
+
+0:48
+We are also trying to cover the ibbi orders passed against either the insolvency professionals or registered valuers. This is actually not my subject. I am not specializing the valuation subject. However Ankit goel, he won that he is the founder of AAA evaluation entity, which is named as AAA valuation professionals LLP. So he is the founder and the designated partner for that. 
+
+1:29
+So Ankit today you have to lead and you also share your experiences of various kinds of valuation. I have some questions from valuers and I would try to ask you those questions. 
+
+
+## IBC webinar: How to reconcile valuation reports with RP
+1:49
+The objective is that we share our combined experience, the experience of a registered valuer entity for all class of assets, and experience of an insolvency professional who is cutting the evaluations done and face the COC as well as nclt on many occasions where the issues of valuations are involved. Yes, I'll get. It is up to you. So good morning everyone, and welcome back to the weekly webinar series. 
+
+2:24
+Today's topic I think is very important for the IBC process. in recent times. If I talk about my own experience as a valuer, we have come across many scenarios where we have given a value. 
+
+2:37
+Then the first challenge for the insolvency professional, once the value gives the value to the RP, is to reconcile the two evaluation reports and at several times the valuation reports are Technical and it is difficult for the RP to reconcile and understand the reasons for difference in the valuation number. So as I said, the number can be different. There can be different viewpoints from different values. So the same asset. 
+
+
+## IBC Evaluation Reports: Reconciliation, Reconciliation, and Reconciliation
+3:08
+But in case the basic assumptions, because in many times in IBC we don't have adequate information. So a lot of evaluation work is done on assumptions and therefore then that reconstration is something that is first challenge. once that reconciliation is done, then the process goes on and then the valuation reports have to be accepted by the COC. 
+
+3:31
+We see in many scenarios that the committee of creditor me members are sometimes Amazed by the evaluation report because the valuation numbers that they have on their own records is almost always on the higher side, and when that number comes to them, then there is a dilemma. That is, the liquidation value on record is an X number and the valuation that we are getting from the registered values is a lower number. 
+
+4:01
+Then that again something that goes on that becomes so in many cases. Now we are seeing that the third value is getting appointed. so I think let's take it forward and I believe that we will discuss all these issues as we go forward and understand what are the regulations saying about this. I can share the screen. So let's start so a famous Professor, ashwath danudran, is. 
+
+
+## IBC Assessment Report: How to Assess Investments, Investments, Investments
+4:44
+He's very famous in the valuation field, and he simply says that it is basically not spreadsheets that you're making. It is the story or it is the perspect of that business that you are valuing, minded that, as a Securities of financial assets, value or maybe we can say is a is a business value, more so as compared to a single asset based value. 
+
+5:11
+So he is talking about company being valued and startups being valued, and you know paytm being valued. it's a matter of being valued and therefore he says that the stories are what people remember. That is the story that was being believed in. So when we look at stock market stocks there also, we are believing in a story with respect to the growth of that of that stock and so on. 
+
+5:36
+So objectives of valuation under IBC, that's something that we can quickly glance through. We understand that the evaluation report guides the actions of the IP, the COC, the nclt, even if the liquidation value can be disregarded by the COC in commercial interest or in its own commercial wisdom, and they can pass a resolution which is lesser than the liquidation value. It's not of any very easy process for that to happen. 
+
+
+## Excel: What are the practical challenges in that happening?
+6:05
+So maybe an Excel can throw more light on what are the practical challenges in that happening and therefore that is the guidance, major guidance, and then there can always be the opposite as well. Where the liquidation value is say 200 crores, maybe the liquidation value should have been 300 crores and a plan for 250 crores gets passed. So that's also the other side. So what we have seen, the electrician value and the fair value. 
+
+6:33
+Both are very, very important for a resolution process and also for a liquidation process. We have seen a very reasonable resolution plans getting rejected because the registered valuer provided a liquidation value which is much higher and is not realistic now. 
+
+6:57
+Even yesterday I was discussing with some of the valuers now the valuers actually well given a value of robot 32 crores for some of the sundry debtors, and then when I when I asked questions, he said that the new information about these debtors were available. So I analyzed these debtors on Aging basis and therefore I valued it at a particular value, which is about 20 to 30 percent of the total realizable value. 
+
+
+## What Is the Only Valuation That Is Not Worthing?
+7:24
+When I actually confronted with him that for the last five years there is nothing has been recovered from these parties and most of these parties are proprietorship concerned on partnership concerns and even the kycs and the contact details are also not available to would not have been able to approve a resolution plan, and this is a must that the company must have gone to liquidation. 
+
+8:01
+See there are judgments from any clad that there is no provision under the IBC that a second valuation can be obtained during cirp. So if the one valuation is the only valuation that we have to rely upon, therefore, that valuation has to be accurate. That has to be based on information provided. 
+
+8:23
+On the other hand, I have also seen some valuations where the financial assets recoverables, receivables, arbitration contingent assets, litigation contingent assets, all are valued at zero, and the only reason why these assets are valued at zero is that the information is provided by the RP is not sufficient. Now this is something which is a benefit to the promoters. 
+
+
+## RP is only one valuer, so it can reduce the recovery for stakeholders
+8:46
+The promoter can definitely take advantage of such a low value, and especially in the case of infrastructure companies, EPC companies, you would receive you would actually have many litigation assets and arbitration assets, so the valuation actually can reduce the recovery for the stakeholders. So therefore, we have seen and on the other hand we also have seen orders that the COC has no power to direct PRP to appoint another valuable, so it is only one valuer. 
+
+9:25
+It is like one valuation process by two valuers. Second, it cannot be repeated. Third, in case the information is not provided to registered valuer, they will not be responsible for. The third value can be appointed by COC at the recommendation of the COC or in case the difference is too high. These are the two reasons that the third value can be appointed. 
+
+9:54
+So there has been some cases where the resolution plans were not received, or even if it is received it is much lower than the liquidation value. The COC decided to get the valuation done again. That was in fact considered as unlawful. The anklet says that we have not seen any provision in the code or any provision in the regulation which authorizes the RP to conduct a fresh set of valuations. so. 
+
+
+## NCLEX Review: Does it give zero value?
+10:29
+Therefore, it is one valuation, one process. It has to be perfect, otherwise it will be complete failure of the process. In case the valuation is low, actually it will be less recovery and the fit on the IBC would be quite Disturbed, and in case the valuation is very high, the company will go into liquidation. Yes, please go ahead. So of course this letter issue is a contentious issue. 
+
+11:05
+One of the cases where the NCLEX commented on the evaluation process was Gujarat NRE Coke and then subsequently post investigation, the registered value in that matter was pulled up for having given a zero valuation or a valuation for debtors without analysis. But in most of the cases that we do as a valuation professional, we do give zero value, especially when we don't have ledgers available. 
+
+11:37
+We don't have any other information available, by saying that if this information is not available with the RP or the liquidator, then the realization, or the possibility of realization will be almost zero, and this contentious, this contention, or this basis of giving evaluation has also been questioned. We presented this kind of a report to a COC meeting. Part of the COC was saying: why did you give a zero value? 
+
+
+## Registered Value is a common cause of dispute
+12:05
+And part of the COC was of course, with us saying that there is, in this kind of a situation, the value has no option but to give a zero value. So both sides then of course have a have a point to make. so registered value typically, of course, we say competes with market and delivers to estimate a value which is more authentic than the price of an asset. 
+
+12:27
+So here again we are looking at you know, under the registered value is looking at whatever information is available and trying to make sense out of that of that asset. Based on that also physical verification, I believe, helps. 
+
+12:41
+So when we say that the valuation process should be like this or like that there again many occasions, we feel that if there is proper support available at the time of physical verification of assets number one or there is adequate information available before the physical verification is done so that the valuer can study that information and then visit the plant, that also helps. so valuation report is then, of course, a common cause of dispute. 
+
+
+## Undervaluation: What is the basis of value or what is the basis of value?
+13:13
+That's something that we see in many orders, and the difference in facts is something that I already said should be ironed out at the time of draft report. These are the possible effects of undervaluation. There can be normal gain. There can be loss of realizable value. There can be possible loss of reputation for the registered value. 
+
+13:35
+Possible effects of evaluation can be rejection of resolution plan, delay in the liquidation process, and so on.coming to the definition and coming to the understanding of what are the types of valuations under IBC, so in when we look at valuation and when we look at standards, we're looking at something called what is the standard of value or what is the basis of value? now the basis of value, standard value. 
+
+14:00
+Some of those are mentioned in the international valuation standards. But then those standards also say that where the standard or where this standard of value or basis of value is defined in the regulation or in the act or in the law, then there you have to follow that definition. 
+
+
+## Market Value Definition: Difference Between IBS and IBS
+14:18
+So if you look at fair value definition, which is under regulation 2 HB of CIP regulations, we are basically looking at the market value definition which is also present in the international valuation standards. So basically, we are Computing market value, except for a few changes. What are those changes? One, we are talking about the difference that now here we say estimated realizable value. There we say estimated market value. 
+
+14:47
+Secondly, we are looking at a difference where here the premise is that the the words are if they were to be exchanged on the insolvency commencement date, there it is the if they were to be sold on the sold on the valuation date. So valuation rate in IBS is flexible, whereas the fair value definition in our code or in regulations is not flexible. 
+
+15:18
+It wants us to do the evaluation only and only on the keeping in view. The evaluation data is the insolvency commencement date. Changes which have happened thereafter can influence the value. But yes, those changes should not then change the value itself. So somebody says my insolvency commencement date was two years before today and the valuation is still going on for whatever reasons. Let's say that is the case. 
+
+
+## Market Value Definition: The Assets of Corporate Debtor
+15:44
+So the valuation is still required to be the on the date, which is two years back. You can't take the market prices today and do a valuation of that asset, so that would be the essential meaning of that. 
+
+15:54
+The second thing, or the third thing that is different here from the market value definition, is that here we are only valuing the assets of the corporate debtor, but when we are looking at the assets of the corporate data, we are also then ignoring the liabilities here or other. I should say that we are ignoring those liabilities which are not set off with the assets. 
+
+16:14
+So in case my balance sheet says that there is a TDS receivable from the income tax department and I want to give a value to that asset, so I can easily look into the income tax website, maybe look at the demands that are appearing therein and take a call or take an interpretation that since those demands have been pending since a long time, any such refund is likely to be adjusted and therefore the value is zero. 
+
+
+## What is the difference between fair value and liquidation value
+16:38
+That is something that is of course part of the interpretation of the code as well. Any comment on this from your end? no, I'm only trying to understand and highlight the difference in the fair value and the liquidation value when I see fair value definition which is provided in regulation 2 HB of cirp Regulation, and I also see the liquidation value which is provided in regulation 2 K of cirp regulations. 
+
+17:08
+Now, like you see very clearly, there are few words that I would like to highlight now. This is first of all the in the evaluation has to be done as on the in solvent sequence event date, and there is a word like willing buyer and billing seller. No willing buyer and willing seller. These two phrases are being used. 
+
+17:27
+Armed length is of course okay after proper marketing, proper marketing where the parties had acted knowledgeably, prudently and without compulsion. So one is the billing buyer, secondly the billing seller. third is the proper marketing and fourth is the without compulsion. So these four things which are used in the liquidation value. These are very significant. And now, in case we go to the definition of liquidation value that is estimated realizable value of the astrology. 
+
+
+## liquidation value for the Cooperative
+17:57
+The Cooperative were to be liquidated on the insolving sequencement date and then when we see the one guidance note issued by the triple IPI means the IPA of Institute of Chartered Accountants. They have also recommended one particular definition. 
+
+18:17
+And then when the corporate data is under liquidation, the term liquidation value May refer to a valuation of asset when the seller is compelled to sell, wherein the reasonable period of time is given to find a purchaser less than the required marketing period. so the in the liquidation value. What is missing. One is the Willing buyer. Of course willing buyer would be there, but then the billing seller is not there. 
+
+18:45
+It's a basically compulsory sale by the seller, so one willing seller is not available. Number two: proper marketing is not available because the timelines are provided in the liquidation timelines are also provided in the resolution process. Therefore the proper marketing is also not available. And then the third is that it is being sold under compulsion. So that's what is the liquidation value in case we have two cell within a stipulated time. 
+
+
+## What is the fair value and liquidation value?
+19:15
+In case we have to sell an asset within a stipulative time and we don't have the proper time for marketing, we don't have the proper resources for the marketing, we don't have the total. we don't have the investment scene where we actually can take approval from the committee of creditors and we invest on the marketing that is also missing. So that is what is the difference between the fair value and liquidation value? 
+
+19:41
+Okay, please go ahead, so that's very. That's a very important difference. That is pointed out. So when we talk about willing by a willing seller, then we talk about proper marketing, then we talk about parties had acted knowledgeably, prudently and without compulsion. These are the essential categorization or these are the essential features of a market value. 
+
+20:04
+When we look at IBS and therefore there we are looking at what will this asset sell in the market in the normal course, and liquidation value as we are looking here, is again something where, when we do liquidation under IBC, what will be the value that will fetch in case we do liquidation of that asset? This is my interpretation with respect to how the liquidation value should be defined. 
+
+
+## What is the liquidation value definition?
+20:29
+Then it says that's also something that is written in part three of the triple ipis interpretation of the liquidation value. So basically this is what they say: that if the assets are liquidated and the resolution plan was not implemented, then what will be the value of the asset? That is what the liquidation value definition indicates. now these two words liquidation value as well as fair value are used in whenever we're looking at CRP regulations. 
+
+20:59
+But when you look at liquidation regulations and we are trying to do a valuation of assets under liquidation process, then we get the value again. We read the word realizable value because there, when we look at the definition or the regulations that are part of liquidation regulations, we are only looking at reliable value. Being mentioned liquidation value does not find a mention. 
+
+21:20
+So there the idea is that liquidation value the general understanding is that this is the value that we will get after reducing the cost incurred to sell the assets from fair or liquidation value. this is what the idea is and of course, in solvency professionals they talks about the same thing with the liquidation regulations, mentions a realizable value and not liquidation value. 
+
+
+## Provisions in the valuation under IBC
+21:45
+So the estimated realizable value of the assets of CD in case of fair value is considering a willing buyer, willing seller, and in the case of liquidation value, we're looking at reasonable marketing time but less than the sufficient marketing time. That is the difference that they have concluded in the triple IPI document with respect to fair value and liquidation value. Now coming to some Provisions in the in the valuation under IBC. 
+
+22:14
+Here we are looking at of course, the direct preferences to valuation are in 593 B2, which deals with voluntary liquidation. so any company that is going under voluntary liquidation would want the valuation done before the company files for a voluntary liquidation with nclt. That is the process. Then we look at doubly having some rights under 4.2 with respect to getting some valuation done and then we will start looking at the regulations there. 
+
+22:42
+So in regulation 27, that is for carp regulations, we find the idea that it says that the appointment must happen within seven days of the appointment of the RP or within 47 of the RP and they must appoint two registered values. I mind it. I am not talking about IRP. I'm talking about the RP. 
+
+
+## RP Appointments on 30th day of CRP start date
+23:02
+So therefore, the idea is that the as per the timelines of the entire code, the RP gets appointed on the 30th day of the CRP start date and by 40th date 10 days are given for the nclt to approve the RP's appointment and after that we have seven days to appoint the registered value. 
+
+23:25
+So based on that the 47 days is computed, so 47 is equal to 30 plus 10 plus 7. So basically seven days is what is the time given for the registered value to appoint the value. 
+
+23:36
+But here again, one of the difficulties that comes in and one of the one of the processes that we follow in Triple A is that interpolate insolvency is that we quote or see quotations from the values based on the information available before the first COC meeting, so that the financial approval of the cost of valuers can be taken or can be proposed before the 30th day. 
+
+
+## IRP is continuing as RP or not, the 47th day is normally under the
+23:59
+Because invariably we find that whether the IRP is continuing as RP or not, the 47th day is normally under the irp's domain and there the process does not talk about what will happen in case the COC or the regulation does not talk about what happens if the COC does not pass the financial approval for a valuer. 
+
+24:23
+So in many cases in triple evaluation, we are appointed by RPS on a provisional basis where in the appointment letter they say that your this is the fee at which you are appointed. But this is subject to ratification by the COC. The fee is subject to ratification by the COC. So that is how we are getting appointed in several cases where the COC has not approved the financial proposal of appointing values foreign. 
+
+24:53
+So this any further comment on the appointment process. I think we can. We have talked about this in the past as well. Yes, so then we talk about regulation 35 of the ibbi regulations. Yeah, so this is so. These are regulation 35 of the of the Fast Track regulations. Then that also requires evaluation. then voluntary process or voluntary liquidation process. Regulation three one B2 requires it. Then regulation 26 of the Fast Track insolvency process. 
+
+
+## Regulation 34 of the ibbi regulations liquidation regulations
+25:24
+Then regulation 34 of the ibbi regulations liquidation regulations. That regulation 35 also is there. So now we can look at all these regulations. Appointment of professionals. We have already talked about how the seventh day, 47th day and then two registered values are important and how the IRP invariably does this work. So then we are looking at a appointment shall follow. Just hold on, please just hold on. 
+
+25:53
+So I can say one thing, the as far as this appointment is concerned, one that the IRP or RP whosoever is appointing the valuers. First of all, there are responsibilities that a relative of the resolution professional cannot be appointed related party of the corporate director cannot be appointed an auditor of the corporate letter at any time during the period of five years preceding the insolvent sequence sentiment bait cannot be appointed a partner or director of the insurance policy professional entity ipe of which the resolution professional is a partner, or a director cannot be appointed now. 
+
+26:36
+The other thing is that the invoice for the fee and other expenses incurred by the professionals appointed and these regulation shall be raised in the name of the professional and be paid directly into the bank account of such professional. And with one clarification that I need like: are you able to raise your invoice from the I from the rbe? Yes, very much so. 
+
+
+## Regulation 35 for Corporate Persons: How to Apply for IPS
+26:56
+Then you are not supposed to get the invoice from all the three class of valuers, because when you, when you look at, when you look at the regulations and when you look at the word registered value, the word registered value itself includes registered value entities. So here the interpretation, or raw interpretation, can give you and give you an indication that oh, this is an individual registered value we are talking about. 
+
+27:22
+But when you look at regulation, it also refers to the entity. Fair enough, I think we can move forward. So regulation 35 insolvency resolution process for corporate persons. so before I conclude this, one of the things that I've observed is many insolvency professionals give three different appointment letters for three different asset classes to us, and that is something that is a practice in among some of the IPS which I find you know little Merit in. 
+
+27:54
+So that's something that I can talk about here, because that's concerning the appointment process. So we in the past have also done or also sought valuation quotes from valuers where we are IPS on a combined basis, where we say these are the three asset classes. 
+
+
+## RFQ for a company, RFQ for a company
+28:11
+All three asset classes are required to be done by an rbe which is registered for three asset classes and they should give a combined quote and then we present that comparison to the to the COC or their approval of fee. so there again we are not, then we do not appoint different valuers for different parts. 
+
+28:29
+One of the merits of doing that is that when terms to fair value computation Enterprise Value computation where you have to look at you know different aspects of the same company, or you're looking at some asset, parts or parts of the assets of the company which are not part of the books of accounts. 
+
+28:45
+So recently I will give you an example that we got an RFQ for a company and then when we investigated, or you know did with a little bit of research, we found that the it was a very well drafted RFQ. 
+
+
+## Legal Rules 35: Fair Value and Liquidation Value
+28:58
+A lot of information was provided with respect to the CD, but one of the questions that I had was that does this company have any trademarks and that information was missing in that system, that whole system, and if somebody would have started looking into the possible trademark valuation of an alcoholic beverage company, then it can have actually a very high value. So bottling plant etc. Can have a different value. 
+
+29:21
+But if you have a very established liquor brand, then that can have a value in itself. So then and imagine losing out or missing on the liquidation value of that brand in evaluation process. So that's because that was not part of the books of accounts. It was perhaps missed by the IP. So regulation 35 of now we talk about fair value and liquidation value. 
+
+29:47
+So regulation 35 says how the two valuation two registered value is appointed under regulation 27 need to submit their submit to the RP the estimated fair value and liquidation value after physical verification of inventory and fixed assets. 
+
+
+## Asset Class: What is the difference between registered values and asset classes
+30:01
+Then it talks about how the two estimates of value in asset laws if they're significantly different, or on receipt of a proposal to a point a third value from the committee of creditors, the resolution professional May appoint a third registered value for an asset class for submitting an estimate of value computed in the manner providing Clause a in Clause a. Then we talk. 
+
+30:23
+If then we then we talk about explanation, we look at asset class, so asset class can be of course three asset classes: London building plant and Machinery SFA. there can be some confusion between different registered values and what are what is covered in what asset classes. So say an inventory for land and building can be easily said to be covered in a land and building asset class. 
+
+30:42
+Similarly, a leasehold interest, somebody can say, is part of a land and building a leasehold land interest can be part of a land and building values. A scope of work, a complicated or a spare parts of Machinery can be part of maybe plant and Machinery registered value and not an SFA valuable. So these are some variations in the asset class parts or some complications there. 
+
+
+## Difference in Asset Class Levels of Valuation
+31:05
+Now that aside, then when you look at significantly different, then it means difference of 25 percent of the liquidation value under an asset class and same shall be calculated as L1 minus L2 divided by L1. So the formula is given so that there's no confusion here and then this is a difference that is only and only required in liquidation value and minded the differences required to be seen at the level of the asset class. 
+
+31:31
+So the asset class level valuation differences need to be taken care of. So it says if the two estimates of value in an asset class are significantly different. So now, based on this regulation, it becomes important that the liquidation value at least should give different values to different asset classes so that they are comparable between two a two registered value reports. 
+
+31:56
+Now in case you talk about liquidation as a going concern, then sometimes the giving the value or individual valuation to asset classes becomes difficult. For a piecemeal asset valuation it is it is easy. So therefore the piecemeal, well piecemeal liquidation becomes a king here, or rather the leader here, so that the asset class level differentiation can be done. 
+
+
+## Physical verification of corporate assets of insolvency professionals
+32:20
+Ankit here I would actually like to say the wording is: after physical verification of the inventory and fixed assets of the corporate data now there are almost 50 percent of the companies that the most of the insolvency professionals are facing that there are no updated records available. There is no far available and there is no item wise list of assets are available when this registered valuers are asking information from the insolvency professionals. 
+
+32:51
+They are not able to provide that information because of dependency of books of account for the last few years. Non availability of books of account. It is only the balance sheets are available in some cases and that too on the public portals. So when I checked up with the physical verification scenario, then the valuers are saying that we have to work on a list which will be provided by you. 
+
+33:19
+If you provide us a list of assets, then we will physically verify it. Otherwise we would not be able to give you a certificate that we are physically we have physically verified it. No, even on the other side. Suppose an insolvency professional gets a record of the assets of the company and he just sends that record of assets to the registered valuer. 
+
+
+## Registered Value Certificate for Physical Verification
+33:44
+The registered value also went there for physical verification and then he went there alone and he nobody from the RP team was accompanying him then he can always say that the list provided by you of the assets he would Mark some shortage. He will. He will just do it on Excel sheet. Some reductions, some benefits, and finally he will give the certificate. Registered. 
+
+34:12
+Valuable certificate is coming based on one, the information provided by the promoters and also information, the physical verification, when a person goes there and he doesn't even know the names of the component. the physical verification is something that, even if it is not done by the registered valuable later on he will always say that he has done the physical verification and the assets are available at that time. 
+
+34:41
+When I visited now that is something which is a very, very dangerous situation for insolvency professionals that the registered value or in fact is giving a certificate of valuation based on the data that you have provided. So you have provided the data of current assets registered like surgery debtors and you have as RP. 
+
+
+## Physical verification of the Inventory
+35:11
+I have not physically verified the inventory, but what I feel is that the valuers can always say when I went there it was available. Now it is not available. I do not know what happened and then the RP will become responsible, like if the valuer is saying the assets, assets for six or seven. Now the assets are only two. Where are the balanced poles? 
+
+35:36
+The valuer will say that I physically verified it when I went there and actually the books are still showing six assets, whereas the before the commencement of cirp, the promoters somehow took away some of the assets. It is happening mostly in the name of in the case of cars. So any input that you would like to give on this physical verification? How big is the responsibility for the valuer? 
+
+36:06
+How can't you give the certificate without even going there, without just creating an evidence that you went there? Would it be really helpful for the process? Should IP rely on this physical verification? what are your answers to this? 
+
+
+## Physical verification: How to verify a list of assets
+36:24
+So I always say that when we used to say that okay, we are as let's say, as an auditor, when we used to go to a client place and the question that was put to us was that have you done any physical verification? So Physical verification. We talk about how the physical verification can be done. So one is taking physical inventory, taking physical making of, making a list based on your physical inspection. 
+
+36:53
+But whenever the word physical verification is used, it is always something where you are verifying an existing record. so in cases where the list of assets is not provided by the by the promoters, by the management, or where the this cooperation is not granted. My thought process is that it becomes, it seems to become, the responsibility of the RP to get the physical list of assets made. 
+
+37:25
+I will also give you an example, like in one of the cases where we took a very large inventory, we got some support from the management, but at the same time that support was limited to getting the book records of all the physical inventory that was available with the person and it was not that physical. That book record may not be matching with the physical verification of the physical status of the various items. so. 
+
+
+## Physical verification by the value of the RP
+37:53
+Therefore, the reconciliation of the two then becomes the responsibility of the RP and subsequently then we are looking at physical verification by the value. This is my interpretation here, and I believe that triple IPI has also taken note of a similar system, that the verification, the responsibility, is verification and not creating the list of assets. 
+
+38:16
+Many questions I think we have to take out some questions and these are very, very relevant with this subject that we are pleasantly taking up. One question is from vinay Khan and he says IBC commences in the year April 23 and the last balance sheet received from the promoters or anyone is 2015 and 16. How to take up this issue, how to get this valuation done. 
+
+38:42
+I definitely would share my experience that in such cases, whatever balance sheet that we have and then it actually becomes very important that the RP team must go to those locations of the assets and the businesses of the company. The RP team must prepare a physical inventory of every location, every place and in case possible, a kind of functionama may also be created and the punch number that we create under surface law. 
+
+
+## Financial Assets Book Assets Book Assets Book Assets Book Assets Book Assets Book
+39:13
+That is helpful, with some witnesses that when I took over when I went to the premises, I found these assets and along with the asset, one should take the pictures and one should take the videography of the visit of the RP to the locations. Now this is for the physical Assets. 
+
+39:30
+Now as far as this financial assets book assets, I would say that nowadays it is expected that the insolvency professional will get the books restructured, would get the books completed after taking the bank statements and whatever way the books can be completed, it should be completed. It should be subject to the transactional audit and it should also be subject to the valuation of Financial assets. 
+
+40:01
+So, even if it takes time, the nclt would be liberal in granting extensions and in case it is not possible and then what I am saying? That immediately on appointment, the insolvency professional must start the process of reconstructing the books. That's something which is important. So therefore this saying that we could not get anything from the promoters or we could not get anything from the statutory Auditors that is not getting accepted nowadays. 
+
+
+## Insolvency Professional Shows His Work, How he Justified His Work
+40:38
+The insolvency professional has to show his efforts like what he has done, how he tried to obtain information, how he tried to capture the actual physical availability of the assets and how, finally, he actually Justified his efforts to understand the financial assets of the company. The second asset. The second question is I'm coming from lalit maheshwari. When valuer gives false undervalued report in commitments with COC, what action can be taken against valverse? 
+
+41:07
+I think this allegation would not be able to prove that the it is in connection with the COC the valuers is giving the valuation, which is much faster. It is lower. However the there are two valuers. if both are working that way and both are actually getting giving evaluation in economics with Committee of creditors, then the what actual evidence the insolvency professional RP would have? Number one, that the valuation is lower. 
+
+41:37
+What would be the evidence that the valuation is lower or the value evaluation is false? Second, what would be the evidence that they are climbing with the COC? These two questions are very large questions. 
+
+
+## RP is getting RP report, RP is getting RP report
+41:49
+However, one once we say that if the COC is satisfied, if the two values are giving a report which is a technically correct, if the information which has been asked from the RP has been provided, if the information which is not available, the RP has made effort to collect that information. if all this is done, then I don't think the RP has any Locus to find any complaint without any evidences. 
+
+42:13
+Second one, yes, one addition here is that the RP is getting the step by step processes that the draft report is shared by the value to the RP. Let's say if the valuer is conniving with this COC the value or maybe has also shared, maybe unofficially, the report with this EOC to make sure that the reports are the values are as per the as requirement as per the requirement of the COC. 
+
+42:40
+But when we come to the decision of the RP. So then the RP is getting the report, the draft report, the RP can comment on the report and give some questions to the RV or some observations to the rfe. so let's say the RV has taken an assumption that this is X land area and that land area in fact is factually incorrect. So there's the RP. 
+
+
+## RP's duty to tell the truth: no, this is not a factual
+43:01
+It's the duty of the RP to then go back and say: no, this is not a factual case. The fact has been reported wrongly in your report. But the major issues with the evaluation reports are surrounding the market area of land or you know, market value of Machinery. There again it becomes important for the RP to inform the value. 
+
+43:21
+Maybe on record that please look into the values that you are giving to the land and building, and maybe the RP can share his own Market survey with respect to how the values might be higher or lower, and so on, so that the there is good due record that the RP in made sure, or rather did everything in his control to get the values to the closest closer to the real values. Valuation professionals no, absolutely no. 
+
+43:57
+Even if the Triple A insolvency professionals is providing a support services to any RP, even then the valuers from triple evaluation cannot be appointed. Then we have another question, Ankit, in case you have studied it, you can answer it. What is the difference between method adopted under income tax rules 11ua and valuation standards? 
+
+
+## Income Tax Act Rules for Companies to Calculate for Investment
+44:18
+So 11ua is a complex rule has multiple methods that are prescribed for different kind of valuations which are required under Income Tax Act. Income Tax Act primarily requires valuation for two purposes. One is under 56, section 56 to 10, where the rules say that no shares of any company should be sold less than their fair value. 
+
+44:42
+So there is a regulational rule in 11ua which talks about how the sheer value of a company will be computed for that purpose, where you will replace the circle rate of a Inwood property from the book by you will replace that value and you know, delete the book value of that land which is appearing in your balance sheet, and they will compute an x value of your company's shares and you have to then sell that share or you the valuation for the purpose of capital gain as well as under 56 to 10 will be based on that value. 
+
+45:17
+The second, a use of 11 uas when you're allotting new shares and where 56 to 7B comes into play, which says that in case you're getting more value, the company is getting more value than its fair value from an investor, then that value is taxable in the hands of the company. 
+
+
+## How to use DCF for a new share
+45:33
+So these both rules are part of 11ua and 11ua then talks about how DCF can be used or only DCF can be used in case you're allotting new shares for the process. But there the they have already come out with the proposed changes there, so that I think is a short lived system. When we look at IBS, IBS allows you to use many options. It will talk about cost method. 
+
+45:57
+We'll talk about cost approach, Market approach, income approach, so it's way more complex and it is something where you can determine the method or the approach based on the kind of asset that you are having and the kind of information that you're getting. Another question from Vinita maheshwari. It says that these values are not significantly different. Can COC recommend third valuation based on difference between the methods of valuation of two valuers? 
+
+46:25
+We have just read regulation 35 of the cirp regulations and it is very clear that either the RP can recommend a third valuer based on the difference or the COC can say that they want to point third value or whatever may be the reason. The COC has the power to appoint a third one. 
+
+
+## How to calculate a valuation for a valuation
+46:46
+Another question comes from the Mohan jindali says one comment here, one comment here, that in case two values have given a report which where the report, let's say, is not significantly different and the values are closer and they are within 25 percent range, and the COC asks for the third value to be pointed, so the third value is report will become will create any impact only if a scenario arises where the third values report is closer to the first or the second value, such that it is creating a difference in the average valuation. 
+
+47:26
+Because the rule say is that in case the third value is appointed, you still have to take the average of the closest to valuation. so let's say two values are pointed. The third comes in and gives a valuation which is 50 higher than the two valuers. That valuation report will have no, no, no say. It will not have any effect on the process right. 
+
+47:47
+So I think the Manmohan Mohan Jindal is asking whether this photography cost will be part of the valuation expenses. Yes, this will be part of the valuation expenses and will form part of the cirp cost. How do we build a checkpoint that can prevent suc manipulation? As regards physical verification, what are these practices? 
+
+
+## RP: How to calculate a value for the Liquidator
+48:07
+The best practices are when the physical valuation is being happened, the team of the Liquidator or the team of the RP must accompany the valuers. In fact, in fact, now the valuers are saying that counting and making a list is not our duty. it is the. It is the duty of the IRP or RP to prepare a physical inventory of all the assets. Then only we would be able to give a value. 
+
+48:35
+However, they agree that if you are not able to provide me the cost, if you are not able to provide me the invoices and the date of purchase, then still based on the physical verification, I would be able to give a value. But counting and doing the physical verification is not the duty of the well worth. This is what the valuers are mostly saying. 
+
+49:00
+Like another question is coming from PD Rasam, in one case, CBA has questioned as a liquidator on stock misused by the promoter stock CBA has questioned as a liquidator on stock misused by promoter. so it is the duty of the Liquidator to answer all the questions as asked by any investigating agency and whatever information is available with the Liquidators it is supposed to be provided. 
+
+
+## What is the law? What is the law?
+49:31
+In my cases, I, like the CBI is asking me the questions, which are even five years older than my appointment in that case. So now what is this scenario? What is the law? The law says that when the liquidation starts, all the records of the company will come under the physical possession of the Liquidator. 
+
+49:53
+The Liquidator will take away all that eight, nine years record, ten years record which are required to be maintained under any law in India. Those records has to be taken, maybe truckload or maybe two truckload, or maybe three truckloads of records has to be taken in custody by the liquidator. if I am selling all the assets, all the offices of the company, then I have to carry it. 
+
+50:15
+And now what we are doing is that there are many agencies in India where the physical stocks can be kept and it can be kept for eight years, and they are charging those kind of rentals, and those rentals will become part of the cirp cost. Now the CBI has asked me records which are even earlier, like older four, five years older than the commencement of cirp period. 
+
+
+## What is the question of RP and the army?
+50:44
+So I was able to take them to the these agencies, where I have kept the records and the lists were provided to CBI. the CBI chose the files that they wanted and it was taken from that particular agency and it was handed over to CBI and CBI gave a receipt to us. So this is a kind of practical. 
+
+51:05
+It actually has to be done wherever it is required, and it is the duty of the insolvency professional, in the capacity as IRP, RP or the liquidated, to cooperate with all the investigating agencies, because in this scenario, in this particular capacity, all your assets, all your rights, all your obligations will go together travel together. 
+
+51:29
+If you are saying that you are the CEO of the company, then your obligation also comes as a CEO of the company. So you have the ownership of the record, so you have to transfer, yes, and kids you can take up. so any further questions that we should take up. Where is the question? Can there be a joint visit of RP and the army? 
+
+
+## Reconstruction of the Books of Account: How to Make List of Assets, Machines
+51:47
+Yes, there is a possibility of a joint visit by the resolution professional and the registered valuers, and if this is done it can be cost effective also. But even during this period I have seen that the registered values are saying that the counting and making a list is not our duty. 
+
+52:06
+It is the duty of the insolvency professional to make list of all components, assets, machines, so that we are able to Value if this is specifically in respect of the stocks and also the Spears. So who will do the Reconstruction of the books of account? this is also a question from the Reconstruction of the books of account. 
+
+52:28
+Is the duty of the RP kind of Point accountant RP can pound chartered accountant RP can appoint any kind of person who actually will go to Banks to take bank statements for the last five years and based on those blank statements, the are, the RP can appoint accountants after presenting it before the coc for approval of their fee. 
+
+
+## RP does not approve fees, but it will be seen that they have made efforts
+52:48
+In case the COC doesn't approve the fee RP has actually, it will be seen that the RP has made efforts. However, the COC did not approve the fees. Therefore the accounting could not be completed, so that actually will be taken on record in case any are the question. further question is in case any RP has taken custody of all assets from the IRP and should have ensured physical existence of the assets. 
+
+53:11
+I think yes, the it is the duty of the RP that whatever asset is are being handed over by the IRP to RP. The RP must take his own videography, photography, inventory, listing. Everything has to be done by the RP. In case it has not been done by the IRP, then the IRB must give in writing that he did not have any list of the assets. 
+
+53:33
+So whatever list is prepared by the RP that is final so that in future he could. He shouldn't say that I had these assets. I handed over these asset to RP, but now the assets are missing. it is the responsibility of the RP that he should not be able to see. Then the question is coming from. Chavi isn't pictured and not taken. 
+
+
+## What is Regulation that Under Section 35?
+53:58
+That is photos and I couldn't understand like we are only saying that the videos and photographies can be taken. Then the vinayakanth says: last balance sheet received from IRP. Last balance sheet receives from wherever it has been received the Bell. What we are supposed to see is the assets of the company which are appearing in the balance sheet and then matching it with the physical assets. That's the anything that we have to see. 
+
+54:25
+So there are many questions. I think we should continue with our PPT. The time is short. In fact, there are 40 questions and we can take it up the next time. so basically now we're coming about regulation that under Section 35 that when? What do we see in the liquidation regulations? 
+
+54:45
+So in liquidation regulation simply first says that where the evaluation has already been conducted in CRP or fast track insolvency, there the said values or the average of the estimates can be used for the liquidation purpose. As well. Then it says that in case it is not covered under sub regulation one or where the Liquidator is of the opinion that fresh valuation is required under the circumstances. So what can be these circumstances? 
+
+
+## Liquidation valuations under Clause a to F of Regulation 32
+55:11
+The valuations earlier can be three years old, five years old, two years old. In that process one can say that no, I don't want to use those valuation reports. so here there he has to appoint the Liquidator has to point the values within seven days and again he values or appoints two values. 
+
+55:29
+Here the word that is used is to determine the realizable value of the assets or businesses under Clause a to F of Regulation 32 of corporate data. So basically here then it refers to 32, refers to a to F, which talks about various ways in which the liquidation of the assets can be liquidated, which also includes liquidation as a going concern for now. 
+
+55:53
+So therefore here the possibilities of having different liquidation valuations under or different valuations under different liquidation premises or different liquidation ways is possible. one can say that okay, I will sell each and every of these assets on a piecemeal basis that can. That might have a possibility of giving a very different value as compared to valuing or selling the whole land and building and the planting Machinery on top of it as a combined unit. 
+
+
+## Fundamentals of the Fundamentals of Financial Assets
+56:21
+So the values can be very different. Then of course the same process where you know these are the bar. These are the. These are the people who cannot be appointed as registered valuers. And then of course it talks about independent valuation, again talks about physical verification of the assets of the corporate data and then again says that the average of two estimates shall be taken as a value of assets of businesses. 
+
+56:44
+Here it does not talk about appointing third value. it simply says that in case the values are different, the average value can be taken. So this is the process in liquidation regulations. Then, of course, you talked about what all. So let's quickly talk about. We will look we will come out with this a separate webinar where we would cover all the judgments from nclt, ncl80 and also from the ibba. 
+
+57:17
+I think that will be a separate webinar that we would conduct. I think we can take some of the questions because there are many questions today and then we only have two, three minutes. We'll have to finish within two minutes. No, I think the questions which are coming. I can take the questions coming latest. As Sanjeev Kumar says how valuation of financial assets which are under dispute. 
+
+
+## The valuation of financial assets which are under dispute
+57:41
+Now the valuation of financial assets which are under dispute. There is a process of valuation until you can best explain this how the disputed financial asset is the number you value. So we have done many such valuations and there we you know. At many time we find that we are given a legal opinion which is taken by the RP or by the company at a prior date, and we feel that valuing work as independent values. 
+
+58:08
+In case we value an asset or value a receivable based on that opinion, it will not be the proper process. So what we normally tend to do in case the information is available, is to look at all the legal documents that are available with respect to that dispute. 
+
+58:22
+It can involve maybe an application file with any court or tribunal, the reply file to it, the rejoin the file to it, then you know all the documents, all the trailing documents, all the attachments, and then we try and find out that what kind of value is receivable with respect to this litigation or arbitration matter. 
+
+
+## What is the Liquidation?
+58:41
+And there are several times we find that the company's claims that we it has to get or the CDs claims that it is due to get thousand crores from this customer or client is something which is which has simple flaws, because the basic documents that the company should have with respect to providing those services or establishing that it is providing those services are missing in record. So that becomes an issue. normally. 
+
+59:07
+We also find that many Advocates who are involved in helping the corporate debtor or the RP in managing these arbitration matters are shy from sharing all the documents, and they are also of the opinion always that this amount is receivable, which is difficult to trust in absence of those documents. 
+
+59:30
+So, Ankit, there is a question which says that the Machinery was purchased in 200.11. It worked for three, four years and then it was idle for eight years and the now the Liquidator is not getting a customer. So like the how the liquidation can be concluded. So one scenario is that the first of all the registered valuer has to Value it not only on the age, it is also on the obsolescence. 
+
+
+## How to Value Assets of Plant Machinery
+1:00:02
+So there are various kinds of absolutions. Ankit, can you just explain something that how many kinds of solutions are there like this? We were discussing this case scenario today morning with Ankit, like how to Value these assets of the planted Machinery of the thermal power plant. When it was originally set up, about five years back, 10 years back, it was costing about six crores per megawatt. 
+
+1:00:27
+Now the market value is only one crore per megawatt and there are many plants which has not even functioned. So how do what kind of valuation we do like should we do this? Even the replacement value today is not lesser. It is again five crores per megawatt. however the kind of like. 
+
+1:00:46
+Now the Ankit will explain what kind of solutions factor is applicable to such cases, so that the valuation can come to one crore and we find a buyer. Yes, thank you so for any asset that we are doing under valuation under cost method, where we are using something called a depreciated replacement cost method, there is a there is a requirement in the IBS for the value to consider the various obsolet senses. 
+
+
+## How to test whether a machine is still usable or would have a market for it
+1:01:13
+The obsolescence can be on account of physical obsolescence, which can then be bifurcated into curable physical observations or uncurable physical obsolescence. Then it is functional of solutions. It can be economical or external obsolescence. so, for example, of this Machinery that we got in the question there. I believe that we have to test whether that machine is still usable or would have a market for any possible use based on the functional obsolescence. 
+
+1:01:44
+So let's say that there is a manual clothes weaving machine that is available today. That machine may not have any takers because maybe everyone will be using a much advanced technology and nobody will be using that machine or very few people will be using that machine. Similarly, I give you an example where we did a valuation of a of a, of a plant that was making caps, which is making these Caps or closures. 
+
+1:02:14
+There again we understood that the technology, or the modern technology, is now moving to plastic caps and therefore the traditional closures are no longer something that are in fashion, and it is a. It is a technology which is kind of getting obsolete. So therefore those machines may not find any takers, because the technology is something that is no longer used too much and it might. 
+
+
+## How to get a fixed cost of a thermal power plant
+1:02:36
+Those machines might be sold and might be transferred to some other country, but maybe in India nobody will be a taker for that machine. Coming back to the thermal power plant, there are the observations that would be there would be external or economic obsolescence, where we are looking at the fact that the plant is costing us five megawatt but it is unviable to be operated, primarily because of the coal cost, primarily because of the limited tariffs that is available with respect to the production. 
+
+1:03:02
+That we are making non absense of a PPA where we will not be able to realize the fixed cost that we have put into the plant, because all these plants are conceived with the idea that okay, we will put this fixed cost into the plant and we will be able to enter into a PPA with some discom, which will also give us recovery of the fixed cost for the next 20 years, 15 years, 10 years and so on. 
+
+1:03:23
+So that would be the absolutions there, although there are many questions. but then we have to conclude, and I am really very like kind of happy that, as it was so interactive session today, we have received something like 50 questions and out of the 50 questions, in fact more of more than 10,15 what basically it's only the appreciation that it is a very well conducted session. 
+
+
+## On valuation, yes, we are not really satisfied with this session today because, see, we
+1:03:50
+On valuation, yes, we are not really satisfied with this session today because, see, we could not come to the real and collect judgments and ibbi orders on the insolvency professionals and also on the registered valuers. So we will come up with a separate a webinar for that particular subject, which is very important because not many actually not the this content is not available so far anywhere. So, therefore, then we thank you very much for this response and we will remain connect with you. thank you, thank you, very much. thank you everyone, pleasure. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

@@ -1,0 +1,316 @@
+https://notebooklm.google.com/notebook/adbcd990-d2b1-43f3-8873-f9a2422e2901
+
+# Summary
+These sources are legal documents from the National Company Law Tribunal (NCLT) in India, specifically the Hyderabad Bench. They detail a series of court rulings surrounding a case involving Galada Power and Telecommunications Ltd., which is undergoing insolvency resolution. The cases concern disagreements over the distribution of funds from the company's Resolution Plan, specifically the inter-se sharing ratio among financial creditors with different levels of security. The NCLT ultimately sided with the Committee of Creditors in each case, upholding their decisions and emphasizing the principle of "commercial wisdom" in the insolvency resolution process. This principle gives significant weight to the decisions of creditors and limits judicial review of these decisions.
+
+## Suggested Questions
+
+1. **What are the factors influencing the distribution of funds to creditors during the insolvency resolution process of Galada Power and Telecommunication Limited?**
+
+2. **How does the National Company Law Tribunal (NCLT) balance the interests of creditors, especially when there are conflicting claims and priorities, in the context of Galada Power and Telecommunication Limited's insolvency?**
+
+3. **What are the legal and practical implications of the approval of a resolution plan by the Committee of Creditors (CoC) for Galada Power and Telecommunication Limited?**
+
+---
+
+### NCLT Hyderabad Bench II Proceedings: Galada Power and Telecommunication Ltd.
+
+---
+
+#### Source 1: [Order 093dc81e0e8cd7b4531c87fee25eb7e0](https://ibbi.gov.in//uploads/order/093dc81e0e8cd7b4531c87fee25eb7e0.pdf)
+
+- **Case:** IA 520/2022  
+- **Applicant:** Canara Bank  
+- **Details:** Canara Bank challenges the proposed 88:12 distribution ratio favoring first charge holders, claiming it is discriminatory as a second charge holder.  
+- **Tribunal's Decision:** The application is rejected, affirming the commercial wisdom of the Committee of Creditors (CoC) in determining the distribution.
+
+---
+
+#### Source 2: [Order 1edd0b91548bbc8548cfea2eca40f20d](https://ibbi.gov.in//uploads/order/1edd0b91548bbc8548cfea2eca40f20d.pdf)
+
+- **Case:** IA 663/2021  
+- **Applicant:** Jiva Internet Solutions Pvt. Ltd.  
+- **Details:** Jiva challenges the CoC’s selection of Amrutha Constructions Pvt. Ltd. as the successful resolution applicant, alleging unfair advantages due to experience in the aluminum industry.  
+- **Tribunal's Decision:** The application is dismissed, with the tribunal upholding the CoC's business judgment.
+
+---
+
+#### Source 3: [Duplicate of Source 2](https://ibbi.gov.in//uploads/order/2023-04-06-111721-dfzm6-3f7ee07f0c57a99fa63e619289c7254c.pdf)
+
+- **Note:** This document is a duplicate and contains the same details as Source 2.
+
+---
+
+#### Source 4: [Order 3995de0e4490f4d5a35689b9680fed6b](https://ibbi.gov.in//uploads/order/3995de0e4490f4d5a35689b9680fed6b.pdf)
+
+- **Case:** CP(IB) No.384/7/HDB/2018  
+- **Applicant:** Stressed Assets Stabilization Fund  
+- **Details:** This initial petition under Section 7 of the IBC outlines the debt owed by Galada Power and the circumstances leading to default.  
+- **Tribunal's Decision:** The petition is admitted, and a resolution professional (RP) is appointed.
+
+---
+
+#### Source 5: [Duplicate of Source 1](https://ibbi.gov.in//uploads/order/3f7ee07f0c57a99fa63e619289c7254c.pdf)
+
+- **Note:** This document is a duplicate and contains the same details as Source 1.
+
+---
+
+#### Source 6: [Document appears to be blank](https://ibbi.gov.in//uploads/order/7ab66d11dcd162700667861a97473563.pdf)
+
+---
+
+#### Source 7: [Order 9904c7b27bcc231c063d822d0e1dac94](https://ibbi.gov.in//uploads/order/9904c7b27bcc231c063d822d0e1dac94.pdf)
+
+- **Case:** IA No. 583/2021  
+- **Details:** The RP’s application seeks approval of the resolution plan amid valuation concerns regarding the corporate debtor’s assets.  
+- **Tribunal's Decision:** The tribunal appoints independent commissioners to conduct a review of the valuation reports.
+
+---
+
+#### Source 8: [Order a8dca3f45566f5318d4847dbf1a87e80](https://ibbi.gov.in//uploads/order/a8dca3f45566f5318d4847dbf1a87e80.pdf)
+
+- **Case:** IA No. 583/2021  
+- **Details:** This order approves the resolution plan submitted by Amrutha Constructions Pvt. Ltd. It includes a summary of the resolution process and confirms compliance with IBC requirements.  
+- **Tribunal's Decision:** The resolution plan is approved.
+
+---
+
+#### Source 9: [Order ec97baa4246e237fce2b4ab9fc20fce5](https://ibbi.gov.in//uploads/order/ec97baa4246e237fce2b4ab9fc20fce5.pdf)
+
+- **Case:** IA No. 248/2023  
+- **Details:** This application is dismissed due to the prior approval of the resolution plan in IA No. 583/2021.
+
+---
+
+#### Source 10: [Order 7th May 2019](https://ibbi.gov.in//webadmin/pdf/order/2019/May/7th%20May%202019%20in%20the%20matter%20of%20Galada%20Power%20and%20Telecommunication%20Ltd.%20IA%20No.%2022-2019%20in%20CP(IB)%20No.%20384-7-HDB-2019_2019-05-08%2017:26:33.pdf)
+
+- **Case:** IA No. 22/2019  
+- **Details:** An attendance sheet from a hearing related to a settlement proposal which was ultimately rejected.  
+- **Tribunal's Decision:** The insolvency proceedings continue.
+
+---
+
+### Timeline of Main Events
+
+| Date                 | Event                                                                                      
+| **28.06.1995**       | IDBI grants a Rupee Term Loan Facility to Galada Power and Telecommunication Ltd. (GPTL). |
+| **22.11.1996**       | IDBI and GPTL enter into a Guarantee Assistance Facility agreement.                       |
+| **March 26, 1998**   | IDBI and GPTL enter into a Debenture Subscription Facility Agreement.                    |
+| **30.09.2004**       | IDBI transfers all rights and titles to Stressed Assets Stabilization Fund (SASF).       |
+| **January 2014**     | SASF issues a financial proposal to GPTL for settlement of dues.                         |
+| **July-August 2014** | SASF and GPTL exchange correspondence regarding settlement of dues.                      |
+| **August 2015**      | SASF issues another financial proposal to GPTL.                                          |
+| **April 2016**       | SASF revokes the negotiated settlement with GPTL.                                       |
+| **May 2016**         | GPTL conveys its intent to submit a revised proposal for debt settlement.                |
+| **May 2016**         | SASF requests GPTL to consider a revised proposal for debt settlement.                   |
+| **March 2017**       | GPTL proposes a settlement of debt with SASF.                                           |
+| **April 2017**       | SASF deems GPTL's debt settlement proposal inadequate.                                    |
+| **July-August 2017** | GPTL and SASF exchange proposals for debt settlement.                                    |
+| **September 2017**   | SASF closes the debt settlement proposal with GPTL.                                     |
+| **September-November 2017** | SASF and GPTL exchange correspondence regarding GPTL’s request for a stay in further legal action. |
+| **November 2017**    | SASF advises GPTL to submit an improved proposal for debt settlement.                    |
+| **01.04.2018**       | SASF claims outstanding dues from GPTL.                                                  |
+| **14.08.2019**       | SASF files a petition under Section 7 of the Insolvency and Bankruptcy Code (IBC) against GPTL. |
+| **14.08.2019**       | NCLT Hyderabad Bench admits the petition and appoints Nitin Panchal as Resolution Professional (RP). |
+| **07.05.2019**       | Potential settlement discussions between SASF and GPTL are rejected.                    |
+| **04.03.2022**       | NCLT appoints two commissioners to independently assess the valuation of GPTL's assets. |
+| **18.07.2022**       | The commissioners submit their valuation report to the Committee of Creditors (CoC).    |
+| **07.09.2021**       | CoC approves the resolution plan submitted by Amrutha Constructions Pvt. Ltd. with 100% voting share. |
+| **13.03.2023**       | NCLT rejects applications filed by Canara Bank (IA 520/2022) and Jiva Internet Solutions (IA 663/2021) challenging the CoC-approved resolution plan. |
+| **25.05.2023**       | NCLT approves the resolution plan submitted by Amrutha Constructions Pvt. Ltd.           |
+| **06.02.2023**       | IA 248/2023 is filed.                                                                     |
+| **25.05.2023**       | IA 248/2023 is dismissed as the resolution plan had been approved.                       |
+
+---
+
+### Cast of Characters
+
+| Character                                  | Bio                                                                                                         |
+|--------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Stressed Assets Stabilization Fund (SASF)** | Financial creditor who acquired the debt of GPTL from IDBI. They filed the Section 7 petition against GPTL. |
+| **Galada Power and Telecommunication Ltd. (GPTL)** | The corporate debtor facing insolvency proceedings.                                                          |
+| **IDBI Bank**                              | Original lender to GPTL, who later transferred the rights to SASF.                                         |
+| **Nitin Vishwanath Panchal**               | Appointed as the Resolution Professional (RP) for GPTL's insolvency process.                               |
+| **Canara Bank (Erstwhile Syndicate Bank)** | Financial creditor of GPTL and an applicant (IA 520/2022) challenging the distribution ratio in the resolution plan. |
+| **Amrutha Constructions Pvt. Ltd.**       | Successful resolution applicant whose plan was approved by the CoC and the NCLT.                          |
+| **Edelweiss Assets Reconstruction Company** | Financial creditor of GPTL with a first charge on fixed assets.                                            |
+| **UTI Trustee Company Pvt. Ltd. (UTI Mutual Fund)** | Financial creditor of GPTL with a second charge on fixed assets.                                          |
+| **Jiva Internet Solutions Pvt. Ltd.**     | An unsuccessful resolution applicant that challenged the evaluation matrix (IA 663/2021).                   |
+| **Mr. N. Malikarjuna Setti**               | Court-appointed commissioner tasked with independently valuing GPTL’s assets.                             |
+| **Mr. Madasa Kumar**                       | Court-appointed commissioner tasked with independently valuing GPTL’s assets.                             |
+| **Mr. P. Venkateshwar Rao**                | Promoter of Amrutha Constructions Pvt. Ltd. with experience in the Aluminium Conductor market.            |
+| **Mr. L. Thiyagarajan**                    | Member of the proposed board of directors for GPTL under Amrutha Constructions’ resolution plan, with 25+ years of experience in the Aluminium Industry. |
+| **Shri K. Anantha Padmanabha Swamy**      | Member (Judicial) on the NCLT Hyderabad Bench in 2019.                                                    |
+| **Dr. Binod Kumar Sinha**                  | Member (Technical) on the NCLT Hyderabad Bench in 2019.                                                   |
+| **Dr. Venkata Ramakrishna Badarinath Nandula** | Member (Judicial) on the NCLT Hyderabad Bench.                                                           |
+| **Sri Satya Ranjan Prasad**                | Member (Technical) on the NCLT Hyderabad Bench.                                                           |
+| **Bhaskara Pantula Rao Mohan**            | Member (Judicial) of the NCLT Hyderabad Bench.                                                             |
+| **Veera Brahma Rao Arekapudi**            | Member (Technical) of the NCLT Hyderabad Bench.                                                            |
+
+---
+
+### Short Answer Questions
+
+1. **Who filed the initial insolvency petition against Galada Power and Telecommunication Ltd., and under what section of the IBC?**
+   - The Stressed Assets Stabilization Fund (SASF) filed the insolvency petition under Section 7 of the Insolvency and Bankruptcy Code (IBC).
+
+2. **What was the primary point of contention raised by Canara Bank (erstwhile Syndicate Bank) in IA 520/2022?**
+   - Canara Bank argued that the distribution ratio of 88:12 in favor of first-charge holders was discriminatory and violated the principle of equal treatment of similarly situated financial creditors.
+
+3. **How did the National Company Law Tribunal (NCLT) rule on Canara Bank's application (IA 520/2022), and what was the rationale behind the decision?**
+   - The NCLT rejected Canara Bank's application, upholding the CoC's decision. The rationale was that the CoC's "commercial wisdom" in determining the distribution ratio should not be interfered with, especially given that it fell within the legal provisions of the IBC.
+
+4. **What is the significance of the "commercial wisdom" of the Committee of Creditors (CoC) in insolvency proceedings?**
+   - The "commercial wisdom" of the CoC refers to their business judgment and expertise in assessing the viability of the corporate debtor and the feasibility of resolution plans. Courts generally defer to the CoC's commercial wisdom unless there is evidence of fraud, malice, or a violation of the IBC.
+
+5. **What were the main grounds on which Jiva Internet Solutions Pvt. Ltd. challenged the CoC's decision in IA 663/2021?**
+   - Jiva Internet Solutions Pvt. Ltd. alleged that the CoC's decision was arbitrary, biased, and lacked transparency. They claimed that the Evaluation Matrix was not applied fairly, resulting in an unfair advantage for the chosen Resolution Applicant.
+
+6. **Explain the Evaluation Matrix used by the CoC in assessing the Resolution Plans. What were the key parameters considered?**
+   - The Evaluation Matrix assessed Resolution Applicants on parameters like financial strength, experience in the relevant industry, and ability to turn around distressed assets. It assigned scores based on specific criteria, ensuring a quantitative and comparative assessment of the submitted Resolution Plans.
+
+7. **Why did the CoC favor Amrutha Constructions Pvt. Ltd. over Jiva Internet Solutions Pvt. Ltd. as the Resolution Applicant?**
+   - The CoC favored Amrutha Constructions Pvt. Ltd. due to its strong financial standing, proven track record in the aluminum industry, and experienced management team. They believed that Amrutha Constructions had a higher likelihood of successfully reviving the Corporate Debtor's business.
+
+8. **What was the outcome of IA 663/2021 filed by Jiva Internet Solutions Pvt. Ltd.?**
+   - The NCLT dismissed IA 663/2021, rejecting Jiva Internet Solutions Pvt. Ltd.'s challenge. The court upheld the CoC's decision, finding no evidence of arbitrariness or bias in their evaluation process.
+
+9. **Did the NCLT appoint any independent experts during the proceedings, and if so, what was their role?**
+   - Yes, the NCLT appointed independent valuers to assess the assets of Galada Power and Telecommunication Ltd. This was done to address concerns regarding discrepancies in the valuations provided by the parties involved.
+
+10. **What was the final resolution of the Galada Power and Telecommunication Ltd. insolvency case, and what were the key terms of the approved Resolution Plan?**
+    - Amrutha Constructions Pvt. Ltd.'s Resolution Plan was approved, and the company acquired Galada Power and Telecommunication Ltd. as a going concern. The plan involved a payout to creditors, ensuring the maximization of value and a revival of the distressed business.
+
+---
+
+### Essay Questions
+
+1. **Critically analyze the role of the Committee of Creditors (CoC) in the resolution of insolvency under the IBC. Discuss the concept of "commercial wisdom" and its implications for judicial intervention in CoC decisions.**
+
+2. **Evaluate the arguments presented by Canara Bank in IA 520/2022. Do you agree with the NCLT's decision to dismiss the application? Discuss the legal principles and precedents involved in determining the fair treatment of creditors in insolvency proceedings.**
+
+3. **Discuss the importance of a robust and transparent Evaluation Matrix in assessing Resolution Plans. How can the Evaluation Matrix ensure a fair and competitive process while safeguarding the interests of all stakeholders?**
+
+4. **Analyze the NCLT's role in the Galada Power and Telecommunication Ltd. insolvency case. Was the NCLT's intervention appropriate and justified? Discuss the extent to which the NCLT can and should intervene in the commercial decisions of the CoC.**
+
+5. **Discuss the objectives of the IBC and evaluate its effectiveness in achieving these objectives based on the Galada Power and Telecommunication Ltd. case. What are some potential challenges and areas for improvement in the implementation of the IBC?**
+
+---
+
+### Glossary
+
+- **IBC**: Insolvency and Bankruptcy Code, 2016, is the primary legislation governing insolvency and bankruptcy proceedings in India.
+- **NCLT**: National Company Law Tribunal is a quasi-judicial body in India that adjudicates matters relating to companies, including insolvency and bankruptcy.
+- **NCLAT**: National Company Law Appellate Tribunal is the appellate authority for appeals against orders passed by the NCLT.
+- **Corporate Debtor**: A company that is unable to pay its debts and is undergoing insolvency resolution or liquidation.
+- **Financial Creditor**: An entity whose relationship with the corporate debtor is primarily financial, typically a lender or a bondholder.
+- **Operational Creditor**: An entity that has provided goods or services to the corporate debtor and is owed money for those goods or services.
+- **Resolution Professional**: A licensed professional appointed by the NCLT to manage the insolvency process, including the collection of claims, verification of assets, and the invitation and assessment of Resolution Plans.
+- **Committee of Creditors (CoC)**: A committee composed of financial creditors that plays a key role in the insolvency resolution process. The CoC votes on the approval of Resolution Plans.
+- **Resolution Plan**: A plan proposed by a Resolution Applicant to revive the corporate debtor as a going concern. The plan outlines how the debts will be restructured and repaid.
+- **Resolution Applicant**: An entity that submits a Resolution Plan to acquire and revive the corporate debtor.
+- **Liquidation**: The process of selling the assets of a corporate debtor to repay creditors when a resolution plan cannot be approved.
+- **Commercial Wisdom**: The business judgment and expertise of the CoC in assessing the viability of the corporate debtor and the feasibility of resolution plans.
+- **Evaluation Matrix**: A set of criteria and scoring system used by the CoC to assess the merits of competing Resolution Plans.
+- **Pari Materia**: A Latin term meaning "on the same subject." In legal contexts, it refers to statutes or legal provisions that are similar in nature or purpose.
+
+---
+
+### Briefing Document: Insolvency Case of Galada Power and Telecommunication Ltd.
+
+**Corporate Debtor:** Galada Power and Telecommunication Ltd.
+
+**Petitioner:** Stressed Assets Stabilisation Fund (SASF) under Section 7 of the Insolvency and Bankruptcy Code (IBC) 2016.
+
+---
+
+#### **Key Highlights:**
+
+- **Commencement of Proceedings:**  
+  - The company petition (CP(IB) No. 384/7/HDB/2018) was filed by SASF in August 2018.  
+  - The National Company Law Tribunal (NCLT), Hyderabad Bench, admitted the petition and appointed Shri Nitin Panchal as the Resolution Professional (RP) on **14.08.2019**.
+
+- **Financial Creditors:**  
+  - Significant financial creditors included:
+    - Stressed Assets Stabilisation Fund (SASF)
+    - Edelweiss Asset Reconstruction Company (ARC)
+    - Canara Bank (erstwhile Syndicate Bank)
+    - UTI Mutual Fund.
+
+- **Resolution Plans:**  
+  - Multiple resolution applicants submitted plans.  
+  - The selected Resolution Applicant was **Amrutha Constructions Private Limited**.
+
+- **Resolution Plan Approval:**  
+  - The Committee of Creditors (CoC) approved the Resolution Plan submitted by Amrutha Constructions Pvt. Ltd. with **100% voting share** on **07.09.2021**.  
+  - The NCLT approved the plan on **25.05.2023**.
+
+---
+
+#### **Major Issues & Contentions:**
+
+- **Valuation Disputes:**  
+  There were disagreements on the valuation of the Corporate Debtor's assets. The NCLT appointed independent valuers to address this issue.  
+  - **Quote:** "This bench consisting of both the Members i.e., Member Judicial and Member Technical personally have knowledge of the property values of the Hyderabad city and has reasonable fair knowledge of the topography situated at various places. In view of the same, this bench is not considered the value of the land and buildings apart from the plant and machinery is itself far above the values that have been projected in the valuation reports."  
+  *(IA No. 583 OF 2021 in CP(IB) NO. 384/7/HDB/2018)*
+
+- **Distribution Ratio:**  
+  Canara Bank contested the distribution ratio (88:12) adopted in the Joint Lenders Meeting (JLM), arguing that it was discriminatory towards second-charge holders.  
+  - They invoked Section 30(4) of IBC and the Supreme Court's ruling in *India Resurgence Arc Private Limited Vs. M/s. Amit Metaliks Limited And Anr* to support their claim for equal treatment among similarly placed financial creditors.  
+  - However, their application (IA 520/2022) was rejected by the NCLT, upholding the CoC's commercial wisdom and citing precedents set in *Essar Steel* and *Mamata Binani* cases.
+
+- **Evaluation Matrix Challenge:**  
+  Jiva Internet Solutions Pvt. Ltd., an unsuccessful resolution applicant, challenged the Evaluation Matrix used by the CoC to assess the resolution plans, claiming it unfairly favored the winning bidder.  
+  - They argued that their higher net worth should have been given greater weightage.  
+  - However, NCLT rejected their application (IA No.663/2021), reiterating the principle of non-interference in the CoC's commercial decisions and citing various legal precedents including *IMR Metallurgical Resources AG v. Ferro Alloys Corporation Limited* and *K. Sashidhar v. Indian Overseas Bank and Others*.
+
+---
+
+#### **Key Takeaways:**
+
+- This case reinforces the paramount importance given to the CoC's commercial wisdom in IBC proceedings.
+- The NCLT's role is primarily restricted to ensuring adherence to the IBC provisions and refraining from interfering with the CoC's business judgments unless specific legal requirements are violated.
+- Prioritization of creditors based on security interest and charge hierarchy remains a crucial factor in resolution plan approvals.
+
+---
+
+#### **Further Information:**
+
+- For detailed insights into the arguments and legal principles applied, refer to the specific order documents mentioned in the source excerpts (e.g., IA 520/2022, IA No.663/2021).
+- The case highlights the complexities and legal nuances involved in IBC proceedings, requiring careful consideration of various stakeholders' interests.
+- Continued monitoring of similar cases and legal developments is crucial for staying updated on the evolving landscape of IBC in India.
+
+---
+
+### Galada Power and Telecommunication Ltd. Insolvency FAQ
+
+1. **What is the background of the Galada Power and Telecommunication Ltd. insolvency case?**
+   - The Stressed Assets Stabilization Fund, a financial creditor, filed a company petition under Section 7 of the Insolvency and Bankruptcy Code, 2016, against Galada Power and Telecommunication Ltd. due to non-payment of dues. The National Company Law Tribunal (NCLT), Hyderabad Bench, admitted the petition, commencing insolvency resolution proceedings.
+
+2. **Who are the key players involved in this case?**
+   - **Petitioner**: Stressed Assets Stabilization Fund (Financial Creditor)  
+   - **Respondent**: Galada Power and Telecommunication Ltd. (Corporate Debtor)  
+   - **Resolution Professional**: Nitin Vishwanath Panchal  
+   - **Resolution Applicant**: Amrutha Constructions Pvt. Ltd.  
+   - **Other Financial Creditors**: Edelweiss Assets Reconstruction Company, Canara Bank (erstwhile Syndicate Bank), UTI Mutual Fund.
+
+3. **What is the role of the Committee of Creditors (CoC)?**
+   - The CoC comprises all financial creditors and plays a critical role in deciding the outcome of the insolvency resolution process. They have the authority to approve or reject a resolution plan based on their commercial wisdom. In this case, the CoC had the ultimate authority to approve the resolution plan submitted by Amrutha Constructions Pvt. Ltd.
+
+4. **How was the resolution plan evaluated and approved?**
+   - The Resolution Professional invited resolution plans from various applicants. The CoC used an approved Evaluation Matrix to assess the submitted plans. Key considerations included the applicant's experience, financial strength, industry expertise, and proposed restructuring measures. Amrutha Constructions Pvt. Ltd.'s plan was approved by the CoC with a 100% voting share.
+
+5. **Was there any controversy surrounding the distribution of funds in the resolution plan?**
+   - Yes, Canara Bank filed an application challenging the distribution ratio in the approved resolution plan. They argued that the 88:12 ratio adopted in the Joint Lenders Meeting (JLM), favoring first charge holders over second charge holders, was discriminatory. However, the NCLT upheld the CoC's decision, emphasizing their commercial wisdom and the principle of treating unequals unequally.
+
+6. **Was there any challenge to the CoC's decision regarding the successful resolution applicant?**
+   - Yes, Jiva Internet Solutions Pvt. Ltd. filed an application challenging the CoC's decision to select Amrutha Constructions Pvt. Ltd. as the successful resolution applicant. They argued that the Evaluation Matrix was not correctly applied. However, the NCLT dismissed their application, stating that the CoC's decision, based on commercial wisdom, was non-justiciable.
+
+7. **What is the significance of "commercial wisdom" in the context of the IBC?**
+   - The IBC grants the CoC significant autonomy in decision-making during the insolvency resolution process. The principle of "commercial wisdom" underscores the judiciary's limited role in interfering with the CoC's decisions, provided they comply with the IBC provisions. This principle recognizes the CoC's expertise in assessing the feasibility of the proposed resolution plan and maximizing the value of assets.
+
+8. **What is the current status of the Galada Power and Telecommunication Ltd. case?**
+   - The NCLT approved the resolution plan submitted by Amrutha Constructions Pvt. Ltd., binding all stakeholders. The resolution plan provides for the acquisition of the Corporate Debtor as a going concern and aims to revive the company's operations. The implementation of the resolution plan marked the conclusion of the insolvency proceedings for Galada Power and Telecommunication Ltd.
+
+---

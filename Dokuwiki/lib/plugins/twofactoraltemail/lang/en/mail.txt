@@ -1,0 +1,9 @@
+Hi @USER@
+
+Someone tried to log in using your account. If that was you, please use
+the code below to confirm your login.
+
+**@CODE@**
+
+This code is only valid for a limited time.
+

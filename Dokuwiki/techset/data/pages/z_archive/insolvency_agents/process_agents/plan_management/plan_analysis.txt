@@ -1,0 +1,37 @@
+The task of **Resolution Plan Support**, which involves evaluating and ranking plans based on financial viability and recovery forecasts, is a stage where the sources confirm Artificial Intelligence (AI) can provide essential, high-level analytical assistance. AI acts as a sophisticated tool that enhances the **commercial wisdom of the creditors** by providing data-driven insights.
+
+## AI Agents in Resolution Plan Evaluation
+
+### 1. Resolution Plan Scoring Agent (Evaluate and Rank Plans)
+
+This agent leverages AI to manage the quantitative complexity inherent in comparing multiple competing plans.
+
+*   **Quantitative Assessment:** The evaluation matrix includes a qualitative part, but the **quantitative part is pretty straightforward**—covering aspects like the amount paid upfront versus deferred, and the equity upside offered. AI can analyze these terms efficiently, freeing up human professionals to focus on strategic matters.
+*   **Running Financial Models:** The agent can **run the financial models** required to evaluate a plan, such as looking at projected cash flows to determine if the proposed repayment schedule (e.g., over three years) is feasible using internal accruals.
+*   **Scenario Comparison:** AI is capable of comparing **multiple debt restructuring scenarios** offered by different bidders (e.g., structure A vs. structure B) and running **sensitivity analysis** on them.
+
+### 2. Feasibility Assessment Agent (Financial Viability)
+
+This agent ensures that the assumptions underpinning a resolution plan are realistic and grounded in verifiable data, thereby assessing the plan’s financial viability.
+
+*   **Benchmarking Plan Assumptions:** AI can benchmark the plan's underlying assumptions **against industry data**. If a plan posits an operational metric (like a Plant Load Factor of 80%) or a high market growth rate (e.g., 13%), the agent can check if this aligns with the **industry average** or Compound Annual Growth Rate (CAGR) (e.g., 8%).
+*   **Highlighting Risks:** The agent can **highlight risks**, such as the plan assuming **unrealistically high market growth**.
+*   **Viability Determination:** AI is predicted to become an **"essential tool in understanding whether a business is viable or not and designing the optimal restructuring solution"**. The Feasibility Assessment Agent provides the data-driven insights needed to support this strategic determination.
+
+### 3. Predictive Recovery Agent (Recovery Forecasts)
+
+This agent utilizes modeling to forecast the likely financial outcomes of competing plans versus the fallback scenario of liquidation, which is crucial for maximizing recovery.
+
+*   **Recovery Modeling:** AI can perform **recovery modeling**. For instance, if the liquidation value is 100, and a plan offers 90, the agent can model that if the company proceeds to liquidation, the market valuation might be significantly lower, providing a more realistic view of potential success rates under multiple scenarios.
+*   **Bridging Valuation Disconnect:** This capability helps liquidators and creditors **discover the asset value head on** by estimating how far the creditor's perceived value is from the expected market values, thus bridging market inefficiency.
+*   **Decision Trust:** Utilizing a trustworthy AI model for recovery forecasts would make the decision faster and **"remove the risk of individual decision maker as well"**.
+
+## Guardrails and Limitations
+
+While AI provides enhanced inputs, its role remains supportive, not determinative:
+
+*   **Human Judgment is Paramount:** AI **cannot replace the commercial wisdom of the creditors** or the judgment of the courts, nor can it decide which plan is the best.
+*   **Accountability:** Any output used for plan evaluation must meet the guardrail of **explainability and accountability**. This means AI tools must offer **audit trails**—providing the chain of reasoning for any score or conclusion—to gain judicial acceptance and professional trust. The professional remains ultimately liable for the AI's output.
+*   **Bias Check:** The AI must also be continuously monitored for **bias and fairness**, as skewed evaluations could result if the training data is biased.
+
+By applying these agents, AI transforms the evaluation stage into one associated with **speed, clarity, transparency, and a higher recovery**.

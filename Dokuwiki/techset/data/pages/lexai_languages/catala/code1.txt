@@ -1,0 +1,56 @@
+<WRAP group>
+<WRAP half column>
+**Profit on sale of property used for residence.**
+
+54. (1) Subject to the provisions of sub-section (2), where, in the case of an assessee being an individual or a Hindu undivided family, the capital gain arises from the transfer of a long-term capital asset, being buildings or lands appurtenant thereto, and being a residential house, the income of which is chargeable under the head "Income from house property" (hereafter in this section referred to as the original asset), and the assessee has within a period of one year before or two years after the date on which the transfer took place purchased, or has within a period of three years after that date construct­ed, one residential house in India, then, instead of the capital gain being charged to income-tax as income of the previous year in which the transfer took place, it shall be dealt with in accordance with the following provisions of this section, that is to say,—
+(i) if the amount of the capital gain is greater than the cost of the residential house so purchased or constructed (hereafter in this section referred to as the new asset), the difference between the amount of the capital gain and the cost of the new asset shall be charged under section 45 as the income of the previous year; and for the purpose of computing in respect of the new asset any capital gain arising from its transfer within a period of three years of its purchase or construction, as the case may be, the cost shall be nil; or
+(ii) if the amount of the capital gain is equal to or less than the cost of the new asset, the capital gain shall not be charged under section 45; and for the purpose of computing in respect of the new asset any capital gain arising from its transfer within a period of three years of its purchase or construction, as the case may be, the cost shall be reduced by the amount of the capital gain:
+Provided that where the amount of the capital gain does not exceed two crore rupees, the assessee may, at his option, purchase or construct two residential houses in India, and where such option has been exercised,—
+(a) the provisions of this sub-section shall have effect as if for the words "one residential house in India", the words "two residential houses in India" had been substituted;
+(b) any reference in this sub-section and sub-section (2)to "new asset" shall be construed as a reference to the two residential houses in India:
+Provided further that where during any assessment year, the assessee has exercised the option referred to in the first proviso, he shall not be subsequently entitled to exercise the option for the same or any other assessment year:
+62-63[Provided also that where the cost of new asset exceeds ten crore rupees, the amount exceeding ten crore rupees shall not be taken into account for the purposes of this sub-section.]
+(2) The amount of the capital gain which is not appropriated by the assessee towards the purchase of the new asset made within one year before the date on which the transfer of the original asset took place, or which is not utilised by him for the purchase or construction of the new asset before the date of furnishing the return of income under section 139, shall be deposited by him before furnishing such return [such deposit being made in any case not later than the due date applicable in the case of the assessee for furnishing the return of income under sub-section (1) of section 139] in an account in any such bank or institution as may be specified in, and utilised in accordance with, any scheme which the Central Government may, by notification in the Official Gazette, frame in this behalf and such return shall be accompanied by proof of such deposit; and, for the purposes of sub-section (1), the amount, if any, already utilised by the assessee for the purchase or construction of the new asset together with the amount so deposited shall 62-63[, subject to the third proviso to sub-section (1)] be deemed to be the cost of the new asset :
+Provided that if the amount deposited under this sub-section is not utilised wholly or partly for the purchase or construction of the new asset within the period specified in sub-section (1), then,—
+(i) the amount not so utilised shall be charged under section 45 as the income of the previous year in which the period of three years from the date of the transfer of the original asset expires; and
+(ii) the assessee shall be entitled to withdraw such amount in accordance with the scheme aforesaid:
+64[Provided further that the capital gains in excess of ten crore rupees shall not be taken into account for the purposes of this sub-section.]
+Explanation.—[Omitted by the Finance Act, 1992, w.e.f. 1-4-1993.]
+
+</WRAP>
+
+<WRAP half Column>
+<code>
+The rule checks if the property is a residential property if it was held for more than 2 years, and if the capital gain on the sale of the property is greater than zero. If all conditions are satisfied, the program calculates the amount of deduction that can be claimed under Section 54 and prints the result. 
+program Section54TaxDeduction;
+rule Section54DeductionApplies(
+  property: ResidentialProperty,
+  salePrice: Currency,
+  purchasePrice: Currency,
+  dateOfSale: Date,
+  dateOfPurchase: Date
+) {
+  // Check if the property is a residential property
+  require property.isResidentialProperty();
+  // Check if the property was held for more than 2 years
+  require dateOfSale >= dateOfPurchase.addYears(2);
+  // Calculate the capital gain on the sale of the property
+  let capitalGain = salePrice - purchasePrice;
+  // Check if the capital gain is greater than zero
+  require capitalGain > 0;
+  // Calculate the amount of deduction that can be claimed under Section 54
+  let deductionAmount = min(capitalGain, amountInvestedInNewProperty());
+  // Print the amount of deduction that can be claimed
+  println("You can claim a deduction of " + deductionAmount + " under Section 54.");
+}
+function amountInvestedInNewProperty(): Currency {
+  // Calculate the amount invested in a new residential property
+  // This function should return the amount invested in the new property by the taxpayer
+  // within the specified time limits as per Section 54 of the Income Tax Act
+  // This can include the cost of the property, as well as expenses incurred on the transfer of property
+  // For example, stamp duty, registration fees, legal fees, etc.
+  return 0;
+}
+</code>
+</WRAP>
+</WRAP>

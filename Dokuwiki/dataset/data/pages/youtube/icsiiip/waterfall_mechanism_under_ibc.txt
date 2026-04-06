@@ -1,0 +1,929 @@
+# Perspectives on IBC - An Array (Series IX) | Waterfall Mechanism under IBC
+![](https://img.youtube.com/vi/mWSNEbhrCP8/hqdefault.jpg)
+4 months ago (Mar 12, 2024) — 2:40:36
+[https://youtube.com/watch?v=mWSNEbhrCP8](https://youtube.com/watch?v=mWSNEbhrCP8)
+
+
+## Summary
+Summary not available...
+
+## A Lady Advocate's Day to Every Woman in India
+0:00
+In every field. I remember, I mean just a week before a senior lady Advocate met me. She belongs to Delhi only and she asked me in the court in which matter I'm appearing. 
+
+0:16
+I gave my brief introduction to her and I let her know that what my practice area is, and she was very happy and she gave this commment that we see very otherwise less women who decide to get independ into independent practice and also choose corporate laws as the main practice area. She gave very, you know, good words of feedback and as well as motivated me. 
+
+0:56
+I was very nice to hear from her and we being U lady Advocates, we keep motivating each other, and that's the best part, and that has to be the case also if what I have learned coming into after profession is that we can grow always together alone, it's not possible Any Which Way in the profession to grow. So happy women's day to each and everyone over here. 
+
+
+## waterfall mechanism - What is it?
+1:27
+We can start the session today, as the topic has already been briefed that we would be discussing today on the waterfall mechanism. Now for that, if I may request everyone to have the IBC with themselves, so that we can discuss or start discussing the provision, having looking at the provision that from the be act and then start interpreting the same. that would be interesting as well, and then we can have the interactive session also. 
+
+2:02
+I would just share my screen, though it's a very short PPD, but it would give a brief idea that what we are going to discuss. Just let me know if my screen is visible. Yes, ma'am, it is visible okay, so as are most of the people over here, insolvency professionals also, or if just I may know the audience, so that I can take the topic accordingly, ma'am, all our insolvency professionals. Okay, that's great. 
+
+2:55
+So waterfall mechanism, as everyone here would already be knowing in which section it has been provided for, this is section 53 of the IBC that provides for the waterfall mechanism. now, as you see on the screen, that how so waterfall mechanism is giving the mechanism in which manner in the liquidation process the stakeholder would be distributed the realized money in the liquidation process. 
+
+
+## Chapter 53: Distribution of Resolution Plan Value to descenting Financial creditors
+3:31
+That's the waterfall mechanism provided under section 53, because section 53 comes into the chapter of liquidation process. So section 53 is first with respect to the liquidation process. But to start with we will be discussing the resolution plan process as well, because section 53 is also referred under Section 30, subsection 2, when it comes for the distribution of the resolution plan value to the descenting financial creditors and to the operational creditors, and because this is recently most, I would say, the Hot Topic is being discussed everywhere, particularly the distribution of the resolution plan value to the descending Financial creditors. 
+
+4:20
+So because section 53 is taken reference of under Section 30, subsection 2, so we will be discussing that part as well. But because section 53, which is giving the which is giving the waterfall mechanism, providing which a stakeholder is going to get in what Manner how much amount. 
+
+4:44
+Let us first look at who all are the stakeholders, which is provided under section 53, as soon as we start reading section 53, if the participants over here can have the book with them. Section 53 of the code which talks about distribution of the Assets. 
+
+
+## Section 53: Distribution of liquidation asset in time
+5:12
+Now section 53 is a clause which starts with not withstanding clause which we call as non upstanding Clause is it reads as not withstanding anything to the contrary contained in any law ened by the parliament or any St State Legislature. For the time being in force, the proceeds from the sale of liquidation asset shall be distributed in the following order of priority within such period and in such manner as may be specified. 
+
+5:44
+Two things are being provided here. That is the distribution first, in what priority and within such period and in such manner as may be specified. So in what Manner in what priority that's given under section 53 and the regulation provides that within how much time you should distribute the money. as we know, that schedule under liquidation regulation provides for distribution of the money in is a time about manner. 
+
+6:14
+So section 53 deals with these two aspects: priority of the payment and the manner and period in which that payment has to be made. The first very clause provides for the payment that the first which comes into the priority is insolvency resoltion process cost. 
+
+
+## Insolvency Resolvation Process Cost - What is the definition of waterfall mechanism
+6:38
+Now we, if we start, if we really want to calculate the liquidation value under section 53, which is the which is to be distributed in priority, that means to implement the waterfall mechanism. We must also know that what these terms or termin terminology mean. So very first point: insolvency resolvation process cost. Is there anyone who can suggest that under what section this term has been defined in solvency resolution process cost? 
+
+7:17
+Anyone who can, let me let everyone know that under what section this definition has been given. I think we are having quite good participants over here and good number. Am I otherwise audible, Miss Angelie? So insolvency resolution process cost. I believe that maybe section five. I guess section five. 
+
+8:27
+So ins solvency resolution process cost is there under Section 5 sub section 13. But there are very interesting instances time to time because as we know that IBC, as we always there is evolving law, we keep on interpreting these sections in our own Manner and then there are so many litigation which ultimately decide that particular question of law. 
+
+
+## Insolvency Resolution Process Cost: What falls into the definition
+8:56
+So what falls into the definition of ins solvency resolution process cost, though Section 5, subsection 13 provides for it, but it's still. There are certain points which we must know, because those are certain cases or instances where you would see that the IPS who take some decision to include some particular part of the cost in insolvency resolvation process cost and they find themselves in some difficulty either before the ibbi or before NC or the affiliate Forum. So what generally that we mean by insolvency resolvation process cost? 
+
+9:37
+That is the cost which is incurred in running the business as a going concern. Now to run the business as a going concern. I believe that so many IPS must already be running some one or the other processes where the company is kept as a going concern. 
+
+10:02
+This terminology of going concern itself is something of which there are different interpretations, but one or two instances of which that I recently experienced and the or one or two examples that I've given also in my PP. 
+
+
+## Insolvency Professional Deals with Resolution Process
+10:19
+If you would see if some insolvency professional comes to or happen to deal with resolution process where the company is already a going concern before the commencement of the cirp and that is kept as AO concern by the IP, then this is a general problem or general you know question that comes before the IP to take decision on that. 
+
+10:50
+There are already some vendors, there are already some operational creditors, some workmen already working, some employees are already there whose payment has already become outstanding. now, as soon as IP comes into charge, those all vendors or the operational creditors they come forward and they say that you first pay us the outstanding charges. 
+
+11:19
+That is before the commencement of the cirp, which we call as prior cost of the cost which has already been incurred prior to commencement of CRP. Otherwise we will not render you any Services now. Their issue comes till the time COC is constituted. The IP has to run the company as a going concern. Now the IP is into fix that whether I should take that prior cost and make the payment to them. 
+
+
+## If I'm not getting their services then company will not be able to be.
+11:49
+Otherwise I'll not be able to get their services. And if I'm not getting their services then company will not be able to be. a going concern would be Vo ation of various sections provided under the code if that particular situation comes. Is anyone who has experienced such instance and what measure that was taken to meet out? Is there anyone who had such experience? 
+
+12:26
+So Rec in my in my first case, in my early days, we had this going concern. You know it is an operating entity. It was a manufacturing entity. So you know for the finished products and the supply and the raw material we needed to you know employ trucks. You know, yes, they were. They were paid on a credit basis of you know 60 90 days right. 
+
+12:53
+So when the CRP started, you know trucker said: no, if you don't pay, then I will not transport right, and so we had to take COC approval. okay by these people are paid and they are they can't take. You know this kind of credit risk also okay. If you're not paid for 60 90 days, they will also be out of cash. Yes, so we had to make way, but off late. 
+
+
+## How to keep the company as a going concern
+13:21
+You know this has become more stringent. Earlier it was more liberal in these cases. Yes, ex, now it has become more stringent. So there is a problem. Yes. So here in this case now I have now started hearing from the IP is better that not to keep the company as a Bo concern, because then they keep receiving the notices from the regulator as well. 
+
+13:44
+Certain things are there which are required to be dealt with practically, because it is also expected from all the IPS to keep the company as a going concern now, prior to commencement of the CRP if there is already some cost which has been incurred and it has to be paid to keep the company as a going concern. Whether should be made a part of the CRP cost or not is a big question. 
+
+14:05
+Now there are recently I would not say recently one order is sometime back of the ibv in the case of Mr kelal, where he had to incur before. The Constitution of the COC 109 crores he had to pay to the operational creditors who was supplying the coal. Now he paid 109 CR the cost which was incurred prior to commencement of the cirp. 
+
+
+## IPS imposed penalty for ibbi to keep company as going concern
+14:34
+But then there the regulator had taken the very lenient View and accepted the justification given by the IP that this amount should become part of the CRP cost. Otherwise he would not be able to keep the company as a going concern. Now there are one or two instances where this justification was not accepted by ibbi, where the IP incurred some money. 
+
+15:00
+Sorry, incurred some cost, paid the cost and included that in CRP cost with respect to particular, particularly some wages or salaries of the workmen incurred prior to commencement of the CRP but to continue their services. He had to pay that cost. But then regulator had taken the stringent View and imposed penalty as well. 
+
+15:29
+So I have seen IPS now to take some you know measures which I would say to save them either wait till the commencement, till the constitution of the COC or in advance right to the ibba that I'm facing so and so situation and if I am not going to pay the earlier dues, I would not be able to continue the going concern status of the company or apply to the adjudicating authority and get some order from the adjudicating authority. 
+
+
+## What becomes part of the CRP cost.
+16:04
+I've seen the ipbs to take these measures to save themselves. Now as we are discussing that what becomes part of the CRP cost. There are one or two more. You know good judgments over it. this is one which we you know are using everywhere nowadays, because the companies, especially which were manufacturing Industries already having so many workmen or employees, but was not a going concern at the time of commencement of the cirp. 
+
+16:38
+Now there are already 2 000 3 000 workmen or employees on rooll. The IP comes takes over charge.company is not a going concern. He takes the efforts to restart the operations. Where operations are not being restarted for whatever reason, not getting the interim Finance or whatever. He is not able to continue the company as a going concern. So earlier the case was the acred wages and salaries used to be treated as part of the CRP cost. 
+
+17:13
+No matter company is not being operated as a going concern. but then we have this recent not that recent, but it's been almost a year now the Judgment which came in the matter ofil Kumar J on the r but where the Supreme Court held that if the company's operations are not continued, you can not say that it's a going concern. 
+
+
+## IP has to take measure to restart the operations of the company
+17:39
+So going concern if even codes is saying that IP has to take measure to take Endeavors to restart the operations of the company, it doesn't mean that the company is a going concern unless the operations are restarted. 
+
+17:55
+So only the wages and salaries of those workmen and employees who are treated as essential and retained by the IP to keep the company to do the necessary U compliances or maintain the you know functions of the company day to day basis. Only that salary or the W wages of those workmen would become part of the CRP cost. 
+
+18:26
+Rest of the workmen or employees may not be treated as their salaries or wages may not be treated as part of the CRP cost. That came as a big relief to most of the COC cirp squ C was burdened with a huge cost of the wages and salaries. So but here this is. We we are, though, if we represent IP. 
+
+
+## Winning the Workmen or Employees you supposed or you terminated them
+18:57
+We are taking reference of this particular section, but the objections which is coming, which are coming to our reference of this particular judgment, is this that if the workmen or employees you supposed or you it you made a decision as not essential for you did you terminate them. 
+
+19:24
+And if you did not terminate them and you chose to keep them on your role, then whether still you would say that their wages and salaries wouldn't become part of the CRP cost? 
+
+19:35
+Now this question is also pending in some of the benches of NTS where being RP you are seeing, or being COC, you are saying that the wages or salaries wouldn't become part of the CRP cost, but the employees or workmen who were kept on the role. They are filing the objection to say that no, because we were not terminated, we were not informed that our services would no longer be needed. 
+
+
+## NC's CRP Cost: What Does It Mean to Pay for Workmen?
+20:09
+That's why we should be given the payment to that part of the CRP period. So let's see that how NC deals with it. Now this is recent one more judgment which came I'm just taking examples that what becomes part of the CRP cost and what not. the broader idea is this that whatever cost that you incur of for keeping the company as a going concern, that cost is the CRP cost. 
+
+20:43
+Now, if the this is the recent Judgment of one of the NTS that workmen filed their claim, workmen fil their claim in which form? So is there any distinction between the workmen on the role of the company and the workmen who come through a contractor? No, if you're a principal employer, then you will need to give their dues as you would for an employee. Yes, exactly so as principal employer. 
+
+21:35
+The definition of principal employer is also very wider term there in the people who are dealing into the work contracts matter would certainly know this. for example, like I am dealing into one case where Delhi gel board is having one project and then Delhi jel board has awarded that project to one contractor. That contractor again has taken Sub sub subcontractor and the subcontractor has also taken Services of sub agencies. 
+
+
+## Workman Defination: What is the definition of the Workman?
+22:09
+Now, when the matter goes into the labor court because some of the laborers employed by the sub agency is not getting their wages, the labor Court says that the principal employer is Del jel board and Del jel board would make the payment in this case, so Workman defination, as has been decided in one of the matters, that of the by the NCL, there is no difference in the definition of the Workman, be it on the role of the company or through the subcontractor. 
+
+22:44
+But the case was this that when workmen filed their claim, they filed their claim in form D and the workmen who were through the contractor, the claim was filed by the contractor. The contractor filed the claim in Form B. Form B is form for the operational creditor which was admitted by the resolution professional. 
+
+23:11
+So when it was filed by the operational credit as operational creditor in the resolution plan, the contractor was treated as the operational creditor and the workmen who were employed to through subcontractor were not considered at all because they individually did not file their claim. Now in that case, NCL decided that a treatment given to the contractor was appropriate by the resolution profession because claim never came to be filed as the Workman. okay. 
+
+
+## Insolvency Resoltion Process Cost: What is the Liquidation Cost?
+23:52
+So now we come. So as we were discussing the waterfall mechanism under section 53, the priority is given to the insolvency resoltion process cost. The insolvency resoltion process cost is defined under Section 5 of section 13 and then liquidation cost. Now liquidation cost is under the liquidation regulations defined and the definition is given under Section sorry under regulation 2A. Now liquidation cost. 
+
+24:33
+There is one this recent judgment in the matter of J Naran Gupta and rasia properties, private limited liquidation cost is interesting if we come to this definition of liquidation cost in the liquidation process regulations, because I see that people actually struggle to compute the fees and the cost liquidation cost. 
+
+25:18
+So liquidation cost also includes first point, which is fees pable to the Liquidator under regul tion 4 and remuneration payable by the Liquidator under sub regulation 7, cost which is incurred by the Liquidator under sub regulation two of Regulation 24 and cost inur by the Liquidator for the securing for securing the asset of the company, for keeping the company as a going concern for the interim finance and Etc. 
+
+
+## Cost Liquidation Cost CES defined under Section 2 EA
+25:54
+This is the cost liquidation cost CES defined under Section 2 EA. Recently, in this particular case, what has happened is that the Liquidator in the liquidation process invited for the compromise and Arrangement. 
+
+26:17
+Now if you read section 2 EA and section 2 capital B, particularly section 2 capital B, which says that if the compromise and Arrangement is invited, then the cost for the purposes of compromise and Arrangement, if it is done within 90 days, would be, if it is successful, would be met by the corporate debtor not successful, it would be met by the proposer. 
+
+26:53
+Now, in this case, the Liquidator had called for the compromise and Arrangement, but the compromise Arrangement didn't happen within 90 days. It it the process went on for some time, which exceeded 90 days, and ultimately it failed. Now the Liquidators sought for the fees, which was around 23 lakh, and also for the expenses, which were around 24 LS. the proposer denied to make payment with for the fees part and also disputed the cost part. 
+
+
+## regulation 2 B, capital B, cost, feace, pc,
+27:37
+The matter had traveled to NT and then to the nclat. It was what was decided over here is this that when you read section two, sorry, regulation 2 B, capital B, which talks about cost, it doesn't talk about feace and the cost is pable by the corporate dat when is successful and why the proposal of is not successful. So therefore, because it was not successful, you cannot ask for the fees from the proposer. 
+
+28:17
+Because 2B doesn't talk about the fees. It only talks about cost. So you can take the expenses which were computed and are payable, but the fees is regulated by regulation 4. So therefore regulation 4 would apply. section regulation 2 B doesn't apply for the computation of the pce part. 
+
+28:50
+So when section 53, as I said when we discuss before going to the liquidation process, altoe section 53 after reading the insolvency and liquidation process caused because in the next priority list come the workmen and the secured Financial Credit D in the parasu manner the workmen dues 24 months in secur debt are given parasu. 
+
+
+## Section 53: What is the waterfall mechanism in CRP?
+29:23
+But to come to this third, sorry, second level of priority, I would first discuss the implication or the interpretation of section 53, that is waterfall mechanism during the CRP process. Section 53 is referred during cirp process at the time of deciding that how much money or the resolution plan value is attributable to the descenting financial creditor and operational creditor. 
+
+30:03
+So when we see section 30 subsection 2, which deals with the mandatory Clauses which a resolution plan value resolution plan must meet. So every resolution plan must provide for the minimum of liquidation value to the descenting financial creditor and to the operational creditor other. 
+
+30:27
+Otherwise they are treated as non compliant to section 30 subsection 2. Now, much of the noise has been made by the dissenting Financial creditor and the fire is still going on in Supreme Court on two main issues. But till now what has remained the position is this: there are series of judgments which have discussed this particular issue. 
+
+
+## How to Calculate the Liquidation Value to the Desending Financial Creditor
+30:56
+That when resolution so section 30, subsection 2 provides that if this financial creditor either abstains from voting or does not vote in favor of the resolution plan or treed as dissenting. If they are dissenting Financial creditor, they must at least get as per a minimum of the liquidation value. How the liquidation value is to be computed has been the question for computation of liquidation value to the desending financial creditor. 
+
+31:31
+One thing that I would want to know from the IPs over here, that how do they calculate? The main core is issue. I would come to the point, but before that for computation of the liquidation value to the financial creditors first has to be insolvency process cost and liquidation cost has to be met. so when there is cirp going on, plan value is given liquidation value for the desending financial creditors to be computed. 
+
+32:05
+I have seen some of the IPS doing this that they fetch the liquidation value because you get the valuation done for the company. You get the liquidation value from that liquidation value. You already know what is the CRP cost. You deduct the CP cost and some of the IPS I've seen also deduct the notional liquidation cost as well to reach to the exact liquidation value attributable to the financial creditor. 
+
+
+## Deducting the notional liquidation cost from the liquidation value of the company
+32:39
+Some of the Cs do not accept this formula of deducting the notional liquidation cost from the liquidation value of the company. I would want to know that. What process is being used by the IP who are participants over here? What is the right manner of doing it? should we deduct the national liquidation cost from the liquidation value to reach to the liquidation value for the desending financial creditors? 
+
+33:29
+The valuers that we have appointed have always taken the liquidation cost. I mean I taken the valuation. I have not interfered in the valuation exercise as an RP and valuers that we have seen have not taken into account or deducted the notional cost, notional cost of liquidation value and as RP is always a problem, you know in terms of you know we can check with them for clarifications. 
+
+33:58
+But you know interfering too much in the valuation exercise also is a is also not very is not recommended. This yes, so liquidation value to take a literal meaning whatever liquidation value that you have received from the valuer is the liquidation value of the company. now it deduct the notional cost of the liquidation cost to arrive at the exact value liquidation value at quad. 
+
+
+## Financial credor: How much is going to get if they descent
+34:26
+The ing Financial credor is the different formula being accepted by different coc's that I have seen. I've seen coc's who have did who had proposed to deduct the liquidation cost notional liquidation cost, and there are coc's who have gone by the exact liquidation value of the company as U as is being received now. 
+
+34:51
+So there are Financial creditors who are having charge over the security of the corporate data, so they have the security interest in their favor. every COC or the secured Financial creditor at the time the let's find out when I say: go, you have to hold your breath and we will see how much healthy your lungs really is good to remain healthy and keep checking that how your health is doing. Sorry about that's okay. 
+
+35:34
+That's all fine, yes so? Yes so we were discussing that as being dissenting Financial creditor. So coc's or the secured Financial creditor, every time the resolution plan is placed before the COC want to know that how much they are going to get if they descent. So the RPS generally compute for the coc's convenience that if they descent, how much they are going to get. 
+
+
+## COC decides the distribution mechanism for the company
+36:01
+As for the liquidation value of the company and whatever is the resolution plan is providing for. Otherwise these OC's also request to the RPS to place on the board that how much they would get as per the security interest and how much they are getting as per their voting share in the COC. So this exercise is always done by the RPS. This is the routin work that I seen. 
+
+36:37
+Section 30, subsection 4 of the code provides, as everyone knows, that COC has the power to decide the distribution mechanism. Also so when the resolution plan is put for the consideration of the COC, the RP also takes views of the COC that how COC wants to distribute the resoltion plan value. 
+
+37:03
+So either COC decide to go by the resolution plan itself, because resolution plan many of times provides for the distribution mechanism that how the resolution applicant wants to distribute is the proposed money, or otherwise COC decide on their own formula for the distribution as a distribution mechanism that who is which class of creditor is going to get what amount and in what Manner U needless to add here that COC, while deciding the distribution mechanism, has to meet the mandatory requirement of the code. 
+
+
+## COC decides that resolution plan value would be disbanded or not
+37:44
+But the formula for the distribution mechanism is the commercial wisdom of the COC. if the COC decides that the resolution plan value would be distributed in proportion to the security interest, would that be treated as compliant to section 30, subsection 2 or not? If COC, as part of their commercial wisdom under Section 30, subsection 4, decides that the resolution plan value be distrib? 
+
+38:27
+Uted in proportion to the security interest of the financial creditors, would that be compliant with the mandatory requirement of the code? Yeah, ultimately it's their decision, is their decision. So the COC may decide that the resolvation plan value can go as for the security or in proportion to the security interest of the financial creditors. 
+
+39:00
+And if the COC decide that no resolution plan value to be distributed in terms of the voting share, it is also okay and if the COC say that let the resolution plan go as it is. The resolution plan has already provided for a mechanism. We are not going to interfere with it. 
+
+
+## Resolution Plan, whatever manner is or mechanism is provided over there is being approved by the C and
+39:18
+Resolution plan, whatever manner is or mechanism is provided over there is being approved by the C and then accordingly the decision of the majority of the COC is binding on all the stakeholders, including the desending financial creditors. 
+
+39:37
+So now there has been so many instances where the creditors first, especially secured Financial creditor, they decide as after seeing their position as dissenting Financial creditors Where do they understand they may decide that okay, let us not Ascend to the resolution plan. they either decide not to vote or they descend from the voting they descent to approve the plan. 
+
+40:13
+So in that scenario, in that scenario, the issue which arises over here is this: with the secured Financial Credit who have descended. They descended because they saw that if they descent, their security interest is going to fetch good value, because in case of liquidation, if they decide not to relinquish their security interest under Section 52, they decide to realize their security interest. So their value to the security interest is coming much more. 
+
+
+## NC L framed this opinion on the resolution plan
+40:48
+As per them, that particular value to the security interest should be the liquidation value, and they must get at least at least that much value if they descend to the resolution plan. So this controversy has traveled up to Supreme Court. but as of now, what view has been taken by the NCL? 
+
+41:13
+Because that is the prevailing view as on today and there has been so many cases now deciding over this particular issue and NC L has framed this opinion is not changing its opinion is this that during cirp or in the resolution plan, in the case of the resolution plan being approved by the majority of the COC, that scenario the descending Financial creditors would get the liquidation value of their debt but not the liquidation value of their security interest. 
+
+41:58
+This is the view that NC has formed in number of cases. the one case that is there on the screen is Sid versus VI Raha, and the question which was framed over there was this: that whether distribution approved by the COC as per voting share is in contravention of section 30, subsection 2 B, because this sidb was dissenting Financial creditor being descenting Financial creditor he was. 
+
+
+## Financial Creditors Should Get Liquidation Value of Their Security Interest
+42:37
+The sidb was given the liquidation value of their share of a debt, but not share of the security interest. So the NC decided this and if you read section 53,1 sub the clause cost two. It doesn't use the Expression security interest ow to the secured creditor, but it uses the expression debt owed to the secured creditor. So when you compute the liquidation value, you compute liquidation value of the debt. 
+
+43:11
+You do not compute liquidation value of the security interest. therefore the descending Financial creditor cannot always come forward and say that they must get the liquidation value of their security interest. It may also raise some questions which we will discuss in sometime. 
+
+43:36
+The other judgment is this: again on the screen here the unsecured Financial creditor had challenged the resolution plan saying that there is discrimination between the unsecure Financial creditor being there, being assenting or dissenting to the resolution plan. So the unsecured Financial creditor had not voted. There were two unsecured Financial creditor. One Financial unsecured Financial creditor voted for the resolution plan. The another one abstained from voting from for the resolution plan. 
+
+
+## unsecured Financial Creditor is ascending and descending
+44:18
+So the C decided to give 1,48 CR to the unsecured Financial creditor. Nothing was provided for the dissenting unsecured Financial creditor. so here the NCL had read that how form at itself categorizes the unsecured Financial creditor being ascending and descending as two categories. 
+
+44:45
+So if the law or code itself is differentiating between these two parties, you cannot say that there could there was any discrimination now, because the only requirement to be seen by the RP at the time of seeing the compliance with the court or the COC is this that the resenting Financial creditor must get the liquidation value now the unsecured Financial creditors liquidation value, or say the unsecured Financial creditors debt liquidation value was coming to nil. 
+
+45:21
+And if it was coming to nil, there cannot be any non compliance to the vision of law. if he was given nil. It was correct in the eyes of Law and there can be discrimination between asting and dissenting, because the law itself provides for this is the most referred judgment by the nclat okay, so can anyone can anyone give or Express their opinion that why is it so or whether it is at all correct view by the nclat that the security interest of the secured creditors? 
+
+
+## Regulation 37 of CRP Regulations & Regulation 37
+46:15
+Sorry, the liquidation value of the security interest of the secured cror should not be considered to be given as this to the, to the to the descending Financial crator? Is this opinion framed by? Is the Judgment of the NCL correct or there is some flaw? There is some loophole which is coming more apparently on the face of it? What is regulation 37? 
+
+46:50
+Is anyone aware of Regulation 37 of CP regulation s regulation 37 of CRP regulations? The regulation 37 of the CRP regulation deals with the measures which can be taken by the resolution applicant in giving the resolution plan. If you read that regulation 37 of the CP regulations, if you read that regul ation it says or it gives right to the resolution applicant to deal with the assets of the corporate data. 
+
+48:07
+Regulation 37 provides that what kind of restructuring a resolution plan May provide. The resolution applicant may also provide of the corporate restructuring can provide for the slum sale can provide for the sale of the part of the asset of the company. 
+
+
+## Resolution Plan: How to deal with asset of corporate data in resolution plan
+48:25
+If a resolution plan can include the treatment to any of the asset of the corporate data, it means so it means that whosoever Financial creditor or whoever secured Financial creditor, as in when they filed the claim, they already relinquished their security interest for the resolution process. 
+
+48:56
+So if this assumption is taken in the law itself, because regulation 37 is giving free hand to the resolution African to deal with the properties of the company, unlike the liquidation process, because in liquidation process there is section 52, but in cirp there is no such thing. so in cirp. 
+
+49:18
+As soon as any creditor files a claim, it seems it means that they have already relinquished their security interest and therefore all the rights are given to proposed prospective resolution applicant to provide the measures to deal with the asset of the company in the resolution plan. And because it is so because the law itself provides. 
+
+
+## Financial creditors should not be given liquidation value to security interest
+49:45
+So the descenting financial creditors after descenting to the resolution plan cannot say that we want to go out from the resolution process and real ize a security interest by itself or we want to get the exact value of the security interest. if that treatment starts to be given, then the whole process would fall. 
+
+50:08
+The the process as it is it has been designed for the successful Revival of any corporate data would not make any sense if this interpretation starts is started to be given. So therefore the NCL has always kept it view very firm. 
+
+50:31
+The dissenting Financial creditors should not be given the liquidation value to the security interest, because section 53 read with regulation 37, makes it very clear that the 53 first is only referred to calculate the liquidation value during CRP process and the liquidation value is of the debt, not of the security interest. Good point, ma'am. So this is this. Regulation 37 is a very interesting point. 
+
+
+## wether resolution plan providing for extinguishment of security interest and guarantees of
+51:12
+If you would read it now this one more judgment that wether resolution plan providing for extinguishment of the security interest and guarantees of the descending Financial creditor is contrary to the provision of section 30 subsection 2. So as one of the participants recently, when I asked this question, said that this is commercial wisdom of the C and we already know that once a resolution plan is being approved with the 66% of the voting, then it is binding on all the parties, be it desting Financial Creator or any other stakeholder. 
+
+51:54
+Therefore, as I said, that regulation 37 has already given all the rights to the resolution applicant to deal with the properties of the corporate debtor. so as soon as the resolution plan value is resolution plan is approved, the desending financial creditors lose their right on the security interest because they have already relinquished. So resolution plan which provides for the extinguishment of the guarantees of the security interest of the descenting financial creditor. 
+
+52:21
+That's not contrary to the provisions of law. It's very in terms of the law and there is now recent judgment also if the COC also decides that the personal guarantees will also extinguish after the approval of the or by virtue of the approval of the resolution plan. That's also not contrary to the provisions of Law and very well in terms of the provision of law. 
+
+
+## Justice sanjie Kaa refers to larger bench in JP rather than in
+52:49
+But now this very question has been referred to the larger bench by the Supreme Court in month of January 24. because so this whole fight came CA of the different views of the Supreme Court in two judgments. So one was JP kenningston judgment in which I think the bench Constitution was three judge bench and the second judgment which came was India Resurgence by the division of bench. These two judgments are having the contrary view. 
+
+53:24
+In case of JP. The View taken was this that the descenting financial creditor should be or maybe allowed to take their security interest out and realize either their security interest on their own or you give the exact monetary value of the security interest to them. but the India Resurgence Arc matter, which was the the matter which came after JP. 
+
+53:54
+The India resurch did not follow the observations given by JP and India Resurgence held that security interest value should not be considered while Computing the liquidation value of the secure crator. So now in the DBS Bank versus Ruchi soya, the bench of Justice sanjie Kaa has referred this matter to the larger bench because the this bench, just Justice sanjie kar's bench, agrees with the Judgment given in JP rather than in India Resurgence. 
+
+
+## NCL is a view that all to be treated at par should not be their inter charge
+54:33
+So giving this observation they have now referred the matter to the larger bench is pending. a similar issue is also pending in the matter of TBS versus Anil goyel, where the NCL was of the view that in the once the resolution plan is approved or the liquidation process of also is carried on under section 53, there is no difference of the charge Holdings. 
+
+55:03
+So the inter charge arrangements are should not be considered and all the secur CR should be treat should be treated at par. Now that particular question of law is also pending with the Supreme Court. NCL is of the view that all to be treated at par and should not be their inter charge Holdings or subserving charge holding should not be considered at the time of the distribution. 
+
+55:59
+I don't know if it is visible or not, but if you want to calculate the liquidation value, how it should be. If now these cases that we discussed, if we calculate the liquidation value for the descending Financial creditor, how that value would be calculated? 
+
+
+## How to Relinquish Security Interest Under Section 52 if secured creditor decides
+56:35
+So if when in the CRP process, as we discussed the CRP process desending Financial crator get as per the liquidation value to their debt as calculated by the Val, but when the liquidation process starts, the secured creditor is having an option to not to relinquish the security interest, and that option is given to them under Section 52. Now, if any secured creditor decides not to relinquish the security interest under Section 52, that means they would realize outside the liquidation process whatever value would come to them. 
+
+57:26
+They'll keep that value with them. If they realize something which is in excess to the value to of their security interest, that excess amount is accounted to the Liquidator. 
+
+57:42
+But if they get on realization of their security interest, if they are getting less than the value to the security interest, then for that particular amount they come under Section 53. Under the waterfall mechanism, they come as unsecured creditor for the value for the remaining value which they could not realize under Section 52. But in case the security is relinquished under section 53, there are two methods to compute, particularly if we want to take example of the valuation of security interest as well. 
+
+
+## How to compute liquidation value of rupees 500 cres
+58:34
+If the secured creditors decide to relinquish their security and interest under section 53, that means to compute their liquidation value. the entire debt would be considered as their liquidation value. For example, if a secured Financial creditor has filed a claim of rupees 500 cres and is admitted as 500 CR rupees claim that value of debt is 500 crores. The support realization from the and there are suppose there are three creditors. 
+
+59:26
+Each creditor is filing its claim. One Secured creditor is filing its claim is 500 crores, One Secured Financial creditor. Another one is unsecured Financial creditor. And third one is the operational credit. So there are three categories of the creditors we discussing that how to compute the liquidation value if the security interest is relinquished. The charge which was created over the property is valued at rupees suppose 10 crores. 
+
+59:59
+So the security interest value is 10 CR, but the debt amount is rupees 500 cres. so when you relinquish the security interest as per section 53 priority payment, first the realization out of the realization, you give the solvency process cost. Then you give the liquidation cost along with it after that 24 month salary of wages of the Workman paru with the secured creditor. Now secured creditor's debt was here rupes 500 CR. 
+
+
+## Viser is a security interest of rupe 10 CR
+1:00:34
+Viser is a security interest of rupe 10 CR. But you are taking the debt only for computation of the liquidation value. So the amount which is recoverable or receivable by the secured crator is R 500 because the claim filed is rupes 500. If the realization comes of rupes 600 CR. Out of that 600 CR you would first give to the insolvency resolvation process cost. 
+
+1:01:04
+Then you would come to the second part, in which you are giving proportionately to the Workman and to the secured Financial creditor. Now, because here the debt is kept for the computation of the liquidation value, the whole amount would get exhausted over here itself no matter. The security interest was only of rupees 10 CR. 
+
+1:01:25
+So in my view here some unjust enrichment is being given to the secured Financial creditor because Securities against the 500 CR debt is only 10 CR. But it's still because for computation of liquidation value you are not considering the security interest. You're only considering the value of the debt. Here the financial creditor is getting more than or I would say logically it's not. It doesn't seem reasonable to me. 
+
+
+## Security Interest Value Calculator: Rupes 500
+1:01:57
+But suppose in that scenario if we take the security interest value to compute the liquidation value, it would sound very logical, but it's obviously has not been accepted by NT. So the secured Financial creditor debt is of rupees 500. The security value is of rupees 10 CR. What would happen if we take the security interest for the computation of the liquidation value? This will happen. 
+
+1:02:32
+You realize 600 CR out of 600. You are first making payment of the process cost. Then you are coming to the second part of the priority payment, giving parip pasu first to the 24 months wages to the workmen. Then, if we are taking the liquidation value of the security interest is only rupees 10 CR, which would come to the secured creditor. for rest of the amount he would be treated as unsecured Financial creditor. 
+
+1:03:02
+That means he would come under section 5.1D and that would also mean that you are having a good amount of money to be given to the other creditors falling under the line of the waterfall mechanism. But though this case number three has not been accepted by the NCL because NCL is of the view that section 53 uses the word debt, it doesn't use the word security interest. Now this particular whole situation is spending before. 
+
+
+## Supreme Court: How Supreme Court Deals With Liquidation Estate
+1:03:32
+The Honorable Supreme Court. So let us see that how Supreme Court would deal into with this. Okay. so here we discussed up to so in waterfall mechanism we discussed layer number one, that is once you realize from the liquidation estate, you first give it to the process cost, then in parasu to the Workman and to the secured Financial creditor and then you would come U into the third part. That is the sorry. I'm sorry. 
+
+1:04:27
+So after the Workman, the dues of the employees for 12 months come under the waterfall mechanism. So when we discuss here this workmen, employees dues, we all know that we would have to discuss that what forms part of the liquidation estate or not. So in the liquidation process we first realize so the Liquidator has to create the liquidation estate. to realize in the liquidation process, which will then be distributed under the waterfall mechanism. 
+
+1:05:11
+Now, what becomes part of the liquidation estate and what is not is also Define. I'm sorry. So liquidation estate definition is already given under section 36 in the liquidation estate. The gratuity pension fund, Provident fund, are not included. So when the it means that the fund which has been created to meet the pension or the gratuity or. 
+
+
+## Provident fund uh dues should not become part of the liquidation estate
+1:06:04
+The Provident fund uh dues should not become part of the liquidation estate and should not be used to make payment of the stakeholders under the waterfall mechanism. The recent judgment, as we all know, is the jet air was judgment. The jet air judgment deals into the CRP process because jet air was has been revived under the resolution process in that particular judgment. 
+
+1:06:40
+What has been decided is this: that the epfo dues are to be paid, are required to be paid in full, are required to be paid 100%. It also talks about gratuity. So the retirement dues of the workmen and employees because are not part of the liquidation estate. It is a duty of the RP or to say then of the resolution applicant, to make payment in full. 
+
+1:07:17
+So in the jetways case, because the resolution plan was already approved and then was challenged NCL, it was challenged on the ground that it doesn't provide for the epfo and gratuity or other retirementality to meet these retirement dues of the workmen. so since then many of the resolution plan has been returned back to the COC to decide and then to make provision for the 100% of the epfo dues and of the gratuity. 
+
+
+## U one cash over here. But with respect to the gratuity, there is U one cash
+1:08:15
+As the case may be. But with respect to the gratuity, there is U one cash over here. As we know, that gratuity is pable only in case of the termination of the services. In jet A's case, the resolution applicant was not providing for the termination of the services of the workmen or employees. The resolution plan had provided per or in fact had demerged one of the entities. 
+
+1:08:51
+Some of the workmen or employees were being continued in the demerged entity the NCL had held there is this that if the workmen or the employees are not being terminated and are continued in their services, the gratuity will not be pable to them. 
+
+1:09:16
+Now, in the CRP processes after the jet judgment, the CRP Pro, the resolution plan which were pending for the approval with the NT, many of the applications started being filed in this way that the resolution plan already was in most of the cases. 99% cases was not providing for the 100% APF for used. But okay, after this particular judgment, many of the RAS had come forward. 
+
+
+## gradu ACT : Freery, Freery, Freery,
+1:09:48
+Either the plans were withdrawn or the plans were U were being were made compliant with this requirement were given 100% EPF prod use for gratuity. If the resolution plan was providing for the continuation of the services of the workmen, the gratuity was not being provided because the new employer if would decide, after taking over the charge, to discontinue with the services, then the gradu would AC as per section four of the gradu ACT. 
+
+1:10:23
+But the resolution applicants on such kind of submission of the COC and RPS that the gr is the liability of the ra because ra is going with taking the company along with the employees and workmen. That is what the going concern means that you take the employees and workmen with you. So the it is. 
+
+1:10:45
+It is the liability or responsibility of the resolution applicant to meet with to which the resolution applicants are not filing the applications to say this that we filed the application basis. The books of accounts provided to us now the books of accounts, if we see, are already accounting for the gratuity liability, because in the books you make the provision for the gratuity liability as well. No matter is getting not payable. 
+
+
+## settling the liability of the gradu
+1:11:14
+It has already been approved for all the employees who have already completed Services of 5 years. So it's being aced and you are accounting it for as liability in your books. It is not payable as of now. It would be payable later, but you have already accounted for it. so once we give the resolution plan, it is settling with all the liabilities. 
+
+1:11:33
+So I am also settling the liability up to the date of the approval of the plan with respect to the gratuity as well. So all the employees and workmen should be their gratuity liability should be met by the COC out of the resolution plan value that we have already provided to them. So the resolution applicants are not interested to shed some new money for making the payment to the for the gradu. 
+
+1:12:04
+So this is also being is pending before the different authorities. In fact it is also pending in the Supreme Court. After the jet judgment, those workmen and employees who did not get the gratuity had gone to the Supreme Court. so as we know, the jet Airway judgment, when it was challenged on the part of the directions to the ra to meet 100% liability of the epfo was dismissed and nclat judgments holds good. 
+
+
+## jetas appeals for employees and workers to be liquidated in liquidation estate
+1:12:40
+But another appeal is a still pending which went out of this particular judgment by the workmen who claim for their gratuity payment till the their services up to the time of the approval of the resolution plan. 
+
+1:12:55
+So this is the case of jetas, which has clarified long pending questions on the rights of the employees and workmen and the inclusion of the employees or workmen dues with respect to their retirement dues in the liquidation estate of the corporate data. Okay, so there is one more point which comes over here when we discuss this part: employees. 
+
+1:13:46
+So we first paid insolvency resolution process cost, then liquidation cost, after that the Workman dues of 24 months, along with the secured crators in parasu. Then comes the employees dues of 12 months. We discussed that the retirement use doesn't become part of the liquidation estate, so the funds, if are having any money, cannot be utilized for the payment or disbursement to the stakeholders. 
+
+
+## The Secretary Creditor's Right to Relinquish Security Interest Under Section 52
+1:14:17
+And after the employees dues, the next priority is given to the unsecure Financial creditors and next goes to the crown debts, that is, the government dues and unpaid dues of the secured creditor. Now these two. This particular stage of priority is also connected with the right of the secured creditor, as we just now discussed, not to relinquish their security interest. 
+
+1:14:53
+So if the secured creditor decide to realize their security interest under Section 52 sorry, they decide not to relinquish their right under Section 52, they may realize their security interest as per the applicable law under Section 52. Now, if any secured creditor decides to realize the security interest under any other applicable law, they are also required to meet the insolvency outstanding, unpaid insolvency resolvation process cost and liquidation cost, as well as the Workman dues of their proportion. 
+
+1:15:40
+This is provided under Section 52 subsection 8 that if the secured creditor decides to not to relinquish the security interest, they are requ required to meet the cost aspect and their proportionate share to the Workman dues out of the realization of their secured security interest. 
+
+
+## Regulation 21 Capital A, Regulation 21 Capital A, and Regulation 21
+1:16:10
+So whenever we read section 52, we also read regulation 21 along with it, because regulation 21 of the liquidation process regulation is providing the manner in which they should pay the cost. 
+
+1:16:35
+It is regulation 21 capital A so as per 21 capital A, which is read with Section 52. Any secured Financial creditor who wants to not to relinquish the security interest has to intimate to the Liquidator at the time of giving their claim within 30 days, and if they fail to do so, it is presumed that they have relinquished their security interest. 
+
+1:17:08
+Now, once the security interest has been communicated by the security not relinquished, then the Liquidator generally computes the cost which the secured creditor is required to Bear u in their proportion and that cost is required to be met within 90 days from the liquidation commencement date. 
+
+
+## Liquidator fails to pay the cost, then Liquidator would get a
+1:17:43
+And if the secured Creator fails to meet the requirement, if the secure crator fails to pay the cost, then the security interest is again added to the liquidation estate and then Liquidator would get a right to realize the security interest. Now the controversy over here generally comes. Is this that in the last COC meeting I mean before the companies put to the liquidation generally the RPS also put this agenda? 
+
+1:18:23
+As for the required regulation of CRP regulations, the estimated liquidation cost and the outstanding or unpaced CRP cost is also put on record. So it is presumed that every COC member was having the knowledge of the outstanding cost that is required to be paid. It is presumed so, but what in case, because this particular regulation is not mandatory to be added. 
+
+1:18:53
+So in case the estimated liquidation cost was not computed in the last COC meeting, then it becomes obligatory on the part of the Liquidator to intimate to the secured creditor who decides to not to relinquish their security interest the amount of the cost which they have to bear. We have seen the instances where the Liquidator fails on their part to communicate the liquidation cost. 
+
+
+## Liquidator computes proportionate cost and calculates cost
+1:19:23
+We have seen that and then there is delay on the part of the secured cror to meet the cost and if that happens, the Liquidator gives the notice to the secured creditor that I am taking the security back and then litigation it starts, the security tror goes to the n and says that I was never given information about the liquidation cost that is attributable to me so that I could make the payment. 
+
+1:19:52
+So it is important that if the secured creditor decides not to relinquish, then is on to Liquidator to compute the proportionate cost and let the secured credor know their proportion of the cost to be met, which they are required to meet within 90 days. 
+
+1:20:12
+And if the security interest is realized and the security interest realized is in excess of the security interest value, then the excess amount is required to be accounted to the Liquidator within 180 days. The meaning of this is this: the 180 days period is now treated as the maximum time within which the secured creditor to is to realize the value. So if this? 
+
+
+## Regulation 2: How Long Does the Liquidator Take to Realize Security Interest?
+1:20:40
+Because, though, if you read this particular regulation, it doesn't say in direct terms that the maximum time period given to the secured creditor to realize this security interest is this. 
+
+1:20:54
+It's it doesn't say in the direct terms, but if you read sub regulation 2, Clause B, which says that the excess of the realized value of the asset which is subject to security interest over the amount of his claim admitted has to be accounted to the Liquidator within 180 days from the liquidation commencement date, it means that the liquid the secured creditor, is required to realize the security interest within 180 days of the liquidation commencement date. 
+
+1:21:28
+Now generally the secured Financial creditor in the liquidation process who decides not to relinquish are generally financial institutions and they or the government authorities, and they take much more time than 180 days to realize a security interest. And in that scenario the Liquidator can ask or approach to the N to get the security back, showing the incapability of the secured creditor for realization of the security interest. 
+
+
+## Security Interest Under sface act: How to Realize Security Interest Under Regulation 37
+1:22:11
+So we have seen those instances as well and now the most used X or law applicable law in this scenario is surfacey because the financial institutions who decide not to relinquish they realize a security interest under sface act. sface act. If it is applicable, then regulation 37 of the liquidation process is not applicable because regulation 37, if we read it, says that realization of the security interest by the secured creditor. 
+
+1:22:49
+That if secured creditor is realizing it security interest under Section 52, then it has to first know the Liquidator that at what value, at what amount he can sell the property in the market. 
+
+1:23:06
+So as soon as a prospective buyer is there for the secured creditor, he would let the Liquidator also know, as per regulation 37 and that scenario the Liquidator would see if Liquidator has a better buyer, then Liquidator would let know the secured creator that I can FES more value than what you can and accordingly Liquidator takes over. 
+
+
+## Regulation 37 is not applicable in the case where the secured, where the secured Creator is realizing
+1:23:33
+But this particular regulation 37 is not applicable in the case where the secured, where the secured Creator is realizing a security interest under this RPC. Now the securitization and reconstruction of financial enforcement security interest Act is providing different is providing a manner of realizing the security interest if it is done so whatever. 
+
+1:24:11
+So there we I have seen one of the cases where the corporate data was having different businesses or, for example, in the case of EPC companies, the corporate debtor has different projects. Those projects are given or are run through different JVS, so you are having different businesses which are separable from each other. 
+
+1:24:42
+So in case of sarac, if you're advising to the financial crator as well, because I see IPS, they are into the ADV advisory profession as well. the secured creditor are taking over the management of that particular GV all together separately and running that JV till the time it is realized it is realized under the TPC by way of auction or whatever. 
+
+
+## Security Interest & Equity Shareholders
+1:25:10
+So yes, it is quite interesting if the security interest is realized outside the liquidation process, all Al together a different advisory functions that you get to do through the security through the secured Financial creditors. 
+
+1:25:29
+So this is section 52 and under Section 52, whatever is realized that would, if it is in excess, it will, as I said, would go to the Liquidator and if it is lesser than their security interest, then for remaining part they are treated as unsecured Financial Credit credor and are given in the priority after the payment of the employees du sorry, I'm so sorry. 
+
+1:26:01
+They would be treated as unpaid dues of the secured creditor, so they would fall under 522e. So after that the rest, the next stage under the waterfall mechanism, comes as other debt or include trade creditors and at the end, which we call as the owners secure. These are preference shareholders and Equity shareholders. 
+
+
+## What is the coal waterfall mechanism provided under section 53
+1:26:29
+So this is the coal waterfall mechanism which is provided under section 53. So we can discuss if anyone has any query on the points that we have discussed till now. Does anyone has any query on any of the points that we had discussed? Please proceed. So can we just take 10 minutes break and then we resume in 10 minutes? Yes, ma'am, after 10 minutes we will with you, okay, thank you so much. 
+
+1:41:02
+Hey, can we start now? Yes, ma'am, you can start, okay. so because we were discussing section 52, which is one of the manner of realization of the asset but by the secured creditor outside the liquidation process. But if the Securities are to be realized in the in the liquidation process, there are manners of doing so. Securities are realized by way of auction, which is the most used manner in certain circumstances through a private sale. 
+
+1:41:43
+But when you do auction, it may be by way of you know, slum sale or ass it to be sold in Lots or as a going concern. Anyone here who has sold the corporate data as a going concern in liquidation process. Anyone who has dealt with any such matter in which corporate dator was sold as a going concern in the liquidation process. 
+
+
+## 
+1:42:33
+So whether the sale of corporate deor as a going concern a liquidation process to be taken again to the sale of corporate detor in the resolution plan process, you must have observed the Liquidators or the successful biders filing the applications before the NT seeking various reliefs and concessions in the going concern manner if the sale is going con Manor. So there are two important litigation which arise out of the going concern sale. 
+
+1:43:18
+One is this that where whether the going concern sale would extinguish all the liabilities of the corporate data and the successful bidder would get the corporate data on a clean slate basis. This is one point. and second is whether the successful resolution applicant should get the reliefs and concessions to get the same reliefs which are, you know, available to the resolution applicants when the resolution plan is approved by the nclt. 
+
+1:44:01
+So getting all the liabilities extinguished if the sale of the company is as a going concern. There are two views and there are two judgments of the NC giving different views. 
+
+
+## 
+1:44:17
+We know many matters of the NCL in which the release and concessions are given to the successful biders and also that all the liabilities, the relief and Concession itself includes one of the relief that all the liabilities would get extinguished because all the creditors are settled under section 53 of the code. so because whatever realization is there by sale of the company is a wi concern. 
+
+1:44:49
+That realization is distributed to all the creditors under section 53, so their all debt are treated to be settled with and get extinguished, so they get the same treatment as it is given in the resolution plan process. 
+
+1:45:07
+But the Judgment of NCL principal bench said that the successful bidder would get this relief and Concession only in case the process document providing for the sale of the company as a going concern had this Clause that along with the asset, liabilities are not being transferred and liabilities are getting settled. if the process document was not having any such Clause that the liabilities are getting settled. 
+
+
+## 
+1:45:50
+In that scenario, the meaning of the going concern would be taken as this that you are taking the company by making the payment of the sale consideration that means you are taking the company as it is, or to say that on as various basis, which would mean that you are taking assets of the company along with its liabilities. 
+
+1:46:16
+So liabilities will not get extinguished if the process document basis which you had taken participation in the auction had provided for. So the recent Judgment of this was vdv projects versus pratia Industries Limited, in which the NCL has held. 
+
+1:46:41
+So the VDB had given the auction, had participated in the auction for the to purchase the company as a concern, and after P after being declared a successful bidder, he was informed that the company is being given to him on as various basis, which included the liabilities also. So he default. He didn't, he didn't. 
+
+
+## 
+1:47:05
+He didn't make payment for the remaining part of the bid amount and had approached to then NT had given him opportunities to make the payment of the remaining part of the auction bid amount without giving any concession. So the appeal came to be filed. In an appeal, the NCL had gone through the process document, which did not provide any such clause in the process documents, so no relief was given to them. 
+
+1:47:38
+However, there is one Judgment of shiv Shakti that was by NC bench number three, which had held that because the concern sale is equivalent to the Revival of the company under the resolution plan process, so the release and Concession should be given, and because the liabilities are settled under section 53, it would be treated as extinguished, as all the claims are treated to be are treated to be extinguished. So there are diversion views on this. 
+
+1:48:16
+The okay so any anyone has done any private sale under the liquidation process, anyone who has dealt with the private sale. Under what circumstances a private sale can happen or is allowed? Which regulation provides for the realization of the asset? Regulation 32? 
+
+
+## 
+1:49:21
+Yes, regulation 32 is providing for the mode of sale and the private sale is allowed in certain circumstances, and those circumstances include if the say if the asset is perishable in nature is deterior, is the value is getting deteriorated and the asset is sold at a price where you are able to get the value which is more than the reserve price which you had proposed in the previous auction or with the permission of the adjudicating authority when the auction is done. 
+
+1:50:03
+If the mode of sale is auction, then in that scenario a schedule is given under the liquidation process. That provision or the process provided under that schedule is to be followed, number one which decides that. How would you know, put the reserve price? How can you reduce the reserve price? how much reserve price can be reduced in what Manner and within how much time the bid amount has to be deposited. 
+
+1:50:43
+And if there is any delay, then interest should be libid. And after the maximum period which is given under the schedule, if the payment is not being made, then the auction would be treated as cancelled. The amount of EMD would be able to be forfeited. 
+
+
+## 
+1:51:03
+But in case if the private sale is done, whether this process of schedule is applicable, particularly with respect, particularly with respect to the time period of making payment, whether this schedule Provisions are applicable to the private sale. Also, if you have a look at schedule, once this is schedule number one, the first part of it is auction, and then it starts with where an auction is to be sold. sorry. 
+
+1:52:14
+When an asset is to be sold through auction, a liquidator shall do so in the manner specified here and the second part of it is private sale and in the schedule Under. The Heading of private sale there are five Clauses. The first Clause is where an asset is to be sold through P private sale, a liquidator shall conduct the sale in the manner specified here. 
+
+1:52:45
+In it says the Liquidator will prepare a strategy to approach the interest rate buyer. Private sale may be conducted through directly liening with the potential buyers or through their agents. The sales shall stand completed in accordance with the terms of sale. Thereafter the asset shall be diverted, deliver to the purchaser on receipt of the full consideration for the asset in the manner specified in the terms of sale. 
+
+
+## 
+1:53:14
+So if there is any private sale, the schedule On's schedule, one schedule of time of payment, is not applicable to the private sale. The private sale is totally governed, completely governed by the terms of the private sale. Why this is being discussed is because of the reason that we have seen in some of the processes we private sale is conducted. There is one leuna in the private sale agreement. 
+
+1:54:01
+That private sale agreement provided for the time period or the time schedule for making the complete payment but didn't provide for the Ley of the interest, as it is given in the schedule one if the Sal is through auction. 
+
+1:54:24
+So because the private sale terms or the terms of the sale, or say the agreement to sale, was not having any Clause with respect to the interest and there was a delay in making the payment by the purchaser. He got benefited with the Luna because the secc or the creditors could not take any step against the auction purchaser and the auction purchaser could get much time to make payment. 
+
+
+## 
+1:54:55
+So, though, the term of the sale was providing this Clause that the creditors would have a right to cancel the sale agreement if the purchaser is not making the payment within the prescribed time. 
+
+1:55:18
+But because the purchaser had made substantial payment already the it was not in the in the interest of the creditors to cancel the whole agreement to sale and then proceed once again, for you know, looking for a making strategy to find a new buyer. So they could not take this drastic step of cancelling the agreement as well and they lost on the part of the interest. 
+
+1:55:47
+Also so because the schedule one is not applicable on the private sale. So it is very important that the time when you are drafting your terms of sale, you include all those important CL Clauses and make sure that because any particular term is not there, you should not cause or the SEC themselves are not causing to themselves any loss. 
+
+
+## 
+1:56:11
+This is the mode of realization of the asset under SE under the reedition process, which is governed by regulation 32. But the realization of the acid in the liquidation process is not so easy path. We we keep seeing that Liquidator face lot of problems, particularly when the properties are attached by the different authorities, particularly by the enforcement directorate. 
+
+1:56:49
+So many proceedings already going on where the Liquidator are not able to realize the properties because it's attached, because the properties are attached by ad. So if that is a scenario, I'm sure that you must be aware of the recent Judgment of the Bombay High Court two days back. I think now order would be out. 
+
+1:57:09
+I had checked yesterday it wasn't, but it's been all over in the in the news that Bombay high court has held now that once the resolution plan is approved, n can give effect to section 32A and there's no requirement for the RAS or the Liquidator to approach the different authorities for getting the properties released from the attachment. 
+
+
+## 
+1:57:44
+But let's see, because already all the judgments are challenged by Ed in the Supreme Court and the one judgment which is pending is Ashok Kumar sari's judgment, and everyone is waiting for that order to come, though it's not. I've have seen that one of the matters that I only dealt in such cases and where could get the property released from ad. but that was also so. 
+
+1:58:11
+The most difficulty that we face is this: at the time of approval of the resolution plan, the NT in the order itself, had given the effect to section 32 a and then directed to the enforcement directory a to releasee the properties from attachment. 
+
+1:58:36
+But even after so and even after constantly following up with the authority, they didn't reply back and then we understood that we will have to go to the appropriate Authority, because till date you would see 90% of the orders from the NC which had come. 
+
+
+## 
+1:58:52
+Is this that we are not the appropriate Authority and we are not having jurisdiction to deal with the Ed matters and you approach the appropriate Authority when we go to the Authority Under the pmla act or uh so and if we apply under Section 32A, the pmla,. The Authority Under pmla act they hold there is this that we are not the appropriate authority to exercise any power under the IBC. 
+
+1:59:31
+So section 32 a is the provision under the IBC is not the provision of pmla, so we are not going to exercise that jurisdiction. So this is the difficulty which has been faced by majority of the professionals. 
+
+1:59:49
+Then in NCA, the Ed comes and say that NT is not the appropriate Authority and when you go to the pmla authority, PML is of the view that no, we cannot exercise jurisdiction under 32 under 32A of the code, but because in our case the matter was also going on under before the special Court for the predicate offences. So CBI case, along with the pmla case was going on before the special Court. 
+
+
+## 
+2:00:19
+We approach the special Court also first got the corporate deor discharged from the ongoing CBI case. On the basis that the CRP is going on, the resolution plan is already approved. The company cannot be prosecuted as per section 32A. 
+
+2:00:39
+So the corporate data was discharged from the predicate offense and once the corporate dator were discharged from the predicate offense, a discharge application was also filed before the special Court under Section 32A for discharge from the pmla offenses under Section 3 and under section 4. And once that is done, once you are discharged because or by virtue of section 32 or applicability of section 32 of IBC from the special CT, there is one provision which provides for the release of asset under Section 8, subsection 7 of the pmla act, so Section 8, subsection 7 of the pmla ACT, which says that if the trial cannot be continued for whatever reason, then you may apply to the special court for the release of the property. 
+
+2:01:34
+So because in our case, by virtue of section 32A, the trial cannot continue. We sought for the release of the property and the special Court was pleased to even hold that a resolution applicant who had already given that much of money under the resolution plan approved by the NT. He will not get the fruit of his money until and unless the properties are discharged from the attachment. 
+
+
+## 
+2:02:05
+So the order was passed of discharge as well as of release of the asset. But simultaneously we are also dealing with certain cases where the pmla Authority or the app Tribunal have rejected our applications seeking the release of the asset. By holding that we are not the authority to exercise our power. 
+
+2:02:30
+But now much relief is going to come if this W high court judgment is going to start being quoted everywhere where it is been held that the NT itself is the appropriate authority to give effect to section 32A. 
+
+2:02:52
+So if that is so done, then in that scenario I believe that it will not cause much problem to the IPS for getting properties released and if not even so released, the Liquidator or the RPS would be able to put the properties either for sale or be able to convince the prospective investors to apply as spr in the resolution process. however, one matter which is spending before. 
+
+
+## 
+2:03:29
+The Supreme Court, which is going to again make things easier for us, the Ashok Kumar sari matter, because, as I said, that we are seeing certain matters which are pending either before the NCL or NCL is no hearing is being done because Ed comes and say that this issue is spending before. The Supreme Court. 
+
+2:03:56
+So in the asuk Kumar sari issue, the matter is this which I believe that is important to discuss, because many of you would be also have may have the similar issue and accordingly take appropriate steps. Then, in Ashok Kumar sari, the CP got initiated and post commencement of the CRP, the provisional order came to be passed by the pmla for attachment. now after the provisional attachment. 
+
+2:04:24
+Of course, in certain period of time, the confirmation also is required to be done by the under the pmla act. The RP moved to the NT and NT obviously held that I am not having the jurisdiction to deal into the pmla issue and you approach the appropriate Authority. So the RP had come to the NC and NCL decided not to interfere in the matter. So ultimately the matter had gone to the Supreme Court. 
+
+
+## 
+2:04:56
+Now in the Supreme Court, the question which has been framed is this that whether pmla has at all the authority to provisionally attach the asset after the commencement of the cirp. so yes, of course, if it is before commencement of the CP, as it has been held by different in different matters, that if the attachment was before commencement of the CRP, the appropriate authori is the pmla authority to approach world. 
+
+2:05:31
+But if the attachment has happened after the commencement of the CRP, then the first question whether the pmla authority has the jurisdiction to attach the properties at all, and if it is so, then which is the appropriate authority to deal with the question. So this is pending adjudication Supreme Court and meanwhile the RP was allowed to proceed with the finding the resolution applicant but plan should not be approved without the permission of the Supreme Court. 
+
+2:06:08
+So, yes, so this is also going to decide this important question which is going to impact the realization of the asset in the liquidation process in lot of the in lot of cases which are on hold because of the attachment. 
+
+
+## 
+2:06:33
+So this is on the part of the realization of the asset which we discussed that section, sorry, yes, section 52 and the realization under Section 53 to be distributed in the waterfall mechanism, the mode and manner of Regulation 32 and 32A, the difficulties that we are facing, the going concern issue of sale and we discussed the schedule which provides for the private sale schedule, one which provides for the sale by auction as well as by the private sale. 
+
+2:07:27
+But private sale is mostly governed by the terms of the sale which is framed by the liquidator. okay. So one or one point that we can discuss is the issue of the owner property H. So yes, what do you understand by the owner's property? Anyone of you? What do you understand by the owner's property? Something that is burdensome to the process? Yes, something which is burdensome to the process. 
+
+2:08:58
+But how do you decide it that is onerous to the process? Suppose, like it doesn't work out like it's better to sell off the property that than in bits and pieces, rather than to keep it and sell it together. Okay, right, Madam, yes, the cost of realization is more than the realization itself. So it is not wor doing anything with that property at all. 
+
+
+## 
+2:09:35
+Maybe, yes, you're saying that when cost of realization is more than the cost, the value of the property. yeah, yeah, yeah, you can, if the s? C approves, because in one of the cases we were in fact having no property and but there was only and only cost which was coming or being incurred. We directly apply for the dissolution of the company. 
+
+2:10:02
+There are at least six to seven or now more than those instances where the N has, from the CRP, directly decided to dissolve the company without going into the liquidation at all of that. I had done it from thep to directly to the resolution. Yes, yes, one is Dalia case. There two, three more cases. Dalia was my case okay and you have given the Precedence to us, so we used it. 
+
+2:10:38
+We used it in one or two hour of cases because Dalia had already done this. Dalia, it had already happened. So we also had applied for dissolution, because company was not having any asset and it was only cost which was being incurred. So yes, we thank you for that pres to bring in. Yes, so, with respect to owner's property, as 'am rightly said there something which is burdensome to the company. 
+
+
+## 
+2:11:14
+Now how do you decide it? Because this is a one aspect which is very well contentious every whenever it is raised by any of the Liquidator, because it generally impacts the rights of third parties. So if the corporate deor was having any contract which it entered into before the commencement of the C itself, then CRP continued and liquidation process also started. 
+
+2:11:54
+The Liquidator realizes that the terms of the contract are such which are owner to the corporate data. that means you are only performing. You're not getting anything in return and then you want to get it declared as owner. Because you can't yourself do that. You would have to go to the NT to get this declaration that this particular properties owner. 
+
+2:12:19
+As to the corporate data, it's not being beneficial but is only giving losses to the corporate data. So the application is to go to the adjudicating authority. But why it is difficult? Because it's going to impact the third party rise. Now there are judgments to say that once the contract was done before the commencement of the cirp, you cannot negate that if those were the valid contracts. 
+
+
+## 
+2:12:53
+So to negate the contracts or the valid contracts post commencement of the cirp. this would be a point to establish on your side, on your part, being Liquidator, that how is this owner Us in nature now, in fact, so many other things they are with this. 
+
+2:13:19
+If any agreement you want to show that is owner us or the corporate deor did it with some intent which, on the face of it, causes loss to it itself, you would. You would also have to show that if you had taken any other steps, and find out whether any prolent intent was also involved. So to get this disclaimer, because if you see the disclaimer of owner property regulation number 10, the four Clauses are there. 
+
+2:13:56
+The Clause number one is that where any part of the property of corporate dat consist of land of any tenure burdened with onerous Covenant, which we understand that if any property is there which is burdened with the Covenant, the Clauses of the agreement which are burdensome in nature, you can get it declared as honorous. But the proper getting property declar as honorous would not be that problematic scenario. 
+
+
+## 
+2:14:23
+Shares or stocks in the company, that investment that you have made is catching no value to you. Any other property which is not salable or not readily realizable by any reason. The last is unprofitable contracts. so when this fourth scenario comes, there are already so many instances, but it becomes very difficult for the Liquidator to establish that this particular contract is not profitable because you are going to impact the third party rights as well. 
+
+2:14:52
+Now, to what extent the NT can decide whether the contract is profitable or valid or not, that's something to you know. Litigate in the but to approach to NT. Also, there is time prescribed under the provision that you would have to apply to adjudicating Authority within 6 months of the liquidation commencement, and such provision is not there in the CRP regulations. It's only under the liquidation regulations in the liquidation process. 
+
+2:15:31
+This onerous agreement provision is provided because obviously you understand that in the CRP you are giving the company as it is, because the ra would come and would do its due diligence and would decide whether you know how to deal with any of the asset of the corporate data. So therefore the CRP would not need such kind of Regulation where the liquidation process HS. 
+
+
+## 
+2:15:59
+So if this has to be decided by the Liquidator, has to be done within time bound manner so that you can apply to NC within 6 months of the commencement of the CRP. But when it comes to the unprofitable contract is bit you know something in which you would have to establish in the court that why it is unprofitable and why this contract to be declared as owner as in nature. 
+
+2:16:28
+So yes, this is with respect to the owner's property, because again it deals with the realization of the asset early dissolution we have already discussed because one of the members had asked this query, and with respect to the claims, I think now it's mostly now settled that you can now carry forward the claims as well. They discuss the presumption of the security interest. Okay. 
+
+2:17:18
+So yes, one difficulty that we are facing for our clients because NTS have are dealing with certain matters very theoretically, some at some places, though I mean I really appreciate with such burden all the NT benches are working, especially in NT Delhi. The members are taking two or three benches. 
+
+
+## 
+2:17:50
+One issue that we Face in the liquidation process, particularly because you are easily selling your tangible asset, but there are book debts which are not you know easily salable or you don't find the purchaser and then you sell in private sale. 
+
+2:18:14
+In one of the cases, because the SEC approved that all tangible assets have already been sold and only the book Debs which are remaining, and after several round of public advertisement, there is no expression which is coming from any of the investors. 
+
+2:18:38
+The approved that you go for the private sale, because ultimately one expression had come for which of course we have to approach the NT for taking their permission for selling the selling any property through private sale. So accordingly the NT was approached. now it's book debts, of which, because the company is in liquidation. 
+
+
+## 
+2:19:04
+That means you can assume the one year had already gone in CRP process and if the company was not operational for 2 years before that, most of the book debts have already become barred by time. 
+
+2:19:20
+So the value which was proposed in the private sale was quite low than the book value of the book debts and when it was placed before the NC for their approval, the NC sees that there is a Miss in the process and which should be scrutinized and when it is or and not even scrutinized. But the liquidation process should also be supervised by a supervisor appointed by the ibba. now the liquidation process. 
+
+2:20:03
+In the liquidation process, the Liquidator carries the most of the Authority or Powers is only when the decision of the Liquidator is not acceptable to any of the stakeholder than adjudicating authori is approached. But here. The Honorable NT had directed for the supervisor be appointed through the ibbi post, which the ibbi had filed an application in saying that this is not possible. 
+
+
+## 
+2:20:35
+The ibbi, the IBC or the regulation liquidation regulations no where provide for the appointment of the supervisor on the liquidator. So this is not the appropriate this. This proposition given by the N will not be able to be implemented because there is no such provision under the law. So ultimately the NT also accepted the view of the ibvn. The order was accordingly to that extent was removed or discarded. 
+
+2:21:18
+But it comes to the this is not the one instance is if you would see anywhere when it comes to the sale of the book debts or the non realizable asset, we are going to the NT seeking approval of the private sale without going into the into the effects of the case if it's being held that there is some a mistake which is being U or some Mala intention the Liquidator May possess. 
+
+2:21:52
+That's I in my opinion. It is not in terms or cannot be decided on the face of it, because the book debts carries this value in terms of the obviously the kind of debts they are, kind of the operation that the company was into. So yes, this is again a point of difficulty when it comes to realization. it's very difficult to realize the book debts in the market in the liquidation process. 
+
+
+## 
+2:22:27
+So this is on the realization of the asset. Think with respect to the realization. We have discussed almost all the provisions. I can take the queries if anyone has any query or we can discuss on any of the points that we had covered today on the waterfall mechanism, realization of the assets, section 52, section 53, mode of sale, anything. 
+
+2:23:48
+Anyone has any query or any topic that we can discuss on with respect to the waterfall mechanism. I just had one doubt: whether stand duty is applicable in case of sale during liquidation of property or the company as a going concern. St you is applicable if the company has a, if the sale of the companies has a going concern, going concern or the assets are being sold during the liquidation under IBC m? I don't know. 
+
+2:24:32
+I believe there are some case laws which I meant to go through. So Stam Duty in one case which I had dealt into, we had sought relief of and we had not paid that. But there is one recent Judgment of the NCL. I'm not recalling that it's chairperson's order which deals into the stam Duty question only, and so I am not. I mean it's not handy with me. 
+
+
+## 
+2:25:06
+But if you want, I can get back to you on this is just Justice Ashok busan's judgment on this point, whether stamp duty is applicable or not. but in one of our cases we had sought I mean the ra, because when they had applied for the relief and Concession, they had sought for the release of the stam Duty and that sale was sale as a going concern. But I'll get back to you on this, Miss ranani. 
+
+2:25:39
+Right you on mute manini, I'm sure. Sure I'll get back to you on this point. Thank you, I'll share my number on the chat box. Yes, please, yes, please, any other question or point to discuss. So I see the. There is one order of Telangana High Court which says that no Stam Duty would attract on sale of property if is sa through the auction in the liquidation process of IBC high court. High court of Telangana. 
+
+2:27:38
+Oh that's wonderful. Can you share it? yes, is an agro Farms private liit limited versus state of Telangana state of okay. There is one of NCL also. I'll find that out cuz I was in code when this matter had come. So I remember that there is one matter in the NCL also. Thank you so much. Is any other point to discuss? 
+
+
+## 
+2:31:55
+I think one this point that what can be included in the liquidation estate, though this now has been very well settled. There are certain companies in which the suppose in if I just take example, the syz company goes into liquidation and there was only one Financial creditor. The financial creditor had secured the loan given to the corporate DEA by the property of the associate company. 
+
+2:32:39
+Now the associate company had put a land on security to secure the loan given by the financial creditor to corporate data. Now, in that land only the plant and Machinery has been built by the corporate debtor. So the land belongs to the associate company. The plant and Machinery on that land is of the corporate detor. The liquidation process is going on. 
+
+2:33:07
+There is only one Financial creditor has the charge over the land of the third party and over the plant and Machinery current asset of the corporate data that One Financial creditor or the sole Financial creditor decides not to relinquish the asset, not to relinquish the security interest, and decides to realize it outside process. How so? 
+
+
+## 
+2:33:36
+If it is deciding to realize the security interest outside the process B it's is easier if the secured creditor decides, not decides to relinquish the asset and the Liquidator now has to realize the asset. How the Liquidator would do it? Because you're not going to get the buyer only and only for the purposes of the plant and Machinery, because land doesn't belong to you. 
+
+2:34:08
+Whether you can add that land into the liquidation estate now, as per section 36, which mostly reads as section 18, also in the CRP process, that you have to take charge over all the asset of the of the company or of the corporate data. the asset which doesn't belong to the corporate data you cannot take control of. 
+
+2:35:10
+So when it comes to forming or making a liquidation estate, you cannot include the property which doesn't belong to the corporate dator. This particular land which doesn't belong to the corporate data cannot be included in the liquidation estate. But then you would have to frame any mechanism in which you can find a buyer for the sale of the planted Machinery. 
+
+
+## 
+2:35:44
+So you would see that there are certain judgments of the NCL also where the NCL has allowed to run a similar, a simultaneous process by the secured creditor and by the Liquidator also, for example, the secured creditor would put the Au put on the auction. that particular land which is belonging to the associate company and Liquidator would also simultaneously put the plant and Machinery on auction. 
+
+2:36:15
+The process would be run in a manner that it is disclosed to the prospective investors that the planted Machinery is into the liquidation process, but to maximize the value, it is going to be sold to one single party and accordingly the advertisement is issued. So this mechanism of course the Liquidators or the IP professionals only have come out with. 
+
+2:36:50
+Such kind of mechanisms were also have been used in the resolution processes where part of the property belongs to the associate company. And then how do you carve out in the resolution plan itself to make it convenient for the investor and also for the secured creditors to maximize the value of the asset of the company? 
+
+
+## 
+2:37:13
+So liquidation has, because you cannot include the third party assets, mostly of the directors, sorry, or of the promoters who give their properties and on which the some asset is built of the corporate debt you can't include in the liquidation estate, but then a simultaneous process can be run to realize the maximum value of it. So what you can include and cannot include in the liquidation asset estate is quite relevant. 
+
+2:37:47
+That is section 36. Accordingly, because your whole realization process is going to depend on this part of function that you carry as the Liquidator. Is there any query? because otherwise we have covered the topic of waterfall mechanism and if there any query that I can deal with, please let me know, or Angeli, if there is no query to answer, then we can conclude the session for today. Sure we can conclude participants. 
+
+2:39:24
+Do you have any question? Ma'am, I think we should conclude now. Okay, sure, on behalf of Team IA IAP and all the participants. Thank you very much, ma'am, for taking out time and addressing on the topic waterfall mechanism under IBC. The session was very insightful and excellent. Ma'am, you are requested to share your PPD. Please I'll do that and I'm also sharing my email ID. 
+
+
+## 
+2:39:54
+If anyone has any query, I can take that query through email as well. I'm sharing my email as well as the contact details that is there on my PP as well. Okay, ma'am okay, thank you so much and have a nice evening. Everyone. Thank you, thank you for such a wonderful session. Thank you so much, thank you, thank you very much. thank you. thank you look forward to interact again, of course. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

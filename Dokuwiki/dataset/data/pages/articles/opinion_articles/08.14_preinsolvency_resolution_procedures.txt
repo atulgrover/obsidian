@@ -1,0 +1,233 @@
+# Pre-Packaged Insolvency Resolution Process
+
+This research paper examines the Pre-Packaged Insolvency Resolution Process (PPIRP) in India, a new legal framework introduced in 2021 to address the financial distress of Micro, Small, and Medium Enterprises (MSMEs). The authors compare the PPIRP to traditional corporate insolvency resolution processes, exploring its potential benefits and limitations. They discuss the challenges hindering wider adoption of the PPIRP, such as creditor apprehension and the lack of a robust adjudicating infrastructure. The paper concludes by analyzing global best practices and suggesting possible reforms to enhance the PPIRP's effectiveness and promote broader adoption.
+
+## **Pre-Insolvency Resolution Procedures: A Comprehensive Briefing**
+
+This briefing document reviews the main themes and crucial facts presented in the provided excerpt from "A Study on the Untapped Potential of Pre-Insolvency Resolution Procedures" by Archana Sharma and Anchita Sood.  
+**Executive Summary:**  
+The study examines the **Pre-Packaged Insolvency Resolution Process (PPIRP)** introduced in India in 2021 as part of the Insolvency and Bankruptcy Code (IBC). Primarily focused on Micro, Small, and Medium Enterprises (MSMEs), PPIRP aims to provide a faster, more flexible, and cost-effective alternative to the traditional Corporate Insolvency Resolution Process (CIRP). The study analyzes the framework, benefits, and challenges of PPIRP, comparing it with CIRP and exploring global perspectives on pre-pack insolvency proceedings. Despite its potential, PPIRP faces limited adoption due to various factors, including creditor apprehensions and procedural complexities. The study concludes with recommendations for enhancing PPIRP adoption and effectiveness.  
+**Main Themes:**
+
+* **Introduction of PPIRP in India:** PPIRP was introduced as a significant amendment to the IBC in 2021, specifically targeting MSMEs.  
+* *"These amendments, encapsulated in Chapter IIIA of the Code, are widely regarded as one of the most pivotal changes in the history of insolvency legislation."*  
+* **Objectives and Benefits of PPIRP:** The core objective of PPIRP is to provide a swift and cost-effective resolution framework for financially distressed MSMEs. Benefits include:  
+* Faster resolution compared to CIRP (120 days vs. potential 330 days).  
+* Reduced costs due to streamlined procedures.  
+* Business continuity with the debtor remaining in possession.  
+* Value preservation through a pre-negotiated resolution plan.  
+* *"PPIRP offers a more efficient, flexible, and controlled approach to resolving insolvency issues, benefiting distressed companies, creditors, employees, and other stakeholders alike."*  
+* **Comparative Analysis: PPIRP vs. CIRP:** The study provides a detailed comparison between PPIRP and CIRP highlighting key differences in eligibility, timelines, management control, and stakeholder involvement.  
+* *"The introduction of the PPIRP, currently applicable to MSMEs, necessitates a thorough understanding of its significant divergences from the CIRP."*  
+* **Effectiveness and Adoption Challenges:** Despite its advantages, PPIRP has witnessed limited adoption since its inception. Only ten applications were admitted by March 2024\. Several challenges hinder its wider implementation:  
+* Difficulty in obtaining consent from Financial Creditors (FCs).  
+* Apprehensions among stakeholders regarding the debtor-in-possession model.  
+* Lack of awareness and understanding of PPIRP among MSMEs.  
+* Delays in the adjudication process.  
+* *"The reluctance in adopting PPIRP can be attributed to the lack of awareness and unfamiliarity with the process, along with a perceived risk associated with its adoption."*  
+* **Global Jurisdictional Perspective:** The study examines pre-pack insolvency frameworks in jurisdictions like the UK, US, and Singapore, drawing parallels and highlighting variations in implementation and regulatory approaches.  
+* *"Despite the common terminology, nuances in pre-pack arrangements are evident across jurisdictions."*  
+* **Recommendations for Enhancing PPIRP Adoption:** The study suggests various measures to improve the adoption and effectiveness of PPIRP:  
+* Increased awareness and education initiatives for stakeholders.  
+* Addressing creditor concerns through clear guidelines and safeguards.  
+* Streamlining the adjudication process to minimize delays.  
+* Potentially expanding PPIRP to include a wider range of corporate debtors.  
+* *"Expanding the PPIRP framework to encompass a wider range of companies could accelerate the resolution of MSMEs, offering both economic benefits and flexibility."*
+
+**Key Facts:**
+
+* PPIRP was introduced as an amendment to the IBC in April 2021\.  
+* It is currently applicable only to MSMEs.  
+* The process must be completed within 120 days.  
+* The debtor remains in possession during the PPIRP, unlike CIRP.  
+* Global jurisdictions like the UK, US, and Singapore have varying pre-pack frameworks.
+
+**Conclusion:**  
+PPIRP holds significant potential to streamline insolvency resolution for MSMEs in India. However, its success hinges on addressing the existing challenges and promoting wider adoption through awareness campaigns, regulatory improvements, and stakeholder engagement. By implementing the suggested reforms, PPIRP can become a more robust and effective mechanism for reviving distressed businesses and contributing to economic growth.
+
+## **Timeline of Main Events in Indian Insolvency Law**
+
+**2015:**
+
+* **February:** Bankruptcy Law Reforms Committee (BLRC) releases an interim report, recommending against pre-pack sales without court involvement but suggesting exploring NCLT-supervised schemes.
+
+**2016:**
+
+* **Enactment of the Insolvency and Bankruptcy Code (IBC):** A landmark legislation revolutionizing India's approach to business failures and defaults, promoting timely resolution and value maximization.
+
+**2020:**
+
+* **October:** A sub-committee of the Insolvency Law Committee (ILC) presents a report on pre-packaged insolvency resolution processes, highlighting the need for streamlined mechanisms for struggling MSMEs.  
+* **Discussion of pre-packs:** Research and reports emerge, analyzing international pre-pack models (US, UK, Singapore) and exploring potential benefits for the Indian context.
+
+**2021:**
+
+* **April:** The IBC is amended to include the Pre-Packaged Insolvency Resolution Process (PPIRP) as Chapter IIIA. This amendment aims to provide an efficient resolution framework specifically for MSMEs.  
+* **July:** The ILC releases a report on PPIRP, analyzing its potential and suggesting improvements.
+
+**2023:**
+
+* **January:** The Ministry of Corporate Affairs seeks public comments on potentially expanding PPIRP to cover more than just MSMEs.  
+* **May:** The Insolvency and Bankruptcy Board of India (IBBI) publishes an expert committee report on a creditor-led resolution approach (CLRP), proposing a new framework alongside CIRP and PPIRP.
+
+**2024:**
+
+* **March:** As of this date, only ten PPIRP applications have been admitted since the process's inception, demonstrating limited adoption. Five cases have achieved resolution plans, while one was withdrawn, and four remain ongoing.
+
+## **Cast of Characters**
+
+**1\. Bankruptcy Law Reforms Committee (BLRC):** A committee instrumental in shaping India's insolvency laws, responsible for initial recommendations on pre-pack sales and their potential implementation.  
+**2\. Insolvency and Bankruptcy Code, 2016 (IBC):** The core legislation governing insolvency and bankruptcy procedures in India. It has undergone several amendments since its enactment, including the introduction of PPIRP.  
+**3\. Ministry of Micro, Small & Medium Enterprises:** The governmental body responsible for the promotion and development of MSMEs in India. They play a key role in creating awareness and initiatives related to insolvency resolution for this sector.  
+**4\. Insolvency Law Committee (ILC):** A committee tasked with reviewing and suggesting improvements to insolvency laws and procedures in India. They have played a significant role in analyzing and providing recommendations for the PPIRP framework.  
+**5\. Insolvency and Bankruptcy Board of India (IBBI):** The regulatory body overseeing the implementation of the IBC. It plays a crucial role in monitoring the effectiveness of various resolution mechanisms and proposing reforms.  
+**6\. Stakeholders:** This term broadly refers to the various parties involved in the insolvency resolution process, including:
+
+* **Corporate Debtors (CDs):** The companies facing financial distress and seeking resolution under the IBC.  
+* **Financial Creditors (FCs):** Entities like banks and financial institutions that have lent money to the CD and have a financial stake in the resolution.  
+* **Operational Creditors (OCs):** Entities that have provided goods or services to the CD and are owed payment.  
+* **Resolution Professionals (RPs):** Licensed professionals appointed to manage the insolvency process and facilitate the resolution plan.  
+* **Adjudicating Authority (AA):** The National Company Law Tribunal (NCLT), which has judicial authority over insolvency proceedings.
+
+**7\. Archana Sharma and Anchita Sood:** Authors of the study on the untapped potential of Pre-Insolvency Resolution Procedures, providing insights into PPIRP's framework, benefits, challenges, and potential improvements.
+
+## **Navigating Pre-Insolvency Resolution Procedures: A Deep Dive into India's Evolving Insolvency Landscape**
+
+**I. Introduction to the Insolvency and Bankruptcy Code (IBC)**
+
+* **A. IBC as a Game Changer:** This section highlights the IBC's transformative impact on India's insolvency landscape, emphasizing its proactive and time-bound approach to resolving business failures.  
+* **B. Dynamic Policy Interventions:** This section explores the various amendments and policy interventions undertaken to strengthen the IBC framework, adapting it to the evolving economic realities and stakeholder needs.
+
+**II. Pre-Packaged Insolvency Resolution Process (PPIRP): A New Avenue for MSMEs**
+
+* **A. Conceptualizing PPIRP:** This section provides an in-depth overview of the PPIRP framework, emphasizing its hybrid nature that blends informal and formal insolvency procedures, offering a swift and cost-effective resolution mechanism for MSMEs.  
+* **B. The Rationale for Including MSMEs:** This section examines the motivations behind the inclusion of MSMEs in the PPIRP framework, highlighting their vulnerability and the need for a streamlined resolution mechanism to ensure economic resilience.  
+* **C. Eligibility Criteria for PPIRP:** This section outlines the specific conditions that corporate debtors (CDs) must fulfill to be eligible for initiating the PPIRP process, focusing on default conditions, stakeholder approvals, and relevant legal provisions.  
+* **D. Understanding the PPIRP Process:** This section delves into the procedural stages of the PPIRP, from application initiation to completion, detailing the roles of different stakeholders, timelines, and key milestones.
+
+**III. Comparative Analysis: PPIRP vs. Corporate Insolvency Resolution Process (CIRP)**
+
+* **A. Key Differences and Potential Benefits:** This section provides a detailed comparative analysis of the PPIRP and CIRP, highlighting the unique features, potential benefits, and limitations of each process, focusing on aspects like timelines, management control, and stakeholder involvement.  
+* **B. Unpacking the Benefits of PPIRP:** This section delves into the specific advantages offered by the PPIRP framework, emphasizing its efficiency in resolving insolvency issues, preserving business value, and empowering debtors with greater control over the restructuring process.  
+* **C. Assessing the Effectiveness of PPIRP:** This section examines the effectiveness of PPIRP in practice, analyzing the limited adoption rates and challenges encountered, drawing on stakeholder perspectives and case studies to assess its impact on insolvency resolution.
+
+**IV. Global Jurisdictional Perspectives on Pre-Pack Arrangements**
+
+* **A. Pre-Pack Implementation Across Jurisdictions:** This section explores the diverse approaches to pre-pack insolvency frameworks in different countries, including the UK, US, and Singapore, comparing their implementation models, regulatory frameworks, and eligibility criteria.  
+* **B. Analyzing the Nuances of Pre-Pack Arrangements:** This section delves into the subtle distinctions between pre-negotiated reorganizations, pre-packaged reorganizations, and pre-packaged sales, highlighting how terminology and regulatory practices vary across jurisdictions.
+
+**V. Challenges and Limitations in Implementing PPIRP**
+
+* **A. Stakeholder Perspectives on Obstacles:** This section presents stakeholder perspectives on the practical challenges and obstacles encountered in implementing PPIRPs, focusing on issues related to securing financial creditor (FC) consent, risk aversion, and institutional limitations.  
+* **B. Uncovering the Roots of Resistance to PPIRPs:** This section analyzes the underlying reasons for the limited adoption of PPIRPs, exploring the perspectives of both corporate debtors and FCs, highlighting potential concerns about scrutiny, haircuts, and the complexity of the process.
+
+**VI. Refining the Future: Enhancing Adoption and Effectiveness of PPIRP**
+
+* **A. Promoting a Shift in Perspective:** This section advocates for a change in mindset among stakeholders, encouraging greater collaboration and a willingness to explore restructuring proposals, emphasizing the importance of preserving the operational continuity of MSMEs.  
+* **B. Reviewing Connected Persons and Base Resolution Plans:** This section discusses the role of connected persons in PPIRP, addressing concerns about their involvement in proposing resolution plans, and advocating for a balanced approach that recognizes their expertise while mitigating potential risks.  
+* **C. Facilitating Awareness and Empowerment of MSMEs:** This section highlights the need for increased awareness campaigns and educational initiatives to empower MSMEs and promote wider understanding and acceptance of the PPIRP framework as a viable resolution mechanism.  
+* **D. Leveraging Government Support and Proposed Reforms:** This section explores the role of government and regulatory interventions in enhancing the effectiveness of PPIRP, focusing on proposed reforms aimed at expanding its scope, streamlining procedures, and addressing stakeholder concerns.
+
+**VII. Conclusion: The Future of Pre-Insolvency Resolution in India**
+
+* **A. Recap of Key Insights and Challenges:** This section summarizes the key insights and challenges associated with the PPIRP framework, emphasizing the need for continued efforts to refine its implementation and address stakeholder concerns.  
+* **B. A Vision for a Robust and Inclusive Insolvency Ecosystem:** This section concludes with a forward-looking perspective, advocating for a robust and inclusive insolvency ecosystem that leverages the potential of pre-insolvency resolution mechanisms like PPIRP to facilitate timely and efficient resolution of financial distress, fostering economic resilience and sustainable growth in India.
+
+# **PPIRP FAQ: India's Pre-Packaged Insolvency Resolution Process**
+
+## **1\. What is the Pre-Packaged Insolvency Resolution Process (PPIRP)?**
+
+PPIRP is a hybrid insolvency resolution mechanism introduced in India's Insolvency and Bankruptcy Code, 2016 (IBC), specifically for Micro, Small, and Medium Enterprises (MSMEs). It combines the speed and flexibility of out-of-court settlements with the legal framework of formal insolvency proceedings. In PPIRP, the debtor and creditors negotiate a resolution plan *before* formally initiating insolvency proceedings.
+
+## **2\. How does PPIRP differ from the Corporate Insolvency Resolution Process (CIRP)?**
+
+Here are some key differences:  
+FeatureCIRPPPIRPEligibilityAll companies and LLPsOnly MSMEsMinimum Default₹1 Crore₹10 LakhTimelineUp to 330 days (180+90 extension)120 days (no extension)ManagementVested with Resolution Professional (RP)Remains with existing management, monitored by RPBase Resolution PlanNot applicableSubmitted by the debtor to creditors before initiationPPIRP is designed to be faster, less disruptive to business operations, and more cost-effective than CIRP.
+
+## **3\. What are the benefits of using PPIRP?**
+
+PPIRP offers several advantages:
+
+* **Speed and Efficiency:** Resolutions are typically achieved within 120 days, significantly faster than CIRP.  
+* **Business Continuity:** Existing management retains control, minimizing disruption to operations.  
+* **Cost Savings:** Reduced legal and administrative expenses compared to CIRP.  
+* **Value Preservation:** By enabling faster resolution, PPIRP helps preserve the value of the business and its assets.  
+* **Enhanced Creditor Confidence:** The pre-negotiated nature of the resolution plan instills greater confidence in creditors.
+
+## **4\. Why has the adoption of PPIRP been limited?**
+
+Despite its benefits, PPIRP adoption has been slow due to several challenges:
+
+* **Reluctance of Financial Creditors:** Many financial creditors are hesitant to consent to PPIRP due to concerns about risk and lack of familiarity with the process.  
+* **Difficulty in Convincing Stakeholders:** Educating stakeholders about the benefits of PPIRP and addressing their concerns remains a challenge.  
+* **Delays in Decision-Making:** Delays in obtaining approvals and arranging funds can hinder the effectiveness of PPIRP.  
+* **Lack of Awareness among MSMEs:** Many MSMEs are unaware of PPIRP or perceive it as complex and risky.
+
+## **5\. How can the adoption of PPIRP be improved?**
+
+Several measures can be taken to enhance PPIRP adoption:
+
+* **Increased Awareness and Education:** Conducting outreach programs and workshops to educate MSMEs and creditors about PPIRP.  
+* **Streamlining the Process:** Simplifying procedural requirements and addressing bottlenecks to expedite decision-making.  
+* **Addressing Creditor Concerns:** Providing clear guidelines and safeguards to mitigate risks and build creditor confidence.  
+* **Government Support:** Offering incentives and support mechanisms to encourage participation in PPIRP.
+
+## **6\. Are there any global best practices that India can learn from?**
+
+Yes, studying pre-pack frameworks in countries like the UK, US, and Singapore can provide valuable insights. Learning from their experiences in areas like:
+
+* **Eligibility Criteria:** Expanding PPIRP eligibility beyond MSMEs to include other financially distressed companies.  
+* **Regulation and Oversight:** Establishing clear regulatory guidelines and oversight mechanisms to ensure transparency and fairness.  
+* **Creditor Involvement:** Balancing creditor rights with the need for swift resolution.
+
+## **7\. What are the future prospects for PPIRP in India?**
+
+The Indian government is actively considering expanding the scope of PPIRP and refining its framework based on stakeholder feedback and global best practices. If implemented effectively, PPIRP has the potential to become a valuable tool for resolving insolvency and supporting the revival of distressed businesses in India.
+
+## **8\. What are the key takeaways for stakeholders?**
+
+* PPIRP offers a faster, more flexible, and cost-effective alternative to traditional insolvency resolution for MSMEs.  
+* Overcoming challenges related to creditor reluctance, awareness, and procedural complexities is crucial for wider adoption.  
+* Learning from global best practices and continuously refining the framework can enhance the effectiveness of PPIRP in the Indian context.
+
+## **Navigating Pre-Insolvency Resolution Procedures: A Deep Dive into India's PPIRP**
+
+### **Quiz**
+
+**Instructions:** Answer the following questions in 2-3 sentences each.
+
+* What is the primary objective of the Insolvency and Bankruptcy Code (IBC) in India?  
+* How does the Pre-Packaged Insolvency Resolution Process (PPIRP) differ from the Corporate Insolvency Resolution Process (CIRP) regarding the initiation of proceedings?  
+* Explain the concept of a "base resolution plan" in the PPIRP framework.  
+* What are the key advantages of PPIRP in terms of cost and time efficiency compared to traditional insolvency processes?  
+* How does the PPIRP aim to preserve the value of a distressed company during the resolution process?  
+* Despite its potential benefits, what has been a significant limiting factor in the widespread adoption of PPIRP in India?  
+* Describe one common challenge faced by stakeholders when attempting to implement PPIRP.  
+* How does the PPIRP in India compare to pre-pack insolvency procedures in the United Kingdom regarding regulatory frameworks?  
+* What is one potential reform proposed to address the limited adoption of PPIRP and enhance its effectiveness?  
+* Briefly discuss the role of government and regulatory bodies in promoting the successful implementation of PPIRP.
+
+### **Quiz Answer Key**
+
+* The primary objective of the IBC is to provide a time-bound and market-driven framework for resolving insolvency in India, maximizing the value of assets for stakeholders and promoting entrepreneurship.  
+* In PPIRP, the debtor company plays a more active role in initiating proceedings once an informal agreement on a resolution plan is reached with creditors, unlike CIRP, where creditors typically initiate the process.  
+* The base resolution plan is a pre-negotiated plan submitted by the debtor company to financial creditors for their approval before formally initiating PPIRP. It outlines the proposed restructuring measures and financial arrangements to address the insolvency.  
+* PPIRP offers cost efficiency due to fewer legal and administrative hurdles compared to traditional processes. It also provides time efficiency by streamlining the resolution timeline and minimizing delays associated with litigation.  
+* PPIRP aims to preserve value by allowing the company to continue operations under the existing management during the resolution process. This ensures business continuity, safeguarding relationships with customers, suppliers, and employees, thus preserving the company's operational integrity.  
+* The limited adoption of PPIRP is significantly attributed to the reluctance or hesitation of financial creditors, particularly banks, to provide consent for resolution plans due to risk aversion or a lack of familiarity with the framework.  
+* A common challenge is convincing financial creditors to agree to the proposed resolution plan. This difficulty may stem from concerns about potential haircuts on their claims, uncertainty about the viability of the restructuring, or a general preference for traditional insolvency processes.  
+* In India, PPIRP is governed by specific legislation within the IBC, whereas in the UK, pre-pack insolvency procedures primarily rely on court guidelines and established market practices rather than strict statutory regulations.  
+* One proposed reform is to lower the required threshold for financial creditor approval to initiate PPIRP. Reducing the percentage of creditor consent needed could expedite the decision-making process and encourage greater participation in the framework.  
+* Government and regulatory bodies play a crucial role in promoting PPIRP by providing a supportive legal and administrative framework, offering educational initiatives to raise awareness among stakeholders, and establishing clear guidelines and oversight mechanisms to ensure transparency and accountability in the process.
+
+### **Essay Questions**
+
+* Analyze the rationale behind introducing the PPIRP framework in India, specifically focusing on its intended benefits for Micro, Small, and Medium Enterprises (MSMEs). Discuss how the characteristics of MSMEs make them particularly suitable for this alternative insolvency resolution mechanism.  
+* Critically evaluate the effectiveness of PPIRP in achieving its objectives within the Indian insolvency landscape. Support your arguments with evidence from implemented cases, highlighting both successes and limitations. Explore potential reasons for the limited adoption of PPIRP despite its purported advantages.  
+* Compare and contrast the PPIRP framework in India with pre-pack insolvency procedures in other jurisdictions, such as the United Kingdom and the United States. Analyze the similarities and differences in their approaches, regulatory frameworks, and stakeholder roles. Discuss potential best practices that India could adopt from international experiences to improve the effectiveness of PPIRP.  
+* Discuss the challenges and obstacles faced by stakeholders in implementing PPIRP, focusing on the perspectives of both debtors and creditors. Analyze the underlying reasons for reluctance or resistance towards adopting this framework. Propose practical solutions and policy recommendations to address these challenges and encourage wider utilization of PPIRP.  
+* Explore the potential role of government and regulatory bodies in shaping the future of PPIRP in India. Discuss specific measures they could take to promote greater awareness, streamline processes, and enhance the efficacy of this insolvency resolution mechanism. Consider the impact of proposed reforms and the importance of creating a supportive ecosystem for successful implementation.
+
+### **Glossary of Key Terms**
+
+TermDefinition**Insolvency and Bankruptcy Code (IBC)**The primary legal framework governing insolvency and bankruptcy proceedings in India, aimed at facilitating timely and efficient resolution of financial distress in companies and individuals.**Pre-Packaged Insolvency Resolution Process (PPIRP)**An alternative insolvency resolution mechanism introduced in India under the IBC, specifically designed for MSMEs, characterized by a pre-negotiated resolution plan agreed upon by the debtor and creditors before formal proceedings.**Corporate Insolvency Resolution Process (CIRP)**The standard insolvency resolution process under the IBC for companies other than MSMEs, typically initiated by creditors and involving the appointment of an insolvency professional to manage the company during the resolution process.**Resolution Professional (RP)**A licensed professional appointed by the Adjudicating Authority (National Company Law Tribunal) to oversee the insolvency resolution process, manage the company's affairs, and facilitate negotiations between debtors and creditors.**Base Resolution Plan**A pre-drafted plan outlining the proposed restructuring measures, financial arrangements, and terms of settlement agreed upon by the debtor and financial creditors before initiating the PPIRP.**Financial Creditor (FC)**An entity or individual to whom a financial debt is owed by the debtor company. Typically includes banks, financial institutions, and debenture holders.**Operational Creditor (OC)**An entity or individual to whom an operational debt is owed by the debtor company, arising from the provision of goods or services in the ordinary course of business.**Adjudicating Authority (AA)**The National Company Law Tribunal (NCLT), which has the authority to adjudicate matters related to insolvency and bankruptcy under the IBC, including admitting or rejecting applications for insolvency resolution.**Moratorium**A legal protection granted to the debtor company during the insolvency resolution process, prohibiting creditors from taking any legal action for recovery of their dues, allowing for a period of negotiation and restructuring.**Committee of Creditors (CoC)**A committee formed by the financial creditors of the debtor company to make key decisions during the insolvency resolution process, including approving or rejecting the resolution plan.**Haircut**The reduction in the amount owed to creditors as part of the resolution plan, agreed upon to facilitate the revival of the debtor company and ensure a fair distribution of available assets among stakeholders.**Debtor-in-Possession**A scenario in insolvency proceedings where the existing management of the debtor company retains control over the operations and assets during the resolution process, typically observed in PPIRP.This comprehensive study guide equips you with the knowledge and resources necessary for a thorough understanding of pre-insolvency resolution procedures, particularly the nuances of PPIRP within the Indian context.  

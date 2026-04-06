@@ -1,0 +1,6 @@
+Rule-Based Reasoning Agent
+The Rule-Based Reasoning Agent applies statutory logic to evaluate options, interpret regulations, and test outcomes against legal norms. It encodes the decision rules from the IBC, Companies Act, and procedural regulations into a structured framework, enabling consistent, rule-compliant reasoning. This ensures that every recommendation or clause suggested during settlement aligns with applicable law.
+
+It functions as a digital compliance layer, automatically identifying logical conflicts, breaches of eligibility (such as Section 29A), or violations of procedural mandates. By doing so, it prevents formulation of outcomes that may later be challenged or rejected by adjudicating authorities. The agent essentially acts as a “legal sanity checker” within the decision-support workflow.
+
+Moreover, it can simulate multiple outcomes based on different rule conditions or CoC decisions. This helps professionals visualize the legal implications of each choice, improving negotiation efficiency and legal defensibility in insolvency resolutions or settlements.

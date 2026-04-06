@@ -1,0 +1,21 @@
+<WRAP group>
+
+<WRAP half column>
+|{{:agent_icon.png?100}}|**[[rbz_forms:insolvency_forms:application_forms|Application Forms]]** - Tests knowledge of insolvency law, IBC procedures, case laws, and practical application in corporate and individual insolvency resolution. |
+</WRAP>
+
+<WRAP half column>
+|{{:agent_icon.png?100}}|**[[rbz_forms:insolvency_forms:claim_forms|Claim Forms]]** - Assesses understanding of valuation principles for shares, securities, and financial instruments using accounting and market-based methods.|
+</WRAP>
+
+</WRAP>
+
+
+<WRAP group>
+
+<WRAP half column>
+|{{:agent_icon.png?100}}|**[[rbz_forms:insolvency_forms:process_forms|Process Forms]]** - Evaluates skills in valuing real estate assets through cost, income, and market approaches in compliance with valuation standards.|
+</WRAP>
+
+
+</WRAP>

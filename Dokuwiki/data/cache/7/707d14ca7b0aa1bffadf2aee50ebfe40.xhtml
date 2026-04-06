@@ -1,0 +1,119 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Transaction Pattern Recognition Agent (TPRA)&quot;,
+&quot;agentDescription&quot;: &quot;Analyzes large volumes of financial transaction data using machine learning and rule-based systems to detect patterns indicative of potential Preferential, Undervalued, Fraudulent, or Extortionate (PUFE) transactions, as relevant under insolvency laws (e.g., IBC Sections 43, 45, 50, 66). Flags suspicious activities for detailed investigation by forensic auditors.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Efficiently process and analyze large datasets of financial transactions (bank statements, ledger entries).&quot;,
+  &quot;Identify known patterns associated with PUFE transactions (e.g., transactions near the insolvency commencement date, transfers to related parties, unusual timing or amounts, transactions without apparent economic rationale).&quot;,
+  &quot;Detect anomalous transactions or sequences that deviate significantly from the debtor&#039;s normal financial behavior.&quot;,
+  &quot;Highlight potential round-tripping, layering, or other complex transaction structures.&quot;,
+  &quot;Reduce manual effort in preliminary transaction screening.&quot;,
+  &quot;Generate a prioritized list of transactions/patterns requiring further forensic investigation.&quot;,
+  &quot;Identify potential dissipation of assets or diversion of funds.&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Data Ingestion &amp; Integration: Connects to diverse data sources (bank statement exports, ERP systems, accounting software).&quot;,
+  &quot;Data Cleansing &amp; Standardization: Prepares raw transaction data for analysis (handling missing values, standardizing descriptions).&quot;,
+  &quot;Feature Engineering: Creates relevant features from transactions (e.g., time proximity to insolvency date, relation to known parties, transaction frequency/velocity, deviation from historical norms).&quot;,
+  &quot;Rule-Based Filtering: Applies predefined rules based on statutory definitions and common red flags for PUFE transactions.&quot;,
+  &quot;Machine Learning Anomaly Detection: Uses algorithms (e.g., Isolation Forest, One-Class SVM, Clustering, Autoencoders) to identify transactions statistically different from the norm.&quot;,
+  &quot;Supervised Learning (Optional): If trained on labelled historical data, classifies transactions based on learned PUFE characteristics.&quot;,
+  &quot;Related Party Transaction Identification: Flags transactions involving known related parties (requires input list).&quot;,
+  &quot;Network Analysis (Optional/Advanced): Visualizes fund flows between accounts/entities to detect complex schemes.&quot;,
+  &quot;Risk Scoring: Assigns risk scores to flagged transactions based on the severity and number of red flags detected.&quot;,
+  &quot;Explainable AI (XAI): Provides reasons/factors contributing to why a specific transaction or pattern was flagged.&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Forensic Auditors&quot;,
+  &quot;Insolvency Professionals (IPs) / Resolution Professionals (RPs)&quot;,
+  &quot;Liquidators&quot;,
+  &quot;Legal Teams handling avoidance applications&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Detailed Bank Statements (all relevant accounts, preferably electronic format).&quot;,
+  &quot;General Ledger and Sub-ledger transaction data.&quot;,
+  &quot;Accounts Payable / Accounts Receivable records.&quot;,
+  &quot;List of known Related Parties (as per Companies Act / Accounting Standards).&quot;,
+  &quot;Relevant Dates (Insolvency Commencement Date, start of look-back periods defined by law).&quot;,
+  &quot;Debtor&#039;s historical financial statements (for establishing norms).&quot;,
+  &quot;Asset Registers / Loan details (contextual information).&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;List of Flagged Transactions/Patterns (CSV, XLSX, JSON) - including transaction details, detected pattern/anomaly type, risk score, explanation.&quot;,
+  &quot;Suspicious Activity Report (PDF, HTML) summarizing key findings.&quot;,
+  &quot;Data Visualization Dashboards showing trends, outliers, and potentially network graphs.&quot;,
+  &quot;Prioritized worklist for forensic auditors.&quot;,
+  &quot;Audit trail of analysis performed.&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Significantly accelerates the review of vast amounts of transaction data.&quot;,
+  &quot;Increases the likelihood of detecting sophisticated or hidden PUFE transactions.&quot;,
+  &quot;Allows auditors to focus investigative efforts on the highest-risk areas.&quot;,
+  &quot;Provides objective, data-driven basis for further inquiry.&quot;,
+  &quot;Supports the identification and quantification of recoverable assets.&quot;,
+  &quot;Enhances consistency in the preliminary review process.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Data Acquisition &amp; Integration&quot;,
+    &quot;tools&quot;: [
+      &quot;Database Connectors (SQL, specific ERP connectors if possible)&quot;,
+      &quot;File Parsers (CSV, Excel, fixed-width, potentially specific bank formats like MT940)&quot;,
+      &quot;Optical Character Recognition (OCR) tools (if dealing with scanned statements)&quot;,
+      &quot;ETL (Extract, Transform, Load) tools (e.g., Talend, Informatica, or custom scripts using Pandas/Spark)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Processing &amp; Analysis&quot;,
+    &quot;tools&quot;: [
+      &quot;Data Manipulation Libraries (Pandas, Dask, Apache Spark - for scalability)&quot;,
+      &quot;Numerical Computation Libraries (NumPy)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Machine Learning &amp; AI&quot;,
+    &quot;tools&quot;: [
+      &quot;Core ML Frameworks (Scikit-learn - essential for anomaly detection, clustering, classification)&quot;,
+      &quot;Deep Learning Frameworks (Optional - TensorFlow, PyTorch for Autoencoders)&quot;,
+      &quot;Explainable AI (XAI) Libraries (SHAP, LIME)&quot;,
+      &quot;Statistical Libraries (SciPy, StatsModels)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Network/Graph Analysis (Optional)&quot;,
+    &quot;tools&quot;: [
+      &quot;Graph Libraries (NetworkX)&quot;,
+      &quot;Graph Databases (Neo4j, TigerGraph - for storing and querying relationships)&quot;,
+      &quot;Graph Visualization Tools (Gephi, Cytoscape.js)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Storage&quot;,
+    &quot;tools&quot;: [
+      &quot;Relational Databases (PostgreSQL, MySQL - for structured transaction data, results)&quot;,
+      &quot;Data Warehouses / Data Lakes (Snowflake, Redshift, S3 - for large volumes)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Reporting &amp; Visualization&quot;,
+    &quot;tools&quot;: [
+      &quot;Data Visualization Libraries (Matplotlib, Seaborn, Plotly, Bokeh)&quot;,
+      &quot;Business Intelligence Tools (Tableau, Power BI, Qlik Sense)&quot;,
+      &quot;Reporting Libraries (ReportLab for PDFs)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Workflow Orchestration&quot;,
+    &quot;tools&quot;: [
+      &quot;Workflow Management Tools (Airflow, Prefect, Dagster)&quot;
+    ]
+  }
+]</pre>
+
+<p>
+}
+</p>

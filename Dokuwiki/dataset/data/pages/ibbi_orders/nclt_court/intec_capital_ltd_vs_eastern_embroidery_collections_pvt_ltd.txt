@@ -1,0 +1,252 @@
+<html>
+<p>
+	<div>
+		<h1>
+			An application u/s 95(1) of IBC can only be filed after the expiry of period 14 days from the date of service of demand notice under Section 95(4)(b) of the IBC &ndash; Intec Capital Limited Vs. Eastern Embroidery Collections Private Limited &ndash; NCLT New Delhi Bench Court-V
+		</h1>
+		<div>
+			April 27, 2021
+		</div>
+		<p>
+			On co-joint reading of Section 95 of IBC with Rule 7 of AAA(IRPPG) Rules, 2019, made it clear, an application under Section 95 shall only be filed, on failure of debtor to pay the debt within the period of 14 days of service of the demand notice, served u/s 95(4) which means an application u/s 95(1) can only be filed after the expiry of period 14 days from the date of service of demand notice under Section 95(4)(b) of the IBC.&nbsp;Applying the aforesaid provisions, when we consider the application filed by the applicant then we noticed that the applicant/creditor has filed under Section 7 of the IBC not under Section 95 of IBC. Secondly, the applicant has filed the application for initiation of CIRP not against the Corporate Debtor rather against the personal guarantor. Therefore, the applicant is required to submit an application in Form C under Section 95(1) of the IBC and that too after service of demand notice as required under Section 95(4)(b) read with Rule 7 of AAA(IRPPG) Rules, 2019 and if the debt is not paid within 14 days from the date of service of demand notice.(p21-22)
+		</p>
+	</div>
+</p>
+<div>
+	<div>
+		<div>
+			<p>
+				<div>
+					<div>
+						<p>
+							<strong>
+								I. Case Reference
+							</strong>
+						</p>
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										Case Citation
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										(2021)  410 NCLT
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Case Name
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Intec Capital Ltd. Vs. Eastern Embroidery Collections Pvt. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Financial Creditor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Intec Capital Limited&nbsp;
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Corporate Debtor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Eastern Embroidery Collections Pvt. Ltd.&nbsp;
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Appeal No.
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										CP(IB) 161 (ND)/2021&nbsp;
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Judgment Date
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										27-Apr-21
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Court/Bench
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										NCLT New Delhi Bench Court-V
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Act
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Insolvency &amp; Bankruptcy Code 2016
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Judicial)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Shri. Abni Ranjan Kumar Sinha
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Technical)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Shri Kapal Kumar Vohra
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Case Status
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Set aside by NCLAT, reported at&nbsp;(2021)  500 NCLAT
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<p>
+							<strong>
+								II. Brief about the decision
+							</strong>
+						</p>
+						<p>
+							<em>
+								<strong>
+									Facts of the case
+								</strong>
+							</em>
+						</p>
+						<p>
+							M/s. Eastern Overseas is a Partnership firm (Borrower) is engaged in the business of Embroidery and similar activities and approached Intec for loan facilities originally along with M/s Eastern Embroidery Collections Pvt. Ltd. (Respondent or Corporate Debtor) who furnished Corporate guarantee in the financial facility availed and stepped into shoes of borrower subsequently. Since the Corporate Debtor has failed to repay the loan, therefore, the present application is filed against the personal guarantor to initiate the CIRP against the personal guarantor.
+						</p>
+						<p>
+							<em>
+								<strong>
+									Decision of the Adjudicating Authority
+								</strong>
+							</em>
+						</p>
+						<p>
+							Decision of the Adjudicating Authority is summarised in the following points:
+						</p>
+						<ul>
+							<li>
+								Rule 3(1)(f) of the&nbsp;AAA(IRPPG) Rules, 2019(w.e.f 01.12.2019) defines the word guarantors i.e.&nbsp;
+								<em>
+									&ldquo;guarantor&rdquo; means a debtor who is a personal guarantor to a corporate debtor and in respect of whom guarantee has been invoked by the creditor and remains unpaid in full or part.
+								</em>
+								&nbsp;A bare perusal of the definition shows to file an application against the personal guarantors, two things is required to establish, (i) a person is a personal guarantor to a corporate debtor and (ii) in respect of that the creditor has invoked the guarantee and same is remain unpaid in full or part.
+								<strong>
+									(p15-16)
+								</strong>
+							</li>
+							<li>
+								A bare perusal of Rule 7 of&nbsp;AAA(IRPPG) Rules, 2019, quoted below, shows that before filing an application under Section 95 of the IBC, a demand notice under clause (b) under Sub Section 4 of Section 95 of the IBC shall be served upon the guarantor demanding the payment of amount of default in Form B and the application under Sub Section 1 of Section 95 of IBC shall be submitted in Form C:
+							</li>
+						</ul>
+						<ul>
+							<li>
+								<ul>
+									<li>
+										A demand notice under clause (b) of sub-p (4) of p 95 shall be served on the guarantor demanding payment of the amount of default, in Form B.
+									</li>
+									<li>
+										The application under sub-p (1) of p 95 shall be submitted in Form C, along with a fee of two thousand rupees.
+									</li>
+									<li>
+										The creditor shall serve forthwith a copy of the application referred to in sub-rule (2) to the guarantor and the corporate debtor for whom the guarantor is a personal guarantor.
+									</li>
+									<li>
+										In case of a joint application, the creditors may nominate one amongst themselves to act on behalf of all the creditors.
+										<strong>
+											(p17-18)
+										</strong>
+									</li>
+								</ul>
+							</li>
+						</ul>
+						<ul>
+							<li>
+								A bare perusal of the Section 95 of the IBC shows that an&nbsp;
+								<u>
+									<u>
+										application by the creditor against the personal guarantor shall be filed under Section 95(1) of the IBC and according to Section 95(4) of IBC (i)an application under sub-
+									</u>
+								</u>
+								<u>
+									p (1) shall be accompanied with details and documents relating to the debts owed by the debtor to the creditor or creditors submitting the application for insolvency resolution process as on the date of application, (ii) it shall only be filed on failure by the debtor to pay the debt within a period of fourteen days of the service of the notice of demand and (iii) supported with relevant evidence of such default or non-repayment of debt.
+									<strong>
+										(p19-20)
+									</strong>
+								</u>
+							</li>
+							<li>
+								On co-joint reading of Section 95 of IBC with Rule 7 of&nbsp;AAA(IRPPG) Rules, 2019, made it clear, an application under Section 95 shall only be filed, on failure of debtor to pay the debt within the period of 14 days of service of the demand notice, served u/s 95(4) which means an application u/s 95(1) can only be filed after the expiry of period 14 days from the date of service of demand notice under Section 95(4)(b) of the IBC.
+								<strong>
+									<u>
+										&nbsp;Applying the aforesaid provisions, when we consider the application filed by the applicant then we noticed that the applicant/creditor has filed under Section 7 of the IBC not under Section 95 of IBC.
+									</u>
+								</strong>
+								<strong>
+									&nbsp;Secondly, the applicant has filed the application for initiation of CIRP not against the Corporate Debtor rather against the personal guarantor. Therefore, the applicant is required to submit an application in Form C under Section 95(1) of the IBC and that too after service of demand notice as required under Section 95(4)(b) read with Rule 7 of&nbsp;AAA(IRPPG) Rules, 2019&nbsp;and if the debt is not paid within 14 days from the date of service of demand notice.
+								</strong>
+								(p21-22)
+							</li>
+						</ul>
+						<p>
+							Herein the case in hand, the application has not produced any document to show that the demand notice as required under Section 95(4)(b) of the IBC read with Rule 7 of&nbsp;AAA(IRPPG) Rules, 2019&nbsp;was ever served upon the personal guarantor. Therefore, in our considered view, the present application is filed by the applicant is not maintainable. Accordingly, the present application stands dismissed.&nbsp;However, the applicant is at liberty to file a fresh application in accordance with the provisions of law.
+							<strong>
+								(p23-25)
+							</strong>
+						</p>
+					</div>
+				</div>
+			</p>
+		</div>
+	</div>
+</div>
+</html>

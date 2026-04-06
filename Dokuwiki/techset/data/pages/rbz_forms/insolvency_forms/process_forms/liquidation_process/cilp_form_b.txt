@@ -1,0 +1,40 @@
+{{tag>judicial_process:insolvency_process form_type:process_forms process_type:liquidation_process stakeholder_type:insolvency_professional}}
+
+====== Public Announcement - Corporate Liquidation - CILP Form B ======
+==== FORM B – Public Announcement (Liquidation Process) ==== 
+(Regulation 12 of the IBBI (Liquidation Process) Regulations, 2016) - {{pdf:vol_liquidation_process_form_b.pdf}}
+
+
+<form>
+Action mail liquidator@example.com
+Subject "Form B – Liquidation Public Announcement"
+Thanks "Thank you for submitting Form B details."
+
+fieldset "Corporate Debtor Details"
+textbox "Name of Corporate Debtor" !
+textbox "Date of Incorporation (DD-MM-YYYY)" !
+textbox "Authority of Incorporation / Registration" !
+textbox "CIN / LLPIN" !
+textarea "Registered Office and Principal Office Address" !
+
+fieldset "Process Information"
+textbox "Date of Closure of Insolvency Resolution Process" !
+textbox "Liquidation Commencement Date (DD-MM-YYYY)" !
+textbox "NCLT Bench Name" !
+
+fieldset "Liquidator Details"
+textbox "Name of Liquidator" !
+textbox "IBBI Registration Number" !
+textbox "Liquidator Address (Registered with IBBI)" !
+email   "Liquidator Email (Registered with IBBI)" !
+textbox "Correspondence Address" !
+email   "Correspondence Email" !
+
+fieldset "Claim Information"
+textbox "Last Date for Submission of Claims (DD-MM-YYYY)" !
+
+fieldset "Verification"
+static "Submission of false or misleading proof of claims shall attract penalties."
+yesno  "I declare the information above is true and correct." !
+submit "Submit Form B in order to initiate CIVLP agent B"
+</form>

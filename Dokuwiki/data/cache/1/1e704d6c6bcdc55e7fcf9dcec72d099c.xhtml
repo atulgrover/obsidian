@@ -1,0 +1,128 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Financial Information Management Agent (FIMA)&quot;,
+&quot;agentDescription&quot;: &quot;Acts as a centralized repository and analytical tool for the Committee of Creditors (CoC) and its advisors. Manages, analyzes, and securely disseminates financial data (statements, valuations, reports) provided by the Insolvency/Resolution Professional (IP/RP), enabling the CoC to effectively monitor the corporate debtor&#039;s financial health and evaluate resolution plans.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Provide CoC members and their advisors with secure, timely access to critical financial information.&quot;,
+  &quot;Organize and manage financial documents received from the IP/RP.&quot;,
+  &quot;Automate basic analysis of financial statements (ratios, trends) tailored for CoC oversight.&quot;,
+  &quot;Present key findings from valuation reports (LV, FV) and cash flow monitoring.&quot;,
+  &quot;Facilitate comparison between historical financials, current performance, and projections in resolution plans.&quot;,
+  &quot;Track key financial indicators and alert the CoC to significant changes or red flags.&quot;,
+  &quot;Ensure data consistency and provide a single source of truth for financial information reviewed by the CoC.&quot;,
+  &quot;Support the CoC&#039;s evaluation of the debtor&#039;s viability and the feasibility of resolution plans.&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Secure Document Repository: Stores financial statements, valuation reports, IMs, cash flow reports, etc., with version control and access logs.&quot;,
+  &quot;Data Ingestion &amp; Extraction: Processes reports from the IP/RP (PDF, Excel) and extracts key data points.&quot;,
+  &quot;Access Control Management: Grants access permissions based on user roles (CoC Member, Advisor, IP/RP support).&quot;,
+  &quot;Financial Health Dashboard: Displays key performance indicators, ratios, and summaries relevant for CoC assessment.&quot;,
+  &quot;Trend Analysis: Shows historical financial performance trends.&quot;,
+  &quot;Comparative Analysis: Enables comparison of different data sets (e.g., LV vs. FV, Historical vs. Projected in plans).&quot;,
+  &quot;Ratio Calculation Engine: Calculates relevant liquidity, solvency, and profitability ratios.&quot;,
+  &quot;Notification System: Alerts CoC members/advisors about new document uploads or critical financial updates.&quot;,
+  &quot;Basic Reporting: Generates summary reports on financial status or specific analyses for CoC meetings.&quot;,
+  &quot;Search Functionality: Allows users to search within documents or datasets.&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Members of the Committee of Creditors (CoC)&quot;,
+  &quot;Financial Advisors to the CoC&quot;,
+  &quot;Legal Advisors to the CoC&quot;,
+  &quot;Insolvency Professional (IP) / Resolution Professional (RP) (primarily as data providers, possibly viewers)&quot;,
+  &quot;Support Staff for CoC/IP/RP&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Financial Statements (Historical, Provisional/Interim) submitted by IP/RP.&quot;,
+  &quot;Valuation Reports (Liquidation Value, Fair Value) submitted by IP/RP.&quot;,
+  &quot;Information Memorandum (IM) prepared by IP/RP.&quot;,
+  &quot;Regular Cash Flow Monitoring Reports (if provided by IP/RP).&quot;,
+  &quot;Proposed Resolution Plans (including financial projections).&quot;,
+  &quot;List of authorized users (CoC members, Advisors) and their access credentials.&quot;,
+  &quot;Any specific financial queries or reports requested by the CoC from the IP/RP.&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Secure Web Portal / Dashboard Interface.&quot;,
+  &quot;Financial Summary Reports (PDF, HTML).&quot;,
+  &quot;Key Financial Ratios &amp; Trends Visualizations (Charts, Graphs).&quot;,
+  &quot;Comparison Views/Reports (LV vs. FV, Historical vs. Plan).&quot;,
+  &quot;Downloadable Source Documents (with appropriate permissions).&quot;,
+  &quot;Email/In-App Notifications for new data/alerts.&quot;,
+  &quot;Data extracts for advisors (Excel, CSV).&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Ensures CoC has timely and organized access to crucial financial information for decision-making.&quot;,
+  &quot;Improves CoC&#039;s ability to effectively monitor the debtor&#039;s financial situation.&quot;,
+  &quot;Facilitates informed evaluation of resolution plans against financial realities.&quot;,
+  &quot;Increases efficiency for CoC advisors by providing readily analyzed data.&quot;,
+  &quot;Enhances transparency and accountability of the IP/RP regarding financial reporting to the CoC.&quot;,
+  &quot;Provides a secure environment for sensitive financial data.&quot;,
+  &quot;Supports consistent understanding of financial data across CoC members.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Data Storage &amp; Management&quot;,
+    &quot;tools&quot;: [
+      &quot;Secure Document Management System or Cloud Storage (SharePoint, S3, Azure Blob - with granular permissions)&quot;,
+      &quot;Relational Databases (PostgreSQL, MySQL - for metadata, users, analysis results, structured data)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Acquisition &amp; Parsing&quot;,
+    &quot;tools&quot;: [
+      &quot;File Parsers (PDF, Excel libraries like Pandas, PyPDF2)&quot;,
+      &quot;OCR Tools (Optional, if dealing with scanned documents)&quot;,
+      &quot;API Clients / Integration Hooks (if receiving data automatically from RP systems)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Processing &amp; Analysis&quot;,
+    &quot;tools&quot;: [
+      &quot;Data Manipulation Libraries (Pandas, NumPy)&quot;,
+      &quot;Financial Calculation modules&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Security &amp; Access Control&quot;,
+    &quot;tools&quot;: [
+      &quot;Robust Authentication Mechanisms (OAuth, SAML, MFA strongly recommended)&quot;,
+      &quot;Role-Based Access Control (RBAC) systems&quot;,
+      &quot;Data Encryption (At Rest &amp; In Transit)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Frontend &amp; User Interface&quot;,
+    &quot;tools&quot;: [
+      &quot;Web Frameworks (React, Angular, Vue.js)&quot;,
+      &quot;Data Visualization Libraries (Plotly, Chart.js, D3.js)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Backend Development&quot;,
+    &quot;tools&quot;: [
+      &quot;Programming Languages (Python, Java, Node.js)&quot;,
+      &quot;Web Frameworks (Flask, Django, Spring Boot, Express)&quot;,
+      &quot;API Development capabilities&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Notification Services&quot;,
+    &quot;tools&quot;: [
+      &quot;Email Service APIs (SendGrid, SES)&quot;,
+      &quot;In-App Notification systems&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Reporting&quot;,
+    &quot;tools&quot;: [
+      &quot;PDF Generation Libraries (ReportLab, FPDF)&quot;
+    ]
+  }
+]</pre>
+
+<p>
+}
+</p>

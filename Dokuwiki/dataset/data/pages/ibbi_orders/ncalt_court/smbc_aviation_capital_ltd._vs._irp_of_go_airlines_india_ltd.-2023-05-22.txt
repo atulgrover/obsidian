@@ -1,0 +1,478 @@
+<html>
+<div>
+	<h2>
+		Smbc Aviation Capital Limited vs Go Airlines (India) Limited on 22 May, 2023
+	</h2>
+	<h3>
+		Author: Ashok Bhushan
+	</h3>
+	<h3>
+		Bench: Ashok Bhushan
+	</h3>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL, PRINCIPAL BENCH, NEW DELHI Company Appeal (AT) (Insolvency) No. 593 of 2023(Arising out of Order dated 10.05.2023 passed by the Adjudicating Authority(National Company Law Tribunal), New Delhi, Special Bench in Company PetitionNo. (IB)-264(PB)/2023)IN THE MATTER OF:SMBC Aviation Capital Ltd. .... AppellantVsInterim Resolution Professional ofGo Airlines (India) Ltd., Abhilash Lal .... Respondent With Company Appeal (AT) (Insolvency) No. 603 of 2023IN THE MATTER OF:SFV Aircraft Holdings IRE 9 DAC .... AppellantVsInterim Resolution Professional ofGo Airlines (India) Ltd., Abhilash Lal .... Respondent With Company Appeal (AT) (Insolvency) No. 604 of 2023IN THE MATTER OF:GY Aviation Lease 1731 Co. Ltd. &amp; Ors. .... AppellantsVsInterim Resolution Professional ofGo Airlines (India) Ltd., Abhilash Lal .... RespondentPresent:For Appellant: Mr. Arun Kathpalia, Mr. Krishnendu Datta &amp; Mr. Sathvik Varma, Sr. Advocates, Mr. Abhijeet Sinha, Mr. Pranaya Goyal, Ms. Marylou Bilawala, Ms. Sharleen Lobo, Mr. Dhruv Khanna, Mr. Chiranjivi Sharma, Ms. Apoorva Kaushik, Ms. Neetika Sharma, Mr. Girish Shankar, Mr. Kshitij Wadhwa, Mr. Aditya dhupar, Mr. Palash Singhvi, Mr. Ankit Garg, Mr. R. Taneja, Advocates. Cont'd.../ -2-For Respondents: Mr. Ramji Srinivasan &amp; Mr. Ritin Rai, Sr. Advocates with Ms. Shruti Pandey, Ms. Namrata Saraogi, Mr. Ramakant Rai, Mr. Siddharth Ranate, Mr. Varun Kr. Tikmani, Mr. Sumesh Srivastava, Ms. Dhristi Kaushik, Mr. Ravin Kapur, Advocates for IRP. Mr. Maninder Singh &amp; Mr. P. Nagesh, Sr. Advocates, Mr. Diwakar Maheshwari, Mr. Pranjal Kishore, Mr. Shreyas Edupuganti, Mr. Shouryaditya, Mr. Suhas Puthige, Ms. Pratiksha Mishra, Advocates for suspended BOD. With Company Appeal (AT) (Insolvency) No. 615 of 2023IN THE MATTER OF:Engine Leasing Finance B.V. .... AppellantVsInterim Resolution Professional ofGo Airlines (India) Ltd., Abhilash Lal &amp; Anr. .... RespondentsPresent:For Appellant: Mr. Rajshekhar Rao, Sr. Advocate with Mr. Anandh Venkataramani, Mr. Saket Satapathy, Mr. Anubhav Dutta, Mr. Zashank Mehta, Mr. J. Shivam Kumar and Mr. Siddhant Kumar Singh, Advocates.For Respondents: Mr. Ramji Srinivasan, Sr. Advocate with Ms. Shruti Pandey, Ms. Namrata Sarogi, Mr. Ramakant Rai, Mr. Somesh Srivastava, Ms. Drishti Kaushik and Mr. Varun Tikmani, Advocates for IRP. Mr. P. Nagesh, Sr. Advocate with Mr. Diwakar Maheshwari, Mr. Pranjal Kishor and Mr. Shreyas Edupuganti, Advocates for Suspended Board of DirectorsCompany Appeal (AT) (Insolvency) Nos.593, 603, 604&amp; 615 of 2023 -3- ORDER
+	</p>
+	<p title="Issue" data-structure="Issue">
+		ASHOK BHUSHAN, J.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		These four Appeal(s) have been filed against the order dated 10.05.2023 passed by the National Company Law Tribunal, New Delhi Special Bench, admitting an Application filed under Section 10 of the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as the "Code") by Go Airlines (India) Limited (Respondent herein). All the Appellant(s) before us are Aircraft Lessor, who have granted operating lease of aircrafts, which was being used by the Respondent - Go Airlines (India) Ltd. (hereinafter referred to as the "Corporate Applicant"). All the Appellants aggrieved by the order dated 10.05.2023 have come up in these Appeal(s).
+	</p>
+	<p title="Fact" data-structure="Facts">
+		2. We need to notice certain background facts giving rise to these Appeal(s). It shall be sufficient to refer to the facts and pleadings in Company Appeal (AT) (Insolvency) No. 593 of 2023 for deciding all the Appeal(s) as all are founded on similar ground and facts:
+	</p>
+	<p title="Fact">
+		(i) The Corporate Applicant was incorporated on 29.04.2004 under the provisions of the Companies Act, 1956 and is engaged in the airline business and has been running a low-
+	</p>
+	<p title="Issue" data-structure="Issue">
+		cost airlines under the brand name of "Go Air" from the last 17 years. The Corporate Applicant was a profitable airlines from 2009 to 2010 to 2018-2019. The Corporate Applicant has the strength of 7000 direct and 10,000 indirect employees. Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -4-
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(ii) The Company had been facing financial problems due to defective engines supplied by Pratt &amp; Whitney, as a result of which nearly 34% aircrafts were grounded in the year 2022. The Corporate Applicant made various attempts to resolve the issue amicably with Pratt &amp; Whitney ("P&amp;W"), however, P&amp;W did not honour its contractual obligation towards the Corporate Applicant by repairing/ providing replacement engine.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(iii) The Corporate Applicant filed an emergency Arbitration against P&amp;W before the Singapore International Arbitration Centre (SIAC) wherein the Emergency Arbitrator passed Award on 03.02.2023 and 15.04.2023 directing P&amp;W to supply 10 serviceable engines by 27.04.2023 and 10 serviceable engines each month till December 2023. However, P&amp;W failed to comply with the aforesaid orders and for which the Corporate Applicant had initiated enforcement proceedings against P&amp;W in Delaware, United States as well as other relevant jurisdictions where engines are located. Due to the aforesaid default, the Corporate Applicant had to cancel several flights in the year 2023.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		(iv) On 30.04.2023, Corporate Applicant passed a Resolution to file an Application under Section 10 of the Code and on 02.05.2023, the same was filed praying that Adjudicating Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -5- Authority be pleased to grant interim moratorium to pserve the assets and keep the company as a going concern. In the Application it was pleaded that the Corporate Applicant is in default towards Operational Creditors (which includes dues towards its vendors) is INR 1,202 Crores and default towards aircraft lessors is INR 2,660 Crores. In the Application, it has been submitted that default of Rs.11.03 Crores towards interest dues of the Financial Creditors, however on the date of filing of Application, there was no default.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		(v) The Adjudicating Authority heard the Application on 04.05.2023. During hearing of the Application, the learned Senior Counsel appearing for the Appellant SMBC Aviation Capital Ltd. and certain other Lessors appeared before the Adjudicating Authority and opposed the admission of the Application. The learned Counsel for the Appellant also prayed to the Adjudicating Authority to provide opportunity to file an Application under Section 65 of the Code. The Adjudicating Authority heard the learned Counsel for the Corporate Applicant as well as learned Counsel appearing for the Appellant - SMBC Aviation Capital Ltd. and other Lessors and delivered its order on 10.05.2023, admitting Section 10 Application.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -6-
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(vi) These Appeal(s) have been filed by the Lessors of the Corporate Applicant challenging the order dated 10.05.2023
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		3. The Appellant(s) in the Appeal(s) have pleaded that Corporate Debtor approached the Appellant for leasing aircrafts. The Appellant SMBC Aviation Capital Ltd. claims to have leased 9 aircrafts to the Corporate Applicant and its affiliative. The Lease Agreement between different Airbus like A320-214 etc. was executed, which Lease Agreement provided for delivery date, Term of the Lease Expiry Date, Redelivery in the Clauses pertaining to Lease. Clauses also provided Events of default, Lessor Rights, Deregistration and Lessor's Right to Remedy etc. The case of the Appellant is that the Corporate Applicant committed default in payment of lease rentals. The Appellant's case is that as per the provisions of Lease Agreement, once the event of default occurred, each Lessor was entitled to enforce all its rights under the Convention on International Interests in Mobile Equipment, which was concluded in Cape Town in 2001 and to which India acceded in 2008. Pursuant to the execution of the Lease Agreement, the aircraft were delivered by the Lessor to the Corporate Applicant in India. The Corporate Applicant had executed the Irrevocable Deregistration and Export Request Authorization ("IDERA") in favour of authorized party listed therein, which authorized party the exclusive right to effect deregistration of the aircraft and its export from India. Due to occurrence of events of default by the Corporate Applicant, each Lessor terminated the respective Lease Agreement on 02.05.2023 and thereafter, Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -7- but prior to admission of Section 10 Application. The Lessors of the Authorised Party under the applicable IDERA applied for deregistration of the aircraft in accordance with the Aircraft Rules. The Appellant had addressed letters dated 05.05.2023 to Directorate General of Civil Aviation ("DGCA") asserting its possession of the aircraft with a copy marked to the Corporate Applicant as well. The Corporate Applicant on 04.05.2023 made submission before the Adjudicating Authority on which date the Counsel for the Appellant (SMBC Aviation Capital Ltd. was psent through Advocate). Several statements and submissions were advanced on behalf of the Corporate Applicant, whereas the Appellant inter alia requested the Adjudicating Authority to direct the Corporate Applicant to share a copy of the Application. The Appellant further opposed the Application on the ground that such admission had not to be allowed without giving an opportunity to the Appellant to place its objections on record and to file an Application under Section 65 of the Code. It is the case of the Appellant that the Adjudicating Authority in complete violation of the natural justice has passed the impugned order.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		4. We have heard Shri Arun Kathpalia, Shri Krishnendu Datta, Shri Abhijeet Sinha and Shri Rajshekhar Rao, learned Senior Counsel for the Appellant(s). We have heard Shri Ramji Srinivasan and Shri Ritin Rai, learned Senior Counsel appeared for the IRP and Shri Maninder Singh and Shri P. Nagesh, learned Counsel for suspended Management of the Corporate Applicant.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -8-
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		5. The learned Senior Counsel for the Appellant in support of the Appeal has raised following submissions:
+	</p>
+	<p title="Issue">
+		(i) The impugned order has been passed in violation of principles of natural justice, since although the Appellant had appeared and sought for time for filing Application under Section 65 of the Code, which was not granted by the Adjudicating Authority. The copy of the Section 10 Application was not served on the Appellant and without serving the copy, the order of admission has been passed.
+	</p>
+	<p title="Issue">
+		(ii) Company Petition was filed not for the purposes of resolution of insolvency, rather it was filed with fraudulent and malicious intent. The objections have been raised before the Adjudicating Authority that the Application was fraudulent and malicious and without deciding such objections and the objection to be raised in Section 65 Application, the Section 10 Application could not have been admitted.
+	</p>
+	<p title="Issue">
+		(iii) The Appellant(s) have cancelled the Lease Agreement executed in favour of the Corporate Applicant, prior to admission of Section 10 Application, the aircrafts are no longer the assets of the Corporate Applicant, nor the IRP is entitled to claim possession of aircrafts, which are not the assets of the Corporate Debtor. The termination of Lease having taken place prior to admission of Section 10 Application, the Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -9- Corporate Applicant has no legal right to claim possession and moratorium under Section 14(1)(d) is not applicable with regard to assets pertaining to the Appellant.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		6. The learned Senior Counsel for the Interim Resolution Professional ("IRP") refuting the submission of learned Senior Counsel for the Appellant(s) submits that termination of Lease was motivated by filing of the Application under Section 10 of the Code as the termination of Lease was effected in point of time after Application was filed on 02.05.2023, the filing of the Application was widely circulated and thereafter the Lessors in hurried manner issued order terminating the Lease. The order does not amount to violation of principles of natural justice inasmuch as the Application under Section 10 of the Code does not require creditors to be heard before admission of the Application. There is no mandatory requirement in Section 10 to issue notice to the creditors at the p- admission stage, rather, giving notice to the creditors is a matter of discretion to be exercised on a case-to-case basis on valid grounds. In the psent case, the Adjudicating Authority in the larger interest, after hearing the Appellant and objectors has admitted the Section 10 Application. No Application under Section 65 was filed nor any such Application was before the Adjudicating Authority for consideration. Section 65 Application can be filed and decided even after admission of Section 10 Application and the Adjudicating Authority has also taken the view that after Admission of Application under Section 10, Section 65 Application can be filed and considered. It is always open for the Appellant to file Section 65 Application Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -10- with appropriate pleadings and materials. Any aspects regarding termination of lease and possession of aircrafts are extraneous to the limited scope of the psent Appeal, which is to test the correctness of the impugned order. The IRP has a duty to protect the assets of the Corporate Applicant during Corporate Insolvency Resolution Process ("CIRP"). The possession of the subject aircrafts is with the Corporate Applicant.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		7. Learned Counsel for the Suspended Management has also opposed the submissions of learned Counsel for the Appellant. It is submitted by learned Counsel for the Suspended Management that default in payment of dues to the aircraft Lessors had occurred due to the defective engine supplied by P&amp;W, which resulted in grounding of aircrafts in the year 2022 and onwards. The Lessors had issued various notices to the Corporate Applicant in the year 2023 and before also, claiming defaulted amount, hence, the Corporate Applicant took measures by undertaking emergency Arbitration against P&amp;W in which award was also made in favour of the Corporate Applicant, directing P&amp;W to immediately supply engines, which has not been completed by P&amp;W. Measures to enforce the Award has already been taken by the Corporate Applicant. In view of the inability of the Corporate Applicant to serve its liability towards the aircraft Lessors and other creditors, a Resolution was passed on 30.04.2023 to file an Application under Section 10. Ultimately, Application was filed on 02.05.2023. The cancellation of Lease by the Lessors were effected after Application was psented by the Corporate Applicant. The Corporate Applicant filed the Application on 22nd May, 2023 at 08:41 am IST and all Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -11- termination were subsequent in time. It is submitted that default committed by the Corporate Applicant is an admitted fact and filing of the Application under Section 10 is neither fraudulent nor malicious. The Corporate Applicant being faced with a genuine difficulty in servicing the lease rentals due to defective engine supplied by the P&amp;W, which has not been replaced inspite of emergency Award in favour of the Corporate Applicant, the Corporate Applicant had voluntarily proceeded to file the Application under Section 10. The statement which was made by the CEO of Corporate Applicant, which has been relied by the Counsel for the Appellant, does not lead to any conclusion that filing of Section 10 Application was fraudulent or malicious.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		8. We have considered the submissions of learned Counsel for the parties and have perused the record.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		9. From the submissions, which have been made before us in these Appeal(s), following are the issues, which arise for consideration in these Appeal(s):
+	</p>
+	<p title="Issue">
+		(1) Whether in a Section 10 Application filed by a Corporate Applicant, it is necessary to issue notice to the creditors to give a hearing or opportunity of hearing to the creditors before admission of Section 10 Application?
+	</p>
+	<p title="Issue">
+		(2) Whether at the time of hearing of Section 10 Application, if some of the creditors appear and object admission of Section 10 Application alleging that Application has been filed fraudulently Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -12- with malicious intent, Adjudicating Authority is required to first give opportunity to the creditor to file Section 65 Application and decide the said Application before proceeding to admit Section 10 Application?
+	</p>
+	<p title="Issue">
+		(3) Whether Lessors having terminated Lease Agreement in favour of the Corporate Applicant prior to admission of Section 10 Application, the moratorium as directed by order dated 10 May, 2023 cannot be said to be applicable to the assets, which were earlier leased by the Lessor to the Corporate Applicant?
+	</p>
+	<p title="Issue">
+		(4) Whether the Appellant having terminated the Lease Agreement in favour of the Corporate Applicant prior to admission, is entitled to claim possession of the aircrafts and export the aircrafts as per the Lease Agreement?
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Question No.(1)
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		10. The Code contains a separate statutory Scheme for Application under Section 7, 9 and 10. Section 9 Application, requires a demand notice as contemplated under Section 8. The Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016, contains manner and procedure of filing an Application by a Financial Creditor, Operational Creditor as well as Corporate Applicant. In Rule 4, Application by Financial Creditor, sub-rule (3) requires the service of copy of application to the registered office of the Corporate Debtor and the Board, before filing with the Adjudicating Authority. Rule 4, sub-rule (3) is as follows:
+	</p>
+	<p title="Analysis of the law">
+		Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -13- "4.(3) The applicant shall serve a copy of the application to the registered office of the corporate debtor and to the Board, by registered post or speed post or by hand or by electronic means, before filing with the Adjudicating Authority.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		11. Any Application by Operational Creditor has to proceed with the Demand Notice as contemplated in Rule 5 and Rule 6 of the Rules. Rule 7, relates to Application by Corporate Applicant. Rule 7, sub-rule (2), is as follows:
+	</p>
+	<p title="Analysis of the law">
+		"(2) The applicant under sub-rule (1) shall serve a copy of the application to the Board by registered post or speed post or by hand or by electronic means, before filing with the Adjudicating Authority."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		12. Prior to amendment of Rule 7 by Amendment Rule 2020, with effect from 24.09.2020, sub-rule (2) was as follows:
+	</p>
+	<p title="Analysis of the law">
+		"(2) The applicant under sub-rule (1) shall dispatch forthwith, a copy of the application filed with the Adjudicating Authority, by registered post or speed post to the registered office of the Corporate Debtor."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		13. The Applicant under sub-rule (1) shall dispatch forthwith a copy of the Application filed with the Adjudicating Authority, by registered post or speed post to the registered office of the Corporate Debtor. Now, after amendment, the Application is required to be sent to the Board. The Rule 7, does not contemplate giving the Application to the creditors of the Corporate Applicant. Thus under the statutory Scheme, Section 10 Application can be filed and Adjudicating Authority within a period of 14 Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -14- days is required to either admit the Application or reject the Application. Section 10 of the Code is as follows:
+	</p>
+	<p title="Analysis of the law">
+		"10. Initiation of corporate insolvency resolution process by corporate applicant. - (1) Where a corporate debtor has committed a default, a corporate applicant thereof may file an application for initiating corporate insolvency resolution process with the Adjudicating Authority.
+	</p>
+	<p title="Analysis of the law">
+		(2) The application under sub-section (1) shall be filed in such form, containing such particulars and in such manner and accompanied with such fee as may be pscribed. 2 (3) The corporate applicant shall, along with the application, furnish-
+	</p>
+	<p title="Analysis of the law">
+		(a) the information relating to its books of account and such other documents for such period as may be specified;
+	</p>
+	<p title="Analysis of the law">
+		(b) the information relating to the resolution proposed to be appointed as an interim resolution professional; and
+	</p>
+	<p title="Analysis of the law">
+		(c) the special resolution passed by shareholders of the corporate debtor or the resolution passed by at least three-fourth of the total number of partners of the corporate debtor, as the case may be, approving filing of the application.
+	</p>
+	<p title="Analysis of the law">
+		(4) The Adjudicating Authority shall, within a period of fourteen days of the receipt of the application, by an order-
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -15-
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(a) admit the application, if it is complete and no disciplinary proceeding is pending against the proposed resolution professional]; or
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(b) reject the application, if it is incomplete or any disciplinary proceeding is pending against the proposed resolution professional:
+	</p>
+	<p title="Analysis of the law">
+		Provided that Adjudicating Authority shall, before rejecting an application, give a notice to the applicant to rectify the defects in his application within seven days from the date of receipt of such notice from the Adjudicating Authority.
+	</p>
+	<p title="Analysis of the law">
+		(5) The corporate insolvency resolution process shall commence from the date of admission of the application under sub-section (4) of this section."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		14. Section 11 contains the provision with regard to persons not entitled to make application.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		15. The learned Counsel for the Appellant has relied on a judgment of this Tribunal in the matter of Krrish Realtech pvt. Ltd. (Company Appeal (AT) (INS) No.1008, 1009 &amp; 1010 of 2021 decided on 21.12.2021. The said case was a case where a Corporate Applicant had instituted an Application for p-packaged insolvency resolution under Section 54C of the Code for initiating p-packaged insolvency process. The p-condition which are provided in Section 54A, sub-section (3) is that Corporate Debtor shall obtain an approval from its Financial Creditor, not being related parties, repsenting not less than sixty-six per cent in value Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -16- of the financial debt due to such creditors, for the filing of an application for initiating p-packaged insolvency resolution process. When the Application came before the Adjudicating Authority, several objectors appeared, who opposed the Application. The Adjudicating Authority granted time to objectors to file their objections. The order of the Adjudicating Authority came to be challenged in Appeal before this Tribunal. This Tribunal noted Section 424 of the Companies Act, 2013, which requires that Tribunal and the Appellate Tribunal shall be guided by the principles of natural justice. After noticing Section 424 in the above judgment, following was laid down in paragraph 15:
+	</p>
+	<p title="Analysis of the law">
+		"15. ...The statutory scheme delineated by Chapter III-A of 'I&amp;B Code' as well as the Regulations, 2021 as observed above does not indicate any prohibition on the Adjudicating Authority to hear any objector or intervener before admitting an Application of p-packaged insolvency resolution process. When there is no prohibition in hearing an objector or interveners by the Adjudicating Authority, the orders passed by the Adjudicating Authority giving time to the objectors to file objection cannot be said to be in breach of any statutory provisions. We may hasten to add that hearing of objectors or interveners in each case where p-packaged insolvency resolution process application has been filed is not a matter of course and has to be limited to exceptional cases. We are cautious that proceeding under the 'I&amp;B Code' are time bound procedure where unnecessary delay has to be avoided by the Adjudicating Authority and giving time to objections which are meritless and giving time to objectors and interveners has to be exercised on sound discretion on valid grounds."
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -17-
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		16. This Tribunal took the view that there is no prohibition in hearing an objector in proceedings under Chapter III-A of the Code. However, it was further observed that granting time for objection is not a matter of course and has to be limited to exceptional cases. This Tribunal further in paragraph 16 held follows:
+	</p>
+	<p title="Precedent Analysis">
+		"16. When we look into the provisions of Section 54A read with Section 54C, it is clear that certain statutory requirements have to be met before the Corporate Debtor can file an Application. If an Application filed under Section 54C does not meet the statutory requirements, it is always open for a person, who has a claim in p-packaged insolvency resolution process, to point out that Application does not follow the statutory provisions. We have noticed the substance of the objections made by one of the objectors above, which indicate that it has been mentioned that certain Financial Creditors have been treated to be unrelated and their votes have been counted for finding out requisite majority who actually are related Financial Creditors. There are other serious allegations which have been made in the objections against the Corporate Debtor by so called unrelated Financial Creditors, which we need not dwell any further since these are the matters which have to be gone into and decided by the Adjudicating Authority."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		17. The above judgment of this Tribunal does make it clear that in facts of each case, it is for the Adjudicating Authority to take a decision as to whether time is to be granted to any objector or intervenor in a proceeding and the above judgment does not hold in any manner that as and when any objector comes before the Adjudicating Authority in a proceeding, as a Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -18- matter of right, he has to be given opportunity to file his objection to the proceeding. The Adjudicating Authority has to take a decision on case to case basis.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		18. The psent is a case where Application under Section 10 was filed on 02.05.2022 and on 04.05.2022 it came for hearing. The learned Counsel for the Appellant had appeared and was head by the Adjudicating Authority. The Adjudicating Authority however took a view that it was open for the objector to file an Application under Section 65 even after admission of Section 10 Application.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		19. As noted above, since the statutory Scheme does not contain any obligation of issuing notice to the creditors by the Corporate Applicant, any objector appearing at the time of hearing has to be heard and the objection may be noted by the Adjudicating Authority and thereafter the appropriate decision can be taken. We, thus, conclude that the mere fact that no notice was issued to the creditors or any opportunity was given to the objectors before proceeding to hear, the Corporate Applicant, cannot be held to vitiate any procedure or violating the principles of natural justice, more so when objectors were heard by the Adjudicating Authority. Question No.(2)
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		20. The submission which has been pssed by the learned Counsel for the Appellant is that objectors having raised objection of fraudulent and malicious intent of the Corporate Applicant, the said objection was required Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -19- to be decided and opportunity to file Section 65 Application ought to have been granted before admitting Section 10 Application. The learned Counsel for the Appellant in support of this submission has placed reliance on judgment of this Tribunal in Wave Megacity Centre Pvt. Ltd. vs. Rakesh Taneja &amp; Ors. - Company Appeal (AT) (INS.) No.918 of 2022. In the above Appeal, the Corporate Applicant has challenged the order of the Adjudicating Authority by which Application under Section 65 was allowed and Section 10 Application was rejected. It was contended by the Appellant that if debt and default is proved in Section 10 Application, the Adjudicating Authority has to admit the said Application. Repelling to said submission, the following was laid down in paragraph 15:
+	</p>
+	<p title="Petitioner's Argument">
+		"15. When finding recorded by the Adjudicating Authority is that Section 10 Application has been initiated fraudulently and maliciously, even if there is debt and default, the Adjudicating Authority is not obliged to admit Section 10 Application. Section 10 and Section 65, which are part of the same statutory scheme needs to be read together to give effect to the legislative scheme of the Code. In event CIRP is initiated by a corporate applicant fraudulently with malicious intent for any purpose other than the resolution of insolvency, holding it that it is obligatory for the Adjudicating Authority to admit Section 10 Application, will be contrary to the statutory scheme under Section 65. In event conditions under Section 65 are fulfilled, Section 10 Application can be rejected, even if debt and default is proved. Thus, Section 65 has to be read as enabling provision to reject an application even on Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -20- proving of debt and default Section 10 Application is not to be obligatorily admitted."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		21. There cannot be any quarrel to the proposition laid down by the Tribunal in the above case. In appropriate case where there is an Application under Section 65 of the Code before the Adjudicating Authority, the Adjudicating Authority after initiation of proceedings under Section 10 and before passing any order on Section 10 Application notices that initiation is fraudulent and malicious, the Adjudicating Authority is well within its jurisdiction to consider the Application and if it is held and found that initiation is fraudulent and malicious, the Adjudicating Authority is fully entitled to reject the said Application.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		22. The next judgment relied by the learned Senior Counsel for the Appellant is M/s.Neesa Infrastructure Ltd. vs. State Bank of India &amp; Ors. - Company Appeal (AT) (INS.) No.946 of 2020 decided on 23.12.2020. In the above case Secton 10 Application filed by a Corporate Applicant was rejected against which order, the Appeal was filed. The Adjudicating Authority has rejected the Application on the ground that the Corporate Applicant has not approached the Adjudicating Authority with bonafide intention. The said finding was confirmed by this Appellate Tribunal. In paragraph 12, following observations were made:
+	</p>
+	<p title="Precedent Analysis">
+		"12. Further, it is on record that the SIDBI and IOB, the Financial Creditors have strenuously opposed the admission of Section 10 Application by filing their Counter Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -21- Affidavits. We add and expss that the intention of Promotors is only to get admission and followed by imposition of Moratorium to stall all further proceedings. The IBC being a special legislation cannot be used as a tool to one's advantage and other's disadvantage."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		23. The observation made in paragraph 12 are observations for which the Tribunal took support from the objections raised by the Financial Creditor opposing Section 10 Application. The observations made by this Tribunal has to be read in the fact of that case and it cannot be read to mean that whenever objection is raised in Section 10 proceedings, the Adjudicating Authority has to reject the Section 10 Application.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		24. The next judgment, which has been relied by the learned Senior Counsel for the Appellant is judgment of Hon'ble Supme Court in Beacon Trusteeship Limited vs. Earthcon Infracon Pvt. Ltd. &amp; Anr. (Civil Appeal No.7641/2019) decided on 18.02.2019. In the above case, Section 9 Application filed by the Operational Creditor was admitted by the Adjudicating Authority. The Appellant Beacon Trusteeship Ltd. has filed Section 7 Application against the corporate guarantors. Aggrieved by the admission of Section 7 Application, Financial Creditor has filed Appeal. One of the submissions raised was that under the Agreement Financial Creditor was required a notice before initiating proceedings. Allegations within the meaning of Section 65 of the Code was raised. Hon'ble Supme Court in paragraph 7 made following observation:
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -22- "7. Considering the provision of Section 65 of the IBC, it is necessary for the Adjudicating Authority in case such an allegation is raised to go into the same. In case, such an objection is raised or application is filed before the Adjudicating Authority, obviously, it has to be dealt with in accordance with law. The plea of collusion could not have been raised for the first time in the appeal before the NCLAT or before this Court in this appeal. Thus, we relegate the appellant to the remedy before the Adjudicating Authority."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		25. The Hon'ble Supme Court has set aside the order of Appellate Tribunal, by which the Appeal filed by the Financial Creditor has been rejected against admission order. The Hon'ble Supme Court relegated Financial Creditor to file an appropriate Application before the Adjudicating Authority.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		26. The learned Senior Counsel for the Appellant relying on observation in paragraph 7 in the above judgment has contended that even when the allegations are raised before the Adjudicating Authority within the meaning of Section 65, the Adjudicating Authority has to go into the said allegation. The Hon'ble Supme Court has observed in that case that such objection is raised, the Adjudicating Authority had to deal with it in accordance with law.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		27. Now we need to notice the impugned order to find out as to what was the allegations raised before the Adjudicating Authority and how the Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -23- Adjudicating Authority has noted the said submission. In paragraph 37, following observation has been made by the Adjudicating Authority:
+	</p>
+	<p title="Precedent Analysis">
+		"37. During the course of the hearing, this Bench raised a specific query to Mr. Arun Kathpalia, Ld. Sr. Counsel repsenting the Lessors/ Objectors whether the Corporate Applicant has committed default tin respect to the Lessor/ objectors he is repsenting and what is the malicious element in the psent Application?"
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		28. The submissions made by the objector, that is, learned Sr. Counsel for the Appellant has been noted in paragraph 38 and the reply given by the Corporate Applicant in paragraph 39. Paragraphs 38 and 39 of the judgment of the Adjudicating Authority is relevant to notice, which are as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"38. In response to the same, the Ld. Sr. Counsel Mr. Arun Kathpalia repsenting the Lessors/ Objectors did not dispute the fact that the Corporate Applicant herein has defaulted to the Lessors. However, with the respect to the malicious content, he stated that the CIR process is not feasible in the psent case due to the following reasons:
+	</p>
+	<p title="Precedent Analysis">
+		(i) The aircraft of the Corporate Debtor are grounded and are not in a flying condition. In the absence of flying aircraft, the Corporate Debtor could not be kept as a going concern.
+	</p>
+	<p title="Precedent Analysis">
+		(ii) The grounded aircraft will only be unproductive assets and will burden the Corporate Debtor further with the CIRP cost in the form of continued lease rentals of the aircraft.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -24-
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		39. Ld. Sr. Counsel Mr. Neeraj Kishan Kaul, appearing for the Applicant replied to the contentions of the objectors and stated that the aircraft are grounded due to the defective engines supplied by P&amp;W against which it has an Arbitral Award in its favor which directs P&amp;W to supply 10 serviceable engines by 27.04.2023 and thereafter, 10 serviceable engines each month till December 2023. Further, the proposed IRP backed by a professional agency Alvarez and Marsel will take steps to enforce the arbitral award. It was further added if these engines are supplied by P&amp;W, the flights could be resumed and the Corporate Applicant/Debtor could continue to function as a going concern. As regards the CIRP cost, he added that the same shall be absorbed by the Successful Resolution Applicant as per the Scheme laid down in Section 30(2)(a) of IBC 2016. The Ld. Sr. Counsel further stated that in any case, the aforesaid grounds do not make the psent Application malicious. He vehemently opposed any proposition regarding the malicious intent of the Applicant as leveled by the Ld. Sr. Counsel appearing for the Lessors/Objectors. He further added that even, if any Section 65 Application is filed subsequently, the same can be heard by this Adjudicating Authority post-admission and there is no law/requirement to keep the admission of a Section 10 Application pending for a Section 65 application, which is proposed to be filed by the Lessors/Objectors in future."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		29. In the Appeal(s) before us, the learned Senior Counsel for the Appellant(s) have also reiterated the submission that Application filed by Corporate Applicant under Section 10 was fraudulent and with malicious intent, hence, deserve rejection as required under Section 65. To buttress the submission of the Appellant, the Appellant has placed much reliance Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -25- on statement of Chief Executive officer of the Corporate Applicant as was captured in Article published in a website. It is useful to extract the entire article as has been brought on record as Annexure-F to the Appeal. The Article reads as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"Go Airlines to evaluate legal option to attach Pratt &amp; Whitney India assets, insolvency plea not for loan waiver: CEO The Wadia group's low cost airline Go Airlines (India) Limited will look at all legal option including that of freezing/ attaching the Indian assets of the US-based aircraft engine Pratt &amp; Whitney, said a top airline Official.
+	</p>
+	<p title="Precedent Analysis">
+		The Wadia group's low cost airline Go Airlines (India) Limited will look at all legal options, including that of freezing/ attaching the Indian assets of the US-based aircraft engine maker Pratt &amp; Whitney, said a top airline official.
+	</p>
+	<p title="Precedent Analysis">
+		He also categorically said the airline filing an insolvency petition with the National Company Law Tribunal (NCLT) is not a ruse to get loan write offs but mainly to safeguard/ retain the aircrafts so that the lessors do not repose them.
+	</p>
+	<p title="Precedent Analysis">
+		"We have started the steps for the execution of the award. We have filed a case in the US," Kaushik Khona, Chief Executive Officer told IANS in an interview.
+	</p>
+	<p title="Precedent Analysis">
+		Khona said the airline is also identifying jurisdiction in Japan, Singapore, Europe and the US to file cases against Pratt &amp; Whitney which is refusing to comply with Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -26- an award issued by an emergency arbitrator appointed in accordance with the 2016 Arbitration Rules of the Singapore International Arbitration Centre (SIAC).
+	</p>
+	<p title="Precedent Analysis">
+		Asked whether the company is looking at filing a case in India against Pratt &amp; Whitney to attach its properties here, Khona said company will evaluate that option as well.
+	</p>
+	<p title="Precedent Analysis">
+		He said the airline is to get the engines for the 27 aircrafts that are now grounded due to engine faults and legal action will be taken in the jurisdictions where Pratt &amp; Whitney has the engines.
+	</p>
+	<p title="Precedent Analysis">
+		According to Khona, we need the engines and for that the arbitration award has to be enforced and Pratt &amp; Whitney does not have an MRO (maintenance, repair, overhaul) set up in India.
+	</p>
+	<p title="Precedent Analysis">
+		Go Airlines has filed a case in a court in Delaware in the US against Pratt &amp; Whitney to enforce the arbitration award, and Khona said the case will be decided soon.
+	</p>
+	<p title="Precedent Analysis">
+		"That order (arbitration award) directed Pratt &amp; Whitney to take all the reasonable steps to release and dispatch without delay to Go First at least 10 serviceable spare leased engines by April 27, 2023 and a further 10 spare leased engines per month until December 2023, with the objective of Go First returning to full operations and achieving its financial rehabilitation and survival," Go Airlines said.
+	</p>
+	<p title="Precedent Analysis">
+		Dismissing the Pratt &amp; Whitney's charge that Go Airlines has a lengthy history of missing its financial obligations to it as false, Khona added that if that is the case why Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -27- would the emergency arbitrator order that the engine maker should not ask for any deposit from the airline and give the engines without any cost.
+	</p>
+	<p title="Precedent Analysis">
+		On the issue of approaching the NCLT, Khona said it is not an insolvency petition but a petition for resolution as the business is viable.
+	</p>
+	<p title="Precedent Analysis">
+		Khona said the aircraft lessors were taking an irrational action of repossessing the aircrafts and approaching the NCLT is the only way to protect the assets as we will seek moratorium under the Insolvency Bankruptcy Code (IBC).
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		He said under this process, the airline can retain its assets and come back to normal levels as it is a viable business.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Khona said there is no pssure from the bankers as all the facilities are more or less working capital and non funded. The company has to pay only the interest and the interest rates are also not so high.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		In the last six months the banks have sanctioned Emergency Credit Line Guarantee Scheme (ECLGS) which have a two year moratorium and there is no repayment pssure except for Rs 50 lakh which the company got in 2021 where payment has started, Khona said.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Adding further he said, all the assets are charged to the bank and on the top of it, the promoters have given 94 acre land in Bombay and Thane as security the value of which two years back was about Rs 3,000 crore. The filing of the NCLT petition is not aimed at the bankers. Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -28- Terming a news report in a leading financial daily that the airline has asked the bankers to write off a portion of the loan as wrong, Khona said the airline has not approached any bank to write off the loan and "we have no such intention".
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		He said the bankers are being updated on the situation and in the last one year there had been more than 12 consortium meetings and the company promoters also met the bank Managing Directors several times in the last three months.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		The decision to file the petition with NCLT had to be taken in three days as the aircraft lessors were taking coercive action to take over the aircraft.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		The airline has 54 aircrafts out of which 27 are operational and 27 are grounded due to engine problems. As of now no aircraft has been deregistered and taken back by the lessors, he said.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		On the issue of defaults, a petition under Section 10 can be made only if there is a default. The airline had defaulted with creditors, lessors and others. As regards the bankers, interest to be debited on May 2 became overdue. However, the account is not an NPA, Khona said.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		On the question of low cost airline a viable business proposition as several airlines have crash landed, Khona said Go Airlines has been profitable since 2009-10 till 2019-20. Only from January 2020 the Pratt &amp; Whitney engine problem aggravated and the company faced problems as an airline has a huge fixed cost.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -29- According to him, only low cost airline business could be profitable and Go Airlines has the lowest cost structure till December 2022. Our costs were either at par or better than the industry leader. Go Airlines have been operating our aircrafts for 14 hours a day."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		30. The submission of the Appellant that even the submission of the CEO was that the purpose of filing the insolvency petition was to safeguard the aircrafts so that the Lessors do not repossess them. It is submitted that from the statement it is clear that the purpose of filing the Application was not for insolvency resolution, but was with the object to retain the aircrafts from the Lessors.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		31. When we look into the entire article as quoted above, the statement of CEO as reported in the website has to be read in whole. The first statement noticed in the Article is that Go Airlines is looking on all legal options including that of freezing/ attaching the Indian assets of the US- based aircraft engine P&amp;W. The statement captured is that filing of insolvency petition is not a ruse to get loan write offs but mainly to safeguard/ retain the aircrafts. The statement also further notes that airline has 54 aircrafts out of which 27 are operational and 27 are grounded due to engine problems. It was further stated that no aircraft has been deregistered and taken back by the Lessors. Referring to the arbitration Award against the P&amp;W, the CEO has quoted in the Article that 10 serviceable leased engines to be received by the Appellant by April 27, 2023 and a further 10 spare leased engines per month until December 2023., Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -30- with the objective of Go First returning to full operations an achieving its financial rehabilitation and survival. Thus, operation and achieving its financial rehabilitation and survival was the object, which was shared by the CEO. The intent of Corporate Applicant was to retain the assets, so as to continue its operations and making the airlines as a going concern. From the above submission, it cannot be held that intent of filing the Application under Section 10 was fraudulent or malicious.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		32. The word fraudulent has been defined by "Advanced Law Lexicon"
+	</p>
+	<p title="Analysis of the law">
+		in following words:
+	</p>
+	<p title="Analysis of the law">
+		"Person does a thing fraudulently if he does it with an intent to defraud, and so to constitute fraud two elements are necessary--- deceit, and injury and loss to some person."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		33. The Hon'ble Supme Court in (2011) 8 SCC 613 - Ramesh Kumar and Anr. Vs. Furu Ram and Anr. had occasion to consider the definition of 'fraud'. In paragraph 17 and 19, following has been observed:
+	</p>
+	<p title="Precedent Analysis">
+		"17. Section 17 of the Contract Act, 1872 defines "fraud"
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		thus:
+	</p>
+	<p title="Precedent Analysis">
+		"17.'Fraud' defined.--'Fraud' means and includes any of the following acts committed by a party to a contract, or with his connivance, or by his agent, with intent to deceive another party thereto or his agent, or to induce him to enter into the contract--
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -31- (1) the suggestion, as a fact, of that which is not true, by one who does not believe it to be true;
+	</p>
+	<p title="Precedent Analysis">
+		(2) the active concealment of a fact by one having knowledge or belief of the fact;
+	</p>
+	<p title="Precedent Analysis">
+		(3) a promise made without any intention of performing it;
+	</p>
+	<p title="Precedent Analysis">
+		(4) any other act fitted to deceive;
+	</p>
+	<p title="Precedent Analysis">
+		(5) any such act or omission as the law specially declares to be fraudulent.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Explanation.--Mere silence as to facts likely to affect the willingness of a person to enter into a contract is not fraud, unless the circumstances of the case are such that, regard being had to them, it is the duty of the person keeping silence to speak, or unless his silence is, in itself, equivalent to speech."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		19. Differently nuanced contextual meanings of the word "fraud" are collected in P. Ramanatha Aiyar's Advanced Law Lexicon (3rd Edn., Vol. 2, pp. 1914-15). We may extract two of them:
+	</p>
+	<p title="Conclusion">
+		"Fraud, is deceit in grants and conveyances of lands, and bargains and sales of goods, etc. to the damage of another person which may be either by suppssion of the truth, or suggestion of a falsehood. (Tomlin) * * * Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -32- The colour of fraud in public law or administrative law, as it is developing, is assuming different shade. It arises from a deception committed by disclosure of incorrect facts knowingly and deliberately to invoke exercise of power and procure an order from an authority or tribunal. It must result in exercise of jurisdiction which otherwise would not have been exercised. That is misrepsentation must be in relation to the conditions provided in a section on existence or non-existence of which power can be exercised."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Any wilful attempt to defeat or circumvent any tax law in order to illegally reduce one's tax liability is a tax evasion which is termed as a tax fraud. The stamp duty payable under the Stamp Act is considered to be a species of tax levied on certain transfer documents and instruments. Any wilful attempt to defeat the provision of the Stamp Act or illegally evade one's liability to pay stamp duty will be a stamp evasion which would amount to a fraud."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		34. 'Fraud' has been defined as any conduct of deceit resulting in injury, loss or damage to someone. Deceit has also been explained by the Hon'ble Supme Court in (2013) 1 SCC 562 - Ram Chandra Bhagat vs. State of Jharkhand. The Hon'ble Supme Court explaining the 'deceit' following has been stated in paragraph 17 and 18:
+	</p>
+	<p title="Precedent Analysis">
+		"17.Stroud's Judicial Dictionary (5th Edn.) explains "deceit" as follows:
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -33- "Deceit.--'"Deceit", deceptio, fraus, dolus, is a subtle, wily shift or device, having no other name; hereto may be drawn all manner of craft, subtilly, guile, fraud, wilinesse, slight, cunning, covin, collusion, practice, and offence used to deceive another man by any means, which hath none other proper or particular name but offence'."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Black's Law Dictionary (8th Edn.) explains "deceit" thus:
+	</p>
+	<p title="Analysis of the law">
+		"Deceit, n.--(1) The act of intentionally giving a false impssion &lt;the juror's deceit led the lawyer to believe that she was not biased&gt;. (2) A false statement of fact made by a person knowingly or recklessly (i.e. not caring whether it is true or false) with the intent that someone else will act upon it."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		In The Law Lexicon by P. Ramanatha Aiyar (2nd Edn., Reprint 2000), "deceit" is described as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"Deceit.--Fraud; false repsentation made with intent to deceive; 'Deceit, "deception of fraud" is a subtle, wily shift or device, having no other name. In this may be included all manner of craft, subtlety, guile, fraud, wiliness, slight, cunning, covin, collusion, practice and offence used to deceive another may be by any means, which hath none other proper or particular name but offence'.""
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		35. When we see the sequence of event and the background of facts, which led the Corporate Applicant to file the Application, the oral submission, which was made before the Adjudicating Authority by the learned Senior Counsel for the Appellant does not reflect that there was Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -34- sufficient material before the Adjudicating Authority to come to the conclusion that Application under Section 10 filed by the Corporate Applicant was fraudulent and with malicious intent. The Adjudicating Authority in its impugned order has captured the particulars of financial debt and operational debt. The Adjudicating Authority has extracted part- IV of the Application, which is to the following effect:
+	</p>
+	<p title="Court's Reasoning">
+		PARTICULARS OF OPERATIONAL DEBT
+	</p>
+	<p title="Court's Reasoning">
+		1. Name(s) of Operational The names of the vendors of the Creditor(s) Corporate Applicant is annexed and marked as Annexure "A18".
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Name of the lessors of the Corporate Applicant is annexed and marked as Annexure "A19 (colly)". The Corporate Applicant craves leave to refer to and rely upon any information left out, at the time of hearing.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		2. Address of The details for address correspondence of the correspondence of the (a) vendors Operational Creditor(s) of the Corporate Applicant is marked as annexed and marked as Annexure "A18" and (b) of the lessors of the Corporate Applicant is annexed and marked as Annexure "A19 colly)".
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		3. Total debt raised and As on date, the Corporate amount in default Applicant has defaulted to pay its operational creditors, which includes dues towards its vendors which aggregate to an amount of INR 1,202 Crore (net of advances) and dues towards aircraft lessors aggregating to an amount INR 2,660 Crore. The details of the amount due to its vendors of the Corporate Applicant is provided under Annexure "A18". The amounts Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -35- due to the lessors of the Corporate Applicant is provided under Annexure "A19 (colly)".
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		5. Particulars of security Not Applicable.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		held, if any, the date of its creation, its estimated value as per the creditor.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Attach a copy of a certificate of registration of charge issued by the Registrar of Companies (if the Corporate Debtor is a Company)
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		4. Date when the operational The details of the operational debt was incurred debt with respect to the vendors and the lessors are set out in Annexure "A18" and Annexure "A19 (Colly)" respectively.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		5. Details of retention of title Not Applicable arrangements (if any) in respect of goods to which the operational debt refers
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		6. Record of default with the Not Applicable information utility, if any
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		7. List of documents (i) The details of the amount due attached to this to the vendors of the application in order to Corporate Applicant is prove the existence of provided under Annexure "A operational debt and the 18". The amounts due to the amount in default Lessors of the Corporate Applicant are provided under Annexure "A19".
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		(ii) A copy of the of the audited financial statement of the Corporate Applicant for the financial year 2020-21 is annexed and marked as Annexure "A20".
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -36-
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(iii) A copy of the audited financial statement of the Corporate Applicant for the financial year 2021-22 is annexed and marked as Annexure "A21".
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(iv) The statement of affairs of the Corporate Applicant as on 28 April 2023 is annexed and marked as Annexure "A22 colly".
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(v) A copy of the memorandum and articles of association of the Corporate Applicant is annexed and marked as Annexure "A23".
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(vi) Copy of Form 2 executed by Mr. Abhilas Lal is annexed and marked as Annexure "A24".
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(vii) Proof of Service of application on IBBI is annexed herewith and marked as Annexure "A25".
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		36. It is not the case of the Appellant that Corporate Applicant has not defaulted any payment of lease rentals to the Appellant(s). Non-payment of lease rentals is admitted fact and has been made basis of cancellation of Lease Agreement by the Lessors, which took place immediately after psentation of the Application under Section 10 on 02.05.2023.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		37. We, thus, are of the view that on the strength of the oral objections which were raised before the Adjudicating Authority on behalf of the Appellant as well as other, which has also been raised in this Appeal, no conclusion can be derived at this stage that Application filed by the Corporate Applicant was fraudulent with malicious intent. We, however, Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -37- hasten to add that Adjudicating Authority has given liberty to the Appellant to file an application under Section 65. It is open for the Appellant to file Section 65 Application with appropriate pleadings and materials and in the event of such Application has been filed, the Adjudicating Authority shall consider the Application in accordance with law without being influenced by any observations made in this order.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Issue Nos.(3) and (4)
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		38. The learned Senior Counsel for the Appellant as noted above has contended that Leases having been terminated by the Appellant(s) before admission of Section 10 Application, the aircrafts are no longer the assets of the Corporate Debtor, nor the said assets can be taken possession by the IRP and under the terms of Lease Agreement, Appellant(s) are entitled for the possession and exporting of the said aircrafts. It is submitted by learned Senior Counsel for the Appellant that assets required regular maintenance and Lease having been terminated, it cannot be now operated by the Corporate Applicant. Reliance on provisions of Section 18(1)(f) and the Explanation has been placed by learned Senior Counsel for the Appellant. It is submitted that aircraft being not assets over which Corporate Debtor has ownership rights, cannot be taken possession by the IRP, hence, when under the statute the possession cannot be taken by the IRP, the Lessors are entitled to take possession and export the aircrafts. The learned Senior Counsel for the Appellant further stated that after termination of the lease, they have already made an application to the Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -38- DGCA for deregistration of the aircrafts. The Appellant have also submitted that DGCA has sent an intimation that in view of the order dated 10.05.2023, further steps regarding deregistration have been withheld.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		39. Shri Ramji Srinivasan, learned Senior Counsel for the IRP on the other hand contends that the moratorium has been imposed under Section 14 by which the Appellant(s) are prohibited from recovering the assets, hence, the Lessors cannot recover any property, which is in possession of the Corporate Debtor. It is submitted that the aircrafts had been in possession of the Corporate Debtor, it being registered in their name and registration having not yet been cancelled, the Corporate Debtor is entitled to retain the possession. It is submitted that Section 14(1)(b), does not use a word 'legal possession'. Possession of any kind is fully protected by Section 14(1)(d). Shri Ramji Srinivasan has further contended that once a Corporate Debtor is admitted into CIRP, the Appellant cannot be allowed to take possession of the assets.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		40. We have considered the respective submission advanced by the learned Counsel for the partis on the aforesaid two questions. These Appeal(s) have been filed against the order admitting Application under Section 10 and the issues which are sought to be raised in this Appeal have not yet been considered by the Adjudicating Authority. When the Adjudicating Authority has not adverted to the aforesaid issues, where the CIRP is pending, we are of the view that ends of justice will be served by granting liberty to the Appellant(s) or to the IRP to make appropriate Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -39- Application before the Adjudicating Authority under Section 60, sub- section (5) of the Code. In event any such Application is filed under Section 60, sub-section (5), the Adjudicating Authority shall take appropriate decision in accordance with law. We, thus, are of the view that the issues, which have been raised and noted with regard to Question Nos.(3) and (4) need no consideration at this stage. It is the Adjudicating Authority, which need to consider the said question first.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		41. In view of the foregoing discussions, ends of justice will be served in disposing of these Appeal(s) in following manner:
+	</p>
+	<p title="Conclusion">
+		(1) The order dated 10.05.2023 admitting Section 10 Application is upheld.
+	</p>
+	<p title="Conclusion">
+		(2) The Appellant(s) are at liberty to file an appropriate Application under Section 65 of the Code with appropriate pleadings and material and Adjudicating Authority while considering the said Application shall not be influenced by any observations made in this order.
+	</p>
+	<p title="Conclusion">
+		(3) The Appellant(s) as well as IRP are at liberty to make appropriate Application before the Adjudicating Authority for declaration with regard to applicability of the moratorium on the aircrafts with regard to which Leases in favour of the Corporate Applicant were terminated prior to admission of Section 10 Application, which Application need to be Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023 -40- considered and decided by the Adjudicating Authority in accordance with law.
+	</p>
+	<p title="Conclusion">
+		(4) The Appellant(s) and the IRP are also at liberty to make an appropriate Application under Section 60, sub-section (5) with regard to claim of possession and other respective claims of both the parties relating to the aircrafts in question, which need to be decided by the Adjudicating Authority in accordance with law.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Parties shall bear their own costs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice Ashok Bhushan] Chairperson [Mr. Barun Mitra] Member (Technical) NEW DELHI 22nd May, 2023 Ashwani Company Appeal (AT) (Insolvency) Nos.593, 603, 604 &amp; 615 of 2023
+	</p>
+</div>
+</html>

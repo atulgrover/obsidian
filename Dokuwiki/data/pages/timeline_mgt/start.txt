@@ -1,0 +1,18 @@
+====== TIMELINE AGENTS ======
+
+<WRAP column 68%>
+{{agentic_framework:resolution_pillars:cms5.png}}
+{{agentic_framework:resolution_pillars:cms2.png}}
+{{agentic_framework:resolution_pillars:cms1.png}}
+</WRAP>
+
+<WRAP column 28%>
+/**
+[[https://tree.taiga.io/project/atulgrover-ibc-agentic-process|{{:professionals:pasted:20250504-065423.png?250}}]]
+**/
+{{:professionals:pasted:20250504-065423.png?250}}
+  * Leads Management
+  * Compliance Management
+  * Claim Management
+</WRAP>
+

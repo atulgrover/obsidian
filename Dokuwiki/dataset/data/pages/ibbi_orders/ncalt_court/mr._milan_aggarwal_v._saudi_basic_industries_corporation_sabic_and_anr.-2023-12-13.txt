@@ -1,0 +1,355 @@
+<html>
+<div>
+	<h2>
+		Milan Aggarwal vs Saudi Basic Industries Corporation ... on 13 December, 2023
+	</h2>
+	<h3>
+		Author: Ashok Bhushan
+	</h3>
+	<h3>
+		Bench: Ashok Bhushan
+	</h3>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL, PRINCIPAL BENCH, NEW DELHI Company Appeal (AT) (Insolvency) No.231 of 2023(Arising out of Order dated 22.02.2023 passed by the Adjudicating Authority(National Company Law Tribunal), Jaipur Bench in CP (IB) No.108/9/JPR/2019)IN THE MATTER OF:Mr. Milan Aggarwal(Suspended Director of PrayagPolytech Private Limited)B-74, South City-1, Gurugram- 122002 ... AppellantVs1. Saudi Basic Industries Corporation (SABIC) P.O. Box 59090, Riyadh 11525, Saudi Arabia2. Prayag Polytech Private Limited Through Interim Resolution Professional C-587, Phase-1, Industrial Area, Bhiwadi, Alwar, Rajasthan 301019, India ... RespondentsPresent:For Appellant: Mr. Virender Ganda, Sr. Advocate with Mr. Abhijeet Sinha, Mr. Vipul Ganda, Mr. Ayandeb Mitra, Amodini Raina, Avnika Mishra, AdvocatesFor Respondent: Mr. Amit Agrawal, Mr. Shwetabh Sinha, Mr. Sidhant Pandith, Ms. Vatsala Pandey, Ms. Radhika Yadav, Advocates for R-1 Mr. Brijesh Kr. Tamber, Mr. Vinay Singh Bist, Mr. Prateek Kushwaha, Mr. Sahas Bhasin, Mr. Yashu Rustagi, Advocates for Canara Bank, Intervener Mr. Nitish Massey, Advocate for PCBL, Intervener JUDGMENT
+	</p>
+	<p title="Issue" data-structure="Issue">
+		ASHOK BHUSHAN, J.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		This Appeal by a Suspended Director of the Corporate Debtor has been filed challenging order dated 22.02.2023 passed by National Company Company Appeal (AT) (Insolvency) No.231 of 2023 1 Law Tribunal, Jaipur Bench admitting Section 9 Application filed by Saudi Basic Industries Corporation ("Operational Creditor", who is Respondent No.1 herein).
+	</p>
+	<p title="Issue" data-structure="Issue">
+		2. Brief facts of the case necessary to be noticed for deciding the Appeal are:
+	</p>
+	<p title="Issue">
+		(i) Operational Creditor and the Corporate Debtor entered into a Sale Order Agreement for purchase of goods. Goods were delivered and invoice dated 06.06.2017 was issued by Operational Creditor for an amount of USD 403,920, which was to be paid within 90 days, i.e., by 04.09.2017. Only part payment of USD 276,580 was made by the Corporate Debtor, leaving a balance of USD 127,340.
+	</p>
+	<p title="Issue">
+		(ii) Different emails were sent by the Operational Creditor requesting the Appellant - Director of the Corporate Debtor to make the payments upto date. The Appellant on behalf of Corporate Debtor sent email on 15.09.2017, replying to the email stating that they were expecting extension of their bank limit and they will pay dues under all the outstanding invoices.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		The Appellant on behalf of the Corporate Debtor acknowledged the dues vide emails dated 21.09.2017 and 30.09.2017. By letter dated 26.03.2018, the Corporate Debtor issued a letter of acknowledgement of the outstanding amount. In reply to the several emails sent on behalf of the Corporate Debtor, Company Appeal (AT) (Insolvency) No.231 of 2023 2 acknowledgements were made by the Corporate Debtor and Corporate Debtor assured time and again to the Operational Creditor to make entire payment.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(iii) No payments were forthcoming, the Operational Creditor issued a Demand Notice under Section 8 of the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as the "Code") dated 03.04.2019, which was received by the Corporate Debtor. In response to which Notice, an email dated 06.04.2019 was sent by the Corporate Debtor, denying the liability to pay outstanding amount. A reply dated 19.04.2019 to the Demand Notice dated 03.04.2019 was also sent by the Corporate Debtor. The Operational Creditor, filed Section 9 Application. In Section 9 Application, the Corporate Debtor also filed reply.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(iv) After more than two and a half years of filing of Section 9 Application, the Corporate Debtor filed an Application being I.A. No.139 of 2022 under Section 65 of the Code praying for dismissal of Section 9 Application. A reply to the IA No.139 of 2022 was filed by the Operational Creditor.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(v) The Adjudicating Authority after hearing both the parties at length by the impugned order dated 22.02.2023 has admitted Section 9 Application. The Adjudicating Authority returned a finding that Corporate Debtor had repeatedly acknowledged Company Appeal (AT) (Insolvency) No.231 of 2023 3 his liability from 15.09.2017 and the Corporate Debtor for the first time tried to raise certain dispute after the receipt of the Demand Notice. The Adjudicating Authority also held that there was no p-existing dispute between the parties prior to issue of Demand Notice. The Adjudicating Authority also returned a finding that the fact that the Operational Creditor had bought an insurance policy does not absolve the Corporate Debtor from its liability and the Operational Creditor was obliged to initiate legal proceeding against the Corporate Debtor for dues, which the Operational Creditor was obliged to pay back to the Insurer under the terms and conditions of insurance policy.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Aggrieved by the impugned order, this Appeal has been filed by the Suspended Director of the Corporate Debtor.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		3. We have heard Shri Virender Ganda, learned Senior Counsel appearing on behalf of the Appellant and Shri Amit Agrawal, learned Counsel appearing on behalf of Operational Creditor (Respondent No.1 herein).
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		4. Shri Virender Ganda, learned Senior Counsel challenging the impugned order submits that the Operational Creditor having received the amount from the Insurer, i.e., Tawuniya, which fact was suppssed in Section 9 Application, there is no debt due on the Corporate Debtor for which Section 9 Application could have been proceeded with. The Company Appeal (AT) (Insolvency) No.231 of 2023 4 Operational Creditor having concealed the aforesaid fact, the Application deserved to be dismissed. It is submitted that the Appellant having withhold the material information that it has received the claimed amount from Insurer, Application under Section 9 deserved to be dismissed. It is submitted that Operational Creditor has come up in Section 9 Application with unclean hand and has failed to produce all the documents executed by it, which were relevant to the litigation, which constitute a fraud on both, the Court and the Corporate Debtor. The Application filed by Operational Creditor ought not to have been entertained and deserved to be rejected under Section 65 of the Code. The Code cannot be used for recovery proceedings. It is submitted that Section 9 Application filed by the Operational Creditor is a proxy litigation on behalf of the Insurer. The Corporate Debtor is not a creditor. There was p-existing dispute between the parties. The learned Senior Counsel has referred to email dated 26.02.2019 received from a consumer. The learned Senior Counsel relied on email dated 06.04.2019 as well as reply dated 19.04.2019 to Demand Notice. Shri Virender Ganda further submits that Company is a solvent Company and out of several insolvency petitions filed against the Corporate Debtor, which was initially 32, now they have been reduced to 10 only. The current turnover of the Corporate Debtor is close to Rs.50 crores. The learned Senior Counsel lastly submits that the Appellant is ready to deposit the claimed amount, so as to release Respondent No.2 from the clutches of Corporate Insolvency Resolution Process ("CIRP") Company Appeal (AT) (Insolvency) No.231 of 2023 5
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		5. Shri Amit Agrawal, learned Counsel appearing for Respondent No.1, refuting the submissions of learned Senior Counsel for the Appellant submits that there is operational debt due on the Corporate Debtor amounting to USD 127,340, as the Corporate Debtor has only made part payment of USD 276,580. It is submitted that after the due date for payment in response to several emails sent by the Operational Creditor, the Corporate Debtor has time and again acknowledged the debt and assured to make payment. The learned Counsel submits that all emails reflecting the acknowledgement and assurance by the Corporate Debtor has been noticed in detail by the Adjudicating Authority and also been quoted in the order. It is submitted that Corporate Debtor has acknowledged the debt by letter dated 28.11.2017 and 26.03.2018. There being repeated acknowledgement by the Corporate Debtor, the plea on behalf of Corporate Debtor that there was p-existing dispute is dishonest and moonshine plea. Goods were received by the Corporate Debtor in 2017 and for more than two years although there has been several correspondences between the parties, at no point of time any issue regarding quality of goods were raised and it was only after the Demand Notice received by the Corporate Debtor, for the first time by reply mail dated 06.04.2019, dispute was sought to be raised, which is nothing but a moonshine. Replying to submission of learned Counsel for the Appellant that the Operational Creditor has not disclosed in Section 9 Application about the receiving of insurance claim from Tawuniya, it is submitted that Operational Creditor vide email dated 20.09.2017 as well as by email dated Company Appeal (AT) (Insolvency) No.231 of 2023 6 26.09.2017 had requested the Corporate Debtor to make payment, otherwise, the Operational Creditor shall lodge their claim with Insurance Company. Thus, filing of the claim before the Insurance Company was very much communicated to the Corporate Debtor. It is further submitted that Insurance Agreement between the Corporate Debtor and the Insurance Company has nothing to do with the Corporate Debtor and payment of insurance claim by the Insurance Company to the Operational Creditor does not absolve the Corporate Debtor from its liability to pay its dues. It is submitted that the Operational Creditor is under obligation to initiate legal proceedings against the Appellant to recover the outstanding debt. The amount received by Operational Creditor from the Insurance Company has to be remitted back. It is submitted that there is no question of any concealment or playing fraud to Court or on the Appellant. There was no subrogation made by the Operational Creditor in favour of the Insurer and the Operational Creditor was fully entitled to prosecute legal proceedings against the Corporate Debtor. It is submitted that the Corporate Debtor cannot disown its liability for debt on the ground that Operational Creditor has received claim from the Insurance Company. It is submitted that Corporate Debtor is liable to pay the outstanding amount along with interest as claimed in Section 9 Application.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		6. Both the learned Counsel for the parties have relied on various judgments of the Hon'ble Supme Court, this Tribunal and different High Courts in support of their submissions, which shall be referred to while considering the submissions in detail.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) No.231 of 2023 7
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		7. We have considered submissions of learned Counsel for the parties and have perused the record.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		8. The submission which has been much pssed by learned Senior Counsel for the Appellant is that Operational Creditor having received the claim from the Insurance Company, there was no debt due on the Corporate Debtor for which Section 9 Application could have been filed or prosecuted. It is further submitted by the learned Counsel for the Appellant that non-disclosure of the said fact that payment has been received from the Insurance Company amounted to concealment of relevant fact and playing of fraud on the Court as well as the Corporate Debtor. Before we proceed to consider the rival contentions of the parties, it shall be useful to notice the correspondence exchanged between the parties after issue of the invoice dated 06.06.2017 by the Operational Creditor for an amount of USD 403,920. In Section 9 Application, the Operational Creditor has brought on record details of the correspondence between the parties, i.e., the letters and emails sent by the Operational Creditor for payment to the Corporate Debtor and reply submitted by Corporate Debtor. We may notice the replies sent by the Corporate Debtor in reply to the demand made by the Operational Creditor with respect to the outstanding payment. We may first notice the email dated 15.09.2017 issued by none-less than the Appellant, where the Appellant assured for payment of entire dues. Email dated 15.09.2017 is as follows:
+	</p>
+	<p title="Petitioner's Argument">
+		"Dear Sir Company Appeal (AT) (Insolvency) No.231 of 2023 8 We have visited your office and explained the situation in details.
+	</p>
+	<p title="Petitioner's Argument">
+		We confirmed that moment we have our bank extension limits, we will pay the entire dues.
+	</p>
+	<p title="Petitioner's Argument">
+		We are expecting it to happen within this month and we will pay the entire due invoices.
+	</p>
+	<p title="Petitioner's Argument">
+		Please support us.
+	</p>
+	<p title="Petitioner's Argument">
+		Thanks Milan Aggarwal"
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		9. The Operational Creditor has also relied on its email dated 20.09.2017, where it has requested the Corporate Debtor to arrange for payment, otherwise, the Operational Creditor will file the claim with Insurance Company. The email dated 20.09.2017 is as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"Dear Sir, Please find below the due payment details. Request please arrange to make payments due for the month of July and August asap, otherwise SABIC will file the claims with insurance Company.
+	</p>
+	<p title="Precedent Analysis">
+		Payment Due Date Amount in USD 22.07.2017 66,330.00 22.07.2017 67,320.00 18.08.2017 31,432.50 08.09.2017 403,920.00 21.08.2017 181,670.00 08.09.2017 25?444.00 80.09.2017 82,812.50 10.09.2017 208,656.00 08.10.2017 186,620.00 Total 1,392,205.00 Best Regards"Company Appeal (AT) (Insolvency) No.231 of 2023 9
+	</p>
+	<p title="Precedent Analysis">
+		10. By email dated 30.09.2017, the Appellant again communicated that 100% dues shall be paid. The said email is as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"Dear Sir We have already paid one invoice and we will be able to give you swift copy on 3rd or 4th.
+	</p>
+	<p title="Precedent Analysis">
+		Our bank limits enhancement has been delayed by 2 weeks, so please keep patience and support. Rest assured you will get your 100% dues. Milan Agarwal"
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		11. In response to letter issued by the Operational Creditor for requesting payment, an acknowledgement of outstanding was issued on 28.11.2017 by the Corporate Debtor, which is to the following effect:
+	</p>
+	<p title="Court's Reasoning">
+		"Dear Sir, ACKNOWLEDGEMENT OF OUTSTANDING PAYABLE AMOUNT We note that as of the date of this letter, our outstanding amount owing to SABIC Asia Pacific Pte. Ltd. ("SAPPL") for purchase of SABIC petrochemicals currently stands at us $ 981,351.00.
+	</p>
+	<p title="Court's Reasoning">
+		&amp; To SABIC, KSA for purchase of SABIC petrochemicals currently stands at US $ 537,570.00 which total to US$1,518,921.00.
+	</p>
+	<p title="Court's Reasoning">
+		We acknowledge the amount of US$ 1,518,921.00 outstanding and owing to SABIC as the date of this letter, and that we agree not to raise any dispute to SABIC lawful claim for the amount."
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) No.231 of 2023 10
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		12. An acknowledgement was again given by the Corporate Debtor by endorsing its signature to the various dues of the Operational Creditor and other entities of the same group, which acknowledgement is as follows:
+	</p>
+	<p title="Analysis of the law">
+		"Date:28 November 2017 Prayag Polytech Private Limited C-587, Phase 1, Industrial Area, Bhiwadi, Alwar 301019 India Dear Sirs, ACKNOWLEDGMENT OF OUTSTANDING PAYABLE AMOUNT We note that as of the date of this letter, your outstanding amount owing to SABIC Asia Pacific Pte Ltd ("SAPPL") for purchase of SABIC petrochemicals currently stands at US$ 981,351.00.
+	</p>
+	<p title="Analysis of the law">
+		&amp; To SABIC, KSA for purchase of SABIC petrochemicals currently stands at US$ 537,570.00 which total to US $ 1,518,921.00 Kindly sign on this letter as an acknowledgement of the amount of US$ 1,518,921.00 outstanding and owing to SABIC as at the date of this letter, and that you agree not to raise any disputes to SABIC lawful claim for this amount Your faithfully, SABIC Asia Pacific Ptd. Ltd.
+	</p>
+	<p title="Analysis of the law">
+		Sd/-
+	</p>
+	<p title="Analysis of the law">
+		I, Milan Aggarwal authorized signtory of Prayag Polytech Pvt. Ltd., hereby acknowledge and agree to the contents of this letter.
+	</p>
+	<p title="Analysis of the law">
+		Signature Sd/-
+	</p>
+	<p title="Analysis of the law">
+		Name ____ Company Appeal (AT) (Insolvency) No.231 of 2023 11 Title: Director"
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		13. On 04.12.2017, the Appellant again wrote "We are committed to pay the dues asap.". On 26.03.2018, an acknowledgement given by the Corporate Debtor is to the following effect:
+	</p>
+	<p title="Analysis of the law">
+		"Dear Sir, ACKNOWLEDGEMENT OF OUTSTANDING PAYABLE AMOUNT (Balance Confirmation) We note as of the date of this letter, our outstanding amount owing to SABIC Asia Pacific Ltd. ("SAPPL") for purchase of SABIC petrochemicals currently stands at USD 516780 &amp; To SABIC KSA for purchase of SABIC petrochemicals currently stands at USD 289980 which totals to USD 806760.
+	</p>
+	<p title="Analysis of the law">
+		We acknowledge the amount of USD 806760 outstanding and owing to SABIC as at the date of this letter, and that we agree not to raise any disputes to SABIC lawful claim for the amount.
+	</p>
+	<p title="Analysis of the law">
+		We are pleased to inform that our request for working capital enhancement has finally been approved by our group of bankers, and awaiting for the disbursement. We also expect to get GST refund soon, and hope to clears all your dues by April 2018."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		14. Even on 02.05.2018, assurance was given by the Appellant in following words:
+	</p>
+	<p title="Analysis of the law">
+		"Dear sir, Company Appeal (AT) (Insolvency) No.231 of 2023 12 We shall pay as soon our enhanced limits are cleared.
+	</p>
+	<p title="Analysis of the law">
+		Let's hope it happens asap/ within may.
+	</p>
+	<p title="Analysis of the law">
+		Milan Aggarwal Prayag Polytech Pvt. Ltd.
+	</p>
+	<p title="Analysis of the law">
+		C-587, phase 1, bhiwadi industrial area Bhiwadi, Rajasthan, India"
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		15. Part payment was made on 01.08.2018 of USD 127,340 and the balance thereafter remained as USD 127,340.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		16. Now, we come to the submissions of Shri Virender Ganda, learned Senior Counsel that non-disclosure by the Operational Creditor that it has received amount from Insurer is concealment of relevant fact and playing fraud on the Court and the Corporate Debtor. Suffice it to say that the Corporate Debtor was communicated by Operational Creditor vide email dated 15.09.2017 and 26.09.2017 (as extracted above) requesting the payment, failing which the Operational Creditor will lodge their claim with the Insurance Company. The fact that claim shall be submitted before the Insurance Company by the Operational Creditor was thus duly communicated to the Corporate Debtor. The copy of the Insurance Policy of Terms and Conditions of the insurance has been brought on record by Operational Creditor in its reply. After the claim was lodged, one of the clauses, which has been relied by Operational Creditor in the Insurance Policy is clause 21310.00, which is as follows:
+	</p>
+	<p title="Analysis of the law">
+		"Amounts held in trust All amounts received by you or by any person acting on your behalf after the Date of Loss should immediately be Company Appeal (AT) (Insolvency) No.231 of 2023 13 remitted to us. Until this remittance is made, you hold such amounts in trust for us."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		17. The Operational Creditor has also brought on record letter dated 23.10.2018 by which Insurance Company Tawuniya has accepted the claim and offered to make the payment of USD 127,340.00. The offer letter is as follows:
+	</p>
+	<p title="Analysis of the law">
+		" Twauniya Tawuniya Claim No: 497753-6 Atradius Reference: 9840304 Date: 23/10/2018 Dear Sirs, Buyer name: Prayag Polytech Private Limited. Country: India
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Thank you for your claim received by Tawuniya.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Based on the information you have provided to us, including that the claimed receivables that are legally due and owing to you, we have assessed your Claim lodged under Policy No's. 497753 and fount it to be valid with the main cause of your loss being that Prayag Polytech Private Limited failed to make payment for six (6) months after the original due date for payment (refer Policy Section 00500.00).
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		The amount, which we are to pay you as, set out in the following calculations:
+	</p>
+	<p title="Precedent Analysis">
+		Starting balance of claim USD 289,980.00 Amount Covered USD 289,980.00 Indemnity percentage 100% Amount payable USD 289,980.00 Recoveries after date of loss USD 162,640.00Company Appeal (AT) (Insolvency) No.231 of 2023 14 Liability payable USD 127,340.00
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		In exchange for payment in full and final settlement of your Claim, a direct of SAUDI BASIC INDUSTRIES CORPORATION is required to sign and return this Claim Offer ("Offer") to Tawuniya. Once payment has been made, you will no longer have any claim against Tawuniya, or its assignee, and you discharge Tawuniya, and its assignee, from all further obligations in respect of the claim.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Please note that we are currently not exercising our rights of formal assignment of debt and by accepting this settlement offer you agree to maintain full rights in respect of the receivables subject to this claim and to formally assign this debt to Tawuniya when requested. Failure to agree to a formal assignment of debt upon our request will be a breach of policy condition and in such case; you agree to return the liability payable amount back to Tawuniya within 7 days of Tawuniya making a formal demand for return of this claim liability payable amount.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		As this Offer is a legally binding document, Tawuniya is unable to advise you on its terms. You should obtain your own independent legal and financial advice before signing and returning it to us.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Upon receipt of signed acceptances of our Offer, Tawuniya will endeavour to finalise payment to you within Fourteen (14) business days during which time our Recoveries Agent will be in contact with you. In the interim, we remind you of your obligation to do Company Appeal (AT) (Insolvency) No.231 of 2023 15 everything possible to recover your loss after we pay you the amount under this Offer.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Please note that under the terms of your Policy all monies received from the buyer are to be held in trust for Tawuniya and must be paid to us as soon as practical."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		18. The offer letter issued by the Insurance Company clearly mentions the buyer's name of the Corporate Debtor and clearly states that Operational Creditor is under obligation to do everything possible to recover loss, after Insurer paid the amount under offer.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		19. The learned Senior Counsel for the Appellant placed reliance on judgment of Hon'ble Supme Court in S.P. Chengalvaraya Naidu v. Jagannath &amp; Ors. (1994) 1 SCC 1; A.V. Papayya Sastry &amp; Ors. v. Govt. of A.P. &amp; Ors. (2008) 4 SCC 221 and Ramjas Foundation &amp; Anr. v. Union of India &amp; Ors. (2010) 14 SCC 38 to support his submission that non-disclosure of the factum of receiving of the amount from Insurance Company is a fraud both on Court and the opposite party. It is submitted that due to the aforesaid fact, the Application deserves to be rejected.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		20. Coming to the judgment of the Hon'ble Supme Court in S.P. Chengalvaraya Naidu, where the Hon'ble Supme Court has held that non-disclosure of relevant and material documents with a view to obtain advantage amounts to fraud. In the said case, the Respondent's non- disclosure of deed of release executed by him relinquishing his rights in the property and pliminary decree obtained was held to be fraud. Thus, what Company Appeal (AT) (Insolvency) No.231 of 2023 16 was held by Hon'ble Supme Court in paragraph 6 of the judgment is as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"6. The facts of the psent case leave no manner of doubt that Jagannath obtained the pliminary decree by playing fraud on the court. A fraud is an act of deliberate deception with the design of securing something by taking unfair advantage of another. It is a deception in order to gain by another's loss. It is a cheating intended to get an advantage. Jagannath was working as a clerk with Chunilal Sowcar. He purchased the property in the court auction on behalf of Chunilal Sowcar. He had, on his own volition, executed the registered release deed (Ex. B-15) in favour of Chunilal Sowcar regarding the property in dispute. He knew that the appellants had paid the total decretal amount to his master Chunilal Sowcar. Without disclosing all these facts, he filed the suit for the partition of the property on the ground that he had purchased the property on his own behalf and not on behalf of Chunilal Sowcar. Non-production and even non-mentioning of the release deed at the trial is tantamount to playing fraud on the court. We do not agree with the observations of the High Court that the appellants-defendants could have easily produced the certified registered copy of Ex. B-15 and non-suited the plaintiff. A litigant, who approaches the court, is bound to produce all the documents executed by him which are relevant to the litigation. If he withholds a vital document in order to gain advantage on the other side then he would be guilty of playing fraud on the court as well as on the opposite party."
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		Company Appeal (AT) (Insolvency) No.231 of 2023 17
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		21. The psent is a case, which arises out of Section 9 Application filed by the Operational Creditor, which Section 9 Application was filed in pscribed proforma as per Rule-6 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016 and all details as required under the pscribed form in Part-I to Part-V were mentioned. All relevant documents pertaining to debt and default committed by the Corporate Debtor has been mentioned. The contract between the Operational Creditor and the Insurer was third party contract with which Corporate Debtor was not concerned. The emails were already sent by the Operational Creditor informing the Corporate Debtor that if payments were not made, claim shall be lodged before the Insurer. Thus, the Agreement with the Insurer by the Operational Creditor was communicated to the Corporate Debtor and it cannot be accepted that contract of the Insurer was concealed by the Operational Creditor.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		22. The other judgment of the Hon'ble Supme Court relied by the learned Senior Counsel for the Appellant is A.V. Papayya Sastry and Ramjas Foundation. In this judgments, the Hon'ble Supme Court reiterated the principle as laid down in S.P. Chengalvaraya Naidu's case. A.V. Papayya Sastry was a case where it was held that judgment and decree obtained by fraud has to be treated as non-est and nullity. There cannot be any dispute to the proposition laid down by the Hon'ble Supme Court in the aforesaid case. However, psent is not a case of any fraud committed by Operational Creditor. The Corporate Debtor, who owed operational debt and on non-payment of which Operational Creditor Company Appeal (AT) (Insolvency) No.231 of 2023 18 initiated appropriate proceedings under Section 9. There is no question of playing any fraud by the Operational Creditor by filing Section 9 Application against Corporate Debtor. The judgment of the Hon'ble Supme Court in Ramjas Foundation was also a case of fraud on Court, where Court held that Appellant deliberately refrained from mentioning details of cases instituted by them and rejection of their claim. In the said background it was held that fraud was played. All the above cases are clearly distinguishable and has no application in the psent case.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		23. Now, we come to the judgment relied by Shri Amit Agrawal, learned Counsel for Respondent No.1, where it has been held that even if there is a contract between the Insurer and Insured and the amount has been received by the Insured, proceedings for recovery of the amount due, can be initiated by the Insured, and the party who owes the amount cannot be absolved on the ground that claim has been received from the Insurer. The learned Counsel for the Respondent has relied on the judgment of the Hon'ble Supme Court in Economic Transport Organisation v. Oriental Insurance Company Limited - (2010) 4 SCC 114. The above was a case where assured took a policy of insurance from National Insurance Co. Ltd., covering transit risks. The good vehicle carrying the consignment met with an accident and consignment was damaged. The Insurer settled the claim for an amount of Rs.4,47,436/- whereas the value of the consignment was Rs.7,70,948/-. On receiving the payment from the Insurance Company, a letter of subrogation-cum-special power of attorney was executed in favour of Insurance Company. Thereafter, a complaint was Company Appeal (AT) (Insolvency) No.231 of 2023 19 filed by both Insurance Company and Assured, which was allowed and direction was issued for payment of Rs.4,47,436/- along with interest. The Appellant, who was directed to make the payment, challenged the order before the State Consumer Disputes Redressal Commission and National Consumer Disputes Redressal Commission, which all were dismissed, against which the appeal was filed before the Hon'ble Supme Court. The Hon'ble Supme Court in the above context came to examine, as to whether the complaint can be maintained seeking compensation for loss in a case where assured has received the amount. The Hon'ble Supme Court in Constitution Bench in paragraphs 14 and 16 laid down that even after receiving of the claim from Insurance Company, a complaint can be filed. The Hon'ble Supme Court in paragraphs 14 and 16 has laid down following:
+	</p>
+	<p title="Precedent Analysis">
+		"14. The assured entrusted the consignment for transportation to the carrier. The consignment was insured by the assured with the insurer. When the goods were damaged in an accident, the assured, as the consignor-consumer, could certainly maintain a complaint under the Act, seeking compensation for the loss, alleging negligence and deficiency in service. The fact that in pursuance of a contract of insurance, the assured had received from the insurer, the value of the goods lost, either fully or in part, does not erase or reduce the liability of the wrongdoer responsible for the loss. Therefore, the assured as a consumer, could file a complaint under the Act, even after the insurer had settled its claim in regard to the loss.
+	</p>
+	<p title="Precedent Analysis">
+		16. The equitable assignment of the rights and remedies of the assured in favour of the insurer, implied in a contract of Company Appeal (AT) (Insolvency) No.231 of 2023 20 indemnity, known as "subrogation", is based on two basic principles of equity:
+	</p>
+	<p title="Precedent Analysis">
+		(a) No tortfeasor should escape liability for his wrong;
+	</p>
+	<p title="Precedent Analysis">
+		(b) No unjust enrichment for the injured, by recovery of compensation for the same loss, from more than one source.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		The doctrine of subrogation will thus enable the insurer, to step into the shoes of the assured, and enforce the rights and remedies available to the assured."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		24. The Hon'ble Supme Court even held that in case a subrogation, rights of the assured was not put to an end and assured can sue the wrongdoer and recover the damages for the loss. In paragraph 35 (ii), following was laid down by the Hon'ble Supme Court:
+	</p>
+	<p title="Precedent Analysis">
+		"35.(ii) Subrogation does not terminate nor puts an end to the right of the assured to sue the wrongdoer and recover the damages for the loss. Subrogation only entitles the insurer to receive back the amount paid to the assured, in terms of the principles of subrogation."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		25. Ultimately, in paragraph 58, the Hon'ble Supme Court dismissed the appeal by laying down following:
+	</p>
+	<p title="Precedent Analysis">
+		"58. The loss of consignment by the assured and settlement of claim by the insurer by paying Rs 4,47,436 is established by evidence. Having regard to the psumption regarding negligence under Section 9 of the Carriers Act, it was not necessary for the complainants to prove further that the loss/damage was due to the Company Appeal (AT) (Insolvency) No.231 of 2023 21 negligence of the appellant or its driver. The psumption regarding negligence was not rebutted. Therefore, the District Forum was justified in allowing the complaint brought by the assured (the first respondent) repsented by the insurer and the insurer for recovery of Rs 4,47,436. The said order was affirmed by the State Commission and the National Commission. We find no reason to interfere with the same. The appeal is, therefore, dismissed."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		26. The next judgment relied by Shri Amit Agrawal is judgment of the Bombay High Court in winding up petition, i.e., Rojee-tasha Stampings Pvt. Ltd. v. POSCO-India Pune Processing Centre Pvt. Ltd. and Anr. - (2019) (1) Maharashtra Law Journal Page 857. The above was a case where Company Petition was filed claiming a debt, which Company Petition was opposed on the ground that Company Petition was not maintainable since the Company has received the amount due and payable from its Insurer. In paragraphs 4 to 8, facts and submissions of the case has been noticed by the Bombay High Court, which are to the following effect:
+	</p>
+	<p title="Precedent Analysis">
+		"4. The company Court thereafter took up the company petitions for hearing. The company filed an additional affidavit of Mr.Rohit R. Ganage dated 15 September 2015 opposing the petitions interalia introducing a new case namely that the company petitions were not maintainable, for the reason that the respondent had received the amounts due and payable by the company from its insurers "KSure-Korea". It was stated that this fact was suppssed by the respondent who was attempting to unjustly enrich itself by making claims Company Appeal (AT) (Insolvency) No.231 of 2023 22 against the company. It was contended that in view of the payment received from the insurance company, there was no longer a debt outstanding from the company and the respondent was not a creditor of the company. It was thus contended that the winding up petitions at the instance of the respondent would not be maintainable, as the respondent ceased to be a creditor within the meaning of pvr 7/20 appl134-18grp.doc Section 433 and 434 of the Companies Act. It was stated that this fact had went unnoticed when the consent order dated 25 June 2014 was passed by the Court. It was thus the case of the company that it be released from the statements and undertaking as made to the Court and recorded in the consent order dated 25 June 2014.
+	</p>
+	<p title="Precedent Analysis">
+		5. The learned Company Judge having considered the rival pleas held that the said defence of the company was not acceptable as the company was a third party and could not have taken a defence that the amounts subject matter of the debt of the company has already been paid by the respondents' insurer and consequently avoid making payment on that ground. Considering the legal position on this issue, the learned Company Judge observed that even if the respondent has received payment from the insurance company, the respondent was still entitled to proceed against the company. The learned Single Judge disbelieved the subsequent affidavit dated 15 September 2015 filed by one of the Directors of the company Mr.Rohit R.Ganage, to contend that the company was not aware of the respondent's insurer making payment to the respondent. Moreover, taking Company Appeal (AT) (Insolvency) No.231 of 2023 23 into consideration the material on record the learned Company Judge has observed that the pvr 8/20 appl134-18grp.doc company has in fact made a false statement in the said affidavit that the company came to know only in July/August 2015 of the respondent having received the payment from the insurance company. This for the reason that this was being urged on the basis of an E-mail dated 14 June 2012 (page 96 of the paper book) from Ksure to the company which was very much in existence and available with the company when the company Court passed an order dated 25 June 2014. The learned Single Judge accordingly ordered that the company be wound up. The company being aggrieved by the impugned order is before the Court in the psent appeals.
+	</p>
+	<p title="Precedent Analysis">
+		6. Learned Counsel for the appellant/company in assailing the impugned order has made the following submissions:-
+	</p>
+	<p title="Precedent Analysis">
+		(i) There should have been a disclosure by the respondent of the receipt of the amounts from the insurer-Ksure. This to ascertain whether the insurer was assigned the rights in respect of the debt of the company towards the respondent and/or to ascertain whether the insurer subrogates the rights of the respondent to the debt in question.
+	</p>
+	<p title="Precedent Analysis">
+		(ii) As the respondents had received the entire amount from the insurance company, there was no longer a debt outstanding from the pvr 9/20 appl134-
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		18grp.doc company as also the respondent ceased Company Appeal (AT) (Insolvency) No.231 of 2023 24 to be creditors of the company within the meaning of Section 433 and 434 of the Companies Act.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		(iii) The observations of the learned Company Judge that the Company has filed a false affidavit when it contended that it had recently received the knowledge of the payment made by the insurer to the respondents-companies, is an error inasmuch as the affidavit was filed by the Mr.Rohit R. Ganage who was a new Director.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		7. In supporting the submission that the respondent having received the amounts as outstanding from the company, from its insurer and thus there was no debt due and payable by the company to the respondents, the learned Counsel for the respondents has placed reliance on the decisions in the case "Union of India Vs. Sri Sarada Mills Ltd."1; Economic Transport Organization, Delhi Vs. Charan Spinning Mills Pvt.Ltd. &amp; Anr.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		8. On the other hand, the learned Counsel for the respondents in supporting the impugned order would submit that despite the payment being made by the insurer, the respondent's cause of action against the company would very well survive considering the 1 AIR 1973 SC 281 2 (2010)4 SCC 114 pvr 10/20 appl134- 18grp.doc settled position in law, that such a contention as urged on behalf of the company cannot be a defence as it would be the subject matter of separate proceedings between the insurer and the respondent. It is submitted that the company being a third party cannot take such a defence so as to disown its liability. It is next submitted that the learned Single Judge has correctly observed that the affidavit of Mr.Rohit R. Ganage dated 15 September Company Appeal (AT) (Insolvency) No.231 of 2023 25 2015 interalia stating that it had recently come to the notice of the Directors of the Company that the amount having received from the insurer, there was no debt due and payable by the company to the respondent, was ex- facie a false statement. It is submitted that this plea was completely falsified by E- mail dated 14 June 2012 addressed by Ksure to the Companies. It is submitted that the defence of the appellant company was not bonafide and honest. In any case, the receipt of the amount from the company would not vitiate the cause of action which had accrued to the respondent."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		27. The Hon'ble Bombay High Court after hearing the parties held that third party cannot take shelter and disown its liability of a debt payable to the Company on the basis that insurance transaction has taken place between Respondent and its Insurer. In paragraphs 12, 14 and 16, following was laid down:
+	</p>
+	<p title="Precedent Analysis">
+		"12. Be that as it may, it would be imperative to consider whether such a plea that the debt of the company payable to the respondent ceased to exist on the respondent's insurer making payment to the respondent, can at all be accepted. Admittedly, the company is a unknown entity to the contract of insurance between the respondent and its insurer Ksure. Being a third party the company pvr 14/20 appl134-18grp.doc cannot take shelter and disown its liability of a debt payable to the respondent on the basis of an insurance transaction which has taken place between the respondent and its insurer. In our opinion, such a plea introduced in the affidavit of Mr.Rohit R. Ganage is an Company Appeal (AT) (Insolvency) No.231 of 2023 26 argument of desperation. Being a third party, the company is not entitled to take a defence that the respondent being paid by the insurer, the liability of the company would ceased to exist, as the insurance contract between the respondent and its insurer is a matter inter-se between the said two parties. It is for the insurer depending upon the terms and conditions of the contract between the respondent and the insurer, to consider its position and recover any amount, if so is received by the respondent under the transaction in question. The company stands completely outside the insurance contract between the respondent and its insurer. In our opinion, the Company cannot espouse the cause of the insurer in making an argument that the respondent is unjustly enriched. In our opinion, the principle of law in this regard can very well be seen from the decisions in "Morley Vs. Moore"3 and "Yorkshire Insurance Vs. Nisbet Shipping Co.Ltd." 4 as referred in the impugned order. We are also in agreement with the view taken by the 3 1936(2) KB 359 4 (1962)2 Q.B.330 pvr 15/20 appl134-18grp.doc Divison Bench of the Gujarat High Court in the case PVD Plast Mould Industries Ltd. Vs. ING BHF Bank Aktiengesellschaft 5 wherein the Court observed that "The petitioner cannot say that once the insurance company has paid the money to the principal creditor, then the appellant company is not answerable to anybody. The appellant company is still liable and applying the principle of subrogation, the insurance company can always recover the money from the appellant and in any case, if the money is received by the creditor company then, to the extent of the receipts, the creditor company would refund Company Appeal (AT) (Insolvency) No.231 of 2023 27 the money to the insurance company. That would be a matter between the insurance company and the creditor company. The debtor is not entitled to take any benefits out of the said transaction."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		14. The reliance of the Company, on the decision of the Supme Court in Union of India Vs. Sri Sarada Mills Ltd. (supra) is not well founded. The dispute in the said case arose from a suit instituted by the plaintiff - Sri Sarada Mills Ltd., against the Union of India/Railways for damages to 100 bales of F. P. cotton consigned through their agents from Nagpur to Podhanur under a railway receipt pvr 17/20 appl134-18grp.doc issued by the Central Railway. When the goods had arrived at Podhanur, it was found that 87 bales out of the 100 were burnt and charred and 13 bales were loose and short in weight. When the plaintiff applied for open delivery, the railway authorities at Podhanur got the damage surveyed, and issued a certificate of damage and shortage. The plaintiff claimed damages. The railways however denied the claim as the cause of the fire was stated to be unknown and thus no negligence or misconduct could be claimed against the railways. The plaintiff had accordingly instituted a suit for damages. It is in the said suit the defendants-railways contended that the plaintiff was not entitled to institute the suit as it had insured the goods with the Indian Globe Insurance Co. and had received the total loss from the said Company, and therefore, the railways was not liable for damages. In the majority judgment, the Court refused to accept the said contention and made the following observation:-
+	</p>
+	<p title="Conclusion">
+		Company Appeal (AT) (Insolvency) No.231 of 2023 28 "21. The defence of the Railway Administration was that the mill realised from the insurance company the damages and "as such the plaintiff (meaning thereby the respondent mill) has no right to claim any sum in this action". If the specific plea of assignment had been taken in the written statement the respondent mill would have impleaded the insurance company. The Court could 'have in those circumstances been in a position to afford full and complete relief to the parties.
+	</p>
+	<p title="Conclusion">
+		22. In the psent case the insurance company and the mill proceeded on the basis that the, insurance company pvr 18/20 appl134-18grp.doc was only subrogated to the rights of the assured. The letter of subrogation contains intrinsic evidence that the respondent would give the insurance company facilities for enforcing rights. The insurance company has chosen to allow the mill to sue. The cause of action of the mill against the Railway Administration did not perish on giving the letter of subrogation.
+	</p>
+	<p title="Conclusion">
+		16. Considering the above position in law on subrogation, in our opinion, the above decision is of no avail to the appellants as the issue in the psent case does not arise from any adjudication on subrogation or assignment by the learned Single Judge. In any event, even assuming that there was a subrogation applying the principles of law as laid down by the Constitution Bench in Economic Transport Organization, Delhi Vs. Charan Spinning Mills Pvt. Ltd. &amp; Anr. (supra), it needs Company Appeal (AT) (Insolvency) No.231 of 2023 29 to be held that the company petitions at the behest of the respondent were nevertheless maintainable."
+	</p>
+	<p title="Conclusion">
+		28. The above judgment fully supports the submission of learned Counsel for the Respondent No.1. The Corporate Debtor cannot take benefit of the fact that Insurer had paid the claim to the Insured. By payment of the Insurance Company to the Operational Creditor of its claim, the Corporate Debtor cannot be absolved from its liability to discharge its operational debt. We have further noticed that Operational Creditor is under obligation to take proceeding to recover its dues and handover the amount to the Insurance Company and when Operational Creditor has filed Section 9 Application, it is not open for the Corporate Debtor to submit that Application deserves to be rejected, since the amount has been received by the Operational Creditor from the Insurance Company.
+	</p>
+	<p title="Conclusion">
+		29. The learned Counsel for the Respondent has also relied on judgment of the Delhi High Court in (2018) SCC OnlIne Del 9889 - HSH Nordbank AG vs. Goodwill Hospital and Research Centre Limited, where a similar plea was raised in the said case that no amount is payable since Insurance Company has already paid the amount. The argument was noticed in paragraph 6(i) of the judgment, which was answered in paragraphs 8 and 9, which are to the following effect:
+	</p>
+	<p title="Conclusion">
+		"8. Reference in this context may also be had to the judgment of the Gujarat High Court in PVD Plast Mould Industries Ltd. v. ING BHF Bank Aktiengesellschaft, (2008) 144 Comp Cas 495 (Guj) where the court has held as follows:--
+	</p>
+	<p title="Conclusion">
+		Company Appeal (AT) (Insolvency) No.231 of 2023 30
+	</p>
+	<p title="Conclusion">
+		6.....The petitioner cannot say that once the Insurance Company has paid the money to the principal creditor, then the appellant company is not answerable to anybody. The appellant company is still liable and applying the principle of subrogation, the Insurance Company can always recover the money from the appellant and in any case, if the money is received by the creditor company then, to the extent of the receipts, the creditor company would refund the money to the Insurance Company. That would be a matter between the Insurance Company and the creditor company. The debtor is not entitled to take any benefits out of the said transaction."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		9. Hence, even for a moment if I assume that the petitioner were to recover some money, the petitioner would be obliged to return the money to the insurance company. Hence, even otherwise there is no merit in the said plea raised by the petitioner."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		30. To the similar effect is another judgment of the Hon'ble Gujarat High Court reported in (2005) SCC OnLine Guj 262 - PVD Plast Mould Industries Ltd. vs. ING BHF Bank Aktiengesellschaft, wherein it was held by the Gujarat High Court that petitioner cannot say that once the insurance company has paid the money to the principal creditor, then the Appellant-company is not answerable to anybody. In paragraph 6, following has been held:
+	</p>
+	<p title="Precedent Analysis">
+		"6. In the psent matter, it is to be seen that the loan was taken by the company somewhere in the year 1993 Company Appeal (AT) (Insolvency) No.231 of 2023 31 and the company which claims to be running profit making assetful company, did not discharge its liability within the statutory period despite the demand notice and the insurance company had to discharge the liability. The endeavour of Mr. Soparkar was to convince us that if the creditor-company has already received 95 per cent. of the loan amount and the insurance company has not lodged its claim against the appellant-company, the court must not exercise its discretion in favour of the admission of the winding up matter. The argument is one of frustration. We are unable to understand the logic behind the said argument. It is not the case of the appellant that certain goods were insured and in lieu of the goods, the money has been paid by the insurance company to the principal creditor. In fact, the loan amount/loan transaction was insured. The petitioner cannot say that once the insurance company has paid the money to the principal creditor, then the appellant- company is not answerable to anybody. The appellant- company is still liable and applying the principle of subrogation, the insurance company can always recover the money from the appellant and in any case, if the money is received by the creditor-company then, to the extent of the receipts, the creditor-company would refund the money to the insurance company. That would be a matter between the insurance company and the creditor- company. The debtor is not entitled to take any benefits out of the said transaction.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		31. All the above judgments relied by the learned Counsel for Respondent No.1, fully support its submission that Section 9 Application Company Appeal (AT) (Insolvency) No.231 of 2023 32 filed by it was clearly maintainable and Corporate Debtor cannot take shelter on the ground that Operational Creditor has received the claimed amount from insurance Company. The Corporate Debtor is still liable to pay its debt and the Operational Creditor is under obligation to return the money to the Insurance Company as per the Terms and Conditions of the Insurance Contract, which we have already noticed, where the Insurance Company offered to accept the claim with the conditions underlying therein.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		32. In view of the foregoing conclusion, we are of the view that Section 9 Application is fully maintainable and the fact that Insurance Company has made payment to the Operational Creditor of its claim, cannot be a ground to reject Section 9 Application. The Corporate Debtor is still liable to discharge its liability of debt.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		33. Now coming to the submission of the Appellant that there was p- existing dispute between the parties. Suffice it to say that the goods were received in 2017 and for two years there has been several correspondences between the parties as noted above and not even iota of any suggestion was given in any of the reply submitted by the Corporate Debtor that there is any deficiency in the goods. When the Demand Notice was issued on 03.04.2019 by the Operational Creditor, it was thereafter on 06.04.2019 a reply email was sent by the Corporate Debtor raising all types of frivolous and moonshine defenses. In the reply, which was submitted by the Corporate Debtor, there is no mention of any correspondence between the parties prior to receipt of the Demand Notice. The facts as noted above, Company Appeal (AT) (Insolvency) No.231 of 2023 33 indicate that the dues were clearly acknowledged by the Corporate Debtor and several assurances were given for payment of 100% debt. For two years, assurances were given by the Corporate Debtor for clearing the entire outstanding, but only part payment was made on 01.08.2018 by the Corporate Debtor. Thus, the plea taken by the Corporate Debtor in its reply that there is p-existing dispute is dishonest and moonshine plea. The goods having been received and amounts acknowledged, after two years, the Corporate Debtor cannot be allowed to say that there is p-existing dispute for which there was no communication, although there were correspondence exchanged for long two years between the parties. We are, thus, of the view that Adjudicating Authority has rightly rejected the plea of p-existing dispute raised on behalf of the Corporate Debtor.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		34. Now coming to the last submission of Shri Virender Ganda, learned Senior Counsel that the Appellant is now in good financial condition and has sufficient turnover to make the entire payment of outstanding dues, we are of the view that some time be allowed to Appellant to liquidate its debt, i.e., principal amount of USD 127,340 + 12% simple interest per annum till payment to the Operational Creditor or else the Adjudicating Authority may now proceed with Section 9 proceedings. We, thus, dismiss the Appeal in following terms:
+	</p>
+	<p title="Conclusion">
+		(I) Appellant (Corporate Debtor) is allowed 30 days' time from today to make entire outstanding payment of USD 127,340 to the Operational Creditor with interest @ 12% per annum (simple interest), till the date of payment, which amount may Company Appeal (AT) (Insolvency) No.231 of 2023 34 be deposited with the Adjudicating Authority within 30 days from today.
+	</p>
+	<p title="Conclusion">
+		(II) The Adjudicating Authority after being satisfied that entire outstanding payment of dues are made by the Appellant (Corporate Debtor) within 30 days, may not proceed any further with the Corporate Insolvency Resolution Process of the Corporate Debtor and close Section 9 Application.
+	</p>
+	<p title="Conclusion">
+		(III) In event the Appellant does not deposit the entire amount payable to the Operational Creditor to liquidate its debt, i.e., principal amount + interest as indicated above, within 30 days, the Adjudicating Authority shall proceed further with Section 9 Application.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		35. Subject to as directed above, the Appeal is dismissed. Interim order stands vacated. No order as to costs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice Ashok Bhushan] Chairperson [Barun Mitra] Member (Technical) NEW DELHI 13th December, 2023 Ashwani Company Appeal (AT) (Insolvency) No.231 of 2023 35
+	</p>
+</div>
+</html>

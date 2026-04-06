@@ -1,0 +1,556 @@
+<html>
+<div>
+	<h2>
+		Uv Asset Reconstruction Company ... vs Electro Steel Castings Ltd on 24 January, 2024
+	</h2>
+	<h3>
+		Author: Ashok Bhushan
+	</h3>
+	<h3>
+		Bench: Ashok Bhushan
+	</h3>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL, PRINCIPAL BENCH, NEW DELHI Company Appeal (AT) (Insolvency) No. 975 of 2022(Arising out of Order dated 24.06.2022 passed by the Adjudicating Authority(National Company Law Tribunal), Cuttack Bench in C.P.(IB) No.16/CB/2021)IN THE MATTER OF:UV Asset Reconstruction Company LimitedThrough its Authorized Repsentative,Mrs. Shradha Singh,Having its registered office at704, Deepali Building, 92, Nehru Place,New Delhi-110019. ... AppellantVsElectrosteel Castings Limited,Through its Authorized Signatory,Mr. Indranil Mitra,Having its registered office at8, Rathod Colony, Rajgnagpur,Sundergarh, Odisha - 770 017. ... RespondentPresent:For Appellant: Mr. Krishnendu Datta, Sr. Advocate with Mr. Dhruv Dewan, Mr. Rohan Batra, Mr. Prayuj Sharma, Mr. Yajur Sharma, Mr. Rishabh Bhargava, Mr. Rahul Gupta, Mr. Ravi Lochan, Advocates.For Respondent: Mr. Mihir Thakur, Sr. Advocate with Mr. Pulkit Deora, Mr. Shantanu Awasthi, Mr. Hemant Kothari, Mr. Jatin Kapur, Mr. Shikhar Mittal, Advocates. JUDGMENT
+	</p>
+	<p title="Issue" data-structure="Issue">
+		ASHOK BHUSHAN, J.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		This Appeal by the Financial Creditor challenges the order dated 24.06.2022 passed by National Company Law Tribunal, Cuttack Bench, Cuttack rejecting Section 7 Application filed by the Appellant against Electrosteel Castings Limited (hereinafter referred to as "ECL"). Company Appeal (AT) (Insolvency) No.975 of 2022 1
+	</p>
+	<p title="Fact" data-structure="Facts">
+		2. Brief facts giving rise to this Appeal are:
+	</p>
+	<p title="Issue">
+		(i) Electrosteel Steels Limited (hereinafter referred to as "ESL") was sanctioned a Financial Assistance by SREI Infrastructure Finance Limited (hereinafter referred to as "SREI") for a sum of Rs.500 crores on 26.07.2011. A rupee Loan Agreement was executed between SREI and ESL. Clause (d) of Schedule IV of the Loan Agreement placed an obligation on the Promoter - "to arrange for infusion of funds in a form and manner acceptable to SREI at the end of each financial year to comply with the Financial Covenants in case of breach of such Financial Covenants"
+	</p>
+	<p title="Issue">
+		(ii) The Respondent - Electrosteel Castings Limited (ECL), Promoter of the ESL, holding 34.40% shareholding in ESL entered into a Deed of Undertaking on 27.07.2011, which was entered between ESL, SREI and ECL, where the ECL was defined as 'Obligor' and Clause 2.2 of the Deed of Undertaking provided that "In the event the Borrower is not in a position to comply with the Financial Covenants provided in the Financing Documents, or has breached such Financial Covenants, the Obligors will arrange for the infusion of such amount of fund into the Borrower such that the Borrower is in a position to comply with the abovementioned Financial Covenants."
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 2
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(iii) A Supplementary Agreement was also entered into on 21.11.2011 among ESL, SREI and ECL whereunder ECL was referred to as 'Obligor' and agreed to create a mortgage on its land situated in Ponneri, Tamil Nadu in favour of SREI. On 23.11.2011, pursuant to Deed of Declaration, an exclusive mortgage over the factory land of the ECL at Elavur Village, Ponneri Taluk, Chingleput District, Tamil Nadu by deposit of the Title Deed was created by ECL.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		(iv) In the year 2013, ESL committed default in repaying the Financial Facilities . On a request by ESL, SREI restructured the loan. On 30.06.2017/20.07.2017, the ECL made a payment of Rs.38 crores to SREI on behalf of ESL.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(v) On 21.07.2017, Section 7 Application filed by State Bank of India against ESL was admitted by NCLT, Kolkata. In the CIRP process of ESL, the SREI filed its claim of INR 577,90,00,000/- which was admitted by Resolution Professional ("RP"). In the CIRP, the Resolution Plan submitted by Vedanta was approved on 29.03.2018. The Adjudicating Authority vide order dated 17.04.2018 approved the Resolution Plan submitted by Vedanta Limited in respect of ESL.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(vi) As per the Resolution Plan the total admitted debt of Financial Creditors of ESL was classified as Sustainable Debt and Unsustainable Debt. Sustainable debt was to be paid upfront Company Appeal (AT) (Insolvency) No.975 of 2022 3 to the Financial Creditor with the funds arranged by the Resolution Applicant. Total admitted financial debt of the SREI was Rs.577.90 crores. The SREI received an amount of INR 241.71 crores as upfront payment under the Resolution Plan. The Resolution Plan proposed conversion of Unsustainable Debt to new equity shares of ESL having a face value of INR 10/- each and issuance of the same to the Financial Creditors in proportion to their respective portion of the Unsustainable Debt. SREI received 67,23,710 equity shares of ESL having face value of INR 10 per share. On 25.06.2018 SREI issued a No Objection Certificate to ESL confirming the receipt of an amount of INR 241,71,84,839.18 due and payable as the upfront payment by Vedanta Limited and the allotment of 67,23,710 equity shares in ESL.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(vii) On 30.06.2018, SREI executed an Assignment Deed in favour of UV Asset Reconstruction Company Limited (Appellant herein) assigning the loans (i.e. all Amounts in or payable under the Financing Documents by ESL to SREI) as also all rights, title and interest in respect of Financing Documents. The Respondent ECL after coming to know about the Assignment, wrote the Appellant that entire debt owed by ESL to SREI stood discharges as a result of payment in cash and equity transfer in favour of SREI in terms of the approved Resolution Plan.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 4
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(viii) On 27.12.2018, the Appellant issued Notice under Section 13 (2) of the SARFAESI Act, 2002 against the ECL. Notice under Section 13(4) was also issued on 19.06.2019.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(ix) The ECL filed an Application No.4322 of 2019 before the Madras High Court under Section 12 of the Madras High Court Letters Patent seeking leave to institute a suit against the Appellant; seeking a declaration that the Assignment Agreement is bad, invalid, illegal, void ab initio and no legal effect and seeking permanent injunction restraining the Appellant and SREI from taking any action on the basis of Assignment Agreement. The Learned Single Judge of the Madras High Court on 20.09.2019 rejected the Application filed by Respondent holding that the suit was not maintainable. However, liberty was granted to the Respondent to approach the Tribunal for suitable reliefs. The ECL filed an Appeal being OSA No.292 of 2019 assailing the order of Single Judge. On 05.11.2019, Division bench of the Madras High Court granted an interim protection to the ECL.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(x) On 24.04.2021, the Appellant filed an Application under Section 7 against ECL before the National Company Law Tribunal, Cuttack Bench being C.P. No. (IB)16/CB/2021. The Division Bench of the Madras High Court dismissed the Appeal on 13.08.2021 holding that the jurisdiction of a civil court was Company Appeal (AT) (Insolvency) No.975 of 2022 5 ousted under Section 34 of the SARFAESI Act. ESL Filed an Appeal before the Hon'ble Supme Court being Civil Appeal No.6669 of 2021, challenging the Division Bench's order of the Madras High Court, which Civil Appeal was dismissed by the Hon'ble Supme Court on 26.11.2021, observing that it will be open to the ECL to initiate appropriate proceedings before the DRT under Section 17 of the SARFAESI Act. ECL filed an Application under Section 17 of the SARFAESI Act before DRT, Chennai in December 2021.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(xi) Before the Adjudicating Authority, ECL filed an Application in Section 7 Petition seeking order of stay or keeping proceedings before it in abeyance until the matter filed ECL before the DRT is disposed of. The said Application was dismissed by the Adjudicating Authority. The Respondent filed Appeal being Company Appeal (AT) ((Ins.) No.159 of 2022 against the said order, which Appeal was also dismissed by this Tribunal.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(xii) DRT Chennai vide order dated 08.04.2022 dismissed the Application filed by ECL under Section 17 of the SARFAESI Act. The Appeal against the order dated 08.04.2022 before DRAT was filed, which is said to be pending.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(xiii) the Adjudicating Authority heard the parties on Section 7 Application and by the impugned order dated 24.06.2022, rejected Section 7 Application on the ground that Respondent Company Appeal (AT) (Insolvency) No.975 of 2022 6
+	</p>
+	<p title="Fact" data-structure="Facts">
+		- ECL was not a guarantor to the facilities availed by ESL from SREI and as such there was no financial debt, which was owed by the ECL to the Appellant. The Adjudicating Authority further held that due to approval of Resolution Plan of ESL and payment of debt to Financial Creditors under the Resolution Plan, liability of ECL has also extinguished. The order dated 24.06.2022 is under challenge in this Appeal by the Appellant, who were Applicant in Section 7 Application.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		3. We have heard Shri Krishnendu Datta, learned Senior Counsel appearing for the Appellant and Shri Mihir Thakur, learned Senior Counsel with Shri Pulkit Deora, learned Counsel appearing for the Respondent.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		4. Shri Krishnendu Datta, learned Senior Counsel for the Appellant submits that Adjudicating Authority committed error in holding that Respondent - ECL is not a guarantor of the Financial Facilities extended by SREI to ESL. It is submitted that the Rupee Loan Agreement between SREI and ESL itself made provision for other terms and conditions of the loan, which contemplated undertakings to be provided by the Promoters. One of the undertaking was to arrange for the infusion of funds in the form and manner acceptable to SREI at the end of each financial year to comply with the Financial Covenants in case of breach of such Financial Covenants. One day after the Loan Agreement, ESL, SREI and ECL entered into a Deed of Undertaking, Warranty and Indemnity where the ESL and ECL agreed to various covenants in respect of the loan facility under the Company Appeal (AT) (Insolvency) No.975 of 2022 7 Loan Agreement. The ECL was referred to as an Obligor in the Deed of Undertaking. The learned Senior Counsel for the Appellant has referred to and relied on Clause 2.2 of Deed of Undertaking. The learned Senior Counsel for the Appellant has also referred to the Supplementary Agreement executed on 21.11.2011 between SREI, ESL and ECL, where ECL was named as an Obligor and agreed to secure the Loan by creating a mortgage and an exclusive mortgage was created by depositing the Title Deeds in favour of SREI over the factory land owned by the ECL at Elavur, Tamil Nadu. The above Financing Documents created a relationship of guarantee/ suretyship between the SREI and ECL, which is a proof. Shri Krishnendu Datta further submits that Section 126 of the Contract Act, 1872, defines a Contract of guarantee as - (a) a contract to perform the promise; or (b) discharge the liability, of a third person in case of his default. It is submitted that in order to constitute guarantee under Section 126, it is not necessary that the payment to the creditor is made/ to be made directly by the surety. The words in Section 126 are much wider, i.e., perform the promise or discharge the liability of a third person. The manner as to how the promise needs to be performed or how the liability is to be discharged is not provided in Section 126 and it is a matter of contract between the parties. The covenant as in the psent case infuse a specific amount of money into the principal borrower, so that principal borrower fulfills his obligation to the creditor, will constitute a guarantee. The status of ECL is a surety, i.e., the person who has contracted to perform the promise and/ or discharge the liability of ESL in the event of default. It is Company Appeal (AT) (Insolvency) No.975 of 2022 8 submitted that payment of Rs.38 crores was directly made by ECL to SREI in July 2017, reinforces the existence of a legal obligation in the form of a guarantee. Shri Datta submits that ECL has admitted its status as a guarantor/ surety before various Forums including the Hon'ble Supme Court. The learned Senior Counsel has referred to pleadings made by the ECL before Madras High Court in the Application filed seeking leave to institute a suit, where ECL admitted that it has stood as a guarantor for the Financial Facilities availed by ESL from SREI. The admissions made to the effect that ECL is a guarantor bind the Respondent. The doctrine of estoppel by conduct applies in full force in the psent case and the ECL is now estopped from taking a stance different from the one taken before various Courts and judicial Forums. The Adjudicating Authority committed error in observing that ECL has clarified that his pleadings in other Forums was to the effect that it acted as a surety by offering its immovable property. There was clear admission in different pleadings by ECL that it is a surety/ guarantor of ESL for the Financial Facilities advanced by SREI. It is submitted that Sanction Letter dated 26.07.2021 does not override the Deed of Undertaking. It is submitted that absence of specific mention of the guarantee in the Information Memorandum is not material, since Information Memorandum is with disclaimer that Information Memorandum is based on information supplied by the Management of ESL. The factum of non-mentioning of guarantee in the Assignment Agreement dated 30.06.2018 is also immaterial. It is submitted that the liability of ECL as a guarantor/ surety does not arise Company Appeal (AT) (Insolvency) No.975 of 2022 9 under the Assignment Agreement, but arises under the Financing Documents. The learned Senior Counsel for the Appellant has also referred to NOC issued by SREI to ESL, which no objection was without pjudice to their rights against the guarantors under relevant financial documents executed by such guarantors/ third party security documents/ deed of guarantee/ undertakings for due repayment of the entire dues by your Company to SREI Infrastructure Finance Ltd. Thus, initiation of arbitration proceedings by the Appellant does not disentitle the Appellant to invoke its statutory rights under Section 7 of the Code. Shri Datta has also attacked the finding of Adjudicating Authority that approval of ESL Resolution Plan on 17.04.2018 leads to extinguishment and effacement of liability of ECL. The learned Senior Counsel for the Appellant has relied on order of the DRT dated 08.04.2022 where the DRT has held that approval of Resolution Plan by NCLT will not absolve the liability of ECL. It is submitted that ECL itself has filed an Application before the Adjudicating Authority to await the orders of DRT and DRT has decided the Application holding that approval of Resolution Plan shall not absolve the ECL from its liability. The said findings of DRT were to be respected and followed by the Adjudicating Authority. The Adjudicating Authority did not advert to the order of DRT dated 08.04.2022 where such order was passed much before the judgment of the Adjudicating Authority. It is settled proposition of law that approval of a Resolution Plan does ipso facto discharge the liability of guarantor. The question to be considered by the Adjudicating Authority was as to whether pursuant to the approval of Resolution Plan pro tanto Company Appeal (AT) (Insolvency) No.975 of 2022 10 extinguishing the guarantee/ mortgage extended by the ECL or whether the Resolution Plan pserved the ability of guarantee/ security holder lenders to proceed against the guarantors/ mortgagors of ESL. The SREI has received proportionate shares in the Sustainable Debt of INR 241.71 crores as against admitted financial debt of INR 577.90 crores. Under the Resolution Plan against the unsustainable debt, equity shares of ESL having face value of INR 10/- each was to be given. The Resolution Plan contemplated that face value of entire ESL share capital was to be reduced from INR 10/- each fully paid up to INR 0.20 fully paid up. As a result of this reduction in the face value of shares, the paid up share capital of ESL was liable to stand reduced from 10,028.44 crores comprising of 1002.84 crore shares of Rs.10/- each fully paid up to INR 200.57 crores. Thus in lieu of this , the Unsustainable Debt of INR 7619.24 crores, the Financial Creditor were to ultimately receive shares worth INR 152.38 crores. The Resolution Plan, thus, did not provide Financial Creditors including SREI, the full value of the Unsustainable debt of ESL. It is further submitted that Resolution Plan expssly pserved the rights of Financial Creditors against any third parties, guarantors or security providers in relation to any portion of Unsustainable Debt secured or guaranteed by such third parties, which is reflected by Clause 3.2(ix) of the Resolution Plan. By virtue of Clause 3.2, the Financial Creditor to ESL consciously reserved the liberty of proceedings against third-parties, including the existing Promoters, which includes the ECL in relation to any portion of the Unsustainable Debt. The Adjudicating Authority lost sight of above Clause Company Appeal (AT) (Insolvency) No.975 of 2022 11 and has wrongly come to the conclusion that by approval of Resolution Plan entire debt of ESL extinguished and nothing was left to recover from guarantors and third-party security providers of ESL. The Resolution Plan clearly pserved the ability of guarantee/ securityholder lenders to proceed against the guarantors/ mortgagors such as ECL. The learned Senior Counsel for the Appellant submits that order passed by the Adjudicating Authority is unsustainable and deserves to be set aside and CIRP by commenced against the ECL for default of payment of the Financial Debt owed to the Appellant.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		5. The learned Counsel for the Respondent advanced submissions on both guarantee issue and debt extinguishment. It is submitted that Clause 2.2 of the undertaking as relied by learned Senior Counsel for the Appellant does not constitute a contract of guarantee. The obligation undertaken by the Respondent under Clause 2.2 does not qualify as a guarantee in terms of section 126 of the Contract Act 1872 and only obligation undertake by the Respondent was to "arrange for the infusion of funds into the Borrower (ESL)" so that ESL may comply with its obligation to meet the financial covenants. The obligation of Respondent was limited only to arrange for infusion of funds into ESL and as pe Clause 2.3.1, such additional funds into the borrowers, could be in any form, i.e., by way of equity capital, unsecured loans, deposits. For an obligation to be constituted as a guarantee in terms of Section 126 of Contract Act there must be direct and unambiguous obligation of the surety to discharge the obligation of the principal debtor to the creditor, which is not psent in Company Appeal (AT) (Insolvency) No.975 of 2022 12 Clause of 2.2 of the Undertaking. Section 126 defines a contract of guarantee as a contract to perform the promise of third person in case of his default or discharge of the liability of a third person in case of his default. The obligation under Clause 2.2 is limited to arrange for the infusion of funds into ESL to enable ESL to discharge its obligations. By the undertaking, ECL has made no promise to perform the obligations of ESL or discharge the liabilities of ESL to SREI. Mere obligation to infuse funds to enable a party to discharge its own debt repayment obligations is not a contract of guarantee. Reliance of Appellant on certain cases which referred to "see to it" type of guarantee is not applicable in the facts of the psent case. Undertaking given by Respondent was not "see to it" type of guarantee. The judgments relied by the Appellant in support of his submission that undertaking as per Clause 2.2 is a guarantee within the meaning of Section 126, are distinguishable and not applicable in the fact of the case. Relationship between ECL and ESL envisaged by sub-clauses 2.3.1 and Clause 2.3.3 is not one of guarantor and principal debtor. It is submitted that on the day when Rupee Loan was executed, SREI has sent letter dated 26.07.2011 addressed to ESL, where SREI expssly confirmed that as per the terms or the Sanction Letter and other Financing Documents, no personal guarantee from Mr. Umang Kejriwal or corporate guarantee from Electrosteel Castings Limited is required for securing the Facility. The Undertaking was furnished by ECL as a Promoter entity of ESL and pursuant to the requirement under Clause (d) of Schedule IV of the Loan Agreement dated 26.07.2011. The letter dated 27.07.2011 clearly Company Appeal (AT) (Insolvency) No.975 of 2022 13 reflect the SREI's own understanding of the Rupee Loan Agreement dated 26.07.2011. In the Information Memorandum in the CIRP of ESL, there was no mention that any guarantee has been furnished by ECL to SREI. Had there been any guarantee to secure the debts of SREI, the mention of guarantee would have found place in the Information Memorandum. Even in the Assignment Agreement dated 30.06.2018 executed by SREI in favour of UV Asset Reconstruction Company Limited ("UVARC") there is no mention of any guarantee given by ECL. In Schedule 1 to the Assignment Agreement against the column titled "details of the guarantor/ co-borrower"
+	</p>
+	<p title="Petitioner's Argument">
+		mentions 'Nil', which indicates that both the parties to the Assignment understood that there is no guarantee in existence. The payment of INR 38/- crores to SREI by the Respondent on 20.07.2017 was the payment on behalf of ECL as Promoter and not as a guarantor. The said payment was not made on account of any contractual obligation. Hence, the said payment is irrelevant for determining the issues raised between the parties.
+	</p>
+	<p title="Petitioner's Argument">
+		The Appellant has also selectively relied on the pleadings of ECL in different Court proceedings, which does not contain any admission by Respondent No.1 that Respondent No.1 is a guarantor of the loan. The pleadings by the Respondent were made in those proceedings to resist security enforcement by Notice under Section 13(2) of the SARFAESI Act, 2002 given by UVARC. Admittedly, Respondent No.1 executed a mortgage dated 23.11.2011 and in reference to mortgage enforcement, Respondent No.1 has mentioned that he is surety to the Appellant, but the said pleadings in reference to mortgage of immovable properties cannot be read as an Company Appeal (AT) (Insolvency) No.975 of 2022 14 admission that Respondent stood guarantor to Rupee Loan. The issue as to whether Respondent No.1 stood as a guarantor was in reference to Rupee Loan Agreement with SREI and was not a issue to be decided in those proceedings, nor any such issue was decided by the Madras High Court or the Hon'ble Supme Court. The Hon'ble Supme Court while dismissing the Appeal clarified that "it is made clear that we have not expssed anything on merits in favour of either of the parties". The orders passed by the Madras High Court and the Hon'ble Supme Court, thus has no bearing on the issues, which are sought to be raised in Section 7 Application. There is no clear and unequivocal admission by Respondent No.1 accepting his status as guarantor to the Rupee Loan Agreement. The Adjudicating Authority has rightly considered all clauses of different Financing Documents between SREI and ESL and has come to the conclusion that no guarantee was given by the Respondent. Hence, proceeding under Section 7 cannot be initiated by UVARC.
+	</p>
+	<p title="Petitioner's Argument">
+		6. Elaborating the submission on debt extinguishment, the learned Counsel for Respondent submitted that the entire debt of Financial Creditors including SREI was recovered, repaid and discharged in full as per the approval of the Resolution Plan in CIRP of ESL. As against sustainable debt, up-front payment was made to SREI and with reference to unsustainable debt, the same converted to equity shares of Rs.10/-
+	</p>
+	<p title="Petitioner's Argument">
+		each, which was duly allotted to SREI under the Resolution Plan.
+	</p>
+	<p title="Petitioner's Argument">
+		Conversion of balance debt into equity shares is tantamount to repayment / recovery/ retirement of the debt. The entire debt of SREI having Company Appeal (AT) (Insolvency) No.975 of 2022 15 extinguished by approval of Resolution Plan, the UVARC cannot initiate any proceeding against Respondent No.1, who was not a guarantor, but had only mortgaged immovable asset. The assets were mortgaged with SREI to ensure the repayment of debt of ESL. The entire debt of ESL having been repaid/ discharged, there is no occasion for initiating any proceedings by UVARC against Respondent No.1. The entire debt of SREI having been satisfied as per the Resolution Plan in the CIRP of the ESL, no right was left to assign the debt to UVARC. The fact that there was reduction in value of equity shares of ESL, does not lead to conclusion that any debt was still outstanding. The reduction of shares to value of equity shares was part of the Resolution Plan under Step 1 and Step 2. The reduction of value of equity share issued to SREI cannot be claimed as financial debt of ECL.
+	</p>
+	<p title="Petitioner's Argument">
+		Reduction in value of equity shares is credited to the capital reserve of ESL in terms of the approved Resolution Plan.
+	</p>
+	<p title="Petitioner's Argument">
+		7. Coming to the order of DRT Chennai, dated 08.04.2022, it is submitted that Adjudicating Authority being under the Code is the only competent Forum to adjudicate and decide whether or not ECL owes and is in default of any financial debt to UVARC and the Adjudicating Authority having decided the issue against the Appellant, the decision of the Adjudicating Authority is final and no reliance can be placed by the Appellant on the order of the DRT Chennai. It is submitted that cases relied on by learned Senior Counsel for the Appellant on both issues are all distinguishable and does not support the contention of the Appellant.
+	</p>
+	<p title="Petitioner's Argument">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 16
+	</p>
+	<p title="Petitioner's Argument">
+		8. The learned Counsel for both the parties in support of their respective submission has relied on various judgments including those of Hon'ble Supme Court, this Tribunal as well as High Courts, which shall be referred to while considering the submissions in detail.
+	</p>
+	<p title="Petitioner's Argument">
+		9. From the submissions of learned Counsel for the parties and materials on record, following two questions arise for consideration in this Appeal:
+	</p>
+	<p title="Petitioner's Argument">
+		(I) Whether the ECL is a 'guarantor' to the SREI for the financial facilities availed by ESL from SREI?
+	</p>
+	<p title="Petitioner's Argument">
+		(II) Whether approval of ESL's Resolution Plan by the Adjudicating Authority led to extinguishment of entire debt of ESL and no claim would lie against Respondent as guarantor/ third party surety in respect of the financial facilities availed by the ESL?
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Question No.(I)
+	</p>
+	<p title="Issue" data-structure="Issue">
+		10. We may first notice the relevant clauses of Rupee Loan Agreement dated 26.07.2011, Deed of Undertaking, Warranty and Indemnity dated 27.07.2011 and Supplementary Agreement dated 21.11.2021 to find out as to whether the Respondent stood as 'guarantor' to the loan sanctioned by SREI to ESL.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		11. The Rupee Loan Agreement was entered between SREI and ESL. The Respondent was Promoter of ESL to which there is no dispute. There were certain undertakings given by Promoter in the Rupee Loan Agreement, Company Appeal (AT) (Insolvency) No.975 of 2022 17 which is contained in Schedule IV under the heading 'Other Terms and Conditions'. Schedule IV, with regard to the Promoter undertaking provides "To arrange for the infusion of funds in a form &amp; manner acceptable to SREI at the end of each financial year to comply with the Financial Covenants in case of breach of such Financial Covenant". The Deed of Undertaking, Warranty and Indemnity was executed on the next day, i.e., 27.07.2011 between SREI, ESL and ECL. The Appellant has placed reliance on Clause 2.2 - Financial Covenants, which is as follows:
+	</p>
+	<p title="Analysis of the law">
+		"2. 2. Financial Covenants In the event the Borrower is not in a position to comply with the Financial Covenants provided in the Financing Documents, or has breached such Financial Covenants, the Obligors will arrange for the infusion of such amount of fund into the Borrower such that the Borrower is in a position to comply with the abovementioned Financial Covenants."
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		12. In reference to Clause 2.2, learned Counsel for the Respondent has also referred to and relied on Clauses 2.3.1 and 2.3.2, which are as follows:
+	</p>
+	<p title="Petitioner's Argument">
+		"2.3.1. such additional funds as and when provided/ arranged by the Obligors to the Borrower in terms of sub- clause 2.2 above, shall be in such form i.e. by way of equity capital, unsecured loans, deposits and on such terms and conditions as may be acceptable to SREI; 2.3.2. in the event of such funds being provided/arranged by the Obligors to the Borrower by way of unsecured loans or deposits to the Borrower as Company Appeal (AT) (Insolvency) No.975 of 2022 18 stated above, the Obligors shall not, without the prior written approval of SREI, demand or withdraw such funds or any part thereof so long as any moneys remain outstanding to be payable by the Borrower to SREI under the Financing Documents;"
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		13. The name of Respondent No.1 was mentioned as 'Obligor' in Schedule 1. A Supplementary Agreement was also entered between ESL, SREI and ECL, which contemplated modification of Facility Agreement as specified in Schedule-3. In Schedule 3 with reference to 'Security Article' under revised term 3.1.6, provides as follows:
+	</p>
+	<p title="Analysis of the law">
+		"SCHEDULE III Revised Terms 3.1.6 First mortgage on land owned by Electrosteel Castings Limited admeasuring Acre 102.3 Cents with factory building thereon together with all benefits and advantages accruing thereon at Elavur Village, Ponneri Taluk, Chinglepct District within the Sub-Registration District of Ponneri in the State of Tamil Nadu."
+	</p>
+	<p title="Issue" data-structure="Issue">
+		14. In pursuance of the Supplementary Agreement, Respondent - ECL executed mortgage of immovable property by depositing of title with respect to land at village Elavur, Ponneri Taluk, Chinglepct District, state of Tamil Nadu. The question to be answered is as to whether the Clauses of Rupee Loan Agreement, Deed of Undertaking and Supplementary Agreement cast an obligation on guarantor/ Respondent to discharge the liabilities of ESL Company Appeal (AT) (Insolvency) No.975 of 2022 19 to SREI in reference to Rupee Loan Agreement. Section 126 of the Contract Act, defines 'Contract of guarantee' in following words:
+	</p>
+	<p title="Issue">
+		"126. "Contract of guarantee", "surety", "principal debtor" and "creditor".--A "contract of guarantee" is a contract to perform the promise, or discharge the liability, of a third person in case of his default. The person who gives the guarantee is called the "surety"; the person in respect of whose default the guarantee is given is called the "principal debtor", and the person to whom the guarantee is given is called the "creditor". A guarantee may be either oral or written.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		15. When we look into Clause 2.2 as extracted above it placed an obligation on the Promoter to arrange for the infusion of funds in a form &amp; manner acceptable to SREI at the end of each financial year to comply with the Financial Covenants in case of breach of such Financial Covenant. As per Clause 2.3.1 and 2.3.2, additional funds, which were to be provided by the Promoters/ Borrower were by way of equity capital, unsecured loans or deposits. Obligation was on Respondent to arrange the infusion of funds to ESL. No obligation was undertaken by ECL to discharge the liabilities accrued on ESL as per Financial Covenants to the SREI. The SREI had no recourse against the ECL in event of ESL not fulfilling the Financial Covenants. The obligation was taken by Promoters to infuse funds in the ESL, which cannot be read to mean that any guarantee was given to the SREI by ECL to discharge the obligation of ESL. There is a contemporaneous letter dated 26.07.2011 issued by SREI on same day on Company Appeal (AT) (Insolvency) No.975 of 2022 20 which Rupee Loan Agreement was executed by SREI and ESL. In the letter, which was issued after sanction letter dated 26.07.2011 to the Respondent, following was stated:
+	</p>
+	<p title="Analysis of the law">
+		"We would like to further confirm that, as on date, as per the terms of the Sanction Letter and other Financing Documents, no personal guarantee from Mr. Umang Kejriwal or corporate guarantee from Electrosteel Castings Limited is required for security the Facility."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		16. The above letter clarifies that Sanction Letter does not contemplate any corporate guarantee from Respondent. The letter was issued on the same day and clearly reflects the interptation of Rupee Loan Agreement. It is also relevant not to notice that the Rupee Loan Agreement dated 26.07.2011 in Schedule IV as noted above contemplated an undertaking by Promoter. The letter dated 26.07.2011 was issued after fully knowing the contents of Rupee Loan Agreement dated 26.07.2011 by the SREI. The aforesaid clearly indicates that undertaking as contemplated in Schedule IV was not an undertaking as corporate guarantee by Respondent . It is well settled that author of documents is best judge and knows the true nature and content of document and documents has to be interptated as author interpted. We may refer to judgment of Hon'ble Supme Court in (2020) 16 SCC 489 - Silppi Constructions Contractors v. Union of India, where in paragraph 20, following has been laid down:
+	</p>
+	<p title="Court's Reasoning">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 21 "20. The essence of the law laid down in the judgments referred to above is the exercise of restraint and caution;
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		the need for overwhelming public interest to justify judicial intervention in matters of contract involving the State instrumentalities; the courts should give way to the opinion of the experts unless the decision is totally arbitrary or unreasonable; the court does not sit like a court of appeal over the appropriate authority; the court must realise that the authority floating the tender is the best judge of its requirements and, therefore, the court's interference should be minimal. The authority which floats the contract or tender, and has authored the tender documents is the best judge as to how the documents have to be interpted. If two interptations are possible then the interptation of the author must be accepted. The courts will only interfere to pvent arbitrariness, irrationality, bias, mala fides or perversity. With this approach in mind we shall deal with the psent case."
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		17. Learned Counsel for the Respondent also placed reliance on Information Memorandum issued in CIRP of the ESL, where there was no mention of guarantee. The learned Senior Counsel for the Appellant has tried to counter the said submission on the ground that Information Memorandum was issued with a disclaimer that Information Memorandum is ppared on the basis of materials and documents provided by Ex- Management of ESL. What was understood by ESL with regard to Financial Facility advanced by SREI was also a relevant fact and how the ESL understood the Financing Document, cannot be said to be irrelevant. The Information Memorandum, which was ppared by RP, an Officers Company Appeal (AT) (Insolvency) No.975 of 2022 22 appointed by Adjudicating Authority, after perusal of all the documents did not find any guarantee as is now sought to be contended by the Appellant. We, thus, cannot ignore the Information Memorandum, which does not mention about guarantee of ECL as one of the documents. It is also relevant to notice the Assignment Deed executed by SREI in favour of UVARC, also did not mention any guarantee by ECL in reference to Rupee Loan Agreement between SREI and ESL. The Assignment Agreement dated 30.06.2018 in favour of UVARC is on the record, wherein in Clause (c), following has been stated:
+	</p>
+	<p title="Precedent Analysis">
+		(C) The Assignor is desirous of assigning to the Assignee, the Loans disbursed under the aforesaid Financing Documents together with all its rights, title and interest in the Financing Documents and any underlying Security Interests, pledges and/ or guarantees in respect of such Loans. Further, the Assignee on the basis of the Due Diligence Exercise is desirous of acquiring/ purchasing the Loans together with all the rights, title and interest of the Assignor in the Financing Documents and any underlying Security Interests, pledges and/or guarantees in respect of such Loans, upon the terms and subject to the conditions hereinafter mentioned and as envisaged under Section 5(1)(b) of the SARFAESI."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Clause (E), refers to Financing Documents, which is as follows:
+	</p>
+	<p title="Analysis of the law">
+		(E) The Parties are desirous of setting forth the terms and conditions, repsentations, warranties, covenants, and principles relating to the Company Appeal (AT) (Insolvency) No.975 of 2022 23 assignment of the. Loans and all the rights, title and interest under the Financing Documents and to the underlying Security Interests, pledges and / or guarantees in respect of such Loans by the Assignor to the Assignee."
+	</p>
+	<p title="Analysis of the law">
+		"2.3.1. such additional funds as and when provided/ arranged by the Obligors to the Borrower in terms of sub- clause 2.2 above, shall be in such form i.e. by way of equity capital, unsecured loans, deposits and on such terms and conditions as may be acceptable to SREI; 2.3.2. in the event of such funds being provided/arranged by the Obligors to the Borrower by way of unsecured loans or deposits to the Borrower as stated above, the Obligors shall not, without the prior written approval of SREI, demand or withdraw such funds or any part thereof so long as any moneys remain outstanding to be payable by the Borrower to SREI under the Financing Documents;"
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		18. It is relevant to notice that Clause (i) also refer to any writings creating/ evidencing a Security Interest, pledge and/ or guarantee. Reference to Schedule-1 was given and in the Schedule-1, 'details of guarantor / coborrower' is mentioned, which is as follows:
+	</p>
+	<p title="Analysis of the law">
+		"2. Details of guarantor/ Nil"
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		co-borrower
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		19. It is also relevant to notice that in Column 10, 'Details of Security Documents', List of Documents, were also mentioned, which contained the Company Appeal (AT) (Insolvency) No.975 of 2022 24 Deed of Undertaking, Warranty &amp; Indemnity, which was separately mentioned in Column, 10, which is as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"10. Details of Security List of Documents:
+	</p>
+	<p title="Precedent Analysis">
+		Documents Sr. Particular Date Original/ No. Copy 1 Declaration November Original and letter of 23, 2011 Deposit of Title Deeds 2 Deed of December Original Hypothecation 26, 2011 3 Demand July 26, Original Promissory 2011 Note 4 Deed of July 27, Original Undertaking 2011 Warranty &amp; Indemnity Documents w.r.t. the mortgage of Land admeasuring about Acres 96.3 Cents with factory building thereon together with all benefits and advantages accruing thereon at elavur Vilage, Ponneri Taluk, Chinglepet District within the Sub-Registration District and comprised in Patta No.1343, situated at Survey Nos.1218/A1, 1219/A1, 1219/A3, 323/A1, 324, 325, 1220/A1, 1281/16, 1281/1/P, 1281/1/Q, 1281/1/R, 1281/1/N, 326/A1, 1220/A1, 1221/A2, 1275/2 and 1279/2:
+	</p>
+	<p title="Precedent Analysis">
+		a) Declaration of mortgage and letter of deposit of title deeds
+	</p>
+	<p title="Precedent Analysis">
+		b) Original Title deed dated 22.09.1983 (As per O.P. No. 510 of 1978)"
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		20. The above Assignment by SREI to UVARC indicate that in Rupee Term Loan and in Deed of Undertaking, ECL was never treated as guarantor of the loan. In the Assignment to which both SREI and UVARC are party, against the Column 'Details of guarantor/ co-borrower' it is Company Appeal (AT) (Insolvency) No.975 of 2022 25 mentioned 'Nil'. The Deed of Assignment, which is genesis of birth of Appellant, throws considerable light on nature of transaction between the parties and the Appellant, cannot be heard to contend that non-mention of guarantee in the Deed of Assignment is irrelevant. We, thus, are of the view that Assignment Agreement, Schedule-1, did not mention name of ECL as guarantor in reference to Rupee Loan Agreement is a relevant fact and proves that ECL was not the guarantor to the Rupee Loan Agreement.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		21. The learned Counsel for both the parties in support of their submissions have placed reliance on large number of judgments, which also need to be considered.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		22. The learned Senior Counsel for the Appellant has placed reliance on few English cases to support his submission that clauses of an Agreement where guarantors undertake debt/ obligation of Principal Borrower, which guarantee is called "see to it" guarantee is also a guarantee and the transaction documents in the psent case specially Deed of Undertaking executed by Respondent is "see to it" guarantee. The learned Senior Counsel for the Appellant has placed reliance on judgment of House of Lords in Moschi vs. KEP Air Services Ltd. and Ors. - 2 W.L.R. 1175. In the above case, the Appellant before the House of Lords has given a personal guarantee for performance by Rolloswin Investments Ltd. On breach of said guarantee an action for damages was brought, which was allowed. Appeal filed against allowing the damages claim was dismissed by the House of Lords. The clause, which came for consideration as Company Appeal (AT) (Insolvency) No.975 of 2022 26 extracted in the judgment and noticed in the judgment is Clause XIII, which is as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"(XIII) In further consideration of the above Mr. Moschi has personally guaranteed the performance by Rolloswin Investments Limited of its obligation to make the payments at the rate of &pound; 6,000 per week together with the final payment of &pound;4,000 as hereinbefore set out so however that Mr. Moschi's total obligation under this guarantee shall not exceed the total sum of &pound;40,000 of which approximately &pound;3,820 has already been paid as aforesaid".
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		23. The learned Senior Counsel for the Appellant has relied on judgment of Lord Diplock, where the obligation undertaken by the Appellant was held to be as "see to it" obligation. The House of Lords held that every case must depend upon the true construction of the actual words in which the promise is expssed. The House of Lords made following observations in the above judgment:
+	</p>
+	<p title="Precedent Analysis">
+		"It follows from the legal nature of the obligation of the guarantor to which a contract of guarantee rise that it is not an obligation himself to pay a sum of money to the creditor, but an obligation to see to it that another person, the debtor, does something; and that the creditor's remedy for the guarantor's failure to perform it lies in damages for breach of contract only. That this was so, even where the debtor's own obligation that was the subject of the guarantee was to pay a sum of money is clear from the fact that formerly the form of action against Company Appeal (AT) (Insolvency) No.975 of 2022 27 the guarantor which was available to the creditor was in special assumpsit and not in indebitatus assumpsit:
+	</p>
+	<p title="Precedent Analysis">
+		Mines v. Sculthrope (1809) 2 Camp. 215.
+	</p>
+	<p title="Precedent Analysis">
+		The legal consequence of this is that whenever the debtor has failed voluntarily to perform an obligation which is the subject of the guarantees the creditor can recover form the guarantor as damages for breach of his contract of guarantee whatever sum the creditor could have recovered from the debtor himself as a consequence of that failure. The debtor's liability to the creditor is also the measure of the guarantor's.
+	</p>
+	<p title="Precedent Analysis">
+		Whether any particular contractual promise is to be classified as a guarantee so as to attract all or any of the legal consequences to which I have referred depends upon the words in which the parties have expssed the promise. Even the use of words "guarantee" is not in itself conclusive. It is often used loosely in ordinary commercial dealings to mean an ordinary warranty. It is sometimes used to mis-describe what is in law a contract of indemnity and not a guarantee. Where the contractual promise can be correctly classified as a guarantee it is open to the parties expssly to exclude or vary any of their mutual rights or obligations which would otherwise result from its being classifiable as a guarantee. Every case must depend upon the true construction of the actual words in which the promise is expssed."
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		24. The submission of learned Counsel for the Respondent is that the above judgment of the House of Lords is distinguishable and not attracted, since the Guarantee Agreement between the parties is not "see to it"
+	</p>
+	<p title="Petitioner's Argument">
+		guarantee. In the psent case, it is clear that ECL has not agreed to be Company Appeal (AT) (Insolvency) No.975 of 2022 28 liable to see to it that ECL discharges its debt obligations towards SREI, rather the obligation undertaken by the ECL was limited to enabling ESL to discharge it own obligations by arranging for infusion of funds by way of equity/ debt. The Clause-XIII, which came for consideration in Moschi's case (supra) indicate that Moschi has personally guaranteed the performance of Rolloswin Investments Ltd. of its obligation. In the psent case, the ECL has undertaken only to infuse funds. The relationship between ECL and ESL as per guarantee agreement is not one of guarantor and principal debtor. Further, in the judgment of Moschi's case, what was held that in case of breach of agreement liability is of damages. As noted above, it was held by House of Lords that every case must depend upon the true construction of the actual words in which the promise is expssed. As noted above, clauses of agreement have to be interpted on the basis of contemporaneous understanding of the parties and subsequent actions. In the psent case, we have noticed that the SREI never contemplated that any kind of guarantee was given by Respondent-
+	</p>
+	<p title="Petitioner's Argument">
+		ECL.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		25. The next judgment relied by learned Senior Counsel for the Appellant is McGuiness v. Norwich and Peterborough Building Society - [2011] 1 WLR 613. In the above case, facts have been noticed in paragraph 3 of the judgment, which are as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"3. The Guarantee, dated 10 September 2008 and made on the Respondent's standard form, contained the following relevant provisions:
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 29
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		"2. GUARANTEE AND INDEMNITY 2.1 In return for our lending, agreeing to lend or continuing to lend money, or granting credit facilities, to the Borrower you accept the liabilities set out below. These liabilities are unconditional and you cannot withdraw from them, except as set out in Clause 5.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		2.2 You guarantee that all money and liabilities owing, or becoming owing to us in the future, by the Borrower (whether actual or contingent, whether incurred alone or jointly with another and whether as principal or surety) will be paid and satisfied when due.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		2.3 Any amount claimed under the Guarantee is payable by you immediately on demand by us.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		2.4 As a separate obligation you agree to make good (in full) any losses or expenses that we may incur if the Borrower fails to pay any money owed to us, or fails to satisfy any other liabilities to us, or if we are unable to enforce any of the Borrower's obligations to us or they are not legally binding on the borrower (whatever the reason).
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		2.5 You will also make good any losses or expenses which we may incur if we take steps to enforce this Guarantee or if we try to do so...."
+	</p>
+	<p title="Analysis of the law">
+		"4.2 Your obligations under this Guarantee are those of principal, not just as surety. We will not be obliged to make any demand on, or take any steps against, the Borrower or any other person before enforcing this Guarantee.""
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 30
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		26. When we look into the clauses which came for consideration in the above case, it is clear that obligation was undertaken were those of principal and not just as surety. The debt obligation was undertaken and in paragraph 21 of the judgment, following was held:
+	</p>
+	<p title="Precedent Analysis">
+		"21. In my judgment the Guarantee does include a debt obligation. My main reason for that conclusion is that, by the principal debtor provision in the first sentence of clause 4.2 of the Guarantee, the guarantor thereby made his brother's debts his own, as occurred in MS Fashions v. Bank of Credit and Commerce International SA [1993] Ch 425. Mr Arden sought to persuade me to attribute a different meaning to that provision, by reading the whole of clause 4.2 of the guarantee together, so that the principal debtor provision was designed (he said) to do no more than to enable the creditor to enforce the guarantee without prior demand against the principal debtor. I disagree. It is evident from Lep Air Services case [1973] AC 331 that, where a guarantee sounds in damages rather than debt, the creditor may enforce against a mere surety without prior demand on the debtor, pcisely because the debtor's default gives rise to a simultaneous breach of the surety's obligations. The effect of a principal debtor provision is not therefore to enable the creditor to proceed without first claiming against the principal debtor, but (among other things) that any debt due is immediately payable by the guarantor without prior demand upon him: see MS Fashions case [1993] Ch 425."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 31
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		27. The above case is also clearly distinguishable and does not help the Appellant in the psent case.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		28. Another case relied by Appellant is Shanghai Shipyard Co. Ltd. vs. Reignwood International Investment (Group) Company Limited - 2021 EWCA Civ 1147. The Court of Appeal judgment noticed the distinction between manner, invocation and trigger of liability to see to it and on demand guarantee. The judgment of the House of Lords in Moschi (supra) was also relied and noted. The terms and conditions of Agreement between the parties has been noted in the judgment. The terms clearly mentions that guarantee is given as a primary obligor and not merely as the surety. The terms have been noted in paragraph 8 of the judgment, which are to the following effect:
+	</p>
+	<p title="Precedent Analysis">
+		"IRREVOCABLE PAYMENT GUARANTEE To: Shanghai Shipyard Co., Ltd...
+	</p>
+	<p title="Precedent Analysis">
+		1. In consideration of your entering into the Shipbuilding Contract with [Reignwood] as the buyer ("the Owner") for the construction of one (1) self propelled drill ship with Shipyard's Hull No. S6030 ("the Drillship"), we, [Reignwood] hereby IRREVOCABLY, ABSOLUTELY and UNCONDITIONALLY guarantee in accordance with the terms hereof, as the primary obligor and not merely as the surety, the due and punctual payment by the OWNER of the Final Instalment of the Contract Price amounting to a total sum of United States Dollar US$170,000,000 as specified in (2) below... .
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 32
+	</p>
+	<p title="Precedent Analysis">
+		2. The instalments guaranteed hereunder, pursuant to the terms of the Contract, comprise the Final Instalment in the amount of U.S. Dollars One Hundred and Seventy Million (US$ 170,000,000) payable by the Owner.
+	</p>
+	<p title="Precedent Analysis">
+		3. We also IRREVOCABLY, ABSOLUTELY and UNCONDITIONALLY guarantee, as primary obligor and not merely as surety, the due and punctual payment by the Owner of interest on the Final Instalment guaranteed hereunder at the rate of five percent (5%) per annum from and including the first day after the default until the date of full payment by us of such amount guaranteed hereunder.
+	</p>
+	<p title="Precedent Analysis">
+		4. In the event that the Owner fails to punctually pay the Final instalment guaranteed hereunder in accordance with the Contract or the Owner fails to pay any interest thereon, and any such default continues for a period of fifteen (15) days, then, upon receipt by us of your first written demand, we shall immediately pay to you or your assignee all unpaid Final instalment, together with the interest as specified in paragraph. (3) hereof, without requesting you to take any or further action, procedure or step against the Owner or with respect to any other security which you may hold.
+	</p>
+	<p title="Precedent Analysis">
+		In the event that there exists dispute between the Owner and Builder as to whether:
+	</p>
+	<p title="Precedent Analysis">
+		(i) the Owner is liable to pay to the Builder the Final Instalment; and
+	</p>
+	<p title="Precedent Analysis">
+		(ii) the Builder is entitled to claim the Final Instalment from the Owner,"
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 33
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		29. The terms and conditions of the above case were also of its own nature and cannot be pssed in service in the facts of the psent case.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		30. The learned Counsel for the Respondent in support of his submissions has relied on judgment of Bombay High Court, Karnataka High Court and Delhi High Court. The learned Counsel for the Respondent has relied on judgment of Bombay High Court in Yes Bank Limited v. Zee Entertainment Enterprises Limited and Ors. - 2020 SCC OnLine Bom 11763. In the above case, Letter of Comfort was claimed to be a guarantee given on behalf of Zee Entertainment Enterprises Ltd. In paragraph 32 the Court has noticed the security document in third column and following was noticed:
+	</p>
+	<p title="Precedent Analysis">
+		6. Security x x x &bull; Letter of Comfort from ZEEL signed by any Board Member to support ATL's aforesaid obligations; undertaking to the Lenders &bull; To support ATL by infusing equity/debt for meeting all its working capital requirements, best requirements, business expansion plans, honouring put options, take or pay agreement and guarantees;
+	</p>
+	<p title="Precedent Analysis">
+		x x x
+	</p>
+	<p title="Precedent Analysis">
+		31. The Bombay High Court examined the Letter of Comfort, which came for consideration and held that support in form of infusion of equity/ debt into ATL, does not amount to guarantee. In paragraph 50 to 53, following was held:
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 34 "50. Dr Tulzapurkar is right in this much : the form a guarantee takes is immaterial. But that only goes part of the required distance. I put no value to Zee's assertion of there being 'no privity'. This seems to me to be the kind of typically unthinking catch-phrase thrown out when a demand is made. Of course there is some privity; the question is whether there is a privity of a contract of guarantee - for that is the claim. A guarantee creates a very specific type of obligation. It undertakes and assures the repayment of another's debt on the default of that other. Therefore, there must be an unambiguous affirmation that the guarantor assumes or takes on this liability.
+	</p>
+	<p title="Precedent Analysis">
+		51. Returning to (1) the first clause in the LoC and (2) the corresponding security clause in the Facility Letter, this is a confirmation by Zee that it will 'support' ATL. The next part tells us of the form that 'support' is to take : the infusion of equity/debt into ATL. This means that Zee would get some share purchase money into ATL's coffers, or give it a loan. The next part of the clause tells us for what, and this has a string of purposes. Of these, the 'honouring put options' is the clause that concerns us.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Thus, the LoC did not in any way, on the face of it, result in Zee assuming, assuring or guaranteeing the repayment of YES Bank's loan to LELM. Instead, it provided for a means to facilitate the enforcement of security that YES Bank took, and, specifically, the assignment of the put option.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		52. Rogers CJ's admonition against using 'finely-tuned linguistic fork' is only one against too much sophistry or casuistry. It is equally true that a document has to be Company Appeal (AT) (Insolvency) No.975 of 2022 35 read according to its plain terms and its intent for what it actually says and does. An impssionistic broadbrush approach is equally impermissible. For it is just as well settled that where the terms are clear and unambiguous, there is no scope for adding to or subtracting from them.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		53. It is also equally clear that the conduct of the parties is always a guide to the construction of contracts. I note this briefly because, until its notice of 31 March 2020 - coincidentally, very soon after its Board was reconstituted by the Central Government - YES Bank does not seem to have ever approached the LoC as a 'guarantee' by Zee for repayment of the LELM debt.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Instead, the pvious notices indicate that it asked Zee to do pcisely what the LoC says : fund ATL to honour the by-then invoked Put Option."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		32. The above judgment support the submission of Respondent.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		33. The next judgment relied by learned Counsel for the Respondent is of Karnataka High Court in United Breweries (Holding) Ltd. vs. Karnataka State Industrial Investment and Development Corporation Ltd. and Ors. - (2011) SCC OnLine Kar 4012. The relevant document, which came for consideration in the above judgment is noted in paragraph-4, which is as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"4. In order to decide this matter, the relevant document to be considered is exhibit P14 which read thus:
+	</p>
+	<p title="Precedent Analysis">
+		"We understand you have sanctioned a corporate loan of Rs. 75 lakhs (rupees seventy five lakhs only) vide your letter ACCTS/CL/7842/95-96, dated February 29, 1996, to M/s. Dominion Chemical Company Appeal (AT) (Insolvency) No.975 of 2022 36 Industries Ltd., Hosur Road, Bommanahalli, Bangalore-560068.
+	</p>
+	<p title="Precedent Analysis">
+		M/s. Dominion Chemical Industries Ltd., is one of our associate companies. We hereby confirm that it our normal practice to see that all our associates companies meet their financial and contractual obligations and this end we will undertake all reasonable steps to ensure that M/s. Dominion Chemical Industries Ltd., conducts its operations efficiently to meet its obligations in the usual course of business.
+	</p>
+	<p title="Precedent Analysis">
+		We are convinced that the company concerned has the capabilities to fully cater to its financial commitments."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		34. The Letter of Comfort, which was examined by the Karnataka High Court was held not as a guarantee. In paragraph 6, 7 and 9, following was held:
+	</p>
+	<p title="Precedent Analysis">
+		"6. The said letter of comfort nowhere reveals that the appellant stood as guarantor for the loan disbursed by respondent No. 1 in favour of respondent No. 2. It merely states that the associate company (debtor company) will meet the financial and contractual obligations and that the appellant herein undertakes all reasonable steps to ensure that the debtor company conducts its operations efficiently to meet its obligations in the usual course of business. The comfort letter is more in the nature of recommendatory letter. If a person has not stood as guarantor or surety, he cannot be treated a guarantor or surety without there being a specific undertaking by him that he would discharge the liability of the third person, Company Appeal (AT) (Insolvency) No.975 of 2022 37 in case of his default. In this context, it is relevant to note the provisions of section 126 of the Indian Contract Act, 1872, which read thus:
+	</p>
+	<p title="Precedent Analysis">
+		"126. 'Contract of guarantee', 'surety', 'principal debtor' and 'creditor'.--A 'contract of guarantee' is a contract to perform the promise, or discharge the liability, of a third person in case of his default. The person who gives the guarantee is called the 'surety'; the person in respect of whose default the guarantee is given is called the 'principal debtor', and the person to whom the guarantee is given is called the 'creditor'. A guarantee may be either oral or written."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		7. From the above, it is clear that the contract of guarantee is a contract to perform the promise or discharge the liability of a third person in case of his default. If the entire document in question, i.e., exhibit P14 is read as a whole, the same nowhere reveals that the appellant has entered into a contract or an agreement with respondent No. 1 to discharge the liability of respondent No. 2 herein (principal debtor) in case of its default.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		9. From the above, it is clear that the question as to whether the deed in question is a deed of guarantee or not depends upon the terms under which the guarantor binds himself. Under law, he cannot be made liable for more than what he has undertaken. In our considered opinion, there is no ambiguity in exhibit P14. Under exhibit P14 the appellant has not undertaken that he would repay the loans of respondent No. 2, in case, if respondent No. 2 fails to discharge its liability. Therefore, the appellant cannot be made liable for more than what it has undertaken. It is not in dispute that respondent No. Company Appeal (AT) (Insolvency) No.975 of 2022 38 1 herein has insisted on "letter of comfort" of appellant herein while disbursing the loan in favour of respondent No. 2 herein. Accordingly, the appellant herein being the holding company has given letter of comfort as suggested by the first respondent."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		35. The Karnataka High Court held that the Agreement nowhere reveals that the Appellant stood as guarantor for the loan disbursed by Respondent No.1 in favour of Respondent No.2 in case of default. In the facts, of the psent case also, there is no undertaking by Respondent No.1 to discharge liability of ESL and that it would repay the loan of ESL in case of ESL fails to discharge its liability.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		36. The learned Counsel for the Respondent has also relied on Delhi High Court judgment in Aditya Birla Finance Limited vs. Siti Networks Limited and Ors. - (2023) SCC OnLine Del 1290. In paragraph 26 of the judgment, the letter, which was claimed to be a guarantee has been extracted, which is as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"26. It is stated that pursuant to this, the respondent Nos. 2 and 3 issued the alleged Letters of Guarantee dated June 26, 2018 to the petitioner, inter alia stating the following:
+	</p>
+	<p title="Precedent Analysis">
+		a. "We are aware that Aditya Birla Finance Limited (ABFL) has sanctioned and disbursed a Rupee Term Loan Facility of INR150,00,00,000 (Rupees One Hundred and Fifty Crore) [-Facility"] to our group company, Siti Networks Limited, pursuant to Credit Arrangement Letter dated January 16, 2017 bearing reference number ABFL/PFSG/ Company Appeal (AT) (Insolvency) No.975 of 2022 39 CAL/000894, Facility Agreement dated February 23, 2017 and other transaction documents in connection therewith.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		b. Pursuant to our discussions, we hereby assure you and confirm that we shall ensure that Siti Network Limited services and repays the Facility on the relevant due dates."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(Emphasis Supplied)"
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		37. The Delhi High Court examined the said letter and in paragraphs 237 and 238 returned the following findings:
+	</p>
+	<p title="Precedent Analysis">
+		"237. In the case in hand, on perusal of the letters dated June 26, 2018, it can be seen that there is no assurance in the letters that respondent Nos. 2 and 3 shall pay the credit facility to the petitioner on the failure of respondent No. 1 to repay the petitioner. In the absence of such stipulation the letters do not meet the requirement of Section 126 of the Indian Contract Act, 1872. This I say so because the letter only states that the respondent Nos. 2 and 3 shall assure and confirm that the petitioner is repaid the facilities on the relevant due dates.
+	</p>
+	<p title="Precedent Analysis">
+		238. Reading the documents in their plain terms, the intent being clear, the same cannot be construed as letters of guarantee which necessarily requires, as per Section 126 of the Indian Contract Act, 1872, a promise to discharge the liability of a third person in case of his default."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		38. The Delhi High Court held that the letter cannot he held to be a guarantee within the meaning of Section 126 of the Indian Contract Act. Company Appeal (AT) (Insolvency) No.975 of 2022 40 There was no promise to discharge the liability of a third person in case of default, which is fully applicable in the psent case.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		39. The learned Senior Counsel for the Appellant also supported his submission on the basis of alleged admission of Respondent No.1 in different judicial proceedings. It is submitted that Respondent No.1 having admitted before Madras High Court as well as before the Hon'ble Supme Court that he is a guarantor of ESL, he cannot be allowed to take a different stand in the proceeding before the Adjudicating Authority. Respondent No.1 is fully bound by its admission made before the Madras High Court and Hon'ble Supme Court.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		40. We have noticed above that UVARC issued notice under Section 13(2) of the SARFAESI Act for invocation of the security, i.e., immovable property, which was mortgaged by Respondent No.1 to SREI. The Application was filed by Respondent No.1 before the Madras High Court under the Letter Patent seeking leave to institute a suit challenging the SARFAESI proceedings, in which proceedings, pleadings made by Respondent No.1 has been referred to. The learned Senior Counsel has referred to his written submission filed before the Adjudicating Authority, where an affidavit on behalf of Respondent No.1 before the Madras High Court has been relied as admission. It is submitted that Respondent in the affidavit has mentioned that Plaintiff/ Applicant stood guarantee for the financial assistance. Reliance has been placed on paragraphs (II) and (III) of the affidavit filed before the Madras High Court in C.S.(D) No.18962 of 2019, which are as follows:
+	</p>
+	<p title="Petitioner's Argument">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 41 (II) Plaint filed on behalf of CD before the Madras High Court in C.S(D) No. 18962 of 2019 on or around June 2019 "20. The Plaintiff, being a surety, its liability is only accessory and secondary. The provisions of the Contract Act, dealing with discharge of a surety are not exhaustive. A voluntary quantification and crystallization of the balance as between creditor and principal debtor undoubtedly discharges the creditor pro tanto." (para 20 @ 13 of IA (I 8) No. 104/C8/2022) (emphasis supplied)
+	</p>
+	<p title="Petitioner's Argument">
+		(iii) Application filed u/s 17(1) of the SARFAESI Act, 2002 by CD before ORT Chennai on 17.07.2019 Ground A .... When once the liability in respect of Mis ESL came to be extinguished, the 2nd defendant ceased to have any independent right against the Applicant herein. Further, a reading of Section 5 (1 J of the SARFAESI Act would show that there cannot be an assignment of rights against the surety alone de hors the rights against the original borrower. more so when the rights against the original borrower has been extinguished by mutual consent and full satisfaction."(@ Ground A @38 of IA (18) No. 104/C8/2022) (emphasis supplied}"
+	</p>
+	<p title="Petitioner's Argument">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 42
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		41. Similarly, learned Senior Counsel for the Appellant has relied on order dated 30.09.2019 of the Madras High Court, where submission of Respondent No.1 was noticed in following words:
+	</p>
+	<p title="Precedent Analysis">
+		"Order dated 30.09.2019 passed by the Ld. Single Judge before the Madras High Court in IA.No. 4322 of 2019 in C.S (DJ No. 18962 of 2019 "3.1. The Ld. Senior Counsel for the applicant/plaintiff submitted that the 2nd respondent/2nd defendant had extended certain financial assistance to the 3rd respondent/3rd defendant and the applicant/plaintiff stood guarantee for such financial assistance, however the 3rd respondent/3rd defendant was unable to discharge its liabilities as and when they fell due .... "
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		(para 3.1 @44 of IA (18) No. 104/C8/2022) (emphasis supplied)"
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		42. The learned Senior Counsel for the Appellant has also relied on submissions of Respondent No.1 as noticed by Hon'ble Supme Court in paragraph 2.1 and 2.2, which are as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"2.1. That original defendant No. 3 - respondent No.3 herein (hereinafter referred to as original defendant No.3) availed the loan facility vide Rupee Loan Agreement dated 26.07.2011 from defendant No. 2- respondent No.2 herein - SREI Infrastructure Finance Limited and availed the financial assistance to the extent of Rs.500 crores. The appellant herein - original plaintiff stood as a guarantor ... " (para 2.1 @70 of IA (18} No. 104/C8/2022} (emphasis supplied} 2.2 That thereafter on the basis of the assignment agreement dated 30.06.2018, the assignee - original Company Appeal (AT) (Insolvency) No.975 of 2022 43 defendant No. 1 - respondent No. 1 herein initiated the proceedings against the plaintiff- appellant herein, who stood as guarantor. under Section 13(2) of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 ("SARFAESI Act'J ... " (@ para 2.2 @73 of IA (18} No. 104/C8/2022} (emphasis supplied}"
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		43. The learned Counsel for the Respondent has submitted that submissions in the affidavit and pleadings, which are relied on by the Appellant were made in context of proceedings initiated by UVARC under SARFAESI Act. It is admitted that under SARFAESI Act, immovable property was mortgaged by Respondent No.1 and proceedings were initiated for enforcing the said security under SARFAESI Act. Hence, pleadings made by Respondent No.1 have to be looked in the background that proceedings were initiated by UVARC for enforcement of security. Admittedly, a mortgage was made of the immovable property by Respondent No.1, hence, the said pleadings were in reference to mortgage of the immovable property. The learned Counsel for the Respondent has also relied on certain affidavits filed before Madras High Court, where as per the Respondent, the pleadings were explained. Reliance has been placed on the rejoinder affidavit filed on behalf of Respondent No.1 to the counter of UVARC wherein in paragraph 17, following has been stated:
+	</p>
+	<p title="Petitioner's Argument">
+		"17. With reference to paragraph 16 of the Reply, it is submitted that the obligations of the 1st Respondent towards the Appellant under the Company Appeal (AT) (Insolvency) No.975 of 2022 44 Declaration is that of a guarantor without personal recourse. In other words, the only recourse available to the 2nd Respondent against the Appellant is that in the event of 3rd Respondent failed to repay the Credit Facilities to the 2nd Respondent, then the 2nd Respondent **** **** enforce the security interest created over the Scheduled Properties. However, as set out hereinabove the Credit Facilities availed by the 3rd Respondent have been discharged and extinguished in full. Accordingly, there is no question of 1st Respondent or the 2nd Respondent asserting any claims against the 1st Respondent in the alleged capacity as a guarantor and/ or otherwise."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		44. Another affidavit relied by the Respondent is the rejoinder affidavit to the counter filed by SREI, wherein in paragraph 5, following has been pleaded:
+	</p>
+	<p title="Precedent Analysis">
+		5. With reference to the contents of paragraph 2(iv) of the Reply, it is submitted that the Appellant has executed the Declaration dated 23 November 2011 ("Declaration") creating security by way of exclusive mortgage by deposit of title deeds over the Immovable Properties of the Appellant ("Scheduled Properties") to secure the due repayment of the credit facilities availed by the 3rd Respondent ("Credit Facilities") from the 2nd Respondent. Accordingly, it is submitted that the obligations of the Appellant towards the 1st Respondent is that of a guarantor without personal Company Appeal (AT) (Insolvency) No.975 of 2022 45 recourse. In other words, the only recourse available against the Appellant is that In the event the 3rd Respondent failed to repay the Credit Facilities to the 2nd Respondent, the 2nd Respondent had the right to enforce the security interest created over the Scheduled Properties.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		However, as set out in the underlying paragraphs, it is submitted that the Credit Facilities availed by 3rd Respondent have been repaid in fully.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		Accordingly, the question of the 2nd Respondent continuing to have recourse against the Scheduled Properties in respect of the Credit Facilities availed by the 3rd Respondent does not arise."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		45. From the aforesaid affidavit, it is clear that it was pleaded that in event the ESL fail to repay the credit facilities to SREI, the SREI has right to enforce the security interest created over the scheduled properties. It is also relevant to notice that issue which was before the Madras High Court was as to whether the leave should be granted to Respondent No.1 to institute a suit. Leave was declined on the ground that as per provisions of SARFAESI Act, suit is barred. The question as to whether Respondent No.1 stood 'guarantor' to the Financial Facilities extended by SREI to ESL was neither gone into, nor decided. The learned Counsel for the Respondent has rightly referred to following observations of the Hon'ble Supme Court in the SLP, which was filed against the order of the Madras High Court, refusing to institute the suit, where the Hon'ble Supme Court observed following in paragraph-9:
+	</p>
+	<p title="Conclusion">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 46 "It is made clear that we have not expssed anything on merits in favour of either of the parties"
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		46. In view of the above, we are of the considered opinion that the submission of the Appellant cannot be accepted that there was clear and categorical admission of Respondent No.1 in the pleadings before Madras High Court and the Hon'ble Supme Court that Respondent No.1 stood guarantor of the Financial Facilities extended by SREI to ESL. As noted above, the pleadings made in those proceedings have to be looked into the background that Application for Leave was filed in the Madras High Court seeking leave to institute a suit, challenging the proceedings initiated by UVARC under SARFAESI Act. Admittedly, Respondent No.1 mortgaged its immovable property as per the Supplementary Agreement as noted above and pleadings have to be looked into the background that mortgage was made by Respondent No.1 of his immovable property to secure the Facilities.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		47. The issue directly arose in proceeding under Section 7, as to whether Respondent No.1 stood guarantor to SREI in reference to Financial Facilities extended to ESL, which has been answered by the Adjudicating Authority taking into consideration all relevant facts. Neither the issue was decided in proceedings before Madras High Court or by the Hon'ble Supme Court, nor any such admission can be pssed into service as claimed by the Appellant. The Adjudicating Authority in the impugned order after considering all facts and circumstances of the psent case has rightly come to conclusion that Respondent No.1 cannot be held to be Company Appeal (AT) (Insolvency) No.975 of 2022 47 guarantor to the Financial Facilities extended by Financial Creditor to the ESL. In paragraph 11 of the judgment of the Adjudicating Authority, detailed consideration and reasons have been given for holding that Respondent No.1 is not guarantor of the Financial Facilities. We record our concurrence in the above reference in the light of what have been stated above by us.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Question No.(II)
+	</p>
+	<p title="Issue" data-structure="Issue">
+		48. The findings recorded by Adjudicating Authority that after approval of Resolution Plan, entire debt stood extinguished, has been questioned by the Appellant in this Appeal. The Adjudicating Authority in the impugned order with regard to debt extinguishment has considered the issue under heading (C). The question framed under heading (C) is as follows:
+	</p>
+	<p title="Issue">
+		"C. Whether the approval of the Resolution Plan has led to extinguishment and effacement of the entire debt of ESL (including the liability owed by the CD) and thus there is no surviving debt which could be assigned by SREI to the FC - in other words, there is no debt for which there could be a default"
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		49. In paragraphs 15 and 16 of the judgment the Adjudicating Authority has recorded following finding:
+	</p>
+	<p title="Precedent Analysis">
+		15. Therefore, going by the aforesaid facts, it is evident that in terms of the Resolution Plan approved by the Kolkata bench of this Tribunal, the entire claim of SREI gets discharged at the Step 1 under the resolution plan. FC has further argued during the Company Appeal (AT) (Insolvency) No.975 of 2022 48 hearing that aforesaid Step 1 is a dummy step and the ultimate effect on their claim shall come into effect after Step 2, wherein the face value of shares gets reduced from Rs.10/- to Rs.0.20. However, this Tribunal notes that such capital reduction has been effected in terms of the approved resolution plan. Step 2 is a subsequent step which can be effected only after completion of Step 1 and at Step 1 level only all the sustainable as well as unsustainable debt of the financial creditors including that of SREI gets discharged. Therefore, once the sustainable and unsustainable debts have been discharged as aforesaid at Step 1 level only, FC cannot make a claim based on capital reduction implications, which is a subsequent step in terms of the approved resolution plan. Since, without implementing step 1, the step 2 cannot be implemented in terms of the Resolution Plan, therefore, the claim of FC that on conversion of the balance debt of ESL into enquiry shares under the Resolution Plan on 06.06.2018, SREI did not receive any equity shares of Rs.10/- for its entire share of the balance debt being Rs.336.18 Crore is not true as is evident from the documents and relevant details produced by the CD. Accordingly, based on the aforesaid terms of the resolution plan we agree with the contention of the CD that approval of the Resolution Plan has led to extinguishment and effacement of the entire debt of ESL.
+	</p>
+	<p title="Precedent Analysis">
+		16. With the aforesaid discussions we conclude on this aspect that all debts owed by ESL, the principal Company Appeal (AT) (Insolvency) No.975 of 2022 49 borrower, stood paid and all liabilities stood extinguished by virtue of an approved and binding resolution plan under which such payment has been made by the successful resolution applicant Vedanta, through a combination of cash and equity. SREI having accepted the payment in cash and having been allotted equity proportionate to its balance debt, all debt owed to SREI (and consequently to FC) stood satisfied/ extinguished."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		50. Law on extinguishment of claim against personal guarantor and third party on approval of Resolution Plan has been settled by Hon'ble Supme Court in its judgment in Lalit Kumar Jain vs. Union of India and Ors.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		- (2021) 9 SCC 321, where the Hon'ble Supme Court held that approval of resolution plan does not ipso facto discharge a personal guarantor (of a Corporate Debtor) of her or his liabilities under the contract of guarantee. In paragraph 126 the Hon'ble Supme Court held following:
+	</p>
+	<p title="Precedent Analysis">
+		"126. For the foregoing reasons, it is held that the impugned notification is legal and valid. It is also held that approval of a resolution plan relating to a corporate debtor does not operate so as to discharge the liabilities of personal guarantors (to corporate debtors). The writ petitions, transferred cases and transfer petitions are accordingly dismissed in the above terms, without order on costs."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		51. There cannot be any dispute to the proposition that after the approval of the Resolution Plan, entire debt of the Corporate Debtor against the Financial Creditor stand discharged and after approval of Resolution Plan, Company Appeal (AT) (Insolvency) No.975 of 2022 50 Financial Creditor can have no further recourse against the Corporate Debtor. But the question as to whether debt of personal guarantor or third party which arises out of different contract shall also automatically extinguished after the approval of Resolution Plan is a question to be answered in the psent case. As noted above, the law laid down by the Hon'ble Supme Court is categorical that approval of a Resolution Plan does not ipso facto discharge a personal guarantor. We have to look into the Resolution Plan to find out as to whether approval of Resolution Plan discharge guarantor or third parties or not. The learned Senior Counsel for the Appellant has relied on Clause 3.2 of the Resolution Plan, under heading 'Proposal for Workmen and Financial Creditor'. Sub-clause (ix) of Clause 3.2 has been relied, which clearly mentions that Company shall stand discharged of any default, but on the same time it has been mentioned that any rights against any third party shall not be extinguished. It is relevant to extract following relevant part of sub-clause
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(ix):
+	</p>
+	<p title="Conclusion">
+		"... Furthermore, the Company shall stand discharged of any default or event of default under any loan documents or other financing agreements or arrangements (including any side letter, letter of comfort, letter of undertaking etc.) and all rights/ remedies of the creditors shall stand permanently extinguished except any rights against any third party (including the Existing Promoter) in relation to any portion of Unsustainable Debt secured or guaranteed by third parties. Furthermore, it is hereby clarified that upon approval of the Resolution Plan by the NCLT,...."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No.975 of 2022 51
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		52. The learned Senior Counsel for the Appellant has also referred to the Minutes of the 9th Meeting of the Committee of Creditors ("CoC") dated 29.03.2018, where the CoC while putting the Resolution Plan submitted by Vedanta for voting, put a caveat in following words:
+	</p>
+	<p title="Precedent Analysis">
+		"The members took note of the final Restated Resolution Plan submitted by Vedanta to the RP and placed by the RP before the COC and agreed to vote on the same as part of Agenda Item No.15, but without pjudice to all the claims and rights of the CoC against the guarantors of Electrosteel Steels Limited and their respective assets and relevant securities provided by such Guarantors, or any other person, over their relevant assets, if any under the relevant existing Financing Documents."
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		53. The learned Counsel for the Respondent has submitted that the above Minutes of the CoC are not relevant and it is the Resolution Plan, which is final and has to be looked into. There can be no dispute that terms and conditions of Resolution Plan are the final after approval of the CoC and have to be given fullest meaning and effect, but the Minutes of the CoC under which Resolution Plan was put for voting notices a caveat as noted above and it is in line with Clause 3.2 (ix), only reflects and reinforces the interptation, which is being put in Clause 3.2 (ix). The Minutes of the CoC throws light on the true interptation of Clause 3.2 (ix) and cannot be said to be not relevant. When Clause 3.2 (ix) of the Resolution Plan expssly provides that all the debt shall be extinguished against the Company, but it shall not extinguish against personal guarantor and third Company Appeal (AT) (Insolvency) No.975 of 2022 52 party, nothing more is required to be looked into. The Respondent cannot be allowed to raise the submission contrary to above Clause of the Resolution Plan, which has received approval.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		54. The learned Senior Counsel for the Appellant has relied on judgment of this Tribunal in Company Appeal (AT) (Insolvency) No.172-173 of 2022 - Committee of Creditors of Ushdev International Limited through State Bank of India vs. Mr. Subodh Kumar Agrawal, Resolution Professional of Ushdev International Limited and Ors., where this Tribunal had occasion to consider a Resolution Plan, where securities were excluded. The question arose as to whether recourse can be made by the Financial Creditor against the excluded security. In the above case also, unpaid debt was converted into non-convertible redeemable pference shares and on which basis it was argued that excluded securities are no longer enforceable, repelling the contention, following was held in paragraph 16 and 18 of the judgment:
+	</p>
+	<p title="Conclusion">
+		"16. The view which was taken by the Adjudicating Authority both in the Order dated 03.02.2022 approving the Resolution Plan and Clarification Order was that in view of the fact that unpaid debt shall stand converted into non-convertible redeemable pference share hence the excluded securities are no longer enforceable. The Adjudicating Authority held that excluded securities are subsumed under Clause 3.3.(iii). The Adjudicating Authority obviously referred to Paragraph 3.3. (e) (H) which provided that balance Financial Debt forming part of the Admitted Debt shall stand converted into non-convertible redeemable pference shares of the company which shall be Company Appeal (AT) (Insolvency) No.975 of 2022 53 issued to the Financial Creditors upon conversion of the unpaid debt. The above provision in the Plan for conversion into nonconvertible redeemable pference shares of the balance financial debt has no bearing on specific provisions in the plan by 3.3.(iii)(g) which clearly provided that excluded securities shall not be extinguished or waived under this Resolution Plan.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		When the Resolution Plan itself states that excluded securities shall not be extinguished under the Resolution Plan which is the provisions in the plan made in 3.3.(iii)(h). Further as noted in 3.3.(v) there was again clear provision that excluded securities shall continue to survive. When the plan is ready as a whole it is clear that excluded securities were to continue and no contrary intention is reflected in the plan. It is due to the above contents of the plan that Learned Counsel for the Resolution Applicant also does not dispute that the Plan never contemplated for extinguishment of excluded securities. Both the parties had argued that plan never contemplated for extinguishment of the excluded securities. The Adjudicating Authority thus committed error in making observation in issuing direction no. 1 of the Impugned Order under the heading 'Reliefs, Concessions, and Dispensations. Hence the following part of the Direction no. 1 " Hence, excluded securities are no longer enforceable as defined under the resolution plan" are deleted from the Order. The deletion of the above Direction No. 1 shall in no manner affect the approval of the Resolution Plan vide Order dated 03.02.2022. The Order dated 03.02.2022 is untouched with regard to other aspects of the Impugned Order.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		18. In the clarification Order dated 03.02.2022, the Adjudicating Authority in Paragraph 29 has again observed that excluded securities are subsumed under Clause 3.3(iii)(c )(h) wherein the plan proposed that any balance financial debt forming part of admitted debt shall be converted into non- Company Appeal (AT) (Insolvency) No.975 of 2022 54 convertible redeemable pference share, for the reasons which we have noticed above, the above observations in Paragraph 29 of the Clarification Order also cannot be sustained and deserves to be deleted. The observations of the Adjudicating Authority in Paragraph 29 that 'the approval of the resolution plan ipso facto discharge the enforcement of excluded securities' is not in accordance with the Resolution Plan and is hereby deleted."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		55. The learned Counsel for the Respondent sought to distinguish the above case on the ground that in the said case, the question that securities were excluded was not an issue and all parties agreed for the said. Whereas in the psent case, the issue is being raised by the Respondent and it is not an uncontested situation as was in Ushdev case. We are of the view that mere fact that Respondent is now raising objection, shall not make any difference and any objection by the Respondent, cannot be allowed to sustain, in view of the clear and categorical Clause 3.2 (ix) of the Resolution Plan. The judgment support the submission of the Appellant that even if the debt was converted into non-convertible redeemable pference shares, like equity shares in the psent case, securities can be excluded.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		56. We, thus, are of the view that in view of Clause 3.2 (ix) of the Resolution Plan, when read in the light of the CoC Meeting dated 29.03.2018, which throws considerable light on the meaning and content of Clause 3.2 (ix), the submission of the Respondent cannot be accepted that after approval of Resolution Plan, the entire debt stand extinguished and no recourse can be taken by the Financial Creditor against third party. Company Appeal (AT) (Insolvency) No.975 of 2022 55
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		57. As noted above in Question (C), which was framed by the Adjudicating Authority was 'Whether the approval of the Resolution Plan has led to extinguishment and effacement of the entire debt of ESL (including the liability owed by the CD)...'. Although, the Adjudicating Authority has returned the finding in paragraph 15 as noted above that "approval of Resolution Plan has led to extinguishment and effacement of the entire debt of ESL", but no finding has been returned as to the liability owed by the Corporate Debtor also stood extinguished or not. In view of our observation as above specially in view of Clause 3.2 of the Resolution Plan, which clearly contemplated that all rights/ remedies of the creditors shall stand permanently extinguished against the Company, except any rights against any third party (including the Existing Promoter) in relation to any portion of unsustainable debt secured or guaranteed by third parties. The finding of the Adjudicating Authority that approval of Resolution Plan has led to extinguishment and effacement of the entire debt of ESL has to be held to be finding qua the Corporate Debtor only. We hold that there is no finding recorded by the Adjudicating Authority in the impugned order that after approval of the Resolution Plan, it would lead to extinguishment and effacement of the entire debt of third party including the Corporate Debtor.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		58. In view of the foregoing discussions and conclusion, we uphold the order of Adjudicating Authority rejecting Section 7 Application filed by the Financial Creditor. However, finding on Question (C) has to be held to be confined to the debt extinguishment qua the Corporate Debtor only. Company Appeal (AT) (Insolvency) No.975 of 2022 56
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		59. In result, the Appeal is disposed of in following terms:
+	</p>
+	<p title="Conclusion">
+		(I) The impugned order of Adjudicating Authority dated 24.06.2022 rejecting Section 7 Application filed by the Appellant is upheld.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(II) The findings recorded by the Adjudicating Authority in respect of Question (C) in paragraph 15 that "approval of the Resolution Plan has led to extinguishment and effacement of the entire debt of ESL" has to confine to the finding qua Corporate Debtor only and the finding cannot be read to mean that approval of Resolution Plan has led to extinguishment and effacement of entire debt against third party as was clearly contemplated in Clause 3.2 of the Resolution Plan.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		The parties shall bear their own costs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice Ashok Bhushan] Chairperson [Mr. Barun Mitra] Member (Technical) NEW DELHI 24th January, 2024 Ashwani Company Appeal (AT) (Insolvency) No.975 of 2022 57
+	</p>
+</div>
+</html>

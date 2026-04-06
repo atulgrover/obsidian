@@ -1,0 +1,1625 @@
+# Webinar on Liquidation Process Under IBC -  Part II by CA. Anil Goel
+![](https://img.youtube.com/vi/005Aj2gpByc/hqdefault.jpg)
+4 years ago (Jun 8, 2020) — 3:01:57
+[https://youtube.com/watch?v=005Aj2gpByc](https://youtube.com/watch?v=005Aj2gpByc)
+
+
+## Summary
+The webinar discusses the implementation of the liquidation process as per the date of 25th March 2020, and the clause that no application can be filed. The process of admitting applications and verifying the date of default is explained. The threshold limit for the application depends on judicial pronouncements. The section 66 application is only possible if the CIRP is initiated. The individual bankruptcy law is useful for personal guarantors, and the business in the market can be handled by invoking personal bankruptcy. The panelists, CA Anil Agarwal and Keith Boyle, will share their experiences in evaluation and liquidation cases. The recap of part 1 of the liquidation process includes the passing of liquidation orders, recent amendments, and the appointment of liquidators. The COC has the power to appoint a liquidator and negotiate fees. The stakeholders consultation committee is gradually becoming powerful. The RPs must be prepared for the appointment of a liquidator during the liquidation process.
+
+## How No Application Can Be Filled
+0:03
+We are live now, good afternoon, everyone. We're off soon, everyone, so the participants are increasing by leaps and bounds, as normally it takes about five minutes time to add all the participants who are waiting on the nut. So this time, while these participants are getting connected, I thought that I would probably answer the various questions, which was also handled today by dr MS ah who in this morning webinar which was organized by IDBI and IPS. 
+
+0:49
+So the first question, which even many participants are asking over emails is also the how this would be implemented the date of 25th of March 200.20, how this would operate and there is another very important clause, and that is that the no application can be filed. so whenever we say that no application can be filed. 
+
+1:16
+According to my experience and common sense, it would make a kind of process where the application would be filed in case there is any there is a struggle, see and verify the date of default is in case it is not disputed, then the Registrar will admit the applications. 
+
+
+## Defendance to 25th March 2020 - What is the limit for adjudic
+1:35
+Otherwise, the one question which was being asked by someone to dr Shah, who was very important: the relative default is pre 25th March 2020 or post 25th March 2020. That also has to be adjudicated by the adjudicating authority. 
+
+1:54
+So that's what it is, because the in case the adjudicating authority doesn't want to take that load off or judicata each or every case, then they would provide some power to register that the application would only be admitted once it is prima facie seen by the registrar that the default is undoubtedly to 25th of March 2020. So this is one practical part which I think that will be seen in the future, and the other part that we are seeing is that, as far as this one lack the threshold limit, which is increased to Bank Road. 
+
+2:32
+That also depends upon the judicial pronouncements because, as we have seen, Kolkata and CLT banks has already given an order saying that the threshold limit would be applicable as on the date of filing of application and not as on the date of order initiating carv. 
+
+
+## CI yacht is CI yacht initiation
+2:54
+This is a legal issue because the threshold limit when it when it, when a bench, when a member is passing, when they are dedicating Authority, is passing an order initiating CI yacht before any company, rather be threshold limit would be applicable as on that date or as on the date of application. This is a legal issue. 
+
+3:14
+I have already given my views at various forums that my understanding the threshold limit should be applicable as on the date of passing the CI RP initiating order. So that's what I feel. however there's a the entire profession is divided. For this, I definitely can register my view that according to me, it should be applicable as on the date of the order that is initiating Cir. 
+
+3:44
+Then the section 66, I think oppressor, who has very you know, defined very clearly that the cross that they have added in section 66, sub cross 3 has been added that pertains to the Twilight Zone. 
+
+
+## CI RP is not initiating for any coalition
+4:05
+So in that Twilight Zone, in case the I think the intention is to exclude that Twilight Zone also for the purpose of protection of losses to the corporate data during that project zone and use of due diligence by the managerial persons. So that also was clarified by dr Graham and Mossad. 
+
+4:32
+So I think this is the this is what we can expect under this, because he liked this clause was introduced and what I understand is the section 66 application is only possible in case the CI RP is initiated or any coalition is initiated. Without that, section 66 may not be applicable. 
+
+4:55
+So the clause sub Clause 3 of section 66, all that would be applicable and how it would be impactful when the CI RP is not initiating for any default, which is a post 25th of March 2020. So how that would be relevant is still a question, and that of course would be settled gradually with the judicial pronouncements. 
+
+
+## Individual bankruptcy law & bankruptcy law & bankruptcy law
+5:22
+So these two amendments, as I would say the last time also I said that there are more than 8 lakh crores of NPA which is still pending with the bank. maybe a lot of them pertains to the partnership forms proprietorship firms. 
+
+5:41
+Individuals will be insolvency and bankruptcy law is not applicable, but still there would be many where Dean solvency law is applicable and that kind of business is still available in the market and most of the banks they would probably prefer to go for insolvency, as there is no other feasible alternative available with the banks to handle the stress assets. So the business in the market. 
+
+6:11
+Then I think we should all try to popularize this individual bankruptcy, which is very useful for the personal grunters. They can have a fresh life, fresh start of flights, they can get discharged from all their obligations liabilities and they can start restart their businesses. they can we start having properties in their own name. 
+
+
+## Personal Grunters - A Complete Guide to Restructuring and Rehabilitation
+6:35
+Otherwise their commercial life is completely dead in case they have given Andy and lot of pieces are against those personal grunters, maybe before BRT or maybe before any other code, so that also can be handled by those personal grunters by just invoking their personal bankruptcy. 
+
+6:58
+So after about one year time they would get complete discharge and that discharge would be very helpful for them to start their life afresh, whatever experience they have got in the last and in the past life that can be reused otherwise that is not being used presently. 
+
+7:18
+So what I am trying to say that the business in the coming one year, till the time this suspension of IBC's for new cases and also from one luck one code would be lesser. however, they will be other opportunities which might even come, and maybe this personal grunter is an opportunity, and also the various restructuring and rehabilitation proposals that the professionals can make. 
+
+
+## Co panelists on liquidation process
+7:50
+So this with this we can start our main subject today, which is the part 2 of the liquidation process. To give you the little recap of what was in the past in the part 1, before I do that, I would like to introduce the co panelists today. CA Anil Agarwal is a senior partner of Tripoli insolvency professionals LLP. 
+
+8:21
+He is heading the Kolkata office of the IPE see am Keith Boyle is also a partner of triple insolvency professionals LLP. He is a valuer and he is also the founder of triple evaluation professional LLP, which is a registered value or entity with IDBI for all class of assets. so these both panelists would help me and also share their experiences when it comes to evaluation how the evaluation is disturbing the liquidation process. 
+
+9:00
+It Boyle will take some time in sharing his experiences and when it comes to the practical experiences doing liquidation cases, because mr Anil Agarwal, who is the Kolkata based senior partner, he has also handled many cases and also supervised many cases with our Kolkata based and handled by partners. We have seven partners in Kolkata and he is the senior most amongst all these seven partners. 
+
+
+## Interview with Uncle coil on Q&A segment
+9:26
+So he is handling various cases in his own name and also he's supervising the cases in the name of the other partners. So with this I will see. We also would take up some of the questions which are received by us over emails, and I would only request you that please post your questions on the Q&A section and not on the chat box, because we would be taking the questions from Q&A segment and the Q&A is the. 
+
+9:58
+At bottom of your screen you would find Q&A section, question and answer session and you can post your questions and you see Anna Nagar wall and see Uncle coil will take up the questions every 30 minutes. We would have a break and we'll have questions at every 30 minutes. So I would share my screen. Now you so I believe it is the visible to all. Is it visible the co panelist? 
+
+10:38
+The first screen is visible and yeah, then try moving is moving. so the I started from the first, because I would like to give you the recap. In the first five minutes and we Swedish. 
+
+
+## How the liquidation orders can be passed, under what circumstances, and then we talked about the
+10:50
+We said that how the liquidation orders can be passed, under what circumstances, and then we also talked about the recent amendment which is dated 16th of August 2019. The liquidation order can be passed at any time, even before the preparation of information memorandum. That means that after the committee is constituted, after the COC is constituted, the liquidation order repent always be passed. 
+
+11:20
+However, the doctor, sorry today, said in the morning that the disposition is the last resort. The declaration is the death, and he very categorically said that in case we decide about the liquidation of the company incorrectly, then there is no reversal. 
+
+11:42
+However, in case we decide to give the company as a going concern, hoping that this company would revive, and in case the company does not revive and that the same liquidation order can be taken a year later, the next year, it can be said, it can be seen that yes, the liquidation order can be seen. So the liquidation, as everyone says, the de liquidation is the disastrous odd. 
+
+
+## Different judgements in the case of propellant solvency
+12:09
+It is actually having an inferior economic value for all the stakeholders. That has to be kept in mind. However, there are various judgements. All this slide that we shared and the recording of the part one recording of the part one detailed recording, which is for two and a half are that is also available at our YouTube channel, named as propellant solvency professionals. 
+
+12:35
+So anyone who is missing any part or would like to get a detailed discussion on these subjects, which I am just taking as a recap, the can go and look at those recordings so they can either if they would be able to connect part 1 and part 2. So this these are. 
+
+12:52
+There are so many judgment where it has been held that the liquidation also can be the only option at times based on various facts of the case, like no operations, no employee, no business model, no business format. Business activities are closed for so many years. There is no possibility of any resignation. So there is this lot of litigation that if there is no, there is no reason for to change the litigation. So there are various. 
+
+
+## The COC has power to appoint a liquidator
+13:20
+The assets are dead. the company is not having any kind of alternative use. The product of the company is obsolete. It is having no demand to all these things, so immediately the effect of the liquidation was also discussed. The appointment of liquidator was also discussed, so this was also discussed. Now this is very important that I should actually spend another 1 minute on this. The COC has power to appoint a liquidator. 
+
+13:48
+Gradually this is getting clarified. Although we started in 2018. June 2018, we obtained an order from Kolkata banks in the case of special sponsor energy Private Limited, where we appointed the COC appointed us as the liquidator, whereas the resolution professional was somebody else. so that was the first case that we tried, and we got this regulation passed from COC that their day they would like to appoint such and such person as the liquidator. 
+
+14:21
+So that was the first order in the name of Education spawns and even the even the later on, when this regulation 39d was inserted with a subform, I think 25th of July 200.19. It is very clearly said that the COC will decide the fee of the liquidator while passing the resolution for liquidating the company or for even approval of the resolution plan. So this is a very important amendment. 
+
+
+## 
+14:54
+You know what it means that in case the in case the ski has to be decided by the committee of creditors, how can it be seen or said or believed that ECOC has no power to till the liquidator in case it is held anywhere, that is, he or she has no power to appoint a liquidator other than the RP? Then how come the COC has the power to liquor to negotiate defeat? 
+
+15:22
+Then the existing RP would always say that I will take this fee. Otherwise I am not going to work. So the COC would not have any power to appoint any other liquidator. The matter will go to IDBI. So that would be a complete disaster and that will be a time consuming part. so now this years he can put a competitor in competition amongst the prospective Liquidators. 
+
+15:43
+The co second definitely negotiate fees and DCO second, a point in case the are invasive this thing, RP he is seen he is seen as efficient a liquidator, also along with the efficient RP and he is also seen the as a cost kuzey. Then the liquid COC would have find him. 
+
+
+## 
+16:04
+Otherwise the COC appoint any other person as the liquidator, because the COC will also say COC will also see who are the people who can, who are those people who can provide better services in the liquidation process, looking into their infrastructure, looking into their experience and looking into their past practice and the past practice. the most important part would be the comfort to the stakeholders. 
+
+16:33
+Although we have also discussed like what are the powers of stakeholders consultation committee? Those powers are not significant powers and however they by practice, by practice the stakeholders consultation committee is using a lot many powers. It is by practice and not by regulations or not by statute. 
+
+16:53
+So the stakeholders consultation committee will gradually become powerful, because whatever actions are being taken by the liquidator in case it has to be it has to go through this equal to some citation committee meeting that would be even considered as a shield for the liquidator, because there can be many situations where the liquidator can be attacked or allegations cannot actually come to the liquidator for various actions taken by the liquidator, but the if the liquidator go through the stakeholders consultation committee meeting that actually will protect the liquidator also from any future action. 
+
+
+## 
+17:31
+So now all the RPS must be questioned and they must be prepared that in case the liquidation of the company would be considered, then the COC would appoint a liquidator, would negotiate the fee and they will choose their liquidator who they feel is better. So this is something which is very important powers which by practice has gone to stakeholders again and like RP in a recent case. 
+
+18:00
+In a recent case, I cannot name see the right from the beginning. It is the eighths month. It is the eighth month of the CIA RP and even no expenditure, no reimbursement of the expenditure and no fee has been dispersed to the RP. 
+
+18:18
+When RP insisted for the fee in the eighths month of the CIA RP and it is a sole banker, and that sole banker said that we would like to change the RP without healing. RP is working for 8 months and the COC is not even reimbursing the expenditure that he is incurred, not even for the valuers, not even for the no expenditure, despite various reminders before despite approvals. Also RP fees is approved. 
+
+
+## 
+18:44
+Valuers fees approve every professional fees, approved lawyers, fees of food, but the money is not coming from the bank. And when the RP insisted in the 8th month, the COC has actually taken the stand and change the our feet, and the NCR T has also passed that order. So this is scenario. This scenario would definitely be seen. 
+
+19:06
+However, some kind of good orders are required from NC LT so that this should not be repeated, and it was only and only because the liquor atrocity, the RP started asking for his money and started insisting for that, and this was a single COC member case. So this is all. There is another case, as in the that's one scenario that the COC has no power to remove the liquidator. 
+
+19:39
+In case the COC has to remove the liquidator, the COC has to go through the ib bi and the COC will file a complaint. I'd be bi and I will be. I will investigate into the complainant. in case the IDBI finds that yes, there is a reason and the liquidator is not performing to its best ability and also there are some ethics issues, then the IBA recommend to change the liquidator in any case. 
+
+
+## 
+20:02
+That also should be known. It's very important. So powers of the liquidator we discussed at length and anyone where he is not running the power from the power one they can go and do that. 
+
+20:13
+Now the only one amendment that I still would like to take for the financial predictors or any other creditors, there is an option now, during liquidation they can find an updated claim or simply they can write a letter to the a liquidator that B claim that I filed during CRP. that should be taken as my claim during liquidation and at the most they can only update it for the interest part of it. 
+
+20:37
+The claims ever discussed, powers of the liquidator, submissions of the claim, verification of the claim. Wells discussed, I think, the one differentiation that I said, that the all the financial creditors has to submit their claim by electronic means, whereas others, like operational creditors, workman and Factory, all they can be conceived the three options by in person, by putting by electronic means. 
+
+
+## 
+20:59
+So this was all discussed and it was also the verification of the claim was also discussed, based on the security interest was also discussed. The contingent claims that in foreign, everything was discussed in the part one and the verification of security interest proving security interest, the presumption section 52 and also regulation 21 a was discussed and even it was updated till January 6 2020. Then it was also now inserted in the regulations 21 a that in case there is any, as said, which is taken away by any financial secure financial creditor, that secure financial creditor will sell it within 180 days. 
+
+21:46
+Otherwise it will be considered as sold and the estimated value and the difference in the that would be paid by the secure financial creditor to the liquidator. So nowadays there is no, there is no case that the financial creditor, the secured financial creditor, will not relinquish the security interest in favor of the liquidation State. there is no case now because the secure financial creditor will have to pay this year precaution, the liquidation first. 
+
+22:18
+The secured financial predictor will have to pay workmen dues for a test for 24 months pro rata allocation to them. So then they will spend undersurface he or any other way that they sell the property. So they would be incurring double cost and in case they are not able to sell then they might have to pay the balance amount to the liquidator within 180 days. 
+
+
+## 
+22:40
+So all these regulations, which are regularly coming and the CRP, the liquidation regulations, are getting updated. It only shows that the intention of the government is that this liquidator should do the job and the liquidator should complete the process, and the financial creditors should not sell the assert themselves. so I got a mail today. 
+
+23:08
+So one person was discussing his case and it was mr VV Raju, and he asked me a question that it's a declaration case. There is only one creditor, one secured creditor, and only there is one asset. 
+
+23:24
+But that one secured creditor has already entered into a OTS with the promoters and OTS with the promoters during liquidation and has settled the booze during liquidation and has taken the money directly from the promoters in the account of the bank, and they are ignoring the liquidator and they are not even paying the decorators fee. 
+
+
+## 
+23:49
+Now there are lot many comes non compliances that I could see in this number, one that first of all, before the bank can go ahead and invoke section 52, the bank has to take permission from the liquidator for handing over the assets back to the bank for sale at their level, and that would be half. 
+
+24:10
+That would happen only in case the only in case the bank shares the CR precaution liquidation cost and the workmen do with the liquidator, then only the bank can do that. A second part, even in case the section 52 is invoked and the bank is doing that bank has got no authority to sell the same as said to the same promoters. So this is a second non compliance. 
+
+24:34
+So I definitely would advise that this is a this is a good case and it would actually be a very big issue that how the bank can do this, how the banker can take the entire law in their hands and how the bank can sell the asset to the same promoter during liquidation. 
+
+
+## 
+24:49
+After invoking searching 52, and there is an amendment in the act which actually says there be even after this one is even after invoking section 52, the bank will not be able to sell the asset to the same promoter or any other person who is not eligible under Section 29 a of the IBC. So that's something which is a lot. 
+
+25:06
+Very non compliances has been done by the bank and I think it's an appropriate case to file an application to the adjudicating Authority for justice. So this also is a lot of questions are coming, like how would you create a balance between the first charge and second charge and subservient charge? 
+
+25:26
+I would again say that in the part 1 I refer, I discussed this issue at length and the report of the insolvency law from 1880 to 26th of March 2.2008 in was discussed. 
+
+
+## 
+25:36
+I also see I also say to each and every person that you must read paragraph number 21, point 1 to paragraph number twenty one, point six, which deals with this subject, which is the word shall try an equally bit and between and amongst the secured creditors. So how that has been interpreted? 
+
+25:54
+How the Supreme Court judgment in the case of ICICI Bank versus City Coll leathers limited has been used and how the section 48 of the transfer properties Act has been used by while interpreting at this particular way of having the rights and the rights of the first charge voltage and the second charge holder. So this is also the it was very clearly recommended by the insolvency law committed in the report. 
+
+26:23
+That in case in case, I will just take an example here. So in case I'll just take three cases. One is that there is an outstanding of 100 crore against the working capital loans and the current assets which are realizable as per the liquidation value, it is only 2 crores. 
+
+
+## 
+26:41
+Second part of the debt creditors are 50 crores is the outstanding and they are the term lender and the fixed asset which are having, which are charged to them, as those are having 20/20 crowed as the liquidation value. 
+
+26:56
+And then the third is the another separate loan against property, where the loan is turned corrodes and the value of the property is 20 crores and that has been done by any other bank, and the other could be a car loan. Every Rd car loan is ready. Car loan outstanding is 10 lakhs and then the value of car is 8 lakhs. 
+
+27:18
+So in such scenario, how would you handle in case I totaled up the total value of the total value of the liquidation value is 50 crores and the total debt in this case is 170 crores. so in most of the liquidators are thinking as if they have to allocate this 50 crores in proportion to the debt, which is 150,10.10 to all the secured creditors know. 
+
+
+## 
+27:41
+I would hundred percent say that this is not the correct way of distribution in a liquidation process. I see like what is the security value of termed under each one term? 
+
+27:51
+Lenders are having a security value of 20, so they should get minimum 20. In case the assets are sold at 20, or in case the assets are sold at 25, then they should get 25. Similarly, on the other hand, there is a loan against property and then the loan outstanding is tanker and the property value is 20 crores. So whenever the property is sold, they should get 100 percent. 
+
+28:10
+So in this case, the person is getting hundred percent because his value of security is more than the total outstanding. That and the third case is where the total loan is 10 lakhs of rupees and the total value of the car is 8 lakhs rupees. So in this case, if the car is sold for 7 lakhs of rupees, the 7 lakhs of rupees will be played against this loan or loan of 10 lakhs of rupees. 
+
+
+## 
+28:29
+So in case in case there are other assets other than the secured assets, then those assets would be sold and those assets would be distributed among all these creditors in their balance, which is an unsecured portion. 
+
+28:49
+So now the classification is at the first of all you have to be have to see how much is the secured portion and that secured portion is equivalent to the value of security interest, and then you calculate the unsecured portion and then all the unsecured portions, which is, for the time being, the first row of the secured creditors. That would be separately dealt with and the secured portion of the loan would be separately dealt with. 
+
+29:13
+So this is the we have been doing it for the Big D since beginning, because presently we are handling certifiable liquidation cases and it is very pleasing always to share with you that, based on our infrastructure, based on our transparency, based on our efficiency in finding a customer, the bank's have decided to give us all the fraud cases to us, like Mira moody, companies have been given to us, like this meritocracy companies, the evangelism group has been given to us for liquidation, whereas we were not the resolution professional in this case. 
+
+
+## 
+29:46
+None of our partner was the resolution professional in this case, where this case has been given to tripoli. Only because of the infrastructure for liquidation that we have received, we have built along with our surface infrastructure which is actually very, very well. they see a kind of helping our liquidation process also. So the surface II infrastructure is complementing our IBC infrastructure and IBC infrastructure is complementing our surface infrastructure. 
+
+30:18
+So this way the this Vikram could hurry is the comfort based proteomic group, with entirely with us, the June voila, which is Rea agro and was a nice path that is also with us. And then there are other, like IBM dairy, which is a which is the some kind of fraudulent investors scheme. 
+
+30:39
+That way, we have three lakh creditors, three lakh members of committee of creditors, and that is also called unauthorized investment scheme, and the SEBI has attached all the assets and the criminal actions that will started against them. and then there are many other cases where the state government, like the economic offence wing or any other state government, has convicted, be attached the assets against any of the criminal law. So all these assets taken together. 
+
+
+## 
+31:07
+We have a great experience in handling the those kind of cases where the assets are attached by kind of any kind of authority. So the allocation has been discussed, as also we have to see the amendment in Section 40, subsection 4 in IBC, which now clearly talks about including the priority and would value of the security interest of a secured creditor, including the priority and the value of the security interest of a secured creditor. 
+
+31:36
+That's what even during the resolution plan the look be the source is available under a resolution plan has to be allocated considering the priority and the value of security interest of is equal to creditor. So there is no doubt about this takeoff shade. Mixed of stakeholders and the stakeholders consultation committee was discussed at length. I just would like to reiterate here that this stakeholders consultation committee, in short we will say SCC. 
+
+32:04
+The SCC has the powers to advise the liquidator on the matters relating to sail under regulation 32. And in case we see this, what are the what is that regulation 32? Then only we can see the left side of this slide, the Verdi Co. she has to decide, or SCC has to decide whether the asset of the company is to be sold as standalone, so himself, collectively in parcels or as a going concern. 
+
+
+## 
+32:30
+Or as a company is going concern means business has the going concern or the core company has a going concern. So this is the only power of SCC, which is the regulation 32. When we even look at the regulation 33, which is schedule, one which dual one decides what the mode of sale, whether it has to be sold as the auction or private treaty, the strategy for the marketing, the reserve price, how to be time to be given, as is various bases, all these, all these the reasons are in regulation 33, not in 32. so 32 is restricted to deciding whether the company has to be sold in what manner assets has to be sold in what manner. 
+
+33:18
+So this is also for the clarification that the SCC such is not powerful by law, but SCC is powerful by practice. Most of the liquidators they have to work in the market. They have to build their reputation by way of transparency, by us efficiency and by way of results. 
+
+33:38
+So in case a liquidator is not able to give results to the committee or SCC so does, that matter will spread around and that person would not get fresh cases. So this basically is the liquidator has been given the market. The market is very small. so in case the SCC is saying something to do, the liquidator mostly would be able to do that. In our today's subject. 
+
+
+## 
+34:01
+I would have pre explained to you, and I will share with you how we are sharing everything with our SCC and how we are trying to build a trust between SEC and the liquidator and how they favor us in the liquidation assignments. The declaration cost was also discussed at length. This is a not to be repeated and now I think we have reached at liquidation estate. 
+
+34:31
+So this is the real part of liquidation process webinar and they so far. I have given the recap on the on the earlier part one and some of the important topics that was there. I discussed that so uncle. 
+
+34:49
+Is there anything that we can talk about now, because there are a lot of questions and I think what I can do is: I can, I can talk about these questions, I can mention them and if you feel that these questions will be addressed in the PPT to come, then we can ignore them and we can take them up later. Else we can try answer them. Yeah. 
+
+
+## 
+35:14
+So basically one question is from mr tara again that as for ABC by era of plant machinery of corporate debtor under liquidation has no liabilities transferred to it. Then why do our piece in the decoration notice put a clause stating that all past future hidden liabilities of corporate to be borne by the buyer? In reality, this only reduces the price paid by the buyer. 
+
+35:41
+No, this is incorrect and the enduring the liquidation rather be rather what we are doing is that we are only saying that Ezra, the local maintenance charges may be from any kind of local authority, may be the society under which that property is, or maybe different gram panchayat. So those are the people which are actually very difficult to handle. 
+
+36:03
+Otherwise, as Freddie, like City Department is concerned, Municipal Corporation is concerned, we are giving notices to everyone that in case you have any claim, you can send it to the liquidator and we are trying to sell the property, which is free from all and comprehensive charges, lien and kind of any liability on that. 
+
+
+## 
+36:22
+So in case we do this, then the one that we would not have as many options of the customers available in the market, because the most of the customers would not be interested in litigation. They would be interested in certainty and the customers has to be developed. Customer has to be given comfort. 
+
+36:40
+So in case we are not able to give comfort to the customer, then definitely we would only get one or two so in one of our case in some time. Color we are critical. Generate 125 bidders and everyone deposit 50 lakhs of rupees to us and then that particular property in fact they read the value as forgive the liquidation value was only 17 lakhs 17 crores. It went up to 42 crores. 
+
+37:03
+That was the example that we have set in the IBC liquidation process. so that's wrong key. That should not be done. Rather, the property should be sold as clear from encumbrances as possible and all other claims should be taken by the liquidator and should be settled by the liquidator. 
+
+
+## 
+37:21
+When there is an anonymous attendee asking that, what is the difference between acquiring the corporate data as a going concern under resolution process of a service under liquidation process? I think this is a very interesting question. Yeah, very interesting question, but that actually will come in my slides. Then the process of scrap sale or the assets that cannot be sold, the process of disposal of such assets and disclosure requirement for the same. 
+
+37:45
+That also will come in my slides. There's a question on how a liquidator to determine the fees payable to the value is appointed by him. I think this. This was discussed yesterday or yesterday in our part two of the evaluation under IBC, and we can just briefly reiterate other interesting question that is there any possibility of changing the registered office address of the CD during liquidation? 
+
+38:12
+Oh no, I don't think we just add office has got any anything to do with this, because the registered office change is not really significant. But most of the activities will happen in the name of the liquidator. So I don't see any reason for changing the registered office. In case the queerest can give me the objective, I can give him the battersea, which is where are the queries? To rephrase the question. 
+
+
+## 
+38:39
+And then again, is it mandatory to comply with the to be of IV be a regulation, I believe a liquidation regulations when we can directly or directly auction the for liquidation cases. No regulation to be is not saying anything about this, because there's nothing you can the regulation to be is all a decision of. 
+
+39:04
+Let me understand what is regulation to in case they have to indicate in the twits to the major ibv a liquidation regulations to be talks about compromise or arrangement. No compromise arrangement is only in case there is any scheme of compromise or arrangement which is received by the liquidator. So there are some orders that we have seen by the adjudicating authority. Where the adjudicatory authority has directed the liquidator that you have. 
+
+39:34
+We have to make some efforts to obtain the schemes of compromise and schemes of compromised or arrangement under Section 230 of the Companies Act in those cases. Yes, we have seen and we have also done in some cases we have actually given a public notice that we are looking for some schemes of compromise or arrangement under Section 230 only companies that otherwise it is not Cerrie. 
+
+
+## 
+40:01
+Unless liquidator receives a scheme from a creditor or from a member shareholder, then only the liquidator has to take the appropriate steps as required under the under Section 230 of the company. That so to be is not necessary in all cases unless it is specifically directed by the adjudicating authority. if you can't proceed and maybe we can take up more questions after sometime. 
+
+40:30
+Okay, let's start this part to formally and be recap was also a little longer because I wanted to discuss the key issues which are coming to me again and again on very various webinars or similar that I do, or even all emails. 
+
+40:44
+The liquidation estate is the subject we start today as part two of the liquidation process, and right we see, the liquidation estate is defined under Section 36 of IBC and which is the all the assets of the company collectively are called liquidation of State. So there are inclusions and there are exclusions as defined under Section 36 of IBC. 
+
+
+## 
+41:10
+So let us first of all take some of the inclusions and in case of anything which is little confusing, I will also take up some of the examples. All assets over which the corporate ladder has ownership rights as evidence in the balance sheet or as per the record of the information utility or the records of the registry and in depository recording securities of the corporative shares held in any subsidy of the CD by any other means as may be specified by the board. 
+
+41:41
+Now, in case you understand this language, the language is very clear that it is not important elite assets should be appearing in the balance sheet. Even if the assets are not appearing in the balance sheet, however, the ownership of the asset is proved that it belongs to the copy editor. that in fact we have done. 
+
+41:57
+We have seen in one of the case like Roe Tomac global that we our guard, who was there at the site our God in fact our received a letter from a builder and that was notice for demanding further money, and then we came to know that the company has invested in some plots and there was no entry in the books of account. 
+
+
+## 
+42:25
+We couldn't see that and be in the books of account and then we started chasing that asset. Similarly we have been able to find many other assets which are not in the books of account, of which are not in the balance sheet, and we have seen that the promoters normally do this kind of manipulation and this these manipulations are has to be cracked so we can see the information from because he, when we see the powers of the liquidator, it is a very specific power given to the liquidator that the decorator can even write to Lud, write letter to Sir, say to the Registrar of documents, to the information utility and to the to this, to the depositories for the shares and do any other, like the income tax department also, so the liquidator can write and seek information from them, although these departments are not being and are not ready to provide such information, but it has. 
+
+43:24
+The liquidator has the power. as such that may or may not be in the possession of the corporate data. So the no 1 question here is there be any asset which is not in the possession of the company that also will become part of the declaration estate? 
+
+43:40
+The one example: either the asset, his asset has been given on rent and the rent deed the leaves deed has been executed or rent deed has been executed so in such manner. I haven't seen any adjudicating authority passing an order saying that the tenancy has to be terminated on the decoration on the liquidation order. if it is a genuine tenancy, it cannot be terminated only because of the liquidation order. 
+
+
+## 
+44:11
+And if the tenant has further lease which is a valid Lee's life, then this the least would be honored and the asset would be sailed along with the, along with the lessees rights. So that scenario that is almost clear. 
+
+44:29
+However, the intention behind the lease has to be seen, the relationship behind between the company and the lessee has to be seen, the intention, the relationship, genuineness of the documents, circumstances, all this has to be settled by the adjudicated authority, whether the tenancy is legal or tenancy is created. 
+
+44:53
+So this is this particular subject has been handled in an in detail under surface II, and even the Supreme Court and even the high courts have held that the tenants are protected in case the tenancy is general. So I will just give you an example. 
+
+
+## 
+45:08
+Like there may be many buildings in Kolkata, Mumbai and Delhi which are very old buildings and are occupied by the tenants, very, very small tenants and the building is located very nicely and the in case it is located by the tenants, the building will have value which is like multiple times of the present value, so this can be used. 
+
+45:32
+This tool can be used by any owner of the property that the company should go to liquidation and finally the property complete, the asset value can be unlocked, whereas the tenancy has been protected if it is a general tendency. 
+
+45:48
+So nobody can say that I have a building in Kolkata which is occupied by 200 tenants and finding a liquidation and finally the 200 tenants would be evicted by the review decrypting Authority and the property would be ready to be sold by the liquidator. So that is not the scenario. Next is the assets may or may not be encumbered, so encumbered or not encumbered. 
+
+
+## 
+46:09
+All the asset has to come to the liquidation estate, as I was taking an example during the recap session, that is, only one creditor liquidator. the one creditor has not given the custody and control of that asset to the liquidator and have sold that asset or have entered into notice with the promoter. That's it that is completely non compliant. 
+
+46:35
+The liquidator has to take control and custody of all the assets, whether encumbered or not, and then the liquidator will take the claims from everyone and Krong, along with the security interest, along with the details of the encumbrances. So then the liquidator will decide the sale of the assets separately and settlement of the claim separately. all tangible asserted by the moveable removal is very clear: intangible assets. Now the intangible asset. 
+
+47:02
+Then we talk Intel, intellectual property securities, including shields held in a subsidy companies, financial instruments, insurance policies, contractual right now the contractual rights is very important part of the liquidation estate. When I talk about a company where be most of the land is leasehold land, then I would not say that the company owns this land. 
+
+
+## 
+47:26
+I would only say that the company has a contractual right which is a leasehold right on that land and which may be 1998 lease and still there may be 80 years or balance of the lease life is 80 years or even lesser. That particular asset would be called as a contractual right and that particular asset would not be called as land which is owned by the company. 
+
+47:50
+Similarly, the company may have entered into a contract, maybe a contract for developing a land and sharing the revenues, so that contractual right also would have a value. In the in real estate cases that we have seen that the company has entered into a development rights with some land owners and those land owners have hand over the possession to the company for development of the site and the company goes until the liquidation or in during CRP. So the very important part that we have to see is the what is the value of that contractual rights. 
+
+48:24
+So in case we have to assume that the contract would be fulfilled or not. Once the assumption is clarified whether it is the brother can be the contract can be executed or not. So then the valuation of that contractual right has to be seen. 
+
+
+## 
+48:39
+So this is a very important part that we have to discuss with the valuers, because the valuers would not get any information about the contractual rights and there may be many contacts, full rights. There may be some kind of arbitration and there may be some kind of flames. There may be some kind of advances that we have given and then some refunds that do all. This is basically a contractual rights or the legal rights. 
+
+48:59
+So these are all are part of the liquidation estate and must be valued very carefully. now the other part is the acid, which are part of the liquidation estate assets subject to the determination of ownership by the code or authority. So this is the this belongs to the disputed assets where the ownership, even in ownership, is evenly disputed. The status code to be maintained in such cases, the it will be considered as a liquidation estate. 
+
+49:31
+As I clarified in part one that during a liquidation process all the litigations would resume, which was which were kept in abeyance during Cir, he would resume wherever. However, during CRP also, in case there is any likelihood of asset getting developed out of a litigation, then the RP is supposed to continue with that litigation and those litigations would not be kept in abeyance because those are not pertaining to the liabilities. 
+
+
+## 
+49:58
+Those are pertaining to the assets, for example any refund or insurance claim. The RP is not supposed to say that it is they the. The RP is not supposed to say that it is a moratorium and in the moratorium all the application would stay, not regarding the assets. RP is supposed to pursue that litigation. 
+
+50:16
+Get that asset, crystalize take that asset and the an ha value of the karpadito, the any asset or their value recovered through proceedings for avoidance of transactions in accordance with section 43,45.50 or 66. So yes, anything recovered, anything recovered would fall under Regulation S state from any proceedings under Section 43. Fifty five, forty three, forty five, fifty, sixty six. 
+
+50:48
+That means the preferential transactions under valued transactions, extortionate land exchange and fraudulent transactions, so all these transactions. in case any amount is recovered, that also will fall as the liquidation estate. Any asset of the CD in respect of which is secured has relinquished security interest. 
+
+
+## 
+51:06
+Of course we have already seen that any other property belonging to or vested in the CD at the insolvency commencement date this is another definition of saying assets, all proceeds of my coalition as and when there is there realize now the proceeds of the declaration as and when they are realized. 
+
+51:20
+Like the money may be realizable from central debtors at once, his claims, arbitration, everything will fall part of the liquidation estate, all recoveries down from receivables claiming advances during the addition. It's all part of this thing. Now. specifically, these are the asset which are not part of the liquidation estate, which are not part of the declaration state. 
+
+51:41
+So the first one is assets owned by a third party but are in possession of the CD, including assets held in trust for any third party or the bailment contract. So this is a very interesting clause and that the assets owned by a third party are not part of the declaration of state. However, the contractual rights definitely would be a liquidation estate. 
+
+
+## 
+52:13
+So in case there is a land which is the available to the CD on a contract of lease, say for 15 years, 20 years or 19 year, 99 years, that particular land is not a part of the liquidation a state but the contractual rights is the part of the liquidation estate. the contractual rights is the part of the liquidation estate. 
+
+52:36
+So the contractual right cannot be excluded by just saying that the property belongs to third party. That means that any property which has been allocated by any Industrial Development Authority or Industrial Development Corporation's of all these states, which are all leasehold that actually would not fall as an asset. 
+
+52:53
+So any leasehold property would not fall as a leak, would not be considered as a liquidation of state, but all this would be considered as the contractual right. Any asset held in trust for any third party bailment contracts is definitely something which we can always say that any asset which is only held as a trust that would not be considered as the as a trustee or bailment. 
+
+
+## 
+53:18
+Now the very important and disputed question which is coming all some due to any workman or employee from the Provident Fund pension fund and the gratuity fund. Now we actually have to see this word carefully: the Provident Fund, the pension fund and the gratuity fund. I will just take a minute and I will come to the next slide to discuss this part and that is the reason that I have just highlighted it in red alphabets. 
+
+53:41
+Other contractual arrangements which do not stipulate transfer of title but only use of the assets. So these are the. These are those kind of assets where something I have taken only something I have taken for use and while the asset doesn't belong to the company but any contractual rights then in case there is any value for that, contractual rights. that is a very important part of my declaration estate. 
+
+54:06
+So we should not confuse between this clause 1 and the clause 5, because these two are very clearly saying that the asset doesn't belong to us, but the contractual right. That actually very clearly was a part of the declaration estate. In case it has a value, in case it is sellable, then that contractual rights will actually be a very big part of the liquidation estate. 
+
+
+## 
+54:33
+Such other asset as will be notified by the central government in consultation with the financial sector regulated. We haven't seen such any such notification under this clause as certain collateral security held by the financial service providers and are subject to netting and set of in multi lateral trading or clearing transactions. so these are the margin money that we have always seen that the margin money kept by the financial service providers. 
+
+55:00
+Those are supposed to be net of file filing Lee those are supposed to be net of while filing the claims. So any broker or any financial service providers asserts in corel security collateral held by a financial service project and are subject to netting and setting of multilateral trading or creating transactions. 
+
+55:21
+So in this case the when we talk about financial service providers that include banks also and when we also talk about this karate collateral, that is also that also refers to the margin money and that can be in the shape of an FDR or that can be in the shape of a cash margin. 
+
+
+## 
+55:45
+So when this bank is issuing any bank guarantee or letter of credit, the bank will take a security collateral of any asset which may be an FDR in the bank or a current account or a cash margin that can be net off by the bank when they submit their claim, so that would not be the part of the liquidation estate. 
+
+56:08
+So the liquidator would not be able to say that this particular FDR, which is a collateral security for the bank guarantee or letter of credit. That FDR should be given to the liquidator and the claim should be filed for the bank guarantee or the letter of credit two words has to be seen very clearly. Financial service providers is already defined, and this includes banks. Also. 
+
+56:32
+Security collateral is a security which is again given to provide some facilities. So if the facilities are bank guarantee, letter of credit or anything which is having a direct collateral security of cash margin or fdr's that can be net off, that can be network and that a netting of is possible. 
+
+
+## 
+56:53
+So the liquidator has no right to say that you give me the FDR's and file the claim for the bank guarantees and the letter of credit. Next, personal assets of any of the shareholders or partners of the CD, provided such assets are not held on account of avoidance of transaction that may be avoided under Section 43 forty five, fifty or sixty six. 
+
+57:11
+So the personal assets are not part of the liquidation estate, unless it is held by the adjudicating authority that these personal assets would be attached only to recover money, which is which has been adjudicated by the Duty critical thority under these four sections, a source of any access in India, in any Indian of foreign subsidy of the corporate data. So yes, the subsidiary company's assets are not part of the liquidation estate. 
+
+57:40
+Any other I said that may be specified by the board, including acid, which could be subject to set of on account of mutual dealings between the corporate data and at the creditor. there is nothing so far, which has been specified in the regulations also. But yes, these two clauses are very clearly saying that if company a has got to account, one account is the creditor and one account is debate. 
+
+
+## 
+58:02
+So when that company will submit the claim, so they would net of that and they would adjust the asset as against the liability. No so I we put this reddit text into pause regarding the Provident Fund pension fund and get to defund. Happily. 
+
+58:23
+I have to share with you that there is a recent judgment dated 11th February 2020, in the name of Simon Bolivar ah, who is the liquidator of Lancome protect limited versus a Polish Iwakuma. now the facts of this case is that the workers are saying that we should get this. We should get our pension gratuity and Provident Fund in full. 
+
+58:50
+Outside the liquidation estate and the balance, all other dudes can be considered workmen dues which would stand party, possibly these secured creditors, and they were taking the example of State Bank of India versus homosapien sorry Union case, and which was dated March 2019 and it was all based on this particular line, which I am again highlighting be any sum due to any workmen or employee from the Provident Fund pension fund and gratuity fund. 
+
+
+## 
+59:20
+Now in this particular judgment and Colette has differentiated between the gratuity payable Provident Fund table and superannuation table from the gratuity fund Provident Fund and the superannuation fund available in the company see any sum due to any workmen from the front from the fund, because the wording is the from the fund. 
+
+59:45
+That well actually means that if the fund is maintained by the company and the company is taking the contributions from employee and employer and then it is being invested in securities in that particular fund, if there is any that is not a part of the liquidation estate and that has to be paid to development over and above the section 53, even before the allocation of section 53 starts, even before the liquidation cost, even before the CRP cost, even before the secured creditors. 
+
+1:00:14
+So that's what is the mandate, which was the State Bank of India versus more severe case. However, this particular judgment of Simon Bolivar has completely reversed. It is very clearly written in the after considering even the judgment of Moser bill. It is very clearly written that the funds are different and the dues are different. 
+
+
+## 
+1:00:33
+Now we are talking about the dues gratuity dues, and it was the it was given in the examples in the order that they in the case of length PO in front of limited. There were both, say, 20 crores of gratuity dues and it was also mentioned they are in the balance sheet that the company has not company has defaulted under Section 4 of the payment of gratuity Act. 
+
+1:00:55
+Even then the uncollared said that this has got nothing to do with the gratuity found on Provident Fund or the superannuation fund, because that those funds are not available. In this company's case. The company was not maintaining those funds and there is these all these claims of the workmen. These claims would actually be considered under Section 53 for a pursue with the secured creditors. So this judgment has given a leaf in lot many cases. 
+
+1:01:25
+We were also suffering in the case of sample colour and now this also gets kind of clarified and we will take this liquidation of some true color forward, because otherwise the workmen of central color they were asking for seven years Provident Fund and that was that was the equivalent to the entire liquidation value of the company distribution Waterfalls mechanism. we are not going to spend any time. 
+
+
+## 
+1:01:58
+The only thing that we would like to say that we actually have to see very carefully, very carefully, that when we talk about workman duos, it is only talking about the workmen do only 24 months see these 24 months has to be seen. And when we talk about the employees, it talks about only for 12 months. And then we talk about the subclause e. 
+
+1:02:20
+Sub plug e very clearly says amount due to the central government and the state government, including the amount to be received on account of consolidated front of India and consolidated front of a state in respect of whole or any part of the period of two years preceding the liquidation commencement date. 
+
+1:02:44
+This is very important part that you have to see whenever we are trying to collate, verify the claims from central government, state government, local authorities, statute authorities, then we must see that claim must be for must be for only for two years coal or any part of the period of two years, so in not more than two years, like in case, because normally the assessment or the government dues are on a financial year. 
+
+
+## 
+1:03:14
+To that me we can be a beacon very well safe that the two financial years preceding the liquidation commencement date, those would be considered under Section II under sub clause he and then the balance amount. Now let us see the subclause F. The workman dues beyond 24 months will come here. 
+
+1:03:33
+The wages beyond a salaries of the employees beyond 12 months will come here, and the government dues state government, central government dues for the period beyond two years will also come here. And then this also will be added by the market pliability they can see supply of goods and services. So this is some point that I want to highlight. And now we are coming to the various kinds of reports. 
+
+1:04:01
+So uncle iroquois still saying it goes before report. We should take some. So one question with respect to the PF that I just discussed is from mr Ramallah Rangasamy. He says dues dedicated, deducted but not paid to in PF. Should this be considered as operational creditor? so the any dues, which are workman dues or employee dues. It has to be categorized as first workman dues and then employed use. 
+
+
+## 
+1:04:36
+So if it is a workman do, it falls under this section, the subclause B of section 53, which is having this party pursue distribution along with the secured creditors. So in case it is an employee's dues, then it actually will go to clause sub plus C. So it is like the employees are also supposed to be bifurcated into two classes. One is workmen, as for the industrial dispute Act, and other is employees. 
+
+1:05:04
+So the even if it is an employee contribution or it is an employer contribution, it is everything is the workman dues, similarly the tax deducted at source and not deposited. That is also a workman do because they have not got there. they have not got there tedious. That is also recommend you, so that I also will be added as a welcome and do what unemployed you as a salary. 
+
+1:05:31
+So we can't even say that the TDs has to be deducted over and above the liquidation estate. That is also not held by anyone, because that means that there are many things like the GST also is being collected on behalf of the department. TDS has to be collected on behalf of the department. Service tax also has to be collected on behalf of the department from the customers. 
+
+
+## 
+1:05:54
+Excise also has to be collected on behalf of the customers on behalf of the government from the customers. so in case we start considering this rationale that it has been collected, it has been deducted, that doesn't mean that it actually is having a different meaning of a such to reduce as against the income tax. So all these statutory dues. Maybe it's like excise duty collected or custom duty collected or the only service tax collected. 
+
+1:06:21
+DSP could have peeed where collected everything would actually have the one meaning that the amount is due to the state government or central government, or consolidated in front of India or consolidating front of state or local authorities. So with this all the structural news, especially the steps we'll use. These problems fund and ESI are not statue reduce because these are not due to central government, state government or any local authority. 
+
+1:06:47
+These are were common dues and would be considered worth menus. And sir, the PF is concerned, as far as ESI is concerned, that also would not be considered as a workman dues, because that has that never goes to workman that goes to an organization which is providing services to work man. So the ESI dues are not even workmen dues. 
+
+
+## 
+1:07:06
+ESI dues are not even employs dues es I do use our operational deals which are able to them as the service provided to work. Now it is a question on whether leasehold land Lord didn't buy developmental authority to the CD for industrial use would form part of the creation state. I think yes. I think I've answered that answered multiple times. The leasehold land as such is not an asset owned by the company. 
+
+1:07:34
+However, the contractual right is one of the item of the liquidation estate and the contractual right will have a value. Any contractual right which has a value that is a part of the liquidation estate, so any leasehold runs land is a contractual right may be. The right is for 80 years, for 70 years, and that right has a value that has a market value. 
+
+1:07:55
+There is a premium, so that is a valuation which has to be done as well as a value and that is an asset and is a liquidation estate part. Then there is a question from mr Anand the karada. He says that a company is a little place in Bank is insisting to honor invocation of performance guarantee presented by custom authorities. 
+
+
+## 
+1:08:19
+Is it justified or does it amount to preferential transaction, as per Section 43, as it amounts to disturbance in water fall preference, as per section 53, liquidation during liquidation one the D it is. The liquidators duty to the performance grunt is given by the corporate data. So in case the liquidator is unable to protect those guarantees, then the beneficiary customer will get the money from thee. the beneficiary customer will get the money from the bank. 
+
+1:08:54
+So the beneficiary customer has already that benefit because the bank has already filed their claim of the outstanding bank guarantees or letter of credits, so that money will go from the bank to the beneficial beneficiary so that would not impact the liquidation estate liquidation process because the bank has already filed their claim for any outstanding bank guarantees or letter of credits. 
+
+1:09:22
+So bank in case has to pay that it is the bank's loss and the decorator has got no right except the liquidator can try to prevent the invocation of the performance bank guarantee by performing the contract, by keeping the company as a going concern, by even complying with the default liability for which the bank guarantee was given. 
+
+
+## 
+1:09:45
+So the liquidator can make efforts because he in the in various cases, like the EPC companies, we as a liquidator we are taking care of the default liability so that the performance bank guarantee is not it is not invoked for even recovering the retention money with various customers. 
+
+1:10:08
+The company is being kept as a going concern and some part of the warranty, some part of the warranty, is being attended by the liquidator so that the retention money can be taken back from the customer. So these are the obligations of the liquidator to enhance the value for the creditors. So in the case of EPC company this is a bigger responsibility to keep the company as a going concern. 
+
+1:10:31
+Partially keep some of the people or keep some of the contractors. we have pretty good handle the default liability or warranties or some of the performance of the contract to save the bigger money for the creditors. Yes, until next question I think we can take a minister from mr Bhalla Mannion. He says that sir, I'm a liquidator of a CD and my fees fixed to be paid on a monthly basis by this. 
+
+
+## 
+1:10:58
+He was he in the last meeting. But the EE in the liquidation order has fixed my remuneration as a percentage and basically he says that now he is also COC to approach the EE and get the order corrected. But this is, I think he says there and as a liquidator, no senior stand. First of all you might have to see whether the COC approved this fee before the before the liquidation application was filed. 
+
+1:11:24
+Second you have to assure whether this particular resolution which was passed by the COC was submitted to the adjudicating authority. So in case these two things have not happened, then the adjudicating authority has done right thing, and the adjudicating authority has said that the regulation for of the liquidation process regulations would be applicable, and that is a percentage. 
+
+1:11:43
+So in case of any such scenario, I think another application has to be filed by the liquidator to the indicating Authority. We had the committee of creditors or the stakeholders were also part of the respondents, and they will also confirm that this is what was certainly the order of the adjudicating authority can be modified. Next we have a question from mr Rommel around the sámi. He says add value and undoing CRP period. 
+
+
+## 
+1:12:10
+Liquidator proceeded to sell the assets to the same valuation but unable to sell through reduced to an extent of 25%. So he says that even if we reduce the reserve price by 25%, he's still not able to sell. So can he appoint fresh valuers? Yes, the liquidator can take a decision of appointing a fresh value or anytime because he like, and this is also one of the issue. 
+
+1:12:35
+In case the SCC doesn't have any power to stop the liquidator. But I suggest that the SCC should be taken into confidence and the SEC should be explained by the valuation was not got done earlier. While you're thinking now to get the valuation done, the earlier valuation is incorrect and in to what extent it is incorrect? What are the gaps in the earlier valuation? what are those factors which was not considered by the earlier? 
+
+1:13:01
+Well worse. All this has to be presented before the SEC to and I am NOT saying approval to finally can take consent and informed decision. The one should take an informed decision to generate credibility of the liquidator. Then we talking about so. 
+
+
+## 
+1:13:24
+There is a question that when the assets, mr Ganesha Baliga is asking that when the assets sold by the financial creditors, which is under mortgage, the consideration should come to the creditors and bank account and utilized as per Waterford. Now the assets cannot be sold were these secured creditors during the liquidation process. So in case it has to be sold, that has to be done under Section 52, where the liquidator will identify the asset. 
+
+1:13:52
+Liquidator will first of all take the claims, will approve the security interest, will identify the asset, then the when the liquidator will see that different link, which meant of the asset has not been done in favor of the liquidator. Then the liquidator will ask them to contribute towards the CRP cost of spending or the liquidation cost. 
+
+1:14:14
+Then the liquidator will ask them to pay for the workman dues, which is very positively work to the quarry pursue to the secured creditors. After all these formalities are done, then the liquidator will hand over the asset to them and then that to the bank will have to sell within 180 days. 
+
+
+## 
+1:14:31
+In case event doesn't sell it in 180 days or demand doesn't comply with the payment of liquidation cost or CRP, then the asset will be considered as being fished in favor of the liquidator. So all this is very important, this actual regulation 21a. Please read regulation 21 a of the liquidation process and you will actually be very clear about it. And there is a question from mr Vinod Kumar Shah. 
+
+1:14:55
+He says that whether Co she used she can fix the fee of liquidator as per the table given under Regulation for, but limited to the amount realized and nothing on a distribution this year. She has the power to fix a fees Co she can tamper with the charts. He or she can say that we will be paying only one part and not the second part. 
+
+1:15:14
+It is all up to the arrangement between the COC and the liquidator. This you I can even give monthly fee. The charges recommend data. The chart is only an alternate. If no nothing is decided. So anything else can be decided. If anything the fee can be decided. Even on a success basis, fee can be decided on a various other the method also. So a few queries. 
+
+
+## 
+1:15:37
+I gave a few queries have come in that this 90 day period to sell the concern as a going concern. So the questions are that candy sale under going concern we done and we are coming like we have a satellite for what, if you know we have, we have a supply. I think that's I think we can take up more questions. 
+
+1:16:00
+So I would like here because since we have discussed so many part no, it is coming to reports I would like to see a Anil above all, who is the senior partner at Kolkata for triple a insolvency professionals, to share some of his practical experiences and the difficulties that he has been facing in multiple well, the liquidation assignment that he is handling. So energy can you just share your experiences, because you also have got a lot of experience. 
+
+1:16:32
+So, and also I am very happy to see that there are 82 questions which are in Q&A section and we are only able to take up and although we are trying to do it very quickly, but we are only able to take up these many questions. But anything in case you can share your experiences. that really would be very enriching to our participants this afternoon. Everyone. 
+
+
+## 
+1:16:57
+A difficulty which we faced during the liquidation assignee was not limited to be claiming only a dramatic activatin of claim or the sale of assets. The liquidator faces problem at every stages, doing the addition of mainly to verify the document we D document from the corporate data, the core protector since and the more employees of level of once the liquidation order is passed. So knowing the document started in the custody of corporate better office. 
+
+1:17:42
+They do lot of delay in handing over documents and they don't cooperate at once the liquidation order is passed. This is the challenge which we face for the claim verification and part for admitting became of any of these stakeholder. second, during for valuation. We the most in most of the assignment I see listen well, listen are not directed an idml would. 
+
+1:18:14
+This one of the valuation was very high and he was not after 25 percent lead explained the price. This is a big challenge. Turn div b 9e read it this profession. I think this problem will solve in ready with. And also, thirdly, I want to shake a liquidator fishes problem in setting of the SX if the assets are attached by any of the government or 3t. 
+
+
+## 
+1:18:50
+In most of our cases we see that a DCI ad and the be you know the blue attachment are done. we were not able to get the DOS property attached earlier, but after the amendment of section 32a now we are able to get it attached and we are getting order from LC LT for the attachment of all these assets. 
+
+1:19:13
+Even after getting the order from NCERT, we are facing lot of difficulty from getting and look at the different Department for all of our cases in Calcutta or we got attachment order from the LC l t but we are last. You can see last two three Foreman DL CLT order is passed. 
+
+1:19:48
+The most challenging factor is the marketing of the etcetera, the marketing P assets since the putter in May and we have a use marketing team and other qualified person getting a client, identifying the client and getting a giving the comfort to decline. That is more comfort to define, so that if you buy a DSS you will not face any problem 1c by the new litigation problem. Custom voice breaking. Maybe you will. 
+
+
+## 
+1:20:36
+You might like to try with your video off. Maybe that will become better. Really was off for the time being. I think he's already covered one part of it and the second part will started after about 30,40 minutes again. Yes, yeah. 
+
+1:20:52
+So thank you and Evie, although we have not many experiences, we have a separate slide for practical experiences and then I will again ask you various examples, even with the names of the companies that you can share with the participants. The liquidator assignment now let me resume now. The decorator assignment is a very challenging assignment, one that it actually puts a lot of responsibility on the liquidator. 
+
+1:21:24
+The committee of creditor is not sitting on the head of the like RP. The SCC is not having any power. There is nothing like resolution that we have to pass. A resolution based on the voting share in the COC liquidator is supposed to maintain too many the courts and too many litigations that would restart after the decoration process is started. so we have listed the various reports which are supposed to be prepared by the decorator. 
+
+
+## 
+1:21:54
+So the first would be to evaluate the search on the property of the company and the manner as will be specified. So that's what is the asset memorandum. Asset memorandum that we have to prepare within 75 days of lcd liquidation commencement date to report the progress of the liquidation process in a manner so that's again section 35, one and it is supposed to be given every quarter, you know, and 15 today from the close of the quarter. That is called progress report. 
+
+1:22:25
+The preliminary report is also like report prepared in accordance with civil actually covered these reports in detail and the progress report, a pretty first progress report, million very progress report, quarterly progress report as set memorandum, subsequent progress reports, the sales report, minutes of the consultation with the stakeholders. 
+
+1:22:46
+All this has to be submitted to adjudicating authority, final report prior to distribution, and all the copies of the reports and minutes has to be provided to the to the three stakeholders on an application from the stakeholders, so even the cost can be charged. 
+
+
+## 
+1:23:04
+So this is also very important that all these reports and the books of account and the registers which are required to be maintained by the decorator that has to be preserved by the liquidator for eight years after the dissolution of the corporate data. that means if the company takes on an average 18 to 24 months from the liquidation commencement date to the dissolution, then it actually is required for ten years. 
+
+1:23:33
+Two years while we are making the documents month on month and then for next eight years. So the these all these document has to be kept physically as well as electronically. 
+
+1:23:45
+So this is also a very big responsibility with the liquidator today if somebody wants to be a liquidator than he would always be, he would actually need to comply with the same law at least for the next eight years after this assignment is even over.coming back to the premium very report, the although there is no format given. There is no form given, but then we have analyzed the sections and the regulations. 
+
+
+## 
+1:24:09
+So the information that is required to preliminary report is promotions of the corporate data for mission failure. Conductor of the business of the CD plan, a section like the carrying out the declaration. How the declaration will be carried out, timeline for the liquidation, estimated liquidation cost in the preliminary report, the capital structure or the estimates of the liabilities and assets of the decoration on the LCD. 
+
+1:24:32
+All this has to be given in the preliminary report which is to be submitted to a adjudicating authority. Then, for there is a possibility of early dissolution and that particular possibility is mentioned in regulation 14, which says that after preparing the please every report if it appears if it appeared, because there are so many cases before the adjudicating Authority where the resolution early resolution has been an order has been passed. 
+
+1:25:03
+When it appears to the liquidator that the realizable properties of the copy editor are insufficient to cover the cost of the declaration, the affairs of the co operative do not require any further investigation. The liquidator may apply to adjudicating authority for early dissolution of the cooperative and necessary directions in respect of such resolution. so this is an early designation. 
+
+
+## 
+1:25:22
+In case you've got an assignment with the assets are not there and there is no point that you should cling on to the assignment. So you should file an application for early designation, and that is under Regulation 1214 of the liquidation process regulations. 
+
+1:25:34
+The progressive code is supposed to be filed for every quarter or part of the quarter, because the first report would be for a part of the quarter and subsequent reports would be for one full quarter. Then in these reports we have to discuss about the appointment in error and cessation of any professionals. A statement indicating progress in the declaration, including the settlement of list of stakeholders. 
+
+1:26:00
+Detail of any property that remains to be sold or realized. Distribution made to the stakeholders. distribution of unsold property made to the stakeholders. Details of the fee or remuneration including the feed you to and received by the liquidator. Description of activities carried out by him. Revelational fee payable to professionals appointed by the liquidator. Description of activities. Character by professional. Other expenses incurred by the decorators. Report that we submit to the adjudicating Authority. 
+
+
+## 
+1:26:27
+All this information is submitted to the adjudicating authority. Development in any litigation that has to be separately mentioned and the avoidable transaction status has to be mentioned separately in the progress report. The any every progress report. We actually have to mention any changes in the estimated liquidation cost. Also the receipt and payment that is being maintained. 
+
+1:26:51
+That has to be attached with the progress report and once in a year at the close of the financial year, we also supposed to file audited receipt and payment account. So the progress reports were also making a statement regarding any material change in the expected realization of any property, the basis of such change. The progress report for the fourth quarter should actually have an audited statement. 
+
+1:27:16
+So what we are now trying to discuss here is and that the progress report is very important and in the progress before we are also supposed to submit all the minutes of the minutes of the meetings of the stakeholders consultation committee, because that is also one of the report and all the reports, whatever we have done, maybe for a sales report, sales certificate, all these or the claim verification, everything that we have done that should be reported as a progress report, because in future, in case there is any litigation, whatever is the everything that has been submitted to the adjudicating authority as a progress report would be considered as correct, because that was submitted to the adjudicating authority before any litigation, before any dispute started. 
+
+
+## 
+1:27:59
+So the progress report has to be a very detailed, along with all the annexes, mostly the progress report. Filing itself is considered to be a very large assignment in itself and it takes a few days. In fact it takes about a week's time in collating all these documents and information and preparing the progress report. There are some other reports which are mentioned in the regulations, like the asset memorandum. 
+
+1:28:26
+We've already discussed asset sale before we've already discussed regulation 33:3 also provides for the report of the colluding sales. So in case the liquidator fees there this of has been. there is a cartel or there is a collusion between any section of the stakeholders or the buyers or the or the corporate daughter or the liquid eater. So then the third kind of report will be filed by the liquidator and that particular transaction can be cancelled. 
+
+1:28:53
+That sale can be cancelled. Auction can be cancelled even if the e auction was done at the reserve price in case the in case this progress, in case the liquidation is not completed within one year, then we actually have to file an application for extension and the final report, of course, has to be submitted for the dissolution. 
+
+
+## 
+1:29:12
+In case the liquidation cost as estimated in the preliminary report is exceeded, then each and every item has to be estimated separately and we have to explain to em CLT. so these are various registers that has to be maintained by the liquidator. First and foremost is the completion of the pending books of account, because unless we complete the books of count, we would not be able to get the information about the assets of the company. 
+
+1:29:37
+The liquidator shall maintain various registers and books as mentioned in the line for of this slide shall preserve them for eight years. Now, in case you see what all the registers that are supposed to be maintained by the liquidator. 
+
+1:29:51
+These are cash book, rather Bank read, the register of fixed assets and inventories securities and investment register, register of booklets and outstanding debts tenants, ledger suits registered decree registered register of claims and dividends contributory Ledger's distribution like the register fear adjuster suspense Register document registered books register. but it is said of unclaimed dividend on distributed properties register. 
+
+
+## 
+1:30:19
+Other books of accountant registers are maybe in this s3 on a tour to the to account for transactions entered into by him in relation to the copper data formats for all these registers and the books have been provided in schedule three to the liquidation process regulations. The liquidator shall keep receipts for all the payments made or expenses incurred by him. This is specifically mentioned. 
+
+1:30:44
+Now these are, let us consider too much of work for a liquidator to maintain and the. Since the liquidator is not supervised by a COC, it actually becomes a very big responsibility of the liquidator to maintain all these books of account for handling any claims in future or honey for handling any litigation in future. a certain memorandum, as is provided in regulation 34 of liquidation process regulations. 
+
+1:31:10
+This also has to provide this is a to be made as on the date of liquidation date the this is basically we have to form a liquidation estate. The liquidation estate is formed under Section 36 of IBC. This is to be prepared in within 75 days. 
+
+
+## 
+1:31:31
+The information which should be there in asset memorandum, that is value of each asset I per valuation report, intended manner of sale as provided under regulation to whether it has to be assets stand alone asserts in parcels, lump sale as set officers as sold in parcels or business of the company is going concern or accompany the going concern. Then also we have crusading mode of sale. Mode of sale is the like. 
+
+1:32:01
+So there are two things that we actually have to consider very carefully. Manner is provided in regulation 32. Manner of sale is provided in the regulation 32, whereas the mode is provided in regulation 33. So manner is where the SCC has the power to suggest, whereas in the mode the SEC does not have any power. So the liquidator can and according to the circumstances can go for a auction, physical option or private sale. 
+
+1:32:35
+Liquidator is not restriction. The liquidator has no restriction. The liquidator even can directly privately sell an item. However, the process has to be adopted. The process which is written in the schedule, one that has to be adopted very carefully by the liquidator, even if he has to do a private. same expected amount of realization has to be mentioned in the asset memorandum and any other influence. 
+
+
+## 
+1:32:57
+Now this asset memorandum is a very critical thing and before we even prepared the asset memorandum before the we submit the asset memorandum to adjudicating authority. It is not even possible to sell any asset because first of all we have to declare it to the Undercity the emergency. Yes, of course, in some emergency we can sell the assets and we can report it to the adjudicating authority. 
+
+1:33:21
+However, in most of the cases, the assets are to be sold only after the assets memorandum is submitted to the adjudicating authority. the asset memorandum is such a thing which is quieted in regulation 3.5 that this particular asset memorandum shall not be accessible to any person during the declaration, because this is a top secret document and even it is SCC also would probably have no power to look at the asset memorandum. 
+
+1:33:49
+Regulation 32 that we have already decided we have already discussed. Now we come to the evaluation during the liquidation process, as provided in regulations 45, the of the CIO RP, as well as the same way, the regulation 35 of the liquidation process see the liquidator has the liquidator to decide whether the valuation which was done under regulation 35 of CRP can be used or not. 
+
+
+## 
+1:34:22
+So my suggestions here are that you should look into the valuation in detail, look into the completeness of the valuation, look into the basis, the approach, the promise which has been taken by the decorator for the purpose of valuation and whether that matches with your understanding of the assets of the company or not. 
+
+1:34:45
+After looking into the report in detail, then the liquidator can take a decision whether the valuation is required or not, and that decision has to be taken immediately on the decoration commencement date, because once the Dakota to take a decision within seven days, liquidator has to appoint a valuer. Within seven days, the liquidator has to appoint a valuer. 
+
+1:35:03
+Incase liquidator decides to appoint of fresh valuer and not to use the valuation done under regulation 35 of the CLP regulation, then in case the creator has to appoint a fresh valuer, then the valuer has to be appointed under regulation 35 of the liquidation process regulation. So both are regulation 35, regulation 35 of carv logarithm 55 of this the liquidation process regulation. 
+
+
+## 
+1:35:27
+Then the regulation 35 of the liquidation process regulation says that the liquidator should inform the valuer that under what sub clause of regulation 32 the liquidator would like to valuation to be done. 
+
+1:35:40
+So the liquidator can tell them, the valuer, that I want the evaluation as a going concern or I want some of the asset as a going concern and some of the assets as the business as the going concern, or any combination of various clauses from A to F of regulation 32 of liquidation process regulation. So that is something which is very important for all the liquidators to decide and convey to the valuer. 
+
+1:36:02
+Otherwise the valuation would be incorrect and the liquidation process would be unnecessary, delayed and it would be more expensive. So the you more and more liquidation auctions, more and more auctions, and for a kind of illogical price as the reserve price, would only eat away the cost, time and also the frustrating the liquidation process. the trust on the liquidation process would be completely shattered and we, the antique creditors, would not trust this new profession. 
+
+
+## 
+1:36:33
+I would say I would actually come to another slide where I would be actually talking about the transparency and I will discuss with what my thought is. Average again of two values has to be appointed and the average of the two would actually become the valuation and the reserve price of the assets has to be fixed based from the average of two valuations which the which is which is to be done either to be appointed by the liquidator or the earlier valuation done. 
+
+1:36:59
+As for regulation 35 of the CFP regulations, we are now coming to the practical part of it and my senior partner, Anil Agarwal, would also add wherever he feels comfortable and wherever he feels any example that actually is the relevant for sharing with the participants today. Whether hurdles that we have faced so far that we have listed here is one and we good the information and document. 
+
+1:37:28
+The first scenario is when the company's liquidated see a few almost over a year back, the promoters were still having some interest in the company and they were actually thinking that we will take the company back under Section 230 of the Companies Act, or they even thought that they were. 
+
+
+## 
+1:37:48
+They will talk to the bank and the bank will invoke section 52 and then they would be able to take the asset from the bank under Sir CC and they would not cooperate with the liquidator. Now the situation is the worst because the all these the gaps has been plugged. 
+
+1:38:09
+There has been a separate Amendment which says that under Section 230 of the company that also anyone who submits a scheme of arrangement or compromise should be at least a legible under Section 29 a of the IBC. Similarly, the section 52 there are. 
+
+1:38:27
+There are regulations added that in case the it is there in regulation 21a of the liquidation process regulation that in case the asset has been taken by the secured creditor under Section 52, even after paying this year, because liquidation cost and the workman dues, then the asset would not be sold to those people who are ineligible under Section 29 a. So that has also been mandated to the secured creditors. 
+
+
+## 
+1:38:56
+So that is now clear that in no way the assets can go back to the promoters. so information when they have no interest in this process, they would not provide any information and the information that the liquidator badly needs and which may not come while he was RP or if that may not come from the RP who was earlier RP and that is regarding the litigation claims refunds receivables. 
+
+1:39:20
+The most of the information regarding some predators is not receivable, not received because if the information is not provided to the liquidator, with the fear of fraudulent transactions that might even get highlighted in case the information is not available or information is not correct. However, this is a very big hurdle that the information is not available. Books of accounts are not available. We are trying to get the books of accounts restructured through the bank statements. 
+
+1:39:49
+Then the second difficulty is the unrealistic valuations. unrealistic valuations, without even considering the industry status, without considering the demand of the product and without considering various factors which are not see the basic concept. All the bell words must understand that if there is a customer, if there is, if there is the market value, if the customer is available at X, if there are two customers available at X or Y cost, that is the market value. 
+
+
+## 
+1:40:21
+So they have to arrive at that value. They can't simply say that this particular land and this particular building can be sold at the circle rate or can be sold at this much of rupees per acre. But they have to consider that this is 600 acre land or this is 100 Acre land. So there is a hardly any customer for industrial lands of that large size. 
+
+1:40:45
+So they actually have to apply various discount factors, which of course we discussed yesterday in our webinar at 3:30 regarding evaluation under IBC, and may be that many of the participants today who are connected with us. They must have attended that also so. The third is the attached attachment of assets under criminal offences, like maybe the p m la casa pasa or even the narcotics or even the corruption. 
+
+1:41:14
+All this wherever the assets are adult or unauthorized investment schemes or chit fund or any kind of criminal offence. Where the assets are attached either by the Enforcement Directorate s f, IO or the economic offense wings of the state government, say B, or any other Authority, income tax department, customs department. All these attachments may be against a civil or liability or against criminal offence. everything has now been clarified. 
+
+
+## 
+1:41:53
+Section to a was inserted, Billy from 28th of December 2019. That has provided big relief. However, in many cases, in fact in 13 liquidation cases, that we had all the assets attached and we were only struggling before the appellate authority on the PMLA or before even supreme court. Even, and glad so, we were struggling with lot of litigation. 
+
+1:42:13
+However, once this clarity was clear because I did was given, on 28th of December, we filed some of the applications to adjudicating Authority and we got one order in the case of Rea, a group from Calcutta meant and the assets were be attached taking the advantage of newly inserted section 32a. Decoration cost is also one of the very big hurdle. the. 
+
+1:42:38
+Despite various promises, despite various regulations which has been inserted by IB B ie, the liquidation cost is not coming as a contribution from the stakeholders. The liquidator at kind at times feels suffocated because he is not even able to take the protection of the assets. He is not even able to get money for the security guards, for the value words, for the litigation for the so. 
+
+
+## 
+1:43:08
+The liquidator is also suffering because the stakeholders are not contributing and if they are contributing, they are taking too much of time and that entire period is lost and later on the liquidator would be blamed that you have not been able to complete the assignment within twelve months. This is in case my banker friends are listening. Please try to understand the liquidators applied ply. please try to understand his position. 
+
+1:43:35
+In case he is not able to work only because the decoration cause he caught nor money, then he would be blamed later on that he was unable to handle the liquidation assignment within one year. So he's getting the extension at that time. In case it would be it would be told to adjudicating Authority in even roaring voice, the adjudicating authority would say that you could not. You could have come to us at that time. 
+
+1:43:59
+So in case today. In case today the liquidator goes to the adjudicating authority seeking direction against the stakeholders, that would be felt bad by the stakeholders at the decoder that to whom we appointed he's filing a case against us. so try to understand the position of a liquidator. 
+
+
+## 
+1:44:18
+In case he filed the case against you for the recovery of the code for the contribution to of the liquidation cost, then he would be considered as the person appointed by them and filing a case against them. So he would be having a bad name in the industry amongst the customers, larger customers. 
+
+1:44:36
+So in case he goes to the adjudicating authority after one year that he was not having any money for six months and he could not complete his job, than the adjudicating authority will tell him that you could have come to us at that time and the contribution was not coming. You have believed the process. You have disrupted the process. You have in fact stimulated the entire process. So why should we give you the extension? 
+
+1:44:57
+So those kind of questions the liquidator is facing. So for to all my banker friends. Nobody can work without money and nobody can, even nobody can, even file a case against the customer who has actually appointed him with this understanding that the deku deter is actually not able to do a, not able to do B, so he is simply and simply requesting so in case the banks would financial institutions would not contribute liquidation cost that with the entire the entire hurdle is this part which can be seen, which can be handled very easily, because whatever you are contributing, that is coming back to you as over and above your contribution over and above, and that too also is carrying interest. 
+
+
+## 
+1:45:42
+With the latest amendment under Regulation 2a of the liquidation process regulation. Of course the interest is very less, but that is equivalent to the money that you keep in the RBA. A lucky Bank Rate 4,25 presently that interest also you will get on this one customers not available of course, is a bigger hurdle. That is of course that we are facing under surface C or even under insolvency. 
+
+1:46:06
+If the customers are not available and we are not in a very keen to reduce the prices every month, because in key in case we keep reducing the prices every month without even looking at the customer, with even talking to the customer, without even developing them, then the customer will wait. 
+
+1:46:25
+Even if a genuine customer he would wait for another month, he will wait for another month and he will not participate till the time the price actually goes to a rock bottom price. So frequent reduction in the reserve price should not be resorted to be. There is a possibility of reverse. 
+
+
+## 
+1:46:41
+There is a possibility of reverse auction and where the reserve price can be kept as a secret and that can be discussed with the stakeholders and the liquidator, and the auction is open and in the auction and document it is mentioned that there is a reserve price which is the protected with the liquidator and the stake holders. 
+
+1:47:02
+Unless the reserve price is achieved or unless inappropriate prices it is achieved, the liquidator has a right to cancel the auction. so in that process, everyone who's ever is interested in that asset. They would come, they would put their own price, they would participate in to the e action and that would be a very good price exploration process. 
+
+1:47:22
+So the price can be explored in this manner and the reserve price can be kept as a secret between the and then in. That would be a very big evidence also that the price was reduced based on the market information. So in case there is an assert where 8 people participated and everyone participated and there was a bidding and finally the asset value achieved was only 75% of the reserve price. 
+
+
+## 
+1:47:48
+So that makes a very big reason for reducing the, for reducing the reserve price and then even if we reduce the reserve price and even the asset can be sold to those people who have, who have given the bid in the last bidding. So that is what I am trying to say: that reducing the price of the asset frequently is not advisable. Reason number one: that the stake holders are not comfortable with this process. 
+
+1:48:18
+Reason number two: the genuine buyer who is interested in the property would build would like to wait further because he they. The only thing that we have to do is we actually have to talk to the customer. We have to develop them. We have to provide them comfort. 
+
+1:48:31
+We have to tell them that whatever you want to offer you and you give us in writing the offer, and that has to be well along with the earnest money deposit. So the reverse auction, without disclosing the reserve price is also will become very popular for exploring the price of an asset, other part of the major hurdles, energy like. 
+
+
+## 
+1:48:51
+I would finish these five or six, whatever pending in my this slide, and then I would speak to you and I would like you to share some of the practical experience, even if you can take names of the companies, because most of these things are under public domain. So in various large cases we are not able to find a customer and the maybe larger piece of land in the still lands are not in demand. 
+
+1:49:15
+We have too many land like 600 acres, 900 acres, 1000 acres. Those lands are primarily was allotted for a specific purpose. Now the even the state governments are not very clear whether they were allowed to. They would allow the transfer of these land for any other purpose or it was only specific to that particular project. That hurdle is a very big hurdle, one that the industry segments like which are not in demand. 
+
+1:49:42
+We will actually have various such projects which are not in demand, like the thermal power plant technology machinery is not in demand. Rice processing units are not in demand. Spinning companies are not in demand. So these companies these in this industry is not in demand. So we are not able to find the customers for this kind of industry. Litigation also has been taken. 
+
+
+## 
+1:50:03
+A day is taking a lot of time, litigation from the claimants, litigation and some kind of stage, because most of the claimants are going to adjudicating authority and to the appellate authority saying that our claim has been rejected and the cost and the assets are being sold, and unless our claim is accepted or handled or decided, they should not be sold and the money should not be distributed, or some of the workers else has been able to take some stay from these different high courts and that our claim has not been admitted. 
+
+1:50:32
+So our frame has to be admitted to that extent, and the assets and the liquidator has been directed to stay the process. so then we have also got an instance in one case that we sold one asset rather we in fact would put it auction and the auction was participated. 
+
+1:50:50
+But in the meantime we could get in High Court order where they were somebody produced in High Court one lakh rupees off receipt that he bought this land about three years back from the company and they have a right on this land and how the decorator can sell this land and then this I could give in a state. So the litigation also is disturbing a lot and the liquidator has to attend lot of litigations. 
+
+
+## 
+1:51:13
+So more than 50% of the time of the liquidator is spent in the liquidation in the litigation, 25% will spend in preparing reports and 25% is the only time that he is spending on the actual sale of the assets and developing customers. So this practical experiences must be seen and then only the liquidation assignments may be taken up. 
+
+1:51:34
+Tenancy we have already discussed with the tenants has a complete right third party interest, as I already discussed that somebody is just producing a receipt to create a third party interest uneasy. I mean this is also one of the case which is very latest case, 3rd March 20, where of course this is what. This was a different case where the tenant filed a case that the liquidator sold the asset at a very low price. 
+
+1:51:58
+So then the uncollared said that the tenant has got no low cost and I so that of course was done anything. I think the various practical difficulties hurdles. Can you just share with the participants some of the examples, like be 32a. We were facing a problem in pink on industry. You know income industry. 
+
+
+## 
+1:52:23
+This is a case where the ego, the blue, attach the entire assets of the company and a sensual meal in the position of EOW during's media PR. Iron RP in that case will file application with the difference I put and even with the N CNT. But we were not able to get any good order during CI RP. 
+
+1:52:49
+But after the insertion of 32a we were able to get the order from NC LT in pink on after getting the order from NC LTV right the UW Department to be to hand over the assets of the company to delete manator the UW writers that the police provided the list of assets which are TV handover. 
+
+1:53:14
+Since we do not have any document of the company, the Rashaad of office of the company was sealed by the UW only. We were able to produce less, that least from the documents which were filed with the UW which were available with the UW will do. These are the problem. We are continuously writing to be a w 4 handing over the Essex. Somebody complete. But till now we are. 
+
+
+## 
+1:53:42
+We have not yet any handover from the EOW in pink on industry self and in even in our TI ago we were able to get the order from Calcutta beds in 30 to a use order are coming, sir, but the main problem is taking the handover of the company and taking the release from the different is or treaty that is more important. 
+
+1:54:11
+Shal and CLT will give order, but de D and D C under Department will take their time to give the release letter to the liquidator or the different on the RP. Good, thank you very much. So okay, we have the slides that which are pending, that is regarding the attachment against the criminal offenses. And then we have the assets. Then we have how can we sell the private assets through the private treaty? 
+
+1:54:40
+Then we have these subjective going concern and then we have the subject of after the going concern. Then we will go to the mode of sale and then we actually will go to the text part of the liquidation process and the leaving these questions. We can actually have some questions because these questions of course will be automatically answered when this subject will take enough. 
+
+
+## 
+1:55:03
+So if there is any question regarding the with the I have, which I have already conducted, I have covered so those questions may be asked. Maybe two or three questions. So I think one question on PF is coming up. I think there is a question and I will just put that up to you. This one is wrong. 
+
+1:55:29
+So there's a question that a coal mine land, say after mining, is all you know a very large bit and it has no value. It has only no obligation to fill it up with whatever is required to fill it up, because this is, I think, a compulsion that once you mind that you have to fill it up so that it can have alternative use and it is not damaging the environment. 
+
+1:55:53
+So what do you do with that land? You know is that an asset. It is might be liability only not. What I understand is whenever this such land is allotted to any company and then along with the allotment there, I think we there be a land allotment agency would take some kind of bang currently, or the land development land allotment agency would also take some kind of deposit otherwise leaving this obligation open to any miner who is doing mining, and that would not be appropriate for any government agency. 
+
+
+## 
+1:56:30
+So in case the liquidator would not do that, though in case the liquidator will not fill that pit very large pit, then that particular deposit or the banker and it would be invoked. So in case liquidator feels that by just doing this work, the liquidator would be able to save the bank guarantee or that kind of deposit, then the equation anyway. 
+
+1:56:51
+The question was more to do with the sale ability of this, whether this is an asset for the liquidator or not, and because the land will definitely know I am what I understand it that these lands are not owned by the corporate debtors because the mining lands are not given to the companies on an outright sale. These are only the contractual right. 
+
+1:57:11
+That person who is asking the question he has to understand that these lands are not at all given on ownership bases. These lands are given on the use basis. 
+
+
+## 
+1:57:20
+So that is the reason I am saying if there is a contractual right and that contract right has a value, so that value can either be doing the compliances and then taking back the security deposit or not doing the compliance and letting the security deposit or the bank guarantee be invoked. So that has to be the decision, rather than selling this asset. 
+
+1:57:42
+Identification is that when we are talking of employee dues period of 24 months or 12 months, as the case may be, is, as a case may be, is fully payable or people in same proportion? Are the secured creditors, for example, in payable in same proportion as it is being paid to the secured creditors, not full? 
+
+1:58:09
+I think you can continue and then I will just identify a few questions and we can take it up once you're through the mini presentation. So, like I resumed, and this is section 32a, which was inserted on 20 years of December 2019, which is very clearly saying that the liability of the perpetrator for any offense committed prior to see our official sees the corporate data shall not be prosecuted for such offenses from the date resolution plan is approved, even if the prosecution is instituted during CRP. 
+
+
+## 
+1:58:44
+Deception would be applicable if any person of the any person or officer who is in default for the offense may be directors, who would continue to be liable for the offense and Punishment, notwithstanding that the liability of the corporate reese's there. Like the directors and the other key managerial personnel, they would continue to be, they would continue to be responsible for the offense. 
+
+1:59:07
+No action shall be taken against the property of the copy editor in relation to an offense committed prior to CI or if their property the part of the resignation plan. So this is also applicable during liquidation, the only thing that we actually have to comply with the three conditions. 
+
+1:59:22
+So this is also very clearly mentioned that an action against the property of the corporate attorney in relation to an offense shall include the attachment, Caeser, retention or confiscation of such property under such law as will be applicable to the corporate data. Now let us see the conditions for this section. The first condition is the dilution plan or sale during the creation process result in change in the management or control of the corporate data. 
+
+
+## 
+1:59:48
+This is the first condition that in case we say that now the company has been given back because of MSME, it has been given back to the same promoters. So the offense is all? No, it is not. It is it has to be given to another person rather than account of the promoters. 
+
+2:00:03
+New management or the buyer during the creation process is not a promoter or in the management or in the control of the competitor or a related party to such person. The new management or buyer during liquidation process is not a person with regard to whom the relevant investigating authority has reasons to believe that he had abetted or conspired for the commission of the offense. These are the three conditions. 
+
+2:00:29
+So whenever we apply for any D attachment of assets, we have to give these three undertakings that the reservation plan would not be taken from such persons. The asset would not be sold to such persons and also we will take care of those persons who have who, as per the as per the report of the investigating agencies, reason to breathe. we have abetted or they conspired the constituency. 
+
+
+## 
+2:00:53
+So this has been held by in the case of Tata Steel Bhushan steel case dated 16th March 20, it was held by the lehigh code that the new promoters are not responsible. After this, section 32a is inserted in another case, which is jSW Steel II established a limited Sigma hilbert Khandelwal. That was in the case of Bhushan power. So both the cases of Lucian group. 
+
+2:01:16
+It has been decided that whatever offences was committed by the by the Bhushan brothers, they were those who actually will stay with them and be the resolution applicant. Successful resolution applicant would not be impacted adversely because of the offenses committed by the earlier management. 
+
+2:01:36
+So this was the section 32a was again considered as that it was considered as a kind of retrospective so that all other cases are also considered to be equally cutting the benefit of these cases. Like we have an order in the case of aria grew, like the name of the case is surrender, tomorrow she will see a versus Aria group where I am personally looking after as a liquidator. 
+
+
+## 
+2:02:02
+So we got an order from Kolkata bench and it is held at the ad. The liable to be reattached by the IDI and handed over to the liquid enables the liquidator to handle the property. as for the prison's of insolvency and bankruptcy law. 
+
+2:02:17
+Sale of the asset regulation 32 we have already seen like Clause a2 plus F, and then we can now talk about the sale as a going concern regulation 39 C, which was again inserted by inserted with effect from 25th of july 2019 in the CI a p regulations, which says that while e, when approving a reservation plan or approving a resolution for liquidating the company, it is the obligation of the committee of creditors to decide whether the company would be sold as a going concern in case of liquidation or not, and that obligation has to be complied with by the committee of creditors in and has to be submitted to the adjudication authority, because nobody knows whether the adjudicative authority would approve the resolution plan or would recommend the company for decoration. 
+
+2:03:10
+So in case the adjudicating authority recommends the company for decoration, then this particular reservation would actually be kept in mind while passing the order for the liquidation. So this is an obligation of community of creditors to pass this resolution. Rather, the company would be kept as the going concern or not? 
+
+
+## 
+2:03:27
+So in case yes, then what all group of assets and liabilities would be kept as a going concern and what all group of assets and liabilities would be sold. Otherwise the whatever the recommendations would be that would be submitted to the adjudicating authority by the by the and RP now sale as a going concern. The process of sale as a going concern is that one that it should maximize the value. 
+
+2:03:53
+The group of assets and the laboratory has to be identified with the practically the liabilities are not being clubbed together with the assets. Practically only assets are being sold as a group, as a as a company, as a going concern or as a business, as the going concern, but abilities are not being grouped. 
+
+2:04:11
+So far, the practical experiences though the laboratory got handled separately, shattered, happily, separately, and the companies are asked to take loan fresh known for acquiring the assets or of carrying the business or acquiring the company as a going concern. So the liabilities are not being transferred. However the original thought process, which even might be popular with possible incoming times because the men there will be hardly any customers for cash. 
+
+
+## 
+2:04:36
+There may be lot many questions who would be interested in continuing the business or entering into the business. They would like that the liabilities also should be transferred to them at a reduced value so that they use their entrepreneur skills to revive the company and to again get the value back. So the sale of the Winkle son has to be now as per deregulation 32a. 
+
+2:05:07
+It is a kind of in most of the orders wherever the company is a going concern already and wherever the operations is continuing, and most of the orders for the liquidation, we have seen that the liquidator is being directed by the adjudicative authority to keep the company as a going concern. So if the company is being kept as a going concern, then the liquidator can keep the manufacturing sick. 
+
+2:05:31
+I will give an example today because he the assets of one of the company, which is where sana, is first limited, is attached by PMLA, and this, I think, for the last 27 months we handled the Cir P and then liquidation. However, the assets of the company are very good and it is a steel plant and we are doing a turnover of 1000 crores per annum and that companies are incurring profits. So we are. 
+
+
+## 
+2:05:54
+We have recently distributed money to the stake holders out of the profits, so what we are trying to say is that even during the decoration, we are actually trying to keep the company of the going concern, and that is what is the intention now. The only asset should be reattached after the lockdown is over. then that company would be sold as a going concern. Like however, the liquid. 
+
+2:06:19
+The liquid has to keep the company as a going concern for 90 days unless it is expanded. Unless there is a proposal, the liquidator can even extend it. However, for minimum 90 days, the liquidator has to keep the company as a going concern. So in case the liquidator is not able to find any customers, then the liquidator may decide to sell it otherwise. 
+
+2:06:37
+So this is regarding section 230 of the companies that I would also come to the steps to be taken by the liquidator and two scenarios. One scenario is under Section 230 of the compressor and the other scenario is the keeping the company as a going concern. the judicial pronouncements on the sale of the company is a going concern and scheme under Section 230. It started with SC sacrum. 
+
+
+## 
+2:07:03
+It is an unclear judgement and then followed by the why Chevron, Prasad, the and also the. These are all the judgments are living February and July, so these judgments are basically from anklet. 
+
+2:07:18
+So these judgments are also based on some of the observations made by soup honorable supreme court in the cases of Swiss Reuben Private Limited versus union of India, Mabel Holmes Private Limited versus Sreenivas Bureau, nikkei Committee and others are still at methyl India Private Limited versus these Tamar Gupta and these observations made in these orders by the Supreme Court, followed by the anklet orders. 
+
+2:07:44
+Then it became almost breakfast that for each case, the liquidation order would mention that the liquidator will try to make efforts for any scheme of arrangement or compromise under Section 230 of the Companies Act. 
+
+
+## 
+2:08:05
+So in case the liquidation process is started and the liquidator has got a scheme of arrangement or compromise under Section 230 of the Companies Act, then it is the responsibility of the liquidator to take all those steps which are mentioned in Section 230 of the company that know what section 230 of the Companies Act says that whenever a scheme is received by the liquidator, the decoder tree will further application toward indicating directing the creditors to meet, convene, a meeting and take a decision on this scheme. 
+
+2:08:38
+So after the directions from the uncie LT, then the committee of creditors will see, will appraise and will either approve or reject the scheme of arrangement and compromise under Section 230 of the compressor. So in case this scheme is approved, then the liquidator will submit that scheme duty approved by the committee of creditors to the adjudicating authority. Whatever is offered there. 
+
+2:09:03
+That will be considered almost as a resolution plan and the company and the company can be taken over by the person who submitted this scheme. Based on this scheme, which would be approved by the uncie LT, and it will be implemented just like a resolution plan. Now coming to the procedure that would be followed while the complete being sold as a going concern. 
+
+
+## 
+2:09:32
+Now I will actually do this as an example in the case of Saveur sunrise path, this is a complete plant that we have and we can sell this plant separately. In the case of Bella portion also, there are multiple factories. We actually would like to take one factory or the going concern and the balance factories on a piecemeal basis. 
+
+2:09:50
+So we would advertise and if there is a customer available, that customer will submit the bidding for this. For the purpose of taking over the company as a going concern, the liquidator will keep all the non core assets and all those assets which are grouped as a going concern that would be sold as a concern and the name of the company would also be given to them. 
+
+2:10:10
+How the name of the company would be given to the buyer or bidder. So the company. The company of the existing capital of the company would be kept with the liquidator and those are subject to the claims submitted by the shareholders or preference shareholders. Because those shares cannot be given to anyone because the decorator has already received claims from the shareholders. 
+
+
+## 
+2:10:33
+Because, as I would rag, I would like to remind you that during liquidation process even the shareholders are also supposed to file their claims in case they are expecting any money from the company. So that kind of distribution hierarchy. So therefore the decorator has got no power tool to extinguish the existing capital or transfer capital of the company. 
+
+2:10:55
+So the liquidator will only ask the bidder to contribute fresh capital to the company and the fresh capital would be allotted and they would become the members and then they would become the. Then it the adjudicating authority would approved a reservation plan. Or was the sale plan which actually would be equivalent to the dilution plant? 
+
+2:11:17
+All the terms and conditions like a reservation plan would be there that would be submitted to the adjudicating authority or judicata thority would approve it, and that in the nd in that same order, the adjudicating authority would also cause a couple of further orders. That so and so and so assets would be retained by the liquidator for liquidation or for recovery. 
+
+
+## 
+2:11:39
+Second, the liquidator would be entitled to retain the liquidation bank account of the court predator and all the proceeds of the sale of the assets or recovery from the assets would be devoted to those accounts, or would be that account would be used for the recoveries or from the realization and for the distribution of the dandy. 
+
+2:11:57
+Then the company, once the liquidator finishes the process of sale of other asserts the recoveries from the other hazards, other litigations which are kept running with the liquidator and only the assets has been taken over by the bidder. Then after that the final application would be submitted by the liquidator and that would not be for dissolution. That would be for closure of the liquidation process. 
+
+2:12:20
+So this is a difference between the liquidation and dissolution of the company and the liquidation and sale of the company is a growing concern. So this is the this. These are the practical part of the process of the sales of a goes a sale as the going concern, although it has not been given anywhere in the regulations, like the process of sale, as the growing concern. 
+
+
+## 
+2:12:44
+So this is only out of the practical experiences, a logical thinking and also what are the other options available. So the process I have already discussed processes the going concern. So coming the quickly to the concept of these mode of sales, as I said, that the e option, we everyone understand how the e options are to be done, price fixation, and that is also easier to handle. the public announcement has to be given. 
+
+2:13:16
+All these are regulation 34 and 35 and also schedule 1, which is referred in regulation 33. This all actually is the mode of sale through a auction and then the mode of sale also talks about the multiple rounds of the bidding and the permissions of the AAA. So whenever there is a sale to the related party, that has to be permitted specifically by the adjudicating authority. 
+
+2:13:48
+Otherwise there is no possibility of sale to your related party. Ability to liquidate or related to CD related to any directors. That has not to be done. That is not possible be liquid. The adjudicating authority would not give any kind of approval. Sales would be closed only on the receipt of full amount. The liquidator will execute the certificate of sale and sale deed also. so we have done registrations for multiple properties. 
+
+
+## 
+2:14:18
+We sold this, all the properties issued certificate of sale and then finally the sale deed is registered by the liquidator and the liquidator will sign as a liquidator in his personal name and he is not like the owner is the company but the liquidator is signing because the decorator has the power under the under regulation 33, regulation 34 and regulation 35. So a regulation 33 and 34 regulation 35 beans with valuation only. 
+
+2:14:51
+It has been very recently on in February 2020 unclad has also held once the liquidator is sold a property. the other bidders has got no power to go and approach the uncie LT and they cannot create a dispute and the adjudicating authority is not to direct at the because even if there are some the code and powers decorated to sell the property of the copulatory in liquidation by public auction. 
+
+2:15:18
+Hence there was no need for an indicating a sorbitol directly decorated to for considering the proposal of respondent to and respondent for these are other parties who has a grossly adjudicating authority after due date of the finalization of the auction, so that median is finalized say at X PRIZE. 
+
+
+## 
+2:15:36
+Somebody who actually felt that this property should have been acquired by me and he was waiting at that time and later on he approached adjudicating authority that this particular property was sold at a lesser price. we are ready to offer more price. The adjudicating authority has got no power because the auditor has told it in a new auction. 
+
+2:15:54
+In case we, in case we try to do that them in all the kind of auctions, everyone will come that I can pay 10% more. So that matter is closed by and glad that nobody can approach quote that I would be able to offer something better than what equity tur but what Nicoletta recovered. So that is also the closed path. Private sale, yes, private sale is also possible when the either. There are conditions. 
+
+2:16:21
+There are in fact any one of the four conditions. One is: the asset is perishable. The private sale is possible. The asset is likely to deteriorate in value significantly if not sold immediately. private sale is possible as certain sold higher than the reserve price of the failed auction, the asset is possible permission, prior permission of the adjudicating authority is not required. I would refer to the regulation and the private, the it is. 
+
+
+## 
+2:16:48
+It is not required. The private sales, the adjudicating authorities. The approval is not required. The way the asset is to be sold through private say ridiculous shall conduct is sailing the manner specified in the strategy private sale they stand completed M&D, no, a no permission of this tree or lubricating authorities required. So the private sale is possible. No, the colluding sale is also defined there that the. 
+
+2:17:14
+Whenever the liquidator feels that there has been a catalyze, a ssin or collusion between the parties, then he can report the transaction to the adjudicating authority and that the transaction cancelled. Even if somebody has bid it at the reserve price or for more than or for or at a price which is more than this very price, the liquidator has the power to get this cancelled from the adjudicating authority. 
+
+2:17:40
+These are some of the recent amendments which are significant. The liquidation process has to be completed now in one year, as in has two years. Regulation 44 has been amended the period for exploring sale as a going concern. That would be excluded for a one year period. in case the liquidator fails to complete then an application within one year, then the application can be filed before the indicating Authority for extension. 
+
+
+## 
+2:18:08
+Section 39,29 a is also applicable to scheme of compromise or arrangement we already discussed before. Regulation 37 provides that the secured creditors who have not relinquished security interest would not sell the asset to persons in the libel under section 2.8. So these are the various amendments that has actually been given schedule. One which handles the sale process now also has been amended. 
+
+2:18:38
+Reserve prices based on the evaluation the first after the first auction, the price can be reduced by 25%. For subsequent auctions, the price can be reduced by 10%. The amount of the bid can be received now in 90 days. however, after 30 days, 12% interest would be charged from the bidder or from the successful bidder. Sale can be canceled if money is not received. Now I'm capable. 
+
+2:19:06
+I am going towards the different part, which is the transparency, and we are already at 549, so we should not have a free. More than two and a half are, but this is a very important part that I would like to share with the party. You can complete this in the remaining time that we have and for the question unanswered questions have kind of you try to answer the questions you've tried answering. 
+
+
+## 
+2:19:35
+About 50,55 questions about would be 160 questions that we have received. So it will not be possible to answer these 1:06 questions. But might be it is more important to cover what you have planned to talk about. So I see what I think, and I believe that most of my liquidator professional colleagues they would also think the same way. 
+
+2:19:58
+So this is the first time in the history of country that a private professional has been trusted so much by Government of India. If you understand that private presently we are handling assets worth maybe 2.000 crores and those are to be handled by us. We have to sell those assets and we have to recover the money from so many people. all this is a matter of trust which the government has both known owners. 
+
+2:20:28
+In case in case we don't use transparency in our efforts, in our actions, in our process, then there will be unrest amongst the creditors, amongst these secured creditors or other creditors see to avoid that unrest. What a liquidator, what a liquidation professional should do? So one is that the transparency has to be maintained. 
+
+
+## 
+2:20:53
+The effort that he is making, the process that he is following, that has to be shared with the stakeholder, even if it is not provided in the law, even if these stakeholders consultation committee has no power. But in case you don't provide this transparency, one that the stakeholders would not feel comfortable with you for the few, as for the next assignment. secondly, they probably also would not have trust on the liquidation process. 
+
+2:21:21
+What we do for assuring transparency in the liquidation process. I am just trying to share with you number one, that we regularly share our progress reports and in fact we have introduced monthly progress report for each liquidation case and we are sharing with all the creditors, irrespective of the set, that creditor is a member of the stakeholders consultation committee or not. 
+
+2:21:46
+We share with those people who actually can be a stakeholder in this company who are expected to get some money out of the company. We share with all of them, whether they are members of the ICC or not. So even monthly report, even progressive, a progress report, which is quarterly, that we share with them. so we hold frequently the SCC meetings and we share with them the progress. Litigation effort hurdles, lack of information. 
+
+
+## 
+2:22:09
+Everything we share with them. As I said, monthly progress for quad racial see, just like Co see even the appointment of professionals, even they even and even their professional see. That also we are discussing for the purpose of transparency. So like the DC, appointment of brokers is a very tricky issue. 
+
+2:22:28
+So in case we have a property to sell and in case I appoint a broker, the stakeholders will always consider and they would always have a kind of apprehension and whether this lead first came to the liquidator or the lead came to the broker. maybe this is a case where the liquidator is passing on his leads to the broker and the broker is maybe making money and sharing with the liquidator. 
+
+2:22:54
+So therefore that we have never appointed a broker in any of the cases of the liquidation. Why is he? Why is so? Because he, if the asset is 100 crores and if the Commission is only one person, it becomes one Corolla. The commission becomes one covenant. 
+
+
+## 
+2:23:11
+That is sometimes even more than the decorators own field, because in Marin, many assets when we actually cross six months or we cross bond 12 months and the hour feels much lesser than the broker's fee, then the liquidator tree would be not we the stakeholders would not become stable because they would have no information about the leads first source of the lead. 
+
+2:23:35
+So we are not appointing the brokers or, in case we are appointing, we are appointing with the permission and consent of these stakeholders. Sharing of the deal. See, like we are, we have completely electronic now, each and every call that we receive on the sale of assets, we are actually receiving it on a digital mobile number and all the leads are recorded in a lead management software and each and every asset and the lead and the mobile number of the lead is shared with the stakeholders. They are at the liberty to call those they need. 
+
+2:24:06
+They can even ask whether the information was provided to you by the liquidator. They can even ask about the marketability, ascertain what price they're offering. that would actually give a lot more comfort to these stakeholders and the trust in the liquidation process would be enhanced to a great extent. 
+
+
+## 
+2:24:24
+So if this is done, if this kind of transparency is done, if the in the entire information which is required by a buyer is collated on a virtual determine, if you can create an evidence that the entire virtual data room was shared with them, if you can just create evidence, see that yes, each and every information was provided to him, then no prospective buyer, no bidder will negative about you and anyone can even talk to those bidders. 
+
+2:24:51
+There is no hurdle that you should not share the moving numbers of the deeds to these stakeholders because seen in declaration, they can't withdraw because even if they got a customer, the asset has to be sold through liquidator only. If a customer comes to stakeholders, creditors, they are presented to you. 
+
+2:25:08
+So in case a customer comes to you, in case you also send it to the to the bankers, there is no difficulty in your process, rather in surfacing it. Times it is different. in surfacey like. 
+
+
+## 
+2:25:19
+We also feel difficulty that in case we share the perspective leads to be bankers and the lead goes to the banker and the bankers thinks that the they have not got the customer so they can even withdraw the case from the surface II agents or from the reservation agents, whereas in the declaration process the banks can't withdraw even if the customer comes to the bank, they actually have to sell it through the liquidator only. 
+
+2:25:43
+So sharing of the information is something which is very important. We this litigation challenging the decisions of the liquidator and this is ridiculous and reduce the reserve price that all the liquidators powers are upheld. Liquidate rest powers are upheld. so far there is no challenge in the decorators power in fixing the reserve price, reducing the garage, selling the asset only option, even selling on the private treaty based on a particular process. 
+
+2:26:13
+So for the adjudicating authority has not actually challenged the liquidators actions. Now coming to the infrastructure required for effective liquidation process cases, effective management of regulation process, one is the I'm very clear about one process, that the CI RP and liquidation. Two things have got nothing. Nothing common in CRP. Hardly the litigation on the copy editor is not there. The outside litigation because still in CRP the outside litigation is not there. We're in the liquidation. 
+
+
+## 
+2:26:52
+Even the outside litigation. High Court arbitration and tax proceedings would be resumed and would be restarted. the sale of asset is a completely different capabilities and if you require differently trained Human Resources, then secondly making a recoveries from the debtors or one since claim the arbitration investment, it requires a differently trained people, different than those who are handling the CI a P cases and handling the COC meetings, and these people are different people. 
+
+2:27:22
+Preservation and protection of the assets, like you would be see. It is very important to know that presently, like we are maybe handling 100 locations where the assets of the corporate debtors are located and we have to depute security guards there. How many agencies are working? Maybe about 50. is it security agencies are working because we normally a dead take agency, which is no police situated. 
+
+2:27:48
+The security agency see how to control their behaviors, how to watch their guard, how to numb, how to count their number of guards, how to see whether they have whatever they have committed they are delivering. It's a very challenging job, very challenging. How about you make sure that they are not stealing small parts of the component? All this is a very challenging part at times. We have installed cameras there at the locations we have. 
+
+
+## 
+2:28:13
+We have also a separate team which is handling the inspection, and that too, without even telling them that we are surprised inspection of the sides and in case we find lesser God, then we deduct salary from each other. it's a curve agency for at least one month. So these kind of experiences that we have taken from surfacing for the last 17 years that are being used in liquidation also, so the different manners and moods. 
+
+2:28:41
+I think all this is the infrastructure which is required. Lead generation software, lead management software, due diligence by the customer through the video, all this infrastructure confidentiality, what the bidders collection of earnest money deposit, frequent price reduction, as I already have discussed that it is not suggested role of security guard at site specialized result since that we are using that we have now found agencies. They specialize in scrap. This specialize in construction for Krabbe. 
+
+2:29:10
+They specialize in textile machinery. They specialize in construction equipment and motor vehicles. These kind of agencies are being hired for selling specialized assets. so all this infrastructure has to be created for investments. We have to take the control on the d mat account for sundry debtors. It is a very different team that is required to recover money from different some creditors for claims for refunds for investments in the subscreen companies see avoidable transaction. 
+
+
+## 
+2:29:37
+Application also has to be handled by the liquidator. So this is entire process where some money is expected to come. It requires a completely different set of teams and I could not use this same thing. Who is team who is using the CI RP who I am using? The CI are P. So I'm trading the team for liquidation separately and training the team for CRP for separately, and we have a separate asset sale team. 
+
+2:30:00
+We have a separate security management team. we have a separate technology team which is aptly creating some kind of attendance records for the guards so that the attendance records are also created electronically. 
+
+2:30:12
+But that actually is becoming difficulty because most of the guards are saying that we don't have the mobile phone, so we don't have the connection, or at these remote areas the connection is not there, so a lot of difficulties because he how to manage the 50 security agency completed Herculean task. 
+
+
+## 
+2:30:27
+I am trying to share with you that yes, it is not possible to achieve perfection, but yes, we are trying to make efforts that yes, some kind of accuracy or some kind of perfection is achieved, at least to some extent, at least better than others. so that's what we are trying to say, that the decoration is completely different in various cases. We are also trying to manage performance, bank guarantees, default reliability, retention, money security deposits. 
+
+2:30:58
+So in case we don't make these efforts, that we that you are actually not trying to recover the money of the corporate data which belong to the stakeholders. In case you are not protecting the bank guarantees of the banks, that the, in case you are not providing service to be beneficiary, then also it is not. It is not a justice to the job. 
+
+2:31:19
+See we are presently doing the default reliability in one of the cases, the with. The company is in liquidation and then there are the default level to that particular complete constructed some roads and as per the contract, the company has to maintain the road for the next five years. 
+
+
+## 
+2:31:34
+So in case the company is not maintaining that road, then the bank guarantee, which is substantial amount that would be invoked and the bank will suffer that amount and the money will go to the beneficiary customer. So in case we do that expenditure and do that repair, then we can actually save that performance bank guarantee and that would be a very comfortable to the stakeholder. 
+
+2:31:54
+Similarly retention money see that there is a possibility that the retention money is recoverable only after two years and for two years the liquidator helped to give some kind of warranty assurances. So the liquidator is giving some kind of warranty assurances so that retention money is taken back and distributed to the creditors. So for each action we have tree have to make assets and liabilities. 
+
+2:32:15
+In case the expenditure is more than the recovery, then of course we can let it go. In case the expenditures they are best on the recovery, then we should actually make the expenditures save the asset and athle. The net profit should be distributed to the stakeholders. Same is the situation with the security deposit. so the as we said that the recovery. 
+
+
+## 
+2:32:37
+The liquidator has the power to recover the amount and the liquidator has also the power to file an IBC case. Section 11 of the IBC was amended. Now the liquidator can recover the amount and by just filing the applications under IBC, the management of the subsidiary companies by the liquidator is also been held as a right to the liquidator. 
+
+2:32:59
+The judgment it called Rajeev Culver is Rajeev Vinod Kumar cute hairy and dated 20th of March 20 and CLT Delhi has held in the case of Nikko corporation that the liquidator has the right to appoint nominee directors and take control and custody and on the operations of the subsidiary companies. that has also been held very clearly as such sale report we have to submit and the finally distribution is also supposed to be given. 
+
+2:33:26
+A recovery of the money like this is also a regulation front in 39 is also very helpful in case we dispersed some amount to these stakeholders which are wrong or which becomes wrong on any event, in future, the money can be recalled from the banks under regulation 39, the this is all we have discussed section 52 of and how the 52 is invoked, the process of sale and in case section 52 is invoked, I have to discuss why, like what are the tax implications during liquidation? 
+
+
+## 
+2:34:03
+One section 178 of the Income Tax Act is not applicable to the liquidator. so the decorator is not supposed to liquidate er is not supposed to go to the assessing officer and take permission from the assessing officer. Decorator can directly sell the asset. Because section 7 178 is not applicable. 
+
+2:34:21
+Section 46 of the Income Tax Act says that the capital gain on the distribution of assets by the companies under liquidation will be touched, and that means that did no asset. When it is sold, it cannot be touched only in case that the money realized from the assets is sufficient. 
+
+2:34:38
+To the extent that some amount is distributed to the shareholders, then the shareholders will pay tax on that money which is distributed to them against their shares in the company in liquidation. So the company would not pay any capital gain tax on the sale of assets during the creation process. 
+
+
+## 
+2:34:56
+Income tax provisions which are applicable, like, as I said, that the section 288, which provided the authority would be provided to RP and the dictator to appear before the income tax authorities now the day they would be income tax. This was an animal related 1st of April 2020. We differ from in the last budget. 
+
+2:35:17
+We have actually got this amendment that under Section 288 even the liquidator or the RP they can appear and they can appear before the income tax authorities as authorized representative section 140 and now provides for the verification of return of income and it can be even authorized by the RP or any other person as they may prescribe. 
+
+2:35:43
+That amendment also would be with the fact from 1st of April 2020, and there was an amendment earlier, which was made with the fact enforced after 2018, where only RP was a thrice, but now also the liquidator is not authorized, but it is only said that this power has been taken by the Sun government from the Parliament and the central government by notification, can also authorize or can also make other people eligible for verification of the return of income. 
+
+
+## 
+2:36:16
+The section 56 subsection 2 and Clause 10 of the Income Tax Act is also amended, which provides for the chargeability of income in case of receipt of money or specified property for no or inadequate consideration. 
+
+2:36:37
+Section 50 CA of the income tax F provides for the deeming of the fair market value of uncoated fields for computing the capital gain from the transfer of such both these reasons, the fair value, the fair market value, is determined based on the prescribed method. Currently, the provisions of section 5.210 are not applicable to certain specified transaction. however, no such exemption is available under Section 50, see a amended. 
+
+2:37:03
+Is the budget amended these sections to empower the board to prescribe the transactions undertaken by certain class of questions, and we actually we expect that, since the central government has taken this power, we expect there, with productions which are actually being done through IBC, either as a resolution plan or the liquidation, that would be notified as the transactions on which section 66 to sub clause 10 or section 50 capital C a would not be applicable. 
+
+
+## 
+2:37:35
+So I said that the capital gain tax would not be levied on the sale of assets during liquidation. capital gain on the sale of acid during liquidation is because these are all the reasons which we are saying that the capital gain tax is not applicable on sale of assets during the liquidation. 
+
+2:37:56
+And there is one case also, miss pooja Bari versus G is Perth Private Limited and Cl Tindall, New Delhi, has held that the tax liability is not there and even if there is a tax celebrity on sale of assets, that would be distributable. 
+
+2:38:09
+As for section 53, so in case there is a company which has got lot of money and B companies in liquidation on the sale of assets, the capital gain amount that also will be taken as a claim from the income tax department and that claim will be addressed as per section 53. That's what is demanded of the quote. GST is applicable on the sale of the assets under liquidation. 
+
+
+## 
+2:38:31
+Because this we have seen the GST on the schedule 2 of C GST Act, paragraph for a. The transactions are taxable under GST. Wherever there is a resale of asset, GST has to be charged input tax credit would be available. The tax authorities of course they can file their claim. They have their right to be in this stakeholders consultation committee. 
+
+2:38:58
+They have no power as SCC does not have any power except to see the except to see the sale process and that to restricted to regulation 32 pending assessments. Although this subject is a very large subject and I have is I have a separate webinar on the tax treatment of I we see on the liquidation. 
+
+2:39:28
+I would recommend that for all the tax questions, in case you can refer to my recorded webinar, which is available on the YouTube channel of triple a insolvency professionals, that is a very detailed analysis of income tax provisions, the IVC prisons and regulation and those deliberations in that webinar is very conclusive deliberations and that would be very, very good. In case you have any questions on the taxability of various income tax or GST. 
+
+
+## 
+2:40:11
+One thing that I can say: that the GST on sale of business as or a company or the koenkan son is not applicable. If the business is being sold as a going concern, then GST is not applicable. Nothing to say tdsn Tears PCX reasons are applicable during liquidation process, all the payment that liquidator is making. the liquidator has to file tedious returns and the curator has to comply with all the tedious laws. 
+
+2:40:40
+The proceeds of the liquidation would be distributed as per Section 53 and then I think we have already finished our. The only thing that I regret today is that as far as this taxability part is concerned, they how to handle the claims of structuring Authority's tax during the liquidation processes. That has not been completely deliberate with me, because already we have. 
+
+2:41:08
+We are having two hours and 41 minutes since we started and still we would like to take at least couple of questions which are very important and for the text. ions also could force close it because we have a recorded webinar already, because the demeanor that we do couple of weeks back that is available as a recorded version. 
+
+
+## 
+2:41:28
+So that is City still available on the our YouTube channel, so that can be seen for the tax issues. So uncle and mr Anil Agarwal, so anything that is coming in your mind which you feel is important, so we can discuss for another five minutes and then we would like to complete. So I will stop sharing my screen now and we can speak about four. So there are a lot of questions. 
+
+2:42:03
+Are there people so queries that come in that be asked not what do we do? The assets are not traceable. So I think maybe only exhibit we've already answered. That is previously. also then there are a few, a few questions on MSME whether the change of definition, some MSM ease which was not eligible earlier will become eligible under insolvency law, to do you know, under various sections to take care of this very important question. 
+
+2:42:38
+If this is an important person in case we have a semi definition, how do you change? Yeah, in case the MSME definition has been changed with the fact from 13th of May 2020, then it's a very important question. Like in case I have an asset and that particular company is in MSME as per the revised. 
+
+
+## 
+2:43:01
+As per the revised, the definition, then those promoters become eligible under Section 29 a, so would that be considered eligible promoters, or can they by themselves or not? that is a very big question, because he like we actually have to see what is the eligibility as on the date of the sale or as on any other date. 
+
+2:43:22
+To my understanding to my understanding, when we actually see the eligibility of a person under Section 29 a, that has to be seen as on the date of the transaction, not before that and not after that. If today we are selling a particular asset to any person, we actually have to see the eligibility of that person today and not in the past. 
+
+2:43:44
+So, according to my understanding, if the MSME definition is revised and we are selling the assets today to a person who is now eligible under Section 29 air because of MSME, because this certain three clauses of section 29 a is not applicable to MSME as per Section two 40 of the IBC. So that should be a readable. Now. Then there is a question on that. 
+
+
+## 
+2:44:10
+Considering with this issue, mr Rajesh Kumar saying that, considering the present situation, whether ACC can advise liquidator to put auction of the property on hold situation of Cove anomaly is as the as there will not be any buyer. Generally, I feel like I am NOT talking about the powers of sec. 
+
+2:44:31
+I am only talking about the while the liquidator would like to sell in a scenario when nobody would like to buy it when there is a lock down in the country and tomorrow, if somebody ask a question that you had only one customer with you and you wanted to sell it to the same person. That is the reason that you conducted the auction during lockdown and that is not compliant. 
+
+2:44:54
+That actually is questioning the Attic, so ethics of a liquidator. So why should a liquidator do that and why should he do that? Even for the his fee? Even for his fee, this period would be excluded. So why should he do that? so he should do that only when the public is ready to bid, when the public is certain that yes, the country is going to open and then they would bid only so. 
+
+
+## 
+2:45:16
+There is no reason that a liquidator I should be reduced during lockdown period. No reason so. Then then a question is with respect to valuation. So if, say, during liquidation, you get the asset three valued and see the assets are valued by the valuers at a much lower amount than the CRP amount. 
+
+2:45:46
+So the question is: can the reserve price be fixed at a higher amount as compared to the liquidation values given by the value as appointed on the liquidation so candidly, whether they choose which valuations to you? 
+
+2:45:58
+In most of the Cir P cases, in most of the in cases sorry, we see in most of the declaration cases we prepare a comparative chart of the evaluations done during CI RP valuation valuations even done before this year everybody bankers and the valuations of the liquidation valuation during the liquidation process. 
+
+
+## 
+2:46:17
+Then we take the feedback of our asset sale team and in case we find a customer, the customer is available at a some higher price. Then we fix the reserve price based on the market feedback and that can be much higher than the reserve price. 
+
+2:46:32
+As for the valuers under regulation 45 of the declaration process permission, so the liquidator has all the powers to sell the asset fix the reserve price, which is much higher than the reserve price as per regulation 35. then there's a question on what is the quorum for a sec meeting. The quorum for SEC meeting is not defined. 
+
+2:46:53
+However, the unnie decision which the SEC has to take, that is, 66% of the people present and voting present and voting so there is no process of voting. Sheer, there are total maximum 11 members are provided under Sec regulation and out of the eleven, 66% collectively should say one thing, and that should be present and voting. 
+
+
+## 
+2:47:19
+So in case 66% people say that we know the liquidator should not sell the company as a going concern, then the liquidator has to give a reason in writing why he still want to sell the company as a going concern and that 6.66% has to be people present and voting. So this is the law. 
+
+2:47:37
+So there is no voting share for SEC and there is no quorum for voting for SEC and the SEC and the law says that the liquidator can even take consultation from one members. However, the only condition is that even if the decorator has taken consultation with one member, whatever consultation that he has taken, that has to be circulated to all these stakeholders, members of the SEC. That is the law. 
+
+2:48:08
+So there is a question from mrs party daga. It is in one case the company won a case in the High Court of a property and the asset is in position of third party who acquired right from an asset reconstruction company. Now can we take the custody and FAS? 
+
+
+## 
+2:48:25
+How now, in case this asset is owned by the company by view of any court order, then the liquidator has all the powers to take control and custody of that asset. So in case that person is not cooperating, then the application may be filed to the adjudicating authority for directing the local authorities to get that asset in the possession of the liquidator and engines. 
+
+2:48:53
+You can also read some of the odd questions and then I think this is a very important still. We see that not many people are still connected with us, so they are actually interested in the question answer session. so we still feel that only 25% of the people who actually joined us maybe you have left, but still substantial participants are still connected with us. 
+
+2:49:15
+If mr panelists to repost their question in case it is not answered so far, because there are many questions and the people who are available right now can perhaps put in their question. So one question is again the process of scrap sale or the as of the assets that cannot be sold. The process of disposal of such assets and disclosure requirements are the same. 
+
+
+## 
+2:49:36
+I think you have to document that you tried selling them and then you have not been successful in creating a market and then end up the day selling it to the best buyer after anoxia? I don't know. now I think this is okay, like what you are saying is the correct and there is a concept of if you would read carefully, there is a. 
+
+2:49:58
+There is a concept which is provided in the law and that concept is the. I'll just read out that sections in there working on changing Liquidators and how. What is me? Whenever there is there is no process of changing the liquidator, it has to be changed by the IV being only in case these stakeholders are not comfortable with the liquidator. They only have one option: that they will file an application to. 
+
+2:50:33
+I be bi I will be able to this investigation whether the liquidator is compliant or not, whether the liquidator is indulged into any kind of unethical practices. then the liquid the I will be able to recommend change to the incl T and uncie LT can take a new liquidator from the panel that they are maintaining with them. Otherwise the SEC as such doesn't have any power to remove any liquidator. 
+
+
+## 
+2:50:55
+Then there is a question so mr Dilip Kapoor can a suspended rector can he settle the dues with the financial creditors in its personal capacity, thus affecting the waterfall mechanism of the composition of coz? I answered I saw this VV reduce cable will be reduced question and that's a similar question. Like in liquidation, the promoter settled with the bank and the banks are not even listening to the liquidator now. 
+
+2:51:23
+But this is non compliance and the banks has to give the asset to the liquidator and the advance. Then kind of do OTS during liquidation process. But however, the in the settlement is not from the assets of the CD. What will be the case in that? So that is a different case that the asset which are not owned by the CDs. We are only talking about their, the assets of the scene right. So any other. 
+
+2:51:45
+I said the banks are free to do anything. They can invoke section, they can invoke surface he or they can do OTS. That of course they can go to the RDB rock. then some people have a question under Regulation 35 that how the 35 is structured in a way, that it says that the value and the liquidation process needs to be appointed within seven days. 
+
+
+## 
+2:52:04
+And some people are saying that even if you want to, so how do you appoint a value after seven days? That is, the valuer can be appointed after seven days, because in many cases the SEC does not agree or in case the associate expediency and finally, like consent of the SEC should be there. So value or can decide at any point of time. 
+
+2:52:22
+Also that evaluation should be done afresh in case the valuer feels that the evaluation is absurd and he is not getting a customer even at that time. Also the valuer can decide. the valuer can decide that the valuation can be done afresh. Let me question from severe amma prasad Bernini and he saying I'm he saying that does the gradually accrued or payable forms part of women workman used along with their wages? If eligible? 
+
+2:52:56
+Is the entire gravity or two years portion of gradually eligible? The gratuity is never for two years or ten years. Gradually is given to the employees on their, on their discharge, on their termination, on their resignation, and there are basic conditions like if a person has already completed five years, then the gratuity would be given as per the payment of gratuity Act and whatever will be the gratuity, as in the declaration date, for all those employees who have been discharged from the duty. 
+
+
+## 
+2:53:23
+That gratuity amount will form part of the workman dues or the employees dues, whatever the case may be, and then it will actually be settled along with the other deals, like if it is a perfume. Until then it is a party. Possibly it is per episode with leaf. You see like why it is so? 
+
+2:53:40
+Because you know everyone says that the any employee or any employee should not feel protected in the company and his salaries would be paid even if the company goes into insolvency because he. The intention of the legislature is that even if the employees also will suffer in case the company goes into liquidation or company goes into insolvency. So the legislation wants that anyone who actually sends some kind of default in the company should be reported. 
+
+2:54:08
+So the earlier detection of default is the basic strength of insolvency and bankruptcy law that the default can be reported by any person and it may be an employee, because the employee also will suffer a lot in case the company caused entry decoration and the in case the company is, the company goes and incur losses for many years and then later on the employee salary also is not protected. 
+
+
+## 
+2:54:33
+Then there is a question on No so basically somebody is asking that to give you a mansard lease or land. So somebody is asking that what if the CD has the rights to a lease? So it's basically maybe a 10 year is so only a contractual right of some asset that was taken on an operating lease by the CD as a lessee. 
+
+2:54:57
+So I think even that will be a contractual arrangement that can be passed on you some buyer in case he's interested. That is what ideas. If any of the asset of the company is given to any other person own lease, then the let's see, let's see is the lessee is protected and it cannot be the lessee cannot be told to vacate. 
+
+2:55:20
+The only thing that you can do is that you can sell the asset along with the contractual rights. Then there is a question on section 138 of ship will instrument act and how the liquidator will has to deal with it in case there is an order from the court with respect to payment of those dues, even if the order is there, even if there is only any order or arbitration order or any court order that the payment should be made and that payment, the claim would be admitted under this, under this under Section 53, and it would also be mentioned in the claim that the priority and the under which Clause the priority of that person is. 
+
+
+## 
+2:55:58
+If the claim is against an operational, that then it would be as an oppression alert. if it is a workman do was an employee, do that the nature of the claim would be same, irrespective of the fact whether there is an order from the court or not. You ready I am Not sure there is a touch that set off a tedious liability with an income tax refund. 
+
+2:56:38
+No, I don't think there is a clause but in the income tax department has a firepower that they cannot. Just they're the front with the income tax demands and that power they had. I think we need to see any judicial pronouncement where the liquidator can claim a right on the refund, irrespective of the existing demand in any other assessment year. that kind of order. 
+
+2:57:01
+We can wait, but before the timing, since there is a separate section where the income tax department is empowered to adjust their refund of any earlier year against the demands of any earlier year. Of course there is a consent that they have to seek from the assessee, but in that in this case the consent would be sought from the liquidator and maybe the liquidator can go to an TLT to decide this issue. 
+
+
+## 
+2:57:26
+According to my understanding they have a right of net worth. but yes this is a case that we can affricate it and do dedicated, because whenever the income tax department writes you a letter, I think under Section 145 uncle is a tree section, right to five with five is the section which allows for refreshments of income tax will demand with income tax refunds. 
+
+2:57:45
+And then of course there is a recovery mechanism under section 221, but I'm not sure the recovery mechanism can be used for interchangeability, interchangeably with income tax refunds. I think we have now, like we have already done it for three hours, so we are a free taking. 
+
+2:58:03
+I think you should have been a that we should not have such a long the session, so in future we would be coming with the smaller subjects rather than the bigger subjects. so the only thing that we have developed in ourselves is that whenever we take up a subject, we would try to cover it to the to the maximum possible sizes, maximum possible coverage. 
+
+
+## 
+2:58:28
+So that is the reason it is taking time that I was I was trying to speak little faster today, but still we had to force some of the items. I feel like the other topic, yes, mana topics, I think is the is the future, because that will also that can be specific and that can also be, I would say, move. It can bring more attention from participants. 
+
+2:58:53
+Two and a half hours, three hours is a long time. Yes, I think we can. I would like to thank all the participants and we had a huge number today and we still have two to 25.300 participants after three hours. So thank you everyone. 
+
+2:59:10
+So thank you very much participants, and I feel very happy when so many people remain connected with me for three hours, and I thank the my co panelists, cm Kidwell and Sienna Agarwal, the again I would say that I like to handle more and more questions, because in case any question is there, which is which I am NOT able to answer, and then I'll go home and work on that question, and that's everything my own experience and knowledge. 
+
+
+## 
+2:59:45
+So I am doing it these webinars only for my own learning. So this is my way of learning. Thank you very much. I will remain connected with you and please look forward to my coming the webinar, which will be on the transactional audit versus the forensic audit, because there is a huge confusion in the market. What is the difference between transactional or it and forensic audit? 
+
+3:00:11
+So I am preparing that subject in detail and please look forward to that and please do join, and that would be a very detailed analysis of what a forensic audit is as per the RBI guidelines and what a transaction audit is as per IPC and what are the transactions under Section 43,45.50 and 66 and what are the remedies available, and that also would have lot many live examples of transactions which can be covered under Section 43,45.50 and 66. with all this. 
+
+3:00:45
+Thank you very much, and I wish that you still say is safe from the coronavirus. As much as you can work from home, you should continue to work from home and digitally performing from home is very easy. Nowadays it is possible to work even as a chartered accountant. I have tried even the Leger scrutiny while sitting at home and the other subpoenas with declined. 
+
+
+## 
+3:01:12
+So even the larger scrutiny can be done on any software, including tally software that can be done while you are sitting at home then you are not meeting anyone, and the accountant of the client is sitting on his home and declined himself is sitting at his home. So still the largest cookies are being done for the purpose of audits. so don't use this circuit as a reason for giving anything spending. 
+
+3:01:32
+You can still finish and you can still showcase this time to the society, to the comment that yes, the professionals can adopt digital methods of doing the things and the offices are no more important. It can be done through a digital technology. thank you very much and goodbye to all. thank you. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

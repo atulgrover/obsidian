@@ -1,0 +1,239 @@
+{{tablelayout?colwidth="370px, 200px, 300px, 100px, 100px, 100px"&rowsHeaderSource=1}} 
+^Bank Name^Chair Name^WebSite^Pincode^Latitude^Longitude^
+|AB Bank Limited|Mr. Darayus Parvez Bajan|http://www.abbl.com|400020|18.9351176|72.8264378|
+|Abhinandan Urban Co-op. Bank Ltd.|Shivaji G. Dethe|NA|444601|20.9416359|77.7509303|
+|Abhyudaya Co-op. Bank Ltd.|Mr. B R G Upadhyay|http://www.abhyudayabank.co.in|400012|18.9995407|72.8397088999999|
+|Acuite Ratings & Research Ltd.|Shri Sankar Chakraborti|http://www.acuite.in|400042|19.1338168|72.9383964|
+|Adarsh Co-operative Bank Ltd|Shri Narendra Singh Dabi|http://www.adarshco-operativebank.com|307001|24.7871142|72.7570024|
+|Ahmedabad City & Dist. Co-op. Banks Association|Shri Harshadbhai J Shastri|NA|380006|23.0197481|72.5546438|
+|Airtel Payments Bank Limited|Shri Anubrata Biswas|http://www.airtel.in/bank|122015|28.4963709|77.0593246|
+|Alchemist Asset Reconstruction Company Limited|Shri Satpal Kumar Arora|https://www.alchemistarc.com|110024|28.5683786|77.2416464|
+|American Express Banking Corp. (AEBC)|Shri Sanjay Khanna|http://www.americanexpress.com/india/homepage.shtml|122002|28.474679|77.1048978|
+|Andhra Pradesh Grameena Bank|K Pramod Kumar Reddy|NA|522002|16.3146349|80.4409967|
+|ANZ Banking Group Ltd.|Mr. Vyomesh Chandan|http://www.anz.com|400018|18.9985145|72.8173545|
+|ARUNACHAL PRADESH GRAMIN BANK|Dr. Deepak Kr Gupta|NA|791110|27.113431|93.6927530999999|
+|ASREC (India) Limited|Shri Girish S Sinha|https://www.asrecindia.co.in|400093|19.1282743|72.8677092|
+|Assam Gramin Vikash Bank|NA|http://www.agvbank.co.in|781005|26.1574857|91.7806619|
+|Asset Reconstruction Company (India) Limited|Shri Pavan Pal Kaushal|http://www.arcil.co.in|400028|19.0217224|72.837479|
+|AU Small Finance Bank Limited|Shri Sanjay Agarwal|http://www.aubank.in|302001|26.9178916|75.801538|
+|AXIS Bank Ltd.|Shri Amitabh Chaudhry|http://www.axisbank.com|400025|19.0158306|72.8293920999999|
+|Bandhan Bank Limited|Shri Partha Pratim Sengupta|http://www.bandhanbank.com|700091|22.5816962|88.4304141|
+|Bank of America N.A.|Ms. Kaku Nakhate|http://www.bankofamerica.com|400051|19.05961|72.8552983|
+|Bank of Bahrain & Kuwait BSC|Mr Madhav Nair|https://www.bbkindia.com/|400021|18.9618573|72.9268625999999|
+|Bank of Baroda|Shri Debadatta Chand|http://www.bankofbaroda.com|400051|19.05961|72.8552983|
+|Bank of Ceylon|NA|NA|600008|13.0743539|80.2565183|
+|Bank of China|Xing Tongqing|NA|400051|19.05961|72.8552983|
+|Bank of India|Shri Rajneesh Karnatak|http://www.bankofindia.co.in/|400051|19.05961|72.8552983|
+|Bank of Maharashtra|Shri Nidhu Saxena|http://www.bankofmaharashtra.in|411005|18.5293345|73.8528475|
+|Barclays Bank plc|Ms Suneeta Shetty|NA|400018|18.9985145|72.8173545|
+|Bassein Catholic Co-op. Bank Ltd.|Mr. Sandeep Seth|http://www.bccb.co.in|401207|19.346796|72.819052|
+|Bharat Co-op. Bank (Mumbai) Ltd.|Shri Vidyanand S Karkera|http://www.bharatbank.com|400063|19.1648109|72.8532714999999|
+|Bihar Gramin Bank|Dr. Ashutosh Kumar Jha|NA|800016|25.6054146|85.1673785|
+|BNP Paribas|Shri Sanjay Singh|https://www.bnpparibas.co.in/en/|400051|19.05961|72.8552983|
+|Bombay Mercantile Co-op. Bank, LTD|Dr. M Shah Alam Khan|http://www.bmcbankltd.com|400003|18.9531926|72.8353005|
+|Canara Bank|Shri K Satyanarayana Raju|http://www.canarabank.com|560002|12.9635207|77.5821062|
+|Capital Small Finance Bank Ltd|Shri Sarvjit Singh Samra|http://www.capitalbank.co.in|144001|31.3271102|75.5917092|
+|Central Bank of India|Shri Kalyan Kumar|http://www.centralbankofindia.co.in|400021|18.9618573|72.9268625999999|
+|Chhattisgarh Rajya Gramin Bank|Shri I K Gohil|NA|492018|21.1447684|81.7896380999999|
+|Citibank N.A.|Shri K Balasubramanian|http://www.citibank.co.in|400051|19.05961|72.8552983|
+|CITIZENCREDIT Co-op. Bank Ltd.|Shri Christopher A Mendoza|http://www.citizencreditbank.com|400064|19.1872294|72.8407472999999|
+|City Union Bank Ltd.|Dr. N Kamakodi|http://www.cityunionbank.com|612001|10.958721|79.385975|
+|Coastal Local Area Bank Ltd.|Shri B Venu Gopala Reddy|http://www.coastalareabank.com|520008|16.5126534|80.6645973|
+|Cooperatieve Rabobank U.A|Mr.Ramit Bhasin|http://www.rabobank.com/india|400013|18.9981729|72.8274691|
+|Credit Agricole Corporate And Investment Bank|Mr. Franck Passillier|http://www.ca-cib.com|400021|18.9618573|72.9268625999999|
+|Credit Guarantee Fund Trust for Micro Small Enterprises|Shri Sandeep Varma|http://www.cgtmse.in|400051|19.05961|72.8552983|
+|CRIF High Mark Credit Information Services Pvt. Ltd.|Mr. Sachin Seth|https://www.crifhighmark.com|400069|19.118372|72.8500708999999|
+|CSB Bank Ltd.|Shri Pralay Mondal|http://www.csb.co.in|680020|10.5332425|76.2203907999999|
+|CTBC Bank Co Ltd|Shri Tanmoy Adhikari|NA|110037|28.5441475|77.1159808|
+|DBS Bank India Ltd|Shri Rajat Verma|http://www.dbs.com|400021|18.9618573|72.9268625999999|
+|DCB Bank Ltd.|Shri Praveen Achuthan Kutty|http://www.dcbbank.com|400013|18.9981729|72.8274691|
+|Deutsche Bank AG|Shri Kaushik Shaparia|http://www.db.com|400001|18.9385352|72.836334|
+|Dhanlaxmi Bank Ltd.|Shri Ajith Kumar K K|http://www.dhanbank.com|680002|10.5416388|76.192864|
+|Doha Bank Q.P.S.C.|Shri Manish Mathur|http://www.dohabank.co.in|400021|18.9618573|72.9268625999999|
+|ECL Finance Limited|Mr. Phanindranath Kakarla|NA|400098|19.0717612|72.8615426|
+|Edelweiss Asset Reconstruction Co. Ltd.|Shri Rajkumar Bansal|https://www.edelweissarc.com|400098|19.0717612|72.8615426|
+|Emirates NBD Bank (P.J.S.C)|SHARAD AGARWAL|http://www.emiratesnbd.co.in|400051|19.05961|72.8552983|
+|Encore Asset Reconstruction Company Pvt.Ltd.,|Shri Sandeep Gupta|http://www.encorearc.com|122002|28.474679|77.1048978|
+|Equifax Credit Information Services Pvt. Ltd.|Shri Nanaiah Kalengada|http://www.equifax.co.in|400093|19.1282743|72.8677092|
+|Equitas Small Finance Bank Limited|Shri P N Vasudevan|https://www.equitasbank.com|600002|13.0689208|80.2671113999999|
+|ESAF Small Finance Bank Limited|Shri Kadambelil Paul Thomas|http://www.esafbank.com|680651|10.5501985|76.2623945|
+|Experian Credit Information Company of India Pvt. Ltd.|Shri Saikrishnan Srinivasan|http://www.experian.in|400051|19.05961|72.8552983|
+|Export-Import Bank of India|Ms. Harsha Bangari|NA|400005|18.9103689|72.8197581|
+|Fino Payments Bank Ltd.|Shri Rishi Gupta|http://www.finobank.com/|400706|19.0344647|73.0110096|
+|First Abu Dhabi Bank PJSC|Mr.Nimesh Karwanyun|https://www.bankfab.com/en-in|400051|19.05961|72.8552983|
+|FirstRand Bank Ltd|Shri Ankur Singhal|http://www.firstrand.co.za|400051|19.05961|72.8552983|
+|Fixed Income Money Market and Derivatives Association of India - FIMMDA|Shri Ravindranath Gandrakota|http://www.fimmda.org|400001|18.9385352|72.836334|
+|Foreign Exchange Dealers Association of India(FEDAI)|Shri Ashwani Sindhwani|http://www.fedai.org.in|400005|18.9103689|72.8197581|
+|GP Parsik Sahakari Bank Ltd.|Shri Madhusudan Pai|http://www.gpparsikbank.com|400605|19.1943854|72.9992013|
+|GS Mahanagar Co-op. Bank Ltd|Shri Manjunatha Kanchan|http://www.mahanagarbank.com|400012|18.9995407|72.8397088999999|
+|Gujarat Gramin Bank|Yogesh Kumar Agrawal|NA|390005|Not found||
+|HDFC Bank Ltd.|Shri Sashidhar Jagdishan|http://www.hdfcbank.com|400018|18.9985145|72.8173545|
+|HDFC Credila Financial Services Ltd.|Mr. Arijit Sanyal|http://www.credila.com|400059|19.1118641|72.8790282|
+|Himachal Pradesh Gramin Bank|NA|https://www.hpgb.in/|175001|31.6962683|76.9239727|
+|ICICI Bank Limited|Shri Sandeep Bakhshi|http://www.icicibank.com|400051|19.05961|72.8552983|
+|IDBI Bank Limited|Shri Rakesh Sharma|http://www.idbibank.com|400005|18.9103689|72.8197581|
+|IDFC First Bank Ltd|Mr.V Vaidyanathan|http://www.idfcbank.com|400051|19.05961|72.8552983|
+|IFCI Limited|Shri Rahul Bhave|https://www.ifciltd.com/|110019|28.5346916|77.2601742|
+|India Infrastructure Finance Company ltd|Shri Padmanabhan Raja Jaishankar|http://www.iifcl.org|110023|28.5748119|77.199129|
+|India Mortgage Guarantee Corporation Pvt. Ltd. (IMGC)|Shri Mahesh Misra|http://www.imgc.com|122002|28.474679|77.1048978|
+|India Post Payments Bank Limited|Shri R. Viswesvaran|http://www.ippbonline.in|110001|28.6327426|77.2195969|
+|India Renewable Energy Development Agency Ltd., IREDA|Shri Pradip Kumar Das|NA|110066|28.567447|77.1873371|
+|India SME Asset Reconstruction Company Ltd (ISARC)|Shri Amitabh Misra|http://www.isarc.in|400051|19.05961|72.8552983|
+|Indian Bank|Shri Binod Kumar|http://www.indianbank.in|600014|13.0534675|80.2694777|
+|Indian Overseas Bank|Shri Ajay Kumar Srivastava|http://www.iob.in|600002|13.0689208|80.2671113999999|
+|IndusInd Bank Limited|Shri Rajiv Anand|http://www.indusind.com|400013|18.9981729|72.8274691|
+|Industrial and Commercial Bank of China Ltd. (ICBC)|Mr.Jing Jun|http://www.icbcindia.com|400051|19.05961|72.8552983|
+|Industrial Bank Of Korea|Shri BYUNGCHUR MOON|https://www.ibk.co.kr|110037|28.5441475|77.1159808|
+|Institute for Development & Research in Banking Technology(IDRBT)|Prof. D Janakiram|https://www.idrbt.ac.in|500057|17.3955461|78.4538802|
+|Institute of Banking Personnel Selection â€“ IBPS|Shri Harideesh Kumar B|http://www.ibps.in|400101|19.2058593|72.86612|
+|International Asset Reconstruction Company Pvt. Ltd.|Shri Neeraj I. Mohan|http://www.iarc.co.in|400093|19.1282743|72.8677092|
+|Internet & Mobile Association of India|Dr. Subho Ray|NA|400018|18.9985145|72.8173545|
+|J P Morgan Chase Bank, N.A. India|Shri Pranav Chawda|http://www.jpmorgan.com|400098|19.0717612|72.8615426|
+|Jalgaon Janata Sahakari Bank Ltd.|Shri Anil Govind Rao|http://www.jjsbl.com|425001|21.0119747|75.5451379|
+|Jammu & Kashmir Grameen bank|Sanjay Gupta|NA|180006|32.7178197|74.8770282|
+|Jana Small Finance Bank Limited|Shri Ajay Kanwal|http://www.janabank.com|560071|12.9532958|77.6408123|
+|Janakalyan Sahakari Bank Ltd.|Shri S G Date|https://www.jsblbank.com|400071|19.0521122|72.900668|
+|Janata Sahakari Bank Ltd. Pune|Shri Jagdish Purushottam Kashyap|http://www.janatabankpune.com|411002|18.512489|73.8611811999999|
+|Jharkhand Rajya Gramin Bank|Shri Madan Mohan Bariar|https://www.jrgb.in|834001|23.3780353|85.3187914|
+|JHARKHAND STATE COOPERATIVE BANK LTD|Sri Parishesh Pathak|https://www.jscb.gov.in|834001|23.3780353|85.3187914|
+|Jio Payments Bank Limited|Shri Vinod Easwaran|https://www.jiobank.in/|400709|19.0997617|73.0021534|
+|JSC VTB Bank|Mr. Andrey Klopotovskiy|http://www.vtb.com|110001|28.6327426|77.2195969|
+|Kallappanna Awade Ichalkaranji Janata Sahakari Bank Ltd|Shri S B Shirgave|https://ijsbank.com/|416115|16.6766764|74.4584244999999|
+|Karnataka Bank Ltd.|Shri Raghavendra S Bhat|http://www.ktkbank.com|575002|12.8632708|74.8594853|
+|Karnatka Grameena Bank|Shreekant M Bhandiwad|NA|583103|15.1991737|76.9527836|
+|KBS Bank (Krishna Bhima Samruddhi Local Area Bank)|Shri Durga Prasad Donepudi|http://www.kbsbankindia.com|500081|17.4433571|78.3822110999999|
+|KEB Hana Bank|Shri Daekihong|https://www.kebhana.com/easyone_index_en.html|600004|13.0368548|80.2676463|
+|Kerala Gramin Bank|Shri C. JayaPrakash|http://www.keralagbank.com|676505|11.0434922|76.0885011|
+|Kookmin Bank|Jongun Bae|http://www.kbstar.com|122002|28.474679|77.1048978|
+|Kotak Mahindra Bank Limited|Shri Ashok Vaswani|http://www.kotak.com|400051|19.05961|72.8552983|
+|L&T Finance Limited|Mr. Sudipta Roy|NA|400098|19.0717612|72.8615426|
+|Madhya Pradesh Gramin Bank|Ramesh Chandra Bhera|https://www.mpgb.co.in|452010|22.7569083|75.9056753|
+|Maharashtra Gramin Bank|Shri Milind B Gharad|http://www.mahagramin.in|431010|19.848934|75.3091482999999|
+|Mahesh Sahakari Bank Ltd., Pune|Shri S R Karwa|http://www.maheshbankpune.com|411037|18.4807627|73.8724301|
+|Manipur Rural Bank|Shri Abhay Kumar|NA|795001|24.8139816|93.9393925999999|
+|Mashreqbank psc|Mr Tushar Vikram|http://www.mashreqbank.com|400051|19.05961|72.8552983|
+|Meghalaya Rural Bank|Shri Ashish Yadav|NA|793001|25.5767146|91.8879469|
+|Mizoram Rural Bank|Ms. Sheryl L Vanchhong|NA|796001|23.7246822|92.7157866|
+|Mizuho Bank Ltd.|Shri Tatasuhiro Otake|http://www.mizuhocbk.co.jp/english|400013|18.9981729|72.8274691|
+|MUFG Bank Ltd|Mr. Takuya Senoo San|http://www.mufg.jp/english|400051|19.05961|72.8552983|
+|Mumbai District Central Co-op. Bank Ltd.|Shri D S Kadam|NA|400001|18.9385352|72.836334|
+|Nagaland Rural Bank|Sri. Velayutham S|NA|797001|25.6732954|94.1078877|
+|Nagpur Nagarik Sahakari Bank Ltd.|Shri Ashutosh Pathak|http://www.nnsbank.co.in|440008|21.150653|79.1294516|
+|NATIONAL ASSET RECONSTRUCTION COMPANY LTD (NARCL)|SHRI NATARAJAN SUNDAR|https://www.narcl.co.in/|400030|19.0121697|72.8218627|
+|National Bank for Agriculture and Rural Development (NABARD)|Shri Shaji K V|https://www.nabard.org/EngDefault.aspx|400051|19.05961|72.8552983|
+|National Bank for Financing Infrastructure and Development|Mr K V Kamath|https://nabfid.org/|400051|19.05961|72.8552983|
+|National Co-op. Agriculture and Rural Develoment Banks Federation Ltd.|Shri K K Ravindran|http://www.nafcard.org|400703|19.0793547|72.9992013|
+|National E-Governance Services Limited|Shri Debajyoti Ray Chaudhuri|http://www.nesl.co.in|400001|18.9385352|72.836334|
+|National Federation of State Co-op. Banks Ltd.|Shri Ashok Bandyopadhyay|http://www.nafscob.org|400703|19.0793547|72.9992013|
+|National Federation of Urban Co-op. Banks and Credit Societies Ltd.|Shri Subhash Gupta|NA|110028|28.631833|77.1387587999999|
+|National Housing Bank|Shri Manoj Muttathil Ayyappan|NA|110003|28.5916468|77.2317863|
+|NATIONAL MINORITIES DEVELOPMENT & FINANCE CORPORATION|Shri Kumar Sudesh|http://www.nmdfc.org|110092|28.6362211|77.2922332|
+|NatWest Markets plc|Shri Kapil Mathur|https://www.natwestmarkets.in/|122002|28.474679|77.1048978|
+|NeoGrowth Credit Private Limited|Shri Arun Nayyar|https://www.neogrowth.in/|400013|18.9981729|72.8274691|
+|New India Co-op. Bank Ltd.|Shri Abhimanyu Bhoan|http://www.newindiabank.in|400025|19.0158306|72.8293920999999|
+|NK GSB Co-op. Bank Ltd.|Shri Sunil V. Panse|http://www.nkgsb-bank.com|400004|18.9579877|72.8214399|
+|NongHyup Bank|Mr. Mun Sung Lee|NA|201305|28.5552538|77.40708|
+|North East Small Finance Bank Limited|Mr. Satish Kumar Kalra|NA|781028|26.1218063|91.8001488|
+|NSDL Payments Bank Ltd.|Shri Abhijit Kamalapurkar|NA|400013|18.9981729|72.8274691|
+|Nutan Nagarik Sahakari Bank Ltd.|Shri Ashok D Kapadia|http://www.nutanbank.com|380006|23.0197481|72.5546438|
+|Odisha Grameena Bank|Rishi Singh|NA|751030|20.2624696|85.7820416|
+|Paytm Payments Bank Limited|Shri Arun Kumar Bansal|http://www.paytmbank.com|201303|28.5613345|77.3496708|
+|Pegasus Assets Reconstruction Pvt. Ltd.|Shri Kishore Srinivasan|https://Pegasus-arc.com|400021|18.9618573|72.9268625999999|
+|poonawalla Fincorp Limited|Mr. Arvind Kapil|https://www.poonawallafincorp.com|411036|18.5332622|73.9370923|
+|Power Finance Corporation Limited|Shri Ravinder Singh Dhilon|https://www.pfcindia.com|110001|28.6327426|77.2195969|
+|PSB Alliance Private Limited|Shri Anjali Mohanty|https://www.psballiance.com/|400101|19.2058593|72.86612|
+|PT Bank Maybank Indonesia TbK|Shri Mohit Varma|https://www.maybank.co.in/|400013|18.9981729|72.8274691|
+|Puduvai Bharathiar Grama Bank|NA|https://www.puduvaibharathiargramabank.in/|605003|11.9524591|79.8324755|
+|Punjab & Sind Bank|Shri Swarup Kumar Saha|http://www.psbindia.com|110008|28.6482162|77.1640718|
+|Punjab Gramin Bank|Shri Gajendar Kumar Negi|https://pgb.org.in/|144006|Not found||
+|Punjab National Bank|Shri Ashok Chandra|http://www.pnbindia.com|110075|28.5818387|77.053568|
+|Qatar National Bank Q P S C.|Shri Gaurav Gupta|http://www.qnb.com|400051|19.05961|72.8552983|
+|Rajasthan Gramin Bank|Mr. Mukesh Bhratia|NA|342003|26.2787188|72.9992013|
+|Rajkot Nagarik Sahakari Bank Ltd.|Shri Vinod K Sharma|http://www.rnsbindia.com|360005|22.2726956|70.7406357999999|
+|RBL Bank Ltd|Shri R Subramaniakumar|http://www.rblbank.com|400013|18.9981729|72.8274691|
+|REPCO Bank Ltd.|Shri O M Gokul|http://www.repcobank.com|600017|13.0412658|80.2338514|
+|Repco Home Finance Limited|Mr T Karunakaran|https://www.repcohome.com|600032|13.0177153|80.2056743|
+|Saraswat Cooperative Bank Ltd.|Mrs.Arti Patil|http://www.saraswatbank.com|400025|19.0158306|72.8293920999999|
+|Sarva Haryana Gramin Bank|Shri Sanjeev Kumar Dhupar|http://www.shgbank.co.in|124001|28.9034473|76.5719414|
+|Sberbank|Shri Ivan Nosov|http://www.sberbank.co.in|110001|28.6327426|77.2195969|
+|SBI Cards and Payment Services Pvt. Ltd|Shri Rama Mohan Rao Amara|http://www.sbicard.com|122002|28.474679|77.1048978|
+|SBI Global Factors Ltd.- SBIGFL|Shri Bharat Kumar Mishra|https://www.sbiglobal.in|400051|19.05961|72.8552983|
+|SBM Bank (India) Ltd.|Mr. Ashish Vijayakar|http://www.sbmbank.co.in|400051|19.05961|72.8552983|
+|Secondary Loan Market Association|Mr. AJIT KUMAR|http://www.slma.in|400051|19.05961|72.8552983|
+|Sharad Sahakari Bank Ltd. Manchar|Smt.Jyotsna Kakade|http://www.sharadbank.com|410503|19.0085473|73.9242251|
+|Shinhan Bank|Mr.Keunho Kim|https://www.shinhanbankindia.com|400013|18.9981729|72.8274691|
+|Shivalik Small Finance Bank Ltd.|Shri Anshul Swami|https://shivalikbank.com|201303|28.5613345|77.3496708|
+|Shri Arihant Co-op. Bank Ltd.|Shri Shri Bikash Chandra Biswas|http://www.arihantbank.com|400083|19.1166191|72.9374227|
+|SK Finance Limited|Mr Rajendra Kumar Setia|NA|302001|26.9178916|75.801538|
+|Skandinaviska Enskilda Banken AB|NA|NA|110037|28.5441475|77.1159808|
+|Small Industries Development Bank of India|Shri Manoj Mittal|NA|400051|19.05961|72.8552983|
+|Societe Generale|Mr. Toby Lawson|http://www.societegenerale.in|400013|18.9981729|72.8274691|
+|Sonali Bank Ltd.|Ms. Rawshan Jahan|http://www.sbl.in|700013|22.5630476|88.3524678|
+|Sree Narayana Guru Co-op. Bank Ltd.|Shri Tilak Sankarankutty|http://www.Sngcbankco.in|400089|19.0685355|72.9003209|
+|Standard Chartered Bank|P.D.Singh|http://www.standardchartered.com|400051|19.05961|72.8552983|
+|State Bank of India|Shri Challa Sreenivasulu Setty|https://www.sbi.co.in|400021|18.9618573|72.9268625999999|
+|Sumitomo Mitsui Banking Corporation|Mr. Hiroyuki Mesaki|https://www.smbc.co.jp/asia/|400051|19.05961|72.8552983|
+|Suryoday Small Finance Bank Limited|Shri R Baskar Babu|https://www.suryodaybank.com|400614|19.0283389|73.0375761|
+|SVC Co-op Bank Ltd|Shri Ravinder Singh|http://www.svcbank.com|400055|19.0803885|72.8468571|
+|SWIFT India Private Limited|Shri Kiran Shetty|http://swift.com|400051|19.05961|72.8552983|
+|Tamil Nadu Grama Bank|Shri S Selvaraj|https://www.tamilnadugramabank.com|636007|11.6712526|78.1621437|
+|Tamilnad Mercantile Bank Ltd.|Shri. Thiru. Salee S Nair|http://www.tmb.in|628002|8.83308319999999|78.0994209999999|
+|Tata Capital Financial Services Limited|Shri Rajiv Sabharwal|https://www.tatacapital.com|400001|18.9385352|72.836334|
+|Telangana Grameena Bank|Smt Y Sobha|http://www.tgbhyd.in|500044|17.4077799|78.5122169|
+|Telangana State Co-operative Apex Bank Limited|Dr. N Muralidhar|http://tscab.org|500001|17.3874364|78.4721728999999|
+|Textile Traders Co-op. Bank Limited.|Shri Dipal S Patel|NA|380009|23.0314594|72.5641077|
+|THANE BHARAT SAHAKARI BANK LTD|Shri Shriram Pejawar|https://www.tbsbl.com|400602|19.1900019|72.9682017|
+|The Adarsh Co-op. Urban Bank Ltd.|Shri M Venkata Ramana|http://www.adarshbank.com|500055|17.5248148|78.4497875|
+|The Ahmedabad District Co-op Bank Ltd|Shri M L Bahediya|NA|380009|23.0314594|72.5641077|
+|The Akola Urban Co-op. Bank Ltd.|NA|NA|444001|20.6996477|77.0161435999999|
+|The Andhra Pradesh Mahesh Co-op. Urban Bank Ltd.|Shri V. Arvind|http://www.apmaheshbank.com|500034|17.4145868|78.4382677|
+|The Andhra Pradesh State Co-op. Bank Ltd.|Dr R Shreenath Reddy|http://www.apcob.ap.nic.in|500001|17.3874364|78.4721728999999|
+|The Bank of Nova Scotia|Shri Sanjeev Mittal|http://www.scotiabank.com|400051|19.05961|72.8552983|
+|The Belagavi District Central Co-op. Bank Ltd., Belagavi|Shri S K Alagundi|NA|590016|15.8582723|74.528751|
+|THE CHIKHLI URBAN COOPERATIVE BANK LTD, CHIKHLI|Shashank Madhukar Pandhade|https://cucb.in/|443201|20.3124132|76.317414|
+|The Clearing Corporation of India Ltd.|Shri Hare Krishna Jena|NA|400028|19.0217224|72.837479|
+|The Cosmos Co-op. Bank Ltd.|Mrs.Apekshita Thipsay|http://www.cosmosbank.com|411007|18.5541728|73.8196158|
+|The Deccan Merchants Co-op. Bank Ltd.|Shri. Pramod Ramkrishna Karnad|http://www.deccanbank.com|400041|Not found||
+|The Federal Bank Ltd.|Shri KVS Manian|http://www.federalbank.co.in|683101|10.1021206|76.3579401|
+|The Gayatri Co-op. Urban Bank Ltd.|Ms. Vanamala Srinivas|http://www.gayatribank.in|505327|18.8032852|78.9231667|
+|The Greater Bombay Co-op. Bank|Shri Anil Manu Sakhrani|http://www.greaterbank.com|400020|18.9351176|72.8264378|
+|The Hongkong & Shanghai Banking Corporation Ltd.|Mr. Hitendra Dave|http://www.hsbc.co.in|400001|18.9385352|72.836334|
+|The HP State Co-op. Bank Ltd.|Shri Sharwan Manta|NA|171001|31.1011641|77.1743983|
+|The Jalgaon People`s Co-op. Bank Ltd|Shri Rohit Bhujbal|https://www.jpcbank.com|425001|21.0119747|75.5451379|
+|The Jammu & Kashmir Bank Ltd.|Shri Amitava Chatterjee|http://www.jkbank.net|190001|34.0826627|74.8624092|
+|The Kalupur Commercial Co-op. Bank Limited|Mr. Virag G Shah|http://www.kalupurbank.com|380014|Not found||
+|The Kalyan Janata Sahakari Bank Ltd.|Mr. Anant Narayan Kulkarni|http://www.kalyanjanata.in|421301|19.2527132|73.1290595999999|
+|The Karad Urban Co-op. Bank Ltd|Shri Dilip Mahadeo Gurav|http://www.karadurbanbank.com|415110|17.2834175|74.1856471999999|
+|The Karnataka State Co-op. Apex Bank Ltd..|Sri C N Devaraj, KCS|NA|560018|12.9569886|77.5637328|
+|The Karur Vysya Bank Ltd.|Shri Ramesh Babu B|http://www.kvb.co.in|639002|10.9342693|77.9852853|
+|The Kerala State Co-op. Bank Ltd.|Smt Vimala Vijaya Bhaskar|http://www.kscb.com|695033|8.5082355|76.954224|
+|The Khamgaon Urban Co-op. Bank Ltd.|Shri Vijay Shriram Punde|https://www.khamgaonbank.in/|444303|20.6144654|76.5950555|
+|The Maharashtra State Co-op. Bank Limited|Shri Dilip Nanasaheb Dighe|http://www.mscbank.com|400001|18.9385352|72.836334|
+|The Maharashtra Urban Co-op. Banks Fed.Ltd|Smt.Sayali S Bhoir|NA|400031|19.0132891|72.8548981|
+|The Nainital Bank Ltd.|Shri Sushil Kumar Lal|http://www.nainitalbank.co.in|263001|29.3852823|79.4310052|
+|The Orissa State Co-op. Bank Limited|Dr. Uddhaba Chandra Majhi,IAS|http://www.oscb.coop|751001|20.2726685|85.8358258999999|
+|The Pochampally Co-op. Urban Bank Ltd.|Shri Seetha Srinivasan|http://www.pochampallybank.com|508284|17.3413528|78.8042828|
+|The South Indian Bank Ltd.|Shri P R Seshadri|http://www.southindianbank.com|680001|10.5192579|76.2145961|
+|The Surat People`s Co-op. Bank|Shri Amit Dilipkumar Gajjar|http://www.spcbl.com|395001|21.1807255|72.8184548|
+|The Tamil Nadu State Apex Co-op. Bank Ltd.|Shri R Elangovan|NA|600001|13.0963045|80.2865916|
+|The Thane District Central Co-op. Bank Ltd.|Shri Arun Gannu Gondhale|NA|400601|19.2010502|72.9785352999999|
+|The Urban Co-op. Bank Ltd.|MARY JOHN BAIG|http://www.urbanco-opbankctc.com|753001|20.4820045|85.8869978|
+|The Zoroastrian Co-operative Bank Limited|Shri Daljit S Dogra|http://www.zoroastrianbank.com|400030|19.0121697|72.8218627|
+|TJSB Sahakari Bank Ltd.|Mr. Nikhil Nandkumar Arekar|http://www.tjsb.co.in|400604|19.1982404|72.9490094|
+|Transunion Credit Information Bureau (India) Limited (CIBIL)|Shri Bhavesh Jain|http://www.cibil.com|400021|18.9618573|72.9268625999999|
+|Tripura Gramin Bank|NA|https://www.tripuragraminbank.org|799005|23.8456844|91.2878997999999|
+|UBS AG|Mr. Sandeep Agarwal|https://www.ubs.com|400018|18.9985145|72.8173545|
+|UCO Bank|Shri Ashwani Kumar|http://www.ucobank.com|700001|22.5736132|88.3483409|
+|Ujjivan Small Finance Bank Limited|Shri. Sanjeev Nautiyal|http://www.ujjivansfb.in|560095|12.938781|77.6206768999999|
+|Union Bank of India|Shri Asheesh Pandey|http://www.unionbankofindia.co.in|400021|18.9618573|72.9268625999999|
+|United Overseas Bank Limited|Mr. Girish Khushalani|http://www.uobgroup.com|400051|19.05961|72.8552983|
+|Unity Small Finance Bank Limited|Shri Inderjit Camotra|http://www.theunitybank.com|400098|19.0717612|72.8615426|
+|Utkarsh Small Finance Bank Limited|Shri Govind Singh|http://www.utkarsh.bank|221002|25.3356842|82.9770370999999|
+|Uttar Pradesh Gramin Bank|NA|NA|226010|26.8524588|81.0202533|
+|Uttarakhand Gramin Bank|Shri Hari Har Patnaik|http://www.uttarkhandgraminbank.com|248013|30.3584024|78.0965691|
+|UV Asset Reconstruction Company Limited|Ms. Gurpreet Kaur|https://www.uvarcl.com|110019|28.5346916|77.2601742|
+|Vasai Vikas Sahakari Bank Ltd.|Mr. Dilip Yashwant Thakur|NA|401201|19.3695262|72.7865518|
+|Visa Consolidated Support Services India Pvt. Ltd. (VCSSI)|Shri Sandeep Ghosh|http://www.visa.co.in|400051|19.05961|72.8552983|
+|West Bangal Grameen Bank|Alok Kumar Goel|NA|742101|24.0868075|88.2513609|
+|Woori Bank|Mr. Pil Bok Lee|http://www.wooribank.com|400030|19.0121697|72.8218627|
+|Yes Bank Limited|Shri Prashant Kumar|http://www.yesbank.in|400055|19.0803885|72.8468571|

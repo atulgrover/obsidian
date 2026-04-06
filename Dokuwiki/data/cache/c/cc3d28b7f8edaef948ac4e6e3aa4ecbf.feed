@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://www.resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar - professionals:process_forms:prepack_process</title>
+        <description>Digital Agents for IBC Processes</description>
+        <link>https://www.resolutionbazaar.com/</link>
+        <image rdf:resource="https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-04-22T19:14:57+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p01&amp;rev=1745252228&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p02&amp;rev=1745252241&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p03&amp;rev=1745252256&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p04&amp;rev=1745252269&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p05&amp;rev=1745252281&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p06&amp;rev=1745252293&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p07&amp;rev=1745252308&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p08&amp;rev=1745252320&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p09&amp;rev=1745252332&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p10&amp;rev=1745252347&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p11&amp;rev=1745252362&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p12&amp;rev=1745252384&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p13&amp;rev=1745252400&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p14&amp;rev=1745252414&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://www.resolutionbazaar.com/</link>
+        <url>https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p01&amp;rev=1745252228&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:17:08+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p01</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p01&amp;rev=1745252228&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P01</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p02&amp;rev=1745252241&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:17:21+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p02</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p02&amp;rev=1745252241&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P02</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p03&amp;rev=1745252256&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:17:36+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p03</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p03&amp;rev=1745252256&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P03</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p04&amp;rev=1745252269&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:17:49+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p04</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p04&amp;rev=1745252269&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P04</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p05&amp;rev=1745252281&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:18:01+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p05</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p05&amp;rev=1745252281&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P05</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p06&amp;rev=1745252293&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:18:13+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p06</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p06&amp;rev=1745252293&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P06</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p07&amp;rev=1745252308&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:18:28+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p07</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p07&amp;rev=1745252308&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P07</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p08&amp;rev=1745252320&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:18:40+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p08</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p08&amp;rev=1745252320&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P08</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p09&amp;rev=1745252332&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:18:52+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p09</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p09&amp;rev=1745252332&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P09</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p10&amp;rev=1745252347&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:19:07+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p10</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p10&amp;rev=1745252347&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P10</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p11&amp;rev=1745252362&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:19:22+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p11</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p11&amp;rev=1745252362&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P11</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p12&amp;rev=1745252384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:19:44+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p12</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p12&amp;rev=1745252384&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P12</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p13&amp;rev=1745252400&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:20:00+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p13</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p13&amp;rev=1745252400&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P13</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p14&amp;rev=1745252414&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:20:14+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ppirp_form_p14</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:prepack_process:ppirp_form_p14&amp;rev=1745252414&amp;do=diff</link>
+        <description>PRE-PACK Insolvency (Resolution) Form P14</description>
+    </item>
+</rdf:RDF>

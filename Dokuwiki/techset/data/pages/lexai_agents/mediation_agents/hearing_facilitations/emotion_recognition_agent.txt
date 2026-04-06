@@ -1,0 +1,7 @@
+2. Emotion Recognition Agent
+
+The Emotion Recognition Agent analyzes participants’ verbal and non-verbal cues—such as tone, pace, and language patterns—to infer emotional states during mediation or hearing sessions. It identifies signs of frustration, cooperation, or resistance, helping mediators tailor their approach dynamically.
+
+By detecting stress or disengagement, the agent enables timely interventions—like pauses, caucuses, or reframing—to prevent escalation. In virtual settings, it can integrate with video or audio inputs to offer emotional trend analytics across sessions.
+
+Its emotion-tracking dashboard provides mediators with valuable insights into party behavior, assisting them in maintaining a balanced, empathetic, and outcome-oriented negotiation environment. This contributes to improved rapport and higher settlement probability.

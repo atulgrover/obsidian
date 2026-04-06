@@ -1,0 +1,235 @@
+<html>
+<p>
+	<div>
+		<h1>
+			Whether a foreign award is sufficient to initiate insolvency proceedings against the Corporate Debtor under the Insolvency and Bankruptcy Code, 2016 &ndash; Jaldhi Overseas Pte. Ltd. Vs. Steer overseas Pvt. Ltd. &ndash; NCLT Cuttack Bench
+		</h1>
+		<div>
+			November 28, 2021
+		</div>
+		<p>
+			The question involved in this case is whether a foreign award is sufficient to initiate insolvency proceedings against the Corporate Debtor under the Insolvency and Bankruptcy Code, 2016. The Adjudicating Authority referred Government of India vs. Vedanta Limited 2020 SCC online SC 749 judgment and held that the foreign award in not a decree in itself. A foreign award cannot directly constitute debt to initiate proceedings against Corporate Debtor under IBC. The mere production of foreign award is not enough to give an effect. Part II Chapter I of Arbitration and Conciliation Act 1996 deals with enforcement of foreign awards in India. As per per explanation to Section 47, 'the court' mentioned therein denotes only High Courts.
+		</p>
+	</div>
+</p>
+<div>
+	<div>
+		<div>
+			<p>
+				<div>
+					<div>
+						<p>
+							<strong>
+								I. Case Reference
+							</strong>
+						</p>
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										Case Citation
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										(2021)  249 NCLT
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Case Name
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Jaldhi Overseas Pte. Ltd. Vs. Steer overseas Pvt. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Operational Creditor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Jaldhi Overseas Pte. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Corporate Debtor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Steer overseas Pvt. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Appeal No.
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										TP No. 18/CTB/2019 Connected with CP (IB) No. 1374/KB/2018
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Judgment Date
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										17-Nov-21
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Court/Bench
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										NCLT Cuttack Bench
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Act
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Insolvency &amp; Bankruptcy Code 2016
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Judicial)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Shri P. Mohan Raj
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Technical)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Shri Satya Ranjan Prasad
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Original Judgment
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										<strong>
+											Download
+										</strong>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<p>
+							<strong>
+								II. Brief about the decision
+							</strong>
+						</p>
+						<p>
+							<em>
+								<strong>
+									Facts of the case
+								</strong>
+							</em>
+						</p>
+						<p>
+							The Applicant/Operational Creditor Jaldhi Overseas Pvt Ltd, has been incorporated and organized under the appropriate laws of Singapore. This application has been filed under p 9 of the Code for initiation of CIRP in the case of the respondent, Steer Overseas Private Limited (Respondent/Corporate debtor, registered under the relevant provisions of the companies Act).&nbsp;The claim of the operational creditor is based on a foreign award. The award was passed by arbitral tribunal based in Singapore on 20th January, 2017 in favor of the operational creditor. The operational creditor thereafter applied before the High Court of the Republic of Singapore for leave of the court to enforce the award which was duly accepted and allowed by the High court of Singapore, by judgment dated December 1,2017 after rejecting objections raised by the corporate debtor.
+						</p>
+						<p>
+							The corporate debtor has raised the following objections in his submissions. Firstly, enforcement of foreign award through NCLT is impermissible. Secondly, CIRP cannot be initiated on the basis of a foreign award, Thirdly, NCLT is not a civil court, nor an executing court. Fourthly, there is a pre-existing dispute between both the parties. Fifthly, the petition is not maintainable because the claim is not an &ldquo;operational debt&rdquo;.
+						</p>
+						<p>
+							<em>
+								<strong>
+									Decision of the Adjudicating Authority
+								</strong>
+							</em>
+						</p>
+						<p>
+							The Adjudicating Authority held that:
+						</p>
+						<ul>
+							<li>
+								The question involved in this case is whether a foreign award is sufficient to initiate insolvency proceedings against the Corporate Debtor under the Insolvency and Bankruptcy Code, 2016. The foreign award is quite different from domestic award. Unlike a domestic award, a foreign award has to undergo certain test to become enforceable award/deemed decree. The position of foreign award is settled by Apex Court in
+								<em>
+									<strong>
+										&nbsp;Government of India vs. Vedanta Limited 2020 SCC online SC 749
+									</strong>
+								</em>
+								&nbsp;follows: &ndash;
+							</li>
+						</ul>
+						<p>
+							<em>
+								&ldquo;&hellip; a foreign award does not become a &ldquo;foreign decree&rdquo; at any stage of the proceedings. The foreign award is enforced as a deemed decree of the Indian Court which has adjudicated upon the petition filed under Section 47, and the objections raised under Section 48 by the party which is resisting enforcement of the award. A foreign award is not a decree by itself, which is executable as such under Section 49 of the Act. The enforcement of the foreign award takes place only after the court is satisfied that the foreign award is enforceable under Chapter 1 in Part II of the 1996 Act. After the stages of Sections 47 and 48 are completed, the award becomes enforceable as a deemed decree, as provided by Section 49. The phrase &ldquo;that court&rdquo; refers to the Indian court which has adjudicated on the petition filed under Section 47, and the application under Section 48&Prime;.
+							</em>
+							<strong>
+								(p9-10)
+							</strong>
+						</p>
+						<ul>
+							<li>
+								<strong>
+									The foreign award in not a decree in itself. A foreign award cannot directly constitute debt to initiate proceedings against Corporate Debtor under IBC. The mere production of foreign award is not enough to give an effect. Part II Chapter I of Arbitration and Conciliation Act 1996 deals with enforcement of foreign awards in India. As per per explanation to Section 47, &lsquo;the court&rsquo; mentioned therein denotes only High Courts.(p11)
+								</strong>
+							</li>
+							<li>
+								<strong>
+									It is clear from the above provisions High Courts alone has exclusive jurisdiction to deal with foreign awards to enforce foreign awards.
+								</strong>
+								&nbsp;
+								<strong>
+									To enforce foreign award in India the party in who&rsquo;s favor award stands shall file the documents referred in Section 47 (1) and (2) of Arbitration and Conciliation Act 1996. The enforcement of foreign award in India is subjective satisfaction of concern High Court to the conditions set out in Section 48 of the Act. After the satisfaction of High Court only the foreign award become enforceable, then only the award shall be deemed to be a decree as per Section 49 of the Arbitration and Conciliation Act,1996.(p12)
+								</strong>
+							</li>
+							<li>
+								The above provision of law made it clear that High Court only has exclusive jurisdiction to deal with foreign award and give effect to the same. In the given situation this Tribunal cannot act upon the foreign award under the presumption that there is undisputed debt amount is due, such an exercise will amounts to give an effect to foreign award bye passing/violating the procedures laid down in Part II Chapter I of Arbitration and Conciliation Act,1996.&nbsp;In similar situation in&nbsp;
+								<em>
+									<strong>
+										Usha Holdings LCC &amp; Anr Vs. Francorp Advisors Pvt. Ltd.&nbsp;
+									</strong>
+									[2018]  115 NCLAT.
+								</em>
+								&nbsp;In view of the above, this application ought to be rejected and accordingly Dismissed. No order to cost.
+								<strong>
+									(p13-15)
+								</strong>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</p>
+		</div>
+	</div>
+</div>
+</html>

@@ -1,0 +1,19 @@
+  * Download tar
+    * tar -czvf rag storage.tar.gz .
+    * python3 -m http.server 8080
+    * http://xxx.xxx.107.100:8080/rag_storage.tar.gz
+
+  * Upload tar
+    * scp C:\Users\DELL\Downloads\dist7.zip root@143.110.244.230:/var/www/apnet.co.in
+    * @#Th12z
+
+  * cd /var/www/resolutionbazaar.com
+  * cp dist7.zip ./backup
+  * rm -r assets leaflet && cp -r dist/* . && ls -l
+
+
+  * systemctl reload nginx
+  * systemctl status nginx
+  * nginx -t
+
+

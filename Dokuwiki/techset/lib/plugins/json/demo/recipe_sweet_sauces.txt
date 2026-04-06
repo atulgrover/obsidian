@@ -1,0 +1,28 @@
+====== Recipes for Sweet sauces ======
+
+
+<json id=caramel path=[] display=all>
+{
+  "name": "Caramel sauce",
+  "type": "sweet sauce",
+  "Ingredients": {
+    "sugar": "200 g",
+    "water": "2 spoons",
+    "cream": "250 ml"
+  }
+}
+</json>
+
+
+<json id=ganache path=[] display=all>
+{
+  "name": "Ganache",
+  "type": "sweet sauce",
+  "Ingredients": {
+    "chocolate": "250 g",
+    "cream": "250 ml"
+  }
+}
+</json>
+
+Here are recipes for %$0.name% and %$1.name%. Please view source for raw JSON data inside the page.

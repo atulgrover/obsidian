@@ -1,0 +1,536 @@
+# Analysis of Judicial Pronouncements on PUFE
+![](https://img.youtube.com/vi/vqvmAidUvB0/hqdefault.jpg)
+4 months ago (Feb 28, 2024) — 1:09:34
+[https://youtube.com/watch?v=vqvmAidUvB0](https://youtube.com/watch?v=vqvmAidUvB0)
+
+
+## Summary
+In this webinar, the speaker discusses the judicial pronouncements on avoidance transactions, specifically focusing on Section 43 (preferential transactions) of the Insolvency and Bankruptcy Code (IBC). The speaker highlights a Supreme Court judgment, Anu Jan vs. Axis Bank, which outlines five parameters for a transaction to be considered preferential: (1) transfer of property to a creditor, surety, or guarantor, (2) on account of an antecedent financial debt, (3) resulting in a beneficial position for the creditor, (4) not excluded by Section 43's ordinary course of business clause, and (5) within the specified look-back period (two years for related parties, one year for unrelated parties). The speaker also delves into the concept of 'ordinary course of business' and the look-back period's relevance, citing the Downs Distributing Company vs. Associated Blue Star Stones case. Additionally, the speaker touches upon the intent of the corporate debtor, emphasizing that the transaction's voluntary nature or duress is irrelevant once it has occurred. The webinar also references the Din Rayan Udyog Private Limited vs. Puja Bari case, which upheld the notion that the dominant motive of the corporate debtor is not significant in Section 43 cases. The speaker further illustrates various transactions held as Section 43 transactions, such as receiving money from a debtor in a director's personal account or selling a company car at an undervalued price during the insolvency process.
+
+## AAA Weekly webinar Series: Namaste, good morning, welcome to 96th episode of AAA
+0:46
+Namaste, good morning, welcome to 96th episode of AAA weekly webinar Series. Today I'm conducting this webinar Al alone, as anit is traveling overseas and he is presently not in a position to join. 
+
+1:07
+So we are deliberating on the various judicial pronouncements on buet or avoidance transactions, because there are about 60 or 70 judgments that we have seen so far, some maybe one or two from Supreme Court, and then about 10 judgments from the appet authority and then various other judgments from. The adjudicating Authority. So the subject has caught up. 
+
+1:37
+The decisions are coming and there is a focus on finally recovering the amount from those who actually have made some fraud or made some errors in the process. So as per the policy, we are not now presenting our ppts. we are would be speaking and that actually will become more interactive. 
+
+
+## 97th webinar on buet, avoidance, judicial pronouncement
+2:04
+We also would love to have questions and I will be taking questions also after I finish one subject and then we move on to the other subject. In between we will be taking questions also. 
+
+2:18
+So like see very clearly we announced that we will collate our research team will collate all the judgments on buet or normally called avoidance transactions, as per section 43,45.49,50 and 66, and we had done that but in between in the last episode, we immediately we urgently had to shift to the five regulations announced by ibbi and two circulars, and we conducted the last webinar on that. 
+
+3:01
+So today we are starting with the part one, because the judgments are so many that we will do this in two webinars. one is the today's webinar and the other will be 97th webinar and that would be that would be on the judicial pronouncement where different type of transactions are held to be a kind of preferential or undervalued or fraud. 
+
+
+## JP infratech Limited vs AIS Bank Judgment -
+3:30
+So starting with the, we will start with Section 43, which is referential transactions and for Trans for preferential transactions. We have taken out those parts of the Judgment, which is the Judgment of Anu Jan, the resolution professional of JP infratech limited versus AIS Bank. This is a supreme court judgment dated 26th February 2020, and out of this judgment we have only taken out. 
+
+3:58
+We have only taken out those issues which are discussed in this judgment and we will deliberate on those issues. in fact, the very brief facts of this case is that the company which is the Jill J JP infratech Limited, in fact created a morgage, created a mortgage in favor of the lenders and that was to secure the loan given to JP associate, which is more commonly known as Jal. 
+
+4:35
+So basically, this is it's this is a story of Gill and Jal. So in this case, the that mortgage was held to be a preferential transaction under Section 43 in the case of corporate data JP infr Tech limited, because the land was owned by JP infratech limited and it was mortgage to financial institutions for giving Advanced or securing the existing loans to JP J prash Associates limited. 
+
+
+## 
+5:10
+So this was the this was the Judgment that we are talking about. So various issues in fact have been discussed in this judgment. So for Section 43, honorable Supreme Court has said that there are five parameters that needs to be satisfied before a transaction is held to be covered under Section 43 of the code. Five parameters. So let us discuss what are these five parameters. 
+
+5:39
+One parameter is whether such transfer is for the benefit of a creditor or a shity or a grunter. First of all, the transaction or transfer. The first condition is that there must be a transfer of asset transfer of property. So in the in the in the 19,24th Episode, we actually have defined the definition of property. However, we are not going to repeat it today. 
+
+6:07
+So the transfer of property has to be to a creditor or a shity or a grunter, then the transfer must be on account of an antecedent financial debt or any debt. Financial debt is not important antecedent debt, so antecedent means existing debt, it may be Financial or operational, or any other liabilities of the corporate de. 
+
+
+## 
+6:34
+Then the third parameter is whether such transfer of property has the effect of putting such creditor or shity or grunter in a beneficial position. Then it would have been in the event of distribution of assets under section 53. So in case, just by doing this transfer of property, we are extending him benefit. Had that person not been given that priority or that property, then he would have been lower in the priority. 
+
+7:14
+So he has actually gain. He has gained a preference. now, then the. The fifth parameter that we have to see is whether such transfer is not excluded in terms of section three of section 43. That means the ordinary course of business. 
+
+7:36
+If that transaction is under ordinary course of business, then it cannot be classified as a transaction avoid avoidance transaction or avoidable transaction under Section 43. So that is the again one of the parameter, which is the fourth parameter. 
+
+
+## 
+7:53
+The fifth parameter is the if the transfer has been transfer of the properties to the related party, then it should have been done within two years, and if it has been to a unrelated party, then the transaction must take place within one year. So these are the five parameters. So we actually have to see the other issues discussed in this in this judgment. now coming to. 
+
+8:22
+The next issue was discussed in this judgment was look back period. The look back period for Section 43 or section 43 was considered to be a primary parameter. It cannot be considered as retrospective and it is a direct relevance of time and it has to be precisely as per the dates. 
+
+8:45
+No one can say about the intent started before or a Twilight Zone, which normally we see in section 66 or section 49. So even the concept of twilight zone is also not to be pushed in section 43. Then the matter which has been discussed at length is the what is ordinary course of business, where the transactions are exempt. 
+
+
+## 
+9:12
+If a transaction has been done under or as a ordinary course of business, then that transaction cannot be classified as a transaction under Section 43. so this concept. Honorable Supreme Court has said that this concept was discussed in a long back in the case of downs Distributing Company versus associated Blue Star Stones, where it has been held by a single line, and that line is very important. That line says a transaction that falls into place. 
+
+9:43
+A transaction that falls into place as part of the undistinguished common flow business done, undistinguished common flow of business which is being done by the corporate data. That transaction should be undistinguished. It should not look alone. It should be merger of various transaction and it should merge in other transaction. It should not look alone. 
+
+10:09
+So in case we are making a payment to a particular Standalone creditor who actually is an old creditor and then we are actually giving a preference to him. However, in case the company is a going concern and every month we are purchasing and every month we are making payment, that would be the ordinary course of business. 
+
+
+## 
+10:29
+However, an old creditor, even if a creditor if being paid now during the look back period, Then it is not ordinary course of business. Even the court The Honorable Supreme Court said that creating a mortgage is not an ordinary course of business. Lending is not an ordinary course of business. So therefore creating a mortgage or Lending is not an ordinary course of business. That is very important understanding. 
+
+11:06
+In section 43, subsection 3, there's a word used that it should be an, or it should not have been, the ordinary course of business for the corporate dator or transfery transfer is the person to whom some property has been transferred and the corporate data. 
+
+11:25
+Now this honorable Supreme Court says that this world four should be interpreted as and because it may be possible that for the other party, the mortgaging or lending may be a ordinary course of business, but it has to be ordinary course of business for both. It should be an ordinary course of business for corporate dator as well as for the transfery primarily. 
+
+
+## 
+11:56
+Again, the court said that Prim arily it should be the ordinary course of business for corporate data. That is what satisfies the section 43, subsection two of the code. so this judgment, in fact, is very important for all the avoidance transactions, and I definitely see that there is a lot of value of this judgment, which is Anu Jan Jud now going forward, going forward. 
+
+12:32
+The other concept which has been discussed in this particular case was the that is the intent of the corporate data. Now, in case the corpor dator argues that the transaction was not done voluntarily or the transaction was done under a pressure or the transaction was done under a threat, the court says that it has got no relevance whether the transfer, whether the transfer of the property, was done voluntarily or under stress or under pressure or under a threat. That is not relevance. Once the transaction has happened, it is the statutory deeming fiction. 
+
+13:19
+It is a statutory deeming fiction that the transaction will be considered as a transaction under Section 43. The conclusion is that the transfer is a preference. The antecedent creditor has actually got some priority. That is the only thing. Whether this particular transaction was done under a duress, that is not relevant. 
+
+
+## 
+13:42
+So the transaction will still be considered as a transaction under Section 43. So the magees created in favor of the related parties is also a preference transaction, see like the. In fact, the Supreme Court has also decided. The Supreme Court has also decided another case, which is a case when this case went to and Supreme Court. 
+
+14:16
+The citation of this case was din rayan udyog private limited versus Puja Bari, and this is a judgment from honorable Supreme Court of India in July 23. in this judgment. The Judgment of enet was upheld. Briefly, so let us understand what was the Judgment of enat. Now the Judgment of enat was having a title as gvr Consulting Services private limited versus pujabi. That was the title of the encl Judgment. 
+
+14:51
+So the issue in this case was the whether the any kind of reference or weight would be given to the dominant motive of the corporate data in a transaction while deciding section 43 or any other section. So in the case of section 43, it was held that there is no weight which can be given to the dominant motive. The dominant motive is not important. 
+
+
+## 
+15:20
+The intent of the corporate data is not important whether it is voluntarily or it is not voluntary. It is not important. It is only a kind of statutory fiction. it is a applicability of law within the look back period. A transaction have taken place and transaction is not an ordinary course of business transaction. 
+
+15:41
+That transaction definitely will fall under Section 43. So even if in some cases, even if in some cases, some money has been arranged from the relatives, some money has been arranged from the associate concerns and it has been paid to other people, some money has been arranged and it has been paid to the other people that also. These are two are different transaction. 
+
+16:06
+The money arranged from relatives and other Parties by the corporate dator cannot be held to be part of an ordinary course of business. It cannot be part of the ordinary course of business that it is a business that we receive the money and then we pay. we receive the money and then we pay. This is not receiving money is not ordinary course of business. 
+
+
+## 
+16:26
+Similarly, paying back to the same party is also not an ordinary course of business. So therefore, in most of the cases, the promoters are saying that if we have paid to unsecured loans of the family, we have also taken unsecured loans from other companies. We have also raised money to make this payment. 
+
+16:47
+So that is also not relevant, because taking money from relatives, taking loan from relatives, is not a transaction which can be classified as ordinary course of business, and making payment out of the same funds which has been raised by the promoters, making payment to other parties also cannot be considered as ordinary course of business. 
+
+17:09
+If it is made to a party which is a regular supplier, then it can be, but then the raising loan is not something which is an ordinary course of business. Now there are many kind of transactions that we have listed, many kind of transactions that we have listed, which are held to be section 43 transactions. We will refer the transactions one by one and also where it has been referred. We will show you the. 
+
+
+## 
+17:42
+We will actually let you know the citation of the Judgment. We will speak the citation twice, but the transaction will be explained in a very, very common language. Now one of the transaction which has been held as 43 transaction in the case of pandur ramchandra shind, the suspended director of the company pandur on pandurang ramchandra shind versus vendra Kumar Jan. this is a case where the corporate dat was cyclo transmission limited. 
+
+18:29
+It's a from appet Authority New Delhi and in this particular case the transaction was that the amount which was recoverable by the corporate data from any person. It was receivable or it was rece received. Then that money was received from that dator in the personal account of the director. 
+
+18:58
+Money was received from that person in the personal account of the director and it was considered in the books of account that this money was received by the director against unsecured loans or against any other liability, even, for example, even salary payable type. So there was a liability towards director and there was a deor in the company. So the money was received from the deor directly in the account of the that director. 
+
+
+## 
+19:31
+So this was held to be a preference transaction because the asset of the company, which is the receivable, that is a property of the company, which is covered under the definition as actionable claims. Actionable claim is covered in the definition of property receivable is an actionable claim. Money was received from the property and that was deposited in the personal account of the director. It is a preference transaction and this particular judgment was upheld by encl. 
+
+20:11
+Originally nclt also said that it is a judgment, but it was also. The second transaction in this particular case was that the director in fact sold the car. the director sold the car after the initiation of CP, after the initiation, in fact when this case actually went up to encl. When this case went up to Enad, in fact the enat also added an enat also added further few things into this. 
+
+20:47
+Now what exactly the anlat said again that case when it went to the ancl. The citation of this judgment was pandurang ramachandra shind versus jindra Kumar Jan resolution professional and in this case the NT said that the sale of car after the initiation of cirp. This of course that will be considered as undervalued because the value of the car was much more than what for it was sold. 
+
+
+## 
+21:15
+And also and also in this case, the in and the appet authori said that the suspended director is not only guilty of contaning the moratorium regarding the sale of car. The enat said that it is not simply a contravention of moratorium and punishable under Section 74 with action with fine as well as imprisonment. 
+
+21:48
+It also would be considered as a misconduct during the course of the cirp, and that particular suspended director should be punishable under Section 70 within imprisonment and fine. This is what the total judgment where the sale of the car, as well as the sale of the, as well as receiving the money from a deor in the personal account of the director. So this is very important. 
+
+22:22
+Where the enat has enat has held that this is also kind of liable for prosecution. Moving to the next transaction which we have seen in the case of ashik Punam parat. Ashik Punam parat versus viben vincet versus viben vincet, the Liquidator of poeno Auto. This is also a judgment from. The appet Authority. 
+
+
+## 
+23:02
+This is a judgment of this is this is a judgment where the biben vinet is an associate partner of triaa insolvency and this is where the tripa insolvency have worked on this judgment and on this case. Now the this was held in this case that the there was a transfer of property. 
+
+23:27
+There was a transfer of property means transfer of funds and it was not sure and it was not explained what is the purpose of transfer of those funds. Now in this case the NT in fact mean NT went to the extent that if the corporate data has given some money to someone during the look back period and the reasons are not know known why this money has been given, the NT said that it can be considered as it has been paid against an nctd debt. That mean there must be something which is owed to the corporator has owed some money to that person. 
+
+24:16
+Since the Assumption has been that the money has been paid. Reasons are not explainable why the money has been paid. That means there should be some debt of the corporate data. that means it was paid to a person, to a to an antecedent debt, to an antecedent creditor, and it will be considered as section 43 transaction and it has to be recoverable from the person who's received it. 
+
+
+## 
+24:42
+So and the other way could have been that the money had been given to someone without any reason, although it is loan and it can also fall into section 66 that the money was, it was being kept away from the creditors. So that actually could have been done under Section 66 as well, because see the there has been a transfer. 
+
+25:09
+There has been a transfer, so the section 49 also could have been possible in this case. but then this particular assumption that the if the money has been paid to a person who is not having any debt or in the company, so that assumption that there may be some money payable to this person by the corporate data so it can be assumed that person would be an antecedent creditor. 
+
+25:38
+Therefore it actually can be held as section 43 transaction. So very clearly the transactions one by one. We are trying to explain. Once I finish the transactions under Section 43, then I will take the uh questions. 
+
+
+## 
+26:00
+Let me finish the transactions under Section 43, although there are many transactions under Section 43. I move on to another transaction where a property was offered to an operational creditor, and that property and this judgment is usal Traders versus TV Bala subra Manan kushal Traders versus TV balas subaman. The resolution professional of sholingur textiles limited. Sholingur textiles limited, and this judgment is from encl Chennai. 
+
+26:45
+Now in this case, in fact, this particular judgment was also upheld by honorable Supreme Court. So this judgment was also upheld by honorable Supreme Court and in this case is the corporate deor in fact sold a property to a creditor. In fact, it was a case of a land and the land was sold to a creditor and the existing liability was set off. Existing liability was set off in this case. 
+
+27:15
+The NT passed the Judgment again depending upon based on the Anu judgment and then finally the in the appeal then see the it was held by NC L, which was upheld by Supreme Court, that the RP needed to see whether the property belongs to the corporate dator or not. So it was found that the property belonged to the corporate dator. So therefore the it was. 
+
+
+## 
+27:41
+There is no dispute that the property was owned by the corpor DAT. Then, after seeing the judge the various documents, the bench was of the view that the transaction entered into between the applant and the CD by executing a sale deed certainly prejudiced the interest of other creditors who have precedence about the claim being settled ahead of the applant. therefore this actually will become the transaction of preferential nature, transaction of preferential nature. 
+
+28:12
+So this is something which is again very important judgment where the properties are being transferred to such creditors. Now, in another judgment, in another judgment, the citation is om Logistics limited, om Logistics limited versus serval India private limited. This judgment is from adjudicating Authority New Delhi. Now, in this case, the transaction have taken place. Now it was said that this there were some vehicles in the company, maybe luxury cars. Those vehicles in fact it was. 
+
+29:06
+It was told to the RP that these vehicles were in fact sold much before the two years prior to the commencement of cirp. However, the promoters could not adduce any evidence. Promoters could not adduce any evidences about the date of such transfer of the asset. they could not give the any evidence of the payment. They could not give any evidence of the transfer of name in the registration Authority. 
+
+
+## 
+29:46
+So then it was held by NT that in case of no evidence regarding the date of transaction, then it will be considered as the transaction which has taken place during the look back period. Because they could not give any evidence that the transaction has taken place prior to the look back period. 
+
+30:08
+So this was also very important that if there is no evidence of a transaction, there is no recording that will be considered as the transaction taken place in the look back period. And another judgment in the case of Sahara India versus nand Kishore Vishnu pant Deshpande, nand Kishore Vishnu pant Deshpande, again a judgment from adjudicating Authority Mumbai. so in this case the originally there was an mou. 
+
+30:49
+There was an mou entered into between the company and between the between another party and then, when this look back period that was in that look back period, this AMU was replaced with a loan agreement and this is again considered to be a Novation of a contract during the look back period. Novation of a contract during the look back period where the terms of the contract was changed and it was beneficial to the Creditor. 
+
+
+## 
+31:28
+The person was a creditor. He had given the advance to the corporate data for some purchases. However, that Advance was converted into a loan so that to give the better priority to that person. So this was also considered to be a preferential transaction because change in the terms and condition. 
+
+31:54
+Novation of the contract during look back period, where the terms have been altered to improve his category under section 53. That will be considered as a preference transaction. So therefore an innovation. Again. The basis of this judgment was also Anu Jan. Now there is another judgment which, to my understanding, is slightly, maybe some contradiction. Now, in this case, the transaction is transfer of stock without any payment being received in return. 
+
+32:40
+It actually cannot be considered as a transaction in the ordinary course of business. The title of the transaction is title of the case is ram ratan canono versus Sunil katua. That is again a judgment from adjudicating Authority Mumbai. In this case, in fact, the stock of the company was transferred. Stock of the company was transferred, means sold, but no payment was received. no payment was received. So it was held. 
+
+
+## 
+33:10
+It was held that under Section 43 the transaction is a preferential transaction and by preferring, by exercising the power under the nclt, under the to the adjudicating authority under Section 44, the respondents to pay such sums in respect of the benefits received by them from the corit dator. That means recovery only. 
+
+33:35
+That means recovery only, I feel, when a stock is transferred or sold to a person during the look back period and no payment is received. That also can be covered under Section 66, because the transaction has been done by the promoters without any due diligence. The due diligence also can be proved by the profile of the, by the profile of the party to whom the stock has been sold. 
+
+34:13
+In one of my case where in one of my case where 800 crores of stock was sold by the corporate dat to four individuals or proprietorship concerns and nothing was received from them. 
+
+
+## 
+34:31
+800 crores of stocks were sold to four individuals and nothing was received from them and the profile of those four people to whom the corporate deor extended a credit of about 200 CR each with no payment received and one by one the supplies are going every day the one truck is going every day the multiple trucks of the stocks are going. 
+
+35:00
+It is a fraudulent transaction, according to me, because in case we get an order to get to recover money from like this, in case of this order, which is the ram ratan canun Go's order, in case we try to recover that money because that the promoters know that they are only selling to some individuals having no profile, and those four individuals they are when we Tred to meet them they live in Charles. 
+
+35:28
+They were working as PN somewhere. So this was a fraudulent transaction where the entire stock of the company was transferred to those kind of dummy profiles having no Financial strength, having no established business, having no established office, and their profile is just like pans or drivers. The. This particular judgment, according to me, also can be covered as section 66, because see the stock was transferred. 
+
+
+## 
+36:07
+Everything was siphoned off by the promoters and it is absolutely a case of 66 where the total property of the company was kept away from the creditors. Had that stock been there in the books, had that stock been there in the premises would have been taken over by the RP would have been sold and the money would have gone to the creditors. So to keep that money, to keep that stock away from the creditors. 
+
+36:34
+This was being done. So, therefore I also argued myself before the Honorable in. Of course we are still waiting for the Judgment. We argued that in the books of account the stock is there. It is audited by the statutory Auditors and it is a verification of the stock has been also done. there is no qualification on the verification of the stocks by the by the statutary Auditors, the promoters have also signed the balance sheet. 
+
+37:02
+That means acknowledging that all these facts are also authentic. The stock statements were submitted to the banks and the against this stock, the company had taken the drawing power and had availed the loans. The stock statement was also verified by the Banks Bank officers and they also verified that the stock was there. Stock audit was conducted by the stock Auditors where the stock Auditors were appointed by the financial creditors secured Financial creditors. 
+
+
+## 
+37:29
+Stock Auditors also confirmed that the stock was there. now suddenly, when everyone was confirming, including the promoters by giving a stock statement. Then, as an RP, I had to believe that there was a stock and those were sold to dummy parties and in fact that stock was siphoned off. Stock was siphoned off and sold in the open market and that money was taken away by the promoters. That is the application which is pending. 
+
+37:57
+I'm only trying to. I'm only waiting for the Judgment. But in this case, when we in now suppose that this, if I'm talking about that particular case, in case the adjudicating authority gives me an order that this 800 CR is still recoverable from those four parties and this money should be recovered from them like this, in case I get this similar order, that would have no meaning with me. 
+
+38:21
+That would have no meaning for the creditors because that money would not be recoverable from those four entities because those four entities are having no net worth or no asset. Therefore this kind of transaction should be covered under Section 66 and the contribution should be required from the promoters and then the decree, the then the execution of those kind of decrees also would be possible through NT. 
+
+
+## 
+38:53
+So going forward couple of more transactions under Section 43. Then I will take questions when security is trust, when a security interest is registered in the register of before the register of companies in the register of charges during the look back period, this will be considered as the date of the transaction. this is the. This is a judgment in the case of alib Burton. 
+
+39:22
+Alib Burton offshore Services Incorporated versus marketer petroleums limited, again a judgment from adjudicating Authority Mumbai. In this case, the security interest was created during the look back period. However, it was contended by the applicant. It was contended by them that this particular charge was created much before. However, the registration of the charge was done during the look back period, so the. The adjudicating Authority has rightly held that it is for the public at large. 
+
+40:00
+Section 77 of the company Act is very important, and in case the registration of the charge is entered into the register of charges before the RC regist of companies, then that will be the date of the transaction on which the mortgage is created, because the creating mortgage is also one of the preference. 
+
+
+## 
+40:22
+Therefore, this creation of mortgage will be considered as the transaction under Section 43. So now another case, which is again a very famous case of jages kter. In the case of carnation Auto India private limited. Jagdish kter was earlier, I believe, SE MD of the maruti. So he started his own company called Carnation Auto India private limited. So in this case the transactions have happened multiple transaction. 
+
+40:54
+One transaction was the sale of fixed asset without return permission of the secured Financial creditors. the sale was made at an undervalued amount from the original price of the acquisition, the sale of fixed asset without return permission of the lenders. The citation of the case. Citation name is arind gar arind Gar Liquidator of carnation Auto India private limited versus jages kter. This is again an enet judgment, enet New Delhi and again Beauty judgment and the. 
+
+41:28
+The facts are like the all the assets are charged to Punjab National Bank and the Liquidator filed an application and the nclt dismissed the same. The Liquidator filed an appeal before meanwhile the bench. So now in this case why this application was dismissed by NT application was dismissed by NT because in this case the director, the the promoter, was deceased. The promoter died. 
+
+
+## 
+41:57
+So the basic issue which was handled by nclat in New Delhi in this case, whether the action can be taken against a demised director. Then, in this case, it was basically held that in such cases the legal representative of the deceased must be made as party to the application. Then the legal representative was also defined, since the definition of legal representative was not available in the code. 
+
+42:32
+So therefore this judgment was taken from the civil procedure code. Section two, subsection 11 was found, where the legal representative definition was given. Now let us see what this section says. 
+
+42:45
+It says a person who in who in law represents the estate of a deceased person and include first part is that a who, a person who represents the estate of the deceased person and include any person who interm medals with the estate of the deceased and where a party sues or it sued in a representative character, the person on whom the estate devolve on death of a party or suing or sued. 
+
+
+## 
+43:23
+So the estate gets devolved under the Hindu succession act. The estate gets devolved in this particular case under the Hindu succession act, Section 8 of the Hindu succession act and in the very first line class one of the air, the class one of the air, the wife of the deceased promoter was considered to be the legal representative. 
+
+43:51
+So the basic judgment in this case was that the wife of the promoter should be made as respondent or a party to this application, and the Liberty was granted to file a fresh. So. 
+
+44:05
+Therefore, in case the promoters, in case any promoter is demised, then in that case it is also important that we should look into the legal Representatives as per the definition which is provided in section two, subsection one of the civil procedure code, and also taking help of the Hindu succession act. 
+
+
+## 
+44:27
+Section 8 also is important because the devolving the where the estate would be devolved, the estate would be devolved on the on the Hindu succession act or in case there is any will, that also becomes the estate representative. Going to the another judgment, which is the citation of the judgment is I believe today we will be able to cover section 43. The citation is Chan Tia. Chan Tia versus J vinod Valia. 
+
+45:10
+Chan Tia versus J vinod Valia. it is adjudicating Authority Mumbai now in this judgment, like the various receivables in the balance sheet of the corporate data, and then there is a liability towards another related party. So what was done by the promoters in this case? That the various transactions, various receivables from the, in fact the amount was received from various parties and then it was settled with creditors as onetime settlement. 
+
+45:48
+So the bench considered this transaction as a preferential transaction under Section 43, because the source of this payment was the payment which actually would taken from partly from sale of assets and partly from the associate companies. Partly the money was raised from the associate companies, only to pay the onetime settlement amount of some of the creditors. so the creditors were paid and the source of this money was one sale of some assets. 
+
+
+## 
+46:15
+Two raising some money from the associate concerns. So it is not possible to say that the raising from the money was also raised by the promoters from their associ. It was paid to the creditors. So the an Anu J judgment says that borrowing money from the related parties associate concerns is not ordinary course of business. Therefore it cannot be a transaction in the ordinary course of business. The creditors were paid even after doing monter settlement. 
+
+46:49
+That is a preferential transaction. So like various transaction when we actually it's really enjoyable the how we find finally find and over a period there will be huge Clarity for under Section 4.4549. now the another judgment, which is vam J vam J versus harat singhh B judgment is again from the NT and it actually the judgment is that the there was. There was money which was supposed to be payable to subsidiary company. 
+
+47:41
+A very large credit balance of the subsidary company was paid within the look back period of two years and it was very clearly held that the amount which is paid to the subsidiary company would be considered as a preferential transaction. And there was an additional fact in this case that the even this kind of related party transaction was not mentioned in the Ann report. That was also they were also trying to hide it. 
+
+
+## 
+48:12
+So these are the transactions that we have seen under Section 43. like I will now it start taking the questions and also in case I would be able to take some of the persons online. So the first is. 
+
+48:33
+The first question is which is actually coming from, I believe YP Singh, YP Singh and Associates maybe, and the question is any judgment in which it was decided that a personal grunter of CD cannot challenge the default amount on the basis of time B while the CD is under liquidation and financial creditor has not received the defaulted admitted claim amount. Liquidation is going on. This is a question from zinder single. 
+
+49:07
+Any judgment in which it was decided that a personal grunter of a CD cannot challenge the personal grunter of the CD cannot challenge the default amount on the basis of time B while the CD is under liquidation. not really understandable. In case this jender single will raise hand, I will give him the opportunity to speak out and ask the question. 
+
+
+## 
+49:34
+The next question, which is from Arun Kumar Shasta, whether placing fund with a bank as margin money for issue of Bank guarantee amount to a preferential transaction. No issue of Bank guarantee for normal business of the company is an ordinary course of business and placing the funds in the bank in the bank as margin money for issuing a bank guarantee for the business of the organization or the business of the corporate data, and that cannot be a preferential transaction. 
+
+50:11
+Because see when we see that the money is kept in the company as a margin money and the only thing that we have to see the other part, the other part, whether this Bank guarantee was given for the AUD course of business or not. So let us try to see the first part. first part is that the placing the money in bank for getting a bank grantee. 
+
+50:33
+This is a separate transaction and this cannot be a preferential transaction going to the separate other part to whom the bank guarantee was given. That is very important. If the bank guarantee is given to an existing creditor and that actually against an antecedent data, that part will be challenged and that is a preferential transaction and in that case this Bank guarantee which is being given to an antecedent creditor, that will be that will be considered as that will be held as cancelled or this will be considered as invalid. 
+
+
+## 
+51:15
+So in case the bank guarantee is given, maybe for an earnest money deposit to a government Department, that is absolutely not a sure, not a transaction which is under Section 43. so one part of the transaction, like depositing the money with the bank as a margin money, is not at all section 43 transaction. The other part of the transaction, that is section for the bank guarantee was given to whom? Against what consideration? 
+
+51:43
+Why it was given. That is a part which will be challenged. Then there's an anonymous attendee. It says that in case of in case of reversal of Bank transaction post initiation of CP, whether application to adjudicating Authority for reverse the transaction to be made of only debit transaction or debit and credit transaction both now see when we approach banks, that is only debit free, that we approach Bank all the credit where the money is deposited in the bank account of the corporate dator are always welcome. 
+
+52:21
+So the control and custody the freeze, that is only the debit freeze that no money will go from this bank account but the money can come in. So any reversal of the bank transaction post initiation that is possible and the money will land into the bank account. That is not a problem at all. Another question is from lit maheswar. 
+
+
+## 
+52:44
+When lock look back period expires during the dependency of partition before admission of partition before of NT can RP initiate buet transaction? No, the look back period is very clearly starting from the date of commencement of cirp. It is it has got so far it has not. 
+
+53:07
+No, it has got no relevance on the date of application to the adjudicating authority, maybe under Section 7,9 or 10. so, therefore, the date only date, which is important, is the date of commencement of cirp and the look back period will be counted from this date backward. So again, I please share the pp. We've said that the presentation not visible because we have not given the presentation because we are speaking. 
+
+53:35
+So therefore, we actually said that we will be repeating the names of the judgments so that you, in case anyone would like to note down and also the entire presentation would be uploaded on YouTube and then it will be any. Anyone can actually see a repeat now the other question is from amindra Shiva shivakumar. 
+
+
+## 
+54:01
+The question is suspended director paid bank loan of CD after cirp date as he was a grunter and wanted RP to set off this amount against his outstanding Loan in the CD books. Now what the suspended director has paid. Suspended director has actually paid the loan. Suspended director has paid the loan because he was a guner. 
+
+54:25
+So he has paid from his own resources and he says that the loan that I have paid now that should be set up against his outstanding Loan in the book. So he also have some outstanding loan. He also have some outstanding loan which he has taken from the company. 
+
+54:47
+He said that you consider it as if I repa the loan now one that he actually has paid the amount voluntarily to a creditor because he was a grunter to that loan. so individually he can do that for the for the Creditor it is not contravention of moratorium. 
+
+
+## 
+55:10
+But now when he says that the there is a receivable in the books of account that is the money which is to be received, that is the money which is to be received, the only, the only issue is that he cannot force the RP to set it off against the outstanding loan. 
+
+55:30
+The RP will have the Liberty to recover that amount from that particular suspended director which is appearing as Loan in the books of account of the corporate director as recoverable from the director. RP will recover this amount because see that particular action of the that particular action of the suspended director was not authorized by the RP or by the COC. 
+
+55:50
+So, therefore, the property of the company that has to be recovered by the RP and the suspended director cannot use that property because suspended director tried to use that property of the company, which is the amount due from him. 
+
+
+## 
+56:06
+So Dr Amit Gupta is asking, in case of one of the company undergoing cirp CD, write off its dat with the creditors in the look back period by asserting that cash was received from the debtors and paid in cash to the Creditor. Is it covered under Section 43? Certainly, it was covered under Section 43 because see the dors. As I said earlier, the dator is a property of the company. 
+
+56:33
+Section 43 is first condition is that the sum of the property of the company must be transferred, because the definition of the property is actionable claims. The datas of the company are all the actionable claims, so in case the amount of dats is actually set off with the creditors. 
+
+56:50
+So even if it is an assignment, even if the money is received in the cash, it is definitely a preferential transaction and the amount, in case it has been paid to the creditors, that amount would be recoverable from those creditors under Section 43. Mr Ravi is asking if a private bank is colluding with the promoter in diversion of funds. 
+
+
+## 
+57:15
+For example, the funds raised for one project are diverted for another project with the knowledge of the bank. Can Bank also be made a part to section 43? now let us understand that the funds are raised by the company from the bank and the again the funds have been given to the other person, other entity. In the books of the corporate data it will be looking. 
+
+57:46
+It will look like a transaction which is the raising of loan from A bank and then giving it to somebody else. So raising of loan from A bank, as it has been held by Anu Jan that it is not a transaction under the ordinary course of business. Lending money or giving it to someone again is not a transaction under the ordinary course of business. So therefore, what I'm trying to say? 
+
+58:10
+That the bank, like Bank, having a knowledge. So this transaction? What is this transaction? Now? The money has been given to another project. if the money has been given to another project, it is an asset of the company to recover that money from that project or that project will appear in the books of the account as a asset. Now diverting to another project if it is a loan, it has to be recovered. 
+
+
+## 
+58:39
+If it is a project which is an asset of the company, that asset is still the property of the company. So diversion. I need to understand what kind of diversion it is. Otherwise, if it is a project owned by the company, then it is a work in progress. Then it is an said it the RB can recover it. If it is a loan then it can be covered. 
+
+58:59
+It can be covered that it is a transaction. give the of giving loan to another associate con concern and that associate concern will give this money back to the RP. So this is something which is we will come to the section 45 and I have similar transaction where it has been held that just by giving a loan to the associate concern which is still recoverable. 
+
+59:19
+The only thing is that we can see whether this interest, notional interest can also not be considered as a kind of undervalued transaction. Baki is saying, sir, how to define puet transaction for expense paid to the holding company, so expense paid to the holding company. It's only a matter of justification, reasonableness and also the proofs. In case there are. 
+
+
+## 
+59:45
+In case there are expenditure which are being paid over the period over many period and those are all Justified, then it becomes an ordinary course of business. However, in case the amount which is being paid now doesn't match with the history of the such expenses, then it is a transaction which is not an ordinary course of BU. 
+
+1:00:04
+Then it will be considered that the holding company has been given something which is not there not entitled to. So that is the transaction which actually cannot be considered to be a kind of section 43, because for Section 43 it has to be something like payment is made to an antecedent creditor. If the antecedent creditor is not paid, then it will be in. 
+
+1:00:29
+Then it will be section 45 that we will actually discuss in the next webinar. then we have the question from K. Can payment be made by director during stay period of CP without the RP consent? No, the stay does not mean that the company goes back to directors. 
+
+
+## 
+1:00:49
+Stay means the it is being decided and it will continue to be under the control and custody of the RP and the money cannot be paid by the directors. No payments can be made by the directors without the permission of the RP. Then we have a question from S. 
+
+1:01:13
+I think Saran, in case of liquidation if puet proceedings are underway and not yet adjudicated, can compromise Arrangement under Section 230 of the company that be considered CDs msme. Yes, section 230 Arrangement can be considered. however, the bench mostly are saying that if the section 230 arrangements are being done, the first of all they would see if there is any money which is to recovered from the suspended management. 
+
+1:01:47
+First they would like to dispose of that and then only they will adjudicate on Section 230 applications, because they would not like to see a situation that today the company is given back to the same promoters under Section 230 under a scheme of restructuring and in very next few months then another order is passed where lot of money is recoverable from them so they don't want to see so. 
+
+
+## 
+1:02:15
+First of all they will see whether it is feasible or viable or not, because in case the promoters are also kind of so that is something which is not really it is, although it is possible. But the bench would first of all would like to decide the avoidance transactions. 
+
+1:02:34
+Then only they will talk about the 230. Rajesh m is asking whether amount paid by CD to the personal grunter amount paid by CD to personal grunter to settle with financial creditors to get his personal property released amount to preferential or fraudulent transaction. Now the amount is being paid to the personal grunter in case the personal grter because that he assurity so first of all the grunter or shity or an antecedent creditor. 
+
+1:03:07
+This transaction will be absolutely a 43 transaction, because under Section 43 the one of the condition is that the transfer of property of the company must be to a existing creditor or a shity or a grunter. So the person is a grunter and the amount is paid to the grunter. 
+
+
+## 
+1:03:32
+It is absolutely a transaction under Section 43. Coming to the other question, which is Anil analia, to whom we should made respondents in Buffet applications, only to directors or to the beneficiaries, creditors. So let us understand the under Section 43 there has to be a transfer, so that means all the transfer wores are supposed to be made as a respondents. So in the case of the undervalued transactions there has to be kind of beneficiaries. 
+
+1:04:03
+So all the beneficiaries are supposed to be made as the respondents under Section 66, all the contributories. Because there is a there are, there are, there is a kind of persons who are liable to contribute in case any transaction is held to be covered. Under Section 66, all those contributories are supposed to be made as respondents. So first of all, transfer, then under section 45, all beneficiaries. 
+
+1:04:30
+Under Section 49 also all beneficiaries, and because 49 is also a fraudulent, and the contri and the promoters, and also in the case of 66, all contributories. Another anonymous attending says the reversal of transaction application to be made to adjudicating Authority, under which section? Reversal of transaction, reversal of transaction application. I couldn't understand what kind of reversal of a transaction. 
+
+
+## 
+1:04:56
+Unless I know the nature of the reversal of transaction, then only I would be able to answer. And the last is for filing case for Section 43 or 66 transaction audit. Forensic audit is mandatory or necessary? No, it is not mandatory because I would say that nowhere in the code or nowhere in the regulation it has been written that the that the appointment of a transactional auditor or a forensic auditor is must. 
+
+1:05:26
+It is only it is also not even said that it is required. It is not even use the word of any auditor for this part. The only thing which is said that the RP May appoint some professionals for any other and for any purpose. so this has become a tradition. 
+
+1:05:43
+That because see the as an RP, I can say that the RP can be a management expert, can be a banker, can be a company secretary, can be a lawyer, can be a chared accountant, can be a cost accountant. So everyone May not be very well versed with the accounting and also the transactions like this. So therefore, an auditor is kind of a tradition. 
+
+
+## 
+1:06:02
+So in case any transaction is determined by the RP and there are evidences, there is no need of having a forensic auditor, or even if there is a transaction which is not been reported by the forensic auditor, you can still report those transactions. So it's very important that we all can. 
+
+1:06:21
+I can still see in case there's a question which I can take from, in case the attendees like in case I can have 1 minute more and in case YP single can speak. Jinder single can speak and his questions can be answered. Please unmute yourself and you can ask your question please. Good morning, sir. Yes, please I am, I am audible. Yes, you are. See, we can. We can hear you my lord see. 
+
+1:06:59
+The application filed under Section 5 95 against the personal guarant of the CD is under liquidation and notice B properly served on the Garter. They have raised the objections. Now the audit. Now the report under Section 99 is already filed. The Garter has raised the objections. 
+
+
+## 
+1:07:24
+They filed the reply by raising the objections that the guarantee is time B when the company under liquidation and the financial creditor has not received the amount and the default amount is already registered with the nesl. Then it then whether they can CH challenge the validity on the time Bard, the personal Grant. 
+
+1:07:55
+They would not be able to challenge based on the time bar, because their time, their time, starts on the date when their personal guarantee was invoked by the creditors. Yeah, once it is invoked, then the banks have to take action against them after the invocation of personal guarantee. So I believe the personal graner will not have much to say in this case and his personal insolvency would start and it is the continuing guarantee. 
+
+1:08:24
+Yeah, of course it is a continuing guarantee. it's always a continuing guarantee and there is no system of having a kind of guarantee for a limited period. So I think this was the section 43 today and it is very important for all of us to continue in the second session also, we section 45, section 49 and 66 will be deliberated. 
+
+
+## 
+1:08:42
+The 100th webinar, the 100th webinar that we would be conducting in two manners: one that we will invite some people physically at India habitate Center on 10th March, and that particular session will be also a celebrations of 100 webinar and that to continuously, and that will be followed by a cocktail dinner and we will be sending invites to some of our audience. 
+
+1:09:11
+And also that particular webinar will be available online, Maybe on YouTube, as well as on the zoom, and we are also trying to invite officials and. The Who who in the industry. thank you very much. looking forward to get connected with you again thanks a lot. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

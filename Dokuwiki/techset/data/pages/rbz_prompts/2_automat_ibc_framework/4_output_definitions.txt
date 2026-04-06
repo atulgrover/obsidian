@@ -1,0 +1,112 @@
+~~NOTOC~~
+
+## 1. Structured Text Outputs
+
+  *  a section-wise summary of an NCLT judgment
+  *  a step-by-step process flow for CIRP or Liquidation
+  *  a bullet-point list of compliance actions for an RP
+  *  a clause-wise explanation of a resolution plan
+  *  a comparative matrix of admitted vs. claimed amounts
+  *  a chronological timeline of CIRP events (Day 0–330)
+  *  a waterfall distribution sequence as per Section 53
+
+---
+
+## 2. Tables & Grids
+
+  *  a creditor claims table with columns (name, type, claimed, admitted, security, remarks)
+  *  a resolution plan scoring table with weighted criteria
+  *  a compliance checklist table for IBBI regulations
+  *  a liquidation asset summary table (asset, reserve price, realization, status)
+  *  a related-party transaction table for forensic analysis
+
+---
+
+## 3. Formal Legal Outputs
+
+  *  a draft notice (e.g., Form A, Form G, public announcement text)
+  *  a draft CoC minutes with agenda, deliberations, and voting outcomes
+  *  a legal brief supporting or opposing a claim rejection
+  *  a Section 43/45/66 application outline
+  *  a model affidavit or NCLT petition skeleton
+
+---
+
+## 4. Financial & Analytical Outputs
+
+  *  a financial ratio diagnostics sheet
+  *  a projection model description for recovery outcomes
+  *  a liquidation value comparison (valuer 1 vs valuer 2 vs average)
+  *  a risk scoring grid for resolution applicants
+  *  a cash-flow insight summary derived from ledger data
+
+---
+
+## 5. Data Formats
+
+  *  a JSON object of creditor details
+  *  a CSV-formatted dataset of admitted claims
+  *  a YAML configuration for insolvency workflows
+  *  a machine-readable mapping of assets to valuations
+  *  a structured IM data block (assets, liabilities, litigation, operations)
+
+---
+
+## 6. Drafting & Documentation Outputs
+
+  *  a well-structured Information Memorandum outline
+  *  a model process document for verification of claims
+  *  a checklisted SOP for liquidation asset sale
+  *  a compliance calendar for CIRP milestones
+  *  a communication template for creditors or bidders
+
+---
+
+## 7. Forensic Outputs
+
+  *  a transaction flowchart of fund movements
+  *  a suspicious-transaction list with flags and reasons
+  *  a variance analysis table for anomalies
+  *  a red-flag summary for fraudulent or preferential transactions
+
+---
+
+## 8. Narrative Outputs
+
+  *  a plain-language explanation of IBC Section X
+  *  an executive briefing for a CoC meeting
+  *  a promoter-friendly simplified guide
+  *  a journalist-ready press note
+  *  a stakeholder update digest
+
+---
+
+## 9. Visual/Logical Outputs (text-based)
+
+  *  an ASCII flowchart of CIRP stages
+  *  a decision tree for claim acceptance/rejection
+  *  a hierarchy map of creditors and priority order
+  *  a step diagram of liquidation procedures
+
+---
+
+## 10. Audit & Compliance Outputs
+
+  *  an audit-ready checklist for CIRP/Liquidation
+  *  a compliance exception report
+  *  a filing log of all NCLT/IBBI submissions
+  *  a gap analysis grid
+  *  a risk heatmap summary
+
+---
+
+# High-Value Output Definitions (IBC-Optimized)
+
+Use these frequently:
+
+  *  “a Regulation-wise compliance table”
+  *  “a Section-wise legal interpretation”
+  *  “a list of all violations detected with reasoning”
+  *  “an IM-compatible data pack”
+  *  “a bidder evaluation sheet”
+  *  “a liquidation distribution calculator output”

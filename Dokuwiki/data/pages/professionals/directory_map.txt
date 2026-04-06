@@ -1,0 +1,15 @@
+~~NOSIDEBAR~~
+
+
+{{url>https://skillpedia.ushahidi.io/map 1400,700 noscroll noborder alignment fullscreen|alternate-text}}
+
+
+/** 
+{{url>https://skillpedia.ushahidi.io/map 1500,1000}}
+**/
+
+/**
+<html>
+<iframe id="embedded-app" src="https://your.shiny.app/url" frameborder="0" width="100%"></iframe>
+</html>
+**/

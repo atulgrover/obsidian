@@ -1,0 +1,200 @@
+<html>
+<p>
+	<div>
+		<h1>
+			Without adding the principal amount, can CIRP u/s 7 of IBC be initiated only on the defaulted amount of interest accrued on the principal amount (debentures)? &ndash; Aadi Buildwell Pvt. Ltd. Vs. Focus Realcon Pvt. Ltd. &ndash; NCLT New Delhi Bench Court-II
+		</h1>
+		<div>
+			June 2, 2022
+		</div>
+		<p>
+			The Adjudicating Authority held that in order to initiate a CIRP u/ s 7 of the IBC, the prime consideration is that there must be existence of debt and only thereafter interest shall be added in the principal debt amount. Only the interest amount claimed by the applicant, in our considered view, does not come under the definition of financial debt. Since the present application is filed only on the ground of interest accrued on the principal amount, and the payment of the principal amount is not due and payable as yet, therefore, the present petition filed under Section 7 of the IBC is not maintainable.
+		</p>
+	</div>
+</p>
+<div>
+	<div>
+		<div>
+			<p>
+				<div>
+					<div>
+						<p>
+							<strong>
+								I. Case Reference
+							</strong>
+						</p>
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										Case Citation
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										(2022)  373 NCLT
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Case Name
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Aadi Buildwell Pvt. Ltd. Vs. Focus Realcon Pvt. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Financial Creditor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Aadi Buildwell Pvt. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Corporate Debtor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Focus Realcon Pvt. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Appeal No.
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Company Petition No. IB-124/ND/2022
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Judgment Date
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										26-May-22
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Court/Bench
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										NCLT New Delhi Bench Court-II
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Judicial)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Shri. Abni Ranjan Kumar Sinha
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Technical)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Shri L.N. Gupta
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<p>
+							<strong>
+								II. Brief about the decision
+							</strong>
+						</p>
+						<p>
+							<em>
+								<strong>
+									Facts of the case
+								</strong>
+							</em>
+						</p>
+						<p>
+							As per the terms and conditions of the debenture certificate, the maturity date of the Debenture Certificate is on 31.03.2026, but as per the terms and conditions No. 1, debentures can be redeemed at any time, at the option of the issuer. Debentures can also be redeemed at the request of the Debenture holder, after the expiry of one year, but before 31.03.2026 (i.e. the Maturity Date). The present Debenture Certificate is issued on 13.04.2021, therefore, as per the terms and conditions No. 1, it can be redeemed after the expiry of one year i.e. from 13.04.2022.
+						</p>
+						<p>
+							As per the terms and conditions No. 2, debenture shall carry a coupon rate of 6% per annum payable on face value plus securities premium on quarterly rests and as per terms and conditions No. 3, debenture shall be redeemed at face value plus securities premium and accrued interest till the date of redemption. The Applicant has not claimed the principal amount which is due and payable after the expiry of one year from the date of issuance of the Debenture Certificate.
+						</p>
+						<p>
+							The question is without adding the principal amount, can CIRP be initiated only on the defaulted amount of interest? At this juncture, we would like to refer to definition of debt and financial debt, as defined under Sections 3(11) and 5(8) of the IBC and the same are reproduced below.
+						</p>
+						<p>
+							<em>
+								<strong>
+									Decision of the Adjudicating Authority
+								</strong>
+							</em>
+						</p>
+						<p>
+							The Adjudicating Authority observed that on conjoint reading of these two clauses, since there is a provision for redemption of the debenture after the expiry of one year, therefore, the Applicant is entitled to opt for redemption and get the amount at the face value, plus securities premium and accrued interest till the date of redemption.
+							<strong>
+								(p10)
+							</strong>
+						</p>
+						<p>
+							The Adjudicating Authority held that:
+						</p>
+						<ul>
+							<li>
+								Mere perusal of the definition of debt u/s 3(11) shows that debt means a liability or obligation in respect of claim, which is due from any person and includes a financial debt and operational debt. Admittedly, the definition of debt is very wide. It includes the liability or obligation in respect of a claim as well as financial debt and operational debt. So far initiation of CIRP under Section 7 of the IBC, 2016 is concerned, the application is maintainable only when the debt is a financial debt.
+								<strong>
+									(p13)
+								</strong>
+							</li>
+							<li>
+								<strong>
+									In order to initiate a CIRP u/ s 7 of the IBC, the prime consideration is that there must be existence of debt and only thereafter interest shall be added in the principal debt amount.
+								</strong>
+								&nbsp;As we have already observed that the principal amount has not become due and payable as yet, therefore, there is no debt which is due and payable. Accordingly, there is no default in making the payment of the amount.&nbsp;
+								<strong>
+									Therefore, only the interest amount claimed by the applicant, in our considered view, does not come under the definition of financial debt.(p15)
+								</strong>
+							</li>
+							<li>
+								<strong>
+									Since the present application is filed only on the ground of interest accrued on the principal amount, and the payment of the principal amount is not due and payable as yet, therefore, the present petition filed under Section 7 of the IBC is not maintainable.(p16)
+								</strong>
+							</li>
+							<li>
+								Accordingly, the application is dismissed.
+								<strong>
+									(p17)
+								</strong>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</p>
+		</div>
+	</div>
+</div>
+</html>

@@ -1,0 +1,11 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1743495176;s:8:"modified";i:1743530285;}s:7:"creator";s:4:"Name";s:4:"user";s:5:"admin";s:11:"last_change";a:9:{s:4:"date";i:1743530285;s:2:"ip";s:11:"49.43.99.57";s:4:"type";s:1:"E";s:2:"id";s:27:"rbz_services:agents:sidebar";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-154;s:4:"mode";s:4:"page";}s:11:"contributor";a:1:{s:5:"admin";s:4:"Name";}s:5:"title";s:17:"Insolvency Agents";s:11:"description";a:2:{s:15:"tableofcontents";a:2:{i:0;a:4:{s:3:"hid";s:17:"insolvency_agents";s:5:"title";s:17:"Insolvency Agents";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:1;a:4:{s:3:"hid";s:10:"contact_us";s:5:"title";s:10:"Contact Us";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:483:"Insolvency Agents
+
+Agents are Digital Software that
+<div class='acmenu'><ul class='idx'><li class='open'><div class='li'><span class='curid'>rbz_services:agents</span></div><ul class='idx'><li class='level1'><div class='li'>agent_directory</div></li><li class='level1'><div class='li'>resolution_plan_agents</div></li><li class='level1'><div class='li'>search_outreach_agents</div></li></ul></li></ul></div>
+----------
+
+Contact Us
+
+Tel: +91 98140-40900 
+
+<resolutionbazaar@gmail.com>";}s:8:"relation";a:2:{s:10:"references";a:4:{s:25:"rbz_services:agents:start";b:0;s:35:"rbz_services:agents:agent_directory";b:1;s:42:"rbz_services:agents:resolution_plan_agents";b:1;s:42:"rbz_services:agents:search_outreach_agents";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:0;s:3:"toc";b:0;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1743495176;s:8:"modified";i:1743530285;}s:7:"creator";s:4:"Name";s:4:"user";s:5:"admin";s:11:"last_change";a:9:{s:4:"date";i:1743530285;s:2:"ip";s:11:"49.43.99.57";s:4:"type";s:1:"E";s:2:"id";s:27:"rbz_services:agents:sidebar";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-154;s:4:"mode";s:4:"page";}s:11:"contributor";a:1:{s:5:"admin";s:4:"Name";}}}

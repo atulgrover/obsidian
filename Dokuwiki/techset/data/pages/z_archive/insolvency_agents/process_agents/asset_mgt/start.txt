@@ -1,0 +1,7 @@
+**Asset Discovery Agents and Functionality**
+  - 1. Asset Identification Agent
+  - 2. Encumbrance Detection Agent (Verification and Valuation)
+
+**AI Agents in Asset Valuation**
+  - 1. Financial Valuation Agent (Automate Valuation and Data Collection)
+  - 2. Asset Pricing Agent (Automate Pricing and Market Analysis)

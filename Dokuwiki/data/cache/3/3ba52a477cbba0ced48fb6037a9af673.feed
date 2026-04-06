@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar - talk:debtors</title>
+        <description>Digital Agents for IBC Processes</description>
+        <link>https://resolutionbazaar.com/</link>
+        <image rdf:resource="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-04-17T06:42:56+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=talk:debtors:debtor_agents&amp;rev=1743696330&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://resolutionbazaar.com/</link>
+        <url>https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=talk:debtors:debtor_agents&amp;rev=1743696330&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T16:05:30+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>debtor_agents</title>
+        <link>https://resolutionbazaar.com/doku.php?id=talk:debtors:debtor_agents&amp;rev=1743696330&amp;do=diff</link>
+        <description>Games Suspended Directors Play
+
+Suspended directors, particularly those whose interests may be at risk due to the insolvency process, sometimes attempt various tactics to delay or disrupt the corporate insolvency resolution process (CIRP). Their goal is often to regain control or, at the very least, influence the proceedings in a way that protects their interests. Here are some common strategies they might use to stall the resolution process:
+Legal Appeals and Procedural Delays</description>
+    </item>
+</rdf:RDF>

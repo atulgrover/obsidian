@@ -1,0 +1,7 @@
+**Policy Feedback Agent**
+
+The Policy Feedback Agent analyzes aggregated case outcomes and procedural experiences to generate insights for regulatory or institutional improvement. It identifies recurring issues, inefficiencies, or ambiguities in existing laws and provides structured feedback for policy updates.
+
+By comparing case data against regulatory objectives, it highlights where insolvency frameworks may require refinement—such as valuation norms, CoC conduct, or appeal mechanisms. It can also simulate how proposed policy changes might affect future case outcomes.
+
+This agent acts as a bridge between field practice and policymaking, helping the IBBI and policymakers evolve a more effective and responsive insolvency ecosystem.

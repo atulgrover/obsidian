@@ -1,0 +1,671 @@
+#
+# Case Summary
+
+# Case Summary
+
+# Case Details
+
+- Case Name: Bharti Airtel Ltd. and Anr. v. Vijaykumar V. Iyer and Ors.
+- Civil Appeal Nos.: 3088-3089 of 2020
+- Decision Date: 03-Jan-24
+
+# Court Information
+
+- Coram: Mr. Justice Sanjiv Khanna and Mr. Justice S.V.N. Bhatti
+
+# Additional Information
+
+Impugned Order: Vijay Kumar V Iyer Vs. Bharti Airtel Ltd. [2020] ibclaw.in 18 NCLAT, upheld.
+
+Corporate Debtor: Aircel Ltd. and Dishnet Wireless Ltd.
+
+# Brief about the Decision
+
+# Facts of the Case
+
+In terms of the eight spectrum transfer agreements and the bank guarantees were returned, the Airtel entities made a payment of Rs. 341.80 crores due to the Aircel entities on 10.01.2019. The balance amount of Rs.145.20 crores was set-off by the Airtel entities on the ground that this amount was owed by the Aircel entities to the Airtel entities towards operational charges, SMS charges and interconnect usage charges to the Airtel entities. In the meanwhile, Corporate Insolvency Resolution Process (CIRP) was initiated against Aircel entities, namely Aircel Ltd. and Dishnet Wireless Ltd. The Adjudicating Authority, Mumbai Bench, admitted the petitions against Aircel Ltd. and Dishnet Wireless Ltd.vide the orders dated 12.03.2018 and 19.03.2018. The total claim on account of the interconnect charges were filed by the Airtel Entities was Rs. 203.46 crores. However, the Airtel entities also owed Rs. 64.11 crores towards interconnect charges to the Aircel entities. The claims submitted by the Airtel entities were admitted by the Resolution Professional to the extent of Rs. 112 crores including the claim on behalf of Telenor (India) Communications Pvt. Ltd., in light of Telenor’s merger with Bharti Airtel Limited, effective from 14.05.2018. Claim on account of receivable of about Rs.5.85 crores owed by Aircel entities to Telenor India, which had been merged with Bharti Airtel Limited, was not accepted. By the letter dated 12.01.2019, the Resolution Professional for Aircel Limited, Dishnet Wireless Ltd. and Aircel Cellular Ltd., wrote to Bharti Airtel Ltd., stating that they hadsuo moto adjusted an amount of Rs. 112.87 crores from the amount of Rs. 453.73 crores payable by Airtel entities to Aircel entities. The Airtel entities approached the Adjudicating Authority in Mumbai, where vide order dated 01.05.2019, reported in (2019) ibclaw.in 34 NCLT, it was held that the Airtel entities had a
+
+Print Date: June 6, 2024
+---
+#
+
+# Document
+
+# Segment Headers
+
+# Decision of Supreme Court
+
+# Segment Lists
+
+- Set-off in generic sense recognises the right of a debtor to adjust the smaller claim owed to him against the larger claim payable to his creditor.
+- At least five different meanings can be ascribed to the term ‘set-off’, namely, (a) statutory or legal set-off; (b) common law set-off; (c) equitable set-off; (d) contractual set-off; and (e) insolvency set-off.
+
+# Segment KeyValuePairs
+
+(a) Contractual set-off:
+
+- Contractual set-off is a matter of agreement, rather than a separate application of set-off.
+- The parties are free to mutually agree on the outcomes they desire.
+
+(b) Statutory or legal set-off:
+
+- Statutory or legal set-off is created by a statute.
+- For example, Order VIII Rule 6 of the Code of Civil Procedure, 1908 states that where a suit for recovery of money is filed, the defendant can claim set-off against the plaintiff’s demand for any ascertained sum of money legally recoverable by the defendant from the plaintiff, but not exceeding the pecuniary limits of the jurisdiction of the court.
+
+# Group Sections
+
+# (a) Contractual set-off:
+
+Contractual set-off is a matter of agreement, rather than a separate application of set-off. The parties are free to mutually agree on the outcomes they desire. The contract, however, should be within bounds of legality and public policy.
+
+# (b) Statutory or legal set-off:
+
+Statutory or legal set-off is created by a statute. For example, Order VIII Rule 6 of the Code of Civil Procedure, 1908 states that where a suit for recovery of money is filed, the defendant can claim set-off against the plaintiff’s demand for any ascertained sum of money legally recoverable by the defendant from the plaintiff, but not exceeding the pecuniary limits of the jurisdiction of the court.
+
+# Segment Paragraphs
+
+Equitable set-off can also be claimed in respect of an ascertained sum of money. However, the claim for an equitable set-off must have a connection between the plaintiff’s claim for the debt and the defendant’s claim to set-off, which would make it inequitable to drive the defendant to a separate suit.
+
+Insolvency set-off: Rory Derham on the law of set-offs observes that insolvency set-offs should not be equated with equitable set-offs. This statement reflects the development of law in the United Kingdom, which has resulted in enactment of special provisions on set-off in case of insolvency.
+
+# Segment Tables
+
+Print Date
+June 6, 2024
+---
+#
+# Insolvency Set-Off Analysis
+
+# Insolvency Set-Off Analysis
+
+# Insolvency set-off under the law of the United Kingdom
+
+Insolvency set-off under the law of the United Kingdom is permitted when there are mutual debts, mutual credits, and other mutual dealings between the parties at the relevant cut-off time, which is essentially the stage of commencement of the liquidation process.
+
+(Source: p10)
+
+# Analysis of the provisions of IBC relating to set off
+
+- Unlike the provisions of the Companies Act, 1956 or the Companies Act, 2013, IBC in the case of CIRP does not give the indebted creditors the right to set-off against the corporate debtor.
+- In the case of partnerships and individual bankruptcies, Section 173 of the IBC permits set-off.
+- Regulation 29 of the IBBI (Liquidation Process) Regulations, 2016 provides for mutual credits and setoff.
+- Section 36(4) permits the IBBI to specify assets which could be subject to set-off on account of mutual dealings between the corporate debtor and the creditor.
+
+(Source: p13, p14)
+
+# Insolvency set-off under Liquidation Regulation 29 and Mutual dealings
+
+- The expression ‘mutual dealings’ is the condition to be satisfied for insolvency set-off under Regulation 29.
+- Insolvency set-off applies when demands are between the same parties.
+- The relationship and the nature of identity of the Corporate Debtor undergo a change on the commencement of the CIRP.
+
+(Source: p16, p22, p23)
+
+Print Date: June 6, 2024
+---
+#
+
+# Segment 1: Further, a debtor cannot, after notice of assignment...
+
+- This will not meet the mandate of mutual dealing.
+- This will be contrary to equity and would amount to misuse of the provision for insolvency set-off.
+- One must also be on guard against misuse of insolvency set-off in case of voluntary winding up.
+
+# Segment 2: Insolvency set-off as a proposition mitigates against the doctrine of pari passu.
+
+- Insolvency set-off gives primacy and an overriding effect to the creditor who is entitled to set-off mutual credits.
+- When cross demands are set-off, the assets available for distribution amongst the general body of creditors would be depleted in favor of a single creditor with a set-off entitlement.
+- It puts and grants priority to the creditor, even an operational creditor, to the extent of the set-off.
+
+# Segment 3: Insolvency set-off in terms of Regulation 29 of the Liquidation Regulations is statutory.
+
+# Segment 4: Principle of pari passu
+
+- The principle of pari passu creates a liquidation hierarchy with the stipulation that each class of creditors shall rank equally among each other.
+- Set-offs can mitigate against the pari passu principle, they should be allowed when mandated, or can be justified by law.
+
+# Segment 5: Application of Insolvency set-off to the Corporate Insolvency Resolution Process (CIRP)
+
+- The provisions of statutory set-off in terms of Order VIII Rule 6 of CPC or insolvency set-off as permitted by Regulation 29 of the Liquidation Regulations cannot be applied to the CIRP.
+- Exceptions or situations where set-off can be applied include contractual set-off and equitable set-off.
+- Contractual set-off can be applied if effective before or on the date the CIRP commences.
+- Equitable set-off requires a genuine and clearly established claim and counterclaim linked by one or more transactions.
+
+Print Date: June 6, 2024
+---
+#
+
+# Segment F
+
+- Other provisions of the Code do not also support principle of insolvency set-off
+
+- Clause (ii) to sub-section (2)(b) of Section 30 does not support the plea of insolvency set-off.(p41)
+- Whether the set-off should be considered at the stage of filing of proof of claims during the resolution process was not an issue before the court in Swiss Ribbons Pvt. Ltd. & Anr. Vs. Union of India & Ors. (2019) ibclaw.in 03 SC.(p43)
+- Section 60(5) is enabling provision which entitle the Adjudicating Authority to go into several aspects to aid and assist the CIRP. They cannot be read as allowing a creditor/debtor to claim set-off in the CIRP.(p45)
+- In the context of the IBC, insolvency set-off is neither automatic, nor self-executing.(p46)
+- Moratorium under Section 14 is to grant protection and prevent a scramble and dissipation of the assets of the Corporate Debtor. The contention that the “amount” to be set-off is not part of the corporate debtor’s assets in the present facts is misconceived and must be rejected.(p50)
+
+# Segment G
+
+Conclusion
+
+Hon’ble Supreme Court concludes that having considered the contentions raised by the appellant Airtel entities in detail, and in light of the provisions of the IBC relating to the CIRP, we do not find any merit in the present appeals and the same are dismissed. There will be no order as to costs.(p51)
+
+# Judgment/Order:
+
+# J U D G M E N T
+
+SANJIV KHANNA, J.
+
+The present appeals raise an interesting question on the right to claim set-off in the Corporate Insolvency Resolution Process, when the Resolution Professional proceeds in terms of clause (a) to sub-section (2) of Section 25 of the Insolvency and Bankruptcy Code, 20161 to take custody and control of all the assets of the corporate debtor.
+
+In order to decide the issue raised in these appeals, we are required to refer to the facts in brief:
+
+Print Date: June 6, 2024 5 | 25
+---
+# Segment 2
+
+- 2.1 In April 2016, Bharti Airtel Limited and Bharti Hexacom Limited for purchase of the right to entered into eight spectrum trading agreements with Aircel Limited and Dishnet Wireless Limited use the spectrum allocated to the latter in the 2300 MHz band. The agreement was contingent on approval of the Department of Telecommunications, Government of India. The DoT for grant of approval demanded bank guarantees in relation to certain licence dues and spectrum usage dues from the Aircel entities. Challenging this direction, the Aircel entities approached the Telecom Disputes Settlement and Appellate Tribunal. By the interim order dated 3rd June 2016, TDSAT directed Aircel entities to submit the bank guarantees. As the Aircel entities did not have the means to procure and submit the bank guarantees for approximately Rs.453.73 crores, they approached the Airtel entities to submit bank guarantees on their behalf to the DoT.
+- 2.2 In terms of the eight spectrum transfer agreements, the Airtel Entities were to pay Rs.4,022.75 crores to the Aircel entities. The Airtel entities and Aircel entities entered into three Letters of Understanding whereby the Airtel entities agreed to furnish the bank guarantees to the DOT on behalf of the Aircel entities. The Airtel entities were to deduct Rs.586.37 crores from the consideration payable to the Aircel entities under the spectrum transfer agreements. On the Aircel entities replacing the bank guarantees furnished by the Airtel entities and the Airtel entities receiving the bank guarantees from the DOT, Rs.411.22 crores were payable by the Airtel entities to the Aircel entities.
+- 2.3 TDSAT vide order dated 9th January 2018 held that the DOT’s demand of Rs.298 crores against the Aircel entities was untenable, and directed the DoT to return the bank guarantees to the Aircel entities. However, the bank guarantees were not returned by the DoT, which preferred Civil Appeal No. 5816 of 2018 before this Court. Cross-appeals were filed by Aircel entities.
+- 2.4 This Court by order dated 28th November 2018 held at the interim stage, that the order of the TDSAT dated 9th January 2018, insofar as bank guarantees are concerned, shall be given effect to. However, the DoT did not return the bank guarantees.
+- 2.5 In view of the aforesaid, the Airtel entities wrote to the bank seeking confirmation of cancellation of the bank guarantees. As the banks were reluctant, the Airtel entities approached this Court, which vide order dated 8th January 2019, directed that the bank guarantees shall be cancelled and shall not be used for any purpose whatsoever.
+- 2.6 Thereupon the Airtel entities made a payment of Rs.341.80 crores due to the Aircel entities on 10th January 2019. The balance amount of Rs.145.20 crores was set-off by the Airtel entities on the ground that this amount was owed by the Aircel entities to the Airtel entities. According to Airtel entities, Rs.145.20 crores was the adjusted or the net amount payable by the Aircel entities towards operational charges, SMS charges and interconnect usage charges to the Airtel entities.
+- 2.7 In the meanwhile, Corporate Insolvency Resolution Process was initiated against Aircel entities, namely Aircel Limited and Dishnet Wireless Limited. The Adjudicating Authority, Mumbai Bench, admitted the petitions against Aircel Limited and Dishnet Wireless Limited vide the orders dated 12th March 2018 and 19th March 2018.
+- 2.8 Claims on account of the interconnect charges were filed by Bharti Airtel Limited, including the claim on behalf of Telenor (India) Communications Private Limited, in light of Telenor’s merger with Bharti Airtel Limited, effective from 14th May 2018. Claim was also filed by Bharti Hexacom Limited.
+---
+#
+
+# Document
+
+# Segment 2.9
+
+- The claims submitted by the Airtel entities were admitted by the Resolution Professional to the extent of Rs.112 crores. Claim on account of receivable of about Rs.5.85 crores owed by Aircel entities to Telenor India, which had been merged with Bharti Airtel Limited, was not accepted.
+
+# Segment 2.10
+
+- By the letter dated 12th January 2019, the Resolution Professional for Aircel Limited, Dishnet Wireless Limited and Aircel Cellular Limited, wrote to Bharti Airtel Limited, stating that they had suo moto adjusted an amount of Rs.112.87 crores from the amount of Rs.453.73 crores payable by Airtel entities to Aircel entities, consequent to the discharge and cancellation of the bank guarantees. Bharti Airtel Limited was asked to pay Rs.112.87 crores to Aircel entities, which were undergoing Corporate Insolvency Resolution Process, failing which the Resolution Professional would be obligated to take steps for recovery. The Airtel entities objected on several grounds, and also claimed set-off of the amount due to them by the Aircel entities from the amount payable by them to the Aircel entities. Their reply and claim for setoff was rejected by the Resolution Professional.
+
+# Segment 2.11
+
+- The Airtel entities thereupon approached the Adjudicating Authority in Mumbai, who, vide order dated 1st May 2019 held that the Airtel entities had a right to set off Rs.112.87 crores from the payment, which was retained, and due and payable to Aircel entities.
+
+# Segment 2.12
+
+- This order was challenged by the Resolution Professional before the National Company Law Appellate Tribunal. The NCLAT vide order dated 17th May 2019 allowed the appeal, inter alia, holding that set-off is violative of the basic principles and protection accorded under any insolvency law. Set-off is antithetical to the objective of the IBC. Reference was made to the non-obstante provisions in the form of Section 238 of the IBC. As moratorium under Section 14(4) applies till the date of completion of the Corporate Insolvency Resolution Process, which is till the resolution plan is approved or the liquidation order is passed, to permit set-off will be contrary to law. Further, the set-off being claimed is in respect of two separate and unrelated transactions.
+
+# Segment Meaning of set-off and types and principles of set-off
+
+Set-off in generic sense recognises the right of a debtor to adjust the smaller claim owed to him against the larger claim payable to his creditor. Philip R. Wood calls it a form of payment. Palmer notes a distinction between ‘set-off’ as in accounting, and ‘set-off’ as a defence. The former focuses on the practical effect of set-off which results in discharge of reciprocal obligations, while the latter focuses on set-off pleaded as a defence to a claim, albeit not as a ‘sword’.
+
+# Segment 4
+
+Set-off is given legal preference for three reasons. First, in economic terms, set-off is a form of security recognised in law. It is, however, not a security in a strict sense, but a right that enhances provision of credit and acts as a stimulus to trade and commerce by giving a degree of confidence to parties dealing with each other. Secondly, it helps reduce litigation, promotes economy of time and is an efficient method in resolving debt between parties. Thirdly, natural equity requires that cross-demands should compensate each other by deducting the lesser sum from the greater.
+
+# Segment 5
+
+At least five different meanings can be ascribed to the term ‘set-off’, namely, (a) statutory or legal set-off; (b) common law set-off; (c) equitable set-off; (d) contractual set-off; and (e) insolvency set-off.
+---
+#
+# IBC Laws
+
+# Segment 6
+
+- Contractual set-off is a matter of agreement, rather than a separate application of set-off. The parties are free to mutually agree on the outcomes they desire. Being consensual, when expressly stated, the normal rules of set-off regarding mutuality of credits or debts, liquid debts, and connected debts – aspects relevant and noticed below while dealing with statutory/legal set-offs or even insolvency set-off – may not apply. The contract, however, should be within bounds of legality and public policy.
+- Further, the normal requirements of the law of contracts, viz. intention to create legal relationship, acceptance, consideration etc. should be established for a valid contractual set-off.
+
+# Segment 7
+
+- Ascertaining the applicability of contractual set-off requires an assessment of the understanding whether the right is conferred by the agreement, as the court gives effect to the intention of the parties as to how they should deal.
+- The right to set-off may be explicit in the words of the agreement, or can be gathered by existence of oral or implied agreement to set-off, reflecting an understanding to the said effect.
+
+# Segment 8
+
+- Statutory or legal set-off is created by a statute. For example, Order VIII Rule 6 of the Code of Civil Procedure, 1908 states that where a suit for recovery of money is filed, the defendant can claim set-off against the plaintiff’s demand for any ascertained sum of money legally recoverable by the defendant from the plaintiff, but not exceeding the pecuniary limits of the jurisdiction of the court.
+- For set-off in law, the obligations existing between the two parties must be debts which are for liquidated sums or money demands which can be ascertained with certainty. Both the debts must be mutual cross-obligations, that is, cross-claims between the parties in the same right.
+
+# Segment 9
+
+- A few judgments of this Court and the High Courts allow the defendant to claim equitable set-off in respect of an unascertained sum of money payable as damages. Equitable set-off can also be claimed in respect of an ascertained sum of money.
+- However, the claim for an equitable set-off must have a connection between the plaintiff’s claim for the debt and the defendant’s claim to set-off, which would make it inequitable to drive the defendant to a separate suit.
+---
+#
+# Document
+
+# Segment 10
+
+Rory Derham on the law of set-offs observes that insolvency set-offs should not be equated with equitable set-offs. This statement reflects the development of law in the United Kingdom, which has resulted in enactment of special provisions on set-off in case of insolvency. We need not examine in detail the law as applicable to insolvency set-off in the United Kingdom for the present decision, albeit it is relevant to state that they are broader and wider than the provisions of equitable set-off. Insolvency set-off under the law of the United Kingdom is permitted when there are mutual debts, mutual credits and other mutual dealings between the parties at the relevant cut-off time, which is essentially the stage of commencement of the liquidation process. We shall subsequently examine the term “mutual dealings” as applicable to liquidation proceedings in India.
+
+# Segment 11
+
+Analysis of the provisions of IBC relating to the Corporate Insolvency Resolution Process, liquidation proceedings and application to the facts of present case.
+
+# Segment 12
+
+In the present case we are examining and concerned with the provisions as applicable to the Corporate Insolvency Resolution Process in Chapter II Part II of the IBC, which consists of the compendium of Sections from 6 to 32A of the IBC. In the course of our discussion, we would also be referring to Section 53 of the IBC, which is a part of Chapter III Part II, and relates to the liquidation process.
+
+# Segment 13
+
+At the outset we should record, that there is a difference between the Corporate Insolvency Resolution Process and the liquidation process of the IBC. The Corporate Insolvency Resolution Process focuses on and fosters rehabilitation, revival and resolution of the corporate debtor, whereas the liquidation process focuses on the constellation of assets of the company in liquidation, and distribution and payment to the creditors from the liquidation estate in terms of the order of preference set out in the insolvency statute.
+
+Unlike the provisions of the Companies Act, 1956 or the Companies Act, 2013, IBC in the case of Corporate Insolvency Resolution Process does not give the indebted creditors the right to set-off against the corporate debtor. The earlier enactments – the Companies Act, 1956 vide Section 529, and the Companies Act, 2013 vide Section 325 (now omitted) – did permit set-off per the Provincial Insolvency Act, 1920, which enactment is now repealed. Accordingly, under the Companies Acts, in terms of the provisions of Section 46 of the Provincial Insolvency Act, 1920, indebted creditors’ right to set-off against the corporate debtor was statutorily recognised subject to satisfaction of certain conditions. Significantly, in the case of partnerships and individual bankruptcies, Section 17326 of the IBC permits set-off. Regulation 29 of the Insolvency and Bankruptcy Board of India (Liquidation Process) Regulations, 2016 provides for mutual credits and setoff and reads:
+
+“29. Mutual credits and set-off.— Where there are mutual dealings between the corporate debtor and another party, the sums due from one party shall be set off against the sums due from the other to arrive at the net amount payable to the corporate debtor or to the other party.”
+
+# Segment 14
+
+Section 36(4) in Chapter III Part II of the IBC deals with the exclusion of assets that do not form part of the liquidation estate. Section 36(4) permits the Insolvency and Bankruptcy Board of
+---
+#
+# IBC Laws
+
+# Segment 15
+
+- Assets specified for set-off in mutual dealings between corporate debtor and creditor
+- Exclusion of assets from liquidation estate
+- Preferred status of creditor with set-off under Section 36(4) of IBC
+
+# Segment 16
+
+- Liquidation Regulations framed under powers of the Board
+- Set-off permitted under Regulation 29 of Liquidation Regulations
+- Definition of 'mutual dealings' for insolvency set-off
+
+# Segment 17
+
+- Insolvency set-off under UK insolvency law
+- Requirement of mutuality in bankruptcy set-off
+- Comparison with contractual, statutory, and equitable set-off
+
+# Group Section: Insolvency Set-Off in the United Kingdom
+
+# 17.1
+
+Examination of insolvency set-off in Bank of Credit and Commerce International SA case
+
+# 17.2
+
+Mandatory nature of insolvency set-off in UK highlighted in National Westminster Bank Ltd. case
+
+|Insolvency Act, 1986|Insolvency Rules, 1986|
+|---|---|
+|Provisions for mutual credits, debts, and dealings|Requirement for balance provable in administration|
+---
+#
+
+# IBC Laws
+
+# Segment 3
+
+- The setoff does not occur automatically once the company enters into the administration process. It applies once the intention to distribute the assets is announced by the administrator.
+- The doctrine of set-off does not apply in case of company voluntary arrangement under Part I of the Insolvency Act, 1986.
+
+# Segment 4
+
+- Rory Derham observes that the insolvency set-off section not being expressly applicable to a company voluntary arrangement, any set-off, in the absence of contractual right of set-off, does not apply.
+- The right to set-off in the absence of contractual right to set-off depends on the statute of set-off and equitable set-off.
+
+# Segment 5
+
+- A claim against the corporate debtor incurred after initiation of the administration cannot be set-off against the debtor’s cross-claim for lack of mutuality.
+- An obligation arising out of an instrument may be set-off against a simple contract debt, and a secured debt may be set-off against an unsecured creditor.
+
+# Segment 6
+
+- The requirement of same parties means that A’s right to sue B cannot be set-off against A’s debt to C or that a joint demand cannot be set-off against a separate demand.
+
+# Segment 7
+
+- The requirement of mutuality will fail in respect of prior claims against the debtor company, where the receiver carries on business of the debtor company under a specific agreement to which the creditor and the corporate debtor are also parties.
+
+# Segment 8
+
+- It is not necessary that the claim and crossclaim should arise on the same contract, albeit it should be a close and inseparable relationship or connection between the dealings and the transactions which give rise to the respective claims.
+- Claim for equitable set-off should arise out of the same transaction, or transactions that can be regarded as one transaction.
+
+# Segment 9
+
+- Mutuality can exist when there are even several distinct and independent transactions, albeit between the same parties functioning in the same right or capacity.
+---
+#
+
+# Segment 22
+
+- The expression ‘mutual dealings’ for the purpose of Regulation 29 of the Liquidation Regulations is wider than the statutory set-off postulated under Order VIII Rule 6 of CPC, as well as equitable set-off under the common law as applicable in India.
+- Insolvency set-off applies when demands are between the same parties.
+- Mutual dealings are concerned with the relationship and apposite identity of the parties giving rise to the respective claims.
+
+# Segment 23
+
+- Set-off of the dues payable by the Corporate Debtor for a period prior to the commencement of the Corporate Insolvency Resolution Process cannot be made and is not permitted in law from the dues payable to the Corporate Debtor post the commencement of the Corporate Insolvency Resolution Process.
+- A debtor cannot improve his position as regards set-off by acquiring debts incurred by the assignor creditor which are payable to a third party after notice of assignment of his debt by the creditor.
+
+# Segment 24
+
+- Insolvency set-off as a proposition mitigates against the doctrine of pari passu.
+- Insolvency set-off gives primacy and an overriding effect to the creditor who is entitled to set-off mutual credits.
+- When cross demands are set-off, the assets available for distribution amongst the general body of creditors would be depleted in favour of a single creditor with a set-off entitlement.
+
+# Segment 25
+
+- Apart from the pari passu principle, the United Kingdom insolvency law also relies on the common law principle of anti-deprivation.
+- The principle encapsulates that a person cannot contract to obtain a more beneficial position in the event of bankruptcy than what the law otherwise provides.
+---
+#
+# Document
+
+# Segment 1
+
+- IBC Laws® | www.ibclaw.in
+
+# Segment 2
+
+their proportional dues by preventing any one creditor from getting more than their deserved share. The anti-deprivation principle on the other hand aims at conservation of the insolvent estate for the benefit of the creditors.
+
+# Segment 3
+
+Having examined the different concepts of set-off including insolvency set-off, we would now like to examine the contentions raised by the parties with reference to the provisions of the Corporate Insolvency Resolution Process under the IBC.
+
+# Segment 4
+
+The IBC is an Act to consolidate and amend the laws relating to reorganisation and insolvency resolution of corporate persons, partnership firms and individuals in a time bound manner for maximisation of value of assets of such persons, to promote entrepreneurship, availability of credit and balance the interest of stakeholders, etc. The IBC codifies the law of insolvency and bankruptcy. The IBC is a complete code in itself, except where it refers and permits application of the provisions of other enactments, as has been consistently held by this Court in Indian Overseas Bank v. RCM Infrastructure Ltd. and Another, Innoventive Industries Limited v. ICICI Bank and Another, Embassy Property Developments Private Limited. v. State of Karnataka and Others, and V. Nagarajan v. SKS Ispat and Power Limited and Others.
+
+# Segment 5
+
+- Section 238 of the IBC states that the provisions of the Code would override other laws. The provisions of this Code shall have effect, notwithstanding anything inconsistent therewith contained in any other law for the time being in force.
+
+# Segment 6
+
+Section 243 deals with the repeal of certain enactments and also incorporates the savings clause. Sub-section (1) states that Provincial Insolvency Act, 1920 is hereby repealed. Sub-section (2) does not apply in the present case. Provincial Insolvency Act, 1920 did not apply to the Corporate Insolvency Resolution Process stage.
+
+# Segment 7
+
+Given the aforesaid legal position, we do not think that the provisions of statutory set-off in terms of Order VIII Rule 6 of CPC or insolvency set-off as permitted by Regulation 29 of the Liquidation Regulations can be applied to the Corporate Insolvency Resolution Process. The aforesaid rule would be, however, subject to two exceptions or situations. The first, if at all it can be called an exception, is where a party is entitled to contractual set-off, on the date which is effective before or on the date the Corporate Insolvency Resolution Process is put into motion or commences. The reason is simple. The Corporate Insolvency Resolution Process does not preclude application of contractual set-off. During the moratorium period with initiation of the Corporate Insolvency Resolution Process, recovery, legal proceedings etc. cannot be initiated, enforced or remain in abeyance. Besides the moratorium effect, the terms of the contract remain binding and are not altered or modified.
+
+# Segment 8
+
+The foundation of contractual set-off is based on the same ground as in the case of equitable set-off, which is impeachment of title, albeit contractual set-off is a result of mutual agreement that permits set-off and adjustment. Therefore, if a debtor’s title to sue is impeached before the Corporate Insolvency Resolution Process is set into motion, so should the title of the Resolution Professional, who in terms of Section 25 of the IBC has the duty to preserve and protect assets of the corporate debtor, including continuing the business operations of the corporate debtor. The Resolution Professional takes the debtor’s property subject to all clogs and fetters affecting it in the hands of the debtor.
+---
+#
+
+# IBC Laws
+
+# 32. The second exception will be in the case of ‘equitable set-off’ when the claim and counter claim in the form of set-off are linked and connected on account of one or more transactions that can be treated as one.
+
+- The set-off should be genuine and clearly established on facts and in law.
+- It should make it inequitable and unfair that the debtor be asked to pay money without adjustment sought that is fully justified and legal.
+- The amount to be adjusted should be a quantifiable and unquestionable monetary claim.
+- The Corporate Insolvency Resolution Process is a time-bound summary procedure.
+- Set-off of this nature does not require legal proceedings.
+- Set-off of money is to be given against money alone.
+- It can be denied when grant of relief will defeat equity and justice.
+
+# 33. 'Transactional Set-Off'
+
+We would borrow the term ‘transactional set-off’ instead of equitable set-off for the second exception.
+
+- The second exception refers to an ascertained amount.
+- It relies on equitable right when the statute is silent.
+- It is an equitable right because the transactions are close and connected.
+- It would be unjust to bifurcate the connected transactions.
+
+# 34. Balance with Doctrines
+
+While accepting contractual and transactional set-off, a balance with the doctrines of pari passu and anti-deprivation has been struck.
+
+# 35. Legal Position
+
+The legal position addresses the argument raised on behalf of the appellant Airtel entities regarding set-off allowed by the Resolution Professional.
+
+# 36. House of Lords Decision
+
+The decision in British Eagle International Airlines Ltd v. Compagnie Nationale Air France demonstrates the interaction between contractual set-off and insolvency set-off rules in the UK.
+
+Print Date: June 6, 2024
+---
+# 37. Finding on IBC as a Complete Code
+
+Our finding that the IBC is a complete code relying upon the opening part of the enactment and Sections 238 and 243 takes care and nullifies the argument raised by the appellant Airtel entities that they are entitled to statutory set-off or insolvency set-off, in the Corporate Insolvency Resolution Proceedings under Chapter II Part II of the IBC. Regulation 29 of the Liquidation Regulations does not apply to Part II of the IBC. The legislation or even the legislative intent permits neither statutory set-off, nor insolvency set-off. In support of our conclusion, we would like to refer to the statutory provisions, and meet the arguments to the contrary raised by the appellants.
+
+# 38. Argument on Sections 30(2)(b)(ii) and 53 of the IBC
+
+This brings us to the argument raised by the Airtel entities who have placed reliance on Section 30(2)(b)(ii) and Section 53 of the IBC. The relevant provisions of the said Sections read as under:
+
+- # Section 30. Submission of resolution plan.
+
+The resolution professional shall examine each resolution plan received by him to confirm that each resolution plan provides for the payment of debts of operational creditors in such manner as may be specified by the Board which shall not be less than the amount that would have been paid to such creditors, if the amount to be distributed under the resolution plan had been distributed in accordance with the order of priority in sub-section (1) of Section 53.
+- # Section 53. Distribution of assets.
+
+Notwithstanding anything to the contrary contained in any law enacted by the Parliament or any State Legislature for the time being in force, the proceeds from the sale of the liquidation assets shall be distributed in the following order of priority and within such period and in such manner as may be specified, namely:
+
+- (a) the insolvency resolution process costs and the liquidation costs paid in full;
+- (b) the following debts which shall rank equally between and among the following:
+- i. workmen’s dues for the period of twenty-four months preceding the liquidation commencement date; and
+- ii. debts owed to a secured creditor in the event such secured creditor has relinquished security in the manner set out in Section 52;
+- (c) wages and any unpaid dues owed to employees other than workmen for the period of twelve months preceding the liquidation commencement date;
+---
+#
+
+# IBC Laws
+
+# Segment 39
+
+The Airtel entities have contested the conclusion by urging that Section 30 of the IBC seeks to ensure that the assets and liabilities of the corporate debtor, as recorded in the resolution plan, correspond to the liquidation estate of the corporate debtor in the event of liquidation. The provision is to ensure smooth transition between reorganisation under the Corporate Insolvency Resolution Process and the liquidation process. In case a contrary view is taken, anomalies will arise. In the event the corporate debtor undergoes liquidation, Section 36(4)(e) and Regulation 29 would apply. However, if the Resolution Professional proceeds in terms of Section 25 and secures the assets from the creditors, the creditors would not be entitled to claim set-off during the course of the Corporate Insolvency Resolution Process, which is earlier in the point of time.
+
+# Segment 40
+
+The arguments are fallacious and should not be accepted. Sub-section (2)(b)(ii) to Section 30 does not support the contention of the Airtel entities. Sub-section (2) to Section 30 deals with the resolution plan and the quantum of payment required to be made when considering a resolution plan
+---
+#
+# IBC Laws
+
+# Chapter II Part II of the IBC
+
+- The Resolution Professional must examine each resolution plan to ensure payment of debts to operational creditors as specified by the Board.
+- Payment of debts to operational creditors should not be less than what they are entitled to under Section 53(1) of the IBC.
+
+# Reasons for Not Supporting Insolvency Set-Off
+
+- Section 30(2)(b)(ii) does not support insolvency set-off in the Corporate Insolvency Resolution Process.
+- Chapter III Part II provisions are not applicable to Chapter II Part II of the IBC.
+- Section 30(2)(b)(ii) pertains to amounts to be paid to creditors, not payable by creditors to the corporate debtor.
+- Legislative mandate in Chapter II Part II does not recognize insolvency set-off.
+
+# Relevance of Previous Judgments
+
+- Judgment in Ebix Singapore Private Limited v. Committee of Creditors emphasizes the need for a time-bound framework in the IBC.
+- Decision in Swiss Ribbons Private Limited v. Union of India discusses the consideration of set-offs by Resolution Professionals.
+- Judgment in The Official Liquidator of High Court of Karnataka v. Smt. V. Lakshmikutty permits insolvency set-off based on specific Acts.
+
+Print Date: June 6, 2024
+---
+#
+
+# Segment 45:
+
+- Corporate debtor is undergoing the Corporate Insolvency Resolution Process, not liquidation.
+
+# Segment 46:
+
+- Insolvency set-off under the IBC is not automatic or self-executing.
+
+# Segment 47:
+
+- Definitions of 'claim' and 'debt' in the IBC do not support the argument that set-off is self-executing.
+
+# Segment 48:
+
+- Insolvency set-off is not automatic or self-executing.
+
+# Segment 49:
+
+- UNCITRAL Legislative Guide on Insolvency Law states the importance of set-off to avoid misuse of insolvency proceedings.
+
+# Segment 50:
+
+- Adjustments of set-off in mutual dealings are based on contractual agreements.
+---
+#
+
+# Segment Headers
+
+# Conclusion
+
+# Segment Lists
+
+- IBC Laws® | www.ibclaw.in
+
+# Segment KeyValuePairs
+
+References:
+
+1. For short, ‘IBC’.
+2. For short- ‘The appellants’ or ‘Airtel entities’.
+3. For short- ‘Aircel entities’.
+4. For short- ‘DoT’.
+5. For short- ‘the TDSAT’.
+6. For short- ‘interconnect charges’.
+7. Section 5(1) of IBC– “Adjudicating Authority”, for the purposes of this Part, means National Company Law Tribunal constituted under Section 408 of the Companies Act, 2013 (18 of 2013).
+8. For short- ‘Telenor India’.
+
+# Segment Paragraphs
+
+Justified on the ground of equitable set-off. The set-off to this extent has been permitted and allowed by the Resolution Professional. The transaction for purchase of the right to use the spectrum is an entirely different and unconnected transaction. The agreement to purchase the spectrum encountered obstacles because the DoT had required bank guarantees to be furnished. Accordingly, Airtel entities, on the request of Aircel entities had furnished bank guarantees on their behalf. The bank guarantees were returned and accordingly Airtel entities became liable to pay the balance amount in terms of the letters of understanding. The amounts have become payable post the commencement of the Corporate Insolvency Resolution Process. For the same reason, we will also reject the argument that by not allowing set-off, new rights are being created and, therefore, Section 14 of the IBC will not be operative and applicable. Moratorium under Section 14 is to grant protection and prevent a scramble and dissipation of the assets of the corporate debtor. The contention that the “amount” to be set-off is not part of the corporate debtor’s assets in the present facts is misconceived and must be rejected.
+
+Having considered the contentions raised by the appellant Airtel entities in detail, and in light of the provisions of the IBC relating to the Corporate Insolvency Resolution Process, we do not find any merit in the present appeals and the same are dismissed. There will be no order as to costs.
+
+NEW DELHI; JANUARY 03, 2024.
+
+# Segment Tables
+
+Print Date:
+June 6, 2024
+---
+# References
+
+- Philip R. Wood, Set-off and Netting, Derivatives, Clearing Systems, (Sweet & Maxwell 2007).
+- Kelly R. Palmer, The Law of Set Off in Canada (Canada Law Book 1993).
+- Jurong Aromatics Corporation Pte Ltd. and Others v. BP Singapore Pte Ltd. and Another, (2018) SGHC 215. (High Court of Republic of Singapore)
+- Federal Commerce and Navigation Co. v. Molena Alpha Inc., (1978) Q.B. 927. (Lord Denning)
+- Ministre du Revenu national c. Caisse Populaire du bon Conseil, 2009 SCC 29 (S.C.C.) (Supreme Court of Canada)
+- Jeffs v. Wood, [1723] 2 Eq Ca. Ab. 10.
+- Canadian Encyclopedic Digest, Release 3, “Personal Property” by Gloria Mintah, § 187, CD-ROM (Thomson Reuters Canada Limited, August 2009); See also Palmer, supra note 12, at 263.
+- Citibank Canada v. Confederation of Life Insurance Company, 42 CRB (3)(d) 288.
+- Ramdhari v. Premanand, 19 Cal WN 1183.
+- Maheswari Metals & Metal Refinery, Bangalore v. Madras State Small Industries Corporation, AIR 1974 Mad 39.
+
+# Order VIII Rule 6
+
+Particulars of set-off to be given in written statement.—(1) Where in a suit for the recovery of money the defendant claims to set-off against the plaintiff’s demand any ascertained sum of money legally recoverable by him from the plaintiff, not exceeding the pecuniary limits of the jurisdiction of the Court, and both parties fill the same character as they fill in the plaintiff’s suit, the defendant may, at the first hearing of the suit, but not afterwards unless permitted by the Court, present a written statement containing the particulars of the debt sought to be set-off.
+
+Effect of set-off.—The written statement shall have the same effect as a plaint in a cross-suit so as to enable the Court to pronounce a final judgment in respect both of the original claim and of the set-off, but this shall not affect the lien, upon the amount decreed, of any pleader in respect of the costs payable to him under the decree.
+
+The rules relating to a written statement by a defendant apply to a written statement in answer to a claim of set-off.
+
+# Additional References
+
+- For short- ‘NCLAT’.
+- Palmer, supra note 12, at 263.
+- Palmer, supra note 12, at 263.
+- For the purpose of the present decision, we need not examine the contours and conditions of Order VIII Rule 6 CPC.
+---
+# Segment 25
+
+- Rory Derham, Derham on the Law of Set-Off (Oxford University Press 4th ed. 2010).
+
+# Segment 26
+
+Section 173. Mutual credit and set-off.—(1) Where before the bankruptcy commencement date, there have been mutual dealings between the bankrupt and any creditor, the bankruptcy trustee shall—
+
+- (a) take an account of what is due from each party to the other in respect of the mutual dealings and the sums due from one party shall be set-off against the sums due from the other;
+- (b) only the balance shall be provable as a bankruptcy debt or as the amount payable to the bankruptcy trustee as part of the estate of the bankrupt.
+
+(2) Sums due from the bankrupt to another party shall not be included in the account taken by the bankruptcy trustee under sub-section (1), if that other party had notice at the time they became due that an application for bankruptcy relating to the bankrupt was pending.
+
+# Segment 27
+
+For short- ‘the Liquidation Regulations’.
+
+# Segment 28
+
+Section 36 (4). The following shall not be included in the liquidation estate assets and shall not be used for recovery in the liquidation—
+
+- (a) assets owned by a third party which are in possession of the corporate debtor, including—
+- - (i) assets held in trust for any third party;
+- (ii) bailment contracts;
+- (iii) all sums due to any workman or employee from the provident fund, the pension fund and the gratuity fund;
+- (iv) other contractual arrangements which do not stipulate transfer of title but only use of the assets; and
+- (v) such other assets as may be notified by the Central Government in consultation with any financial sector regulator;
+
+(b) assets in security collateral held by financial services providers and are subject to netting and set-off in multilateral trading or clearing transactions;
+- (c) personal assets of any shareholder or partner of a corporate debtor as the case may be provided such assets are not held on account of avoidance transactions that may be avoided under this Chapter;
+- (d) assets of any Indian or foreign subsidiary of the corporate debtor; or
+- (e) any other assets as may be specified by the Board, including assets which could be subject to set off on account of mutual dealings between the corporate debtor and any creditor.
+
+# Segment 29
+
+For short- ‘the Board’.
+---
+#
+
+# Document
+
+# Segment Headers
+
+- 30. [1996] Ch. 245. (Appeal Committee of the House of Lords)
+- 31. [1996] A.C. 243. (House of Lords)
+- 32. 1972 AC 785.
+- 33. Derham, supra note 25, ¶6.124.
+- 34. (1991) 171 CLR 609.
+- 35. (2020) SGCA 09.
+- 36. AIR 1977 Ker 68.
+- 37. The position may be different where the dues are payable by the debtor to the Corporate Debtor, in which case the liquidator may seek adjustment as a form of payment by the debtor. The reason is that the liquidator is under a statutory obligation to recover the dues from the debtor. Adjustment in such cases is statutory or legal set-off under the IBC/Companies Act. Insolvency set-off in Regulation 29 will not apply for want of mutuality.
+- 38. This will not satisfy the requirements of legal/statutory set-off and equitable set-off under the Code of Civil Procedure, 1908.
+- 39. Belmont Park Investments v. BNY Corporate Trustee Services Ltd. [2012] 1 AC 383.
+- 40. In the present decision, we are not examining the extent of, and the manner in which the anti-deprivation principle is applicable in India.
+- 41. (2022) 8 SCC 516.
+- 42. (2018) 1 SCC 407.
+- 43. (2020) 13 SCC 308.
+- 44. (2022) 2 SCC 244.
+- 45. Section 238. Provisions of this Code to override other laws.—The provisions of this Code shall have effect, notwithstanding anything inconsistent therewith contained in any other law for the time being in force or any instrument having effect by virtue of any such law.
+- 46. See Derham, supra note 25 and Gerard McCormack,Set-off under the European Insolvency Regulation (and English Law), 29 IIR 100, 100-117 (2020).
+- 47. 1975 1 WLR 758.
+- 48. McCormack, supra note 46.
+- 49. The contractual and consequently the legal position has undergone a change as the IATA clearing house rules have since been amended. Therefore, this judgment should be read and understood with caution.
+
+# Print Date: June 6, 2024
+---
+#
+
+# Document
+
+# Segment Headers
+
+- 50. (2022) 2 SCC 401.
+- 51. (2019) 4 SCC 17.
+- 52. Career Institute Educational Society v. Om Shree Thakurji Educational Society,2023 SCC OnLine SC 586.
+- 53. (1981) 3 SCC 32.
+- 54. Section 60 Adjudicating authority for corporate persons.—
+
+# Segment KeyValuePairs
+
+- Section 60 Adjudicating authority for corporate persons.—
+- (5) Notwithstanding anything to the contrary contained in any other law for the time being in force, the National Company Law Tribunal shall have jurisdiction to entertain or dispose of—
+- (a) any application or proceeding by or against the corporate debtor or corporate person;
+- (b) any claim made by or against the corporate debtor or corporate person, including claims by or against any of its subsidiaries situated in India; and
+- (c) any question of priorities or any question of law or facts, arising out of or in relation to the insolvency resolution or liquidation proceedings of the corporate debtor or corporate person under this Code.
+- Section 3 Definitions. —
+- (6) “claim” means—(a) a right to payment, whether or not such right is reduced to judgment, fixed, disputed, undisputed, legal, equitable, secured or unsecured;
+- (b) right to remedy for breach of contract under any law for the time being in force, if such breach gives rise to a right to payment, whether or not such right is reduced to judgment, fixed, matured, unmatured, disputed, undisputed, secured or unsecured.
+- (11) “debt” means a liability or obligation in respect of a claim which is due from any person and includes a financial debt and operational debt.
+
+# Segment Lists
+
+- 56. UNCITRAL Legislative Guide on Insolvency Law, Chapter G. p.155-156 (2005).
+- 57. Ibid.
+
+Original judgment copy is available here.
+
+Click on below button to search similar judgments:
+
+Print Date: June 6, 2024

@@ -1,0 +1,7 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1744443341;s:8:"modified";i:1744443341;}s:7:"creator";s:11:"Atul Grover";s:4:"user";s:5:"admin";s:11:"last_change";a:9:{s:4:"date";i:1744443341;s:2:"ip";s:12:"49.43.99.208";s:4:"type";s:1:"C";s:2:"id";s:43:"digital_agents:agents:applicant_agents:ddva";s:4:"user";s:5:"admin";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:6600;s:4:"mode";s:4:"page";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:503:"{
+"agentName": "Default Detection and Verification Agent (DDVA)",
+"agentDescription": "Analyzes financial data, payment records, and contractual obligations to detect potential and actual defaults by debtors. Automates the process of gathering, verifying, and organizing evidence required to support insolvency applications filed by creditors or corporate debtors.",
+"version": "1.0",
+"status": "Conceptual",
+"goals": [
+  "Continuously monitor debtor accounts receivable/payable schedules against con…";}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1744443341;}s:7:"creator";s:11:"Atul Grover";s:4:"user";s:5:"admin";s:11:"last_change";a:9:{s:4:"date";i:1744443341;s:2:"ip";s:12:"49.43.99.208";s:4:"type";s:1:"C";s:2:"id";s:43:"digital_agents:agents:applicant_agents:ddva";s:4:"user";s:5:"admin";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:6600;s:4:"mode";s:4:"page";}}}

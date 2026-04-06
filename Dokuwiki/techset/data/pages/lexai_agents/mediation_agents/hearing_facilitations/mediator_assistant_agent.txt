@@ -1,0 +1,7 @@
+1. Mediator Assistant Agent
+
+The Mediator Assistant Agent supports mediators and insolvency professionals in managing the flow of negotiation sessions. It acts as a real-time digital co-pilot—summarizing discussions, tracking commitments, and identifying common ground among parties. By monitoring dialogue content, it highlights areas of convergence and unresolved issues for structured follow-up.
+
+The agent can automatically generate interim session summaries and “minutes of mediation,” ensuring transparency and consistency in documentation. It also manages procedural compliance, reminding mediators of time limits, confidentiality statements, and agenda progression.
+
+This digital assistant enhances mediator efficiency, allowing them to focus on interpersonal dynamics and decision facilitation rather than administrative tasks. It thus promotes a smoother, more organized, and legally compliant negotiation process.

@@ -1,0 +1,110 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Stakeholder Communication and Management Agent (SCMA for Applicants)&quot;,
+&quot;agentDescription&quot;: &quot;Facilitates and tracks communication initiated by an insolvency applicant (Creditor or Corporate Debtor) with relevant parties like the corporate debtor, other potential creditors, legal counsel, proposed IPs, and courts, particularly during the application preparation and filing stage. Automates routine notifications and updates related to the application process.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Maintain an organized contact list of key parties relevant to the application (Debtor contacts, Own Legal Team, Proposed IP, Court Registry contacts).&quot;,
+  &quot;Automate the sending of standardized communications (e.g., formal notices required pre-application like Sec 8 Demand Notice, follow-ups, information requests).&quot;,
+  &quot;Distribute draft or final application documents securely to internal teams or legal counsel for review.&quot;,
+  &quot;Track correspondence related to the insolvency application (sent and received, if possible).&quot;,
+  &quot;Generate communication logs for record-keeping and potential submission as evidence (e.g., proof of service).&quot;,
+  &quot;Facilitate coordinated communication if multiple applicants are involved (less common, but possible).&quot;,
+  &quot;Provide alerts on communication responses or lack thereof within defined timelines.&quot;,
+  &quot;Ensure consistent messaging from the applicant&#039;s side.&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Contact Management: Stores and categorizes contact details for debtors, legal teams, proposed IPs, etc.&quot;,
+  &quot;Templating Engine: Uses predefined templates for common communications (demand notices, intro letters, status updates).&quot;,
+  &quot;Automated Distribution: Sends communications via primary channels like email.&quot;,
+  &quot;Document Sharing Linkage: Allows attaching or linking documents to communications.&quot;,
+  &quot;Communication Logging: Automatically records outgoing communications (timestamp, recipient, subject) and allows manual logging of incoming communications.&quot;,
+  &quot;Delivery Tracking (Basic): Tracks email delivery status (sent, bounced) based on mail server responses.&quot;,
+  &quot;Task Reminders: Sets reminders for follow-up communications.&quot;,
+  &quot;Audit Trail: Maintains a log of agent activities related to communication.&quot;,
+  &quot;Reporting: Generates summaries of communications sent/received regarding the application.&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Financial Creditors (Applicant)&quot;,
+  &quot;Operational Creditors (Applicant)&quot;,
+  &quot;Corporate Debtors (Applicant)&quot;,
+  &quot;Legal Counsel representing the Applicant&quot;,
+  &quot;Administrative Staff supporting the Applicant&#039;s legal/finance team&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Applicant&#039;s Details.&quot;,
+  &quot;Corporate Debtor&#039;s Contact Information.&quot;,
+  &quot;Contact lists for other relevant parties (Legal teams, Proposed IP, Co-applicants if any).&quot;,
+  &quot;Communication Templates (e.g., Demand Notice, Information Request).&quot;,
+  &quot;Documents to be shared (Draft applications, Evidence summaries).&quot;,
+  &quot;Email Server configuration details (for sending emails).&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Sent Emails.&quot;,
+  &quot;Communication Log Reports (CSV, PDF).&quot;,
+  &quot;Delivery Status summaries (basic).&quot;,
+  &quot;Formatted Notices (e.g., Section 8 Demand Notice - PDF).&quot;,
+  &quot;Audit Trail report.&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Streamlines communication efforts during the critical application phase.&quot;,
+  &quot;Ensures consistency and professionalism in applicant communications.&quot;,
+  &quot;Provides a reliable record of correspondence, crucial for procedural compliance (e.g., proof of notice).&quot;,
+  &quot;Reduces manual effort in sending routine notifications and follow-ups.&quot;,
+  &quot;Improves organization and tracking of communication related to the filing.&quot;,
+  &quot;Helps maintain alignment within the applicant&#039;s team and with their legal counsel.&quot;
+],
+&quot;requiredTools&quot;: [
+   {
+    &quot;toolCategory&quot;: &quot;Data Storage&quot;,
+    &quot;tools&quot;: [
+      &quot;Relational Databases (e.g., PostgreSQL, MySQL - for contacts, logs, templates)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Communication Services&quot;,
+    &quot;tools&quot;: [
+      &quot;Email Service APIs (e.g., SendGrid, AWS SES, Mailgun, Microsoft Graph API)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Backend Processing &amp; Logic&quot;,
+    &quot;tools&quot;: [
+      &quot;Programming Languages (e.g., Python, Java, Node.js)&quot;,
+      &quot;Web Frameworks (if UI needed: Flask, Django, etc.)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Templating &amp; Document Handling&quot;,
+    &quot;tools&quot;: [
+      &quot;Template Engines (e.g., Jinja2)&quot;,
+      &quot;PDF Generation Libraries (Optional, for generating formatted notices - e.g., ReportLab)&quot;,
+      &quot;Standard file handling libraries&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Scheduling &amp; Workflow&quot;,
+    &quot;tools&quot;: [
+      &quot;Task Schedulers (e.g., Cron, Celery - for follow-up reminders)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;User Interface (If applicable)&quot;,
+    &quot;tools&quot;: [
+      &quot;Frontend Frameworks (e.g., React, Angular, Vue.js)&quot;
+    ]
+  },
+   {
+     &quot;toolCategory&quot;: &quot;Security&quot;,
+     &quot;tools&quot;: [
+       &quot;Authentication &amp; Authorization frameworks&quot;
+    ]
+  }
+]</pre>
+
+<p>
+}
+</p>

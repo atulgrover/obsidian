@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://resolutionbazaar.com/feed.php">
+        <title>RESOLUTION BAZAAR</title>
+        <description>DIGITAL AGENTS FOR IBC PROCESSES</description>
+        <link>https://resolutionbazaar.com/</link>
+        <image rdf:resource="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-05-05T03:19:50+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=start&amp;rev=1746373795&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>RESOLUTION BAZAAR</title>
+        <link>https://resolutionbazaar.com/</link>
+        <url>https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=start&amp;rev=1746373795&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T15:49:55+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>start</title>
+        <link>https://resolutionbazaar.com/doku.php?id=start&amp;rev=1746373795&amp;do=diff</link>
+        <description>Insolvency &amp; Bankruptcy Code (IBC2016)
+
+communication_management_system
+  COMMUNICATION MANAGEMENT SYSTEM  Generative chatbots serve as a communication platform where stakeholders can seek answers to their queries regarding the insolvency process. These chatbots provide instant responses, helping to manage stakeholder expectations and reduce the workload of IPs by addressing routine inquiries.</description>
+    </item>
+</rdf:RDF>

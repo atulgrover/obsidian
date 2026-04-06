@@ -1,0 +1,114 @@
+<html>
+<p>
+	<p>
+		<p>
+			Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.
+		</p>
+	</p>
+	<h2>
+		National Company Law Appellate Tribunal
+	</h2>
+	<h2>
+		Andhra Bank vs F.M.Hammerle Textile Ltd on 13 July, 2018
+	</h2>
+	<p>
+		 1 NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI Company Appeal (AT) (Insolvency) No. 61 of 2018IN THE MATTER OF:Andhra Bank ...AppellantVs.M/s. F.M.Hammerle Textile Ltd. ...RespondentPresent: For Appellant: Mr. N.P.Gaur, Advocate For Respondent: Mr. Rishi Sehgal, Advocate for RP along with RP in person. Mr. U.C. Mittal, Advocate for CoC. ORDER
+	</p>
+	<p title="Fact" data-structure="Facts">
+		13.07.2018─ The Appellant- 'Andhra Bank' claimed to be a 'Financial Creditor' being guarantor of the 'Corporate Debtor'- 'M/s F.M.Hammerle Textiles Limited'. The Adjudicating Authority (National Company Law Tribunal), Chandigarh Bench, Chandigarh, on hearing the parties rejected the claim of the Bank by impugned order dated 17th November 2017.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		2. The Adjudicating Authority held that the Andhra Bank cannot be treated to be 'Financial Creditor' in view of Section 3(6) as the Appellant has no right to claim any amount. The Adjudicating Authority further observed that the right of remedy of appellant can arise only in case of breach of contract.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		3. Similar plea has been taken by the Respondents-'Resolution Professional' appearing on behalf of the 'Corporate Debtor'. Company Appeal (AT) (Insolvency) No. 61 of 2018 2
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		4. Learned counsel for the Appellant referred to Sections 5(7) r/w (8) of the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as 'I&amp;B Code') and submitted that Andhra Bank come within the meaning of 'Financial Creditor' for being treated as member of the 'Committee of Creditors'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		5. We have heard learned counsel for the parties and perused the record.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		The 'I&amp;B Code' consolidates the law relating to reorganization and insolvency resolution of corporate persons, partnership firms and inpiduals, in a time bound manner for maximization of value of assets of such persons, to promote entrepneurship, availability of credit and balance the interests of all the stakeholders including alteration in the priority of payment.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		6. The 'Corporate Insolvency Resolution Process' thereby is not a recovery proceeding and cannot be termed to be litigation between two adversaries. No dispute is settled in the process but steps for 'Corporate Insolvency Resolution Process' are taken not only for maximizing of value of assets of such person and to promote the entrepneurship, availability of credit and balance the interests of all the stakeholders. If a 'Resolution Applicant' is successful on approval of 'Resolution Plan' under Section 31, the 'Corporate Debtor' instead of going through the rigor of liquidation process, continues, though there may be change of management and ownership; the right of the Creditors does not extinguish, if claim is not taken care in the 'Resolution Plan'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		7. For instance, the right of guarantor, who may not have claim on the date of initiation of 'Corporate Insolvency Resolution Process' i.e. the date the application is admitted on behalf of the third party who has availed loan from Company Appeal (AT) (Insolvency) No. 61 of 2018 3 the 'Financial Creditor'. In case of failure to pay the loan amount given to the third party by the person having obtained guarantee, such person/Creditor is entitled to invoke guarantee to recover the amount from the guarantor, but only after completion of the period of the 'Moratorium'.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		8. While 'Moratorium' is declared under Section 13, in terms of clause (b) public announcement of the initiation of 'Corporate Insolvency Resolution Process' should be caused and call for the submission of claims under Section 15 of the 'I&amp;B Code'. In terms of Section 15, on public announcement of 'Corporate Insolvency Resolution Process', the creditors may file claim. The 'Interim Resolution Professional' is casted with the duty under Section 18(1)(b) to receive and collate all the claims submitted by creditors to him pursuant to the said advertisement.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		9. It is not necessary that all the claims as are submitted by the Creditor should be a claim matured on the date of initiation of Resolution Process/admission, even in respect of debt, which is due in future on its maturity, the 'Financial Creditor' or 'Operational Creditor' or 'Secured Creditor' or 'Unsecured Creditor' can file such claim. Therefore, the definition of 'Claim' as defined under Section 3(6) is to be read along with Section 13 read with Section 15 of the 'I&amp;B Code'.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		10. Even a creditor may choose not to file claim, if not matured and may decide to submit claim on its maturity, after completion of the period of 'Moratorium', subject to survival of the 'Corporate Debtor'. The debt which the 'Corporate Debtor' owes for payment in future, if not taken into consideration in the 'Resolution Plan' does not extinguish automatically and the creditors, Company Appeal (AT) (Insolvency) No. 61 of 2018 4 including the 'Financial Creditor' or 'Operational Creditor' or 'Secured Creditor' or 'Unsecured Creditor' has rights to claim the same.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		11. For example, if there is a default, a 'Financial Creditor' or 'Operational Creditor' may file application under Sections 7 or 9 for initiation of 'Corporate Insolvency Resolution Process'. Once it is initiated, order of 'Moratorium' is passed and the advertisement is issued all claimants whether his claim is matured or not are supposed to file claim before the 'Resolution Professional'. The 'Resolution Professional' cannot reject one or other claim on the ground that only the person whose claim has been matured can be looked into and other claim not matured cannot be entertained.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		12. The only thing which is to be ascertained is whether the person who claimed to be 'Financial Creditor', whether his debt owed to him come within the meaning of 'Financial Debt' as defined under Section 5(8) which reads as follows: -
+	</p>
+	<p title="Analysis of the law">
+		"(8) "financial debt" means a debt alongwith interest, if any, which is disbursed against the consideration for the time value of money and includes--
+	</p>
+	<p title="Analysis of the law">
+		(a) money borrowed against the payment of interest;
+	</p>
+	<p title="Analysis of the law">
+		(b) any amount raised by acceptance under any acceptance credit facility or its de-materialised equivalent;
+	</p>
+	<p title="Analysis of the law">
+		(c) any amount raised pursuant to any note purchase facility or the issue of bonds, notes, Company Appeal (AT) (Insolvency) No. 61 of 2018 5 debentures, loan stock or any similar instrument;
+	</p>
+	<p title="Analysis of the law">
+		(d) the amount of any liability in respect of any lease or hire purchase contract which is deemed as a finance or capital lease under the Indian Accounting Standards or such other accounting standards as may be pscribed;
+	</p>
+	<p title="Analysis of the law">
+		(e) receivables sold or discounted other than any receivables sold on nonrecourse basis;
+	</p>
+	<p title="Analysis of the law">
+		(f) any amount raised under any other transaction, including any forward sale or purchase agreement, having the commercial effect of a borrowing;
+	</p>
+	<p title="Analysis of the law">
+		(g) any derivative transaction entered into in connection with protection against or benefit from fluctuation in any rate or price and for calculating the value of any derivative transaction, only the market value of such transaction shall be taken into account;
+	</p>
+	<p title="Analysis of the law">
+		(h) any counter-indemnity obligation in respect of a guarantee, indemnity, bond, documentary letter of credit or any other instrument issued by a bank or financial institution;
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No. 61 of 2018 6
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(i) the amount of any liability in respect of any of the guarantee or indemnity for any of the items referred to in sub-clauses (a) to (h) of this clause;"
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		13. If it is shown that the debt has been disbursed against "consideration for time value of money" then it is treated to be a 'Financial Debt', which may include debt as mentioned in Clause (a) to (i) of Section 5(8).
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		14. From clause (8) of Section 5, we find that any indemnity obligation in respect of a guarantee also come within the meaning of 'Financial Debt' as defined under the said provision.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		15. Admittedly, the 'Corporate Debtor' has counter-indemnity obligation in respect of guarantee given by it to the Appellant- 'Andhra Bank', we hold that Andhra Bank come within the definition of 'Financial Creditor' as defined under Sections 5(7) r/w (8) of 'I&amp;B Code'. The 'Resolution Professional' and the Adjudicating Authority both having failed to consider the aforesaid provisions of law, we set aside the impugned order dated 17th November 2017.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		16. Learned counsel appearing on behalf of the 'Resolution Professional' submits that the 'Resolution Plan' approved by the sole member of the 'Committee of Creditors'- (State Bank of India) is pending consideration before the Adjudicating Authority. No order has been passed before because of the pendency of the appeal and in view of the order passed on 4th May 2018. In that view of the matter while we direct the Adjudicating Authority to exclude Company Appeal (AT) (Insolvency) No. 61 of 2018 7 the period during which the appeal was pending before this Appellate Tribunal i.e. from 20th February 2018 till today (13th July 2018) for the purpose of counting the period of 270 days, remit the matter with direction to the 'Resolution Professional' to place 'Resolution Plan' which has been cleared again before the 'Committee of Creditors', which will constitute two members i.e. State Bank of India and Andhra Bank. Both the members of the 'Committee of Creditors' will fix a date pferably by the beginning of the next month and pass order in terms of Section 30(4) of the 'I&amp;B Code'.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		17. We make it clear that we have allowed the Andhra Bank to be a member of the 'Committee of Creditors' that does not mean that they will raise objection to the 'Resolution Plan' in question. If they oppose it, they will have to give the ground. Only if the 'Resolution Plan' is not in accordance with Section 30(2), then a valid objection can be raised by Andhra Bank who has been added as a member of the 'Committee of Creditors' otherwise the Committee will approve it having already found to be viable and workable and 'Resolution Professional', and thereafter the 'Resolution Professional' will place the matter before the Adjudicating Authority for its order under Section 31.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		18. We further make it clear that if 'Resolution Plan' is approved and successful 'Resolution Applicant' takes over the management of the 'Corporate Debtor', the 'Corporate Debtor' will continue to be guarantor of the Andhra Bank as their right will not cease and as it cannot raise claim at this stage. Company Appeal (AT) (Insolvency) No. 61 of 2018 8
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		19. The appeal is allowed with aforesaid observations and directions. However, in the facts and circumstances of the case, there shall be no order as to cost.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(Justice S.J. Mukhopadhaya) Chairperson (Justice Bansi Lal Bhat) Member(Judicial)
+	</p>
+</p>
+</html>

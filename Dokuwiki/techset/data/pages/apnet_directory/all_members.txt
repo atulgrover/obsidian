@@ -1,0 +1,14 @@
+<sortable r2>
+^ Name  ^ IBBI Number  ^ Mobile Number  ^ Email  ^
+| Atul Grover | IBBI/IPA-002/IP-N00156/2017-18/10403 | 9814040900  | atulgrover@gmail.com |
+| SONAL GROVER | IBBI/IPA-002/IP-N00156/2017-18/10403 | 09876222999  | resolutionbazaar@gmail.com |
+| Atul Grover | vvvvvvvvvvvvvvv | 09814040900  | atulgroverr@gmail.com |
+| SONAL GROVER | IBBI/IPA-002/IP-N00156/2017-18/10403 | 09876222999  | ffffffffffffffffffff@gmail.com |
+| PD Hotels Pvt. Ltd. | 33 | 09781666555  | rrrrrrrrrrrrrr@zohomail.in |
+| PD Hotels Pvt. Ltd. 555555555555555555 | IBBI/IPA-002/IP-N00156/2017-18/10403 | 09781666555  | atulgroverr@gmail.com |
+| Atul Grover | bbbbbbbbbbbbbbbbbbbbb | 09814040900  | atulgroverr@gmail.com |
+| PRABHU DAYAL PARSOYA | IP-13748 | 9414324390  | prabhudparsoya@gmail.com |
+| Shyam Kishor Porwal | IP-13800 | 9717380438  | Sporwalca@gmail.com |
+<pagemod add_member>| @@Name@@ | @@IBBI Number@@ | @@Mobile Number@@  | @@Email@@ |
+</pagemod>
+</sortable>

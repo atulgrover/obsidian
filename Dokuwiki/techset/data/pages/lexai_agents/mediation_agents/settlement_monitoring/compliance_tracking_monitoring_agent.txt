@@ -1,0 +1,6 @@
+Compliance Tracking / Monitoring Agent
+The Compliance Tracking Agent continuously monitors the implementation of settlement or resolution terms post-approval by the CoC or NCLT. It maintains a digital register of obligations—such as payment schedules, asset transfers, and reporting milestones—and automatically checks whether each commitment is being fulfilled on time. This helps insolvency professionals maintain visibility over post-resolution performance.
+
+By integrating with financial statements, bank confirmations, and statutory filings, the agent verifies actual progress against agreed deliverables. Any deviation or delay triggers alerts to the insolvency professional, creditors, or monitoring committee. This ensures that stakeholders remain informed and can intervene before minor lapses escalate into defaults.
+
+Additionally, it creates automated compliance dashboards and audit trails to simplify periodic reporting to regulatory bodies like the IBBI or NCLT. This data-driven approach enhances transparency, accountability, and governance in the post-settlement phase.

@@ -1,0 +1,353 @@
+#
+
+# Supreme Court Case - Sanjay Pandurang Kalate v. Vistra ITCL (India) Ltd. and Ors.
+
+# Supreme Court Case - Sanjay Pandurang Kalate v. Vistra ITCL (India) Ltd. and Ors.
+
+# Case Details
+
+- Case Name: Sanjay Pandurang Kalate v. Vistra ITCL (India) Ltd. and Ors.
+- Civil Appeal Nos.: 7467-7468 of 2023
+- Decided on: 04-Dec-23
+
+# Coram
+
+- Dr. Justice D.Y. Chandrachud (CJI)
+- Mr. Justice J B Pardiwala
+- Mr. Justice Manoj Misra
+
+# Impugned Order
+
+Sanjay Pandurang Kalate v. Vistra ITCL (India) Ltd. & Ors.(2023) ibclaw.in 760 NCLAT, set aside.
+
+# Corporate Debtor
+
+Evirant Developers Pvt. Ltd.
+
+# Brief about the decision
+
+# Facts of the case
+
+- On 17 May 2023, the NCLT heard the application filed by the appellant under Section 7 of IBC.
+- No order was pronounced on that day. The order was uploaded by the Registry of the NCLT on 30 May 2023.
+- The appellant applied for a certified copy on 30 May 2023, which was received on 1 June 2023.
+- The appeal against the order was e-filed before the NCLAT on 10 July 2023.
+- The appellant filed an application for condonation of delay along with the appeal.
+
+# Existing rulings
+
+- V Nagarajan v. SKS Ispat: In V Nagarajan v. SKS Ispat (2021) ibclaw.in 157 SC, a three-judge Bench of Hon’ble Supreme Court noted that the significant difference between Section 421(3) of the Companies Act and Section 61(2) of the IBC is the absence of the words “from the date on which a copy of the order of the Tribunal is made available to the person aggrieved” in the latter. The Court held that limitation commences from the date of pronouncement and not the date of upload of the order or receipt of a certified copy. However, the Court expressly clarified that the time taken to procure the certified copy will be excluded from the calculation of the period of limitation, provided the appellant applies within the prescribed period of limitation under Section 61(2) of the IBC.
+
+Print Date: June 6, 2024
+---
+#
+# Document
+
+# Segment Headers
+
+# Decision of Supreme Court
+
+# A. Date on which the limitation begins to run for filing appeal u/s 61 of IBC
+
+# B. When is an order deemed to be pronounced i.e. Date of pronouncement of an order/judgment
+
+# C. Decision on the present case
+
+# Segment Lists
+
+- Section 61(2) provides for a limitation period of thirty days.
+- The proviso to the section allows the appeal to be filed after the expiry of the thirty-day period under certain conditions.
+- Rule 89(1) of the NCLT Rules indicates the distinction between cases listed for pronouncement of orders and other cases.
+- Part XIX of the NCLAT Rules governs the disposal of cases and pronouncement of orders.
+
+# Segment KeyValuePairs
+
+Print Date: June 6, 2024
+
+# Segment Paragraphs
+
+Sanket Kumar Agarwal & Anr. v. APG Logistics Pvt. Ltd.: Subsequently, in Sanket Kumar Agarwal & Anr. v. APG Logistics Pvt. Ltd.(2023) ibclaw.in 72 SC, Hon’ble Supreme Court clarified the law laid down in V Nagarajan and held that (i) the limitation stops running on the e-filing of an appeal before the NCLAT and not on presentation of a physical copy; (ii) the date on which the order is pronounced is to be excluded from the calculation of limitation, and (iii) the time taken by the NCLT to provide the appellant with the certified copy would be excluded from the calculation of limitation, provided the appellant applies within the prescribed period of limitation under Section 61(2) of the IBC.
+
+Decision of Supreme Court
+
+...
+
+# Segment Tables
+
+|Case|Date|Ruling|
+|---|---|---|
+|Sanket Kumar Agarwal & Anr. v. APG Logistics Pvt. Ltd.|2023|Clarification on limitation period and exclusion criteria|
+---
+#
+# Document
+
+# Segment Headers
+
+# Conclusion
+
+# Suggestion and appreciation
+
+# Segment Lists
+
+- Time for filing an appeal would commence only when the order appealed from was uploaded.
+- The period of limitation began to run on 30 May 2023.
+- The appeal should be restored to the NCLAT for reconsidering whether the appellant has shown sufficient cause for condoning the delay beyond thirty days.
+- We are not inclined to stay the CIRP at this stage.
+- To avoid situations such as these, in cases where the matter has been heard on a particular day but the order is pronounced on a later date, the NCLT must refrain from affixing the date of hearing on the order.
+
+# Segment KeyValuePairs
+
+Print Date: June 6, 2024
+
+# Group Sections
+
+# Conclusion
+
+The period of limitation began to run on 30 May 2023. The 30- day limitation period provided in Section 61(2) of the IBC concluded on 29 June 2023. Though the appeal was filed beyond the period of thirty days, it was within the condonable period of fifteen days.
+
+The appeal should be restored to the NCLAT for reconsidering whether the appellant has shown sufficient cause for condoning the delay beyond thirty days. To facilitate this, the impugned order of the NCLAT declining to condone the delay is set aside and the proceedings are restored to the file of the NCLAT. We are not inclined to stay the CIRP at this stage. However, the NCLAT is directed to dispose of the appeal at the earliest.
+
+# Suggestion and appreciation
+
+To avoid situations such as these, in cases where the matter has been heard on a particular day but the order is pronounced on a later date, the NCLT must refrain from affixing the date of hearing on the order. Such an approach would be a violation of the NCLT Rules, which create a distinction between hearing and pronouncement and do not allow the NCLT to dispense with the requirement of pronouncement.
+
+Such proactive action by tribunals is essential to ensure that the move towards a modernized and technology-friendly judiciary trickles down to every judicial forum across the country. We record our appreciation of the proactive steps taken by the Chairperson, Members and the Registry of the NCLAT.
+
+# Segment Paragraphs
+
+The appeals are accordingly disposed of. Pending applications, if any, stand disposed of.
+---
+#
+
+# IBC Laws
+
+# Segment 1: Admit
+
+# Segment 2: Background
+
+- These appeals arise under Section 62 of the Insolvency and Bankruptcy Code 2016 from a judgement dated 14 September 2023 of the National Company Law Appellate Tribunal. The NCLAT dismissed the appeal against the order of the National Company Law Tribunal, Mumbai on the ground of limitation.
+
+# Segment 3: Clarification
+
+- At the outset, it is clarified that the findings in this judgement are limited to a determination of the question of limitation. The detailed facts and averments on the merits of the larger dispute between the parties are not analyzed in the judgment.
+
+# Segment 4: Case Summary
+
+- Respondent 1, Vistra ITCL (India) Limited filed an application under Section 7 of the IBC seeking the initiation of the Corporate Insolvency Resolution Process against Evirant Developers Private Limited, the Corporate Debtor. The appellant is a former director of the Corporate Debtor, who alleges collusion in the Section 7 application.
+
+# Segment 5: NCLT Order
+
+- The NCLT dismissed the appellant's application on the grounds of lack of authorization from the Board of Directors of the Corporate Debtor and being prima facie frivolous.
+
+# Segment 6: Appeal and Condonation of Delay
+
+- The appeal against the NCLT order was filed on 10 July 2023 along with an application for condonation of delay.
+
+# Segment 7: NCLAT Decision
+
+- The NCLAT concluded that the appeal was barred by limitation as it was filed beyond the outer limit of 45 days permissible under Section 61 of the IBC.
+
+# Print Date
+
+- June 6, 2024
+---
+#
+# Document
+
+# Segment 8
+
+- On 19 May 2023, NCLT allowed respondent 1’s Section 7 application and initiated CIRP against the Corporate Debtor.
+- Appellant’s appeal against the order was dismissed by NCLAT on 05 October 2023.
+
+# Segment 9
+
+|Date|Event|
+|---|---|
+|17.05.2023|The appellant’s interlocutory application was heard by NCLT. No order was pronounced.|
+|30.05.2023|The order dismissing the interlocutory application was uploaded on NCLT's website with the date of 17.05.2023.|
+|30.05.2023|The appellant applied for a certified copy of the NCLT order.|
+|01.06.2023|The appellant received a certified copy of the NCLT Order.|
+|29.06.2023|30-days from the date of upload of the NCLT Order.|
+|10.07.2023|The appellant e-filed the appeal before NCLAT.|
+
+# Segment 10
+
+The right to file an appeal against an order of NCLT before NCLAT arises from Section 61 of the IBC.
+
+Section 61(2) provides for a limitation period of thirty days. The NCLAT may allow the appeal to be filed after the expiry of thirty days if there was sufficient cause for not filing the appeal, but not exceeding fifteen days.
+
+# Segment 11
+
+Two possible scenarios regarding the limitation period for filing an appeal before NCLAT based on the table of dates in paragraph 9.
+
+# Segment 12
+
+NCLT relied on the decision in V Nagarajan to dismiss the appeal on the ground of limitation. The appellant seeks to distinguish the present case.
+---
+#
+# Document
+
+# Segment 13
+
+- V Nagarajan (supra), a three-judge Bench of this Court noted the difference between Section 421(3) of the Companies Act and Section 61(2) of the IBC regarding the commencement of limitation period.
+- The Court held that limitation commences from the date of pronouncement in the case of IBC appeals.
+- The time taken to procure the certified copy will be excluded from the calculation of the period of limitation.
+
+# Segment 14
+
+- The appeal in the case was barred by limitation as the appellant did not attempt to secure a certified copy.
+- The appellant relied on the date of uploading the order on the website, which was not sufficient.
+- The Court emphasized the importance of applying for a certified copy upon pronouncement of the order under IBC.
+
+# Group Section
+
+# Issue Clarification
+
+The Court clarified the law on the limitation period applicable for filing an appeal against an order of the NCLT under the IBC.
+
+# Interpretation of Legal Regime
+
+The Court emphasized the need for a harmonious interpretation of the legal regime under the IBC, considering its special nature and overriding effect.
+
+# Segment KeyValuePairs
+
+- Appellant's Presence: The appellant was present before NCLT on 31-12-2019.
+- Effort for Certified Copy: The appellant made no effort to secure a certified copy of the order.
+- Limitation Period: The limitation for filing an appeal under Section 61(1) expired on 30-1-2020.
+
+# Segment Paragraphs
+
+"The answer to the two issues set out in Section C of the judgment—(i) when will the clock for calculating the limitation period run for proceedings under IBC; and (ii) is the annexation of a certified copy mandatory for an appeal to NCLAT against an order passed under IBC — must be based on a harmonious interpretation of the applicable legal regime, given that IBC is a Code in itself and has overriding effect."
+
+# Segment Tables
+
+|Event|Date|
+|---|---|
+|Order Pronouncement|31-12-2019|
+|Order Upload on Website|12-3-2020|
+|Limitation Expiry|30-1-2020|
+---
+#
+
+# Document
+
+# Segment 15:
+
+Subsequently, in Sanket Agarwal (supra), this Court clarified the law laid down in V Nagarajan and held that:
+
+- (i) the limitation stops running on the e-filing of an appeal before the NCLAT and not on presentation of a physical copy;
+- (ii) the date on which the order is pronounced is to be excluded from the calculation of limitation; and
+- (iii) the time taken by the NCLT to provide the appellant with the certified copy would be excluded from the calculation of limitation, provided the appellant applies within the prescribed period of limitation under Section 61(2) of the IBC.
+
+The Court held:
+
+“In the present case, the application for a certified copy was sent from Delhi to Chennai on 2 September 2022, which was received on 5 September 2022, within the period of limitation of 30 days specified in Section 61(2). This aspect lies in contrast to the facts as they obtained before this Court in the judgment in V Nagarajan (supra) where even the application for obtaining the certified copy was not filed. In the present case, the appellant exercised due diligence and applied for a certified copy upon pronouncement of the order in terms of Rule 22(2) of the NLCAT Rules 2016. The certified copy was provided to the appellant on 15 September 2022. Hence, the period of 10 days between 5 September 2022 and 15 September 2022 taken by the court to provide a certified copy of the order ought to be excluded when determining the period of limitation under Section 61(2) of the IBC.
+
+In view of the above discussion, we have come to the conclusion that the NCLAT was in error in dismissing the appeal on the ground of limitation.”
+
+# Segment 16:
+
+From the above discussion of law, it is clear that the date on which the limitation begins to run is intrinsically linked to the date of pronouncement. The question that arises in the facts of the present case, therefore, is when is an order deemed to be pronounced. The National Company Law Tribunal Rules, 2016 provide guidance in this regard. Rule 89(1) of the NCLT Rules indicates that when NCLAT registry publishes its cause list, a distinction is drawn between cases listed for pronouncement of orders and other cases. It states as follows:
+
+“Preparation and publication of daily cause list.— (1) The Registry shall prepare and publish on the notice board of the Registry before the closing of working hours on each working day the cause list for the next working day and subject to the directions of the President, listing of cases in the daily cause list shall be in the following order of priority, unless otherwise ordered by the concerned Bench; namely;-
+
+- cases for pronouncement of orders;
+- cases for clarification;
+- cases for admission;
+- cases for orders or directions;
+- part-heard cases, latest part-heard having precedence; and
+---
+#
+
+# Document
+
+# Segment 17
+
+Further, Part XIX of the NCLAT Rules governs the ‘disposal of cases and pronouncement of orders’. The following rules are relevant:
+
+- 146. Disposal of Cases. - On receipt of an application, petition, appeal etc, the Tribunal, after giving the parties a reasonable opportunity of being heard, pass such orders thereon as it thinks fit:
+- Provided that the Tribunal, after considering an appeal, may summarily dismiss the same, for reasons to be recorded, if the Tribunal is of opinion that there are no sufficient grounds for proceedings therewith.
+- 150. Pronouncement of Order.
+1. The Tribunal, after hearing the applicant and respondent, shall make and pronounce an order either at once or, as soon as thereafter as may be practicable but not later than thirty days from the final hearing.
+2. Every order of the Tribunal shall be in writing and shall be signed and dated by the President or Member or Members constituting the Bench which heard the case and pronounced the order.
+3. A certified copy of every order passed by the Tribunal shall be given to the parties.
+4. The Tribunal, may transmit order made by it to any court for enforcement, on application made by either of the parties to the order or suo motu.
+5. Every order or judgment or notice shall bear the seal of the Tribunal.
+- 151. Pronouncement of order by any one member of the Bench.
+1. Any Member of the Bench may pronounce the order for and on behalf of the Bench.
+2. When an order is pronounced under this rule, the Court Master shall make a note in the order sheet, that the order of the Bench consisting of President and Members was pronounced in open court on behalf of the Bench.
+
+# Segment 18
+
+The above provisions of the NCLT Rules, 2016 make a clear distinction between the ‘hearing’ of an appeal and the ‘pronouncement’ of the order. Rule 150(1) provides that after hearing the parties, the order may be pronounced either at once or soon thereafter, as may be practicable, but not later than thirty days from the final hearing. Further, Rule 151 indicates that a member of the bench may pronounce the order for and on behalf of the Bench. When the order is pronounced, the court master shall make a note in the order sheet to that effect. The language of the above rules indicates that the pronouncement of the order is necessary and cannot be dispensed with.
+
+# Segment 19
+
+In the present case, the cause list for 17 May 2023 placed on record by the appellant indicates that the case was listed for admission and not for pronouncement. Further, on a specific query of the
+
+Print Date: June 6, 2024
+---
+#
+
+# Segment 20
+
+In V Nagarajan (supra), there was an unequivocal pronouncement of the order before the upload of the order and thus, the decision is not applicable to the facts of the case. In the facts of the present case, the date of upload of the order is the same as the date of pronouncement. To avoid situations such as these, in cases where the matter has been heard on a particular day but the order is pronounced on a later date, the NCLT must refrain from affixing the date of hearing on the order. Such an approach would be a violation of the NCLT Rules, which create a distinction between hearing and pronouncement and do not allow the NCLT to dispense with the requirement of pronouncement.
+
+# Segment 21
+
+In view of the above, the period of limitation began to run on 30 May 2023. The 30-day limitation period provided in Section 61(2) of the IBC concluded on 29 June 2023. Though the appeal was filed beyond the period of thirty days, it was within the condonable period of fifteen days. We are of the considered view that the appeal should be restored to the NCLAT for reconsidering whether the appellant has shown sufficient cause for condoning the delay beyond thirty days. To facilitate this, the impugned order of the NCLAT declining to condone the delay is set aside and the proceedings are restored to the file of the NCLAT. We are not inclined to stay the CIRP at this stage. However, the NCLAT is directed to dispose of the appeal at the earliest.
+
+# Segment 22
+
+Before concluding, we must note that it was settled in Sanket Agarwal (supra) that the date of e-filing of the appeal and not filing of the physical copy of the appeal stops the limitation from running. One of us (D.Y. Chandrachud, J.) had occasion to observe that the requirement of e-filing followed by physical filing results in duplication of effort and is a disincentive for e-filing. The Court held that:
+
+“30. […] Moreover, it is utterly incomprehensible why NCLAT should insist on physical filing in addition to e-filing. This unnecessarily burdens litigants and the Bar and is a disincentive for e-filing. A lawyer or litigant who is compelled to file physical copies in addition to e-filed documents will have no cogent reason to resort to e-filing. This duplication of effort is time consuming. It adds to expense. It leaves behind a carbon footprint which is difficult to efface. The judicial process has traditionally been guzzling paper. This model is not environmentally sustainable. If some judges are uncomfortable with e-files, the answer is to provide training to them and not to continue with old and outmoded ways of working. The judiciary has to modernize and adapt to technology. The tribunals can be no exception. This can no longer be a matter of choice. The IBC is a significant prong in economic reforms. It has radically reshaped the law relating to insolvency and bankruptcy. The manner in which the law is administered will have to keep pace with technology. Both the Union government in its rule making capacity and the administrative heads of tribunals must ensure a seamless transition to working in the electronic mode.”
+
+# Segment 23
+
+We must appreciate the swift action taken by the NCLAT in view of the above observations. On 15 May 2023, soon after the decision in Sanket Agarwal (supra), an order was issued by the
+---
+#
+# Document
+
+# Segment Headers
+
+- Registrar, NCLAT noting that “filing of hard copies of Appeals/ Interlocutory Applications/ Reply / Rejoinder etc. shall not be mandatory with immediate effect.”
+
+# Segment Lists
+
+- Such proactive action by tribunals is essential to ensure that the move towards a modernized and technology-friendly judiciary trickles down to every judicial forum across the country.
+- We record our appreciation of the proactive steps taken by the Chairperson, Members and the Registry of the NCLAT.
+
+# Segment KeyValuePairs
+
+- 24. The appeals are accordingly disposed of.
+- 25. Pending applications, if any, stand disposed of.
+
+# Group Sections
+
+New Delhi; December 4, 2023
+
+# Segment Paragraphs
+
+References:
+
+- 1.“IBC”
+- 2. “NCLAT”
+- 3. “NCLT”
+- 4. “CIRP”
+- 5. (2022) 2 SCC 244
+- 6. 2023 SCC OnLine SC 976
+- 7. “NCLT Rules”
+
+# Group Code Blocks
+
+Original judgment copy is available here.
+
+# Segment Tables
+
+Click on below button to search similar judgments:
+
+Case Laws Portal
+
+Print Date: June 6, 2024 | 10 | 12

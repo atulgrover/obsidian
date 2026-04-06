@@ -1,0 +1,120 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Asset Protection and Optimization Agent (APOA)&quot;,
+&quot;agentDescription&quot;: &quot;Analyzes the personal assets of a Personal Guarantor (PG) to identify potential exposure arising from guarantee invocations. Suggests general concepts and areas for professional review regarding asset optimization, structuring, and protection strategies *within legal boundaries*, helping PGs understand ways to manage exposure before seeking specific legal and financial advice. *Does not provide legal or investment advice; strongly emphasizes the need for professional consultation.*&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual - Requires strong legal/financial advisory context&quot;,
+&quot;goals&quot;: [
+  &quot;Provide a clear overview of the PG&#039;s personal assets and their general potential exposure status.&quot;,
+  &quot;Identify assets potentially vulnerable to creditor claims under the personal guarantee (based on general principles, not jurisdiction-specific legal analysis).&quot;,
+  &quot;Evaluate basic performance/utilization of significant assets.&quot;,
+  &quot;Suggest *general concepts* for asset optimization (e.g., yield improvement, diversification principles).&quot;,
+  &quot;Introduce *concepts* related to legally permissible asset protection strategies (e.g., importance of reviewing titling, understanding exemptions, basic trust concepts - *directing PG to legal counsel for applicability*).&quot;,
+  &quot;Flag potential red flags associated with asset transfers or structuring done under financial distress that could be challenged (e.g., potential fraudulent conveyance issues - *requiring legal counsel review*).&quot;,
+  &quot;Facilitate informed discussions between the PG and their legal/financial advisors.&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Personal Asset Inventory: Systematically lists assets, values, ownership structures, and associated liabilities.&quot;,
+  &quot;General Asset Exposure Assessment: Categorizes assets based on broad principles (e.g., &#039;Likely Exposed&#039;, &#039;Potentially Exempt - Requires Legal Verification&#039;, &#039;Joint Ownership - Requires Review&#039;).&quot;,
+  &quot;Valuation Input/Integration: Manages provided asset values, potentially integrates market data for liquid assets.&quot;,
+  &quot;Basic Performance Review: Calculates simple returns or flags underutilized assets based on user input.&quot;,
+  &quot;Optimization Concept Engine: Suggests general ideas like debt restructuring (personal), investment review for diversification, or assessing insurance coverage, directing users to advisors.&quot;,
+  &quot;Protection Strategy Knowledge Base: Explains common asset protection *concepts* (e.g., different types of trusts, property titling options, homestead exemptions) *explicitly stating the need for legal advice for feasibility and implementation*.&quot;,
+  &quot;Fraudulent Conveyance Risk Flagging: Identifies patterns based on rules (e.g., transferring assets for below-market value, gifting assets when facing potential liability) that require immediate legal consultation.&quot;,
+  &quot;Reporting &amp; Advisory Guidance: Generates reports summarizing asset status, potential exposures, conceptual strategies, and emphasizes the critical need for professional consultation.&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Personal Guarantors to Corporate Debtors&quot;,
+  &quot;Financial Advisors assisting Personal Guarantors (using insights to guide discussion)&quot;,
+  &quot;Legal Counsel advising Personal Guarantors (using insights for context)&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Detailed Personal Asset Information (Type, Value, Ownership Title, Location, Liens).&quot;,
+  &quot;Personal Liability Information.&quot;,
+  &quot;Output from PLAA (Potential Liability Assessment).&quot;,
+  &quot;Information on the relevant Jurisdiction (for flagging potential exemption types *generally* applicable, requires high-level configuration).&quot;,
+  &quot;PG&#039;s Risk Tolerance/Financial Goals (Optional, for optimization context).&quot;,
+  &quot;Market data feeds (Optional, for valuing financial assets).&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Personal Asset Map &amp; Exposure Summary Report (with heavy caveats).&quot;,
+  &quot;Asset Optimization &#039;Ideas for Discussion&#039; List (directing to advisors).&quot;,
+  &quot;Asset Protection Concepts Explainer (with explicit &#039;Consult Lawyer&#039; directives).&quot;,
+  &quot;Red Flag Report highlighting actions requiring legal review (Potential Fraudulent Conveyance issues).&quot;,
+  &quot;Action Plan focused entirely on consultation with specific professional advisors (Lawyer, Financial Advisor, Tax Advisor).&quot;,
+  &quot;Personal Balance Sheet snapshot.&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Increases PG&#039;s awareness of which assets might be at risk.&quot;,
+  &quot;Prompts proactive thinking about asset management *before* potential creditor actions.&quot;,
+  &quot;Provides a structured basis for productive consultations with legal and financial experts.&quot;,
+  &quot;Helps PGs understand the types of strategies that *might* be available (subject to legality and professional advice).&quot;,
+  &quot;Educates PGs on actions that could be legally problematic (like fraudulent transfers).&quot;,
+  &quot;Facilitates a more organized approach to managing personal financial risk related to guarantees.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Data Acquisition &amp; Input&quot;,
+    &quot;tools&quot;: [
+      &quot;Secure Web Forms/Interfaces&quot;,
+      &quot;Spreadsheet Parsers (Pandas)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Processing &amp; Analysis&quot;,
+    &quot;tools&quot;: [
+      &quot;Data Manipulation Libraries (Pandas, NumPy)&quot;,
+      &quot;Custom scripting for categorization logic (based on general principles)&quot;,
+      &quot;Rule Engines (for flagging potentially problematic transfers)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Knowledge Base&quot;,
+    &quot;tools&quot;: [
+      &quot;Databases (SQL or NoSQL) storing general information on optimization/protection concepts and risk flags.&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Market Data Integration (Optional)&quot;,
+    &quot;tools&quot;: [
+      &quot;Financial Data APIs (e.g., Alpha Vantage)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Storage (Secure)&quot;,
+    &quot;tools&quot;: [
+      &quot;Encrypted Databases&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Security &amp; Privacy (Paramount)&quot;,
+    &quot;tools&quot;: [
+      &quot;As per PLAA: Strong Authentication, Authorization, Encryption, Privacy Compliance&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Reporting &amp; Visualization&quot;,
+    &quot;tools&quot;: [
+      &quot;Reporting Libraries (ReportLab, FPDF)&quot;,
+      &quot;Data Visualization Libraries&quot;
+    ]
+  },
+   {
+    &quot;toolCategory&quot;: &quot;Legal Compliance Reference (High-Level/Caveated)&quot;,
+    &quot;tools&quot;: [
+       &quot;Access to public information on relevant laws (e.g., basic exemption statutes by jurisdiction - *NOT* interpretation, just pointers)&quot;
+    ]
+   },
+  {
+    &quot;toolCategory&quot;: &quot;User Interface&quot;,
+    &quot;tools&quot;: [
+      &quot;Secure Web Frameworks (Flask, Django, React, Angular)&quot;
+    ]
+  }
+]</pre>
+
+<p>
+}
+</p>

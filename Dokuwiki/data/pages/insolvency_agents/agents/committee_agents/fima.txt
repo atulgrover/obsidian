@@ -1,0 +1,122 @@
+{
+  "agentName": "Financial Information Management Agent (FIMA)",
+  "agentDescription": "Acts as a centralized repository and analytical tool for the Committee of Creditors (CoC) and its advisors. Manages, analyzes, and securely disseminates financial data (statements, valuations, reports) provided by the Insolvency/Resolution Professional (IP/RP), enabling the CoC to effectively monitor the corporate debtor's financial health and evaluate resolution plans.",
+  "version": "1.0",
+  "status": "Conceptual",
+  "goals": [
+    "Provide CoC members and their advisors with secure, timely access to critical financial information.",
+    "Organize and manage financial documents received from the IP/RP.",
+    "Automate basic analysis of financial statements (ratios, trends) tailored for CoC oversight.",
+    "Present key findings from valuation reports (LV, FV) and cash flow monitoring.",
+    "Facilitate comparison between historical financials, current performance, and projections in resolution plans.",
+    "Track key financial indicators and alert the CoC to significant changes or red flags.",
+    "Ensure data consistency and provide a single source of truth for financial information reviewed by the CoC.",
+    "Support the CoC's evaluation of the debtor's viability and the feasibility of resolution plans."
+  ],
+  "keyCapabilities": [
+    "Secure Document Repository: Stores financial statements, valuation reports, IMs, cash flow reports, etc., with version control and access logs.",
+    "Data Ingestion & Extraction: Processes reports from the IP/RP (PDF, Excel) and extracts key data points.",
+    "Access Control Management: Grants access permissions based on user roles (CoC Member, Advisor, IP/RP support).",
+    "Financial Health Dashboard: Displays key performance indicators, ratios, and summaries relevant for CoC assessment.",
+    "Trend Analysis: Shows historical financial performance trends.",
+    "Comparative Analysis: Enables comparison of different data sets (e.g., LV vs. FV, Historical vs. Projected in plans).",
+    "Ratio Calculation Engine: Calculates relevant liquidity, solvency, and profitability ratios.",
+    "Notification System: Alerts CoC members/advisors about new document uploads or critical financial updates.",
+    "Basic Reporting: Generates summary reports on financial status or specific analyses for CoC meetings.",
+    "Search Functionality: Allows users to search within documents or datasets."
+  ],
+  "targetUsers": [
+    "Members of the Committee of Creditors (CoC)",
+    "Financial Advisors to the CoC",
+    "Legal Advisors to the CoC",
+    "Insolvency Professional (IP) / Resolution Professional (RP) (primarily as data providers, possibly viewers)",
+    "Support Staff for CoC/IP/RP"
+  ],
+  "inputDataRequirements": [
+    "Financial Statements (Historical, Provisional/Interim) submitted by IP/RP.",
+    "Valuation Reports (Liquidation Value, Fair Value) submitted by IP/RP.",
+    "Information Memorandum (IM) prepared by IP/RP.",
+    "Regular Cash Flow Monitoring Reports (if provided by IP/RP).",
+    "Proposed Resolution Plans (including financial projections).",
+    "List of authorized users (CoC members, Advisors) and their access credentials.",
+    "Any specific financial queries or reports requested by the CoC from the IP/RP."
+  ],
+  "outputFormats": [
+    "Secure Web Portal / Dashboard Interface.",
+    "Financial Summary Reports (PDF, HTML).",
+    "Key Financial Ratios & Trends Visualizations (Charts, Graphs).",
+    "Comparison Views/Reports (LV vs. FV, Historical vs. Plan).",
+    "Downloadable Source Documents (with appropriate permissions).",
+    "Email/In-App Notifications for new data/alerts.",
+    "Data extracts for advisors (Excel, CSV)."
+  ],
+  "potentialBenefits": [
+    "Ensures CoC has timely and organized access to crucial financial information for decision-making.",
+    "Improves CoC's ability to effectively monitor the debtor's financial situation.",
+    "Facilitates informed evaluation of resolution plans against financial realities.",
+    "Increases efficiency for CoC advisors by providing readily analyzed data.",
+    "Enhances transparency and accountability of the IP/RP regarding financial reporting to the CoC.",
+    "Provides a secure environment for sensitive financial data.",
+    "Supports consistent understanding of financial data across CoC members."
+  ],
+  "requiredTools": [
+    {
+      "toolCategory": "Data Storage & Management",
+      "tools": [
+        "Secure Document Management System or Cloud Storage (SharePoint, S3, Azure Blob - with granular permissions)",
+        "Relational Databases (PostgreSQL, MySQL - for metadata, users, analysis results, structured data)"
+      ]
+    },
+    {
+      "toolCategory": "Data Acquisition & Parsing",
+      "tools": [
+        "File Parsers (PDF, Excel libraries like Pandas, PyPDF2)",
+        "OCR Tools (Optional, if dealing with scanned documents)",
+        "API Clients / Integration Hooks (if receiving data automatically from RP systems)"
+      ]
+    },
+    {
+      "toolCategory": "Data Processing & Analysis",
+      "tools": [
+        "Data Manipulation Libraries (Pandas, NumPy)",
+        "Financial Calculation modules"
+      ]
+    },
+    {
+      "toolCategory": "Security & Access Control",
+      "tools": [
+        "Robust Authentication Mechanisms (OAuth, SAML, MFA strongly recommended)",
+        "Role-Based Access Control (RBAC) systems",
+        "Data Encryption (At Rest & In Transit)"
+      ]
+    },
+    {
+      "toolCategory": "Frontend & User Interface",
+      "tools": [
+        "Web Frameworks (React, Angular, Vue.js)",
+        "Data Visualization Libraries (Plotly, Chart.js, D3.js)"
+      ]
+    },
+    {
+      "toolCategory": "Backend Development",
+      "tools": [
+        "Programming Languages (Python, Java, Node.js)",
+        "Web Frameworks (Flask, Django, Spring Boot, Express)",
+        "API Development capabilities"
+      ]
+    },
+    {
+      "toolCategory": "Notification Services",
+      "tools": [
+        "Email Service APIs (SendGrid, SES)",
+        "In-App Notification systems"
+      ]
+    },
+    {
+      "toolCategory": "Reporting",
+      "tools": [
+        "PDF Generation Libraries (ReportLab, FPDF)"
+      ]
+    }
+  ]
+}

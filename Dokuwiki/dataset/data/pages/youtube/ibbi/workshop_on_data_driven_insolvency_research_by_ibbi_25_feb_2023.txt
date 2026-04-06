@@ -1,0 +1,580 @@
+# Workshop on Data Driven Insolvency Research By IBBI, 25 Feb 2023
+![](https://img.youtube.com/vi/p-JP7pNYclA/hqdefault.jpg)
+1 year ago (Mar 1, 2023) — 1:24:05
+[https://youtube.com/watch?v=p-JP7pNYclA](https://youtube.com/watch?v=p-JP7pNYclA)
+
+
+## Summary
+The second day of the conference on Data Driven Insolvency Research, organized by IBBI and MCA, featured panel discussions on insolvency resolutions for SMEs and next generation reforms in insolvency. The day concluded with a workshop on data driven insolvency research, led by Jayanti Prasad, whole time member of IBBI, and Anita Shah Akella, Joint Secretary of MCA. Prasad discussed the importance of data in the insolvency ecosystem, the role of IBBI in regulating insolvency professionals and processes, and the ongoing efforts to create an integrated database for insolvency data. He also mentioned the various forms required to be filled during the ERP and the role of NESL in gathering and maintaining data. IBBI offers a lot of data on its website, with CRP data being the largest chunk of information. The research initiative guidelines launched by IBBI in 2019 aim to promote legal, economic, and interdisciplinary research in areas relevant to the insolvency and bankruptcy regime. The workshop aimed to encourage evidence-based research and timely regulatory interventions in the insolvency space.
+
+## DMD State Bank of India Chaudhary managing director nesl Mr Rama sub
+0:14
+DMD State Bank of India Chaudhary managing director nesl Mr Rama subramanyam, is executive director Union Bank of India, Mr Aurelio Gary Martinez, associate professor Singapore management University and other members of the governing board present here today, and stakeholders who have joined us online. Before we begin today's agenda of the conference, I would like to brief a rundown of day two of the conference. 
+
+0:54
+It started with a panel discussion on insolvency resolutions, a special case for smes chaired by honorable Mr Avinash k srivastava, technical member nclt. This was followed by thought provoking research paper presentations by Oodles of researchers, professionals and policy makers. Day two of the conference concluded with the panel discussion on Next Generation reforms on insolvency, chaired by honorable Justice County Ramesh judge, Supreme Court of Singapore and Singapore International Commercial Code. 
+
+1:29
+We are immensely grateful to all the speakers and participants for their enthusiastic participation in yesterday's discussions and we hope that the same will continue today as well, without further Ado. We'll now proceed with the workshop on data driven in solvency research by ibbi. For this I welcome Mr jayanti Prasad whole time member ibbi, Miss Anita Shah akela, joint secretary MCA. We may begin with the discussions. 
+
+
+## Data Driven Research: A First Workshop on Insolvency
+2:12
+Thank you, thank you and good morning to everybody last day of the of the conference. So I can see a little bit of down in the audience participation. But I think we will try to make this session as interactive and as useful as possible for people who are interested in using some of the data that's coming out of this important pillar of our economy. 
+
+2:50
+So before we get into the discussion, I just would like Mr jayanti Prasad to say a few things as a chairperson of this corner. So good morning dignitaries on the dice. Good morning all other research assistants, research Scholars. So today we are having this first workshop on data driven research, primarily at ibbi and MCA and other stakeholders. So I'll just make few generic comments. 
+
+3:34
+I am pretty new to the insolvency ecosystem, having joined only last year, so the code is considered as one of the important, most important economic reforms aimed at improving the ease of doing business in the country. The law being preventive in nature, has instilled a sense of financial discipline and is bringing about a cultural shift in the Dynamics between lenders and Borrowers and promoters and creditors. 
+
+
+## ibbi regulates insolvency process, nesl, nesl
+4:02
+The ibbi is a unique regulator in the sense that it regulates both the insolvency professionals as well as the insolvency processes. Makes an administers regulations for various processes under the code, namely corporate insolvency resolution process, pre pack insolvency resolution process, Fast Track resolution, Etc. 
+
+4:25
+It has also the responsibility of publishing information data research studies and also specify the manner of collecting and storing data by the information utility which right now we only have one, the nesl, and ibbi maintains its website, where data pertaining to CRP and liquidation process and some other data is accessible in public domain. 
+
+4:54
+In today's digital era, an integral part of piloting a successful organization involves Gathering accurate, reliable data that can be analyzed to gain greater insights which can help in policy making. research in the insolvency and bankruptcy ecosystem has been of key in interest to policy makers, the international, what IMF and oec oecd are the are leading the pack in promoting data Gathering and dissemination to support research on insolvency regimes and their progress around the world. 
+
+
+## IBC 27: How to create a database for insolvency professionals
+5:37
+Ibbi creates a lot of information by itself and also collects and collates information from the insolvency professional agencies, the insolvency professionals, judicial pronouncements, industry experts, industry bodies, Advocates, resolution applicants, financial institutions, stakeholder feedback. However, currently, insolvency related data is scattered across various organizations and entities, such as Ministry of corporate Affairs, nclt, ibbi, the IU, which is the nesl. 
+
+6:17
+The data regarding corporates are also available with organizations such as cmie, basil, Cersei, with nclt also intending to go online or on e mode. information would be continuously flowing from it, which wasn't readily available before. 
+
+6:40
+While we don't have a unified system at present, which would bring all the data under one umbrella or at least make data talk to each other, there is the work is progressing on IBC 27, where we are wanting to have an integrated database on a system. It would essentially support easier access and use of data that facilitates meaningful policy oriented research in the insolvency context. The availability of robust data enables achievement of various objectives. 
+
+
+## vbi vs. vbi vs. vb
+7:16
+The data submitted and filed with the information utilities under the code may be a tool for early detection and resolution of stress, a tool for credit appraisal by financial institutions and support to the educating Authority in asserting the existence of default, which is the trigger point. actually more on this would be detailed by Mr Dave Jyoti will be MD of nesl. 
+
+7:44
+The crb regulations issued by ibbi list out various forms which are required to be filled during this Erp, such as form a for Public Announcement, form a for consent to act as RP or maybe for consent to act as an authorized representative, Form B to proof for proof of claim, form C for submission of Claim by the financial creditor and various other forms. 
+
+8:15
+These forms are playing a vital role in collecting the data from various stakeholders and if simplified and expedited the insolvency process. More recently, the live process deleted forms were also launched by vbi to gather the information pertaining to ongoing resolution processes. the data is also gathered from insolvency professionals on a continuing basis. Since data is one of the essential ingredients to any research. 
+
+
+## Ibbi has been collating a dynamic data set relating to processes and outcomes
+8:47
+Ibbi has been collating a dynamic data set relating to processes and outcomes under the IVC, essentially to encourage evidence based research at the in the insolvency space. This would enable timely regulatory interventions and yield the desired result and successful results. Actually, currently, ibbi offers a lot of data, as in mainly on its website being the primary Repository. Quantitative information is available in on CRP liquidation process, voluntary liquidation process and service providers as well. 
+
+9:28
+CRP data grow is the largest chunk of the information which the rbbi currently gives out, which also forms the core of our quarterly newsletter, the last being the quarterly newsletter for December 22 ending December 22. just to recap: till December 22 we had 6199 applications which were admitted for CRP, of which 4199 have been had been closed of the CRPS closed. 
+
+9:58
+The city was were rescued in 2298 cases, of which 894 had been closed on appeal or review or settled. 798 have been withdrawn and 611 cases have ended in approval of resolutions plan, while in 1901 have ended in orders of liquidation. The resolution to liquidation is one is to three. Our quarterly newsletter also offers sectoral analysis of initiation of CRPS along with outcome in each under each process. I think more. 
+
+
+## ibbi Research Initiative Guidelines: What we're talking about in the next thing
+10:35
+Mr Sandeep will be detailing those. I would also like to add that ibbi has its research initiative guidelines which are there, which are first launched in 2019 and are available on the website. this initiative aims to promote research, legal, economic and interdisciplinary and discourse in areas relevant for revolving in solvency and bankruptcy regime more than 80 different themes or topics we have indicated in the guidelines. 
+
+11:12
+This research conference is second in bcdh series, where we had about 40 presentations on the various topics yesterday. We I have also attended personally few of them, and let me conclude by saying that ibbi is perhaps on the right path in developing a research culture within the regulator and by a noun associating with the academic and research bodies of Excellence such as Iams and NL use. 
+
+11:42
+In fact, the this Association is quite a success story and we have received even for future International conferences. we have received two, three offers from different ions and nlus. So I'll stop here and I'll let the experts do the talking. Thank you, thank you, sir, conceptual. Thank you, sir, I think you laid out the overview of what we're going to be talking about in the next thing. 
+
+
+## How Many people are doing research for a living okay
+12:31
+Before I start, can I just have a quick show of hands on how many people are do in this room? Do research for a living okay, so at least some reasonable number of people are here who will probably benefit from the conversations that's going to happen the next 30,40 minutes. So I just thought you know I wanted to First congratulate both I am as well as ibbi to even have a session like this. 
+
+13:01
+You know, the concept of even data driven research in India itself is, I think, new and part of the reason why. When we look up to countries like the US and recently China, in the amount of research that has come out, you can clearly see the correlation between what's happening in research and the kind of data that comes out from the different agencies there. 
+
+13:27
+So I think clearly our first step, which I think is a necessary condition for doing good research, is having good data outside. So I think in that I really want to commend ibbi and I think we should give them an Applause, or even conceiving this in the first place. I think the couple of things just from what Mr Prasad was talking about and I wanted to lay that as sort of an anchor for our discussion. 
+
+
+## Policy oriented research: What I think is good
+13:54
+One is this thing called policy oriented research. What I feel as an academic is that policy is an outcome. Research is about solving problems or identifying what is the cause for problems, and I think if we do that right policy will happen. 
+
+14:13
+Naturally, I think that's over sort of emphasis on policy oriented research, as in my mind diluted a lot of our research in the past, including from Stellar organizations like RBI and sebi and so on. 
+
+14:28
+So I think one small recommendation to ibbi and other institutions out here is that please do not put those sort of an overarching envelope or to what people should be doing with the data, because if we have many people look at the data from many different perspectives, eventually something's good will come out. So I think please keep that in mind. 
+
+
+## What I'm Doing About Bankruptcy Research
+14:53
+The other thing I wanted to do is sort of we have three organizations in the panel today and I'm going to have each one of them talk a little bit about the data that they are collecting. But what I'm going to do is to set a little bit of context in terms of what sort of research happens abroad, and I have worked on bankruptcy research abroad, so I thought I'll bring some of that here. 
+
+15:21
+I think the first thing is yeah, I think the whole concept of even looking at things like bankruptcy started with our formation of joint stock companies way back in the 17th century. 
+
+15:41
+So if you look at that, essentially, when you have the separation of ownership and management, followed by what we call as limited liability, so that's when you have things like bankruptcy, where if you have a, if you are an owner of the company, what kind of responsibilities do you have? Is there something over and Beyond what is already been contracted out through your shareholding? So I think this is where it all started. 
+
+
+## How do companies get together, how do they grow, how do they grow
+16:09
+So when we talk about research, we asked three basic questions, or three areas we focus on. One is how are these companies formed? so this is where a whole lot of information or research that goes on startups, IPOs, of how do companies get together, how do they grow, all those things then we are talking about managing the companies, which is where bulk of the research. 
+
+16:33
+I would say 80 of all the research globally that has happened in companies is been: and how do they operate? How do they manage? And the last part, which is equally important, is how do companies die? And I don't want to be Macabre in this, but I think the idea is good companies should sustain themselves and bad companies should be rooted out. That's what capitalism is all about. 
+
+17:00
+So in this process having a mechanism for companies which are not doing well, which are wasting resources. They should be allowed to pass on and I think this is where a lot of research has happened in the other countries in the last 30,40 years to be able to understand what makes some companies overcome this and come out of the process of bankruptcy. 
+
+
+## How to understand bankruptcy in India
+17:26
+So some of the elements of process and again we are relatively new in this game, in the bankruptcy game, but, as I said, many countries have been doing this for centuries now. In fact, our whole concept of debtor creditor relationships was originally conceived in what is called the Nelson Law in the U? 
+
+17:49
+S in 1898. that actually codified what her debtor and what a creditor should be and how should they be interacting when there is a crisis in the company, and I think this a lot of subsequent legislation, subsequent bankruptcy laws, all of those have literally taken from that Nelson Law. If you look at the process of bankruptcy, there are certain Elements which are common across the countries. 
+
+18:17
+One is this automatic state, which means the moment your company goes into bankruptcy process, and again I'm using bankruptcy while we call it insolvency in India. But I think the larger question is bankruptcy is a slightly in my mind, a broader concept than just pure insolvency. But I think for all practical purposes, we can look at each of both of them as similar. 
+
+
+## How to reorganize itself and protect its assets for creditors
+18:39
+So the automatic stay helps the company figure out what is the best way to reorganize itself and protect its assets for its creditors. So this is just saying that the asset should not be claimed in the court of law. 
+
+18:54
+Due to this process of reorganization, the U S was the first country to actually come up with special bankruptcy courts to actually take care of this problem, because until then, most of the bankruptcy cases were heard in the regular district courts and you know, the high courts and Supreme Courts. But what the U S did was because of the importance of this process and the fact that you need capacity. 
+
+19:23
+They created it through a separate legislation, through a separate act of Congress, so that allowed a lot of cases to get resolved very quickly because you are dedicated judges. And of course, when it originally came out there were some constitutional challenges. But then eventually what happened was the Congress ruled that this District are these bankruptcy courts are as good as a district court for all practical purposes. Then, of course, the resolution was his liquidation. 
+
+
+## How much? How, because of the focus is always to resolve as much as possible. Absolut
+19:54
+How much? How, because of the focus is always to resolve as much as possible and only liquidate in your worst case scenario. Absolute priority rule. So all of these I'm laying it out as something which are common or generic across country bankruptcy laws. 
+
+20:10
+So the absolute priority rule is saying when you have different claimants to the firm's assets which is going under bankruptcy, you cannot have somebody at a lower claim get money before somebody above in line in that in that process and I think this is and as you know, Equity is the is the security that is the lowest in that priority queue. So in most cases you don't have anything for Equity holders. 
+
+20:42
+The equity holders get wiped out in the bankruptcy process. But in the US there have been many cases where the equity has managed to get something out because of the fact that they are managing the company still or the reserve. There is some level of control over the company during that process and this is where research has helped. 
+
+
+## What is the Legal orientation of bankruptcy in India?
+21:03
+In fact, a lot of research, including my own research, has helped figure out why there is a violation of this absolute priority Rule and what can the law do to overcome that. And the last is out of process mechanisms. I think in India we have started the pre packs, so pre packaged, something which happens outside the process that can facilitate and speed up the process. 
+
+21:27
+Again a lot of countries have this as built into the process. So this is the overview of the process of bankruptcy. I just want to talk a little bit about the orientation on much of the focus. So there is a legal orientation which talks about what cases, what type of companies go into bankruptcy, the performance of different courts and so on. 
+
+21:51
+And then there is a whole lot of Market orientation, which is research, which is focusing on predicting bankruptcies, predicting some of the resolution process and direct and indirect impact. 
+
+
+## Indirect Impact: How to Improve the Financial System
+22:04
+The indirect impact is another very important part because, for example, because you have bankruptcies, the kind of risk taking that the companies do ends up being very good to the economy, because if you don't have the bankruptcy process, of course the creditors would be reluctant in length because the risk will be high and therefore certain kinds of projects that the companies can take will have to be foregone because of that. 
+
+22:31
+So the bankruptcy process having a smooth process actually benefits the economy in the long term, and that indirect impact also comes under research. Much of the research has been able to show how this works. 
+
+22:46
+So some of the data that we have had in the in the in other countries is, of course, there's a whole lot of judicial data, even going back to the 17th and 18th century, where courts used to put out what happened to each one of these cases and so on. But the important thing is the performance of the companies and the different stakeholders during the process. 
+
+
+## lopiki Database: What Is it?
+23:10
+So this kind of data that has come out in the west and now recently in other countries, has helped a tremendous amount of understanding about the process and what kind of rules and regulations actually benefit the most important stakeholders in this. in this particular resolution, so I'm going to show you a couple of data which people have used again, just to set a context for our discussion today, based on what we are collecting. 
+
+23:42
+So this lopiki database is one of the gold standards in the US. It was actually started by a U? S Professor by just collecting data from various sources. So basically what he did was he looked at code filings and SEC filings, which is the equivalent of sebi in the U S. So all that data. 
+
+24:03
+They were able to put it together and organize it and focus only on the large public bankruptcies large, meaning companies with assets of greater than 100 million dollars, and I think the kind of data that they put out just resulted in an explosion of research, including Professor lopke's own research, so essentially it ended up having people talk about which countries, which kind of Industries are there, contagion among Industries when bankruptcies happen and things like that, and I think this kind of information is necessary for research and the information is in multiple domains. 
+
+
+## Investor, Behavior activism, and more
+24:46
+You have a reference information about the company, you have information about the resolution process and you have information about the different stakeholder Behavior like, for example, I'll give you. I used to work for a hedge fund in the U S. one of our strategy was to invest in bankrupt companies, you know, because the stock is cheap. 
+
+25:09
+But by having certain stock and having inside information about the company, we were able to extract some value using certain other Securities. I mean, if somebody is interested, I can tell you exactly how they do it. But what I'm saying is that the investor, Behavior activism and things like that ended up having coming out of this some out of this data set. There are other data sets again. 
+
+25:35
+Some are at firm level, some are at aggregate level. I just thought as a researcher, and I think all of the people who are doing research will agree with me. When we get data from, I would say, quasi government institutions in India, there's always one fear, which is: what are we getting? 
+
+
+## Data Integrity: How to Manage Data in a Corporate Setting
+25:57
+And the principles that people use typically in a corporate setup, like what they call as data management principles, typically are not as rigorously followed in the government setup. And I'll give you an example where suppose let's say, a company is going through a process, you have data entered, suppose some things change, then the whoever is managing the data. 
+
+26:22
+They go back and change the data without needing any sort of audit trail that the original data was there and then subsequently it was changed at such and such a time because of such and such a reason. See, from a researcher point of view, if I had started doing research using my older version of the data and then if somebody tries to replicate it with the newer data, they won't find the same results. 
+
+26:45
+So I think that concept of data Integrity is absolutely critical. So I'm I actually request the panelists here to make sure that there are dedicated data management team members to be able to take this data and protect the integrity and the quality of the data. and of course we need a whole lot of other things. And one more thing I'll just emphasize before I move on, which is the ability to merge data. 
+
+
+## How to connect a researcher with the same source of data
+27:14
+And as you see, today in the panel we have three sources of data and each one looking at different parts of the puzzle, so it is important for a researcher to be able to connect them. 
+
+27:26
+Of course researcher will do the connection, but they should be able to do it so, which means there has to be some variable or something which I can use to connect, because if it is not possible, then most of the research effort will be spent on just on the data itself and less on the insights. 
+
+27:45
+So I think maybe some coordination mechanism whereby they sit together, understand what principles to use across the board, identify what are the common identifiers that we can use. Everybody uses the same, with the same definition, then I think the quality of the data that comes out will be phenomenal and then after that it's up to the researcher to take it forward some of the areas. 
+
+
+## How to Connect Information to Companies Going Bankrupt
+28:09
+This is based on what we have picked up from the US, where I have worked a little bit more, so I have a little bit more information there. So things like, for example, information disclosure. So, for example, if you look at sebi today, sebi is all about disclosure. anything they don't like, immediately they'll ask the company to disclose, not realizing whether it makes sense, not make sense whether people actually read it. 
+
+28:35
+So I think the point is if we can connect the information relative to the risk of the company and Link it up to the probability of companies going into bankruptcy, then maybe there is some insights that we can draw on whether this information disclosure really works or not, or whether sebi should be doing something else. 
+
+28:56
+Similarly the contagion effects that I saw, which is one industry getting affected by a few large companies going bankrupt and then immediately, you know, the Upstream. Downstream firms are also under subjective bankruptcy risk investor before we are managerial risk taking. 
+
+
+## What is the secret sauce in the debtor?
+29:15
+Clearly, if in the U S, for example, it is guaranteed, I would say I think about 90 of the time when a company goes into bankruptcy, the management is fired, so the entire new management comes in, while in India it's just the opposite. So we are struggling with the idea of what to do with the debtor. 
+
+29:35
+You know so I think that concept itself we have a lot to work on and a lot to figure out from research as to what is the? What is the secret sauce in? What is the management bringing to the table? 
+
+29:46
+Can we replicated, because clearly having the debtor in place is I mean from outside Optics point of view, it is not a good thing for the creditors, because here is the person who has actually forced the creditors to take a cut. So and lastly, the cross country comparisons. 
+
+
+## How to bring the panelists back in bankruptcy
+30:05
+Now that we have a good bankruptcy law in Pro in place PR data, we could now start looking at hard performance relative to other countries like, for example, some of the European countries, some of the U S country I mean U S and also some of the Asian countries that are closest to us. So I think this is where I thought. You know I'll leave it. 
+
+30:29
+So this is one of my own papers where we looked at lopiki data. I want to now bring the panelists back in. So the plan is we will have the panelists talk a little bit about their data and then we'll have some discussions and, more importantly, I want some questions from you guys to be able to ask them. 
+
+30:50
+So the goal or the takeaway of this session should be that we know what data is being collected in the bankruptcy and the fact that we know how to get it and we know the roughly we know the quality of that data. So if we can get to that state, I think this session should be relatively a success in my mind. All right, thank you. So I want to now bring the panelists back. 
+
+
+## Information Utility: What is the concept of India?
+31:16
+So first is I want Mr Dev Jyoti to start by talking a little bit about information utility company, the concept itself, the company that has been set up, because this is very unique to India, and follow it up with the data that he and his company is collected. So I need to change this okay. First of all, I'd like to thank ibbi and IMB for having me as part of this very distinguished panel. 
+
+31:58
+It's my pleasure to be here. Honorable prime minister has said that this is India's America and in Amrit Kal the world will take directives from India. Immigration, foreign. We did the first cross border transaction under UPI a couple of days back. I or information utility is another Indian innovation website States that there's no Institution comparable to the IU anywhere in the world. so what does it say unique about the IU? 
+
+33:19
+There are many aspects, but in research I would focus on how that's going to facilitate. Researchers talked about audit trend network data. Let us see how the design of the ensures when data is submitted to the information utility. Typically it's a bank which submits information about the debtor. The unprocessed design ensures that this information is presented. Authentication, the database: three options. 
+
+
+## What is the status of the data that is disputed?
+34:23
+He can dispute it, you can accept it and this third option, which is likely to be addressed in the recent Amendment with the code. He can also choose to ignore it. but even without this amendment in the law, there's been a recent judgment which states that if a data chooses to ignore a request for authentication sent by a creditor, then at a later date he cannot dispute the existence of the debt. 
+
+35:09
+So what does it signify for the researcher? Hence where as to what the status of the data is it disputed? If it's disputed, he can segregate it. He also knows that what portion of the data has either been accepted or the data has seen it, but he has not disputed it. So he has that Clarity of thought as to how authenticate the data is another internal respect. 
+
+35:51
+Sends notifications about world's life cycle, events, Indian solvency process and equal important. A default is reported by a creditor about a debtor. how does the process of Authentication, as provided in the code and then sentence in bankruptcy code after completion of the process of Authentication, to significant things happen. Firstly, a record of default is issued. Based on this record of default, the Creditor can initiate insolvency proceedings. 
+
+
+## Default notification is also sound of the data
+36:49
+But, equally important, an email is also sent will come to a presentation. Let me just speak. Then we will come to the presentation. So equally important. Default notification is also sound of the data. So let me just clarify. A default is reported by one creditor about a debtor, but notification goes to all characters of the data and this is one of the design of the I o, which is to reduce information asymmetry. 
+
+37:34
+So all creditors are aware that there is default by a debtor to one creditor, so all characters are on the same plane as far as information is concerned. Now what is this of significance for a researcher? As per our data, 7900 resistances of record of default have been issued. This patterns to around thirty thousand corporate debtors. Interestingly, out of this 3.000, only 1.000 have been subject to insolvency process. So the question arises: what has happened? 
+
+38:34
+That is for the researcher, but there are a couple of possibilities then most of this role is responsible. That application has been filed. It is still being examined by. The Honorable and CLT of admission. Second personality, which is not very good, is that insolvency has not been initiated, but the stress is lingering all, which is not good. we all know that, not that the stress lasts now, the more there's depositional value of the city. 
+
+
+## 
+39:14
+As a third, which is optimistic way of looking at things, it's possible that the creditors and debtors have come towards some kind of a settlement outside of the insolubancy process can find out what exactly happened. So now, if you tell it, I'll just go to the Continental presentation. Yeah, so these buttons. So this is some geographical advances we have attempted based on the data evidence. 
+
+40:18
+Interestingly, and possibly it might seem, open sources account for the largest number of corporate debtors and their share of data are sentence. So two states account for almost 50 percent of all the debt. Another interesting Dimension is the performance. does default have some geological combination happened that couple States they are the default is writing high and when I'm reference default percentage is the percentage of them that outstanding in that particular state. 
+
+41:08
+So, for example difference it accounts of 30 percent of all the debt. But in launched the default meters of nine percent okay segment. The default relate to the various bands and we find that in certain studies the default rate is slightly higher, in the fourth category, for example, and two percent. The difference is 20 percent and number of states foreign but the default Network States is much lower at 10 percent. This is the MCO Database. 
+
+
+## 
+42:10
+The First Column of all Active Components, and spends the database in excellence and try to find out the percentage of firms which have X supported. so just try to see them. Whether this access to debt also it has some statewise correlation, national average. This study will try to do based on the NCT branches and the default mode and a private thread. 
+
+42:53
+Is that here we will not try to analyze it based on the IBC threshold of One Core, so that analysis is also been done separately. But overall then there's a sin. But in Mumbai they mean the number of unique data this default are found compared to others. 
+
+43:18
+So these are some facts about farm inductiveness and we find that the library firms has like 60 percent of all the debt in many minutes and permissible as it comes down, the access to debt comes on substantially. it's data includes dependent funds also, if you see the next slide performance, these are very interesting data point. It shows that as the science of coming increases by access to that also improves. 
+
+
+## 
+44:14
+Sentences reports, average number of known accounts are made informed and the average size of the demand is also substantial in fact. So this we try to find that default rate across activities, bands of debt and in the larger category, five times include the result rate is citing higher that this is make sure to have been one problem. So much of the development one code. So the higher default rate of 27 percent. 
+
+45:20
+In that context, once these are not conclusions, those are only questions which have to be taken to the magical conclusion. Secondly, is not a Public Credit repositing. access to the io is only two authorized persons, so any access to data, access to this data for researchers has to be with the permission of ibp. Thank you, thank you, sir, and the last statement is probably most valuable. All of us here. 
+
+46:11
+So so you have to also tell us how to apply and what the process is. But I would like to now invite Miss Anita to come in and talk a little bit about the MCA data, which is, as you know, it's huge and very important data. So please still they sort that out. You can use this. So a very good morning to all of you. I hope I'm Audible, so we'll start today. 
+
+
+## 
+47:38
+As to what we do in MGA Ministry of corporate Affairs, we have a lot of data available with us at the outlet. let me thank ivvi and I am Bangalore for making it possible for us to be here. Absolutely yes. So my outline of my presentation is: I'm going to just speak a little about the scheme of data maintained by the ipt stakeholders. Who are our stakeholders? 
+
+48:36
+What are the data and different system that we maintain? What is the vision that we have in order to integrate all this data? What are the advantages that we are looking at well, once the data is integrated? What is the process flow and case management module that you are looking at in the proposed ID platform and how we propose to leverage the latest Technologies like AI Etc? Now coming to the stakeholders of the IBC system. 
+
+49:11
+We've got the parliament, which is the lawmaker, the ministry of corporate Affairs,. The adjudicating Authority, that is the national company law tribunal and the national company law apply terminal. We've, of course, got the ibbi, the insolvency professional agencies information utility that you've just heard about: registered values, organizations in solvency professionals, registered valuers, debtors, creditors, investors, Etc. This entire thing makes up the ecosystem of the IPC. Now we have data in different systems. 
+
+
+## 
+49:48
+Currently the data is not integrated in any one place. For example, you've got the nclt portal, which is using the e courts module. They have certain data. They do not have certain data. Some of the data is captured. What is captured is the status of the cases, online orders, a bit of the case management. there is a lot of potential that every aspect of the data should be captured, but that is still not being done. 
+
+50:15
+Then we've got the MCA portal, that is the MTA 21 portal. Now let me just tell you something just to brief guy brief outline of what mca21 is all about now. This was India's first mission mode project, which was launch probably in the year 2006. This was under the national e governance plan. 
+
+50:40
+The ministry of corporate Affairs was responsible for this project and all the private and public companies was supposed to be making their filings into the mca21. initially what used to happen is that every company I don't know how many of you would have heard of it that we have a register of companies in each of the cities and then we have a regional director to merger the acquisition, any data, annual filing, everything people used to. 
+
+
+## 
+51:09
+In fact, there used to be certain dates by which these returns have to be filed, and people had to queue up in Long queues overnight, probably sometime, in order to ensure that their data, their records, are filed on time, physically so, in order to ease this and for the purpose of ease of doing business, in 2006 mca21 portal was launched whereby you could do all these filings online. 
+
+51:33
+Now our data, set at mc21 can has about 1,8 million firms, which include both public as well as private, listed as well as unlisted. In fact, you would get information from other others, like CMI, Proverbs, capital in ETC you. There are other sources of data also, but MTA is the largest source of data and we have all the firm level data also available. These are all self declared. 
+
+52:03
+There is no analysis done further there are some straight through processes and somewhere some data is again checked straight through is where the data is filed. It is trust based. We trust you for the data that is filed and that is taken into our system now given. And then we also have this xbrl and non xbrl filings which were allowed. 
+
+
+## 
+52:27
+Xbrl is the extensible business reporting language, which is the language for electronic communication of the business and financial data. So as a result of this, we have a humongous amount of data, and all of them Guided by rule parameters, Etc. Now, how do we obtain this data? 
+
+52:48
+This data is used for various research purposes, so on the MCA website, you would find something called as a guidelines for obtaining the data from the mca21 by researchers and research proposals. So we do a funding of this kind of research, and data is also provided by MCA. There is a cost to obtaining this data, for example, between zero to five thousand companies. 
+
+53:14
+Probably the cost for individual researchers would be about 5000 rupees and for institutional would be 1.000 rupees, and there would be some small add on calls. So this data can be obtained from MTA 21. There is a application form which is available online and an mou has to be signed. Now, how, in what form this data is maintained? 
+
+
+## 
+53:34
+There is a guide implementation guideline on data sharing and it is on two broad framework, that is shareable and non shareable data. Now sensitive data shall be provided only against an authorized request, on a case to case basis and after a non disclosure agreement has been entered into, and for structured regular data they actually exchange. The requester shall enter into a specific mou with the MCA for that purpose. 
+
+54:04
+Now we have a certain set of list what data can be shared. What cannot be shared. We have a negative list which have got non shareable data. Mostly these are the cost audit reports which are which are categorized as highly confidential information, as it has got several production related details, Etc and then, as per the it act 2000, which was amended in eight, personal information, personally identifiable information data which is categorized as highly sensitive. 
+
+54:37
+This is also not shared and this is in the negative list. Thereafter we have the sensitive data sensitive data as well as given as per various acts and rules of the government of India. Now what do we have as sensitive data? we have data that comes into existence through enforcement functions of the MCA, data generated as a part of internal analysis using mca's enforcement functions, internal tools, risk analysis, investigations, intelligence, Etc. 
+
+
+## 
+55:05
+These are sensitive data, then data pertaining to the configuration of the technology of mca's IIT system, and we have a corporate data management unit also, which I'll speak about in a while. Then this is also sensitive forensic data which is available in mca's it systems, such as signatures, Etc is also considered to be sensitive data provided by MCA to other government organizations with whom we have executed any mou or non disclosure agreement. 
+
+55:35
+That is sensitive third party granular transaction data which is supplied by various other Regulators. That also is sensitive information of data received under any International treaty agreement is also classified as sensitive data. thereafter we have something called as a restrictive data, such as company reports, alerts, validation, provisional reports, which are available on our corporate management corporate data management portals and these are Under the restricted category. 
+
+56:07
+Access to this data is through a prescribed process of registration and authorization by the MCU. Then we have the shareable data, which is the information contained in all the other returns, application documents and that can be shared with the part general public policy decision by the public, by the board Etc, which can be shared to all. This kind of data is already readily available on the website. 
+
+
+## 
+56:33
+The MCA May at a discretion, decide to openly publish any data which is fields in the entrance of transparency and good. so to just give you an illustrative list. We have the financial aggregate for primarily, which we utilize for policy making, research and Analysis by suppressing individual company specific information. 
+
+56:54
+For instance, if you are looking at the fertilizer prices, if a policy call has to be taken on increasing the fertility prices or reducing the subsidy, as the case may be, so cost data analysis, cost data is taken and each of the fertilizer category, how the companies are working. So we utilize we give that data to the concern Ministry, which takes a policy call on this. 
+
+57:17
+Then we have categorization as per the economic activity: private, public government, non government listed, unlisted state of registration, all the financial parameters recorded in the balance sheet, profit and loss accounts, Etc and already disseminated data which is already available in the public domain, like published report, puc based report, RBI reports Etc which have been shared. 
+
+
+## 
+57:42
+Then we also have the non financial aggregate, such as the number of new companies which have been registered, working companies, foreign companies under liquidation closure, merger, Etc. Then we have the conversion of private limited companies into public limited companies, public into private limited and companies into LLP. So this is the humongous amount of data that we have with us and this is all available to the researchers. 
+
+58:10
+So as I said about the MCA portal, this is the data that is available. then you have the ibbis portal, which is. The Regulators data depository, which Sandeep will be talking more in detail about. You have got the announcement eois, auction professionals and processes, IP registration, monitoring, complaints, Etc. Then you have the IPA or the values portals, where you have the member registration, the compliances disclosures. 
+
+58:37
+Then, of course, you have the nesl portal, which has already been discussed. Now this data is in different I T system. There is no single identifier which is going to help you to link all this data. This is what we noticed. However, the potential inputs that we can take from the mca21 is to design an early warning system. 
+
+
+## 
+59:00
+The mca21 database can provide specific data points that can be used to develop these early warning system, like financial ratios like debt to equity ratio, inter interest coverage ratio, operational indicators like inventory, turnover Day, sales, outstanding audit qualification and internal control, deficiencies reported in the company's financial statement, changes in the key management Personnel, the corporate governance, it's like late filings, Etc. 
+
+59:33
+Then we can also look at the sectors, which sectors or Industries which are prone to financial stress due to policy decisions, like the number of companies in a particular sector that have filed for insolvency or have undergone restructuring, for example real estate. Sometimes it's being seen in at some points in time. At some points in time you see some other companies. 
+
+59:55
+Then we also look at the total amount of debt outstanding in a particular sector, average time taken for insolvency resolution in a particular sector, recovery rate of creditors in a particular sector, changes in valuation, Etc. Then there is a Karo report, which is the statutory report prepared by the auditor of the company, which will raise its green flags. It can provide valuable input to the policy making. 
+
+
+## 
+1:00:20
+The auditor's assessment of companies ability to go on as a going concern, the adequacy and effectiveness of the company's internal controls and risk management system, their assessment of the company's financial reporting, the compliances and the debt servicing ability. The nclt ibbi data we have to have. We require it to look at the outcomes of the IBC process, whether a process is running fine. what is the feedback loop that we are getting? 
+
+1:00:51
+Where we need to make changes? How we need to improve? What are the bottlenecks in the resolution process? What are the stages of delay? We we noticed that there are delays in admission. How to improve those processes? They are delays at various stages. How to improve? Is it an infrastructure issue? Is it a policy issue? Is it a problem with the AG problem with the regulations, compliance issues? What all that for taking all those decisions? 
+
+1:01:17
+We required income then take all those specific issues like interim Finance, judicial delays, inter creditor disputes, avoidance applications, Etc. So all this also helps us in making policy intervention. Now coming to the post resolution phase, some examples would be: analysis of pre and post insolvency resolution production and revenue levels. analysis of Bank financing in the post resolution phase analysis of the capex. 
+
+
+## 
+1:01:48
+The data repository of MCA and CLT ibbi can also be used to generate in size for new credit appraisal, thereby contributing to the objective of orderly credit growth in the economy. Now, what is our vision for the future? As MCA? We intend to integrate the data across different systems that I've just spoken to you about with one I T platform for the entire IBC process. What are the issues that we have identified? 
+
+1:02:19
+In the present system? There are multiple I T platforms. The systems are in Silo. There is no interconnectivity, no interoperability, and everyone uses different technology. there's, and they are restricted by individual institutional mandates, the duplicity of data, different data structure, multiple reporting channels and formats, and the there is a limitation in processability of these data. So what is our vision? At MCA? We look at digital first e governance. 
+
+1:02:53
+We are looking for technological solutions and capabilities for autopilot surveillance, system driven compliance checks, seamless data in dissemination, which is very important for the researchers. Here we look for it to be. We look for advanced technological solutions, AI, machine learning, Etc. To ensure that the data is available mind and helping us in all the policy interventions analytical platform. 
+
+
+## 
+1:03:22
+We also look at business intelligence, which would be able to help us identify where the flaws in the system are and probably correct them. We have proposed a case management system for the IEP, which has the entire process of resolution process and at each of the stages which I will not repeat for the lack of time, but at each of the date stages we expect the data to be captured into the system, be made available to ibbi, to MCA, to ncid, to enable us to take policy calls then for the adjudicating authority. 
+
+1:04:03
+Though there is an e code system, it is still not fully in use, so we are looking at making this fully functional, integrated along with the ibbi and the MCA database. Now, what are the advantages that we are looking at and we hope to achieve? 
+
+1:04:20
+There shall be one single source of Truth across the insolvency and bankruptcy process and there would be an availability of real time and analytical dashboard for the data driven decision and policy making, access to the state of art ecosystem, built on security and privacy design principle, notification and alert, as per the predefined IBC processes and the associated timelines. 
+
+
+## 
+1:04:47
+We also are looking at, probably at a later date, developing a software, a mobile app, which would be on the system on the phones of the IPS or the debtors Etc, to see where this case is standing. I mean this is very futuristic, but yes, we are looking at that. Availability of audit history and the log of all the transactions, an efficient system for consistency, reliability and minimum repetitive data information. 
+
+1:05:15
+It has to be, of course, Very transparent. we hope to leverage blockchain technology, use artificial intelligence, use big data for data mining and use Internet of Things. So this is what we hope that we should be able to achieve maybe one, two years down the line. So, with these few words, thank you very much for giving me this opportunity. I think this is fascinating to hear the kind of vision they have. 
+
+1:05:46
+I think, like in many other sectors, we can LeapFrog the Western World, at least in data. So I want to bring in Mr Sandeep now just want to ask the organizers: can we have five extra minutes or is 10,45 a hard stop? 10,45, okay, sorry, yeah. 
+
+
+## 
+1:06:11
+So maybe on Sandeep, if you can come in and talk a little bit about ibbi, and I just want at least five to six minutes for questioning from the audience, so that you know at least we have some interaction. Thank you, for example. So first of all, I believe, which has all functions. It has legislative functions, executive functions of monitoring, the insolvency professionals and also the processes, and that also has quasi judicial functions. 
+
+1:07:23
+It acts as a disciplinary Authority for our insolvency professionals, and I mean all while performing all these functions. It collects a lot of data and it uses them in its processes, and it also has a mandate for getting the research done and sending the policy as per the research outputs. So as a data provider. So one of the main functions we have. 
+
+1:08:01
+We have a research Division and that division basically publishes a quarterly newsletter which contains lot of data, with almost 34 tables are there. It is available in PDF form as well as an Excel sheet, so that have about 35 tabs in which data is available, and this is like every quarter by the end of next month or around the by the end of the next month or the end of the quarter. 
+
+
+## 
+1:08:31
+You have this newsletter giving the data up to the end of the quarter. So now we have the data available up to the December quarter available in public domain. So different kinds of users require data with different degrees of bigger, and this data is required for decision making for our policy interventions required by and by the professionals, as well as by the operational stakeholders. 
+
+1:09:05
+So we have data like public announcements, Etc, which is posted on a website and like if we miss anything or anything happens, we do get calls that okay, this data has not been coming immediately. So it's a proof that stakeholders are looking for this data and utilizing this data is being used by the media as well. 
+
+1:09:32
+So we have an information base of rigorous evidence generated efficiently as a returning part of our functions and it is made available in a timely manner so that we can construct effective interventions. Data on corporate and solvency resolution process. It's one of the main set of data which is available and basically there are three main sets of data you can say. One is the corporate insolvency resolution process data. 
+
+
+## 
+1:10:07
+Then we have liquidation and voluntary liquidation processes data and then we have data related to insolvency professional that service providers in solvency professionals and registered valuers. So we have data around them. 
+
+1:10:21
+The data is basically we have at present the unique identifier as Sin carpet identification number, but with the result recent budget announcement now we will collect pan also and pan we have in fact collected for most of the processes which are going on, so we will have this common business identifier. Any muscle also has pan in their system. So data can be linked. Our data and their data can easily be linked through pan. 
+
+1:10:53
+In all cases nclt data. Sometimes this is this is a missing part in today's session, where nobody is speaking about nclt data. So nclt data is also there. Problem with nclt data is that it does not capture tan and it is very difficult to link, and we internally are trying to trying to do an exercise of linking our data with nclt data, finding it difficult because with party names the linking has not been that easy for us. So trying to make an exercise regarding this. 
+
+
+## 
+1:11:39
+So this is out of the 35 tables which we disseminated through our newsletter, some of it I have tried to show what kind of data we are basically presenting. Our newsletter. So it has the name of the company, then whether defunct, whether it was defunct or not at the time when it insolvency was initiated. Then what is that date of commencement of corporate insolvency resolution process? 
+
+1:12:05
+And then what was the date of approval of resolution plan, whether the this insolvency was initiated by the debtor himself, corporate debtor himself, or the financial creditor or the operational creditor? And then we have what was the amount of total admitted claims amount of liquidation value of the assets of the company which when it came into insolvency, what was the fair value of those assets? 
+
+1:12:33
+What is the total realizable value which has happened as a result of resolution, then admitted claims, then realizable value as a percentage of admitted claims, as a percentage of liquidation value and a percentage of fair value? Then we have data in respect of withdrawals which happen during corporate and solvency resolution process. So we have details of the orders, claims and settlement. but there this data site is not exactly what we want. 
+
+
+## 
+1:13:11
+So we are probably we are thinking of introducing a form which needs to be filled with before a CRP withdrawn. Then form filings. So what is the source of all this data? All this data is being collected basically by the CRP forms which are filled by insolvency professionals depending on each stage of the process. 
+
+1:13:34
+So when we take complete one stage of the process, then they file details of all the data related to the process which has already happened. Then data. We have data on liquidation and voluntary liquidation. Again unique identifier here is sin and LL pin. We have data desecrated by nclt Branch, geographically distributed, age wise, professional, wise and forms for this. So at present we are collecting data. We don't have online forms. 
+
+1:14:13
+We collect data in Excel, Etc in respect of liquidation and voluntary liquidation, but the form similar to CRP are under development. In fact, we are thinking of revising even the CRP forms. We want to do a more modular approach, because people have insolvency. Professionals have given us feedback that they are finding a difficult to sometimes fit their data into forms. 
+
+
+## 
+1:14:38
+Like one process has happened and another process has been installed because of an estate order or anything. So now the rnfx whether they should file that form, because that form requires data of two processes to be submitted. So one process has been completed. Other process has not been completed. So what should they do? That kind of a thing. 
+
+1:15:00
+So we're thinking that for each process we will design a form if the process is repetitive, like we are capturing the data in respect of a meeting of a committee of creditors. So problem that data will have to be repetitively captured for each COC meeting which is conducted. So this is the sort of sample data for the liquidation process. 
+
+1:15:27
+When the liquidation happens and outcome is a dissolution or closure for liquidation update has come capture similar details as that in the corporate insolvency resolution process, that what were the claims, what was the outcome, how much claims were basically realized and how much claims were satisfied in respect of dissolution for voluntary liquidation. Similar kind of data are captured for dissolution process as well. Then we have data on insolvency professionals. 
+
+
+## 
+1:16:06
+They are unique identifiers, their registration number. we have data in respect of their profile details, age, location, professional qualifications, affiliations, the work experience and the continuing professional education, on the kind of courses they have taken for them for capacity development. Then the details of assignments. What did assignments have been completed? What are ongoing assignments? Data about authorization for assignment, their fees, their earnings, and now we have also made a is this working internet is working? 
+
+1:16:46
+No problems. so this is the kind of screener we have developed for helping the creditors or whoever wants to initiate insolvency to select insolvency professional so you can choose a particular sectors. 
+
+1:17:10
+If you are you want a professional who has worked in construction or real estate kind of industry, then, depending on the location where the city is located, then the types of the claim amount which the those insolvency professionals have handled and the types of processes they have handled. 
+
+
+## 
+1:17:32
+So, based on that, you can find out the insolvency professionals which are basically undertaken those kinds of assignments earlier and that definitely can help you in focusing or searching out insolvency professionals. So this is man. we want to add many more things in this. 
+
+1:17:57
+So probably the performance of the insolvency professional, like the kind of resolution amount he was able to get with reference to liquidation value, the kind of bits the resolution plans he was able to obtain for a for the company. So this kind of data we are thinking of adding or adding. So thank you very much, and you can, yeah, ask your questions. Yeah, I think there are any doubts. 
+
+1:18:32
+Yeah, we don't have too many minutes left, so if I can open it up to the audience. A few questions. Yeah, please, I can Google my own mic. Thank you very much. I have one suggestion. Yeah, we are talking about data driven research. I would like to go one step further, saying that a data driven technology, driven insolvency process we are talking about this code is basically a time bound process. 
+
+
+## 
+1:19:09
+It is there India objectives itself and Judiciary many times have told me that this is a summary precedence. Now, today, what have? There's an nesl where which is looking at the default, whether there's a debt, whether it's new, whether it's a default. So when that is the case, when the process says that there's a 14 days timeline, photo approval, I mean admission of a case and it is vouched by an agency already government approved agency. 
+
+1:19:37
+The Judiciary should need not to have 14 days time. 14 minutes time is required to admit the case. The policy is given in the code. Then there are regulations which details the full process. there's a timeline for us being an insolvency professional or for the policy for the court or anyone, there's a time for each process when it is. So I think you know today we have what is happening. 
+
+1:20:11
+Today we are allowing anybody, to everybody, to increase here at any point of time into the process and we can make it a truly yet data driven process. That's absolutely. Thank you very much excellent point. I think data should be drive a lot of things, including the process itself. 
+
+
+## 
+1:20:50
+I'll just verify that the recent colloquium which we had and what discussion paper MCA has brought in the last date was to give the comments for seventh web. all those points are being taken care of by way of almost making it mandatory to the educating authority to admit the applications once IU certificate is there. Basically, on this line, MCA has thinking of a technology platform. 
+
+1:21:31
+They are thinking of facilitating and solvency professionals by providing a platform for running cases. So, and integrate all the integrate all the processes. Thank you, Sandeep. Sorry. Yeah, one last question, I think can we take it outside? Thank you, thank you, thank you for a very second question, so actually thank you. I want to thank the panelists for giving us an exposure to the data that's collected. I will pause. Some of us will use it. 
+
+1:22:05
+Thank you, sir. Thank you, ma'am 2016 speakers, for sharing the pencil vision and giving us all the intellectual nourishment. may I now request Professor Jay Dev, I am Bangalore to kindly present the Memento to Mr jayanti Prasad. Full time members, okay, foreign, foreign absolutely and with the paper presenters to kindly fill in the consent and claim form. The forms can be collected from the registration desk outside the auditorium and can be submitted after filling in through the registration disk. 
+

@@ -1,0 +1,950 @@
+# Workshop | Restructuring Process Involving Financial Service Providers (FSP) (Part II)
+![](https://img.youtube.com/vi/zu_wvufUDE8/hqdefault.jpg)
+9 months ago (Oct 12, 2023) — 1:55:31
+[https://youtube.com/watch?v=zu_wvufUDE8](https://youtube.com/watch?v=zu_wvufUDE8)
+
+
+## Summary
+The speaker, Nilang Desai, discussed the differences between the insolvency of financial institutions and other types of companies, focusing on the peculiar issues that arise under the bankruptcy code when it applies to financial service sector companies. He also talked about the insolvency of ILFS and DHFL, which were resolved under Section 241 242 of the company's act, and the government's realization that such an ad hoc mechanism cannot be the blueprint for dealing with systemically important financial institutions. The IBC was then extended to operate for other financial institutions through Section 227. The speaker then introduced two cases that will be covered, SFL and SCFL, both of which are facing financial distress with a combined debt of close to 33,000 crores. The speaker highlighted the complex financial structuring of the SFL group, which housed under the same group of companies is the infrastructure business, equipment financing business, insurance business, and the asset management business. The speaker then discussed the business transfer agreement (BTA) between SFL and SCFL, which was executed in August 2019, but most of the lenders did not approve of this transaction. The speaker also discussed the confusion around how to resolve this dispute and how the administrator gave liberty to all lenders of SFL and SCFL to file their proof of claim in both companies. The speaker then discussed the scheme of arrangement proposed by SFL, which was to ratify the business transfer, but the majority of the creditors voted down the scheme. The speaker highlighted that the NT exceeded the statutory powers that it has to facilitate the scheme of arrangement. The speaker then discussed the challenges faced by the resolution professional when the company finally went into insolvency, including the difficulty in allocating the assets and the inability to alienate any assets of the company under the IBC.
+
+## ilfs bankruptcy - Reasons why it is different from dhfl
+0:00
+So I think we went over the whole the reasons why the insolvency of a financial institution is very different from the insolvency of any other brick and water company or a manufacturing company that has been covered. 
+
+0:14
+We also discovered we also discussed some of the peculiar issues which arise in relation to the bankruptcy code when it applies to a financial service Services sector company, and I think we also covered some of the interesting issues which arose in the ilfs bankruptcy, as well as the bankruptcy of dhfl. 
+
+0:34
+Ilfs was even more interesting because that was something which has been resolved not under the bankruptcy code but under the company act under Section 24.242 of the company's act, under which the NT has got plenary powers to design such reliefs as it deems fit. 
+
+
+## IBC: How to resolve a complex insolvency with 300 subsidiaries and group companies
+0:53
+So we had something akin to a Judicial Innovation, where the NT came up with a mechanism through which to resolve a very complex group company which was an insolvency with more than 300 subsidiaries and group companies. Many of them were Financial in nature. Many of them were operational in nature. 
+
+1:14
+It was around that time, I feel, that the government realized that such an ad hoc mechanism, even though it may have worked, cannot be a blueprint or cannot be U the way forward for dealing with systemic, systemically important institutions which are facing financial distress. It was in that context that the insolvency code was extended to operate for other financial institutions, and that's where we have now IBC. Through Section 227 of the IBC. 
+
+1:42
+It was extended for financial service providers, which includes nbfcs, includes insurance companies, pension companies, alternate investment fund managers and so on. So this was, I think you know, the land which was covered yesterday and today the intention is in for us to cover two cases in particular. 
+
+
+## Reliance Capital & St. I will be covering shre and U.
+2:09
+So I think, as Nang may have mentioned yesterday, we have been quite fortunate to have worked with the Reserve Bank of India in all the financial service sector insolvencies which have taken place so far, which is dhfl, shre and Reliance Capital. So today we will go over our the learnings, our findings from Reliance capital and St. I will be covering shre and U. You met my colleague Nang. He will be covering Reliance Capital. 
+
+2:37
+So the idea is for me to take you through some of the interesting issues. I should not take more than half an hour to 45 minutes, after which I think it'll be good if we can have some interaction in Q&A and after that is over, then my colleague Nang will join. Thank you, so sorry if you just give me a minute. I'll take out my slid. 
+
+3:21
+So, by way of background, we are looking at two companies: SFL, which is Shay infrastructure Finance limited, and scfl, which is Shay equipment Finance limited. SFL was a listed company. It was, it happens, to be the 100% parent of scfl. Both these companies are based out of Kolkata. As many of you may be aware, the authorized capital of SFL was about 1500 crores and the paid up Capital was close to 500 crores. 
+
+
+## SFL and SFL faced financial distress
+3:52
+It's primarily business was primary. business was to be engaged in infrastructure financing, infrastructure advis, ADV, Investment Banking and insurance broking, and its turnover as on March 21 was 50 crores and as on March 2022 was about 32 crores. SFL, on the other hand, which is Shay equipment Finance, limited its authorized Capital was close to 1 000 crores. 
+
+4:18
+Paid up Capital was 79 cror and it was engaged in the business of infrastructure, equipment financing, technology and solution financing, Healthcare, equipment financing, agriculture and farming equipment financing and used equipment financing. So, very broadly speaking, you will find that SFL was more into institutional financing and scfl was also financing small businesses and, in certain cases, even individuals, for purchase of equipments which they may use in their personal, agricultural or industrial purposes. 
+
+4:53
+Both SFL and scfl were facing financial distress. the total combined debt in SCF and SFL was close to 3.000 crores. There were payment defaults being suffered by to the lenders of scfl and SFL on account of various issues. One of the main issues, which in fact was has been highlighted by shre itself, was that during coid, many of you may recall that government had granted a moratorium on interest and principal repayment from borrowers. 
+
+
+## borrowers of Banks and nbfcs got this laor from interest payment
+5:27
+Many of the borrowers of Banks and nbfcs got this laor from interest payment, especially if they happen to be stressed or if they were below a certain size. But at the same time, nbfcs act in two capacities in our economy right. they act as lenders and they also act as borrowers. So to the extent they have given loans to their borrowers. 
+
+5:49
+Their borrowers got a moratorium on loan repayments, but the nbfc itself did not get any moratorium on loan repayment to its lenders. And who were the nbfcs lenders? They happen to be the large public sector banks. In the case of shre, it was Yuko Bank, State Bank of India, Union Bank of India. Most of the important public sector Banks were lenders to shre. 
+
+6:11
+So on one hand, the fund flow into shre from its borrowers had terminated. On the other hand, shra was still required to service the debt it had taken from its lenders. So there was a clear liquidity mismatch when it came to Shri. a similar liquidity. Mismatch was also there in other nbfcs, but in sh it was compounded by many other factors. So as per RBI, this is not something which I can vouch for. 
+
+
+## Governance concerns in shre
+6:37
+As per RBI, there were governance concerns in shre. There are allegations that the promoters of shre may have mismanaged the company, and there are also applications filed by the administrator of shre alleging that there has been misappropriation of funds prior to sh going into insolvency. So the root cause of stress is something which we you know is not merely Financial or merely linked to economy. There could have been other concerns as well. 
+
+7:07
+Around two years back, there was a downgrade in the credit rating as well. The various credit rating agencies downgraded the debt. shre proposed a realignment or repayment plan, but the lenders were not in favor of it. There was also a slump sale which was proposed, so the entire Lending business of SFL, which is the parent, was proposed to be moved to scfl being a subsidiary through a scheme of arrangement. 
+
+7:36
+So I'll discuss that in Greater detail as we go forward. finally, when things were not looking good and RBI could not wait for the account to deteriorate even further. RBI superseded the board of SFL and scfl on 4th October 2021, using its powers under the RBI act, using its powers under section 45 I e of the RBI act soon thereafter. 
+
+
+## Insolvency: SFL and scfl are subsidiaries of shre
+8:03
+Within 4 days of that, the RBI filed an application on 8th October under Section 7 of the IBC to initiate insolvency against both SFL and scfl, and soon thereafter, I think on 10th or 11th October, the matter was admitted and both the companies were put formally into insolvency. Now to give you an overview of the shre group, the straight group of companies are a very complex web of companies. 
+
+8:37
+So you have, as I said, you have SFL on top. then you have two sorts of subsidiaries: subsidaries where sifl has 51% and where subsidaries where it is completely owning 100%. Amongst the subsidaries which it owned to the extent of 51%, there is an asset management company called Trinity. Acts as the asset manager in relation to various funds which were floated by shre, and these funds were investing both in debt as well as Equity. 
+
+9:11
+So the point I'm trying to make is that within the same group of companies, shre would, or rather housed under the same group of companies is the infrastructure business equipment financing business insurance business, as well as the asset management business which they owned, and that asset manager would directly or indirectly take Equity control in the borrowers of sh. So on one hand, sh is lending to companies. 
+
+
+## Shay Controlled Equity or the Board of the Same borrowers to whom it is lending
+9:39
+On the other hand, sh is indirectly also controlling Equity or the board of the same borrowers to whom it is lending, whether this causes issues of conflict of interest or whether this is something which RBI or the ROC or sebi is comfortable with. I'm not going through that at this moment, but the only point I want to highlight is that the financial structuring was very complex. On the one hand, Shay was lending. 
+
+10:06
+On the other hand, Shay was also indirectly controlling the equity in the same borrowers, and this point is important because ultimately, whatever recovery Shay is able to make in the insolvency process from its underlying borrowers depends on these relationships on whether the underlying borrowers are related parties, whether they have the capacity to pay, whether, if they were taking into solvency, whether shre will be a creditor in the COC of those companies or not. 
+
+10:34
+So this becomes very important in that context. So, as I said, I think the most important issue which goes to the root of the whole insolvency process is a business transfer agreement. So the board of scfl and SFL in July 2019 they approved a business transfer agreement. 
+
+
+## Business Transfer Agreement: Transfer of Loan Interest, Earning and Leing business of SFL to
+10:59
+The idea of the business transfer agreement was to transfer the lending interest, earning and leing business of SFL, along with all Associated employees, assets and liabilities, to scfm, so basically the entire business of SFL was supposed to be shifted to sefl, along with all the assets and liabilities. 
+
+11:22
+This BTA was executed on 6th August 2019 and SFL and scfl entered into various assignment agree agreements between them for transfer of the assets and liabilities to give effect to the slump save. Simultaneously, scfl and SFL also gave past relevant accounting entries in their respective books with effect from 1st October 2019, after receiving the approval of shareholders and few debenture trustees and a few lenders, and this was also made public on the stock exchanges. 
+
+11:58
+Now the point to consider is that for this slump exchange to have taken place, there were two sets of consents that were required. One is from the shareholders of scfl and SFL, which were still within the control of the promoter group, and second was from the lenders of SFL and CFL, because those lenders had security or hypothecation over these loan assets which was sought to be transferred. 
+
+
+## The slump exchange has not been given effect to the Regent approvals
+12:24
+Most of the lenders did not approve of this transaction. The sum de trustees did, a few lenders did, and the stock exchanges took this on record. But when it came to meetings of lenders, the lenders voted down the slump exchange or the BTA. So we have a very peculiar situation where the legal steps which are required to give effect to the slump exchange, the slump sale, have not been taken. 
+
+12:56
+The Regent approvals have not been taken, but the company has given effect to the to the change to the transaction in its own books of accounts. So it led to a situation where it was not clear whether the transaction has been given effect to, whether the transaction is void or it is voidable. There was a bit of confusion on how to resolve this dispute now. 
+
+13:18
+So when finally the company went into bankruptcy, the question was: if I'm A lender who had lent to SFL and I did not cons sent to sfl's business being transferred to sefl, where do I find my proof of claim? Am I A lender to SFL or to sefl? So the administrator in this case gave Liberty to all lenders of SFL and scfl to file their proof of claim in both companies. 
+
+
+## NT Kolkata ratified scheme of arrangement with creditors
+13:48
+So you'll find that to some extent there was double counting in this matter, because all claims were filed in both companies. As I go through the presentation, I'll explain how we resolved it and how we reconciled it. But initially claims are filed in both companies. Soon thereafter, SFL filed two applications under Section 230 of the company's act, proposing schemes of arrangement with all its secured and unsecured lenders. 
+
+14:14
+The idea of the scheme of arrangement was to ratify the business transfer. That was the whole idea. Now NT Kolkata passed orders in October and December 2020 and gave the following directions. Number one, that creditors shall maintain status quo till further orders on their respective contractual terms under the financing documents. What does that mean? 
+
+14:43
+That basically means that till such time as the scheme of arrangement is being considered by the NT, lenders cannot enforce their security and they have to maintain a status quo. They cannot ask for the interest or payment of the principal till such time as NT disposes of the scheme of arrangement completely. 
+
+
+## NT: Banks should not classify accounts as non performing asset
+15:04
+Second, NT said that creditors and government and other regulatory authorities be estopped from taking any coercive actions, including change of status of account from being a standard asset which may Implement may affect the implementation of the scheme. There was no doubt that sh was not able to service his debt by this time, but NT said that Banks should not classify this account as a non performing asset. 
+
+15:31
+Even if the debt is not been serviced for 90 days, you cannot classify it as a non performing asset. Thirdly, the credit rating agencies of Shay were also directed to not consider the non payment of any dues to be a default and should not reduce the or rather revise the rating of the company from investment grade to sub investment grade, and then finally, it directed meetings of lenders to be convened to take a vote on the various aspects which were proposed under the scheme. 
+
+16:05
+So what we have here is a very strange situation, because you know I think, as all of you would be very well versed in companies act under Section 230 of the company's act, there is no power given to the NT to issue directions such as this: where NT can impose a moratorium. where NT can tell Banks not to classify accounts as non performing assets. 
+
+
+## NT can ask credit rating agencies to not classify certain accounts as sub investment grade
+16:32
+Where NT can ask credit rating agencies to not classify certain accounts as sub investment grade, there is no such power given under the company's act. So in the instant case clearly NLT exceeded the statutory powers that it has to facilitate the scheme of arrangement now. Various meetings of various creditors took place during this time and majority of the creditors voted down the scheme. 
+
+17:01
+Meanwhile, an appeal was preferred to NCL against the NT order and N order granted a stay on a portion of the NT order which prevented credit rating agencies from considering the non p payment as a default so cras were now given the Authority or given the ability to classify defaults and to change the credit rating of the company. 
+
+17:30
+NCL then further also granted a stay on the NT order, where it stopped government authorities from taking coercive actions. So there were various other non compliances, whether it be relating to RBI, sebi, Etc. Ncld had also stopped government action. Now what you will find interesting is that these are the sort of actions which are prevented under the IBC. So once the company goes into IBC under section 14, there's a moratorium which is imposed. 
+
+
+## NT adopts moratorium in a scheme of arrangement
+17:58
+So what NT essentially did was adopt the principles of moratorium from section 14 into a scheme of arrangement which was purportedly to be taken through Section 230 of the company's act. So this is something which, at least in my limited experience, was without precedent, where nclt would act beyond the limits of the statute under the companies act. 
+
+18:24
+So now when the company finally went into insolvency, as I said, we were faced with a very difficult problem because it was not clear what is the correct financial position of SFL and sefl. Do the assets belong in SFL or do the assets belong in sefl because the balance sheets have stood changed but the legal consents were not there to give effect to it? Secondly, now we are faced with a moratorium. 
+
+18:53
+Under a moratorium, you cannot alienate any assets of the company once the resolution professional takes over. So as the resolution professional, am I authorized to say that the assets which have been transferred to scfl shall now be transferred back to sfm? I'm not sure if I have that ability as the administrator, as the resolution professional. I'm not sure if I have that ability within the Contours of the IBC. 
+
+
+## How to Conduct a Group Insolvency in India
+19:19
+So it left us in a very peculiar situation where we didn't know how to allocate the assets. This is where we thought about a group insolvency, because if we packaged SFL and scfl as one product, then it does not matter where the assets are, whether they are in Sr or in sefr. It does not matter, because we are no longer selling individual companies along with their assets. 
+
+19:46
+We are selling the collective selling the whole entity, scfl plus SFL, along with the total debts, total liabilities and total assets. So it does not matter where the assets are line, because everything is being sold anyway. this is what we wanted to achieve, but to achieve that we would have to file a consolidation application before the NT to say that these companies are now Consolidated and will be sold as one. 
+
+20:15
+Many of you would have you know read about the videoon case and the laasa case in the context of IBC, on how can you conduct a group insolvency. I think Mr batra has also worked extensively on this point. So what are the various factors which govern group insolvency for consolidating two different or three different group companies and conducting it as one Consolidated insolvency process? So those factors were laid out in video call. 
+
+
+## IBC Statute: What Are the Factors governing Consolidation?
+20:49
+You will also note that in the statute in IBC there is no provision for doing a group insolvency, because IBC treat treats each individual company as a distinct legal entity and those insolvencies have to be conducted independently and separately. 
+
+21:04
+There's no provision for a group insolvency, but this is a Judicial Innovation which came up in the videoon case and was subsequently also used in the laasa case, and the factors governing consolidation are as follows: if there's common control, if they're common directors, if they common assets, common liabilities, there is interdependence of business and operations, interlacing of Finance, pooling of resources. There is a need for them to coexist for their survival. 
+
+21:39
+There's an intricate link of subsidiaries. There is intering of accounts. There is singleness of economic unit. There is cross shareholding. there's interdependence due to intertwined Consolidated accounts and there's inter looping of debts. These are 14 factors. If these 14 factors exist in two insolvent companies, then you can make an application to NT for seeking a consolidation of these those two companies. So let's see whether all these factors how they apply visa the Stray insolvency. 
+
+
+## Common Control: scfl and scfl share five common directors
+22:21
+As far as common control is concerned, SFL, as we know, is the holding company and promoter of scfl and scfl is a wholly own subsidary. So on that count there was element of common control.common directors. Both scfl and SFL shared five common directors and further after the insolvency process began. The same administrator was appointed for both these companies. There was not two distinct individuals who were appointed. There were common assets. 
+
+22:52
+There were multiple loan assets where both scfl and SFL had extended loans to the same borrower, and a substantial part of SFL and cfl's business cons consisted of structured Finance, wherein financing was given by say SFL or sefl via debt and Equity infusion had also been made directly or indirectly through various layers of borrowers using the Trinity, which was one of the investment managers. 
+
+23:19
+Further, there were common liabilities: 86% of the financial creditors holding 97% of the voting share of the COC of SFL were also members of scfl coc. So there was a huge overlap in the lenders between SFL and scfl. There was also interdependence. The business of scfl and SFL are interconnected and interdependent. 
+
+
+## SFL was engaged in infra Finance, infra advisory, Investment Banking
+23:46
+SFL was engaged in infra Finance, infra advisory, Investment Banking and insurance broking, and scfl was engaged in infra equipment financing, technology and solutions financing, and they were using common resources. There was pooling of resources, as I said, there was common human resource, common leising and funding, and the Affairs of both the companies were collectively managed. 
+
+24:11
+It was very difficult to say that whether an employee is managing the Affairs of SFL or scfl, because it was done in a very co mingled way, where you could not differentiate, given the intricate relation between both the companies. Disentangling the assets and other Interlink between the two companies would be a very timec consuming process and will frustrate value maximization. 
+
+24:36
+Moreover, the subsidiaries and Affairs of SFL were also intricately linked with SFL, so there was common subsidiaries. They were common accounts. SFL prepared Consolidated accounts with scfl and lastly, both entities ran their business operations in proximity, in physical proximity. They were both mutually dependent. They use the same resources and funding. 
+
+
+## SFL and scfl were ripe for consolidation, and NT Kolkata
+25:00
+Therefore, looking holistically on the 14 criteria which videoon had laid out, it appears that SFL and scfl were ripe for consolidation, and NT Kolkata subsequently gave an order consolidating both the insolvencies. The consolidation order noted the following that the CRP of SFL and scfl shall stand Consolidated with immediate effect. 
+
+25:27
+The administrator shall forth with constitute a unitary and integrated COC to conduct the CRP of SFL and CFL, and the administrator shall conduct all requisite processes in a concerted manner, which means call for Consolidated resolution plans for both SFL and scfl. 
+
+25:57
+So to come back to the you know initial question with which I started, or the issue with which I started, which was how do you disentangle or how do you pick apart this BTA, the business transfer agreement? So we were not able to and therefore we lumped everything together under one umbrella and we sold it together. Soash, your network is beak, I think, because your pictur is Frozen. We can't hear you. 
+
+
+## Is any colleague of suash online?
+26:50
+Is any colleague of suash online? Hi, this is am. I'm just reaching out to you. Yeah, okay, thank you. Sorry, I'm back. I think I lost connectivity for some time. I'm back, so sorry, I was. I was saying that you know. The other issue is something which we touched upon briefly yesterday is the issue of third party assets. 
+
+27:42
+So both these companies s and scfl, you know, as we aware, were nbfcs and what they had done was that they had securitized many of their assets right. So they had sold many of the loan receivables that they had. 
+
+27:56
+They had securitized it or sold it to certain Banks and financial institutions, which means that, as in when recoveries happen from those loan accounts, those may have been held by SFL or scfl temporarily for the purpose, but for the only purpose, sole purpose, of passing it on to the underlying end beneficiaries. Now there various securitization structures. There are certain structures in which SFL where the originator will act as the servicing. 
+
+
+## Securitization Beneficiaries: How to get a securitization
+28:28
+There'll be many structures where the money itself does not come into the balance sheet of the originator and is put in a separate designated account, so that there's no co mingling between the originator assets and the assets which belong to the securitization benefici. There are various permutations and combinations in which a securitization transaction may be done. 
+
+28:49
+In the instant case, what had happened was that many public sector Banks, including State Bank of India, Punjab National Bank, bank of Boda Etc, had entered into these securitization transactions with shr. So as on insolvency commencement date. the allegation by Punjab National Bank was that an amount of up to 848 crores was collected by shre in its capacity as the originator of the securitization. 
+
+29:23
+But those amounts were not paid to the intended beneficiaries of the secur ization and they were in fact used for other purposes. So the pool, the pool lenders, the securitization beneficiaries, they had entered into independent and separate Deeds of assignment and servicer agreements with scfm. 
+
+
+## scfl assigned its entire right title interest to receivables from certain
+29:43
+Through those deeds of assignment, scfl had assigned its entire right title interest to receivables from certain select customers to the pool lenders in exchange for the purchase price under both the servicer agreement by the service agreement. I'm sorry. 
+
+30:03
+The scfl or any entity appointed by scfl was to service and assist in debt collection and recoveries in exchange for a certain service of fee, and the rebl will to be deposited in a distinct collection and payout account. 
+
+30:20
+Now what happened was that after the administrator took control of the company, he took note that the receivers were collected from time to time, but a certain portion of the money was not deposited in the collection and payout account. 
+
+
+## scfl should have idly collected and held on trust to repay on
+30:32
+It was it came into the account, but it went out not to repay the lenders who were or rather, let me not use the word lenders not to repay the securitization beneficiaries, but to repay on balance sheet debt of scfl. so the money which scfl should have idly collected and held on trust to pay to those to whom a true sale of the receivables had taken place. That did not occur. 
+
+30:58
+Those monies were allegedly Mis utilized and used to discharge on balance sheet debt of SFL and scfm. So the entities which had purchased the receivables in a true sale basis they questioned this transaction and basically said that the SI that SF and scfl should set aside 848 crores exclusively for their benefit post the initiation of bankruptcy. 
+
+31:27
+The trust and attention account continue to exist, but now, because it was under the supervision and control of the administrator, there was no further mismanagement. But what about the amounts which had initially been collected but were paid out? who is responsible for repaying those amounts and, more importantly, the securitization beneficiaries who lost these amounts access to these accounts? How should they be classified? In the insolvency process became a major question. 
+
+
+## Should they be classified as Financial creditors of scfm?
+31:59
+Should they be classified as Financial creditors of scfm? They have not lent money to scfl right. They have in fact purchased assets from scfl. They purchased the receivables from scfl, so it's questionable whether they can be classified as Financial creditors. 
+
+32:15
+If they are not Financial creditors, can they be classified as operational creditors or other creditors, or alternatively, they not creditors at all, because to them certain amounts were given up, they were legally entitled to those receivables. 
+
+32:31
+If those receivables were don't end up in their pockets but have been diverted for other resources for other purposes, then are they a creditor at all, or do they only have a claim in law saying that these amounts should be traced and handed back to us? So this is a matter on which I may have a personal view, but this is also matter now, which is currently sub judice. The Next Issue which arose is similar. 
+
+
+## nabad Act and sidb ACT: sums received by borrowing institution in
+33:01
+I think yesterday my colleague ainash may have discussed this with you in the context of dhfl. There was some litigation Visa V, national Housing Bank, nhp, so similar. This is very similar to the nhp litigation. There are two sections under the nabad Act and the sidb ACT, which I'll just read out for benefit. 
+
+33:28
+Section 2.1 of the nabad ACT basically says any sums which are received by a borrowing institution in this case SFL in repayment or realization of loans and advances refinanced either wholly or partly by the national bank, which means nabad shall, to the extent of the accommodation granted by a national bank and remaining outstanding, and this is the important part, be deemed to have been received by the borrowing institution in trust for the national bank and shall accordingly be paid by such institution to National Bank as per the repayment schedule fixed by the National Bank. 
+
+34:12
+Sidb act has something very similar. In fact, the language is remarkably similar. it says, any sums which are received by a borrowing institution in repayment or realization of loans and advances refinanced either wholly or part by SB shall, to the extent of the accommodation granted by SB and remaining outstanding, be deemed to have been received by the borrowing institution in trust for sidb and shall accordingly be paid by such institution to sidb. 
+
+
+## What happens if nabad has given a loan to s. SFL
+34:42
+As for the repayment schedule fixed by S, so what is the effect of these two sections? It's very similar to the effect of the NSP section. It basically means that if nabad has given a loan to s. 
+
+34:55
+SFL has used that loan to give loans to its underlying borrowers, then any repayment from those borrowers shall be held on trust for SFL and can buy SFL for the benefit of nabad or sby, as the case may be, and cannot be used for any other purpose. 
+
+35:17
+Now, the supplemental question that arises over here is what happens in case the loans which have been tagged as having been financed through the s or nabar loans, if those receivables have also been secured in favor of other secured crators of the company. Because then you have a conflict. The conflict is that on one hand, naar and Sid is claiming an exclusive trust over those assets. 
+
+
+## if trust prevails or whether the security interest prevails
+35:44
+On the other hand, there are other secure creditors of the bank of the company who have a hypothecation over all the receivables of the company. so whether the trust prevails or whether the security interest which has been created in favor of the banks that prevails. Interestingly, there's also a Consortium AG agreement where naad or SID may be a part. 
+
+36:06
+So can on one hand, nabar and S say that they are trust beneficiaries and on the other hand they can they say that we are. No, we have a security interest on the property because these are mutually destructive. Please, but that is factually what has occurred in this case. Also relevant here is rule 10 of the fsp rules. 
+
+36:26
+Now rule 10 of the fsp rules basically says that it requires the administrator to take control and custody of third party assets or properties in custody or possession of the corporate dator, including any funds, Securities and other assets required to be held in trust for the benefit of those third parties for the purpose of dealing with them in the manner as may be notified. So basically the government. 
+
+
+## Defining the fsp rules: What are the assets that were misused
+36:55
+The fsp rules say that if you are the resolution professional in relation to an fsp assets which you're collecting, which are either contractually or statutorily supposed to be held on trust for other parties, you shall keep that segregated and you shall hand it over to those third parties. The is there is no dispute on this point. 
+
+37:15
+The issue, however, arises is what about those assets which were used or misus for other purposes before the administrator came in, like what happened in the case of pool lenders? While he is in control, he can obviously watch over and supervise. But what about those assets which were Mis utilized or siphoned off illegally, or rather, if not illegally, then in breach of contract? How will those funds be traced and returned? 
+
+37:45
+Also relevant here is section 18 of the IBC, which says that the resolution professional shall take custody and control of any asset over which the corporate data has any ownership rights, as recorded in the balance sheet of the corporate data. the term assets does not include assets owned by a third party, which are in possession of the corporate data or held under trust or under contractual Arrangements, including bailment. 
+
+
+## CIP Process Ends on 18th February
+38:14
+So IBC itself, even without the fsp rules, was very clear that if you're holding assets on trust for third parties, you're mainly acting as a custodian. It is not your asset and cannot form the part of your liquidation estate. So this again, as I said, is a matter which is sub judice. It'll be interesting how it plans out now. Where we are in terms of the process today is that the CIP process is over. 
+
+38:40
+It ended on, if I remember correctly, 18th February. the narel, which is the bad bank established by the government National Asset reconstruction committee Company Limited has obtained the highest votes in the resolution process and they were selected as the successful resolution applicant in terms of the process. 
+
+39:05
+An application has been filed before the NT under section 31 for approval of the application and simultaneously, an application has also been filed before the Reserve Bank of India on which will determine whether the new resolution applicant is fit and proper to take over the company and under the fsp rules, RBI has 45 days to Grant its consent, which, if not obtained, will lead to an automatic deemed consent. 
+
+
+## Stray Process: How to Review the NT Application Process
+39:33
+So that's where we are in terms of the process. As the matter is currently in NT, there are various applications which have been filed opposing the section 31. many of those relate to intercreditor issues. As I said, applications have been filed by naad on SB in line with the nhp application in dhfl. Applications have been filed by pool lenders and applications have also been filed by certain unsuccessful resolution applicants. 
+
+40:00
+But I will not go into that for the purpose of this discussion, because you know that's something which happens in all companies, not necessarily only relating to financial services companies. So sorry, I think I've taken close to 50.55 minutes. This is a very broad overview of the Stray process and where we are currently. I think it'll be useful now if we open the floor. 
+
+40:23
+In case there are any questions and we can address that, may I raise a question here? Yes, sir, please. you said in the process of your deliberation that the NT initially directed to Banks and credit agency not to consider the even after default NPA and to credit agency not to consider the default in their credit rating. That's right. 
+
+
+## IBC vs Dem merger? What is the power of IBC?
+40:52
+And you also said that there is no such provision in the company's Act which Empower NT to give such kind of orders. That's right. In the same way, later on, you said that the nclt directed to merge the I mean CP process and in some reality cases we have seen the Dem merger of the CRP process also. Yes. 
+
+41:18
+So my question here also is if there is no provision in IBC as such for merger or Dem merger, from which act or which power NT is drawing power to? I mean guiding these kind of things. 
+
+41:33
+So you're absolutely right, sir, there is no power in the IBC which allows NT to consolidate or merge two ongoing CRP processes or to demerge in the as you mentioned the in the case of real estate companies, there is no power under the IBC. As I said, this is a Judicial Innovation. 
+
+
+## Videoon case: NT vs. NT vs. NT
+41:53
+I think after the videoon case was decided, there was broad consensus that there is a gap in the law, especially for companies, groups of companies which are all insolvent, or you know, they have made a payment default, all of whom have certain commonalities: common directors, common assets, common liabilities, interdependence, Etc. If those factors are there, then it'll lead to a more holistic resolution of the company. 
+
+42:19
+Also to add to that this is an application which is filed not merely by the resolution professional, but this is something which the of creditors deliberates. It's after the committee of creditors, who is a very interested and affected party, deliberates this. They are also co applicants at the NC. 
+
+42:36
+So the only distinction I'll make is that in the previous case of section 230, where the scheme of arrangement you know the NT passed certain orders under scheme of arrangement. 
+
+
+## Judicial Innovation: What is the IBC?
+42:46
+It was contrary to the submissions made by the lenders and the credit rating agencies, whereas in the case of group insolvency, whether it be laasa, videoon, shre or any other company, the lenders themselves have come before the n and said that if a consolidation does not take place, it will lead to Value depletion and the purpose of value maximization will not be achieved. 
+
+43:07
+But to answer your question very directly, sir, there is no provision under the IBC. This is a Judicial Innovation and the government is very aware of it. In fact, the government has set up a committee on group insolvency. that report has also been published and one of the recommendations is that the law be changed to specifically allow something which NTS have been doing through judicial Innovation. 
+
+43:29
+Thank you for your submission, but my question is academic in nature. Basically, he like you must be knowing initial days when section 12a was not there in IBC, the Supreme Court utiliz power under article 142 to allow the withdrawal of the CP process. But later on, the committee formed and the recommendation were made and thereafter, after the direction of the Supreme Court, to consider the provisions for withdrawal section 12 a Incorporated in the IBC. 
+
+
+## No Power, No Power, No Power, No Power
+44:07
+But in this case I wanted to just for academic purpose, from which article or which section the Judiciary draw its power to regulate like this or give order like this. So sir, there is no power. I'll be very honest. In my view, at least there are the legal experts. There is no power. 
+
+44:25
+There is Rule 11 of the NT rules which says that the NT has got plinary powers or can take certain actions in the interest of Justice. Supreme Court has held in certain context that the rule 11 of the NT rules cannot be used by the NT in a very broad manner. It has a very limited purpose. It is similar to the powers which a civil court has under the CPC. 
+
+44:49
+You know it cannot be used card blanch in any matter. So your point is well made, sir. there is no statutory provision. But I think the point to note here is that this is a commercial court and the commercial court has come up with a solution where all affected parties have no objection to it. 
+
+
+## Videoon case: Consolidation of 13 companies was not Consolidated
+45:08
+If you see the videoon case, where consolidation of 13 companies happened, there were a few other companies which were not Consolidated because the lenders of those companies had objections, the promoters had objections and those commonalities were not found. So even though there is lack of legislative sanction for this, I think the fact that it is a commercial solution no Pary is affected. All parties, in fact, will benefit from a consolidation. 
+
+45:37
+The government and higher Judiciary has, for lack of a better what, tolerated this judicial Innovation. the government appreciates that this is a requirement and hopefully there will be a change of law soon to give effect to introduce provisions of group insolvency in the IBC itself. Thank you, sir. Can I supplement a little bit? Of course, sir, please? 
+
+46:00
+Sir, so there are two principles of law which are quite emphatically embedded in our Juris Prudence in respect of the tribunals. The tribunals cannot use their inherent powers to West in themselves. The jurisdiction that the parliament has chosen not to was in them like for stand the power to review their own orders in the case of by NT. 
+
+
+## NT doesn't have the power to review its own orders
+46:30
+It is now a very subtle jurisprudence that NT doesn't have the power to review its own orders because the legislature has chosen not to was that power while they had the option to do so. 
+
+46:44
+The second principle is very clear that there is always a reason why an inherent power is granted to a tribunal, that inherent power is granted in order to empower or equip the tribunal or any such Court, to not feel handicapped or constrained in the absence of any specific power, where they feel constrained in any manner to pass any orders to meet the ends of Justice. 
+
+47:24
+Right now, in the case of videoon, which was the first instance where. The Code by Juris Prudence ordered recital consolidation was, although I hope and wish that the Judgment could have been better written than it was, but no offense meant. The principle on the basis of which that order was granted was threefold. First of all, that there is nothing in the code that prohibits a procedural consolidation. so there is. 
+
+
+## Procedurel Consolidation: What Is the Code?
+48:04
+There may not be a specific enabling provision to allow consolidation, but at the same point of time, there is nothing in the code which prohibits or in any manner restricts such consolidation. Number two, the power to exess exercise consolidation was exercised to meet the objectives of the code without asash very clearly mentioned, impacting any of the parties adversely or causing any Prejudice to any of the parties. 
+
+48:44
+And third, that the procedural consolidation as an outcome of the decision of the NT or also in and I'm not talking jurisprudence now I'm talking about the actual order. The actual order directing procedural consolidation also did not in any manner conflict with any of the provisions of the Court. 
+
+49:18
+The fact is that there is no restriction that an RP common RP could be appointed for 10 entities and therefore, when an RP con RP was appointed, there was no violation of any. There was no order saying that the COC would be merged or that there'll be a common COC to all of that. So I remember correctly. Von did not say that you know there'll be common COC. did it at least you know. 
+
+
+## State Bank of India vs. NC should file application for procedural consolidation
+49:46
+At least I don't recollect you know, but remind me, because it's been a while at least the way we had argued s before the videoon and when we had actually persuaded State Bank of India at that point time that they should file an application and there was quite a lot of Challenge and persuading all the RPS would already been appointed in different entities to come together and agree to that proposition. 
+
+50:11
+But finally, when SBI did file an application, they just wanted procedural consolidation, although of course we did say that there are instances in our jurisprudence of substantive consolidation, but we thought that this is possible POS and that is why the NC was persu. 
+
+50:29
+Reason for that was, as also mentioned, to meet the objectives of the code, to preserve the value, to make the process more efficient and to, at the end of the day, meet the objectives, the code, which requires the maximization of the value for the benefit of all the state worlders. 
+
+
+## NT Order Consolidation: What Is It?
+50:45
+So, in my view, even though there's no specific provision, even though there is nothing which wests a specific jurisdiction, the NT, to order consolidation, I did, we did feel that there is a there is a small window which is available, which we can use without in any manner offending the law or offending the established principles, or in any man asking the NC to exceed jurisdiction to pass that order. 
+
+51:13
+Now the very fact that those orders were never set aside or upset in by any higher Court, although they were frowned upon initially by policy makers because that was a not a policy choice that was made in the IBC, and therefore they rightly felt that perhaps the order of nclt could be seen to be in having some tension with the policy as articulated in the code. 
+
+51:43
+But at the same point of time the lenders, the policy makers, saw a merit in giving this a policy shape, and that's why, as mentioned that a working group was constituted, and it's a different matter that the working group report U did not get immediate traction, but it is back on the track and hopefully we will see it soon. 
+
+
+## nclt draw power under rule 11 to deliver judgment
+52:05
+So the I do agree with what s says in all respects, but I just wanted to provide another dimension as well. Thank you, sir. I mean you as per your view, the nclt draw power under rule 11, which Mr Sinha referred to deliver the judgment, like Supreme Court draw power under article 142 for withdraw article 142 cannot be compared at all with I'm not comparing what I'm just referring once for withdrawal when the 12 way was not there, the Supreme Court draw power from 4.142. Similar way, do you want to say that nclt draw power under rule 11 to deliver the Judgment? 
+
+52:53
+So yes, I the NC did use the power under rule, and they were persuaded by the arguments of the councils in that case to show that such an exess the power is permissible to achieve the object that the parties were wanting the court to order on and they would not be in any manner contrary to any law or any legal provision, because inherent power cannot be exercised to act contrary to what the law provides, isn't it so? 
+
+53:19
+The argument was that it would not be in any manner seemed to be in conflict with any PR, any provision, substantive provision that while there is no specific provision enabling the group cons the consolidation, but there was nothing prohibiting it as well. So it was an experiment. it was an innovation which also s mentioned. 
+
+
+## The NT's NT's NT's NT's NT
+53:44
+It was and that also, incidentally, if I may tell you, three days before the Judgment was reserved in videoon, the Swiss ribbon judgment came, and the last paragraph of the Swiss judgment, Swiss rban judgment, if you recollect where Justice nariman said that it is an economic law. It's a new law. It is an economic law and we should not be scared of afraid of experimenting. 
+
+54:10
+So this in fact only emboldened the lawyers who were arguing in favor of consultation to persuade the NT. It is an experiment, it's experimentation, it's an act of innovation, and let's just give it a shot. So I think we should move to next point. I know it was an academic discussion, but I thought any questions. Thank you. Thank you, Mr WKA. any more questions on the on the sh issues that we discussed. 
+
+54:43
+Participants can ask the questions if they have any. So I think no more questions are there for this topic, okay, so in which casee I'll hand over to my colleague. Nang is already here over to you, Nang, thank you. 
+
+
+## Reliance Capital of Financial Institution Insolvencies: What Is It?
+55:06
+So onwards from shre to the last in the triti, so far anyway, of Reliance capital of financial institutional insolvencies, as I was saying yesterday and I want to just remind the group today the difference in the business models and the structures of the three, even four, financial institution insolvencies that we've seen. 
+
+55:35
+You all remember how my partner am described, isfs, you know, being a sort of a group entity which used its investment in Downstream entities to raise a lot of the funding and then invested in Downstream op CS with certain limit mited amount of operations at the at the H level, the one housing which was, you know, I suppose, as close to a shadow Bank as is possible, you know, deposit taking and actually doing significant retail lending. 
+
+56:10
+In fact it's retail booking, retail banking or retail lending was huge compared to its other operations and that's really what the biders there who are buying. Moving on to, as Su just described, more on the asset finance and leing business model and finally relance Capital, which very much is in a sense an in house investment vehicle. it sits the top of many of the Ada groups. 
+
+
+## Reliance Capital: What is the Nole Top of the Investment Companies?
+56:41
+You know Financial businesses, whether it's stock broking or Arc or investment advisory, or in fact, you know Reliance General insurance and life insurance, the insurance companies. So this sits at the Nole top of all these entities. It sits as a cic, a core Investment Company. It's a type of nbfc. 
+
+57:03
+There's certain tests which you have to fulfill in order to become a cic, and if you do become a cic, although you are an ndsc, the amount of Regulation you suffer from is reduced, which is why these entities take on the cic tag. The Reliance Capital story is a bit of an old one. You know they've had reasonable assets. They've had a lot of liabilities. 
+
+57:30
+I think there was a lot of intercreditor infighting disputes in terms of who had access to security, who had valid security, and in the process I think a lot of creditors went in and got status quo orders from various courts around the country and basically locked up the resolution you know of land's capital. 
+
+
+## IBC is a big swath of interest in the IBC
+57:55
+So if there was any chance of it being processed outside the IBC, I think the interlocking status quo orders and the intercreditor disputes was going to make it very time consuming and difficult to resolve out of IBC. Now obviously IBC comes out. you know comes along as a bit of a sword to cut the knots in the Rope, if you think about it. 
+
+58:16
+And so I think eventually November 21, the RBI came in and said: you know we need to supered the board and following super session in just about a week, instructions came in from RBI to admit the company into IBC, and I think first week of December land's Capital was admitted into IBC, as before administrator appointed advisory committee appointed with three members, and the process has been running since December 2021 and continues today. 
+
+58:46
+The total debt is about 3.000 crws the pro. The progress, as some of you will have read in the newspapers, is significant. You know, expressions of Interest have gone out. A lot of PR were interested. about 55 of them were interested. As often is the case, many of those tend to pet it out. 
+
+
+## ARA: What Is the Difference Between Arc Cap and Arc Cap?
+59:05
+At the time of actual submission there were a fair number of people who submitted their actual resolution plans in what we're calling like the first stage, I think. More recently it petered down into only four participants and now, as you have seen in the news, for now, there seem to be only two participants: the hinduja group and the torent group. Three or four Curiosities. In relation to the ARA process, which I'll go into. 
+
+59:36
+I won't be able to give too much detail, because some of these are still sub judice. Some of these are still being, you know, argued and negotiated in the coc's and in the courts. 
+
+59:46
+So you'll forgive me if I if I a little low in detail, but one very interesting facet which comes out, and although it you know it is inevitably going to be relevant to every cic, it may also be relevant to non financial firms and this is the issue of there being multiple business lines in a single company and, as I was saying earlier, the way Arc cap is set up, you have a cic at the top and multiple companies or investments in multiple companies rooted into the cic. 
+
+
+## Economic Question for the COC
+1:00:19
+So you know you have your general insurance company, the life insurance company, you have insurance brokery, you investment advisory, you have an arc, a whole bunch of these. now I think the obvious economic question for the COC was: I forget there were two nbfcs: Reliance Home Finance, Reliance commercial Finance as well. 
+
+1:00:38
+So the obvious economic question for the COC: is there one buyer who wants all of this and is therefore willing to pay a premium to get the right mix, the right basket, the right Tali, you know all at one shot. 
+
+1:00:55
+Or is it the case that there may not be one buyer who values every one of these entities and therefore may give good value for four of the 10 and six of the 10 he's forced to take and therefore we give them you know, some nominal value and therefore is it better if we say that people can buy what they want. right. 
+
+
+## CC took a call to resolve the company as a going concern
+1:01:17
+You can buy two, you can buy one, you can buy three, you can buy three, and you know therefore the sum of its parts, if L may be greater than the whole. Now no one obviously knows the answer. Everyone can speculate and therefore the CC took a call, much like the call that was taken in dhfl, which was that let's test what value we can extract by trying to sell them individually as well. 
+
+1:01:52
+Now we all know the requirement under the IBC that the company must be resolved as a going concern. So how does that fit into this concept? and it was the broad similar analysis we did in dhfm, which my partner aan spoke of yesterday, and my partners aan and I, all three of us, did danan housing together, so we were very conversent with the call we took there. 
+
+1:02:14
+The call we took was: yes, you know the principle of resolving is a going concern. The entire company applies, but that does not mean that you can't get separate resolution plans for individual lines of business, which you coals into one overall plan which effectively read together resolves the entire company, to which the obvious question you might ask is what happens if Jimmy, Johnny and Jack get together and then, when it comes to the resolution plan implementation stage, one guy falls away and says I won't AG. 
+
+
+## Does it mean the entire plan falls? does it mean the rest of the company can go on
+1:02:54
+Does it mean the entire plan Falls? does it mean the rest of the company can go on. Obviously a fa safe mechanism needs to be built into the resolution plan by the C and the administrator and has to be signed off by the NT. 
+
+1:03:09
+Now what this is, I won't go into detail about, but suffice to say that this is something we had contemplated and therefore the structure which was set out in the eii was: please come and buy any one of these eight clusters, and each cluster had a group of companies. So, for instance, cluster one had rgc cluster. Two had Reliance life rgc is reliance General Insurance cluster. Three had Reliance Arc cluster. 
+
+1:03:39
+Four had Reliance Securities relance Financial relance wealth management relance Commodities cluster. Six had relance home finance. Seven had relance commercial finance and so on. so there were these eight clusters which basically deed up the various Holdings into more logical, edible, snack sized entities. 
+
+
+## How to choose a mix and match Reliance Securities
+1:04:02
+The thinking was: you know someone who takes a Reliance Securities may be equally open to them taking Reliance Financial wealth and commodities, and therefore we put those in C, put those in a group together. The idea was: you could choose mix and match. You know you could choose five of the eight clusters, two of the eight clusters. You could team up with someone who was taking two and I'm taking three and join up. 
+
+1:04:26
+So there was various combinations which were brought in, the idea being to see if you know Mr X chooses three but allocates nominal value to the remaining five. you might find two others who allocate significant value to two of those five and three of those five. So together the three of them will give a lot more value for the cic as a whole. 
+
+1:04:47
+And so again that experiment was done like it was done in Divan housing, and you know values were derived. I think as the process went along, for multiple reasons, it became clear that the players who wanted the entire company, because that was also an option. You didn't have to go clusterwise. You could also give an offer for the entire company. 
+
+
+## if resolution is effectively not satisfactory for the COC, then the COC May determine selling
+1:05:09
+The players for the entire company seem to be continue to be interested and you know at present seem to be given giving the most value. Some of the other thoughts that went on during this process you'll be aware the CRP regulations. 
+
+1:05:25
+There's now a line which says that you know if resolution is effectively not satisfactory for the COC, a resolution plan which has beened, then the COC May determine, you know, selling pieces of the company separately. Now what does that mean? 
+
+1:05:42
+My sense is that effectively, if the COC was to say over here we don't like any of the resolution plans, then it could then say that I will now sell each of these business lines separately and sell them separately and as each of them yield cash, that cash comes into the mothership, the cic, the ndsc and once all most of those clusters are sold out and there's mostly only cash left, then a resolution plan really effectively is placed for that. 
+
+
+## Reliance Capital: Investors vying for company
+1:06:15
+You know company which mainly consists of cash and maybe a few Investments to resolve that company, which is much easier because you're just resolving a company mostly full of cash. So that may be another option which parties may think of in different companies in the future. 
+
+1:06:30
+Given what the regulations permit, that has not been required so far in Reliance capital and what we have today is two bers, the Hindu ja and the Toran Group, which are vying for the company. They're in court at the moment fighting the same kind of fight we spoke about yesterday, which is: can you know, potentially run a process and then, if there's the possibility of Greater money, can you extend the process? 
+
+1:07:00
+Can you do more rounds and that is the core issue which is being fought, was fought in the NT, has been argued in the encl. We wait an order. Maybe it'll come next week and who knows whether we in the Supreme Court or not. 
+
+
+## What I've learned in the arap Saga: Questions for participants
+1:07:15
+But that is more or less what I had to say in terms of the structure of resolution and I'll pause here because I'm conscious this is a fairly contested complex point and see if there any questions before I move on to my next point. In. The arap Saga, participants can questions have. 
+
+1:07:49
+I request the participants to ask the questions, or they can put the questions the chat box, or I can continue and maybe people can ask question at the end. I thought I just pause, given that this was such a unusual concept. I thought people may have immediate questions because then you know. Otherwise we get detail a little bit. I think we leave it. So Mr batad has raised all right. 
+
+1:08:15
+Okay, okay, Mr Bat, upadhi, if you have any question to ask, that may just be a mistake one. I plow on as Mr B says and then take questions at the end. Okay, so that was you know a unique development and process which We R in arcad, and I suspect there'll be more of this coming through. 
+
+
+## IBC: Isn't Liquidation in a Resolution Process?
+1:08:42
+You'll have seen also and Mr B will know all about this the recommendations made you know in the MCA working paper in relation to changes to the IBC. there are also suggestions over there that the law now not only the regulation, the law should be changed to allow for Resolutions of separate business lines in a company. 
+
+1:09:02
+And I think one of the counter arguments I heard the other day is: but you know, isn't that effectively Liquidation in a resolution process if you're allowed to sell off entire asset lines separately? And I suppose my answer to that is: I mean the idea of course of allowing this is to send sell separate business lines and not you know individual assets. 
+
+1:09:22
+You don't sell the steel plant and then the plant and then the pipeline and so on and so forth separately the ideas to sell maybe the steel plant here you know, maybe the shipping line over there Etc. so as long as you can sell business Lin separately. That should be permitted. And the other argument which is made against this is: but isn't this liquidation in a resolution process, to which my response is well. 
+
+
+## Resolution, Are we going for liquidation?
+1:09:42
+The COC is perfectly entitled, even today, in the first COC meeting, to resolve for liquidation first meeting, they can say: resolution, are we go for liquidation? Chances are the court is going to say: wait a minute, why are you going to liquidation? Have you thought about resolution and therefore that let to be justified. 
+
+1:10:02
+So if the law has already taken a policy decision to permit an early Liquidation in the resolution, I don't think it's a significant policy leap then to allow an individual asset or business line sale during resolution, even if that is analogous to Liquidation in resolution. 
+
+1:10:22
+But I move on the significant issue which we have encountered, which variance of which some of you may have encountered in your processes is what happens to an asset of the company which has been secured to A lender on which asset enforcement is started but not completed and. The Possession has moved, although the title is not moved to the lender right. 
+
+
+## Asset of the company security given to lender started enforcement before IBC but not completed
+1:10:52
+I'll say that again, asset of the company security given to lender started enforcement before IBC but not completed and therefore today enforcement is pending. It's not completed. The title remains with the corporate denter but possession has moved to the lender. An easy example is a pledge of shares. right now, given where the law of the land stands, the supreme court order in PTC. 
+
+1:11:17
+In order to enforce, you need to sell the shares or enforce, enforce a pledge. You need to sell the shares to a third party. You cannot merely enforce the pled by moving shares from a demat account of the copy data to yourself. That is not enforcement complete. That is only the first stage. You actually need to run a process and sell the shares to third parties. 
+
+1:11:35
+So what happens in the middle if the CRP comes in the Middle, where the shares have moved to the lender but not being sold to a third party? Now? First question is: can those shares which have moved to the lender be sold during IBC? answer is no. There's moratorium because the asset still belongs to the corop data title Still Remains of the corer data. So moratorium applies. So cannot sell. 
+
+
+## Does the security Remain? Why not?
+1:11:59
+So the lender possesses holds, does not own. But you know has a has a physical grasp over the asset but cannot sell. Does the security Remain? The argument is possibly yes. Why not? Because you know it. He has started enforcing the security but not completed. So surely the argument should not be that he has lost security. So asset remains corporate data lender cannot sell it. Moratorium applies. Security of lender remains. 
+
+1:12:35
+Obviously any resolution applicant of the company is going to say: I'm buying your company, I have own that asset. you may own the asset legally, it may be in your balance sheet, but physically is being possessed by a lender. Give it back to me. How do I know I get it? Now I think of a resolution applicant makes this argument. 
+
+1:12:56
+I think it's a little bit of a red heading, because, quite frankly, no one is going to tell a resolution applicant: you give me the money whether you get that asset or not. I'm they clim right. So inevitably he can put it very simply in the plan and say: listen, I'm giving you 100 rupees, but my precondition is that lender has to transfer the asset back to me or back to the corer dent. 
+
+
+## What is your duty to take custody of your Dy
+1:13:16
+So I think from the ra perspective it is not complicated. But as an RP perspective is it complicated? I think you need to think about that. What is your duty? If you look at the IBC? Protect and preserve the asset, take custody of the asset. So if your corporate deor Shares are sitting in the lender's demat account because of a partial enforcement, your job is to get it back into your possession. 
+
+1:13:40
+Now how do you do that? You can ask the lender. The lender may say yes, lender may say no. What happens if the lender says no? And that is what we hit in an AR and again this is in the newspapers and it's in the court. It's being aru n. We have gone to court and said: listen, we have no obje to the security, assuming it's been validly created. 
+
+1:13:59
+We're not objecting, we not arguing to the pledge enforcement before. That is not relevant anymore. that's a moratorium, but the title is ours. That is Undisputed. It is my duty to take custody my Dy to protect and preserve. 
+
+
+## Reliance Commercial Finance: How to hand shares back to me
+1:14:12
+It is relevant for whatever reason, to my resolution applicant because they getting very worried and therefore you please hand the shares back to me so they can stay my possession and whether or not the NT will direct the lender to hand the shares back to me. As the administrator is now the question pending before the N, so this is going to be another interesting one. 
+
+1:14:33
+I think the answer is pretty clear, but given that I'm on the administrator side as legal council, I should not necessarily profess My Views and let the Court decide. So we should hear a decision hopefully this quarter. Now that is on possession. the third issue I want to talk about, which also is quite interesting, is how there's a resolution within a resolution. 
+
+1:15:02
+So, as I was telling you earlier, our cap has two nbfcs under it: Lance home finance, Lance commercial Finance. It holds 100% of one 48% of the other. Both of those are also in distress. Think a few thousands of CW, maybe 1.000 crws or some such of each of them of outstanding debt. Each of them have gone through a June 7th resolution or are going through and have reached the end. For Reliance commercial Finance. 
+
+
+## Bank of B was a lead bank. Now what happens in a June 7 resolution?
+1:15:39
+The winning bid was awesome. Bank of B was a lead bank. Now what happens in a June 7 resolution? This is not an IBC process. It is, as you know, more of a contractual process. Lenders have to get together. there's to be an IA, there's to be a share transfer, there's to be a dilution of equity Capital reduction, something that's to be agre, but all parties have to more or less give their consent. 
+
+1:16:04
+You know, like the IBC which comes in and chops out directors and chops out shareholders and chops out 33% of lenders vote June 7. So therefore, effectively, what has happened is for liance commercial Finance to go through. 
+
+1:16:21
+You need the coop option of arap as a 100% shareholder and therefore the COC of arap had to basically say yes, as long as you doing a June 7th resolution, as long as your resolution is valid and as long therefore the Lead Bank comes and asks me to transfer the shares, I will. 
+
+
+## Reliance Commercial Finance Resolution: Reliance Capital is not worth much
+1:16:43
+And that's what's happened effectively in the Lance commercial Finance the from a COC perspective, they have approved the sale of shares to the winning bidder. Author. And therefore that resolution is complete, at least from our perspective, where the shares have been transferred and the debt is being, you know, has been resolved or is being resolved. We are not involved over there. We were just shareholders, if you think about it. 
+
+1:17:07
+But an interesting thing to keep in mind over here is that I am a company already in administration. Already in IBC, my subsidiary is going through an insolvency resolution process and in that process I being asked to take my investment, my asset, and sell it. How do I do that? This is not a resolution of a business line. This is simply sale of one asset. 
+
+1:17:38
+So here we' used what we call R 29. This is very different from the structure I talked about, where the cic is being resolved through different business clusters. This is not that this is simply a Rec 29 sale, where You' have taken the permission of the COC to the extend they have security over these shares, release the security and sell this for a nominal amount because obviously the equity in this company is not worth very much. There were also other aspects in relation to resolution of relance commercial Finance which relate to the debt exposure of Reliance capital in Reliance commercial Finance. 
+
+
+## L Capital also Lent Money, just like other Banks had lent.
+1:18:17
+So L Capital also lent money, just like other Banks had lent. L Capital had also Lent and over here. The view taken by the Lead Bank and the creditors in relance commercial Finance was that being Intergroup debt, or rather inter company debt, or promoter debt, so to speak, that money should not receive any payout and therefore the debt exposure of land capital in Reliance commercial Finance has not received the same payout as the other secured lenders or unsecured lenders of Lance commercial Finance being related party debt. Now this concept is more commercial than legal. 
+
+1:18:55
+There is no restriction, as you are aware in IBC also now, for payment to be made to related party for their debt, but often lenders take the view that we will not pay any related party debt, any promoter debt. 
+
+1:19:08
+There's another company like this, called Reliance home finance that is still being resolved under the June 7. This is another NBC where we hold 48% potential is over here that Reliance Home Finance may not be resolved before the end of the process. So the question is, what happens if land's Capital gets resolved before Reliance Home Finance gets resolv effectively? The new bidder for relance Capital will also get relance home finance because that's a subsidy. 
+
+
+## How do we get around this?
+1:19:43
+But some leers have said that we may not want relance home finance. That is not a subsidary we want. It is not relevant to us. I'm so. How do we get around this? one of the structures which has been discussed is that in this scenario, what the biders could do is they could carve out the subsidiary, drop it into a trust and hand. 
+
+1:20:12
+The Beneficial interest in that trust back to the COC and say: until the resolution Downstream gets completed and then you do what you want with the share, but we don't want it as the ra you keep it. That is one structure which has been thought of. Obviously, you know, regulatory muster, regul analysis etc. Has to be contemplated. We need to think about that. 
+
+1:20:35
+But just for you to keep in mind a tricky asset which is lying in the company which the P doesn't want. This may be one solution. In other, you know, equivalent cases. you may be running to resolve that where the r saying I don't want it. How do I fix for it? Drop it in a trust hand the benefit interest back to the US. 
+
+
+## debentures issued by companies in Reliance, Reliance, Home Finance
+1:20:54
+Now one issue which has come up quite significantly in relation to our cap and has come up in relation to Reliance commercial finance and Reliance Home Finance is these companies have issued lots of debentures. 
+
+1:21:10
+Now the way debentures are issued is the company will sign one debenture trusted State debenture trusted dated 30th April 2021. It will sign that with the debenture trusted and say under this debenture trusted I will issue 1 000 cres of debentures from time to time. Then what happens is after they've, you know, issued this debure trust. From time to time, the company actually issues debentures. 
+
+1:21:40
+First they will issue 2 000, then 1 000, then 3 000, then 1 000. Sometimes, even though they under the same debenture trusted, they will be issued under different information memorandums and as a result, their terms will be different. So there could be four debenture issuances under one debenture trusted, with four different IMS and with different terms and with different. 
+
+
+## What is the total debenture trust issuance?
+1:22:04
+Importantly, different is numbers, which is the security identification number, which means that you could have one debenture trust debenture. I could have one debenture s could have one debenture, all of them issued under the same debenture trust, but different Nic numbers and slightly different terms. He could have 7%. I could have 5%. You could have 3%, whatever it is. Now the question is: how do we vote right? Let's say there are let's simplified. 
+
+1:22:39
+There are only three debentures in the company, all under one debenture trusted, all three with different license deure I in number one de number two de number three. I have number three. So is number two. You have number one. Your debenture is 100 rupees and is number one. You are the only deure holder. 
+
+1:23:09
+Swash holds a debenture number two is number two worth 50 rupees, but that debenture issuance over there is $2 000, of which he holds 50 rupees, but he's the only active dech holder. The others don't even come to vote. And the third is me. I hold debenture number three I number three 300 rupees. The total debenture issuance there is 400 rup. So I hold 300 of the 400. Now what is the total? 
+
+
+## debentures in issuance of 400 you hold 100. So holds 2 000. Total
+1:23:44
+I hold debentures in issuance of 400 you hold 100. so holds 2 000. Total debt of the company is 2 500. Correct, but there only three active debenture holders. One is you holding 100. One is swash holding 50. One is me holding 300. Now, if you are aware, the voting of debenture holders is not is present in voting. 
+
+1:24:10
+It is not like in a COC, which means that if in's I only he shows up, then he becomes a n. So in his debenture it will show as 100 voted yes, divided by 100, end of matter or sorry 50 or whatever his number was, which means the remaining people don't vote. It is not considered no, like it is in a normal COC. What does that mean? now it becomes very important. 
+
+1:24:42
+If you, if you see my example, in terms of whether we regard the voting by is or DD, why there only three active deure holders. You s and me. You have 100 Years of have 300. So if it is considered the Voting is done by DTD. The three of us will vote. Only three of us will vote. Everyone else is sleeping. The three of us together constitute 450 rupees. 
+
+
+## Trust versus I voting is a very important discussion
+1:25:11
+I am 300, which means whatever I say applies to both of you as well as opposed to voting by iin, if it is voting by iing, you hold 100 rupees of your 100 rupees. So you can vote Yes or No for yourself. so is the only one who votes in his debenture issurance. So his answer will be the vote for his I and mine will be for mine. 
+
+1:25:38
+So you could say no s could say no. I could say yes and my yes will only apply to my yes to my deur if it is iting. If it is debenture voting, my yes becomes your yes becomes su's yes. So you see, debenture versus debenture, trust versus I voting is a very important discussion. Now sebbi issued a circular in October 21, I think, saying that in June 7th kind of resolution and so on. 
+
+1:26:10
+The voting should happen by I cases. Now I won't go into the merits, whether I is better. DD is better. There arguments both ways. That is not relevant to this discussion. I think in Reliance commercial Finance. The View was taken that no, the voting will be done debenture trust advice and at least in Reliance commercial Finance, depending whether the voting happened, debure trusted wise or I wise. 
+
+
+## debenture trust lead voting - a debenture trustee
+1:26:37
+The answer was very different and eventually the Supreme Court decided on other parameters that Reliance commercial Finance could continue with the debenture trust lead voting and that got resolved. But that principle also equally applies to plans Capital, because we also have a lot of debentures and the question is: how do you vote debenture trusted wise or is wise? 
+
+1:27:09
+And I think the view that has been taken for now is that under the IBC and I won't go into the relevant sections, but you can ask me separately under the relevant sections, in particular section 2.25 Etc. the language of IBC suggests that the document that appoints the debenture trustee, which is the debenture trustee, is the document that governs how voting will be done. I E voting should be debenture Tred devise, not iwi. 
+
+1:27:47
+So that seems to be the current view in the market, across Market participants and law firms, and that seems to be the current view that has been followed, and I wanted to make this point because this is very important from the perspective, not only, I suppose, of debenture insurances, but any other such groups which are represented by an authorized representative, which between themselves, behind the scenes, have different interests and whether you should consider them separately or as a group. 
+
+
+## Reliance Capital: What's happening today in Reliance Capital?
+1:28:24
+In terms of what's happening today in Reliance Capital. The last thing I wanted to discuss was the ongoing issue in the encline in terms of whether or not the COC is allowed to extend the bidding process in a manner which it deems fit in order to maximize value. So what are the facts over here? In Lance Capital, an expression of Interest went out. Parties bid. The bids received were not satisfactory for the COC. 
+
+1:29:04
+The COC said we will run a further process, a challenge mechanism. It set out a challenge mechanism. Note, four parties participated in this challenge mechanism. Two parties fell away halfway through two parties. Till the end in that process, one of the two biders seemed to have come on top. That person obviously thought that process is over.company is mine. hopefully a day later one of the other biders came in and said: actually this is my offer. 
+
+1:29:44
+Now whether that offer was different, was it increased or not. I won't going to that is all subes. But certainly the other party thought that offer was different and so went to court and said: not allowed. Process is over. No one can then come in and offer more money. Court said: yes, NT agreed, not permitted. COC thought about it. COC said: you know what this is neither here nor there. 
+
+
+## Whether I'm allowed to, whether that offer was more, not more, whether I
+1:30:13
+Whether I'm allowed to, whether that offer was more, not more, whether I want to accept it, not accept it, allowed to accept it, not relevant. I don't like either offer. Both offers less or more are not satisfactory to me. I want a lot more money, see decided. so I will now have one more round of the challenge me to which one party said no, you're not permitted. This is what a challenge mechanism says. 
+
+1:30:39
+C said n this is what I meant we back in court and flat. Now question is really from a value maximization perspective, is the COC entitled to run an extra level of a challenge mechanism or is it bound if there is some language which suggests, or the biders feel suggested that was closure? 
+
+1:31:17
+Is there some element of expectation of entitlement that a bidder should have to say line is drawn over there and that is where it end? or can the C said no, either I did not say the line was drawn over there, or even if I said I can redraw the line and say you still there now because I want more money. 
+
+
+## Behavioral Economics: Is it a bidder going to offer more money if
+1:31:37
+And this is going to be very interesting because, as I was even mentioning yesterday, which some of you may have heard, is that from a principle of Behavioral economics, is a bidder going to offer more money if he knows final means final, or is the COC going to get more money if even after saying fin final, it can tell someone give me more money? 
+
+1:32:07
+Now I don't think we'll have a definite answer on that behavioral economic principle, but we should have a definitive answer from the courts on which one is permitted. Now, you will be aware there's a regulation 391a. I think someone just messaged on the group that you can only change the resolution plan once. I think that's right, but the way the regulation is worded. I want to make two points. 
+
+1:32:29
+Is it says resolution plan I E signed resolution plan. So some Market participants are taking the view that if you give me a sign resolution plan today, on Tuesday, saying that I offer you 100 rupees, I can then sit with you from Tuesday to Friday and negotiate and say 100,110.130,40 and in that process get draft resolution plans, draft Financial proposals from you to for me to consider, and once by Friday we agree 160, then you submit a second signed resolution plan and therefore comply with 3918. That is one view in the market. 
+
+
+## jindel steel, jindel steel, chenai, chen
+1:33:14
+There are other more conservative views, the other more stricter views, Etc along that along that range. But note that in C Chennai seems to have said that 391a not applicable to COC can ask for more resolution. Friends, jindel steel again was an N matter which went to encline, where actually the C took the other view. COC said that even though someone has paid me more, I don't want it. Baba, I finished my process. 
+
+1:33:47
+The NT over there said n how can you let go of the money? You please consider you entitled to consider, please consider you not limited by 3918. Encl then said: listen, please let the C decide what it wants. It's not forced to consider more. If it doesn't want to. So that is Jindal SE. 
+
+1:34:06
+Then we have n chenai, which has said no 391 is not applicable to COC, and now we have AR, which is again an enag. So let's see if we now finally in encl get an accumulation of these slightly contrary views into one more guiding principle. That was it in terms of my Ramble On the arap process. I don't know if anyone has any questions. 
+
+
+## What Is the Law of Insolvency?
+1:34:33
+Mr B, if you if you suggest I talk about anything more on any of these topics or no. I mean I think this is very insightful. I mean all the three cases that you discuss so comprehensive. I've Lear so much because I didn't really know. You know all these fin details. Of course you know what you read or hear from the stakeholder to come talk to you about certain things. 
+
+1:34:57
+So I don't have any question per se, but let's see if you know the participants have, and so radika, I mean how do you want to go about this? Do you want to cover something else also, or should we just keep it open now? 
+
+1:35:15
+I think in terms of fsp insolvency, I was about done, but if the audience has a particular aspect of the law they want me to talk about and if I'm familiar with it, I'm happy to speak more on it. So I think might just good idea to open it for questions and see how. 
+
+
+## Frequently Asked Questions on fsp
+1:35:35
+Yes, I think what we, what we just need to politely request everybody, is to sort of Center the questions on the fsp issues and at the end, if we have a few minutes, we can take some general questions. but it does become kind of an issue you know to answer questions which are more specific to a particular case and are more in the nature of an opinion. 
+
+1:35:59
+But on fsp, yes, academically, scholarly, legally, operationally, anything which they would like to know we should ask. Participants can ask a question on fsp. They have any or they can write in chat box. Sir, are you permitting question only for special vacul or any other question relating to IBC also? So first of all on fsp and then we can take it afterwards. The SLE question. Okay, I think Mr upadhi had a question. 
+
+1:36:44
+I see I think his hand may have been up by mistake. It's been up for a while possible. Participants can write the questions in the chat box. I guess no more questions are there with the particip. 
+
+
+## fsps are only three, and one is not sure when the next one will
+1:37:06
+I'm also conscious, radika, that fsps have only been three, and one is not sure when the next one will be so in terms of practical, immediate relevance of fsp may not be as relevant to this wider group, but I'm hoping we brought out some principles which may by extension also apply to non financial firms. True, especially like the group insolvency, the sale of assets, how the subsidaries assets, how do you? 
+
+1:37:34
+So those are issues that are Universal. They may have been tested the case of, but they would apply other copy dats as well. So I think that it was a useful Insight from the from the other dimensions as well. Maybe you know. 
+
+1:37:49
+If there are no questions, perhaps what we could do is: maybe you know it's 347. maybe give 15 minutes as open floor if somebody has any general question on anything on IBC or yes, is one issue. Sir, yes, of course, so you can ask the questions. Yeah, I have one query. 
+
+
+## IRP raises Inter Finance if he takes consent of COC or I
+1:38:15
+There is a situation that the assets of the CD charged to some bank and the value of the assets is maybe around 8 CR or something like that, and in the given circumstances RP was need of some fund to run the CD as a going concern. Hence he obtained inem Finance, maybe around one CR or something like that, by charging the same assets which was charged in favor of a bank. 
+
+1:38:56
+The question here is: he do the IRP has authority to raise this Finance basically as per IBC, the question is whether it is necessary to take consent of COC or I. IRP has inherent power to raise this Finance, which was otherwise secured with the bank. So, Nan, can I just answer, and maybe you can supplement it then. So you see the there is no inherent power. 
+
+1:39:36
+You know, as far as this is concerned, there is a power that inter resolution professional has before the COC is constituted to raise inter Finance, but he has to still satisfy the conditions that are mentioned in the Rel provision. 
+
+
+## Interum Planers Should be raised without approval of COC
+1:39:49
+And once the C is constituted, there is no way the interum planers can be raised without the approval of the COC, and it is then for the C to decide whether they are willing to se second charge on the Assets in favor of the internal Finance provider, or if they are willing to give agree to a charge being created on answer which is not encumbered at the moment. 
+
+1:40:12
+I think that's entirely a the COC, the RP can't do anything. I mean I would even be doubtful if the NT has that power. NT has processive power of the lender. yeah, but we do understand that there are certain directions with regard to the paying of the CRP cost which would be treated as interim finance and which can be paid as CP cost and in priority as an interim Finance would be paid. 
+
+1:40:37
+But that is not really akin to raising of interum Finance in the first place. These are my short sir. section 20 somewhere deals with this kind of thing. I think to raise is in finance, provided that no security interest shall be created over any incumbrance incumbered property of the CD without the prior consent of the Creditor whose debt is secured over such incumbent property. 
+
+
+## IBC: How to raise interim Finance without COC approval
+1:41:07
+Then there is a provisor provided that no prior consent of the Creditor shall be required where the value of such property is not less than the amount equivalent to the twice of the amount of debt. Thep is drawing saying that he's having some power in regard to the boring and he trying to justify his borrowing. Basically, we are just trying to accumulate whether he's on the right foot or notan. Why did you take this sure? 
+
+1:41:49
+So I don't necess want to pass any sort of judgment here. I think maybe the counter argument that this IP might be thinking of making is, I think, if you look at the way the IBC reads, it says that this you know the IP in relation to raising interim Finance if it's over the level which has been set by the COC. 
+
+1:42:13
+Maybe what the argument he's making is the COC never set a level and therefore he's entitled to raise whatever Finance he wants. I think in practice what we've seen is, as Mr batra points out, that IPS tend not to raise interim Finance without COC approval. Because why have that fight? 
+
+
+## Why should I give security during IBC?
+1:42:31
+It's ridiculous and even the interim Finance provider will not want to get into a company where there is a moratorium and therefore it can't, you know, effectively challenge the company and therefore why should it get into a company where the COC is unhappy with the interim Finance? Why put money into company where the lenders are going to fight? So you know? 
+
+1:42:51
+Maybe they have some legal argument or legal counterargument over here, but I would have thought that this will be a tough call made by the IP, certainly in terms of the finance raes I think. In relation to the security as a matter of practice, I think two or three things right if it's unencumbered, even if it is unencumbered. 
+
+1:43:14
+I my sense was that from an IBC perspective, to give security is in a sense disposing of an asset or an interest in the asset, and that by itself during the IBC is permitted only within very limited perspectives. So I think giving security during IBC is something which has to be examined a little more closely in the first instance. 
+
+
+## IBC's Legal Issues to Override Security
+1:43:46
+Secondly, someone already has security over it then, as a matter of simple, you know the law of security to give security or that asset without the consent of the existing exclusive or first charge Holder will depend on what the language of that security says, especially if it's exclusive, and says no security may be given without my consent. To override that, I'm not sure the IBC gives power. so that's something also which needs to be examined. 
+
+1:44:16
+And I think the third point is the provisio which you read is, I think you know, a relevant provision, but suffers from the Practical issues which I just mentioned. So the three of these issues need to be read together before taking a final view right. So there's one question being put up by Mr bhat upadhi. He has mentioned how it trigger in case of ss fsp only RBI zoto or creditors can make only RBI. 
+
+1:44:53
+That's very clear in the fsp rules. I think the Creditor can go and you know, present the petition or the case to the RBI and request, for whatever reason that the relevant financial service provider should be put into IBC and the regulator may consider. 
+
+
+## What challenges specific to fsp you forc, particularly when realizing foreign recei
+1:45:12
+In fact, I think there was some news reports that lenders of either Reliance Home Finance or commercial Finance or both, even I had approached the RBI to request them to put those companies also into the IBC. So like that the Creditor can petition the RBI, not the NC. Then the next question is how voluntary liquidation happen in case of fsp it's permitted again. 
+
+1:45:39
+Fsp rules contemplated, but again the I think the fsp needs to approach the RBI again and seek his permission to go under volun liquidation. All right, sir. Next question is what challenges specific to fsp you forc, particularly while realizing foreign receivables? I don't think realizing foreign receivables has a particular dynamic in the context of an fsp insolvency as much as it would apply to recovering foreign recoverables in any other IBC. 
+
+1:46:19
+But sorry, Mr B, I don't know if you have a different view on that. No, I AG with that, yes, and I suppose recovering forign receivables in a sense would be, you know, no different really in a in a solvent company versus an insolvent company, in the sense that you just need to approach the relevant foreign Council and authorities to recover those assets. 
+
+
+## Committee of Courts and Committee of Insolvency Professionals
+1:46:44
+And I suppose at some point, if those assets are sitting in a foreign company which is also ins solvent and then there needs to be some coordination to be done between the administrator of that company and the administrator of this company, then that coordination, at least today, will have to be relied on basis. You know what is called Committee of Courts and Committee of insolvency professionals. 
+
+1:47:14
+I think is Mr B pioneered in Jet Airways, along with some of my partners where effectively, you know, the CTS got together or the professionals got together along with the advisers, and you know, developed a protocol to you know, resolve any inter insolvency issues and asset resolutions. Sir, in that case, Hello, am I audible? Yes, sir, yes, in that case the timeline should be certainly, you know will be tossed. So what may the recour? 
+
+1:47:54
+Sorry, I'm not sure the question, the timelines will be pushed out. You're saying yeah, that will surely cross because you know foreign receivers are getting those realizing forign right. We we seeing that in a couple of cases where the overseas process is taking a lot of time. 
+
+
+## CP: Should RP invest in CD?
+1:48:10
+But I mean the short point is if there's a resolution of the company, the resolution applicant will buy whatever value he attributes to that claim or if it goes into liquidation, the Liquidator then continue processing recovery of that L. I'm not sure the court will necessarily extend the resolution process because one or two assets need resolution. 
+
+1:48:32
+Overseas is a short part unless they constitute almost the entirety of the assets, and you could argue that there's a litigation in relation to those overseas assets and therefore that litigation should be excluded from a 33 day period. I mean I suppose that argument could be made. The next question is: in one CP after 12a filed in pending for disposal by NT, RP needed funds for CD. COC said we will not fund promoter offered funds. 
+
+1:49:09
+Then she has written question is incomplete. Can RP go ahead and then seek nt's consent or he can go for ratification? I'm not sure. I follow the question, so I don't know, Mr you, I think what is being suggested is that the promoter, who moved to 12 a step forward to provide the funds to me, keep the Enterprise as a going concern. So just a second. I just so. 
+
+
+## Can RP accept the contribution mared by the promoter without you know and then ultimately get
+1:49:53
+The question is that can RP accept the contribution mared by the promoter without you know and then ultimately get it reified from the NT? Now the fact is that as long as the promoter is I, my view on this is that if the promoter is funding without seeking anything in return as a priority, as a CP cost or in any manner prejudicing any other creditor or wanting to get paid before payments are made to other creditors, I see no reason why there should be difficulty. 
+
+1:50:31
+He's at the end only trying to preserve the value and making sure that the there's no disruption cost in the in the absence of the availability funds which no lender is willing to give at this stage because of the obvious reasons that there is a section 12 a pending and they're hoping that section 12 is allowed and the get paid the way they have agreed and the C end. so why would they put any money? 
+
+1:50:56
+And if the promoter is putting it's absolutely fine. I mean he is not wanting to claim over as long as he's not wanting to claim any priy. Interest in that is not you know in any going to ask that payment to be made over and above what he has agreed to pay. I don't see this as a difficulty. I think you can do it and then n will be very happy to take that on record. 
+
+
+## Is IBC failed in respect of real estate companies unable to hand over thousand of flat
+1:51:20
+I don't even think that ratification is required in that sense. No more questions in the chat box. Participants can ask the question if they have, or they can write the question in the chat box again. my request would be that, please, if you could ask the general proposition of law rather than being very specific to your case, is in the nature of opinion, because we feel we are very happy to provide an opinion. 
+
+1:51:53
+At least I'm happy to provide any view of this. But it may not be proper for us to be opining on a particular case and the you know and giving you know a view Without Really knowing the full facts, on the basis of just a three line question. It could be, you know, at times be completely misleading, so we just want to be completely transparent and candid about it in that sense. So one more question. 
+
+1:52:19
+Sushil Kumar has written. Is IBC failed in respect of real estate companies unable to hand over thousand of flat? well, I, if I can take this question, I know it's very hard to express an opinion such as this. I know it's a strong view that you express that has it failed? I don't, I don't. 
+
+
+## Real Estate Enterprises insolvency resolution: challenges that you all know
+1:52:45
+I would really like to you know answer the question more specifically in that sense, but what I would suggest is that yes, there have been a number of challenges in the real estate Enterprise is something which you all know. 
+
+1:53:04
+This not any secret, but over a period of time, through Innovation, through judicial interventions, through policy interventions, we have been able to fairly improve the process, improve the whole efficiency of the process, deal with the challenges of the pitfalls that you we have experienced, and I can see that even in the discussion paper that the MCA issued in December, we had seen that there are a number of other significant changes that are expected to deal with the complexities or the challenges that we continue to face. 
+
+1:53:48
+So I do believe that there are challenges, but there have been adequate measur in the past and I believe they'll be continue to and over a period of time we will hopefully be able to make the whole process of real estate Enterprises insolvency resolution more efficient. I'll stop at that. sushil g. Thank you. Thank you, no more questions are there in the chat box, so we can like conclude the session. 
+
+
+## Team icsi thank you for joining the session
+1:54:29
+So, on behalf of team icsi, I would like to thank all the participants for joining the session and for both the sessions yesterday and today, and would like to thank you, Su sir, for all your support, and I would like thank nangai sir and all the team members, Miss am suara and Ain suban, for taking up all the matters And discussing it in detail. Thank you so much. 
+
+1:54:56
+I will also like to thank Nan suash and am for their contributions and for taking the time with two days and radika, thank you so much for you also for coordinating with us. Madam, Madam, May request you to Mark me attendance. I was stuck up in NT hearing up to 3:15, so we will be sending a separate meil for that. thank you, thank you, thank you. 

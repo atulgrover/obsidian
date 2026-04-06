@@ -1,0 +1,244 @@
+<html>
+<p>
+	<div>
+		<h1>
+			Where an application in relation to the Corporate Debtor for initiation of CIRP is pending at NCLT then, initiation of CIRP of the Corporate Debtor is not a pre-requisite for maintainability of an application under Section 95 of the IBC, 2016 filed for initiating IR Process against the Personal Guarantor &ndash; PNB Housing Finance Ltd. Vs. Mr. Mohit Arora (Managing Director of Supertech Ltd.) &ndash; NCLT New Delhi Bench Court-II
+		</h1>
+		<div>
+			October 5, 2021
+		</div>
+		<p>
+			The issue in this case is that whether initiation of the CIRP of the Corporate Debtor is a prerequisite for maintainability of an application under Section 95 of the IBC, 2016 filed for initiating IR Process of the Personal Guarantor of that Corporate Debtor before the NCLT? The Adjudicating Authority held that in a situation where Application(s) in relation to the Corporate Debtor for initiation of CIRP is pending at NCLT then, initiation of CIRP of the Corporate Debtor is not a prerequisite for maintainability of an application under Section 95 of the IBC, 2016 filed for initiating IR Process against the Personal Guarantor of that Corporate Debtor before the NCLT. The moment the IB application in relation to Insolvency resolution of the Corporate Debtor is pending before this Adjudicating Authority, the provisions of Section 60(1) get attracted and the jurisdiction to entertain insolvency process against the personal guarantor would, therefore, lie with the NCLT.
+		</p>
+	</div>
+</p>
+<div>
+	<div>
+		<div>
+			<p>
+				<div>
+					<div>
+						<p>
+							<strong>
+								I. Case Reference
+							</strong>
+						</p>
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										Case Citation
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										(2021)  701 NCLT
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Case Name
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										PNB Housing Finance Ltd. Vs. Mr. Mohit Arora (Managing Director of Supertech Ltd.)
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Financial Creditor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										PNB Housing Finance Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Corporate Debtor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Supertech Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Appeal No.
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Company Petition No. (IB)-395(ND)2021
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Judgment Date
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										29-Sep-21
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Court/Bench
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										NCLT New Delhi Bench Court-II
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Act
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Insolvency &amp; Bankruptcy Code 2016
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Judicial)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Mr. Abni Ranjan Kumar Sinha
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Technical)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Shri L. N. Gupta
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Similar Case
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										(2021)  736 NCLT&nbsp;
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<p>
+							<strong>
+								II. Brief about the decision
+							</strong>
+						</p>
+						<p>
+							An Application is filed for initiating the&nbsp;Insolvency Resolution Process (the &ldquo;IR Process&rdquo;) by M/s PNB Housing Finance Ltd. (the Applicant/Financial Creditor)&nbsp;against Mr. Mohit&nbsp;Arora (Personal Guarantor/Debtor), who is&nbsp;the Managing Director of Supertech Ltd. (the Corporate Debtor) under Section 95(1) read with Rule 7(2) of the AAA for Bankruptcy Process for PGs to Corporate Debtors Rules, 2019 (&lsquo;Personal Guarantor Rules 2019&rsquo;).&nbsp;The Personal Guarantor herein has given the guarantee in respect of the loan availed by M/s. Supertech Ltd. to the Applicant/PNB Housing Finance Ltd. That the main argument of the Respondent/Personal Guarantor is that to initiate IR Process against the Personal Guarantor before this Adjudicating Authority (NCLT), it is necessary that the Corporate Debtor should be under CIR Process or Liquidation, which is not the case in the present matter.
+						</p>
+						<p>
+							The issue in this case is that&nbsp;&ldquo;Whether initiation of the CIRP&nbsp;of the Corporate Debtor is a&nbsp;prerequisite for maintainability of an application&nbsp;under Section 95 of the IBC, 2016 filed for initiating&nbsp;IR Process of the Personal Guarantor of that Corporate&nbsp;Debtor before the NCLT?&rdquo;
+						</p>
+						<p>
+							<em>
+								<strong>
+									Decision of the Adjudicating Authority
+								</strong>
+							</em>
+						</p>
+						<p>
+							The Adjudicating Authority held that:
+						</p>
+						<ul>
+							<li>
+								Whenever Section 60 is attracted, the provision of Section 179(1) of IBC, 2016 shall not be applicable and the jurisdiction shall vest with NCLT. The contents of Section 60(1), 60(2) and 60(3) indicate three different situations/circumstances with regard to the jurisdiction of this Adjudicating Authority to entertain application for initiating IR process against the Personal Guarantor:
+								<ul>
+									<li>
+										a) That Section 60(1) depicts a situation, where the CIRP or Liquidation process has not been initiated. The same can be inferred from the words &ldquo;
+										<em>
+											in relation to
+										</em>
+										&rdquo; insolvency resolution and liquidation for corporate persons, which includes the Pre-CIRP Period.
+									</li>
+									<li>
+										b) That Section 60(2) depicts a situation, where the CIRP or Liquidation process is already initiated and pending. The same can be inferred from the words &ldquo;
+										<em>
+											is pending
+										</em>
+										&rdquo;.
+									</li>
+									<li>
+										c) That Section 60(3) deals with the provision of transfer of proceedings from DRT to NCLT in case the CIRP and Liquidation is pending against the Corporate Debtor.
+										<strong>
+											(p20-23)
+										</strong>
+									</li>
+								</ul>
+							</li>
+							<li>
+								&nbsp;We observe that Rule 3(f) of the Personal Guarantor Rules 2019, which defines the term &lsquo;Guarantor&rsquo;, nowhere stipulates that the Corporate Debtor shall be under CIRP or Liquidation. Hence, the Personal Guarantor herein, is deemed to have been covered under the definition of the Guarantor as defined under Rule 3(f) of the AAA for Bankruptcy Process for PG to Corporate Debtors Rules, 2019.
+								<strong>
+									(p29)
+								</strong>
+							</li>
+							<li>
+								While going through the Section 60(1), we have seen that the Adjudicating Authority, in relation to the insolvency resolution and liquidation for corporate persons including corporate debtors and personal guarantors thereof shall be the NCLT having territorial jurisdiction over the place where the registered office of a corporate person is located. Hence, in the case herein, there is a situation where various IB applications for initiation of CIRP against the Corporate Debtor are pending. In our considered view, the moment the IB application in relation to Insolvency resolution of the Corporate Debtor is pending before this Adjudicating Authority, the provisions of Section 60(1) get attracted and the jurisdiction to entertain insolvency process against the personal guarantor would, therefore, lie with the NCLT.&nbsp;In the light of the aforesaid facts, we would like to summarise that in the case herein, since:
+								<ul>
+									<li>
+										(i) there are pending IB cases in relation to initiation of insolvency resolution of the Corporate Debtor;
+									</li>
+									<li>
+										ii) Section 60(2) of IBC 2016 is without prejudice to Section 60(1) as held by the Hon&rsquo;ble Supreme Court in the matter of&nbsp;
+										<em>
+											Lalit Kumar Jain V. Union of India&nbsp;(2021)  61 SC
+										</em>
+										; and
+									</li>
+									<li>
+										iii) Section 179(1) of IBC 2016 is subject to Section 60 of IBC 2016, which includes Sub-Section (1),
+									</li>
+								</ul>
+							</li>
+						</ul>
+						<p>
+							therefore, in our considered view, the jurisdiction in relation to the insolvency resolution (and liquidation) for corporate persons including corporate debtor and personal guarantors thereof shall be the National Company Law Tribunal in terms of Section 60(1) of IBC 2016.
+							<strong>
+								(p31-32)
+							</strong>
+						</p>
+						<p>
+							Hence, we conclude that&nbsp;
+							<strong>
+								in a situation where Application(s)&nbsp;
+							</strong>
+							<strong>
+								in relation to the Corporate Debtor for initiation of CIRP is pending at NCLT then, initiation of CIRP of the Corporate Debtor is not a prerequisite for maintainability of an application under Section 95 of the IBC, 2016 filed for initiating IR Process against the Personal Guarantor of that Corporate Debtor before the NCLT.(p33)
+							</strong>
+						</p>
+					</div>
+				</div>
+			</p>
+		</div>
+	</div>
+</div>
+</html>

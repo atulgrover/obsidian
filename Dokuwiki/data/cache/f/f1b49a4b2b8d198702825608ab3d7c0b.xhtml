@@ -1,0 +1,117 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Compliance and Regulatory Monitoring Agent (CRMA)&quot;,
+&quot;agentDescription&quot;: &quot;Monitors relevant laws, regulations (particularly India&#039;s Insolvency and Bankruptcy Code - IBC), and significant case law affecting forensic audits and the treatment of Preferential, Undervalued, Fraudulent, or Extortionate (PUFE) transactions. Ensures audit findings are framed in compliance with current legal standards and provides auditors with up-to-date regulatory context.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Maintain an updated knowledge base of IBC provisions (esp. Sec 43, 45, 49, 50, 66), related regulations, rules, and relevant judicial precedents concerning PUFE transactions.&quot;,
+  &quot;Map findings from other forensic audit agents (TPRA, FSAA, DAVA, ATRA) to specific legal/regulatory requirements or definitions.&quot;,
+  &quot;Generate compliance checklists related to PUFE investigation requirements.&quot;,
+  &quot;Monitor specified sources for changes in relevant laws, regulations, or landmark court decisions impacting PUFE analysis.&quot;,
+  &quot;Alert auditors to significant legal/regulatory updates relevant to their ongoing investigations.&quot;,
+  &quot;Ensure final audit reports appropriately reference relevant legal frameworks.&quot;,
+  &quot;Provide context on typical evidence standards required for establishing different types of PUFE claims based on historical case law summaries (Does not provide legal advice).&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Legal Knowledge Base Management: Stores and indexes relevant statutes, regulations, and curated case law summaries.&quot;,
+  &quot;Requirement Mapping Engine: Links specific types of audit findings (e.g., transaction patterns, document anomalies) to potentially applicable IBC sections or compliance criteria.&quot;,
+  &quot;Compliance Checklist Generation: Creates dynamic checklists based on the type of transaction being investigated and relevant legal provisions.&quot;,
+  &quot;Regulatory Change Monitoring: Tracks updates from predefined sources (e.g., IBBI website, legal news feeds, specific court websites) via APIs or targeted scraping.&quot;,
+  &quot;Alerting System: Notifies users of relevant legal or regulatory changes.&quot;,
+  &quot;Reporting Integration: Ensures compliance-related elements are correctly integrated into final audit reports.&quot;,
+  &quot;Contextual Information Retrieval: Provides summaries of requirements or typical judicial interpretations related to specific PUFE types (based on stored knowledge).&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Forensic Auditors&quot;,
+  &quot;Audit Managers / Supervisors&quot;,
+  &quot;Insolvency Professionals / Resolution Professionals / Liquidators&quot;,
+  &quot;Legal Teams reviewing audit reports for avoidance applications&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Curated Legal Texts (IBC, Companies Act excerpts, Rules, Regulations).&quot;,
+  &quot;Summaries or references to key NCLT/NCLAT/Supreme Court judgments on PUFE.&quot;,
+  &quot;Findings/Reports from other forensic audit agents (TPRA, FSAA, ATRA, DAVA).&quot;,
+  &quot;Audit work plan and scope.&quot;,
+  &quot;Configured list of sources for regulatory monitoring.&quot;,
+  &quot;Specific queries from auditors regarding compliance requirements.&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Compliance Checklists specific to PUFE types.&quot;,
+  &quot;Reports mapping audit findings to IBC provisions.&quot;,
+  &quot;Alerts on relevant legal/regulatory updates (Email, Notification).&quot;,
+  &quot;Summaries of compliance requirements for specific findings.&quot;,
+  &quot;Contributions to the compliance section of the forensic audit report.&quot;,
+  &quot;Audit trail of compliance checks performed.&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Ensures forensic audit work aligns with current legal standards.&quot;,
+  &quot;Reduces the risk of reports being challenged on compliance grounds.&quot;,
+  &quot;Saves auditor time in researching standard legal requirements.&quot;,
+  &quot;Strengthens the foundation for subsequent legal actions (avoidance applications).&quot;,
+  &quot;Increases auditor awareness of relevant legal changes affecting their work.&quot;,
+  &quot;Standardizes the application of compliance checks across audits.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Knowledge Management &amp; Storage&quot;,
+    &quot;tools&quot;: [
+      &quot;Relational Databases (e.g., PostgreSQL - for structured rules, checklists, case metadata)&quot;,
+      &quot;Document Databases / Search Engines (e.g., Elasticsearch, OpenSearch - for storing and searching legal text, case summaries)&quot;,
+      &quot;Knowledge Graph databases (Optional, for modeling complex legal relationships)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Information Retrieval &amp; Monitoring&quot;,
+    &quot;tools&quot;: [
+      &quot;Search Engine APIs (within knowledge base)&quot;,
+      &quot;Web Scraping Tools/Frameworks (e.g., Scrapy, Beautiful Soup - carefully configured for specific, permitted sites)&quot;,
+      &quot;RSS Feed Readers/APIs&quot;,
+      &quot;APIs for Legal Information Providers (if available)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Rule Engine &amp; Logic&quot;,
+    &quot;tools&quot;: [
+      &quot;Rule Engines (e.g., Drools, or custom Python/Java logic)&quot;,
+      &quot;Logic programming libraries&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Natural Language Processing (Optional)&quot;,
+    &quot;tools&quot;: [
+       &quot;NLP Libraries (e.g., spaCy, NLTK) - for parsing updates, summarizing texts, or extracting key terms from judgments.&quot;
+    ]
+  },
+  {
+     &quot;toolCategory&quot;: &quot;Data Integration&quot;,
+     &quot;tools&quot;: [
+        &quot;APIs/Connectors to integrate with other forensic audit agents/systems.&quot;
+     ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Alerting &amp; Notification&quot;,
+    &quot;tools&quot;: [
+      &quot;Email Service APIs (e.g., SendGrid, AWS SES)&quot;,
+      &quot;Messaging Platform APIs (e.g., Slack)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Reporting&quot;,
+    &quot;tools&quot;: [
+      &quot;Reporting Libraries (e.g., ReportLab, FPDF)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;User Interface (If applicable)&quot;,
+    &quot;tools&quot;: [
+       &quot;Web Frameworks (Flask, Django, React, etc.)&quot;
+     ]
+  }
+]</pre>
+
+<p>
+}
+</p>

@@ -1,0 +1,591 @@
+# Valuation under IBC: Recent Judgments and Standards
+![](https://img.youtube.com/vi/-uCGSGqYgtU/hqdefault.jpg)
+1 year ago (Jun 18, 2023) — 1:12:46
+[https://youtube.com/watch?v=-uCGSGqYgtU](https://youtube.com/watch?v=-uCGSGqYgtU)
+
+
+## Summary
+Today's discussion focuses on recent judgments and IBBI orders related to valuation issues under the Insolvency and Bankruptcy Code (IBC). The first judgment is from NCLT Kolkata, in the case of EMC Limited, where the court decided that no provision in the IBC allows for revaluation of assets during a resolution process if a plan has already been approved. The second judgment is from NCLAT, in the case of GB Global Limited, where the court held that the decision of the Committee of Creditors (CoC) to obtain a more recent and realistic valuation report is not contrary to the provisions of the IBC or its regulations. The third judgment is from Justice Ashok Bhushan, in the case of Amit Hero vs Naga Annamalai Singer, where the court observed that the Liquidator must abide by the valuation determined during the CIRP process. The fourth judgment is from NCLAT, in the case of Kotak Mahindra Bank vs Universal Buildwell Pvt. Ltd., where the court held that the liquidation value arrived by the valuer cannot be changed by the CoC without any valid reason. The discussion also includes IBBI orders related to valuation matters, which are to be presented by Ankit.
+
+## 60s Second webinar Weekly: How to answer judgments under IBC
+0:00
+So good morning everyone. Welcome back to our 60s second webinar weekly webinar. Last time we discussed about the various regulations around valuation under IBC and this time we are looking at all the recent judgments with respect to variation under IBC as well as ibba orders, two insolvency professionals with respect to valuation related matters. But what do I answer? Thank you and get the good morning Namaste to all the participants the last time. 
+
+0:39
+What we enjoyed the most was the number of questions which in fact we couldn't answer, but we will in fact try to answer today in case those questions are asked today. Focus today would be all the judgments where the valuation by registered valuer is a issue. Also the ibbi orders where the issue is registered valuers or valuation. 
+
+1:09
+Some of the orders against the registered valuers are also covered, and in the later part, in case we could get some time today, however, we see we will give preference to the questions and answers. However, in case we could get some time today, then Ankit will take us through to the new proposed International standard which is likely to be implemented. So let me share my screen, Ankit. I'll quickly take you take all through this judgments. 
+
+
+## judgment in EMC limited - no T RP for EMC Limited
+1:56
+We can now start with the one judgment which is from nclt Kolkata and it is in the case of EMC limited and we've also processed concerns. In this case, none T is the RP for EMC and this is the case where the resolution plan was first approved. I think there was a network issue. Maybe you can try presenting again. the presentation was not visible to me, at least now it is okay, so I'll start again. 
+
+2:55
+So the first judgment that we are going to cover it is a judgment in the case of EMC limited. This company is a in a EPC company and the RP is Kanan T, and in this case the first resolution plan was approved and, however, it was not implemented and after. 
+
+3:18
+The adjudicating Authority approved that a fresh expression of Interest be invited in this case, then the committee of creditors insisted that the RP should get a valuation, a fresh valuation, done, because the first process was conducted in April 2018 and then at the then this it was second was in 2022. So therefore, the committee of conditions thought that the fresh valuation we conducted. 
+
+
+## RP isn't confident whether revaluation, fresh valuation, can be done
+3:56
+However, the RP was not confident whether there is any regulation or any section which authorizes the RP to go for a fresh valuation. So this was the issue before the adjudicating authority: whether revaluation, fresh valuation, can be done by the corporate data to determine the fair value or even the liquidation value, because this was the case of a resolution process, not liquidation. 
+
+4:26
+No, the nclt bench decided that we could not find any provision in the code for revaluation, much less if a plant has already been received and its value was not known to the committee, as the same would infringe on the commercial wisdom of the committee of creditors and can be regarded as a kind of change of frame of reference without changing anything on the ground situation. So primarily slightly different fact. 
+
+4:58
+Hence they are judicating a theoretic cannot at this stage could have directed for a fresh valuation of the assets of the cooperator to the application hence was disposed of and rejected. See this was the case where the fresh valuation was not allowed even after four years. 
+
+
+## GB Global Limited Judgment - Indian Bank versus charu Desa
+5:17
+However, in case we see there is an older judgment and that judgment is in the case of GB Global limited and this was the Judgment by ncl80 dated 20th of September 21 in the case of Indian Bank versus charu Desai RP or the chairman of the monitoring committee. So in this case also, the first cirp was initiated and then the resolution plan was not incremented. 
+
+5:55
+The management and the control was also given to the successful resolution applicants and then later on, after several months, it the even the everything was given back to the RP. Everything was given back to the RP because the resolution plan was not implemented. Now the fresh invitation was approved by the adjudicating authority and therefore the COC. Since the fresh, in which expression of Interest was allowed by. 
+
+6:32
+The Authority, the COC resolved to obtain valuation of the corporate data and in view of the same, the RP obtained a fresh valuation report. Now again, a resolution plan was approved. So in this case the one of the dissenting creditors, like Indian Bank, in fact questioned the evaluation, as the valuation was not suitable to the dissenting Financial creditors. so they questioned the valuation and the authority of the RP to go for revaluation. 
+
+
+## NCLEX appeals for Coco to obtain fresh valuation report
+7:07
+So this was the finally appeal and in this appeal the Appellate Authority, ncl80, they actually dealt with an issue whether the decision of the Coco to obtain a more recent valuation report and realistic valuation report is contrary to the provisions of the code and regulations frame there. In in this case, the appellated tribunal decided that the earlier relationship plan was approved. It was failed. 
+
+7:40
+The lapse of time is the substantial and NCLEX is of the view that COC decision to obtain a fresh valuation could not be considered as any contravention to any provisions of the IPC or its rules related and regulation. 
+
+7:57
+Ncert further stated that although under the cirp regulation no power has been given to COC to call for an evaluation of fair value or liquidation value, there is also no bar under the IBC provision for the COC to call for fresh valuation report. So when we say this, when we say this, we have two judgments now. 
+
+
+## GB Global Limited Judgment: What is the difference between the two decisions?
+8:20
+One is the Judgment from nclt Kolkata, which says that there is no provision that for resolution purposes, a fresh valuation can be obtained, even if there is a gap of four years in the two processes. However, there are some different facts in case we see some different facts and some different observations, and those are also significant. Those observations are also significant and those absolutions are the. 
+
+8:55
+In this particular case, a resolution plan has already been received and its value was not known to the COC, as the same would be an infringement on the commercial wisdom of the committee and can be regarded only as a change of frame of reference without changing anything on the ground reality. 
+
+9:15
+So what I'm trying to say is that the in this particular case the adjudicating authority, Kolkata bench, tried to differentiate and however the reference of this GB Global limited was not seen. Is in this judgment. So in case we see two step judgments separately without referring to this appellate Authority judgment. 
+
+
+## RP or COC don't have a power to get a fresh valuation done
+9:37
+So this judgment says that the COC or the RP doesn't have a power to get a fresh valuation done During the cirp period, even though four years have lapsed between the two processes. however, the ncl80 has said that if the COC takes evaluation and the evaluation is done and the COC take some decisions based on that valuation, there is no bar on this. 
+
+10:07
+So this is one decision Ankit, which actually, rather I thought that this is this has to be presented in this manner. So the next decision that we are trying to say is Amit a hero versus a Naga Anna singer. This is a 16th of May 2023 decision and glad from Justice, Ashok bhushan, and no in this case these like the CIF was initiated in 21 and the promoter challenged the cirp order. 
+
+10:53
+The committee of creditors passed a regulation, a past a resolution and the no resolution was no resolution plan was received. the committee of creditors then resolved to liquidate the company and then the liquidation application was also submitted and the promoter again challenged the liquidation application. No, the voter says that the valuation of the company which was obtained by the RP is not appropriate. It is on lesser valuation. 
+
+
+## Liquidator took one valuation report as per regulation 35 of the liquidation process regulation
+11:39
+The properties are actually properties would be auctioned on a lesser valuation. The resolution professional has obtained two valuation reports and the Liquidator again took one report, and that too at the instance of the stakeholders consultation committee. Now to valuation reports were taken as per regulation 30 of the CRP regulations. When the Liquidator got appointed, Liquidator only got one valuation report as per regulation 35 of the liquidation process regulations. 
+
+12:13
+Now the issue in this case was whether the Liquidator has abided by the value determined through the regulation 35 of the cirp and regulation 35 of the liquidation process. Incidentally, this regulation 35 and regulation 35 this is the number of the regulation is common, but one is the regulation 35 of the cirp regulation and the other is regulation 35 of the liquidation regulation. In this case, two valuations were done under regulation cirp regulation 35 regulation. 
+
+12:46
+One valuation was done as per 35 regulation of liquidation process regulation. Now the NCLEX observed in this case that the valuation was obtained during cirp and that was exactly as per regulation 35 of the cirp regulation. Now, in this particular case, the Liquidator has not taken a decision to go for a fresh valuation. had Liquidator gone for a fresh look evaluation decision. 
+
+
+## Liquidator liquidation process regulation: one valuation
+13:17
+The Liquidator would have appointed two valuers as per regulation 35 of the Liquidator liquidation process regulations. So one valuation was obtained. However, the NCLEX finally decided that the valuation of this particular company which would be used during the liquidation process would remain as the valuation which was conducted during ciip, because that is the only valuation as per the regulation 35, getting one valuation done during liquidation process regulation that is not evaluation as per regulation 35 of the liquidation, because that was only one regulation, one valuation. That was not true valuation. So this is a unique case. 
+
+13:58
+Finally, like the Liquidator was permitted to go ahead for the sale of the assets as per the liquidation value determined during in a valuation process under regulation 35 of the cirp regulations. Anything that you would like to observe on this? 
+
+14:21
+No, I think it's like limited versus resolution professional of universal build well, private limited again in appellate Authority judgment and clear judgment 11th of April 2023, latest it's not very old now the kotak Mantra bank and the kotak mendra prime Bank apparent one apple and two. in fact they submitted their claim to the RP in form c as a financial creditor and now the. 
+
+
+## RP appointed two values in this case and the RP shared the evaluation reports also.
+14:57
+Our RP appointed two values in this case and the valuation was done during the cirp process and the RP shared the evaluation reports also. Now, the fresh expression of Interest was also asked and the six resolution applicants came, including the homewards Welfare Association and finally the home buyers welfare associations. 
+
+15:21
+The resolution plan was approved with 7.44 voting here and the opponent had voted against the so the Aquatic Bank won kotak Bank two in fact voted against the reservation plan. So they were the dissenting Financial creditors. They were the financial defense defending Financial creditors. So both these like kotak bank one and kotak Bank two one is a kotak Bank contact with bank. the other is protect bank prime. 
+
+15:49
+So the kotak bank one and kotak Bank two. They and they were aggrieved and they filed objections to the resolution plan. Now the adjudicating authority, while deciding the resolution plan, remitted the reservation plan to COC for modification in terms of the specified order. Now the objections raised by the appellants regarding the nil liquidation value ascribed to the apparent with respect to the project Universal Business Park was rejected. Hence the appeal has been preferred now. 
+
+
+## kotak bank valuation is zero, kotak bank earmarked three crores
+16:23
+The issue in this case is the valuers valued the Universal Business Park as nil kotak bank had the security interest on that part of the property. The resolution plan only earmarked three crores for the kotec bank. That is the basic issue, because the security value according to them is much higher. The valuation was three crore. the plan air marked three crores where three crores the valuation was nailed. 
+
+16:58
+Now the issue in this case, before the anclad, was whether the liquidation value found by the registered valuer can or cannot be allowed to be changed by the committee of creditors. Now what exactly the situation is? The liquidation value is zero. According to the registered valuers. The committee of creditors offered three crores to the kotak bank One kotak Bank two both now in this case the observations Ankit. 
+
+17:26
+In fact, we've been discussing this number of times whenever we are discussing any valuation for a for a real estate company. Now, in this case, one of the very important valuation is this is what I'm reading now. Entire super area of the project was conveyed by sale Deeds and by Builder buyer agreements. 
+
+
+## encumbrances for Corbett Assets: encumbrances for
+17:48
+The valuer did not enter into issue of encumbrances over the assets, since the units have already been sold are no longer the assets of the Corbett data. Hence the liquidation value of the project is nil. Now it says although it says that partly the sale Deeds are executed and partly Builder by agreement was executed. So now these are encumbrances. Now the world encumbrance is used. 
+
+18:14
+Basically the is basic it is used for the Builder wire agreement. So in case the Builder Bar agreement is an encumbrance on the property. So therefore the value is nil. So the property value is the maximum that you can have. You can assign a value to the receivables if there is anything receivable from reality. now. 
+
+18:31
+In this case, the decision was the liquidation value arrived by the valuer serves an important factor in the entire resolution process and cannot be ignored by in the resolution process. 
+
+
+## GB Global: A Fresh Assessment of Valuers
+18:42
+It is true that COC, on any valid reason, can take a call to ask for any fresh valuation due to any relevant circumstances, but the valuation done by the registered valuers and average of liquidation value taken up by valuers serve this specific purposes and cannot be allowed to be disregarded by the committee of creditors. 
+
+19:04
+So this GB Global that we've already handled, because this is a GB Global that we discussed when we were discussing the EMC that was the adjudicating authority. So this is an appellate Authority. in this case, the Appellate Authority has said that even if it's fresh valuations evaluations evaluation is taken during the cirp. That was a second resolution process. The first process failed. It was not implemented. 
+
+19:32
+So in the second process the fresh valuation was a trend and it was considered as acceptable. Now coming to the ibbi orders, I would ask Ankit to deliberate on this ibbi orders. So I think I'll keep you. Please let me know I would keep changing the slides, or you can share from your side also. Yeah, I think that will be a better idea. Let me do that right. 
+
+
+## RP is a RP and it is a RP's RP'
+19:59
+I think I can stop sharing and you can share from your side also. So I hope this is visible to everyone. Yes, it is visible. So let's talk about this. First order. This is 2023 order. this is based on a nclt Bangalore bench order where the name of the corporate letter is base Corporation. 
+
+20:44
+So what happened in this case is that the in during the CRP process, the RP had already conducted a violation process and he had conducted rather evaluation process where he had to appoint three valuers, because maybe the two valuations were significantly different, and the very old case this is basically 2019 is when the CRP commencement happened and we were also one of the valuers who were engaged in the CIP process in this matter. 
+
+21:16
+Then what happened is that the liquidation started and the Liquidator was somebody else. the Liquidator was not the RP himself and the Liquidator went ahead and appointed some nsfa values to give a feedback or give a consultation on what would be the overall in change in the value of the company in case it is sold as a going concern. 
+
+
+## Insolvency Professional Review: What was the reason why it was required, why it was necessary
+21:46
+So basically he sought an opinion or he appointed another value to review the subject matter of the previous valuation exercise. So this, based on that review, then the whole concept and the whole process started where the insolvency professional conduct in the process that was discussed in this order is that was it right to appoint another value first number two? Was it a point? 
+
+22:17
+Was it try to appoint the value of a particular class of asset to understand if there is any change or review the evaluation reports of a landing building and a planning Machinery value. So land is building pnm report being reviewed by an SFA value was again a question that came into picture. 
+
+22:36
+So these are the various submissions that were made and basically they talked about what were the reasons why it was required, why was a fresh valuation required and so on. But the final finding was that when the insolvency profession had appointed two registered values already still appointing another person, they said that the disciplinary committee said that he should have advice. He should have sought advice of the SEC on the generation of any professional appointed. 
+
+
+## I order: I order says that the Liquidator sold a unit or sold parcel
+23:09
+And secondly they he said that the I order said that since there is only narration of independent opinions sought on valuation report and no discussion was done on the fees of medha Kulkarni. The DC finds the IP in contravention with this these Clauses. 
+
+23:27
+The whole issue, however, stems from a complaint filed where somebody alleged that the Liquidator sold a sold a unit or a sold parcel of the assets of the company at lesser than the valuation that was there. So the allegation was that because the CRP value was higher, perhaps the Liquidator went ahead, got another valuation opinion made in the liquidation stage and then sold the assets based on that order. 
+
+23:58
+So basically they have taken an action against the IP in this matter. so appointment of values during liquidation process and then understanding what those values are and why they are different from the CRP valuation. I would say is a take away from this order that even in case you have, you are appointed as a liquidator and you get fresh valuations done from valuation professionals with the SEC consent as well. 
+
+
+## What has been done during this Erp process and what has been done in the liquidation process
+24:30
+Still, there needs to be some kind of a linking or some kind of a differentiation between what has been done during this Erp process and what has been done in the liquidation process, the valuation exercise. So I believe, Ankit one that if a freshly evaluation were to be obtained, then the fresh valuers would have been appointed by the Liquidator. 
+
+24:54
+So there is no provision that another valuation consultant be appointed to see whether the earlier valuations were right or wrong, and this is the. This is the only contribution, because the I either you take a decision to appoint valuers and second third is the observation is that even the appointment of this consultant was not discussed with the stakeholders. Yeah, I think you can go forward. 
+
+25:26
+So then this next one is again coming from 2020, coming in from a CRP matter called educom infrastructure and schools limited and school limited. So several contraventions were here and they were basically these the two values appointed in this matter, given their value, and they subsequently revised their report and decrease the values, the original values that they gave. they gave the valuation report submitted. 
+
+
+## IBB Review: COC Revision Reports & Values
+26:00
+It went to the COC after the COC gave all the all the feedback. They then revised the reports and gave a different value. So in this order, although there was no contravention that was observed, but the but, the but, the with the analysis and everything that we read here talks about how this discussion or this question was discussed in this disciplinary order, whether the revision happened due to interference by the COC or not. 
+
+26:35
+So the analysis that they finally arrived at was that the IP submission was noted that the valuations were only disclosed by the RP to the COC members after resolution plans had been opened and tabled before the COC members and confidentiality under attack taking had been obtained from each of the COC members and therefore there was no contribution in this respect. 
+
+27:01
+The submission that COC had not interfered with the variousness or the value the COC had queried about the methodology and assumptions which the value is agreed with and then accordingly revised the report. This was an objective and transparent process was also noted, so the revision that the values did post COC was not held to be something that was negative, but however the IBB in this order noted that. 
+
+
+## Corrections in facts: Change in the evaluation exercise
+27:30
+I noted the fact that there was no evidence that has been found corroborating the fact that either RP or COC has interfered with the evaluation exercise or the liquidation values could be determined. So the interference was the issue here. So the revision can happen as long as there is a change, which is happening due to certain Corrections in facts. Certain change in the methodology more appropriate. 
+
+28:01
+But in case we say that somebody had given a valuation report giving x value with some discounting to the liquidation value and suddenly, after the COC meets him, he changes that number and kind of decreases that number or increases that number. 
+
+28:17
+So if that decrease or increase has to be grounded based on real issues, based on some change in the methodology, some change in facts, and can't be something which is a change in the opinion or that might be understood as a change of as an as an interference. So going forward to the next one. 
+
+
+## RP appointed a third value, and RP had already appointed two values in this case
+28:47
+This one is with respect to a pointing, the third value, and the RP had already appointed two values in this case, and it was contended that the same was conducted only person to decision of SCC. So the analysis that IBB I carried on. I think we can skip that. 
+
+29:06
+And finally, the order that they passed was that it is the explicit Mandate of the code that it is the primary duty of RP to appoint professions, including valuers, and RP cannot delegate the set process. Then the order that the passwords, that the responsibility of the COC and IEP are clearly demarcated and in the present scenario, the RP, despite holding that there is no significant difference between the results of two valuers. 
+
+29:33
+You can either conceded to the desire of the COC to appoint the third value. I believe this is a this is an order which pertains to prior to the amendment in regulation 35 present day. Regulation 35 allows the COC to ask the RP to appoint a third value, or even if the two valuation reports are not significantly different. 
+
+
+## The third valuation report is very different, either low or higher
+29:56
+However, this process is something that may not result into any larger result, because what happens is that if two valuation reports are not significantly different, they are within 25 percent Ambit and the third valuation report, let's say, is very different, either low or higher than the two valuation reports. 
+
+30:16
+Then again, the law and the and regulation 35 is clear that for the purpose of computing the liquidation value, we have to look at the closest two values and then take an average of those two values. So, despite third value being appointed, the valuation number, the liquidation valuation number, liquidation value number in the whole process might remain the same even if the third value is appointed. 
+
+30:41
+But yes, the third valuers report can be used as a basis for certain Decisions by the COC. if not, it can always be used that way. So any other Edition here. So let me move forward. 
+
+
+## IRP appointed entities which were not registered value entities
+31:05
+So next we have we have we're looking at this background, where the IRP appointed entities which were not registered value entities and there were some disclosure related issue and so the RP had admitted that he had made it made a made a made a mistake and then that was how the police case was closed. 
+
+31:31
+I think this is an old problem when the this I think now we all understand that appointment of values can only be registered valuation professionals. Registered valuation professionals can be irvs or rves ruees also read up as registered valuers, if you read the law. So therefore appointment of RVE is registered valued entities is also permitted in that process. 
+
+31:55
+Then we have this next one, which talks about appointment of registered values, and here the RP had stated that he could not appoint registered values as the registered values. He could not appoint the registered values as COC did not approve the cost of registered values and wanted incoming RPS to make the appointment. So here what then happened was that so the RP was not able to substantiate why he did not appoint the valuation professionals. 
+
+
+## IEP Must appoint Values to COC by 47th Day
+32:27
+So we see this as a if we go to the decision. The decision was that the IRP had earned in relation to appointment of values and the committee held that the provision of the statute was clear that the valuation the valid appointment has to happen between within the 47th day of the iecd and it was unclear from the submission by the RP took the issue of appointment of values to COC when he himself was competent to take decision in this regard. 
+
+32:55
+So further, after taking the approval of the COC, the decision to appoint single value is also not as per the stipulations of the statute. So here again, the whole thought process is that the appointment of the maybe the lesson we can take is that an IEP must appoint the or start the initiate the process of appointment of the values sooner, starting maybe from the first COC meeting the IRP, because in many cases the IRP is not appointed by 47th day wherever there is a change in the process. 
+
+33:27
+So nclt would normally not be able to appoint the RP by 47th day because of various reasons. Is the one that the there can be a possibility of Revision in the value? Yes, and the revision in the value should be independent, either to the valuers or to the RP. It should not be at the instance of the committee of creditor. This is one second. 
+
+
+## RP and COC are not allowed to interfere in the value of judgment
+34:02
+Is that the instance of the RP is also something that the order is against. It says it is only supposed to be because of the valuer's own thought process. The RP and COC both are not allowed to interfere in the value of judgment. 
+
+34:16
+But as I said that if there is any fact, if there is any methodology that the RP or the COC point out that they are inaccurate or they need to be bettered, then the revision can make more sense. 
+
+34:29
+And the second issue is that in case you are not able to appoint registered valuers and you are saying that the COC did not approve the fee and the ibbi could not see any document, any evidence that it was rejected by the committee of creditors, that can be. That is not acceptable. the RP has to appoint valuers even if the fee is not approved by the committee of creditors. 
+
+
+## Appointment of Values: How to approve your fee
+34:55
+So the valuation with the appointment can be done in that manner that we appoint you. However, your fee will be approved by the equity of predictors in the next meeting. That also is possible. So conditional appointment later is possible. 
+
+35:08
+We get that all the time in triple evaluation and subsequently if the COC is not ready to give that kind of a financial sanction, then we also get emails that the COC is finally approving this kind of an expense. Are you okay with this Revenue with this fee? So if that's okay with us, we say yes. If it is not okay with us, we say no. 
+
+35:28
+And in case we say no, then in the RP can say that the appointment that happened was at an X fee and now the RV Who was appointed is not accepting the fee that is approved by the COC and therefore he can proceed with fresh appointment of values. I think these are the three things that we have so far concluded. I think you can go ahead please. 
+
+
+## RP proposed 1,2 crores before COC and same was ratified by COC
+35:51
+So then this one is talking about this is an inspection done and the RP proposed a values fee of 1,2 crores before the COC and the same was ratified by the COC. However, it was noted from the cost disclosure to the IPA that the actual values fee was 27,48 lakhs. so the question was that why did he approve 1,2 crores when he had only given a fee of 27,48 lakhs? 
+
+36:19
+So finally they the findings were that although the disclosure was filed in a in a casual way, or rather the ratification happened. But if somebody gets more expense ratified from the COC and ends up spending less, then that's not a problem. That's okay, but there was a huge difference here: 1,2 crores versus 24,27 lakhs. One fifth was the difference. 
+
+36:48
+So the so they basically they said that they just gave a warning to the RP and move ahead. This is the next one. This one is about how the they understood from the. it has been observed from the appointment letters of the values at the RP directed the values to conduct valuation of three properties of guarantors along with properties of the corporate data. 
+
+
+## Value verification: IRP, IRP, IRP, IRP, IRP
+37:14
+Further, not only were properties of guarantee is valued, but the cost for the same was also included in the CIP cost. So they simply said that you are not supposed to Value anything which is not belonging to the corporate data. The assets that you are valuing must be belonging to the corporate data. 
+
+37:30
+This is also a check that we do very thoroughly when we are doing valuations, where we seek some details, some documents to a certain and establish that the ownership of the asset that the valuation is being done for does belong to the corporate debtor. so we do that verification as a value as well. So then we go forward and we simply say that we look at this one. 
+
+38:04
+So the progress report to the Double A was not made in time with respect to the various appointment or registered valuers and preparing the IM and all that. So basically, this simply said that. So basically, the allegation to the allegation that he did not appoint valuers. He was explained that the COC could not would not approve resolution process costs, which includes the fees of value. The regression requires the IRP to appoint values much before. 
+
+
+## International valuation standards for rbos
+38:37
+The Constitution of the COC. Therefore, the apprehension that COC would not approve the fee of values is misplaced. so, even if the COC does not approve the fee of the valuers. Putting this as an agenda in every COC meeting till the time it is approved would make good sense, maybe for the IP to protect himself as well. So there was an order in this case and finally the hit kind of finished. So there are. 
+
+39:06
+So let's come to these standards now. I think we have time for them. In case we have to know that before that we can take some questions, perhaps on the orders that we have received a general some questions. I don't think that there are questions today, so I not in otherwise. So there is no question. So we can actually go ahead with our next process quickly. 
+
+39:35
+What are the changes which are proposed in the international valuation standard? So the international valuation standard is a structure where you have general standard, then you have asset based standards, and these standards talk about the various processes, the various procedures that, in that evaluation, professional needs to be needs to conduct to say that the valuation that he has done is compliant with the international valuation standards, and these are accepted in India, in the sense that almost all rbos have adopted these standards as the standards that they want their valuation professional members to comply with. 
+
+
+## What Are the proposed changes in the valuation system?
+40:16
+So the present scenario is that there's a discussion paper that they have they have released, which talks about what are the proposed changes in the valuation system. the consultation on these closes on 28th July 2023 and normally these are then later the finalized and published when they become applicable for from 1st January of the next year. So these are periodic periodically revised. 
+
+40:47
+I think the last Vision happened in 2022. So this is the preparation for the revision that they would do from 24. So when we look at the general standards or we may look at the proposed changes, we see that the ivsc basically they've enhanced the general standards to mirror the evaluation process to improve users ability to understand and apply IBS. Then they have included a preamble. The Preamble was outside the IBS. 
+
+41:18
+Now they've introduced and brought that Preamble into the IBS. They have introduced this new idea of quality control. So that's something that would help. the quality control that they have added is basically checks. The valuation processes are performed consistently, objectively, transparently. So there are certain further standards that need to be taken up and the quality control then would apply throughout the violation process. 
+
+
+## Quality Control: What is the Quality of the Value?
+41:52
+So violation of this security quality control can now also bring issues to the registered valuers. And then of course the quality control need to be consistently followed and so on, and so basically they may perform monitoring procedures. So it's important to have an internal peer review process, internal Quality Control process, so that every report that any company or any value or is generating should be checked internally and then sent out. 
+
+42:27
+If a value does not possess all the necessary technical skills, experience and knowledge to perform all aspects of evaluation, it is acceptable for the value to seek assistance from. The Specialist, providing this is disclosed in the scope of work. So prior to using a specialist, the value must assess and document the knowledge, skill and ability of the specialist. 
+
+42:48
+So this is the qualification of somebody who is a specialist and that is a quality that is required now. The value must have technical skills, experience and knowledge to obtain an understanding of the specialist process and findings evaluate the work of the Specialists. So the you can't now see as a value that I appointed a specialist and the whole responsibility Now lies on the specialist. You, based on the standard. now the value who has appointed. 
+
+
+## IVs: What is the statutory requirement for IBS asset standards?
+43:18
+The Specialist would be responsible to review the Specialists work. So this is a this is a welcome change brings more accountability to the value. No doubt about that, then. Certain aspects of IBS do not direct or mandate any particular course of action, but provide fundamental principles and Concepts that must be considered in undertaking evaluation. So in applying IES, they have now given a hierarchy where they say that IVs General guidelines should be the first priority. 
+
+43:47
+IBS asset standard should be the second priority. In legal structuring, regulatory or other authority requirements can be the third. however, if said, if there is a conflict with the IVs, then of course you have to document that conflict and see how the standard will kind of become the statutory requirement will become, will override the general standards and the asset standards and so on. 
+
+44:14
+So IVs 10 then talks about how the data and inputs has been added to General standards and the set data provides for data and inputs to environmental, social governance factors which are ESG factors, environmental, social and governance actors. 
+
+
+## EST Compliance: A Complete Guide to EST Compliance
+44:32
+EST is the in thing now, and that's a word that is very becoming very popular because of its active usage by the various investors in the world, where they now say that if your EST compliant, then we will invest in you. Otherwise we will not invest in you. 
+
+44:50
+So the ESD appendix has also been included in the IBS 104. So EST compliance EST being talked about here would become then an integral part of all valuation reports. Based on this change, the valuation models that were earlier there were part of were part of an asset standard. Now they have brought that to a general standard. So evaluation model can be anything. 
+
+45:19
+Valuation model can be a model where you are kind of forecasting the values for maybe a power plant, a running business. In other cases, where you have a any other, any other company or any other asset there again you can have a very different valuation model which can also be based on Market approach and so on. So the value may use either a specialist or a service organization to obtain valuation models. 
+
+
+## IBS 300: What Is the Value of Infrastructure?
+45:47
+So this is all part of the changes. So using a specialist if the value does not have the evaluation models, you can source that from a specialist as well. So the evaluation model used, the evaluation model use, must incorporate processes in processes including designing and development implementation validation. So I think we all develop a model. We never be doing an evaluation. There's certain changes that have happened or that have been done in the documentation reporting. 
+
+46:17
+That again is part of this process. And then there are certain minor changes in the asset standards that are not again significant changes. Instruments again they have made some minor changes tangible asset again additional content has been added. But now the plant equipment infrastructure now includes infrastructure. 
+
+46:45
+So infrastructure valuation is something that is also been made part of IBS 300 now and real property interest IBS 400, so they have also restructured and aligned it with the general standards to make it more smoother. 
+
+
+## iOS 410 is important for any evaluation where land Building is involved
+47:02
+So iOS 410 is important for any evaluation where land Building is involved, whether a project under development is involved or disabled properties involved, and therefore here additional sections have been added to provide additional context on data inputs and evaluation models. So that's the idea that the so basically the expected outcome that they have talked about is how the set changes will keep the evaluation standards up to date. These are the most. 
+
+47:34
+These are one of the most updated valuation standards available across the globe to keep getting updated, and it is for all asset classes, and it is something which is written in such a manner that is a global, globally acceptable or rather allows acceptance across the globe. 
+
+47:53
+But yes, I think in India we are trying to build standards which are local, which are focused on what you know we want from various or what our expectations with respect to the various valuation numbers that we need in our country. So that's the standards. I think we can take up some questions now. So we have a query from Suresh kumarji. 
+
+
+## IBS 2023 Does not include normalization process adjustments
+48:21
+He says draft IBS 2023 does not include normalization process adjustments, which is very required, very much required, for valuation process. What is the stand of ivsc? so the idea of normalizing or adjusting the last year of cash flows I think that's what you're referring to and then using those normalized cash flows and adjustments for the purpose of the future years is something that is part of the historic analysis, historical analysis, that we perform when we're doing DCF. 
+
+48:57
+So when we're doing DCF and we are looking at historical data, sometimes we find abnormalities in historical data and then we choose to ignore those abnormalities and take other years for justifying the projections that we are making. Then there is another level of normalization that happens in the last year of our projections, which we then use for the purpose of calculation of terminal value. 
+
+49:22
+So I think these two may not find the same nomenclature being used, but these are part of the analysis of historical financial data and then normalizing that would be part of the process. No, then I can read another question, which is: can a evaluation done after commencement of cirp? 
+
+
+## evaluation done after commencement of cirp due to delays to be considered
+49:50
+Let me, can evaluation done after commencement of cirp due to delays be considered for the purpose of distribution or only the valuation done at the time of commencement of cirp to be considered? Now see, as far as the distribution is concerned, the distribution to stakeholders during cirp it is the prerogative of the committee of creditors. 
+
+50:22
+Section 30, subsection 4 was amended and it was said in that in that section that the committee of creditors will distribute the proceeds of the resolution plan and Committee of creditors may consider the priority of charge and the value of security interest of each stakeholder. So what value, what valuation report is to be considered? How much to be allocated? This is the prerogative of the committee of creditors. So which valuation report to be considered? 
+
+51:01
+That is also the prerogative of the COC. There is no bar on considering any evaluation report first one or the second one. The second question is in the same person from Ravi, who is the cacs and CMA. In case a liquidator decides to have another valuation, will it be as on the date of commencement of liquidation? yes, the valuation should be obtained as on the date of liquidation. That's what the regulation 35 says. 
+
+
+## conversion regulation 35 in respective liquidation regulations is silent on the date of valuation
+51:44
+Our conversion regulation 35 in respective liquidation regulations is silent on the date of valuation, unlike CRP regulations. So in my opinion, in liquidation it is not required. On liquidation commencement rate it can be a date which is more recent as well. Okay, so it's like it is only to be decided by the Liquidator within seven days. Yeah, it is. 
+
+52:06
+The Liquidator is supposed to appoint the values within seven days, but if the liquidation, the visit by the value or by the valuers, let's say, happens after a month of that appointment, then the valuation rate can easily be the date of his visit. so. Therefore, in case these stakeholders decide to get another valuation done during liquidation process, that can be done even after two years of commencement of liquidation. That's what we can conclude. 
+
+52:32
+Fresh appointment is not something that regulation 35 provides for. I'm just saying the liquidation date need not be the liquidation commencement day. That's it can be. It can be the date of visit of the valuer. It can be so normally, when we do other valuations, the evaluation date is the date on which you have visited the premises, because that is the date we have inspected the tangible assets and so on. 
+
+
+## Can a liquidator or RP appoint valuer to take inventory of assets
+52:55
+So that normally makes better sense, because the idea that you do a valuation in CRP, let's say, and you do the say, let's say, do you do the visit 60th day after this Erp date. so that, but you're still giving the values as in the CR period, assuming that the condition of the assets, as you observed, was the same on CRP rate. Right. That's the assumption that you take. 
+
+53:17
+But then I think, like in case the SEC says that you, the Liquidator, now should get another evaluation done so that can be as on a date which is more recent calculator. That is possible as well. That is possible. That is possible. 
+
+53:34
+Another question from ranjan chakravarti is: can a liquidator or RP appoint valuer to take inventory of the assets inventory land SM s like Securities and financial assets, or opt for fresh valuation if valuation have been done long before and it is required before going for auction or rfrp? Now my understanding about the role of the valuer is that the valuers are not supposed to take inventory of the assets. 
+
+
+## The inventory taking May It Be as current stocks, may it be fixed assets, may it be
+54:07
+The inventory taking May It Be as current stocks, may it be fixed assets, may it be consumables. It is the duty of the RP or the Liquidator to do the inventory make lists of the assets at the site, based on the based on the Records available reports available and based on the physical takeover of the asset. thank you. Now now even the proposed amendment, which is open for discussions, as per the discussion paper. 
+
+54:48
+I believed it did 16th of May. The ibbi has proposed that the proper documentation would be created by the RP or by the liquidator, whatever they have taken custody, whatever they have taken control of and just like a panchanama, as we use in surface e just like a panchanama would be required and along with the signatures of the person who is prepared it and along with two independent Witnesses and that particular panchanama kind of a document would be prepared while we take control and custody of the assets of the company. 
+
+55:31
+So the role of the liquid a valuers are not to take the inventory. the other question is from Sanji Agarwal. If the corporate debtor have different type of assets, like Financial assets, planter machinery and landlord building, is due is to RB to be appointed in each category? Yes to resolution. Two registered valuers are supposed to be appointed in three classes. 
+
+
+## Registered Valuers for each class has to be appointed again
+56:04
+One is for Landon building, the other is for plantar machinery and the third is Securities and financial assets. Two registered valuers for each class has to be appointed again. Sanjay Agarwal asks involuntary liquidation in voluntary liquidation. If the corporate data does not have assets except cash and Bank balances and some advances is registered value is required to be appointed. Registered values are not required to be appointed only for cash and Bank balances. 
+
+56:33
+Cash is to be valued in case it is physically handed over to the Liquidator. bank has to be verified from the bank statement. The only thing that the valuer would be required is valuation of the advances on the recoverability. 5.1ce talks about how a valuation report is compulsory, so even if the company does not have any assets on its parent sheet, zero valuation report, in my opinion, is also required there. 
+
+56:59
+5.1C talks about how the warranty liquidation application cannot move forward without RB report. No, but that's the question is coming in from. Without any asset. registered valuer has to be appointed because in case it is only cash and bank, because in a voluntary liquidation the CD itself prepares a balance sheet and then takes that balance sheet to nclt and say that I want to liquidate warranty, liquidate myself the two objectives to the liquidation process. 
+
+
+## What is the stake in the company or stake in the company?
+57:29
+One to a certain if the if the whole company is a solvent entity, because if it is not solvent then voluntary liquidation process is not available to that company. Secondly, the values come out based on which then the overall numbers are also available with nclt. That what is the kind of stake in the stake in the company or stake involved in the company. 
+
+57:51
+Now the next question is exactly for you and with whether valuation is an art or science. so I think valuation is somebody who practices valuation. I think valuation is both Art and Science. It can't be one. It is rather more maths than art or science. Gupta also ask whether valuation is more concerned with the perception and then tangible evidences. Can two valuations be pulled apart now? Perception, then tangible evidences. 
+
+58:29
+As far as this IBB, as far as this IBC is concerned, the registered valuers are supposed to Value the assets based on their physical valuation. So the tangible evidencies are more important and the evidence is also important. 
+
+
+## Perception: What is the perception of the business?
+58:44
+And when you say perspective or other perceptions is like say me saying that okay, I am looking at valuing an asset and I simply imagine and think value and then I give a value of the 10 crores to the asset. But I think I'm not doing that. I'm going to the market checking the rates around that property, physical property and conforming what rates are available. 
+
+59:08
+Then I'm kind of measuring or making sure that I am, I'm giving the value to the right size of land or buildings and all that. So there is a process involved. When we talk about value is more of a perception rather than tangible evidences. Now the tangible evidences can be some kind of similar Market survey, Market survey, Market survey, some kind of similar transactions and that may or may not be available in every case. 
+
+59:37
+Perception will be more involved in when you kind of project business performance. That can be a perception. So in projections in DCF there is a there is a perception that is involved that okay, what will be the growth of this business? twenty percent, fifteen percent, five percent, what will the business grow at? So that can be perception. 
+
+
+## Can two valuations pull apart depending on the perception of a valuer
+59:59
+When you're when you're assessing the value of a stock which is listed on the stock market, then you have a perception based on which you might take a decision, that of the company has given this kind of growth in the past five years. Somebody can have a perception that it will continue to grow that way. 
+
+1:00:17
+And the other side, somebody can have a perception that the management of the company is not good and they will never allow this company to grow to this level. So that's, I think, more of perception. Can two valuations. We pull the part. 
+
+1:00:30
+I think it happens sometimes, and that is the reason there is a provision for appointment of third valuable, so the perceptions can be pulled apart depending upon the assumptions, depending upon the understanding of a valuer. So the next question is also here. 
+
+
+## Insolvency Professional Explains Value Differences in valuation reports
+1:00:48
+Also here the important part is that if there are two, two reports, and they are very, they're giving different values, then I think we need to think that as an insolvency professional we need to have we need to go through those reports and understand the reason for the difference. 
+
+1:01:07
+Now, in case the insolvency professional understands the valuation reports and finds the two reports taking very different assumptions, or rather one report taking an assumption which is not even true, then he can get that or its duty of the RP to get that corrected. 
+
+1:01:22
+But in case the value differential is primarily because there is a, there is a, there's a rate or there's a rate of land or a value of land that has been taken by one value which is sharply different from the other value, then you simply ask both the values to kind of make sure that they are giving a good basis to both the values and then allow the values to be different if both of them have a different perception. 
+
+
+## What is the impact of ESG on valuation?
+1:01:48
+So another question is from your team only what is the impact of ESG on valuation? So ESG is the idea that they, if I'm valuing a coal based power plant, I can say that it has environmental consequences and therefore if those environmental consequences we should understand, will not be allowed to run in the long run, so there will be certain costs that will be involved when the when the coal plant runs in the long run and I have to then take into those factors to give a value to that plant. 
+
+1:02:27
+Similarly, if there is an industry which is highly polluting industry, like maybe dying industry dying of clothes industry, then again I will give that number or put that in perspective when I'm doing ESG compliant valuation. so I will give a discount because or I will give a disclosure on how the environmental, environmental impact of a business or a company, what kind of impact does it have on its value? 
+
+1:02:53
+Similarly, when we talk about social factors, governance factors, we are looking at how the what is the kind of social fabric, the what is the kind of? How does the social Fabric or the social element of a business impact its value? So somebody can say that this company has a very, very good and very good talent, a very talented and very motivated human resource pool. 
+
+
+## ESG related factors that are now required to be part of valuation reports
+1:03:23
+And then they are all having a good education they are all having, they're having those extra facilities with respect to medical facilities. So these are social implications. Then governance would involve stability of political stability. it. Governance would then involve what kind of what kind of Freedom do people have in the organization? To you know, think independently. 
+
+1:03:50
+So these are ESG related factors that are now required to be part of various valuation reports, primarily because EST has been adopted by many VCS. PES which invest only in ESG compliant. Businesses or many investors today also in the in the Western World, in the in the U S in the Europe will only invest in ESD compliant funds. Foreign and he is asking the evaluations about Sentry debtors. 
+
+1:04:22
+So I understand the evaluation of Sentry data is very complicated and we also experience this. Uncle you can respond on this. Like how the evaluation of debtors can be taken. The basic question that he's asking can the evaluation of debt is be taken at Book value? 
+
+
+## How to get a valuation of debtors on the CRP date
+1:04:40
+So when we do valuations for of debtors, the process that we adopt is that we try to first step into the shoes of the RP or the company and understand that what all documents are available with me, that I can follow up and get the amounts or get the recovery of the amounts from the other side, from the customer or the or the client from whom this amount is pending. 
+
+1:05:05
+So for that anyone would need what. The Ledger, the invoices, the purchase orders, if they are available, proof of delivery of goods or services. Then I would need maybe any past document with respect to litigation with the create receivable in case it's a very old number and this and I would of course then rely on maybe aging. But how old is this receivable and what? Guys? what kind of Correspondence has happened with this party now? 
+
+1:05:33
+Many of these things unfortunately are absent in the insolvency process and sometimes when we see and we give a value to the debtors on the CRP date, some of these debtors which are clearly realizable or are already realized by the time we give our valuation report. But on the CRP date they're still reflecting as a trade receivable. 
+
+
+## RP gives a value to those numbers or to those trade receivables that
+1:05:54
+So we certainly give a value to those numbers or to those trade receivables that have been received by the efforts of the RP post the CRP date. So we try to give that value where the RP is able to make genuine efforts in recovering these trade receivables. then the RP also has the mail Trails. The confirmations from the are from the other side, from the clients or from the letters and the ledgers. 
+
+1:06:18
+So all these details are normally available and then you kind of put a put a factor in the accuracy of your invoice or you're asking that money for, and then you also look at the recoverability or the or the appetite of the client or the customer to give that money to you. 
+
+1:06:37
+At several occasions you will, we will find that the names that are appearing in the data list are only, you know, only partnership concerns or proprietorship entities which would not have where we cannot do any search with respect to the recoverability from those people. but wherever we find companies listed. Many of those companies are also, you know, not timely filing the returns. 
+
+
+## Book Value: What is the solution for liquidation?
+1:06:59
+They are not active on the on the MCA portal, so there we discount for the lack of recoverability of those receivables as well. But Book value, I don't think that's the solution. Book value can also be zero where somebody has provided for debtors diminishing and value of debtors and there can be an actual value in the debtors, even if the value of debtors is reflecting as 0 in the balance sheet and it. 
+
+1:07:26
+I think the other question is: when a valuable is appointed for liquidation, he should be informed or aware of the CRP values you give any value to the value. his independence is lost the moment he hears that value, so he should ideally have no evaluation as a basis with him. 
+
+1:07:50
+I think the other question Ravi is asking, because you said that the in the case of voluntary liquidation, the evaluation need to be done by the company or the liquidator. Quality liquidation, the appointment is done by the company and then the company or. The Advocates are representing the company would normally come to us for this kind of a report and then the processing, then the proceed, then the process goes forward. 
+
+
+## RP Evaluation: What is the balance sheet, what is it in the land and building
+1:08:17
+Is asking that I was asked to give a code for the evaluation, but the IP refused to diverse any information about the balance sheet, everything. So I think the it is the duty of the RP to provide complete scope of work. what kind of assets are in the land and building, what kind of assets are in plant and machinery and what kind of balance sheet? What kind of assets are there? 
+
+1:08:40
+In the SFA, then only the appropriate valuation quotes can be obtained. So when we when we see the rfqs these days, we do find a lot of improvement in the in, the in the in the documents that are coming you know the information that is available in the emails and that really helps. 
+
+1:08:57
+In a few cases where we did our independent inspection of the companies online, we found out that the RP has give had given a very detailed list of what assets he wants to get valued. 
+
+
+## Evaluation of Intangible Assets: How to Assess Your Valuers
+1:09:11
+But then we realized that the this is the this matter was with respect to a company which had some retail business, and there we realized that some trademarks were also registered in the name of the company which were missing in the Missing in the RFQ document. So then when we informed the RP, he then informed all the maybe your valuers with respect to that additional information that had come that it risen so independent. 
+
+1:09:39
+I think we as values should also need to independently assess the scope of work or the assets which involved and not completely rely on the mail from the RP. but yes, a well drafted RFQ would certainly help. How the evaluation in just a minute, how the evaluation of intangible assets are done, and this is a question from Mahesh maheshwari. Mr Mahesh, Mr maheshwari, baby, yeah, evaluation of intangible assets are done. It's for you. 
+
+1:10:16
+So it depends that when you talk about intangible assets, what intangible assets are we talking about? Intangible assets can be customer relationships. They can leave and contracts they can be. They can be trademarks, they can be brand names. They can be websites. So what intangible assets are we talking about and what kind of value are they supposed to add in the overall business that we are doing? 
+
+
+## Intangible Assets: What is the Value of the Valuation?
+1:10:37
+Intangible assets, which are cell block, will never appear in the balance sheet. And therefore when you're valuing a going concern company, the going concern entity, and say you're doing a valuation for their fair value, then you look at all those. Even then the value of intangible assets gets included in the going concern valuation. But say when you're doing piecemeal valuation on in liquidation evaluation on a piecemeal basis, there we need to understand that. 
+
+1:11:05
+What are the reliable intangible assets? So if you tell me that there is a brand for an alcoholic beverage that is registered in the name of the company, that would have a value when I'm selling that brand in liquidation. Similarly, any trademark that I have, which would then can bring me Revenue. I can then give a value to that in the liquidation process. 
+
+1:11:26
+So it depends on what is the intangible assets and the method of doing the valuation will vary based on what asset we are talking about. For a brand, one would normally see that what kind of marketing cost can be saved by somebody who uses that brand and tries to Market his product with the same brand? I think we need to close it now. It's already a longer time, so maybe that we have to conclude. 
+
+
+## Next webinar will be discussion paper for amendment of regulations
+1:11:53
+I think the very important part is that the next webinar that we are conducting is the discussion on the discussion paper released by ibbi for amendment of regulations and also for the process of registration and also for the appointment of auditor on the cirp cost. 
+
+1:12:17
+This would be our next webinar and we are working hard on this, for in analyzing and also we would also try to understand if there is any further suggestions which are required to be given to ibbiu. So thank you very much. Participants and keep participating. keep motivating us. thank you, thank you, everyone, pleasure. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

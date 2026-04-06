@@ -1,0 +1,16 @@
+{{tagfilter>Agentic Store=store:.*=store:insolvency_agents|Division=division:.*=division:financial_intelligence|Cluster=cluster:.*|Agent=agent:.*}}
+
+
+**II. Financial Intelligence Division**
+AI agents for analysis, valuation, forecasting, and optimization.
+
+  * Financial Analysis Cluster
+    * [[rbz_agenbots:insolvency_agents:financial_intelligence:financial_analysis:Financial Statement Analyzer (FSA)]]
+    * [[rbz_agenbots:insolvency_agents:financial_intelligence:financial_analysis:Credit Risk Profiler (CRP)]]
+    * [[rbz_agenbots:insolvency_agents:financial_intelligence:financial_analysis:Cash Flow Stress Tester (CFST)]]
+    * [[rbz_agenbots:insolvency_agents:financial_intelligence:financial_analysis:Insolvency Probability Predictor (IPP)]]
+  * Valuation & Recovery Cluster
+    * [[rbz_agenbots:insolvency_agents:financial_intelligence:valuation_recovery:Asset Valuation Optimizer (AVO)]]
+    * [[rbz_agenbots:insolvency_agents:financial_intelligence:valuation_recovery:Debt Recovery Simulator (DRS)]]
+    * [[rbz_agenbots:insolvency_agents:financial_intelligence:valuation_recovery:Market Benchmarking Agent (MBA)]]
+    * [[rbz_agenbots:insolvency_agents:financial_intelligence:valuation_recovery:Distribution Maximization Agent (DMA)]]

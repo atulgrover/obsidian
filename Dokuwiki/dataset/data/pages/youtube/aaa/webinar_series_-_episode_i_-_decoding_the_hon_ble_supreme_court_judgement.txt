@@ -1,0 +1,611 @@
+# Webinar Series : Episode I -  Decoding the hon'ble Supreme Court Judgement
+![](https://img.youtube.com/vi/gqRmlPFnVeE/hqdefault.jpg)
+2 years ago (Apr 25, 2022) — 1:13:01
+[https://youtube.com/watch?v=gqRmlPFnVeE](https://youtube.com/watch?v=gqRmlPFnVeE)
+
+
+## Summary
+This webinar, the first in a series, focuses on the Supreme Court judgment in the Sunil Kumar Jain vs Sundresh Bhatt case, delivered on 19th April 2022. The judgment settles various issues related to workmen and employee claims during the insolvency resolution process (CIRP) period and the status of going concern of the company. The importance of the judgment lies in the roles assigned to the IRP, RP, liquidator, and the Committee of Creditors (CoC) regarding workman claims and the going concern status of the company. The case involved ABG Shipyard Limited, where the CIRP started on 1st August 2017 and ended on 25th April 2019. The main issue was whether workmen and employees who were on the role of the company as on the date of commencement of CIRP, and whose services were not terminated, were entitled to their salaries for this period. The NCLT had disposed of the appeal and directed 272 workmen employees to file their individual claims before the liquidator. The Supreme Court discussed the two primary issues: (1) the claim of workmen and employees with respect to wages and salaries during the CIRP period, and (2) the amount due and payable to respective workmen and employees towards pension fund, gratuity fund, and providence fund, in view of Section 36 subsection 4 of the code. The arguments were primarily in favor of the workmen and employees, stating that they were on the payroll of the corporate debtor, their employment contracts were never terminated, and they were instructed to report to the RP. The workmen claimed that their salary and wages for the entire period of CIRP should be paid in full and considered as CIRP cost. The liquidator had accepted this amount as CIRP cost and uploaded the details to the IBBI website. The Supreme Court discussed various sections of the IBC, including the definition of workman, insolvency resolution process cost, CIRP period, and the duties of the IRP, RP, and the personal to attend and cooperate with the IRP. The Court also discussed Section 33 subsection 7 and Section 36 subsection 4, which deal with the notice of discharge to workmen and employees and the non-inclusion of money kept in providence, superannuation, or gratuity funds in the liquidation estate.
+
+## Introduction
+0:05
+So good evening. Everyone welcome to this webinar and this will be a series that we're launching shorter sessions focused on a very particular subject. Today's subject is of immense importance for all insolvency professionals and people who are interested in the insolvency framework, and I believe this subject of what is due towards workmen and employees is a very critical issue that is very important in all crp cases. 
+
+0:44
+So I will ask analysis now to start his deliberations on this very important topic. We have a good number of participants today and it is increasing as we speak, but I think we can start, since this is a one hour session. Thank you very much, ankit. It's indeed a pleasure for us again to reconnect with our listeners and viewers. 
+
+1:07
+We took this opportunity when this new judgment was delivered by honourable supreme court on 19th of april 2022, and this was much awaited, because in most of the cases these disputes are pending, I believe, any committee of creditors or any irp, rp or liquidator. They were struggling with these issues and a lot of litigation were branding in different nclt and nclit branches. 
+
+1:35
+Therefore, now this judgment of sunil kumar jain versus sundresh bhatt and in the case of abg shipyard limited. This is a settled position now and we will go through this judgment today, and it is our endeavor to get connected with our viewers. Not only this every sunday. We commit every sunday at four o'clock. We would be coming with any subject which is a hot subject, and the sessions would be not very big. 
+
+2:10
+It will be smaller sessions, so today's session is only focused on this judgment, which is very important. I'm just sharing my screen. Give me a minute, so I hope I keep my screen is visible very much okay, so you see the judgment is as we say that we are now coming up with a webinar series, and this is episode one. 
+
+
+## Decoding the honble Supreme Court Judgement
+2:40
+We have named it as decoding the su honorable supreme court judgment in the name of sunil kumar jain and others versus sundress, but and this was pronounced on 19th april 2022. So, friends, the importance of course will definitely during the process of this webinar, we will understand the importance of this judgment. 
+
+
+## Methodology
+3:07
+According to me, various issues have been settled, so we will be covering the. 
+
+3:11
+The methodology that we have adopted is like: what is the impugned order and what were the arguments of opulence then what are the law relied by the appellants, then arguments of the respondents then what were the issues framed by the honorable supreme court, relevant prisons of law, legislative history and observations and honorable supreme court and way forward for all the irp, rp, liquidator and the committee of creditors. 
+
+3:36
+Very important roles have been given to the irp rp and the committee of creditors. Very important roles, and it is not something that I am exaggerating. it is the text of the judgment says like that in future, regarding the workman claims and regarding the status of going concern of the company. 
+
+3:57
+That is a very key issue and that has to be managed within the very first, probably very first, meeting, in case the information is available, see coming to the see. 
+
+
+## Issues framed
+4:09
+As we know this judgment it was delivered. It was delivered by honorable justice, honorable justice m r shah and justice anuruddha bose, and the law has been settled in a very detailed manner. 
+
+
+## Case Facts
+4:30
+The duties have been casted upon the irp rp liquidator and the coc now this in this case this was a case of a b g shipyard limited, where the cirp started on 1st of august 2017 and ended on 25th of april 2019. so this cirp continued for 20 months and 25 days. 
+
+4:52
+Original order passed by nclt ahmedabad in this particular matter, which was the matter relating to the workman's dues that was passed on 25th of april 2019 and the what are the facts of the case? The facts of the case were in this particular case. When the cirp started, there was 562 workmen and 93 employees was actually on the role of the company at the age yard of the company. 
+
+5:20
+Then 291 workers and 99 employees were actually available. They were on roll at surat and 101 employees were on roll at mumbai office. Now the adjudicating authority, adjudicating authority in fact, did not grant any relief to the appliance. who are the workmen and employees here and with regard to their claim relating to the salary wages which they claimed for the period involving cirp and prior period. 
+
+5:48
+So there are two scenarios: one, the claim of workmen and employees for the period prior to commencement of cirp. Second, the claim of the workman and employees during cirp. So this was the matter. 
+
+6:06
+So as far as the claim of workman and employee is concerned, that's primarily settled because it will be dealt with according to section 53 and subclause 1 b and c, whereas the main dispute was like the workman employees who were on role of the company or as on the date of commencement of cirp, which the rp did not terminate, there was nothing on record to say that their services were terminated, whether they are entitled to their salaries for this period or not. 
+
+
+## impugned order
+6:47
+So this was the main issue. so the impuned order, which was the anclet order and clutter disposed of the appeal and said that we do not want to interfere in this order of adjudicating authority and the they, in fact the only the unclad said that the 272 workman employees they have to file their individual claims before the liquidator, so there were conditions for this individual claims. 
+
+7:16
+Nclt further observed that if the claims of one or other workman employee is rejected, it will be open to them to move before the adjudicating authority. That was a smaller issue, like anyone's claim. If it is rejected, they have power to go to adjudicating authority. 
+
+7:29
+And clad also observed that so far as the gratuity fund provident fund this is regarding section 36, subsection 4 regarding the gratuity fund provident fund and superannuation fund and the this, it was held that these funds cannot be considered as the assets of the corporate debtor and the liquidator would not have any right to take over the money which is lying in the graduate fund provident fund and superannuation fund. 
+
+
+## primary issues
+7:51
+So this was the impugned order which was argued before the honorable supreme court. So let me first of all let me first of all go to the basic primary issues in this case, and the primary issues in this case was twofold: one, these were the issues before the code. One, the claim of workmen and employees with respect to wages and salaries during cirp period. 
+
+8:20
+And second the amount due and payable to respective workmen employees towards pension fund gratuity fund providence fund in view of section 36, subsection 4 of the code. These were two primary issues before the and I understand, and I mean in various cases, these two are the key issues for various litigations. 
+
+
+## arguments by the workmen
+8:44
+So the arguments by the workmen, arguments by the employees. It was common. It is very careful you have listen that all was primarily in their favor. 
+
+8:57
+All the arguments were in their favor. That was first, for the entire period of 20 months and 25 days, the respective employees and workmen were own payroll of the corporate data. That means they were not terminated their argument, which was even valid. it was also confirmed by the liquidator, and who was also the earthquake rp, that the rp did not terminate the employment contracts and or retrenched their services or layoff was not also done. 
+
+9:31
+Rather, at the top of it, rp issued instructions, which was dated 4th of september 2017, to all the employees and workmen to report to him and follow his instructions. Further, on 15th of november 2017, rp issued an email to hr department of the corporate data, instructing strictly not to relieve or permit resignation of any employee workman without written approval. Now further, see the arguments in favor of the workman employees. 
+
+9:59
+The corporate data was managed as a going concern in accordance with section 21 of the ib code. That's of course obvious. every rp has to manage the company of the going concern, even the disposal. Even the proposal to suspend operations at the yard and provide workman with paid leave was rejected by the committee of creditors for lack of majority. This particular resolution also was not passed. 
+
+10:23
+In case we see section 28 in the change in the terms and conditions of the workman and employee is within the powers of the committee of creditors. Under section 28. Therefore, the rp probably decided that the operations at the yard of abg shipyard limited should be suspended, but that was not approved by the committee of creditors. 
+
+
+## further argument
+10:46
+Coming to the further argument, which was in favor of the worker and employees that throughout the cirp period the employees and workmen of the hedge yard were asked to assemble at abg enclave and sign the attendance register. Since the transportation to yard was discontinued by the rp may not have money. The transportation was not arranged since there was no work at the yard, so the rp also decided to mark their attendance. 
+
+11:16
+They were marking their attendance at abd enclave, where an attendance register was kept. Now further look at the argument, which was in favor of the employees and workmen that throughout the cirp period the employees of mumbai office had regularly attended the office recorded their attendance with the attendance reader installed at the mumbai office. in some cases, even the proof of work done by the respective employees workman during the cip period were also placed on record. 
+
+11:45
+Further, during liquidation, the claims filed by the employee workman in form e with the liquidator have been verified for cirp period on the basis of the records available, including the attendance register, have been uploaded by the rp liquidator on 24th of december 2020 on the official website of the corporate data. Now, in this case, the claim is accepted. The proof that they were working the attendance is also available. 
+
+12:10
+Even if the attendance was not available at the yard, but it was available at abg enclave. Look at the company was a going concern. Their employment contracts were never retrenched. They in fact they were instructed to report to the rp. so all this was the arguments in favor of the workman and employees. 
+
+
+## arguments in favour
+12:30
+So therefore, based on these facts and circumstances, the workmen in employees they claimed that for the entire period of cirp, which is 20 months, 25 days, their salary and wages should be paid in full and it should be considered as cirp cost. 
+
+12:44
+So the basic issue is that for this 20 months and 25 days, the wages and salaries should be considered as cirp cost, which may become huge because the total workmen was about 1000. They also argued the second issue. The second issue was that they also argued that as regards provident fund and gratuity and pension fund, they should be paid. 
+
+13:04
+They should be paid in full, because this money whatever, this money that is not part of the liquidation estate under section 36, subsection 4 of the ibc. So they were claiming these two things, and these two things in fact was the basic issues in this case. 
+
+13:25
+Rp and the liquidator had clearly provided the cost on account of the employees and workmen under the head other services in a running concern, as you all know, that the rp and the liquidator they are supposed to upload the cirp cost in form 1,2 and 3 to ibbi and rp and the liquidator had been had been uploading the cost of the employees on the and the workmen to ibbi website. 
+
+13:51
+That means that the rp and the liquidator. They were accepting that this is the cirp cost, and it was because, as you know, this is required by all the employees, all the rps and liquidator, that they have to upload the circ cost by the ibbi circular dated 12th of june 2018, so this was also uploaded as a cirp cost. Now look at all the arguments in favor, all the arguments in favor. 
+
+14:20
+Therefore, they were saying that the salaries and wages do payable to the employees and this should be considered as cirp cost. This was the main argument. Also the prior period salaries that should be paid as paripasu. There was no dispute about it, and it is all the amount, which is about point eight crores of greed which was disputed. so these are the basic law which was relied by the opponents. The definition of workman, well said. 
+
+14:53
+The definition of insolvency resolution process cost, which also says that the any expenditure incurred by the rp during cirp period that would be considered as cirp cost definition was also given for cirp yankee these corporate insolvency resolution process period. The definition of personal the section 17 was also relied by the honorable supreme court. Management of the affairs of the corporate data by irp duties of irp the personal to attend. Cooperation to irp. 
+
+15:24
+Management of the operations of the copy data as a growing concern. Duties of the rp. And then the section 33, subsection 7, where it is said that the order of liquidation shall be deemed notice of discharge to workmen and employees. this is what this was also discussed. 
+
+15:40
+And of course section 36, sub section 4, where it is very clearly said that the any money kept in providence fund, superannuation fund or gratuity fund would not form a form part of liquidation estate. And of course section 53 was a right waterfall mechanism section. The different sections, like section sector 53,1, a, b and c were basically in the discussions. 
+
+16:09
+Now let us see the what the after, even after even accepting their, after even accepting their claim as cia, because after directing them to work, after directing them to report to him, after directing them to mark their attendance, some of the workmen also working with them. So these were the arguments of the liquidator. come on of course, at the instance of the coc that the workman and employee did have done no work. 
+
+16:39
+The argument of the liquidator at the instance of the coc I mean that could have been coc only because the liquidator was what was the earthwell rp and then the liquidator also accepted this money as this amount as a cirp cost. Liquidator also uploaded the cirp cost, the details of the cirrp cost to ibbi. however this particular fight. 
+
+17:01
+I think it was primarily at the instance of these, the coc, when the coc, then the liquidator said in the code that the workman and employee have done no work during the cif period and have not assisted the rp liquidator during the crp would not fall within the parameters of cir because within the definition of 5,13 c, 5,13 c, in case we see 513c it is it is actually very clear that this is what is the 513c. 
+
+17:31
+I believe it is a readable. This is the insolvency resolution process cost and it says any cost incurred by the rp in running the business of the corporate data as a growing concern. so they were. 
+
+17:44
+The liquidator was relying this now at the instance of the coc that it is written that in running the business of the corporate data as a growing concern, it is focused only on any cost incurred by the resolution professional in running the business of the corporate as a growing concern and not simply because they were on the roll. 
+
+18:03
+Then he said then the liquidator said in the supreme court that only eight employees at the mumbai location for eight months during the cirp and workman employees from surat from august 17 to october 17 assisted the rp in providing services required under the cirp process. 
+
+18:23
+Eight employees from mumbai and some of the employees in or maybe fulham all employees during august 17 to october 17. maybe that particular regard was working at that time and the remaining employees and workmen, including the appellants herein, were not required to and did not perform any service to run the copy data during the cirp. 
+
+18:43
+Now that the coc of the corporate data rightly did not approve the payment to the appellant, I mean in many cases the coc has not approved it. The question is that the cscoc has also not terminated. Coc has not approved their cost as cirp. However, the rp has uploaded this as cirp cost. Rp must have been providing this details of every month the cost of the employees. 
+
+19:06
+Rp has been uploading this lcif cost in form one, two, three and it was being uploaded to ibbi and the coc in this case is has not approved the payment. this was the argument of the liquidator. 
+
+
+## claims
+19:20
+Further, as far as this work on an employees would fall, then it was said that this particular the salary and wages of the workmen and employees during the this will fall under section 5.1b. 
+
+19:36
+Now when we look at the claims. Whenever we look at the claims, the claims of the workmen are supposed to be submitted as on the date of cirp. In case we only talk about the cirp, they cannot. They cannot, as on the date of cirp, they cannot claim for future salaries. 
+
+19:59
+But when they file their claims during liquidation process, then they can also add their claim to the liquidator for the work that they have done during circuit period. so there are two types of claim: one, that they are filing as on the date of commencement of cirp. Second, that they will file as on the date of commission of liquidation. 
+
+20:20
+Now, as of the date of liquidation, they will file their claim and the liquidator says that will be dealt within section 53,1b and 531c. For the sake of ready reference, I will even take you to section 53,1 b and 1 c. Now let's see section 53, which is regarding distribution asset. 
+
+20:37
+Section 53,1b says that the workman's dues for the period of 24 months preceding the liquidation commencement date that shall rank equally between amongst following use and the secured creditors. so this is what is b, and as for the c is concerned, which is and any unpaid dues towards the owned owed to employees other than workmen for the period of 12 months preceding the liquidation commencement date. And the liquidator was not saying that. 
+
+21:05
+The liquidator was not saying that this is part of the cirp cost and it will be advisable under 531a. So the only question was whether it falls under section 53,1a or it falls under section 53,1 b and c. So finally, these were the arguments given by the liquidator that it will fall under section 53,1b and 531c. 
+
+21:30
+And then it was said, it was said by the liquidator, that section 513c, which we have already read what this is the definition of the cirp cost and also read with regulations 31 and revelation 33 of the cirp regression cost incurred by rp in running the business of the copyright is required to be ratified by committee of creditors for it to be classified as cirp cost. 
+
+21:56
+Now in this case, although now the liquidator is saying that, but I believe the liquidator has done a couple of things. One, the liquidator has liquidator has uploaded the cirp cost to ibpi. I am sure that the liquidator must have been submitting, must have been submitting some reports to committee of creditors. Then only the liquidator would have uploaded the cost to ibbi. 
+
+22:22
+Secondly, liquidator has actually did not terminated them or did not even laid off to them and also to retrench them. That was not done. Rather, the liquidator has made arrangement for their attendance and they were making attendance. Rather, liquidator has said that they were attending to the office of mumbai. So this was all. Despite all this. 
+
+22:43
+Now the liquidator is saying that the cost was not ratified by the coc, that only the cost for those employees who have assisted the rp during the pr period have been approved by the coc in the in the first coc meeting held on 94.2017, and therefore no other cost can be classified as cirp cost except unless ratified by the coc. 
+
+23:07
+Now the liquidator further says that as for the remaining dues are concerned, that will fall due under section 5.1b. we've already seen that section and it was. It was it the liquidus said that it was specifically recorded in coc minutes that the hedge shipyard is not operational and that the corporate debtor is not in a position to pay the salaries of the workman employees due to positive funds, since the corporate data was not a going concern and did not have a running business. 
+
+23:33
+So it may have been recorded in the coc meetings that the hedge shipyard is not operational and the corporate data is not having any money to pay. That what that is what. I am sure that in most of the cases when the coc is not contributing for the workman, it is always recorded that the money is not being paid because the because of the positive funds. 
+
+23:58
+So it is also now said that this the hedge yard was not operation since 2015 and the yard at surat was closed in october 2017. That is the reason that for good three months, he said that this was operational and therefore it cannot be said that the corporate data was going concerned during circ and therefore all its employees would be required to be treated as those who assisted would not be required assisted the to run the company as a going concern. 
+
+24:30
+The liquidator further said that first the opponent was saying the workforce. The workers were saying that the mumbai employees were attending to the mumbai office. Now the liquidator is saying that as such, there is no evidence to suggest that the respective workman employees deployed at the heart and mumbai have actually worked during this erp. no, it is the question whether the attendance was important or actual work was important. 
+
+24:53
+You will see that the supreme court has said that the work was important. It was not the attendance. So even if the rp, even if the, even if the rp has seen the taken the attendance, even if all the arrangements were made for their attendance, even if some people were visiting the head office. But then supreme court has finally said that it is the importance is the work. 
+
+25:13
+Importance is whether the services were utilized or not. This was also held. this was also held in a jet airways case and if they had also gone for appeal, I think all these cases would be settled because of this judgment. 
+
+25:26
+In the case of sunil kumar jain versus, but the rp liquidator further submitted that the cost incurred during cirp period by the cd or rp will qualify as cirp cost only with respect to cost incurred by the rpe in running the company as the going concern. 
+
+25:43
+That is what section 15, subsection three cross c says along with the regulation 3.33. When we see this regulation 31 and 33, I think for ready information I may even bring before you what exactly section regulation 31 says. it only says in insolvency resolution process cost and shall mean amount due to supplier amount payable to try representative out of pocket expenses. Amount due to any person whose rights are prejudicial. 
+
+26:12
+Expenses incurred on or by the irp to the extent ratified. Expenses incurred on or by the rp fixed on regulation 34. Other costs directly related to the corporate insolvency resolution process. So it is not referring to anything which is with regard to the going concern. Then we also read regulation 33, cost of interim regulation. This is also the apparent shall fix the expenditure of indicating authoritative. 
+
+26:37
+So this is also this is also something which is not specifically referring to compare the expenditure for keeping the company as a going concern. however, the supreme court has regularly said that the definition of the cirp cost is governed by section 5, subsection 13, cross c and regulation 31,33. So the corporate is it was also liquidated was saying that the cooperator was neither a going concern nor rp has incurred any cost. 
+
+
+## how to handle
+27:03
+Now these are the issues before the honorable supreme court. What how to handle the claim of the workman for who were on role as on the commencement of the cirp and their claim for salaries and wages during cirp period, which they were claiming that should be considered as cirp cost and should be paid in full, and whereas the liquidator is saying that it should be paid pariparso along with the secured creditors under section 5.1, clause b and plot c, clause b is for workman. 
+
+27:36
+Claus c is for employees. Then the second question was the how to handle this section 36 subsection 4, where it is said that the any money in pension fund and gratitude fund and providence fund that would be outside the liquidation estate. 
+
+
+## legislative history
+27:56
+Now the supreme court had actually gone. While making observations the they have actually narrated the legislative history. 
+
+28:05
+First they touched the companies that 1956 and section 59 capital a and section 529 capital a, sub subsection 1 and clause c, and where it was it was said in that sections that workmen dues and the debts due to the secured creditors shall be paid in priority to other debts. 
+
+28:28
+Further, it was provided that in the case of installment, companies winding up shall be undertaken in terms of the law of laws of insolvency with respect to the status of persons adjudged in solver. That was section that was company that 1956. So it was also there was a proviso which said that the workman shall deem to have paripas to charge in favor of his in his favor to the extent of workman's portion. 
+
+28:56
+It further stated that we are secured creditors. Instead of relinquishing is enforcing his security. Did that due to the extent of workman's share portion in the security shall rank paris with workmen's due. 
+
+29:09
+It was said in the company that 1956 that the workmen and the workmen and the secured creditors shall have paripas who writes on the assets of the company and in even if they were not relinquishing, they would exercise their rights subject to the workman's dues on a very passive basis. 
+
+29:31
+Then this particular amendment was brought by the company, the amendment bill 1985, with the objective to introduce necessary legislation for the legislative use of the workman so that it should rank paris with the secured creditor in the case of closer of the companies. 
+
+
+## Insolvency law
+29:48
+Further, they also started looking at companies at 2.2013 and section 326 and 327, which said overriding preferential payment and preferential payments were introduced, wherein a proviso to section 326 of 2013 act was inserted. initially the insolvency process in the case of binding up of insolvent companies were provided under section 325 of the ibc. That was to of course. 
+
+30:22
+However, when this insolvency law came in force on 15th of november 2016. At that time, section 325 was emitted and further it was also amended. Like this, section 327 and 326 will not be applicable in the event of liquidation under the ib code. So this was. That means that whatever was provided in companies like 2013. Now it all has to be handled under the insolvency law. 
+
+
+## Observations
+30:57
+Now the here is the important part, the observations of the supreme court observations by the honorable supreme court. Let's see very carefully, because this in each line you would see that the new duties are being casted upon the rp's and the coc. now let us see the first observation while considering the claims of concerned workmanship employees towards the wages, salaries payable during the cirp. 
+
+31:21
+First of all, it has to be established and proved that during cirp the corporate data was a growing concern and that the concerned workman employees actually worked while this cd was a going concern during circuit. So the first thing it is it is. Basically it has to be established and proved that the cd was a going concern and the employee and the workman they actually worked during cirp. now what is up? 
+
+31:51
+This is first of all, in the very first coc meeting, the committee of creditor has to take a decision along with the irp, along with the irp, that how many, whether the companies are going concerned, what part of the companies are going concerned, what part is operational, what part is closed and also the list of employees and workmen and who are working at what location and what are their roles. 
+
+32:14
+That's a bigger duty now on the irp and the committee of creditors. In case they would not do that then that means they would be incurring unnecessary cirp cost. In the very first meeting. I think the this is very important, that this chart of employees and work money is made that too at location wise that to the operations of the company also has to be seen. The going concern status has to be seen. 
+
+32:36
+This is the very first duty. It has to be proved. It has to be proved that they actually worked. So you can't simply take the employee. Do you just the ir? The irp cannot simply say that these are the employees on the road. So it has to be established that they are actually working and it has to be established that the company is going concerned at that particular level. Whatever the con. 
+
+32:59
+Whatever the status of the going concern is. Second observation, the wages and salaries of all workmen and employees of the cd during cirp, who actually have not worked or performed their duties when the cd was going concerned, shall not be included automatically in the cirp cost. So first is the positive. Then the second is that it will not be included. First is how it will be included. 
+
+33:26
+Second it how it how this is negative that it will not automatically be included in the cirp. So every workman who would have a claim on the cirp cost would actually have to approve that he worked and he had the approval of the irp and rp and the coc. 
+
+33:41
+This is something which is the new duty on the workman, also on the committee of creditor, also only with respect to those workmen in employees who actually worked during cirp when the corporate debtor was going full sun. Their wages salaries are to be included in the cirp cost and they shall have the first priority over all other dues, as per section 53,1 a of the ib code. 
+
+34:07
+So that means it is a further clarification that anyone who actually work that salary and wages will have to be paid on the first priority. Of course the this is an automatic conclusion. In case they are working, then it's a cirp cost. any other dues towards wages and salaries of the employees, workmen of the corporate data shall have to be governed by section 531b section 531c of the ib code. 
+
+34:31
+Even if they continue to be on the roll, their salary would become due, but their claim would be accepted under section. Their claim would be settled under section 5.1b and 531c in 53,1b as paripasu with the with the secured creditor and in case 531 c, which is for employees, they would only get. They would only get their salary for the for, for the, for their dues, even prior to cirp or during cirp. 
+
+35:07
+In case all the secured creditors are paid along with workman, then only the employees will get. So the employees are the worst hit. Employees are the worst hit. section 5.1c is after the cirp cost liquidation cost and after the secured creditors are paid in full and the workmen are paid in full, then only the employee comes. So if any employee is working during cirp, the employee should also assure that he his work is approved. 
+
+35:41
+The coc has approved his retention and his actually he's that he's performing. Then only his salary would be considered as payable on priority. Otherwise the employees who are working during cirp period will not get in case the secured creditors and workmen are not getting in full. 
+
+36:03
+Any other interpretation would lead to absurd consequences and violate the scheme of section 53. Read with section 5 subsection 13. this is what is the observation of honorable supreme court that any other interpretation, and now the other interpretations could have been that anyone who is on the role that would be considered cirp cost, because they were not terminated and they have not worked anywhere else, so they should have been paid. 
+
+36:28
+But now, in this case, after this judgment, the employees would be cautious, irp rp would be cautious, the coc would be cautious and they would be taking all appropriate actions. Only because this judgment has come I mean so far in case, we've gone through some 3000 resolutions in each and every case. This particular anomaly was going on and nobody knew who would be entitled to. 
+
+36:52
+And now I'm actually taking you to through succinate scenario that it might be even applicable to all the existing cases. It might be even applicable even to existing cases. Now let me go to that part. So let us see the first next observation honorable supreme court. 
+
+37:08
+If any other importation, more particularly the interpretation confessed on behalf of the appellant, is accepted in that case, the wages salaries of those working on an employees who had not worked at all during cirp shall have to be treated or included in the cirp cost, which cannot be the intention of the legislature. 
+
+
+## Further Observation
+37:31
+Further observation of the supreme court in this case is, however, however, still the claims submitted to be submitted by the opponent will have to be adjudicated upon now. This part is very important. now the supreme court has further given a duty now to the liquidator. Now let us see the duty of the liquidator, which has been. The liquidator has been directed to do what the liquid has been directed to do. 
+
+37:55
+In this case, however, still the claims submitted to be submitted by the appearance means workmen and employees will have to be adjudicated upon and considered by the liquidator, and the liquidator has to adjudicate and consider number one, whether the corporate debtor was a going concern. This is the first duty now he has been directed to do number two, how many workmen and employees actually worked during the cirp while the coffee data was going concerned. 
+
+38:21
+So these are the two things that the liquidator has been directed to do. so the liquidator will take all the claims of the employees and workmen. Liquidator will see whether the person he was working in what part of the corporate data, whether that part of the corporate data was kept as a going concern or not, and whether that particular person worked during the circuit or not. 
+
+38:40
+This is a new duties now casted when the cirp finished in 2019. The liquidation is going on and the liquidator is now doing the fresh assessment of the claims of the workmen and employees for the period of cirp. So this is a new duty on the liquidation. In case we in case we copy this spirit. in case we copy this spirit into all other cases. 
+
+39:07
+That means that all the liquidators are supposed to do this while accepting the claim of the workplace employees for the cirp period or, in some cases, liquidation period where the reputation where the company was kept as a going concern during liquidation. 
+
+39:24
+Also, this is the new duty of the liquidator to accept their claims to understand what part of the corporate data they were working, whether that part of the corporate data was a going concern, whether this particular person has actually worked during crp period, and also in case we copy the same spirit to the liquidation as a going concern while the company is being kept as a going concern during liquidation process. 
+
+39:49
+Those are also some cases where this would be a definitely a concern. however, I think there was no dispute regarding the pcirp period. Employee that is burned by section 53 one. That's something which is no dispute. So this was one concern. And the observations. Now let us try even try to see the other part of the observations. 
+
+40:14
+The supreme court further said now so far as submission on behalf of the opponent, that as per section 20 of the code, even as per the decisions of this court decision of the supreme court in the case of swiss ribbon private limited and gujarat urjavikas begum limited versus ahmed gupta, the rp is under mandate to manage the operations of the copyright as a going concern and therefore it is believed that during cirp the corporate debtor was a going concern. 
+
+40:40
+Further, the supreme court said that this is what is the argument of the appellant that in the case of swiss ribbon and with raj purjah, even the supreme court has held that the company would be deemed to be under its undergoing concern. This the supreme court said that it cannot be accepted. 
+
+41:01
+It is true that section 20 of the ib code it is the duty of the rp to manage and run the operation of the copyright as a going concern. However, the words used in section 20, which says the interim resolution professional shall make every endeavor to manage the operation of the copy data as a going concern. 
+
+41:20
+Therefore, even if it is found that the copy data was not a going concern during cirp, despite best efforts by the resolution professional, it cannot be presumed that still the corporate data wasn't going concerned during crp. It depends upon the facts of each case. So like, while arguing the workmen and the employees, they were also depending upon the observations of honourable supreme court in swiss ribbon and gujarat. 
+
+41:47
+However, the supreme court said that this section 20 is very clear. That shall make every endeavor, but that doesn't mean that it was kept as a going concern and all parts of the company was kept as a going concern. So this is what where we finish this part like this? What is what about the salaries and workmen during this circ period? now I'm a little further than we will take questions, only a couple of sheets. 
+
+42:16
+And now we are only talking about the section 36, subsection 4, which says that the see, which says that the any money, any amount due from provident fund graduating fund or superannuation fund pension fund shall not be considered as part of the liquidation estate. So the supreme court has observed in this case. 
+
+42:45
+Now, so far as the dues of workmen in employees on account of provident fund gratuity and pension are concerned, they shall be going by section 3.4 of the court. Section 3.4, clause 3 of the ib code specific, specifically excludes all sums due to any workman and employee from the provident fund and pension fund and the gratuity fund from the ambit of liquidation state assets. 
+
+43:13
+Therefore, section 531 of the ib code shall not be applicable to such dues which are to be treated outside the liquidation process and liquidation estate assets under ib code. 
+
+43:24
+Further, section 36,4 of the ib code has clearly given outright protection to workman dues under the provident fund gratuity fund and pension fund which are not to be treated as liquidation estate asset and the liquidator shall have no claim over such dues.come on, just give me one more minute. I will actually come how this supreme court has finally clarified it. 
+
+
+## Clarification
+43:48
+Therefore, the concerned workman employee shall be entitled to provident fund gratuity fund and pension fund from such funds, from such funds which are specifically kept out of liquidation state assets so liquid. the supreme court in fact categorically clarified that if there are any funds in the provident fund gratuity fund pension fund, I'm not sure whether these funds are maintained by the company itself or it is maintained outside the company, but these funds are with. 
+
+44:20
+These funds are exclusively for the workmen and employees and from such funds which are specifically and as per section 364 of the coin, they are not to be used for recovery in the liquidation. So this is also clarified. They are not used. They are. They are not to be used for recovery in the liquidation. So I think this is a very. 
+
+44:42
+It's a great clarification that these funds are not supposed to be used for the recovery by the liquidator and the employees and workmen shall be entitled to providence under the fund and pension fund from such funds which are specifically kept outside the liquidation process. 
+
+
+## What is held by the Supreme Court
+45:00
+So these two issues and finally what is held by the supreme court, honorable supreme court in this case? 
+
+45:07
+I think already we've seen in our presentation that the wages, salaries and wages salaries of the work money employees of the corporate data for the period during cir peak cannot be included in cirp cost. 
+
+45:20
+This is a held portion, provided it is established that provided it is established and proved that the irp rp managed the operations of the corporate data as a going concern during the cirp and that the concerned employee workman of the corporator has actually worked during the cirp and in such an eventuality, the wages salaries of those workman employees who actually work during cirp period, when the resolution professional manage the operation of the cooperative recording concern shall be paid, treating it and or considering it as part of cirp cost, and the same shall be payable in full. 
+
+45:59
+First as per section 53,1a of the ib code. This is the first held portion. Second held portion, considering section 3.4 of the ib code and when the provident fund, gratuity fund and pension fund are kept outside the liquidation estate assets, the share of the workmen dues shall be kept outside the liquidation process and the concerned workmen and employees shall have to be paid the same out of such provident fund, gratuity fund and pension fund if any available. 
+
+46:34
+If any available, I'm highlighting it, and the liquidator shall not have any claim over such funds. So it is very clear by the supreme court that the providence fund, gratuity fund, pension fund, if there is any money, the liquidator should cannot claim it, and that has to be the workman use has to be paid out of these funds. 
+
+46:55
+And it is also mentioned, if any, that if funds are available in these funds, the liquidator shall have no right over them. I would know where it is, provided that if there is no money in this gratuity fund, pension fund or supervision fund, it is the duty of the liquidator to fill that fund first and then distribute to the other. 
+
+47:18
+It is nowhere mentioned in this order, which was the anomaly and it started with the mozart judgement and then it actually it partially it was clarified by justice vp singh in the case of the sovereign godivala, the liquidator of lanco infratec. In that case it was clarified by unclaired, but now this is the final order from supreme court that the this fund is not to be. 
+
+47:52
+It is not the duty of the liquor to fill these funds if there are no funds available in these three funds. Further, the supreme court observed that, as observed here in after, there are disputed questions whether in fact the irp rp manage the operation of the cooperator as a going concern during the cirp, and there is a serious dispute whether the hedge yard was operational during the cip or not. 
+
+
+## Final order from the Supreme Court
+48:13
+There is a serious dispute that they concerned workmen and employees at the hedge yard and the concerned employees at mumbai head office actually worked during the cirp or not, and therefore it is directed that let the appliance submit their claims before the liquidator and establish and prove that during cirp irp rp manage the operation of the copy data as a going concern and they actually work now, since the rp in this case had done something the where this controversy was risen, one that the attendance was marked. 
+
+48:49
+Number two, they were not terminated. Number three: the company was like so called it was deemed to be kept as a as a going concern. so because of these things, there was disputes whether the company was going concerned whether they worked for the company. 
+
+49:02
+So the supreme court directed the liquidator that the liquidator will take their fresh claim and then the liquidator will decide whether this company was or that part of the company or that location of the company was kept as a going concern. Second, whether this particular employee worked and the fresh adjudication will be done. 
+
+49:24
+Fresh adjudication will be done by the liquidator see like atc and the liquidator is directed to adjudicate such claims in accordance with law and on its own merits and on the basis of the evidence which may lead produced, irrespective of the fact whether the rp, who himself is now the liberator, included the claims of the apparent being wages salary during crp. 
+
+49:44
+Now the supreme court has said, irrespective, irrespective of what he did, whether he uploaded the cip cost to ibbi, whether he presented in the minutes of the meetings or not, whether the attendance was being marked or not, irrespective of all that he has to do it afresh what I think that this might be even the spirit in all other cases. 
+
+50:06
+In most of other cases, even the liquidator might have to do this, like whether this claim of the salaries and wages during cirp that has to be a freshly that has to be adjust, adjudicated freshly and then this is a new duty on the liquidator. This is the directions of the supreme court. 
+
+
+## Direct to be kept
+50:25
+The liquidator is directed to adjudicate such claims independently. Independently means irrespective of what the even he himself was the rp. 
+
+50:32
+He has to now do it independently. If it is found that in fact the irp rp manage the operation of the copyright as a going concern during cirp and the concerned employee workmen actually worked during cirp, their wages and salaries be considered as included in the cirp cost and they will have to be paid as per section 5.1a of the ib code, in full before distributing the amount in prior to others. 
+
+50:57
+The aforesaid exercise shall be completed within a period of 12 weeks from today and such amount shall be paid out of the amount which is direct to be kept, which is directed to be kept aside earlier by the adjudicating authority applied criminal and therefore by this code, till such claims are adjudicated upon, the liquidator is directed to keep aside the said amount exclusively to be used for workman employees use, which is to be paid on adjudication. 
+
+51:25
+So earlier that money was kept aside, but now it has to be adjudicated. So they see like understanding it to a great we now let us try to see the first of all the new duties on the irp and the coc. 
+
+
+## New duties
+51:40
+The new duties on the irp and the coc is that the in the very first meeting or if, whenever the cip starts, the irp would definitely take an inventory of the employees workmen status of the company who are who is required for keeping the company or that part of the company as a concern. That list has to be presented. That list has to be presented in the coc meeting and it has to be approved. 
+
+52:05
+So in case it is not approved, I believe the it cannot be considered cir pc rp code. Second in coc also has to be very particular because once the coc approves it, then it becomes the duty of the coc to contribute and let the employees and the workmen be paid in case they have approved their salary as a cirp cost. third, in whatever existing cases are. 
+
+52:30
+In case the same spirit is copied, then I think most of the liquidators will have to adjudicate their claims afresh and considering whether that part of the corporate data was kept as a going concern and whether the person, the employee or workman, has actually worked in that period. Then only it would be paid as a cirp cost. So this is the new rules which will be. 
+
+52:56
+This is these are the new duties casted upon irp, rp liquidator and the coc. The coc also has to work on these issues because I think it's a supreme court judgment, so it can be considered as final. so ankit, you can just make me the host because I'm not able to switch on my video back. Might be some setting changes required which you can take up later. I will also I will. 
+
+53:24
+Just how do I make you as host? I'll just there is a dot against my name. I'll down that I've done that. So that's the only. So now the there's a few questions from one question from madanji that in case of workman union, if in cip period and the requirement of workmen is only say 40, whereas 150 workmen are on the rule, then in such scenario how do you reduce the workforce and drivebc's? 
+
+53:52
+I know this is a very difficult practical question that you're 150 people on the rules. How do you as an rp understand which 40 to retain? so I believe the rp should perhaps understand which 40 are required by the company's existing management that they want to choose to retain, which are the most senior, which the employees which perhaps have the most technical knowledge to continue the company as a going concern. 
+
+54:19
+And this is required, especially in case the coc is not willing to approve more than 40 people who are really required to keep the company as a going concern. See my understanding about this, the assessment of who is required and who is not required. 
+
+54:37
+The irp will definitely have discussions with the suspended management, the key managerial personals and based on their recommendations and based on the key managerial personal recommendation also reasons that particular list will be placed in the coc meeting and probably in the very first coc meeting and in case it is approved. 
+
+54:59
+Okay, in case it is not approved, then the workman employees will be very sure that they will not get their salaries or wages for this period, so they will not work come on as a regard, the unrest is concerned, of course that's a separate issue, but as far as the workman dues are concerned and whether it is practically to remove the workman or not, that's a totally separate issue. 
+
+55:17
+At the moment we have a supreme court judgment in hand. it is very difficult for the liquidator or the rp to keep paying the salaries of those people or even typically keep accepting the claims of those people who are not working and who are who are who are working at that part of the company which is not operational. So how to remove one? Section 28 says that you need coc approval. 
+
+55:41
+Two, it is for you to pass an office order as an rp and it is for the workman to see whether they leave or they create some unrest. If they create some unrest then the local authorities will get engaged and the local authorities should be told that this is a supreme court order and this is what is the law, and we cannot do anything beyond this law. So coc has to take a decision. 
+
+56:05
+Either coc has to approve a removal or it has to approve a continuation. Without that it will be a decision in limbo which will affect the going concern of the company. So I believe that is something that is the locus is the primary idea. 
+
+56:21
+Ravi sankarji is asking salary is for n time scale basis and not piece rate, foreign for a time scale basis and not peace rate, meaning that I am paid for ten to five attendances whether company is able to provide me job. So I believe the idea here is that it is not only about attendance as so there has to be going concern. 
+
+56:44
+So in case there was a provision here that somebody was marking attendance also but not doing any work, the main idea is that coc did not approve those salaries. had the coc approved, those salaries and the attendances were marked and even if there was no work to be done the salaries would be payable and that crp cost would have been allowed. That is my interpretation. 
+
+57:08
+Yes, you're right, ankit the coc is approval may be correct or incorrect. Once the coc approves, I think that was the assurance given to the employee that you will be paid and later on I think it cannot be reverted back or even the lower today. Even the law today has led by the honourable supreme court. If the coc approval is must, if the cocs approval is there, I think that's final. 
+
+57:32
+But then the coc will not give approval. In case the coc thinks that it is not operational, it is not a going concern and the person is not working. so the idea is that the coc has to understand that for the resolution applicant who might come for taking up the company, the existing employees are a pre requirement for that resolution applicant to take it as a going concern. 
+
+57:57
+In that circumstance, the coc might even be ready to invest in paying salaries to some employees, even if there is no work during the cip period. That is also something I believe, which is important to be understood here, that maybe the current work is only allowing 40 employees to stay. But then if the resolution applicant comes in, he might want, might be wanting 150 trained resources and might that might be valuable for him. 
+
+58:24
+So in case the coc thinks that the going concern of the company would be, the status of the going concern would be adversely impacted. In case this trained human resources are not with the company and the value would be diminished, the coc can take a decision that we will consider this as a going concern and we will consider these people as working and their salary would be paid in case the coc approves it. 
+
+58:49
+I think fair enough, but the primary issue that the coc must approve it after considering their value for the company. Maybe the value for the company is also for increasing the value of the company in case the trained human resources are available. 
+
+59:02
+That is also the value for the company right rng is asking kindly clarify the meaning of managing business as a going concern, whether it means obtaining order, purchase of material, achievement of sale, production, etc. Maintaining going concern would ideally highly mean that you can, you can do business. One can, if the entity is a manufacturing concern, continue the manufacturing. In case the entities are trading concern, continue the trading. 
+
+59:32
+That would be the basic idea, the continuation of transactions that the company was doing for its, for keeping its or for continuing its business. Anything to be added here apart from what I said. Yes, yes, sanket, I also would like to add simply manufacturing, purchasing and or selling is not the only criteria. 
+
+59:57
+I will give an example of power plant which was set up and power plant is not operational as of now and the power plant is waiting for the power purchase agreement. Now, in case I do not keep stuff for maintenance, I have to keep because there is a lot of maintenance required for the plant. There is no order. Plant is ready but I have to keep people for maintenance. 
+
+1:00:23
+In case I don't keep people for maintenance, that means that the plant will diminish the status of the company. When I took over as irp, what of whatever the status is, it was a well maintained state plant. So in case I stop maintaining, that means that I am not doing. I'm not keeping the company as going concern. 
+
+1:00:48
+Maintaining also maintenance of the capacities which the company has, even if there are no orders you are saying, is also important so that it does not destroy a value of the value for those assets as a business. 
+
+1:01:01
+So whenever we say that the company is being kept as a going concern, that we even preserving and protecting the value of the company value of the asset is also a cost for keeping it as a going concern, and if that needs some employees and some workmen, that is definitely considered to be a cirp cost. 
+
+1:01:22
+Now another important question is that say there is a company which might have kept a gratuity fund or all the leave in cashment and other peoples have been kept by them in a different fund, but only up till a certain x date. And since that date, say there are three years before the cip commencement date, when the company had those employees on its roles where it never contributed to those funds. 
+
+1:01:46
+So in a way there is a there might be a deficit in that fund for the payment of those retirement benefits to the employees which were on the rules as on the crp date. then of course the next stage is that the company employees continue to be part of the part of the company during the crp date after the cip date. 
+
+1:02:05
+And in case here there is a resolution applicant who comes in and who says that okay, I will take over the company there. The resolution applicant can very well, in my opinion, say in the resolution plan that I will where I will bear the cost of retirement benefits of the existing employees from the date of the passing of the resolution plan by the nclt and before, though before that date the retirement benefits will not be payable by me. That is something that perhaps can be made part of the resolution plan. Now, in these, in this complicated scenario will. 
+
+1:02:45
+Is this then an accepted idea and because the order the supreme court order, as far as I could read, was not very clear on what will happen in case the fund has a deficit? In case the fund has a deficit to pay these dues, the workmen will not get those dues at all. 
+
+1:03:02
+And see, like what the supreme court has said, is the let us see, the definition of workman definition of workman under the ivc is has been taken had gone to the definition of workmen to the companies act and then from the company that it has gone to the industrial dispute act. So this is the kind of the definition which is being used for workman use. 
+
+1:03:25
+Now the workman dues includes all the retirement news leave in cash ban, gratuity. Everything is included in the workmen use. So my suggestion when the workman files their claim at the commencement of cirp, they should also file their claim for the gratuity which is due to them. 
+
+1:03:42
+I mean I have seen if the workmen are not filing their claims, the irp must consider because see the amount of gratuity is also available in the books of account and in case we see the regulations it is also provided that even if the workmen are not filing a claim, the workman's claim can be considered from the books of account by the irp. so. 
+
+1:04:05
+Therefore, the gratuity claims, the claims of pension fund, the claims of provident fund that also can be taken by the irp from the books of account, from the provisions of the gratuity made in the financial statements, and that would be considered as workman use claims as on the commencement of cirp and will actually be dealt with under section 53,1, clause b and clause c. 
+
+1:04:28
+So the supreme court has not given any special treatment to gratuity fund, pension fund or superannuation fund. What is important is that the filing of the claim, admittance of the claim as on the date of cirp and subsequently as on the date of liquidation. Now what I'm trying to say. 
+
+1:04:46
+What I'm trying to say now is that in during cirp if the coc is not accepting, say, a bunch of 200 employee workmen, if the irp or rp is not accepting them as workman, that actually means that they are. Their claim being on being a workman of the company will continue. But their claim as a cirp cost will not be there. 
+
+1:05:12
+So if they are on role and the company has gone into liquidation, so first of all their claim up to the cir, because in case the company is gone for regulation, that will be dealt in the resolution plan. That will be dealt in the resolution plan. However, whatever is minimum due to them under section 53, that has to be paid for a compliant resolution plan. 
+
+1:05:31
+So if the minimum as per section 53 is something which is x amount which is due to workmen and employees, that has to be paid, anything over and above any resolution plan that has to be accepted. So nobody can say that the workman has now been taken over by the ra. So their gratuity has now passed on to ra. 
+
+1:05:50
+No, the gratuity claim has already been submitted or if it is not submitted it should be admitted, sue moto by the irp and the rp. So once the all their claims of superannuation, gratuity, pension, provident, everything has been admitted by the c rp, then the ra would pay only whatever has been committed in the resolution plan. now coming to the liquidation. 
+
+1:06:13
+In the during liquidation, in case the employee is still on the roll, the liquidator will admit one part of the claim as circ cost and the other part of the claim as workman use an employee produced. So they will be dealt with under section 53,1b and 1c. I think the most of the anomalies has been settled. 
+
+1:06:33
+Most of the anomalies I mean there is no normally known for the pension fund a gratuity fund, because the claim has to be admitted by the irp as on the commencement, even if it is not added by the employee while submitting their claim. 
+
+1:06:47
+So the resolution applicant successful resolution applicant will pay whatever is agreed, whatever is agreed by him, so he is not supposed to take over the entire gratuity claim or entire superannuation fund or entire the pension fund. He will only take over whatever he has admitted. I'm saying so I understand what you're saying and I think this makes sense. 
+
+1:07:09
+But then this, of course, is a lot of work for the irp, including understanding the books of accounts, understanding what is the money lying in the fund that is that might be available, and netting that fund off when it comes to the company's liabilities which are still pending. 
+
+1:07:23
+Then looking at the understanding, the date of employment of all these workmen and trying to understand that from records, because the graduate liability will always be dependent on the date of joining of that employee. All these fact checking and verification of these claims is of course a very complicated exercise. I think we can take some very clear questions which are there. People are still the participants are asking questions. 
+
+1:07:55
+That's very important for us and we feel happy when the questions are being asked. Punishee is asking if in the current crp there is a fun to pay salary but not paid by rp. An application for 12 way and liquidation has to be decided by nclt can post crp period salary be refused as per the discussion judge discuss judgment. 
+
+1:08:17
+Yes, I like in this particular case, abj shipyard, I have said that the rp had taken the attendance. Rp has been asking money from the coc for payment of salaries and wages. The coc was saying that it is not. The money is not available. The rpe also confirmed that everyone will report. Our rp also sent any communication to all the employees that they will deport. 
+
+1:08:44
+Rp have done everything and now the supreme court has done his supreme court has asked him to do it everything again. The supreme court has put a new responsibility on the liquidator who was earlier. 
+
+1:08:54
+Rp that you take the claims afresh, consider the claims and adjudicate the fresh, keeping into consideration whether the company was kept as a going concern, that part of the company was kept as a going concern and whether that particular person worked or not. I believe that can be that spirit is can be copied everywhere, irrespective, because in that particular case even the cip cost was uploaded in form one, two and three to ibvi was followed. 
+
+1:09:21
+So many things were actually confirmed. That is part of crp course. But just because it was not finding approval in crp, it was decided but the procedure was followed. Yes, yes, yeah. Sandeep ji then says that if plant close by close before crp and the employees on roll, it is considered as going concern. if few people in accounts are helping cd rp, can only their salary be considered crp. 
+
+1:09:47
+So I believe we have already said that yes, that is of course possible. Secondly, we are saying that it is the duty of the rp to put the facts before the coc and let the coc take the final decision to whether they want to bear the cost of the other employees or not, but how far they're helping the process of keeping the company alive. Those facts should be brought forward. 
+
+1:10:11
+So as sir said that maybe some employees are maintaining the planting machinery. Maybe those employees are also critical to be kept for the going concerned possibility of the company. Yes, rajin chandra is asking sale of business as a growing concern and sale of company as a going concern. the distinction. Please explain. I think this is a question beyond today's topic. This is about liquidation. Maheshwaraji is asking that we will come up. 
+
+1:10:36
+We will come up with a way specifically the sale of a company as a growing concern and the sale of the business is going concerned. We'll take it as a clue for the new subjects. So we'll come up. So how to deal with the claim of pf authority during liquidation, whether the same will be treated under section 5.1e or under section 3.3643, claim of the pf authority. 
+
+1:11:00
+The claim of the pf authorities is basically there are two kinds of claim of the pf authorities: one, the money which goes to the workmen's account. One, the money which goes into the workman account. that should be treated and that would be treated as workman's dues before the start of before the commencement of cirp. And the second part of the duels of the pf authorities is their penalties and interest. 
+
+1:11:21
+But the penalties and interest will go to the close of clause e and anything which will go to the workman's account, which will be withdrawable by the workman that will be considered as workman dues and will be dealt with under section 531 b and c respectively. So there are two parts of the provident fund claims from the provident fund, commissioner, and that should be assessed very carefully. 
+
+1:11:52
+So I believe that sums up all the major questions and it's also time. We are 15 minutes above our scheduled time, so it's a good topic, good discussion. I think this format is a good format. We should keep this short format, discuss one topic somehow. It could not stay short, because this judgment was very important and we thought of sharing our understanding. 
+
+1:12:23
+So I think we should thank our participants and it is our pleasure to be connected with the all of you and as we always say that this is our way of learning. So we should conclude this and thank you very much and thank you every sunday. Every sunday between four to five, please mark your calendars and we'll definitely will come up with some of the other subjects like this. So we are very happy to do this and we will continuously do this. thank you, thank you very much. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

@@ -1,0 +1,500 @@
+# Deliberations on transactions covered under 'Fraudulent trading or wrongful trading
+![](https://img.youtube.com/vi/vULAg7XN78s/hqdefault.jpg)
+4 months ago (Mar 4, 2024) — 1:00:18
+[https://youtube.com/watch?v=vULAg7XN78s](https://youtube.com/watch?v=vULAg7XN78s)
+
+
+## Summary
+The webinar discusses the recent judicial pronouncement on Section 66 of the Insolvency and Bankruptcy Code (IBC) and its implications for resolution professionals and liquidators. The speakers explain the provisions of Section 66, which deals with transactions carried on with the intent to defraud creditors or for any fraudulent purposes. They also highlight the differences between Section 66 and Section 49 of the IBC, which deals with avoidance transactions. The speakers emphasize that the interpretation of Section 66 depends on how the transaction is understood by the transactional auditor, reported by the RP, pleaded before the adjudicating authority, and interpreted by the bench. They also discuss various judgments from the NCLAT, NT, and Supreme Court that have clarified the provisions of Section 66. The speakers highlight that the Supreme Court has not yet taken a big call on this issue, and there is only one judgment where the 66 issue has been considered. They also explain the concept of the Twilight Zone in Section 66 subsection 2 and the conditions for passing an order against directors or partners in LLPs. The speakers suggest that combined applications should be filed under Section 66 subsection 1 and 2, and Section 49, if there is an overlap. They also discuss the provisions of Section 67, which deals with the claim of contributories in liquidation. The webinar concludes with a discussion on various judgments related to Section 66, including the mismatch of stock and inventory, and loans and advances given to other entities.
+
+## 99th webinar every week with respect to Section 66
+0:07
+Good morning everyone and welcome back to our weekly webinar series. Today we are celebrating, of course, we are having a 99th webinar and the subject is a very important one, where we talking about the recent judicial pronouncement on Section 66, which are which are again a game changer with respect to what the resolution professional is required to do with respect to treating 66 section 66 applications and making those transactions available to the N over to anel sir. 
+
+0:38
+Thank you, anit, and welcome to 99th episode of AAA weekly webinar series. We are eagerly waiting for a 100th webinar every week without any Gap, so we are excited, as you all are. The subject today is to because see this section 66 is very important these days. most of the applications filed by the RPS or Liquidators are getting listed are being pleaded nowadays. So therefore this kind of clarity was required. 
+
+1:14
+So it was a thoughtful the demand also from the audience that this analysis should be done. So we will go through the provisions first and then there are many judgments. Those actually have come from nclat and also NT various benches. 
+
+
+## judgments that should be considered under Section 49
+1:36
+One thing that I would like to say while going through all these judgments, that it all depends upon the way the transaction is understood by the transactional auditor, the way it is reported by the RP to the adjudicating authority, the way it is pleaded before the adjudicating Authority and finally, the way the bench is understanding the transaction. 
+
+2:05
+So there is an overlapping in most of the cases, overlapping between section 49 and also there are two sections of section 66, also section 66, subsection 1 and section 66 subsection 2. Both are entirely different and in both the cases the order would be different. However, in case the SE 49 is invoked where there is no look back period and also in section 66 where there is no look back period. 
+
+2:36
+Therefore there is a difference in fraudulent intent when a property of the company is transferred to someone, so that actually should be covered in 49. but then I have seen some of the judgments where maybe it has not been properly pleaded that when the property is transferred to someone with a fraudulent intent and without any consideration or so that actually should be considered under Section 49. So that is like various. 
+
+
+## Section 66: How the Supreme Court understood the transaction
+3:06
+So what I'm trying to say is it depends upon four. It's like four things: how the transaction is understood by the transactional auditor it is maybe for repeating and how the transaction is reported, how it is been pleaded and how the bench have understood it. 
+
+3:26
+The Supreme Court has not yet taken a very big call on this section 66 issue, because hardly there is only one judgment where the 66 issue has actually been considered, other than the Anu Jan judgment, where it was an overall Collective judgments. 
+
+3:47
+So it was the collective order for Section 43,45.49,50 and 66. Two things are very important that we actually can say: the 49, section 49 and for Section 66. There is no look back period, the only for the purpose of section 66, subsection 2. There is a concept of Twilight Zone that we would going will. We will explain what is the concept of Twilight Zone, but then coming back to the basics of sections. 
+
+
+## Defrauding creditors of corporate dat
+4:25
+So we actually would like to go through that. This is one scenario when we go to section 66, subsection one. It only says that if the business of the corporate dator has been carried on with the intent to defraud creditors of the corporate dator or for any fraudulent purposes. so when we call it defrauding the creditors. 
+
+4:51
+So defrauding the creditors means the assets which otherwise belongs to them, those assets, working capital, funds of the company, property of the company. In case all this is getting siphoned off, transferred without any business. So in case it is a business, it is absolutely fine. In case something has happened which is not business, the money is transferred to someone. So it is siphoned out to related parties. 
+
+5:23
+It is siphoned out to other entities which are again related party or unrelated party. But that is not business. So that actually shows that the business of the corporate dat has been carried on with the intent to defraud the creditors. No, when we say business, it doesn't mean that we have to do some trading transaction. even when I transfer some money from my bank account. 
+
+
+## Business of the Corporator: Defrauding creditors
+5:46
+That is also business, then I'm transferring an asset from my, from the company, to any other entity. That is also the business, but the business is being conducted. If it is it, if it is for the real business purposes, then it is okay. 
+
+6:00
+If it is not the business purpose, if it is not for the purpose of any benefit to the corporate dator or for the purpose of the business of the company, then it is a fraud. That means that the intent is to keep that asset, keep that money, keep that property away from the creditors. That means we defrauding the creditors or for any fraudulent purposes. So this is section one. 
+
+6:24
+However, in this section one there is no kind of there is nothing like Twilight Zone, so but section. But then this particular section says one thing: that if it is seen, if it is proved that the business of the corporator has been carried on with the intent to defraud the creditors, then any person who were knowingly parties to the to carry on the business in such manner shall be liable to make such contributions to the assets of the corporator as it deam fit. 
+
+
+## Section 661: How to pass order against any person
+6:59
+Now section 661 is only it is it is basically for any person. So the adjudicating authority can pass an order against any person and that may include promoters, that may include directors and that may includes even a CFO or CEO or any other person who actually has actually has known, has actually known and that it is being conducted fraudulently. 
+
+7:27
+Maybe a transfery where the money has actually gone there, where in Cas some assets have been transferred there those parties have also have to become because see the other party will also know that some money or some asset is getting transferred to me that and that to without any consideration that mean that particular part is also knowingly becoming party to this fraud. 
+
+7:48
+So, therefore, section 66, subsection one, where the order can be passed by the adjudicating authority and that can be against that can be against any person, including the promoters, directors, CFO, CEO or any other person even transfer. Now coming to section 66, subsection 2, where it is saying the adjudicating Authority can a it basically can pass an order and direct a director or a partner. 
+
+
+## LLP: Where to avoid commencement of insolvency resolution process
+8:25
+In the case of LLP, they shall be liable to such contribution to the assets of the corporate dator. but there are two conditions in these two conditions. If, before the insolvency commencement date, such or such director or partner knew, or ought to have known, that there was no reasonable Prospect of avoiding the commencement of corporate insolvency resolution process in respect of such corporate data, one that there should be a belief the director or the partner in case of LLP have this belief ought to have known that there is no reasonable prospects of avoiding cirp and such director or partner did not exercise due diligence in minimizing the potential loss to the creditors of the corporate data. 
+
+9:16
+Now when we say potential loss to the creditors, that means in case the mortgaged property, in case the property of the company where the rights of the creditors are already there. If that property is actually it's being misused and it is being transferred without any consideration, without any due diligence. Some transactions are happening. So with the credit is being extended without due diligence and that credit is not recoverable. Credit is being extented to fake parties. 
+
+9:46
+Material is being sold to fake parties. So that means that the material is going out of the company but the money is not recoverable. That means it the he did not exercise the due diligence in minimizing the potential loss. So this is where the order. this is where the order can only be passed only against the directors or Partners in case of LLP. 
+
+
+## Two separate sections of the ecip
+10:07
+So this is these are the two separate sections and there are two separate. Two separate kind of orders would be passed in these cases. My understanding, my understanding is that most of the transactions are overlapping, where the intent to defraud the creditors will also be found and also the direct s or the promoters would out to have believed that this company is going to go to ecip, so they actually will do some kind of transactions which are without any due diligence. 
+
+10:39
+So therefore, the application from under Section 66, subsection one, and application under Section 66, sub section 2, should be a combined application. I'm not suggesting that there should be two separate applications. however, if it is overlapping with the section 49, that also that also can go along, because in case we see section 49, that also so. 
+
+11:05
+The first of all the in section 49 also deliberation is that deliberately a transaction must happen, but in section 49 the one condition is that there are two. The two condition must be fulfilled in case we are trying to cover one that makes a gift to a person. 
+
+
+## Makes a gift to a person is not something, as we see in the income
+11:20
+Makes a gift to a person is not something, as we see in the income tax depart act that the gift has to be accepted by the other party makes a gift to a person that some property has been transferred to another person, but then without consideration that is a gift. 
+
+11:35
+In the case of section 66, it is not something which is gift, which is with a natural love and affection, which is normally seen in the income tax. Now, in this case again, the second condition is that there must be a in transaction of transfer of a property, transfer of a property at a price which is significantly lower than the price which otherwise this propert property or asset must have fetched. 
+
+12:01
+So these two conditions would be fulfilled. Then only section 49 comes, because that particular transfer, that particular gift, that particular was basically the intent was deliberately to defraud the creditors and also to keep to keep the asset of the company away. Now, in this section 49, what is the sentence written? 
+
+
+## How to make a claim against the corporate dator
+12:21
+It is written for keeping assets of the corporate dator beyond the reach of any person who is entitled to make a claim against the corporate dator. Who is entitled to make a claim against the corpor is the Creditor. So they basically to keep the assets of the company away from the creditors or in order to adversely affect the interest of such person. Basically, the creditor's interest would be adversely impacted. 
+
+12:43
+So section 49 and 66. Only difference is that while we are applying section 49, there has to be a trans transfer of property to someone, transfer of asset, transfer of money that has to be transferred to another person, maybe with consider, without consideration, it will be considered as a gift, with consideration, it be considered as undervalue transaction. 
+
+13:02
+But one significant thing that out of our research came out, that section 67, which is following section 66 says that in case such findings are there. In case such findings are there, that there some order is passed under section one or section two and then in that case it is also possible. 
+
+
+## Under Section 661 or 662, if the contributories have a claim, then
+13:25
+It is also possible now for example, an under Section 661 or 662 has actually been passed and to my understanding like overlapping order for Section 49 and 66 is also passed. Then in that case if the contributories, maybe director, maybe related parties, maybe partners of an LLP, if there is an order to contribute on them, then in case they have some, they the company owes some money to them. 
+
+13:59
+In case the corpor dator owes some money to them and they have a claim on that company, then in that case there will be a. The court can also say that the there is a leon on that particular property. There is a leon on that particular property. 
+
+14:16
+That is something which is provided in section 67. So what I say that under Section 67 we in fact, Whenever there is a claim, Whenever there is a claim from any related party or any promoters and there is any amount payable to them in liquidation, the application can be filed before the adjudicating authority under Section 67 that such disbursement may be kept in Avance till the time the disposal of avoidance transaction is concluded. 
+
+
+## How to make a dispersed application for rated Pary
+14:50
+So that kind of application can be, that kind of application can be made, that the dispersement will not happen to rated Pary or dispersement will not happen to promoters or Partners. So that is what is provided in section 67. However, maybe an application would be required before the NC, before the order is passed under Section 661 or two. So this is also another significant finding. 
+
+15:16
+So now, in case anit, can we see go to the judgments or we should have some questions. I think we should go to the judgments, talk about those judgments, the questions that are here. I believe we can answer them through those judgments and also then take up the remaining ones later. 
+
+15:35
+So we see other than Anu Jan judgment, which probably many people know, because that's a combined judgment on avoidance transaction, where it has been basically various transactions are held like some of the parameters are defined, then it is also directed to the RPS and the Liquidator to file separate application because of the separate evidence is required and separate orders are required. So those kind of scenarios are already there. 
+
+
+## Judgment: Mismatch of stock, and that's what is there in the
+16:03
+But then there is Judgment, one judgment which is there the mismatch of stock, and that's what is there in the. The transaction in fact was like this. it was the. It was an honorable Supreme Court transaction, the I will just say the transaction was the mismatch in stock reported and inventory arising from it from a Time immediately proceeding an application under Section 10 of the IBC held to be fraudulent. 
+
+16:40
+Now this is a judgment from honorable Supreme Court on 25th of March 22 and the citation of the judgment is PAB pakan Swami Natan and another and others versus r ragavendra are ragavendran. The judgment is dated 25th of March 2022 and this judgment says then the in. 
+
+17:08
+In fact, in this case the some stock which was alleged to have been purchased or manufactured did not match with the sale made by the made and the inventory remaining by the with the corporate data. 
+
+
+## NT held that transactions are supposed to be fraudulent in under Section 66
+17:23
+In this case, the NT held that the transactions are supposed to be fraudulent in under Section 66 and then this was upheld by enat also, and the epex court, like the Supreme Court, also found that the conduct of the corporate dator was fraudulent in this case, although a brief judgment. But yes, it was also upheld by honorable Supreme Court. 
+
+17:51
+The judgments which are coming from enat and that those kind of judgments is like one judgment that I would say Mrs PL Pia and two others versus raati S ragunathan, who is the RP, who is the RP and this is the nclt and this is the NCL Chennai NCL Chennai. now in this case the transaction was the. 
+
+18:24
+When the forensic audit report was seen, it was found that the promoters of the corporate data withdrew money from the account of the bank account. However, the promoters contended that the money was withdrawn and the same can be treated only as loan and advances made in ordinary course of business. If the money is withdrawn from the company and the it is it is, it can be considered as loans and advances. 
+
+
+## NT held as fraudulent, NCL enat held that the in the absence of any
+18:51
+So the NT held as fraudulent, and NCL enat also held that the in the absence of any evidence. However, the enat said that in the absence of any evidence that the amount withdrawn for the applant was Advanced as a loan, the submissions made by the applant cannot be accepted, as it would be a BAL assertion only. so. Therefore, this transaction was considered as upheld. 
+
+19:18
+So my understanding about this is about the loans and advances, because there are many such cases. Even we have filed many such cases where the loans have loans and advances have been given to other entities and I as a chartered accountant. We know that there is a market for fake entries, so then you can actually give them check and the cash can come back. 
+
+19:44
+But apparently evidences are not there that there has been any cash transaction. However, in the in the books of account, it is always shown that the money is recoverable from ABC. Now, in case the auditors report that the ABC, whatever ABC companies are those companies kyc are not available. Those companies seems to be fraudulent. those companies have been reported by any Authority as the fake companies. 
+
+
+## Section 66 of Section 2: What Is It Mean to Know About the kyc
+20:13
+Therefore, in that case we can definitely say that the director or the partners of the company are actually giving some kind of loans to those companies, those parties there where the kyc is also not there. So that is of section 66 of section two would be covered. 
+
+20:31
+So, even if it is said it is a loans and advances, because in one of my order the bench says that if it is the sale of material and if the money is recoverable and the money is not being recovered, it is how it is possible that it is a fraud. So the like what we wanted to say that the stock was sold to parties, fake parties. 
+
+20:55
+Those fake parties addresses are not available, those fake parties kyc is not available and those fake parties who took the stock. They didn't pay back. They didn't pay any money back to us. So in that case, if the money is recoverable then it will not be a fraud. Definitely it can. It covers in the section 66 sub section 2, because the then the directors or the partners of the company they have not exercised due diligence. 
+
+
+## Loans and Loan Loans and Deposits for the purpose of any business of AAA insolv
+21:23
+They have given money to the parties who are not credit worthy. They have given they credit. They have given credit on sale of stock to those parties whose credit margin is doubtful, whose existence is doubtful, who are considered as fake or benami. 
+
+21:42
+So all this considerations should be considered while we say that the loans and giving loans and deposits are not are not fraud, but the loans and Loan loans and deposits for the purpose of any business of the company that is, which is a business transaction. Loans and businesses without any purpose, without any business of the company that is fraudulent, because that is having the intent of defrauding the creditors. 
+
+22:11
+So therefore, the loans and advances also should be considered as the transactions which are fraudulent. Now the another case is ashik Punam parut is weben vincet. The Liquidator, weben vincet, is an associate partner of AAA insolvency and this case was decided by encl chenai because the in this case the money was withdrawn from the corporate dor bank account in the name of commercial decision and using the same for personal benefits is held to be fraudulent in the nature. 
+
+
+## Ys merchandise International Private Limited judgment vs. Sunil Kumar Agarwal
+22:56
+Now, the promoters in fact R certain amount from the bank and invested the same in another company to obtain shares in the personal capacity. But that is of course. Apparently it is a fraudulent transaction. See this knows the siphoning of the money and the keeping the funds away from the creditors, impacting the interest of the Creditor. So that is something which is fraudulent. 
+
+23:17
+So this enl also says that it is a it is a fraudulent transaction because this was for the personal benefit of the promoters. So the next anlat judgment that I would be voting is in the case of Rand Singh toor versus Sunil Kumar Agarwal, the Liquidator of Ys merchandise International Private limited. Rand Singh to versus Sunil Kumar Agarwal, Liquidator Ys merchandise International Private limited. 
+
+23:45
+The judgment is dated 12th of December 2022. In this case, in this case, excessive commission was paid to a related party to let the corpor function in the changed business environment does not attract section 66. Now. In this case, what happened? This came from the principal bench, New Deli. 
+
+
+## Corporate letter increased commission pable to a related party and further transferred assets at a
+24:06
+The corporate letter increased the commission pable to a related party from 5% to 20% and further transferred assets at a loss in comparison to its Book value just before filing the application under Section 10. NT held that the transaction is fraudulent, however, and cl the principal bench held that this was done in the normal course of business to let the corporate data function. 
+
+24:33
+In the changed business environment, such an arrangement, even though with a related party, cannot be termed as preferential transaction, done to defraud the creditors. So this was the observation of enat in this case. So moving on to the next transaction, which is again anlat transaction, anlat report. This is in the case of TS Mur, the ex director versus Liquidator of helpline Hospitality private limited. 
+
+25:13
+The judgment is dated 18th of dece 18th of October 2022. So this is a unique case where the property was purchased in the name of the in the in the in the name of the in director. However, the loan was taken in the joint name of the director as well as the company, and when the default occurred, the entire claim came on the company. The property is in the name of the individual director. 
+
+
+## NT upheld that this is a fraudulent transaction.
+25:46
+This was held that this is a bami transaction. This is a fraudulent transaction and enet also upheld that set decision next the because since we are discussing various transactions where the nclt or andlet has held as fraudulent or not fraudulent, the total focus today is the fraudulent or not fraudulent. then the next transaction is the. 
+
+26:16
+It is a judgment of Deepak parasuram, the designated partner of in genuine ingenu advice limited versus Sri Pria Kumar RP of perfect International Fabricators private limited. This is a judgment from anlat and the date of the judgment is 20,21st September 2021, and this particular judgment was also upheld by Supreme Court on 13th of November 2021. The Judgment was like. 
+
+26:50
+The transaction was like this: the substantial unjustified transfers were made to the directors of the corporate director in the name of ordinary cour of business. NT held that the transfer of funds of the corporate director for a forent purpose and further directed the directors to contribute the necessary amount back to the corporate data. It was basically substantial unjustified transfers. now. In this case, the encl also upheld and. 
+
+
+## judgment bindra Agro Private Limited versus sh vaman Rice Mill Private Limited
+27:19
+The observed that the substantial unjustified transaction have been made to the directors of the copy and further help that the same would constitute forent section 66. So these are the judgments from NCL, a means appet Authority, and now we are moving to the judgments, which are many transactions that we would report, and these are why we are reporting in very, very brief manner that it is basically we have to cover the various transactions so that practically we know what transaction actually would be considered as fraudulent and what not. 
+
+27:53
+Now we go to the nclt deli judgment bindra Agro private Limited versus sh vaman Rice Mill private limited. The date of the judgment is 24th of March 2021. in this case, the planted Machinery sold below their Book value right before the initiation of CP by way of book entries, where no physical transfer of such assets took place. This in this case it was also considered as fraudulent fixed assets transfer. 
+
+28:21
+The fixed assets were transferred and it was transferred only by book entries. Therefore, and it the it was well awared by the promoters that the application has been filed and it is pending initiation of CP. Therefore, deliberately, this particular transaction was entered into. It was undervalued to defraud the creditors by keeping the fixed assets away from the reach of the creditors. 
+
+
+## Argus Global Logistics Private Limited versus nitin baral vs.
+28:45
+Basically, it should be a transaction under Section 49, but somehow it has been adjusted as 66. the next transaction is in the case of Argus Global Logistics private limited versus nitin baral, and this transaction is dated 21st of January 2022. Namesake resignation from the directorship and baseless writing of or receivables in the corporator held to be fraudulent under Section 66. So in this case what happened is the promoter shareholders of the company transferred their entire shareholding to a related party entity and held the same retransferred at a later and had the same retransferred at a later point in time during which period the shareholders resigned from the directorship of the cooperator whil remaining in the control of the bank account of the CD. 
+
+29:36
+In this case, the NT Delhi found that the conduct of the affair was fraudulent and therefore it was observed that the debt are written off without any basis during such period. So one is the writing of the receivables. Now writing off of receivables is very common. 
+
+29:55
+In the case of writing of now, the judgments have actually been seen that in case there is a genuine sale and the money is not received for any reason, but the efforts were made and the parties were genuine, then it is not a fraud. 
+
+
+## Money received by promoters for selling corporate data held to be fraudulent
+30:16
+However, in case the property of the company is transferred to fake parties and then the sold to fake parties and then that money is not recoverable back, that means that it was actually sold or the money was transferred to dumi or those companies where there is no credit worthiness. Therefore, the amount would be considered as trans the fraudulent. 
+
+30:48
+Another order that we could see is the AC Distributing Company private limited versus webtech Packaging India private limited. The judgement is from nclt Delhi and in this case the cash received by the promoters for selling property of corporate data held to be fraudulent under Section 66. So in this case it was somehow. 
+
+31:11
+It was somehow established only that only partial consideration arising from the sale of the CD's property was disclosed and reflected in its accounts, and the remaining money from such sale was were received in cash by the director of the Cor data. This was considered as fraudulent and this is, but then, according to my understanding, there has to be some evidence that the money was received in cash. 
+
+
+## NT Chennai vs GV ravikumar vs K kupu Sw
+31:37
+So which is the detail that we have not seen? Another transaction is GV ravikumar versus the other order is GV Ravi Kumar versus K kupu Swami. This is NT Chennai and the transaction is transferring of money by director after Declaration of moratorium passed in an application under Section 10 of the Court, held to be fraudulent and amendable to section 66 of the court. now the money is transferred or withdrawn after moratorium. 
+
+32:09
+After moratorium the money is withdrawn. So the my understanding is that this actually is contravention of moratorium and the contravention of moratorium is not covered under Section 66. But however, this judgment say is amenable to section 66 and the recovery order was passed. This was also a section 10 application. The recovery order was passed against the promoters because this SP the money out of the account of the popular. 
+
+32:42
+After the moratorium, the next transaction is Ashok Singh Raja versus hbn Foods limited. This is again from nclt New Delhi. The substantial cash withdrawals and unsubstantiated transfers to various entities held to be fraudulent under Section 66. so the promoters of the company made substantial cash withdrawals and unsubstantiated transfers to various companies without any basis or the benefit of the corporate data eled to be 66. I have said that any property of the company. 
+
+
+## NT Kolkata: What is the difference between property and property
+33:19
+When I say property, that means the property is already defined money, asset, stock. Everything is considered property. If it is transer to someone, maybe against an invoice or any loan or advances, and then that is not a normal the. That is not an ordinary business of the company, but that is not for the business of the company. That actually would mean that it is a fraudulent transaction. 
+
+33:45
+And then we go to another order, which is State Bank of India versus madala drinks private limited is NT Kolkata. in this case the promoters actually have shown and filed an F that there was a factory. There was a fire in the factory and also there was a theft in the factory. Therefore all the assets were spoiled. 
+
+34:08
+Therefore they actually said that the stock inventory plant and machinery and other items lying in the factory except land and building, everything actually was basically either it was stolen or it was kind of destroyed in the fire. So the NT in this case held that the is that the we have seen the dubious conduct of the promoters and the story of fire is not supported by evidences and there is no insurance. 
+
+
+## What does it mean to defend the application by RP?
+34:35
+That also shows a clear lack of due diligence. Therefore, the tribunal considered that there is a probability and plausibility of Defense. it is only a defense only to reject the application by RP. So therefore it was held to be a fraudulent transaction. So what do you say anit? Should we take up some questions now or we should take some questions now? I think we have gone through a lot of judgments. 
+
+35:02
+So animes kelal JM, starting from the recent questions and image K, is asking that in some cases the directors who had previously resigned their dues have been shown as loan to the company. Will that be considered fraudulent? Unless and until I believe there is any money that is going to them in priority over maybe other dues that might be considered a fraud activity, but showing their dues as loans to the company. 
+
+35:30
+Not sure if that can be said to be fraudulent. What is your opinion? so see, like what I say, that one that section 67 is very important. 67 says that if there is there are dues of promoters or directors or any other person against whom an application is against whom when order is passed under Section 661 or two, then the section 67 says then the court can direct that all this money which is due to promoters or related parties that will be considered as contribution from the from them to the corporate data and if there is any asset that also asset would also be the Le or charge on the asset would be also considered. 
+
+
+## Anim is asking if the promoters resigned, directors resigned and
+36:23
+So using section 66, one that we would say that this, first of all, the two question that anim is asking, one that the promoters resigned, directors resigned and whatever money is payable to them is shown as loan to the company. That mean they also filed their claim in the company. So that means that the like no, if the liquidation value is due to them, that mean there will be dispersement to them. 
+
+36:50
+So if there will be dispersement to them, so that can be kept under Leon under Section 67. Now this transaction as such, resigning from the position of directors. This cannot be considered as the fraudulent transaction because see the creditors of the company are not impacted. they have resigned from the company and their money is now shown as loan to the company. 
+
+37:15
+Whatever money they had actually paid to the company they have that is now shown as loan to the company. This is also not a fraudulent transaction. However, when we file an application and try to find out any other person who actually is knowingly a party to this fraudulent transaction, then in that case we should also cover those promoters who are the shareholders but they resigned from the directorship because they are the. 
+
+
+## Overvaluation and advances are given and where we?
+37:44
+They are the people who are having the ultimate control of the company with them. So they should be also they should also be made as respondents in all the fraudulent transactions because they somehow intentionally they resigned from the company to avoid such actions against them. okay. So next we have, we have we have Mr manluk. 
+
+38:23
+He's asking whether advances granted to entities based on overvaluations whether where relatives of managerial person manag will be treated as fraud transactions. No, I think overvaluation and advances are two different things. So here we are seeing that advances are given and where we? 
+
+38:43
+I think the idea is that the advances are given, which is the advances are beyond the value of the assets or whatever the objective for which the advances are given, and it is given to relatives of the managerial personel. So I think it can be easily covered into fraudulent transaction. 
+
+
+## Giving an Advance to any other person is not fraudulent
+39:00
+No, as I said that giving an advance to any other person it cannot be considered as fraudulent, we have to add one that this Advance is not for the business of the company. there is no business which is actually being conducted by just giving this Advance. Second, we actually have to say that this Advance is not now recoverable. It is not. It is not coming back, and these are the efforts made. 
+
+39:26
+So then in that case we can say that the when the advance was given, this company's net worth was zero or negative. Then we can say that this company, where the advance was given it was given without due diligence and it was given without due care so that it gets covered under Section 66 subsection 2. But simply saying that Advance is given. That is not fraudulent. 
+
+39:48
+Simply saying that this material was sold and the money is not recoverable. That is not a fraud. we have to show that the other party to whom the material was sold or to whom the advance was sold one that it was not a business transaction. It was not related to the business of the CD. The due deligence was not conducted. Unnecessary credit was extended to party who doesn't have any credit worthiness. 
+
+
+## What will be look back period? Original date of CRP initiation
+40:13
+Those has to be proved okay. Then we have a question that if CRP stayed by encl and time laps for more than 2 years and finally stays withdrawn, what will be look back period? Original date of CRP initiation? Original date of CP will continue. Yes, then we have a question that the Twilight Zone has not been defined anywhere. however, the look back period has been defined. 
+
+40:40
+Given that section 66 transactions may be concealed beyond the look back period should the RP Liquidator review Beyond two years? Of course, with 66 we go back to 5 years, 7 years, even 10 years in some cases, depending on when the company was last operational or when did we have did it had some operation. We go back in time. So that's important. But see when we see the section 66 section, subsection one. 
+
+41:06
+It has got nothing to do with the Twilight Zone. Section 66 subsection one is simply saying that the transactions business of the cor dator was being conducted in a fraudulent manner or to defraud the creditors. Without any kind of Twilight. so section 66, subsection 2, which talks about due diligence, due care, protection of the assets. 
+
+
+## How to Know About Twilight Zone
+41:33
+That actually is giving some more responsibility to the directors of the company and to the partners of an LLP that in case you ought to have known that there are no reasonable, there is no reasonable possibilities of avoiding CP initiation, then you need to be more careful. You need to be more diligent. So section 66 subsection 2 is related to Twilight Zone. 
+
+42:00
+Section 66 subsection 1 is not related to Twilight Zone in case of a transaction which happened four years back, when the company accounts was completely okay. Five years back, for six years back, when there was no NPA, when there was no default and the company was growing in that period. if a transaction is conducted without due diligence. Probably that will not be covered under SE 66, subsection 2. This is what I'm trying to say. 
+
+42:30
+Section 66 subsection one is different, but the twilight zone is only when out to have known. So Twilight is not defined. But otherwise in case of in if we see internationally, when we say this word is very popular, that they see Twilight Zone as a dictionary meaning is that when we know that sun has already set for the day but there is still some light, so everyone is very sure that now, after this, they will be dark. 
+
+
+## What is the period when you know that it has to be dark now, after that,
+43:00
+And then that is the period when you know that it has to be dark now, after that, in that is the period which is called Twilight. On that, when you know that it will be now dark, absolute dark, after some time, then whatever the transaction you do in that particular period, th those are the transaction which are called Twilight Zone. So that can be that can be from the day the account becomes NPA. 
+
+43:26
+That can be day when there is any application is filed. That can be the day when the surfacey action was taken. That is the date when the company actually would say that. Now it is very difficult to save the company from the clutches of the creditors. Then there's a question that whether an action can be taken against independent directors or professional directors who were directors and frauding transactions took place. 
+
+43:55
+To my understanding, independent directors and professional directors can be held liable only with respect to the compliances that they were supposed to ensure in the board meetings. They are not responsible Beyond those compliances. What is your view? it is to be seen whether the independent directors had the knowledge of these fraudulent transactions or fraudulent businesses, or it is to be seen whether any these transaction had actually got the approval of the board. 
+
+
+## if the board reported a puff puffet transaction, then they will be held responsible
+44:28
+It is to be seen whether these transaction were reported to the board or not. In case it is reported to the board, in case the transactions have aced the approval of the board, then of course the independent directors are also responsible, because they are also. They are also because section 66 subsection one says that any person who has the knowledge of such transactions would be held responsible. 
+
+44:51
+So we actually have to see whether they actually were there any circumstances that they had the knowledge of this transaction or these transactions. Then they will be held responsible. that only under Section 66, subsection 1 and also in section 66, subsection 2, in case they have not, they have not taken care of the due diligence of a particular transaction which was approved by the board. 
+
+45:23
+Then we are saying that can the expected realization from puff puffet transactions or puffet suits be sold in private sale? As nrra the nrra needs stakeholders consultation and it cannot be sold without stakeholders consultation committee's approval. Secondly, nrra also has to get the approval of adjudicating authority. 
+
+
+## Failed Auction Condition for Private Sale Removed
+45:53
+So two approvals are required: one stakeholders consultation committee and the second is NT, so it can be through option or it can be through private Trey because see the amendment that has seen that we have seen the amendment on 12th of February 2024. in this case, the private sale is possible with the approval of the stakeholders, and now even the failed auction condition is also removed. 
+
+46:18
+Failed auction one this one condition was for private sale, that there should be a failed auction and the private sale should be more than the reserve price of a failed option. So, though, that condition has been removed. Now the private sale is possible and it is possible with the permission of stakeholders and also with the permission of NCM right. 
+
+46:42
+Then, if the determination is made under Section 662 and if a board has 10 directors, how the contributions are to be made by each of them equally, that is not something which is covered. So when the adjudicating authority will pass an order, they will. It will depend upon the pleadings from the respondents. some respondents might say might say that I'm only having 4% share. Somebody say that I have more share. 
+
+
+## Write off of Advance given to long term suppliers
+47:11
+So it will be as per the directions of the adjudicating authority. While passing this order against, all the respondents would write off of a genuine long term supplier. Right back, I think, is what they mean. Long term suppliers would be considered as fraudin no effort has been made to recover such money because the suppliers are important and big to the company to maintain coord. 
+
+47:34
+I think we're talking about write off of long term of Advance given to long term suppliers. Yes, yes, no, not right off of a of a liabilities will be WR in back right back of a liability which is payable will not be any fraudulent intent. Yes, it cannot be. So it will. it has to be, I believe, Advance given to the suppliers. 
+
+47:55
+In case you write it off, then can you say that it is fraudulent because maybe you have given the advance, not booked the purchases from that I have said, when we write off a receivable, then it is not a fraud. What we have to see? 
+
+
+## Whether this party to whom the sale was made was a genuine party, whether the decision
+48:13
+Whether this party to whom the sale was made was a genuine party, whether the decision of the directors to extend credit was genuine or it was without due diligence, without due care. That is what to be seen. 
+
+48:29
+If it is without extension of such credit is without due diligence, without due care, it gets covered under Section 66, subsection 2. if it is otherwise transaction is happening with a fake party, with the with the dummy party, then it is covered under Section 661. Also right then we have a question from wi gup G that the glr Judgment of SC says that the action under Section 66 cannot be initiated against third party, whether a party with whom transactions are carried by CD can be considered as third party and such party cannot be proceeded with under Section 66. The ACT is very clear. 
+
+49:15
+Section 661 is different. Section 662 is different. Section 661 says any fraudulent transaction and any party who has the knowledge of such transaction can be proceeded against and can the order can be passed against them and they can be made as contributories to the assets of the company. 
+
+
+## Can all the puff applications be in separate applications before adjudicating
+49:32
+As this due, diligent due diligence is concerned, a lack of care negligence that is only against the directors and the part then anim is asking that in case in some cases where 43,66 are clubbed, can all the puff applications be in one application? I think there is requirement for these to be separate applications. 
+
+50:00
+These applications have to be in separate applications before the adjudicating yes, I think an Jan judgment which came in 2020 and before that I everyone filed a combined application. In that Anu like judgment. Probably it was February 2020. It was held by honorable Supreme Court that for Section 43 there are different kind of evidences are required. For section 45, different kind of evidences are required and for Section 66, different kind of pleadings are required. 
+
+50:33
+Therefore all these application should be made separately, but all those application we were earlier made by us. The qutes are passing the order. Nclt is passing order as a combined order for all section 43,45.50 and 66. Cash transactions which are part of a business practice can be made can be termed as fraudulent. 
+
+
+## Cash Transactions Are Missed by Banks
+50:58
+I think yes, again, if it is a regular process that can be justified from the past practice then we can't say it is fraudulent. But any cash which is collected by the company which has not been deposited of course it is missing. Yeah, I think that's a fraud that you can talk about. 
+
+51:13
+Yeah, certainly if a cash transaction is not reported in the books of account, the cash is not deposited in the books of account, then it is a fraud transaction. but at the same time, in case the business used to sell in cash and the cash is deposited in the accounts. 
+
+51:25
+I don't think that will make for any fraud application absolutely so in some Cas, in some transfers, if some transfers were made to third parties, related parties who are not part of the business, and subsequently they paid off more than whatever is transferred. So if the transaction is made and the money will came back then maximum somebody can say that this the interest which was being paid Banks. 
+
+
+## Business Promotion: What is the Business Promotion?
+51:50
+So this is there is a transaction to related parties, so that's a lost. But then in case there is a business intent, there is a business objective, then that also is acceptable. 
+
+52:01
+But in there, in case there is no business intent, there is no business Synergy, there is no agreement for any kind of business promotion, then that similar part, simple part of in loss of interest, can be considered as intentional defrauding the creditors of the company. Then Ravi G is asking: in case promoter pay some of the creditors who are more pressing but ignores other creditors and CRP commences within one year, will it be wrongful preference? 
+
+52:33
+So if the if the payment is being made for current dues or rather for the business to function, then I believe we can easily say that this was paid as part of the business proess business part of doing business. 
+
+
+## What is ordinary course of business?
+52:46
+But in case some old dues are being paid or maybe the dues were paid for the promoters, own companies or group companies or related part parties, that we can say is a preferential transaction as compared to the secured lenders that might have a might have the better preference. 
+
+53:06
+So in Cas see, when we discussed section 43 at large, maybe on our 95th episode, it was very clearly deliberated that the in section 43 the reason, pressing reason is not to be taken as an excuse, one that the payment has been made to an ancient creditor, an existing creditor, and that payment has actually made him as beneficial to as a compared to the other creditors, so pressing nature or a quot other than a court order, of course, but I think that is that has already been explained. 
+
+53:55
+So what is ordinary course of businesses? In case we are making purchases sales regularly, that is an ordinary course of business. I have got an order where this there are many Bankers, but One bank is unsecured and the interest is very high. So the company continued paying to that particular small Bank the monthly installments. Then the bench said that it is ordinary course of business. 
+
+
+## forensic audit standards for transaction Auditors
+54:25
+However, when we see the judgments for Section 43 from honorable Supreme Court, the Supreme Court says that any reason is not cannot be pleaded for Section 43 transactions. So we are filing an appeal against that order. So next question is from. It says whether a credit creditor is filing application under rule. Skip this forensic audit standards whether they apply to transaction Auditors. 
+
+55:04
+I think forensic audit standards which have been issued by the Institute are applicable on the members of IAI for U any assignment that they take up and transaction audit whether they apply or not. If somebody says that okay, chared accountant has done a transaction has not followed those standards, maybe there can be a possibility of any formar complaint. But then that's my understanding of these issues. 
+
+55:37
+I'm not sure if these standards themselves say that they are not mandatory. But directory no, I think the it is only the standards are saying because they are. They are not even naming this as a forensic audit standard. They are actually saying investigation, investigating accounting, forensic investigation, investigative Accounting Standards. Yeah, that's the name. Yeah. then I think I've taken care of all the questions. 
+
+
+## Can that be resisted by the promoters?
+56:11
+And again a question that if the transaction audit report is full of disclaimers and the application is filed based on that transaction audit report, can that be resisted by the promoters? So disclaimers which are mentioned in the transaction audit report? 
+
+56:28
+I think it is the duty of the RP to justify that those disclaimers with respect to pending information, lack of information is because the promoters themselves have not shared that information, because I think those are the disclaimers that will be of course there. 
+
+56:42
+Other than that if there are any general disclaimers which are not pointing out to lack of information or certain limitation for the transaction auditor to work on the matter or on work on the Mandate given to him, then those disclaimers should not be given by the transaction auditor or not be accepted in the report by the RP. 
+
+
+## RP must have documents saying or talking about how he tried to get those documents from the
+57:00
+But if any disclaimer is on basis of pending information or lack of information, RP must have documents with him saying or talking about how he tried to get those documents from the promoters but they themselves didn't share that example. in case we say that a books of accounts are not available with the RP and the books of accounts have not been given by the promoters. 
+
+57:22
+Now in that case, the transaction auditor will write that when I did the audit I was not given access to the books of accounts and therefore my observations are based on, let's say, the bank statements provided to me, but that disclaimer the RP will have to say or justify that he asked for the books of accounts and it was not provided to him by the management. 
+
+57:43
+So see presently the respondents are saying first of all that if there is an applicant in the court, the court should consider all the applicant on similar footing. The RP or the Liquidator should not be given any additional advantage, that if he is not able to provide substantial documents again see in favor of the allegation that he's putting, then the application should be rejected, and the courts are also taking this opinion because the courts are considering them as an independent. They are not considering them as further investigating agency. 
+
+
+## Court is considering that if the RP was not getting information, then it is our duty
+58:22
+They are not considering that if the RP was not getting information or the RP was not provided information, then it is our duty to get information from the promoters or from the other Pary that court is not considering. Court is saying that if you don't have the documents, we actually will be giving our decision based on the documents, based on the evidences that you submit. 
+
+58:43
+Therefore the this is something that we are trying, that in some situation that in fact we have given the feedback also that the applications buet trans actions. Even if the information is limited, the information was not provided. The orders of section 19, subsection two were not complied with, then the benefit should not go to the contributories or benefit should not go to the like people who have done the wrongful trading. 
+
+59:18
+So that is what is the presently a missing link, because see the promoters are actually getting advice that not providing information is better option as of today. Right. So I think we are time and although there are many other judgments, but as I said, that these judgments are depending upon these how it has been CED and reported. 
+
+
+## Supreme Court judgments vs. judgments
+59:46
+So we should actually try to see the judgments which actually finally come from enat or a detailed judgment which may come from Supreme courtt. Then only we would be able to finally conclude what kind of transactions are fraudulent and what kind of transactions are not. thank you very much and it is always a pleasure and we always be happy when the audience is huge in number. thank you, thank you everyone, thank you. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

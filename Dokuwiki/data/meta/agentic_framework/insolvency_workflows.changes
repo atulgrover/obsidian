@@ -1,0 +1,38 @@
+1744292299	127.0.0.1	C	digital_agents:start		created - external edit		3976
+1744292560	49.43.99.95	E	digital_agents:start	admin			70
+1744366030	49.43.99.95	E	digital_agents:start	admin			-449
+1744433688	127.0.0.1	D	insolvency_agents:start		removed - external edit (Unknown date)		0
+1744433689	49.43.99.208	C	insolvency_agents:start	admin	↷ Page moved from digital_agents:start to insolvency_agents:start		3597
+1744434308	49.43.99.208	E	insolvency_agents:start	admin			3
+1744434371	49.43.99.208	e	insolvency_agents:start	admin	↷ Links adapted because of a move operation		3
+1744434523	49.43.99.208	e	insolvency_agents:start	admin	↷ Links adapted because of a move operation		24
+1744467313	49.43.99.208	E	insolvency_agents:start	admin			-750
+1744523841	49.43.99.208	E	insolvency_agents:start	admin			4881
+1744524399	49.43.99.208	E	insolvency_agents:start	admin			-2743
+1744525904	49.43.99.208	E	insolvency_agents:start	admin			-4961
+1744558842	49.43.99.208	E	insolvency_agents:start	admin			312
+1744558905	49.43.99.208	E	insolvency_agents:start	admin			504
+1744558917	49.43.99.208	E	insolvency_agents:start	admin			4
+1744559059	49.43.99.208	E	insolvency_agents:start	admin			2790
+1744609753	49.43.99.208	E	insolvency_agents:start	admin			937
+1744609827	49.43.99.208	E	insolvency_agents:start	admin			884
+1744609842	49.43.99.208	E	insolvency_agents:start	admin			3
+1744609889	49.43.99.208	E	insolvency_agents:start	admin			1
+1744609905	49.43.99.208	E	insolvency_agents:start	admin			-4
+1744790621	49.43.99.208	E	insolvency_agents:start	admin			-4904
+1744790726	127.0.0.1	D	agentic_framework:resolution_pillars:03_insolvency_agents		removed - external edit (Unknown date)		0
+1744790727	49.43.99.208	C	agentic_framework:resolution_pillars:03_insolvency_agents	admin	↷ Page moved and renamed from insolvency_agents:start to agentic_framework:resolution_pillars:03_insolvency_agents		581
+1744791589	127.0.0.1	D	technologies:03_insolvency_agents		removed - external edit (Unknown date)		0
+1744791590	49.43.99.208	C	technologies:03_insolvency_agents	admin	↷ Page moved from agentic_framework:resolution_pillars:03_insolvency_agents to technologies:03_insolvency_agents		581
+1744792150	127.0.0.1	D	technologies:cms		removed - external edit (Unknown date)		0
+1744792151	49.43.99.208	C	technologies:cms	admin	↷ Page name changed from technologies:03_insolvency_agents to technologies:cms		581
+1744868374	127.0.0.1	D	agentic_framework:case_monitoring		removed - external edit (Unknown date)		0
+1744868375	49.43.99.16	C	agentic_framework:case_monitoring	admin	↷ Page moved and renamed from technologies:cms to agentic_framework:case_monitoring		581
+1744874714	49.43.99.16	E	agentic_framework:case_monitoring	admin			38
+1744874731	127.0.0.1	D	agentic_framework:insolvency_professionals		removed - external edit (Unknown date)		0
+1744874732	49.43.99.16	C	agentic_framework:insolvency_professionals	admin	↷ Page name changed from agentic_framework:case_monitoring to agentic_framework:insolvency_professionals		619
+1745293603	127.0.0.1	D	agentic_framework:process_monitoring		removed - external edit (Unknown date)		0
+1745293604	49.43.99.16	C	agentic_framework:process_monitoring	admin	↷ Page name changed from agentic_framework:insolvency_professionals to agentic_framework:process_monitoring		619
+1745293829	127.0.0.1	D	agentic_framework:insolvency_workflows		removed - external edit (Unknown date)		0
+1745293830	49.43.99.16	C	agentic_framework:insolvency_workflows	admin	↷ Page name changed from agentic_framework:process_monitoring to agentic_framework:insolvency_workflows		619
+1745489859	49.43.99.16	D	agentic_framework:insolvency_workflows	admin	removed		-619

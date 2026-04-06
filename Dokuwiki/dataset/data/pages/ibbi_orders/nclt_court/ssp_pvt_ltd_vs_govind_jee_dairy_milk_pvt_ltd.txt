@@ -1,0 +1,131 @@
+<html>
+<div>
+	<h1>
+		Date of default can only be calculated when the invoice becomes due and payable and part payment made after the expiry of original period of three years from the date of last invoice cannot be considered an acknowledgment for extension of limitation period &ndash; M/s. SSP Pvt. Ltd. Vs. M/s. Govind Jee Dairy Milk Pvt. Ltd. &ndash; NCLT New Delhi Bench Court-V
+	</h1>
+	<div>
+		April 10, 2023
+	</div>
+	<p>
+		The contention of the applicant that the present application is within limitation on account of part payment of Rs.20,00,000/- through RTGS on 16.08.2021 from the Corporate Debtor towards the first installment of the Settlement Agreement dated 13.08.2021 cannot be accepted as the same was made much after the expiry of original period of three years of limitation falling on 29.10.2017 ( i.e., three years from the date of last invoice). From the records, it is evident that last invoice was raised on 29.10.2014 and therefore, the original limitation expired on 29.10.2017. It is seen from record that part payments were made between 30.01.2013 to 29.03.2014 by virtue of which the limitation could not have extended beyond the original date of limitation being 29.10.2017. The next payment was made on 14.02.2018 i.e., after the expiry of original limitation of three years, which in the instant case ended on 29.10.2017. During the period from 30.03.2014 to 13.02.2018 neither any part payment was made by the Corporate Debtor nor any document evidencing the acknowledgement of debt by Corporate Debtor is placed on record. Further, there is a distinction between acknowledgment under Section 18 of the Limitation Act, 1963 and a promise to pay a time barred debt. Undoubtedly, the above referred settlement agreement dated 13.08.2021 as relied upon by the Applicant is a valid contract wherein the Corporate Debtor had in writing promised to pay the debt which is time barred. However, such a promise as recorded in settlement agreement dated 13.08.2021 may constitute novation and can form the basis of a suit independent of the original operational debt but the remedy under Section 9 of the Code, 2016 is barred by law of limitation.
+	</p>
+</div>
+<div>
+	<div>
+		<div>
+			<div>
+				<div>
+					<p>
+						<strong>
+							 I. Case Reference
+						</strong>
+					</p>
+					Case Citation:(2023) 131 NCLTCase Name:M/s. SSP Pvt. Ltd. Vs. M/s. Govind Jee Dairy Milk Pvt. Ltd.Operational Creditor:M/s. SSP Pvt. Ltd.Corporate Debtor:M/s. Govind Jee Dairy Milk Pvt. Ltd.Application/Appeal No.:Company Petition No. (IB)-532(ND)/2022Judgment Date:28-Mar-23Court/Bench:NCLT New Delhi Bench Court-VMember (Judicial):Shri Ashok Kumar BhardwajMember (Technical):Dr. Binod Kumar SinhaCase Status:Upheld by NCLAT, reported at&nbsp;(2023) 449 NCLAT
+					<p>
+						<strong>
+							 II. Brief about the decision
+						</strong>
+					</p>
+					<p>
+						<em>
+							<strong>
+								 Facts of the case
+							</strong>
+						</em>
+					</p>
+					<ul>
+						<li>
+							The instant company application is filed on behalf of M/s. SSP Private Limited (applicant), under Section 9 of the Insolvency and Bankruptcy Code, 2016 for initiating the CIRP against M/s. Govind Jee Dairy Milk Private Limited on the ground that the Corporate Debtor committed a default in payment of Rs. 2,48,36,383.56/- which includes Principal amount of Rs.1,42,00,000/- and interest of Rs.1,06,36,383.56/- calculated from 01.11.2014 to 27.04.2022.
+						</li>
+						<li>
+							The Purchase Order dated 30.01.2013, the Applicant had raised 28 invoices aggregating Rs.12,07,40,000/- during the period of 07.08.2013 to 29.10.2014 and the Applicant had received last four payments amounting Rs.51,30,000/-, Rs.10,00,000/-, Rs.5,00,000/- and Rs.20,00,000/- through R.T.G.S on 29.03.2014, 14.02.2018, 21.12.2018 and
+							<strong>
+								 16.08.2021
+							</strong>
+							 respectively. The Applicant in application had mentioned that default has occurred on several dates and the last default has occurred on
+							<strong>
+								 16.08.2021
+							</strong>
+							 when only part payment was made and thereafter the default occurred on 21.12.2021, 24.12.2021, 15.01.2022 and 09.02.2022.
+						</li>
+					</ul>
+					<p>
+						<em>
+							<strong>
+								 Decision of the Adjudicating Authority
+							</strong>
+						</em>
+					</p>
+					<ul>
+						<li>
+							Default is defined in Section 3(12) of the Code, 2016 in very wide terms as meaning non-payment of a debt, once it becomes due and payable, which includes non-payment of even part thereof or an instalment amount. Accordingly, the date of default can only be calculated when the invoice becomes due and payable.
+							<strong>
+								 (p15)
+							</strong>
+						</li>
+						<li>
+							The Hon‟ble Supreme Court in
+							<em>
+								 B.K. Educational Services Private Limited Vs. Parag Gupta and Associates&nbsp;[2018] 32 SC
+							</em>
+							 had clarified that the period of limitation for filing applications for initiation of insolvency proceedings would be three years from the date of default, with Article 137 of the Limitation Act being applicable in case of Applications.&nbsp;However, it is also trite now that an application under Section 9 of the Code, 2016 would not be barred by limitation, on the ground that it had been filed beyond a period of three years from the date of default when the debt became due, if there were an acknowledgement of the debt or part payment by the Corporate Debtor before expiry of the period of limitation of three years, in which&nbsp;case the period of limitation would get extended by a further period of three&nbsp;years as envisaged under Section 18 of the Limitation Act, 1963 or under Section 19 of the Limitation Act, 1963 respectively. It is pertinent to note that the effect and operation of Section 18 of the Limitation Act, 1963 or Section 19 of the Limitation Act, 1963 is not to revive a debt, the recovery of which is time barred as per the Limitation Act, but only to extend an existing period of limitation.
+							<strong>
+								 (p16-17)
+							</strong>
+						</li>
+						<li>
+							The contention of the applicant that the present application is within limitation on account of part payment of Rs.20,00,000/- through RTGS on
+							<strong>
+								 16.08.2021
+							</strong>
+							 from the Corporate Debtor towards the first installment of the Settlement Agreement dated 13.08.2021 cannot be accepted as the same was made much after the expiry of original period of three years of limitation falling on 29.10.2017 ( i.e., three years from the date of last invoice). From the records, it is evident that last invoice was raised on 29.10.2014 and therefore, the original limitation expired on 29.10.2017. It is seen from record that part payments were made between 30.01.2013 to 29.03.2014 by virtue of which the limitation could not have extended beyond the original date of limitation being 29.10.2017. The next payment was made on 14.02.2018 i.e., after the expiry of original limitation of three years, which in the instant case ended on 29.10.2017. During the period from 30.03.2014 to 13.02.2018 neither any part payment was made by the Corporate Debtor nor any document evidencing the acknowledgement of debt by Corporate Debtor is placed on record.
+							<strong>
+								 (p18)
+							</strong>
+						</li>
+						<li>
+							Further, the applicant has not produced any other documents to place on record to show that the part -payment was made within a period of three years of the default by the Corporate Debtor towards the repayment of the Operational debt due pursuant to invoices raised from 07.08.2013 to 29.10.2014. Moreover, it is observed that present application (IB/532(ND)/2022) under Section 9 of the Code, 2016 was filed on 09.06.2022 after a period of more than three years from the cause of action/default in the payment of the Operational debt.
+							<strong>
+								 (p19)
+							</strong>
+						</li>
+						<li>
+							As regards the contention of the Applicant that there is a continuous acknowledgement of debt and part payments being made at continuous intervals from 2015 to 2021,it is necessary to refer the judgment of Hon&rsquo;ble Supreme Court in
+							<em>
+								 Dena Bank (now Bank of Baroda) versus C. Shivakumar Reddy and Anr.&nbsp;(2021) 69 SC
+							</em>
+							<strong>
+								 (p20)
+							</strong>
+						</li>
+						<li>
+							In so far as Section 18 of the Limitation Act 1963 pertaining to the effect of acknowledgement in writing under Limitation Act is concerned, it is to be taken note of that an acknowledgement of liability must be in writing and also to be
+							<br />
+							 signed by a party against whom the property or right is claimed and that too, the same must be within the Limitation period. It cannot be gainsaid that an acknowledgement given after the expiry of the usual period is not sufficient to keep the &lsquo;debt&rsquo; alive. If a claim is barred, the fact that there was a subsequent acknowledgement of liability will by no means resuscitate a barred claim because of the reason that in any Law, there can only be an acknowledgement of an existing / subsisting liability.
+							<strong>
+								 (p21)
+							</strong>
+						</li>
+						<li>
+							Further, there is a distinction between acknowledgment under Section 18 of the Limitation Act, 1963 and a promise to pay a time barred debt. Undoubtedly, the above referred settlement agreement dated 13.08.2021 as relied upon by the Applicant is a valid contract wherein the Corporate Debtor had in writing promised to pay the debt which is time barred. However, such a promise as recorded in settlement agreement dated 13.08.2021 may constitute novation&nbsp;and can form the basis of a suit independent of the original operational debt but&nbsp;the remedy under Section 9 of the Code, 2016 is barred by law of limitation.
+							<strong>
+								 (p22)
+							</strong>
+						</li>
+						<li>
+							As a consequence to our analysis to the facts of the present case and the judgments relied upon, we are of the considered view that the present application filed under Section 9 of the Code, 2016 is barred by the law of limitation. Accordingly, the instant application filed under Section 9 of the Code, 2016 bearing I.B./532(ND)/2022 stands
+							<strong>
+								 dismissed
+							</strong>
+							 . No orders to costs.
+							<strong>
+								 (p23)
+							</strong>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</html>

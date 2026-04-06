@@ -1,0 +1,182 @@
+====== Mail ======
+<code html>
+<style>
+  main.site-main {
+    box-sizing: border-box;
+    color: rgb(101, 101, 101);
+    display: block;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    unicode-bidi: isolate;
+  }
+
+  main.site-main .center {
+    text-align: center;
+  }
+
+  main.site-main .header {
+    margin-bottom: 64px;
+  }
+
+  main.site-main img {
+    max-height: 256px;
+    max-width: 256px;
+  }
+
+  main.site-main h1, main.site-main h2 {
+    box-sizing: border-box;
+    color: rgb(48, 48, 48);
+    display: block;
+    font-family: Montserrat, sans-serif;
+    margin: 0 0 20px 0;
+    padding: 0;
+    text-align: left;
+    overflow-wrap: break-word;
+    unicode-bidi: isolate;
+  }
+
+  main.site-main h1 {
+    font-size: 32px;
+    line-height: 38.4px;
+  }
+
+  main.site-main h2 {
+    font-size: 24px;
+    line-height: 31.2px;
+  }
+
+  main.site-main hr {
+    background-color: rgb(245, 245, 245);
+    height: 5px;
+    margin: 8px 0 20px;
+    box-sizing: border-box;
+    border: none;
+  }
+
+  main.site-main .level1, main.site-main .level2, main.site-main .table {
+    box-sizing: border-box;
+    color: rgb(101, 101, 101);
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    display: block;
+    margin: 0;
+    padding: 0;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-size-adjust: 100%;
+    unicode-bidi: isolate;
+  }
+
+  main.site-main .table {
+    overflow-x: auto;
+    margin-bottom: 20px;
+  }
+
+  main.site-main table {
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+    border-collapse: separate;
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  main.site-main table th, main.site-main table td {
+    padding: 10px;
+    border-bottom: 1px solid rgb(229, 229, 229);
+    box-sizing: border-box;
+    text-align: left;
+  }
+
+  main.site-main table th {
+    font-weight: 700;
+    background-color: rgb(229, 229, 229);
+  }
+</style>
+<main class="site-main group" role="main">
+  <div class="center header">
+    <img src="https://laswitchtech.com/_media/logo.png" alt="logo">
+    <h1 class="center">LaswitchTech</h1>
+  </div>
+  <h1>Ticket - @@ticketid@@ - @@priority@@ - @@subject@@</h1>
+  <div class="level1"><hr></div>
+  <h2>Ticket Information</h2>
+  <div class="level2">
+    <div class="table sectionedit1">
+      <table class="inline">
+        <tbody>
+          <tr class="row0">
+            <th class="col0"> ID </th><td class="col1"> @@ticketid@@ </td><th class="col2"> Created </th><td class="col3"> @@created@@ </td>
+          </tr>
+          <tr class="row1">
+            <th class="col0"> Priority </th><td class="col1" colspan="2"> @@priority@@ </td><td class="col3"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <h2>Contact Information</h2>
+  <div class="level2">
+    <div class="table sectionedit6">
+      <table class="inline">
+        <tbody>
+          <tr class="row0">
+            <th class="col0"> Name </th><td class="col1"> @@full_name@@ </td>
+          </tr>
+          <tr class="row1">
+            <th class="col0"> Email </th><td class="col1"> @@email@@ </td>
+          </tr>
+          <tr class="row2">
+            <th class="col0"> Phone Number </th><td class="col1"> @@phone|@@ </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <h2>Issue</h2>
+  <div class="level2">
+    <div class="table sectionedit10">
+      <table class="inline">
+        <tbody>
+          <tr class="row0">
+            <th class="col0"> Subject </th><td class="col1"> @@subject@@ </td>
+          </tr>
+          <tr class="row1">
+            <td class="col1" colspan="2"> @@description@@ </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</main>
+</code>
+
+<code text>
+LaswitchTech
+
+Ticket - @@ticketid@@ - @@priority@@
+------------------------------------------------------------
+Ticket Information
+------------------------------------------------------------
+ID: @@ticketid@@    Created: @@created@@
+Priority: @@priority@@
+
+------------------------------------------------------------
+Contact Information
+------------------------------------------------------------
+Name: @@full_name@@
+Email: @@email@@
+Phone Number: @@phone|@@
+
+------------------------------------------------------------
+Issue
+------------------------------------------------------------
+Subject: @@subject@@
+Description: @@description@@
+</code>

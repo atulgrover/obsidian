@@ -1,0 +1,7 @@
+**Default Prediction Agent**
+
+The Default Prediction Agent uses predictive analytics to assess the likelihood of post-settlement or post-resolution default. It analyzes financial health indicators, payment behavior, market trends, and historical data from similar cases to forecast risk levels. This early-warning mechanism helps professionals proactively manage and mitigate emerging default risks.
+
+By continuously learning from data—such as missed deadlines, liquidity patterns, and macroeconomic indicators—it refines its predictive accuracy over time. It assigns risk scores to each obligor or settlement, helping stakeholders prioritize monitoring and intervention efforts.
+
+The agent’s predictive insights enable the insolvency professional to recommend preventive actions such as restructuring timelines, revising payment terms, or initiating legal recovery before default crystallizes. This makes it an invaluable tool for sustaining long-term resolution success.

@@ -1,0 +1,29 @@
+The Constitution of the Committee of Creditors (CoC) is a foundational and often litigious stage in the Corporate Insolvency Resolution Process (CIRP) that requires meticulous claims verification and precise calculation of voting shares. The sources confirm that Artificial Intelligence (AI) can be effectively applied here to automate the necessary mathematical and data aggregation tasks, thereby making CoC formation faster and less contentious.
+
+AI Agents in CoC Formation
+
+1. Creditor Identification Agent (Identify Financial Creditors)
+
+The primary input for CoC formation is the accurate identification and verification of creditors, particularly financial creditors who constitute the CoC. This process is inherently data-intensive and prone to human error.
+
+* Claims Collation and Extraction: The agent relies on AI’s ability to process and collate claims received from various sources, often in different formats. Using Natural Language Processing (NLP) and Optical Character Recognition (OCR), AI can extract claim amounts even from scanned documents (like PDFs) and structure this data cleanly.
+* Verification and Cross-referencing: This agent ensures that the data used for identification is accurate. AI can cross-verify claim amounts against NCL records and flag inconsistencies. This process requires determination (which AI handles efficiently), not judgment.
+* Dashboard Creation: Instead of being buried in paper, the Insolvency Professional (IP) receives a dashboard showing which claims are clean and which need scrutiny. This supports the RP in filing their preliminary reports and the first progress report with the NCLT.
+
+2. Voting Share Calculator (Compute Voting Shares)
+
+Once claims are admitted, the voting shares must be computed accurately to determine the relative influence of each financial creditor on the CoC, a process that is highly quantitative.
+
+* Automating Quantitative Analysis: AI can automate the calculations necessary for computing voting percentages. The difference between securing a 66 percent vote versus a 50 percent vote can be quickly and accurately simulated using basic software.
+* Scenario Simulation: The calculator allows the IP to simulate scenarios — for example, if a creditor’s claim is admitted, how will the voting percentages shift? This helps the IP understand the impact of admitting or disputing claims on the final voting structure.
+* Visualization: A visual dashboard of admitted versus disputed claims supported by an AI layer helps avoid litigation and aids in CoC constitution.
+
+3. Consent Tracker Agent (Secure 66 Percent Approval before Filing)
+
+While the CoC is formed once financial creditors are identified, the need to track consent — particularly for critical thresholds like 66 percent approval (required for major decisions like plan approval) — is vital throughout the CIRP. This aligns with AI’s ability to automate communications and track timelines.
+
+* Automating Communications: AI can automate the notices, list of resolutions, and agendas sent to the CoC before meetings, handling everything from drafting to emailing.
+* Compliance and Timelines: The agent can integrate into a consolidated dashboard to track compliance and ensure that various process and filing deadlines are met. This monitoring ensures that the time-bound process is respected.
+* Enhanced Stakeholder Trust: By making claims aggregation and voting share calculation transparent and consistent, AI helps avoid disputes and makes CoC formation faster and less contentious.
+
+In essence, AI integration at the CoC formation stage enables professionals to quickly and accurately handle the determination of claims and the necessary quantitative analysis, allowing the Insolvency Professional to focus on tasks that truly matter.

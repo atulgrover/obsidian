@@ -1,0 +1,211 @@
+<html>
+<div>
+	<h2>
+		M/S Realpro Realty Solutions Private ... vs Sanskar Projects And Housing Limited on 13 December, 2023
+	</h2>
+	<h3>
+		Author: Ashok Bhushan
+	</h3>
+	<h3>
+		Bench: Ashok Bhushan
+	</h3>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL PRINCIPAL BENCH, NEW DELHI Company Appeal (AT)(Insolvency) No. 374 of 2023[Arising out of order dated 14.02.2023 passed by the AdjudicatingAuthority, National Company Law Tribunal, Principal Bench, New DelhiBench in CP(IB) No.44(PB)/2022]IN THE MATTER OF:Realpro Realty solutions Private Limited5th Floor, Prius Platinum, Wing A D-3,District Centre, Saket,New Delhi - 110 017 ...AppellantVersusSanskar Projects and Housing LimitedD-1, 1st Floor, Shopping Centre -2,Vasant Vihar, New Delhi - 110 057 ...RespondentPresent:Appellant: Mr. Avishkar Singhvi, Mr. Vivek Kr. Singh, Mr. Shreyas Edupuganti, Ms. Pratiksha Mishra, AdvocatesFor Respondent: Sh. H.L. Tiku, Sr. Advocate with Ms. Bharti Kochhar and Yashmeet Kaur, Advocates JUDGMENT
+	</p>
+	<p title="Issue" data-structure="Issue">
+		[Per: Barun Mitra, Member (Technical)] The psent appeal filed under Section 61 of Insolvency and Bankruptcy Code, 2016 ("IBC" in short) by the Appellant arises out of the Order dated 14.02.2023 (hereinafter referred to as "Impugned Order") passed by the Adjudicating Authority (National Company Law Tribunal, Principal Bench, New Delhi) in CP (IB) No.44(PB)/2022. By the impugned order, the Adjudicating Authority has dismissed the Section 7 application filed by M/s Company Appeal (AT) (Ins.) No. 374 of 2023 1 Realpro Realty Solutions Pvt. Ltd.- the Appellant seeking initiation of Corporate Insolvency Resolution Process ("CIRP" in short) against the Corporate Debtor-M/s Sanskar Projects and Housing Ltd.-psent Respondent. Aggrieved by the impugned order, the psent appeal has been filed by the Appellant.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		2. The Learned Counsel for the Appellant submitted that a "profit-sharing loan agreement" (hereinafter referred to as "Agreement") was entered between the Appellant and the Respondent on 09.12.2020 by which the Appellant disbursed a profit-sharing loan to the Respondent for the development of 2nd floor and 3rd floor of a property bearing no. 107 in Block 172 in Jor Bagh, New Delhi (hereinafter referred to as "subject property"). It was added that prior to entering into the above Agreement, a tripartite MoU was signed on 20.11.2020 between Royal Insignia Premium Constructions (a sister concern of the Corporate Debtor/Respondent) in its capacity as a Developer; Chetan Prakash as the owner and the psent Respondent as the buyer for transfer of ownership rights of the plot of land from the owner to the Respondent on which the subject property was to be developed.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		3. Submitting that the Agreement provided that as consideration for the profit-sharing loan disbursed by the Appellant, the profits from the project was to be shared in the ratio of 25:75 between the Appellant and the Respondent, it was contended that this clearly established the commercial objective of the profit-sharing loan and time value of money. The Respondent however defaulted in its obligation to pay the revenue share due to the Appellant arising out of the sale proceeds of the said project following which the Appellant filed an application against the Corporate Debtor/Respondent Company Appeal (AT) (Ins.) No. 374 of 2023 2 under Section 7 of the IBC on 13.01.2022. It was emphatically asserted by the Learned Counsel for the Appellant that the Adjudicating Authority wrongly dismissed the Section 7 application on 14.02.2023 by returning an incorrect finding that the Appellant is not a Financial Creditor qua the Respondent and that the transaction was not a financial debt but a profit-based investment. Aggrieved thereby, the psent Appellant has come up in appeal assailing the impugned order contending that the finding of the Adjudicating Authority is not in consonance with the statutory provisions of the IBC.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		4. The Learned Senior Counsel for the Respondent submitted rival contentions and stated that the psent case was an investment in the development of subject property by the Appellant for the purpose of sharing profit/loss in the ratio as mutually agreed under the Agreement. It was neither a debt with interest which had been disbursed by the Appellant to the Respondent. Nor was the disbursement made against consideration for time value of money. It was strenuously contended that the amount paid by the Appellant does not have the commercial effect of borrowing. It is also been contended that the Appellant is not entitled to the monies claimed since they did not pay their agreed share of investment and did not even share the expenses incurred so far. It was also pointed out that the 2nd floor was not even sold by the Respondent as on the date of filing of Section 7 application and hence the question of sharing of profit/loss thereof had not arisen. It has also been asserted that admission of a Section 7 application in the given circumstances would militate against the object and purpose of the IBC as the objective behind filing this application is debt recovery and not insolvency resolution.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Ins.) No. 374 of 2023 3
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		5. We have duly considered the arguments advanced by the Learned Counsel for the parties and perused the records carefully.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		6. The brief point that falls for our consideration is whether in the facts of the psent case, the profit-sharing loan given by the Appellant to the Respondent can be construed as a financial debt in terms of IBC basis which the Appellant could claim the status of a Financial Creditor for the purposes of filing Section 7 application.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		7. Before we proceed to answer the question as outlined above, we may go through some of the relevant definition clauses which finds place in Section 3 and 5 under Part II Chapter I Preliminary of the IBC would be constructive:
+	</p>
+	<p title="Analysis of the law">
+		3(11) "debt" means a liability or obligation in respect of a claim which is due from any person and includes a financial debt and operational debt.
+	</p>
+	<p title="Analysis of the law">
+		5(7) "financial creditor" means any person to whom a financial debt is owed and includes a person to whom such debt has been legally assigned or transferred to.
+	</p>
+	<p title="Analysis of the law">
+		5(8) "financial debt" means a debt alongwith interest, if any, which is disbursed against the consideration for the time value of money and includes--
+	</p>
+	<p title="Analysis of the law">
+		(a) money borrowed against the payment of interest;
+	</p>
+	<p title="Analysis of the law">
+		(b) any amount raised by acceptance under any acceptance credit facility or its de-materialised equivalent;
+	</p>
+	<p title="Analysis of the law">
+		(c) any amount raised pursuant to any note purchase facility or the issue of bonds, notes, debentures, loan stock or any similar instrument;
+	</p>
+	<p title="Analysis of the law">
+		(d) the amount of any liability in respect of any lease or hire purchase contract which is deemed as a finance or capital lease under the Indian Accounting Standards or such other accounting standards as may be pscribed;
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Ins.) No. 374 of 2023 4
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(e) receivables sold or discounted other than any receivables sold on nonrecourse basis;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(f) any amount raised under any other transaction, including any forward sale or purchase agreement, having the commercial effect of a borrowing;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		[Explanation. -For the purposes of this sub-clause,-
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(i) any amount raised from an allottee under a real estate project shall be deemed to be an amount having the commercial effect of a borrowing; and
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(ii) the expssions, "allottee" and "real estate project" shall have the meanings respectively assigned to them in clauses
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(d) and (zn) of section 2 of the Real Estate (Regulation and Development) Act, 2016 (16 of 2016);]
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(g) any derivative transaction entered into in connection with protection against or benefit from fluctuation in any rate or price and for calculating the value of any derivative transaction, only the market value of such transaction shall be taken into account;
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		(h) any counter-indemnity obligation in respect of a guarantee, indemnity, bond, documentary letter of credit or any other instrument issued by a bank or financial institution;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(i) the amount of any liability in respect of any of the guarantee or indemnity for any of the items referred to in sub-clauses (a) to (h) of this clause.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		8. We feel that at this stage it would also be useful to go through the relevant terms of the Agreement entered between the Respondent (described as the First Party) and the Appellant (described as the Second Party) as extracted below: -
+	</p>
+	<p title="Analysis of the law">
+		"WHEREAS, the First Party and Second Party has decided to make joint investment/ acquisition of Entire Second Floor and also the Exclusive ownership and usage rights of the Entire Terrace over and above the Entire Second Floor of the property bearing No. 107, in Block 172, situated at New Capital of Delhi, (commonly known Company Appeal (AT) (Ins.) No. 374 of 2023 5 as 107, jor Bagh, New Delhi) (the "SAID PROPERTY"), upto the limits of sky, with right to construct, own and to have and to hold any areas/floors on the Third Floor and subsequent Terraces thereupon and thereabove, as and when permitted by the authorities concerned of the SAID PROPERTY bearing No. 107, in Block 172, situated at New Capital of Delhi, (commonly known as 107, Jor Bagh, New Delhi), for common objective to earn and share profits or gain on its use or subsequent sale in near future.
+	</p>
+	<p title="Analysis of the law">
+		........Construction Cost, Statutory fees, Electricity and Water Charges, Property Tax, MCD Fees, maintenance, up keeping, Provident Fund, Employee State Insurance, labour license charges, Labour Cess, fees, insurance charges, etc or any other statutory taxes and duties levied by Central and/or State Government and/or local bodies during the execution of the work and all other incidental expenses etc in relation to Entire Second Floor and also the Exclusive ownership and usage rights of the Entire Terrace over and above the Entire Second Floor of the SAID PROPERTY and thereabove shall be incurred/shared by the First Party and Second Party in the agreed ratio of 75:25 respectively. Further cost of 15% of the working profit shall be borne by Second Party towards Administration expenses/ statutory Charges/fees and other indirect expenses.
+	</p>
+	<p title="Analysis of the law">
+		AND WHEREAS in terms of mutual understandings, the First Party is entitled to receive sale consideration or advance from the intended customers in respect of above said property and on receipt of such consideration or advance, the First Party shall refund proportionate share to Second Party, within 7 days of receipt, along with profits computed thereon, provided the Second Party has in principal invested its respective share in full at the stage or if contribution short received in principal, then the proportionate to principal amount and proportionate profit shall be refunded to Second Party. Interest at the rate of 15% per annum will be paid in case of delay in payment beyond 7 days by First Party. NOW THIS AGREEMENT WITNESSETH and the Parties hereto agree, record and confirm as follows:
+	</p>
+	<p title="Analysis of the law">
+		1. Understanding
+	</p>
+	<p title="Analysis of the law">
+		(a) The Second Party is willing to provide to the First Party with certain funds (25% share) in the form of a profit sharing loan, such funds to be invested by the First Party according to this agreement.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(b) ....
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(c) ....
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(d) ....
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Ins.) No. 374 of 2023 6
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		(e) That in case any of the parties hereto infringes any of the terms and conditions of this Agreement, then the other party shall be entitled to get this transaction enforced through the Court of law by Specific Performance of the Contract, at the cost and expenses of the defaulting party
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		2. Capital Contribution &amp; Share of Profit.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(a) It is mutually agreed that the capital contribution for the SAID PROPERTY would be in the ratio of 75:25 (Seventy Five: Twenty Five) percent between Sanskar Projects and Housing Limited and Realpro Realty Solutions Private Limited.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(b) Both the parties shall contribute to the construction and development of the work in the same ratio as aforesaid.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		(c) All profits from the work/project shall be shared in the ratio of 75:25 (Seventy Five: Twenty Five) between Sanskar Projects and Housing Limited and Realpro Realty Solutions Private Limited, which is also the percentages of ownership of each of the party in this Agreement. Subject to the aforesaid, at all times, distribution of profit shall be subject to cost of 15% of the working profit towards Administration expenses/ statutory Charges/fees and other indirect expenses to be borne by Second Party.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(d) Second Party is obliged to pay capital contribution in respect to cost incurred within 7 days of intimation by First Party. Interest at the rate of 15% per annum will be charged in case of delay in payment beyond 7 days by Second Party. Similarly, First Party is obliged to pay/refund capital contributed by Second Party with proportionate share in profit within 7 days of receipt of any sale consideration or advance from any intended buyer/customer. Interest at the rate of 15% is payable by First Party to Second Party in case of delay in payment beyond 7 days.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		8. Miscellaneous.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		(h) No partnership agency: That nothing in this Agreement shall be construed as creating a partnership or joint venture between the Parties. Neither party will be deemed to be an agent of the other party as a result of any act under or related to this Agreement, and will not in any way pledge the other Party's credit or incur any obligation on behalf of the other Party.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Ins.) No. 374 of 2023 7
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		9. Coming to the impugned order, we notice that the Adjudicating Authority has taken due cognizance of the relevant provisions of the IBC as well as the salient terms of the Agreement dated 09.12.2020 while recording its findings. The relevant findings contained in the impugned order are as extracted below:
+	</p>
+	<p title="Court's Reasoning">
+		"23. The scheme of IBC is to ensure that when a default takes place, in the sense that a debt becomes due and is not paid, the insolvency resolution process begins. "Default" as defined in Section 3 (12) means non payment of a debt once it becomes due and payable, which includes non payment of even part thereof or an installment amount. It was held in the case of Swiss Ribbons Private Limited and Anr. Versus Union of India and Ors. (2019) 4 SCC 17:
+	</p>
+	<p title="Court's Reasoning">
+		"23. A perusal of the definition of "financial creditor" and "financial debt" makes it clear that a financial debt is a debt together with interest, if any, which is disbursed against the consideration for time value of money. It may further be money that is borrowed or raised in any of the manners pscribed in Section 5(8) or otherwise, as Section 5(8) is an inclusive definition. On the other hand, an "operational debt" would include a claim in respect of the provision of goods or services, including employment, or a debt in respect of payment of dues arising under any law and payable to the Government or any local authority.
+	</p>
+	<p title="Court's Reasoning">
+		24. A financial creditor may trigger the Code either by itself or jointly with other financial creditors or such persons as may be notified by the Central Government when a "default" occurs. The Explanation to Section 7(1) also makes it clear that the Code may be triggered by such persons in respect of a default made to any other financial creditor of the corporate debtor, making it clear that once triggered, the resolution process under the Code Company Appeal (AT) (Ins.) No. 374 of 2023 8 is a collective proceeding in rem which seeks, in the first instance, to rehabilitate the corporate debtor. Under Section 7(4), the adjudicating authority shall, within the pscribed period, ascertain the existence of a default on the basis of evidence furnished by the financial creditor; and under Section 7(5), the adjudicating authority has to be satisfied that a default has occurred, when it may, by order, admit the application, or dismiss the application if such default has not occurred. On the other hand, under Sections 8 and 9, an operational creditor may, on the occurrence of a default, deliver a demand notice which must then be replied to within the specified period. What is important is that at this stage, if an application is filed before the adjudicating authority for initiating the corporate insolvency resolution process, the corporate debtor can prove that the debt is disputed. When the debt is so disputed, such application would be rejected."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		24. A perusal of the agreement dated 09.12.2020 reveals that the Applicant had no direct engagement in the functioning of the Respondent. However, the nature of agreement is in the form of an investment in the ratio of 75% &amp; 25% and sharing of profit / losses in the same proportion after completion of the project. They had to invest Rs. 35,00,00,000/- (Rupees Thirty Five Crore Only) together in the proportion of their profit sharing entitlement. It was the first party i.e. the Respondent who had absolute right and authority to construct and develop / sell etc. the property to the purchasers in whole or in part. As per the agreement, the Applicant besides investing 25% i.e. Rs. 8,75,00,000/- (Rupees Eight Crore and Seventy Five Lakh Only) towards purchase of rights from the owner had to incur expenses in the construction, taxes etc. in the agreed Company Appeal (AT) (Ins.) No. 374 of 2023 9 ratio of 75:25 respectively. Further cost of 15% of the working profit was to be borne by the Applicant towards the administration expenses / statutory charges / fee and other indirect expenses.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		25. From the plain reading of the agreement, it is clear that it was an agreement for joint investment entered into by the Applicant with the Respondent with an understanding to share the profit / losses in the same proportion together with sharing other charges.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		30. It is true that the said investment was made by the Applicant keeping a commercial objective in its mind specifically considering the prime location and commercial value of the property and with the commercial object to earn profit in the sale proceeds in exchange of the investment made by it towards development, reconstruction and further sale. The agreement also provides for sharing of losses in the same ratio. The said investment is no term can be said to be a loan to the Respondent against consideration for time value of money. In the case of Mack Soft Tech Pvt Ltd (supra), the amount was disbursed by the financial creditor for construction and development of a real estate project. It was held that this amount would fall under the definition of time value of money but in the psent case, it was an investment made by the Applicant on profit / loss sharing basis. There is no default as there is no question of non-payment of debt in whole or in part. As per the agreement, there was sharing of both profit or loss after completion of the project. In the case of Anuj Jain (supra)&cedil; the financial creditor from the very beginning was involved in assessing the viability of the corporate debtor. There was process of restructuring of the loan and Company Appeal (AT) (Ins.) No. 374 of 2023 10 reorganization of corporate debtors but in the psent case, the investment was made by the Applicant for profit and loss sharing basis. In the case of Orator Marketing Pvt. Ltd. (supra), interest free loan was given but the psent case relates to investment made by the Applicant in the project on profit / loss sharing basis and therefore, the said investment does not fall under the definition of "financial debt".
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		34. Thus, in our clear opinion, the Applicant cannot claim status and benefits as financial creditor as defined under section 5(7) of IBC. No cause of action has accrued in favour of the Applicant to initiate this action as the Applicant neither falls in the category of the "financial creditor" as defined under Section 5 (7) of IBC nor the alleged transaction can be said to be covered within the ambit of "financial debt" as defined under Section 5 (8) of IBC. The application therefore is not maintainable and is required to be dismissed."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		10. We find that the Adjudicating Authority has returned the finding that the Section 7 application filed by the Appellant was not maintainable since the Appellant neither fell in the category of a "financial creditor" nor the alleged transaction fell within the ambit of "financial debt" in terms of the statutory provisions enshrined in the IBC. The above findings of the Adjudicating Authority have been pdicated on the terms of Agreement entered between the Appellant and the Respondent. It has been held by the Adjudicating Authority that both parties being involved in the joint development of the subject property for which purpose they have entered into a collaborative agreement and hence the amount paid by the Appellant in Company Appeal (AT) (Ins.) No. 374 of 2023 11 terms of the financial arrangements outlined therein, is an investment for making profits which cannot be treated as a financial debt qua the Respondent.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		11. It is however the case of the Appellant that the conditions laid down in Section 5(8) of the IBC to be accorded the status of a Financial Creditor stood fulfilled in respect of the Appellant in terms of the stipulations contained in the Agreement. It has been submitted that in terms of the Agreement, the Appellant was to provide profit sharing loan so as to fund the development of the subject property. Elaborating further, it was stated that clauses 1(a) and 2(c) of the Agreement provided that profit-sharing loan was to be disbursed by the Appellant with the commercial objective of earning 25% profit which amounted to disbursal with consideration for the time value of money. Further Clause 2(d) of the Agreement made a provision of interest payment at the rate of 15% per annum in case of delay in making payment of capital contribution or delay in receipt of share of profit apropos sale consideration received from buyer/customer of the subject property. It was emphatically asserted that Clause 8(h) of the Agreement clearly provided that nothing in the Agreement shall be construed as creating a partnership or joint venture between the parties and that neither party will be deemed to an agent of the other party as a result of any act under or related to this Agreement.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		12. It is also asserted that Section 5(8) of the IBC which defines a financial debt is an inclusive definition. Not only does it include a debt which is disbursed even if it is not interest bearing, it also does not bar any disbursal made under a profit-sharing loan agreement from being treated as a financial debt. The Appellant has further submitted that the Adjudicating Authority Company Appeal (AT) (Ins.) No. 374 of 2023 12 has failed to apply the ratio of the decision of this Tribunal in the matter of Mack Soft Tech Private Limited v. Quinn Logistics India Limited in CA (AT) (Ins.) No. 175 of 2017 ("Mack Tech" in short) where it has been held that amount disbursed towards development of a real estate project amounts to a financial debt. The Learned Counsel for the Appellant therefore argued that the Adjudicating Authority has taken a skewed view that since the Agreement involves sharing of profit, the same cannot constitute a financial debt.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		13. The Learned Senior Counsel for the Respondent has rebutted the contention of the Appellant by stating that the Appellant have placed misplaced emphasis on the words "profit-sharing loan" appearing in the Agreement to show that they had disbursed a loan. It has been submitted that the Agreement was for profit/loss sharing in the ratio of 25% for the Appellant subject to the Appellant having invested 25% for development of the subject property. Thus, it has been asserted that the entire transaction was purely for investment in the project on profit/loss sharing basis and was not in the nature of disbursal of loan and did not have the commercial effect of borrowing. The psent is a case of joint investment for purchasing second floor and terrace floor of the subject property and then either selling it as it is or after reconstructing. It was also contended that the Agreement has to be read as a whole and if so done it becomes amply clear that disbursal of loan was neither the intent of the Agreement nor the intent of the parties executing the Agreement. The Agreement was neither for borrowing money from the Appellant nor was any loan disbursed.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Ins.) No. 374 of 2023 13
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		14. Further it was asserted by the Appellant that the ground cited by the Adjudicating Authority that the Appellant cannot claim the status of a Financial Creditor since full disbursement of the entire loan amount by the Appellant in terms of the Agreement had not taken place is erroneous and lacks basis. Submission was pssed that subsequent to the passing of the impugned order, the Respondent deposited a sum of Rs.2.26 crore into the account of the Appellant which amounts to implicit admission of default on the part of the Respondent. This amounts to admission of debt and default by the Respondent qua the Appellant. This has been refuted by the Respondent and explanation proffered that this payment was done not towards debt repayment but towards full and final settlement of the entire account between the two parties upon actual determination of expenses incurred jointly and profits earned in terms of the provisions of the Agreement executed between themselves.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		15. To our minds, a plain understanding of a joint venture is a combination of two or more parties/entities that seeks the development of any enterprise or project for profit and entails sharing the risks associated with its development. Applying the above to the facts of the psent case, from a perusal of the terms and conditions of the Agreement, when read in a composite and holistic manner, it can well be said that the Appellant and Respondent had entered into a particular business arrangement of accomplishing development of the subject property in which they had agreed to pool their resources proportionately in an agreed upon ratio of 25:75 and in the process share the profits, losses and costs associated with it. We find that construction cost, statutory fees, provident fund, employees state insurance etc were to be incurred and shared jointly between the two parties Company Appeal (AT) (Ins.) No. 374 of 2023 14 and that 15% of the working profit was to be borne by the Appellant towards administrative expenses/statutory charges/fees and other indirect expenses which show that the investment was in the nature of joint venture partnership. There are unmistakable signs of reciprocal rights and obligations contained therein besides evidence of common participation as well as sharing of profits and losses in the construction and development of the subject property. This spirit of being profit-sharing partners is well engrained in the Agreement and therefore we are of the considered opinion that the Adjudicating Authority has committed no error in holding that the Appellant by virtue of the funds invested by them in terms of the Agreement cannot claim the status and benefits of a Financial Creditor as defined under Section 5(7) of the IBC. On the applicability of the ratio in the Mach Soft case which has been relied upon by the Appellant, we notice that the facts therein are clearly distinguishable in that in the Mach Soft matter, the financial creditor had acquired the majority shareholding of the Corporate Debtor and in that context the disbursement was held to be against the consideration for the time value of money. Thus, this judgment cannot come to the aid of the Appellant.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		16. Undisputedly both parties being partners in developing the subject property together, hence any sum provided by the Appellant tantamount to financing the operations of the joint venture and not a disbursal of loan for the purposes of exclusive utilization by the Respondent for his own requirement. When shared liability for profit is so clearly manifested in the Agreement, it stares in our eyes that both parties are development partners and co-sharers in the development of the subject property. The terms of the Agreement laid the foundations of a legal and binding relationship with Company Appeal (AT) (Ins.) No. 374 of 2023 15 mutual financial obligations towards each other. We have no hesitation in coming to the conclusion that revenue sharing concept is deeply embedded in the Agreement and plays a determinant role in the transactions entered into by both the parties in respect of both the division of costs incurred in the development of the subject property and sharing of profit/loss generated therefrom.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		17. In the matter of Anuj Jain, Interim Resolution Professional for Jaypee Infratech Ltd. v. Axis Bank Limited &amp; Ors. (2020) 8 SCC 401, the Hon'ble Supme Court has held that the essential condition of financial debt is disbursement against the consideration for time value of money. Further in the judgment of Hon'ble Supme Court in Orator Marketing (P) Ltd. v. Samtex Desinz (P) Ltd. (2023) 3 SCC 753, it has been clearly held that financial debt also includes an interest free loan. It is therefore settled law that for any debt to be treated as financial debt, the p-requisite is disbursal of money to the borrower for utilization by the borrower and that the disbursal must be against consideration for time value of money even if it is not interest bearing. That being the case, there is no infirmity on the part of the Adjudicating Authority to apply the ratio of the above two judgments to the facts of the psent case.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		18. Clearly therefore, the psent transaction is in the nature of investment for profit and not disbursement for time value of money and hence does not fall within the canvas of financial debt as defined under Section 5(8) of the IBC. The essential elements of financial debt in the context of IBC consists of disbursal accompanied by consideration for time value of money. The terms and conditions of the Agreement between the Appellant and the Respondent Company Appeal (AT) (Ins.) No. 374 of 2023 16 makes it clear that the Appellant was a collaborator and not a financial creditor. There was no disbursement for time value of money by the Appellant within meaning of Section 5(8) of IBC. The Adjudicating Authority has correctly adverted to the real nature of the transaction between the parties to hold that the same cannot become the basis of filing a Section 7 application.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		19. Given this backdrop, we would also like to add that for any alleged breach of terms of contract, Section 7 application is not maintainable particularly since the amount claimed in the psent facts of the case cannot be construed as a financial debt as defined under Section 5(8) of the IBC. We see no necessity either to enter into any question of breach of agreement as any such enquiry falls beyond the remit and domain of the Adjudicatory/Appellate forum keeping in view the summary nature of proceedings contemplated under IBC. The Appellant can always take recourse in law including suit for specific performance of contract as provided for in Clause 6 of the Agreement which is to the effect: "That in case any of the parties hereto infringes any of the terms and conditions of this Agreement, then the other party shall be entitled to get this transaction enforced through the Court of law by Specific Performance of the Contract, at the cost and expenses of the defaulting party."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		20. We concur in the findings of the Adjudicating Authority that the Appellant is not a Financial Creditor in terms of Section 5(7) of IBC and that there was no financial debt in terms of Section 5(8) of IBC and hence the application under Section 7 of the IBC could not be entertained. We see no error in the impugned order. Hence the appeal fails and is dismissed accordingly. We, however, are of the view that the Appellant will have the Company Appeal (AT) (Ins.) No. 374 of 2023 17 liberty to exhaust other remedies available in law before any other appropriate forum and raise all pleas as permissible in law to protect their interests. No order as to costs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice Ashok Bhushan] Chairperson [Barun Mitra] Member (Technical) [Arun Baroka] Member (Technical) Place: New Delhi Date: 13.12.2023 PKM Company Appeal (AT) (Ins.) No. 374 of 2023 18
+	</p>
+</div>
+</html>

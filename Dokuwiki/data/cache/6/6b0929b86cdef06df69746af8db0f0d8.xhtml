@@ -1,0 +1,138 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Insolvency Risk Prediction Agent (IRPA)&quot;,
+&quot;agentDescription&quot;: &quot;Leverages machine learning models trained on historical financial data, qualitative factors, and industry benchmarks to predict the probability of corporate insolvency within a defined timeframe. Aims to provide early warnings and support strategic decision-making for risk mitigation and insolvency management.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Accurately predict the likelihood (probability) of corporate insolvency over specific future time horizons (e.g., 1 year, 2 years).&quot;,
+  &quot;Identify key financial and non-financial drivers contributing to predicted insolvency risk for specific debtors.&quot;,
+  &quot;Provide timely and actionable risk scores and classifications.&quot;,
+  &quot;Continuously monitor debtor performance and update predictions.&quot;,
+  &quot;Facilitate the development of proactive risk mitigation strategies.&quot;,
+  &quot;Support scenario analysis and stress testing based on insolvency predictions.&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Data Ingestion and Preprocessing: Collects and cleans diverse historical data relevant for prediction.&quot;,
+  &quot;Feature Engineering: Creates relevant predictive features from raw financial, market, and qualitative data.&quot;,
+  &quot;Machine Learning Model Training: Trains various classification models (e.g., Logistic Regression, SVM, Gradient Boosting Machines, Neural Networks) on historical insolvency data.&quot;,
+  &quot;Model Validation and Backtesting: Rigorously tests model performance using historical data and appropriate metrics (AUC, Precision, Recall, F1-Score).&quot;,
+  &quot;Probability Scoring: Generates a calibrated probability score indicating the likelihood of insolvency.&quot;,
+  &quot;Risk Classification: Categorizes debtors into risk levels based on predicted probability (e.g., Low, Medium, High, Critical).&quot;,
+  &quot;Explainable AI (XAI): Provides insights into the factors driving a specific prediction (e.g., using SHAP or LIME).&quot;,
+  &quot;Benchmarking: Compares a debtor&#039;s predicted risk against industry or peer group benchmarks.&quot;,
+  &quot;Automated Monitoring and Alerting: Continuously processes new data to update predictions and trigger alerts when risk thresholds are breached.&quot;,
+  &quot;Reporting: Generates reports summarizing predictions, key risk drivers, and trends.&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Credit Risk Managers&quot;,
+  &quot;Loan Officers&quot;,
+  &quot;Investment Analysts&quot;,
+  &quot;Portfolio Managers&quot;,
+  &quot;Chief Financial Officers (CFOs)&quot;,
+  &quot;Treasury Departments&quot;,
+  &quot;Restructuring Advisors&quot;,
+  &quot;Insolvency Practitioners&quot;,
+  &quot;Regulatory Bodies&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Historical Financial Statements (multiple periods for time-series analysis)&quot;,
+  &quot;Market Data (Stock price volatility, credit default swap spreads, bond yields)&quot;,
+  &quot;Macroeconomic Indicators (GDP growth, inflation, interest rates, unemployment)&quot;,
+  &quot;Industry-Specific KPIs and Benchmarks&quot;,
+  &quot;Payment History Data&quot;,
+  &quot;Director/Management Information (e.g., turnover)&quot;,
+  &quot;News Sentiment Data (Optional, requires NLP)&quot;,
+  &quot;Historical Insolvency/Default Labels (Crucial for supervised model training)&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Insolvency Probability Score (e.g., 0.0 - 1.0)&quot;,
+  &quot;Risk Category/Classification Label&quot;,
+  &quot;Predicted Time Horizon for Insolvency Risk&quot;,
+  &quot;List of Top Predictive Factors/Drivers (from XAI)&quot;,
+  &quot;Confidence Intervals for Predictions&quot;,
+  &quot;JSON/API output for system integration&quot;,
+  &quot;PDF/HTML Analytical Reports&quot;,
+  &quot;CSV exports of predictions and features&quot;,
+  &quot;Dashboard Visualizations&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Enhanced accuracy in predicting defaults and bankruptcies compared to traditional methods.&quot;,
+  &quot;Earlier identification of companies heading towards financial distress.&quot;,
+  &quot;More effective allocation of monitoring and mitigation resources.&quot;,
+  &quot;Improved loan pricing and provisioning.&quot;,
+  &quot;Data-driven support for strategic decisions (e.g., divestment, intervention, restructuring).&quot;,
+  &quot;Reduced financial losses due to unforeseen insolvencies.&quot;,
+  &quot;Increased operational efficiency in risk management.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Data Acquisition&quot;,
+    &quot;tools&quot;: [
+      &quot;Financial Data APIs (e.g., Bloomberg API, Refinitiv Eikon API, FactSet API, S&amp;P Capital IQ API, XBRL processors)&quot;,
+      &quot;Web Scraping Tools (for news, alternative data)&quot;,
+      &quot;Database Connectors (SQL, NoSQL)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Processing &amp; Feature Engineering&quot;,
+    &quot;tools&quot;: [
+      &quot;Data Processing Libraries (e.g., Pandas, Dask, Spark)&quot;,
+      &quot;Numerical Computation Libraries (e.g., NumPy)&quot;,
+      &quot;Feature Engineering Libraries (e.g., Featuretools, Scikit-learn&#039;s preprocessing modules)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Machine Learning &amp; AI&quot;,
+    &quot;tools&quot;: [
+      &quot;Core ML Frameworks (e.g., Scikit-learn, XGBoost, LightGBM, CatBoost)&quot;,
+      &quot;Deep Learning Frameworks (Optional, e.g., TensorFlow, PyTorch, Keras - for complex patterns or sequential data)&quot;,
+      &quot;Explainable AI (XAI) Libraries (e.g., SHAP, LIME)&quot;,
+      &quot;Statistical Libraries (e.g., StatsModels, SciPy)&quot;,
+      &quot;Hyperparameter Optimization Libraries (e.g., Optuna, Hyperopt, Scikit-Optimize)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Storage&quot;,
+    &quot;tools&quot;: [
+      &quot;Relational Databases (e.g., PostgreSQL, MySQL - for structured data and labels)&quot;,
+      &quot;Data Warehouses / Data Lakes (e.g., Snowflake, Redshift, BigQuery, Databricks Lakehouse - for large historical datasets)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Model Management &amp; Deployment&quot;,
+    &quot;tools&quot;: [
+      &quot;Experiment Tracking Platforms (e.g., MLflow, Weights &amp; Biases)&quot;,
+      &quot;Model Serving Frameworks (e.g., FastAPI, Flask, TensorFlow Serving, TorchServe)&quot;,
+      &quot;Containerization (e.g., Docker)&quot;,
+      &quot;Orchestration (e.g., Kubernetes)&quot;,
+      &quot;Cloud ML Platforms (e.g., AWS SageMaker, Google Vertex AI, Azure Machine Learning)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Visualization &amp; Reporting&quot;,
+    &quot;tools&quot;: [
+      &quot;Data Visualization Libraries (e.g., Matplotlib, Seaborn, Plotly)&quot;,
+      &quot;Business Intelligence Platform APIs (e.g., Tableau, Power BI)&quot;,
+      &quot;Reporting Libraries (e.g., ReportLab for PDFs)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Workflow Orchestration&quot;,
+    &quot;tools&quot;: [
+      &quot;Workflow Management Tools (e.g., Airflow, Prefect, Dagster)&quot;
+    ]
+  },
+  {
+     &quot;toolCategory&quot;: &quot;Alerting &amp; Notification&quot;,
+     &quot;tools&quot;: [
+       &quot;Messaging Services (e.g., APIs for Email, SMS, Slack)&quot;
+    ]
+  }
+]</pre>
+
+<p>
+}
+</p>

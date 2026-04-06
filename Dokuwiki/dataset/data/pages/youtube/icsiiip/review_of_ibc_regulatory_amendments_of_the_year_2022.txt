@@ -1,0 +1,1144 @@
+# Insolvency Law in the year 2022 (Series III) | Review of IBC Regulatory Amendments of the year 2022
+![](https://img.youtube.com/vi/sZxqiNvCAfI/hqdefault.jpg)
+7 months ago (Dec 19, 2023) — 2:30:37
+[https://youtube.com/watch?v=sZxqiNvCAfI](https://youtube.com/watch?v=sZxqiNvCAfI)
+
+
+## Summary
+The transcript covers a review of the Insolvency and Bankruptcy Code (IBC) regulatory amendments. The key points include an amendment to regulation 6A, which mandates the Interim Resolution Professional (IRP) to send a communication along with a copy of the public announcement of his appointment to all creditors via post or electronic mail. The amendment also clarifies that where it is not possible to send a communication to creditors, the public announcement made under regulation 6 shall be deemed to be communicated to such creditors. Additionally, an insertion in regulation 7B subclass 5 requires operational creditors to submit copies of relevant extracts of form gstr1, form gstr 3B, and the copy of e-way Bill to prove their claims. The amendment also exempts those creditors who do not require registration and to whom GST or goods and service tax is not covered under any law relating to the act itself. The timeline of 14 days for the admission or rejection of the application for initiating insolvency proceedings has been observed to be a key reason for delay, primarily due to the verification of the existence of debt and default. The amendment aims to reduce the time taken by the IRPs to verify and decide on the admission of the claim by allowing the use of gstr1, gstr 3B, and e-way Bill as proof of supply of goods and services to the corporate debtor. The amendment also provides for a regulatory fee of 0.25 percent of the realizable value to creditors under the resolution plan, applicable where the resolution plan is approved on or after 31st of October 2022. The amendment also inserts a provision for the appointment of a third registered value to assess the asset class for submitting an estimate of the fair and liquidation value, computed by the two registered valuers, in case the two estimates of a value in an asset class are significantly different. The amendment also provides for the appointment of two registered valuers to determine the fair value and the liquidation value of the corporate data within seven days of the IRP's appointment. The valuation exercise plays a crucial role in the decision-making by the Committee of Creditors (COC) and helps determine the minimum entitlement to operational creditors and dissenting financial creditors. The amendment aims to remove ambiguities and reduce potential litigation by providing a guiding factor in the appointment of the third value. The amendment also requires the RP to forward a copy of the avoidance application to the prospective resolution applicant to enable him to consider the same while submitting the resolution plan within the stipulated time. The amendment also provides for an extension in the timeline for submission of the information memorandum by the RP from 54 days to 95 days from the insolvency commencement date.
+
+## Regulation 6A where IRP is now mandated to send a communication along with a
+0:03
+Then the other amendment is with respect to regulation 6A where, with respect to the communication to creditors, there is an insertion in the by way of this amendment that where IRP is now mandated to send a communication along with a copy of the public announcement of his appointment to all creditors of the corporate data via post or electronic mail. 
+
+0:24
+So if we look at the Proviso to the regulation, it states that where it is not possible to send a communication to creditors, the Public Announcement made under regulation 6, which is under regulation 6 of the Public Announcement, shall be deemed to be communicated to such creditors. 
+
+0:40
+Then there is an insertion in regulation 7 to B subclass 5 where the claims by the operational creators where it has been inserted which that to prove the claims, the operational creditors will have to submit the copies of the relevant extracts of form gstr1 and form gstr 3B and the copy of e way Bill so. 
+
+
+## Insolvency Act Act Code: How to verify existence of debt and default
+1:05
+But then the provision of this subclass will not apply to those creditors who do not require registration and to those creators to whom GST or goods and service tax is not covered under any law relating to the act itself. So section 9 of the code provides a timeline of about 14 days for the admission or rejection of the application for initiating insolvency proceedings. 
+
+1:33
+But then it has been observed that one very key reason for delay in admitting the application is that there is a requirement to verify the existence of debt and default. So in fact, that is what takes the most amount of time and in fact it becomes difficult to ascertain sometimes the existence of debt and default from the evidence which is filed along with the application for admission. 
+
+1:55
+Also, in fact, the promoters of the corporate data file objections to the application on grounds contesting the existence of the transaction, sometimes with respect to the debt or with respect to the default. So the significant time is lost in the process of establishing the debt and default. 
+
+
+## GST Provisions: GST Tax Return, GST Tax Return, GST Tax Return
+2:12
+So an operational creditor who is registered under the GST Provisions is required to furnish the details of the sales and purchases of goods and service along with the GST amount. So what does gstr1 contain? And I'm only giving a brief overview because I'm not a tax expert. I'm sure for basic details with respect to the forms and the contents it would be best to take the you know support of the GST tax advisors. 
+
+2:36
+Rather so gstr1 usually contains a detailed information of all the outward goods and services of a business, which also includes the details of, say, invoices or with respect to debit notes, credit notes and also the revised invoices for the outward goods and services, and it is required to be filed by the supplier of the goods and services every month or every quarter. 
+
+3:02
+Similarly for gstr 3B, it is a monthly self declaration to be filed by a registered GST dealer and it is a simplified return to declare the summary GST liability for a tax period. So this return also contains information relating to outward supplies of goods and services, amount of taxes paid, Etc. The rule 138 of the cgst rules 2017. Rule 138 of cgst rules 2017 provides that for the e way bill mechanism. 
+
+
+## RP: How to establish the default of goods and services to the CD
+3:35
+It is important to note that information is to be furnished prior to the commencement of the movement of goods and it is to be issued whether the movement is in relation to a supply or for reasons other than Supply. 
+
+3:48
+So the gstr1 and gstr 3B filed by the operational creditor, along with e way Bill, wherever it is applicable, can serve as a proof to establish that the supply of goods and services to the CD has actually happened and that can be used as a evidence in establishing the default. This will also reduce the time which is taken by the irps to verify and decide on the admission of the claim. 
+
+4:15
+This was one very important, you know Amendment which has been brought in this regard. The next is with respect to 18.2. 18,2 is in fact has now been substituted and an explanation to 18.2 has been inserted. So if we look at the earlier provision, it spoke about the RP, in fact having the can convene a meeting under two scenarios. 
+
+
+## Third scenario: RP has discretionary power to convene meeting
+4:41
+The first one was if the RP considers it necessary, or in the second scenario, where the RP shall convene a meeting if a request to that effect is made by the members of the committee, who represent about 33 percent of the voting right. But now, with the amendment, what has now been introduced is a third scenario. So the first two scenarios will of course remain. 
+
+5:04
+The third scenario which has been added is that RP has now been given a discretionary power where he may convene a meeting, even on a request received from the members of the committee. But then the catch is that only if the resolution professional considers it necessary upon receiving of such a requests from any of the members. 
+
+5:26
+So it has been give the RP has been given a discretionary power to convene a meeting on the request of any member or members. So this 33 percent of voting right requirement is not there, because if there is a 33 voting, then it the RP has to convene a meeting. In this scenario, when you receive a request, you may or may not convene a meeting, decide depending on the situation and the facts. 
+
+
+## Regulation 18 clarifys that meetings may be convened under this regulation
+5:50
+So if there is a discretionary power which has been added, then there is an explanation which has been added to the regulation 18 to clarify that meetings may be convened under this sub regulation till the resolution plan is approved under subsection 1 of section 31 or the order for liquidation is passed under section 33 and to decide on the matters which do not affect the resolution plan which is submitted by the adjudicating authority. 
+
+6:19
+So by way of this amendment, a resolution professional has been given the discretion to place any proposal received from the members of the committee or of Committee of creditors in a meeting if he considers that proposal necessary, and shall Place. The Proposal only if the same has been made by the members of the committee of creditors, which represent at least 33 percent of the Voting Rights. So that is the amendment that has been brought in. 
+
+6:47
+Now, if we look at the regulation 31a, there is also, you know, and a mention of a regulatory fee. Now this has been inserted. Why did the amendment, where the regulation provides that a regulatory fees of about 0,25 percent of the realizable value do creditors under the resolution plan? You know, not everybody is muted? can we request everyone to be with themselves? 
+
+
+## Regulation 34b: How to calculate the fee at 0,25 percent of the realizable value to
+7:17
+So what it requires is that the regulatory fee calculated at 0,25 percent of the realizable value to the creditors under the resolution plan approved under section 31 shall be payable to the board where such realizable value is more than the liquidation value. 
+
+7:34
+So the Proviso to the regulation clarifies that this, that the sub regulation shall be applicable where the resolution plan is approved under 31 on or after 31st of October 2022. In fact, this sub regulation 2 also states that the regulatory fee that is calculated at one percent of the cost being booked in the insolvency resolution process cost in respect of hiring any professional or other services by the interim resolution professional or the resolution professional for assistance shall be payable also to the board. 
+
+8:12
+So those are the additional fee which has been provided for to be paid to the board. Now let's look at the key amendments further. There is another addition which has been done, which is to regulation 34b. So if we look at 34b sorry my voice 34b talks about the fee which is to be paid to the interim resolution professional and the resolution professional. 
+
+
+## IRP or RP reauthorized by applicant or committee of creditors
+8:44
+So this has been inserted and provides the fee of the IRP or RP has to be decided by the applicant or the committee of creditors in accordance with this regulation. So the insolvency professional shall be paid a fixed fee in the range of 1 lakh Rupees to 5 lakh rupees per month, depending on the Quantum of claims which is admitted. 
+
+9:04
+And there's a table, one of schedule two of the amendment regulations which has been provided for, but the applicant or the committee may decide to fix higher amount of fees than the said minimum fixed fee after taking consideration of various Market factors, such as the size scale of business operations of the corporate data, also with respect to the business sector that in which the corporate letter operates, or in fact also with respect to the level of operating economic activity of the corporate data or in relation to the complexity of related to the process and those plants. 
+
+9:44
+In fact, which is approved by the committee on or after first of October 2022. The committee has been given the discretion to decide to pay performance linked incentive fee as well, which should not exceed the say five crore rupees. So that has also been added as an incentive. 
+
+
+## Regulation 3.1B provides foreign liquidation value
+10:04
+Next, if we look at regulation 3.1B, this provides for foreign liquidation value, and here the amendment has been brought in, which provides that if the two estimates of a value in an asset class provided by the valuers are significantly different, or on receipt of a proposal to appoint a third registered value from the committee of creditors, the resolution professional May appoint a third registered value in order to assess the asset class for submitting an estimate of the fair and liquidation value computed by the two registered valuers. 
+
+10:45
+So the assessment of the difference of the valuation has been left to the opinion of the resolution professional, leading to scope for discretion. So if you look at this amendment what it was earlier and what it is now. So in fact, regulation 3.1B very categorically states that the average of the two closest of a value shall be considered as the fair value or the liquidation value. So the earlier regulation provided for that. 
+
+11:12
+If the in the opinion of the resolution professional, the two estimates of a value are significantly different, he may appoint another registered valuer who shall submit an estimate of the value computed in the same manner. 
+
+
+## amendment to appoint third registered value for asset class
+11:24
+Now with the amendment if the tools estimates of a value in an asset class are significantly different, or on receipt of a proposal to appoint a third registered value from the committee of creditors, the resolution professional May appoint a third registered value for an asset class for submitting an estimate of the value computed in the manner which is provided for in the Clause a. 
+
+11:48
+So if we look at the explanation for the purpose of clause B, the asset class means the definition which is provided under the company's registered valuers and valuation rules 2017. Now what does it mean? by significantly different. It means a difference of 25 percent in liquidation value under an asset class and that shall be calculated on L1 minus L 2 divided by 11. So what is L1? 
+
+12:15
+It is the higher value of liquidation value minus the lower value of liquidation divided by the higher value. So this is the amendment which has been brought in here. 
+
+
+## cirp regulation : Appoint registered values to determine fair value and liquidation value
+12:31
+Also, if we look at regulation 27.1 of the cirp regulation that also in fact provides for that the artificial, within seven days of his appointment, but not later than 47th Day from the insolvency commencement date, appoint two registered values to determine the fair value and the liquidation value of the corporate data, which should be in accordance with regulation 35. also the valuation exercise becomes a very important concern in the insolvency process because it plays a very important role in the decision making by the COC. 
+
+13:05
+It in fact also helps to determine the minimum entitlement to operational creditors and also to the dissenting Financial creditors. So you though not a floor price for the assets. 
+
+13:17
+It in fact definitely helps to serve as a guidance for assessing the resolution plans and given that there are no notified standards in India and registered values, sometimes, in fact, they also tend to use, you know, different standards, which could lead to difference in approach and also, in fact, the difference in methodologies that are adopted for valuation. 
+
+
+## Cirp. Regulation provides a threshold of 25 difference for appointing a third
+13:37
+So in order to remove these kind of ambiguities there was and in fact also to reduce the potential litigation and to provide a guiding factor in the appointment of the third value of this. Cirp. Regulation has been amended to provide a threshold of 25 difference for appointing a third value. Now, different thresholds of difference for each asset class may also be considered, if you know if it is required in that sense. 
+
+14:03
+So RP can take a call in that regard, along with the COC. Now let's look at regulation 35 a 3A and also four, three, a and four. So this talks about the preferential and other transactions which has been inserted, and it provides that the resolution professional shall forward a copy of the avoidance application to the prospective resolution applicant to enable him to consider the same While submitting the resolution plan within the time which is stipulated already. So if you look at the U? 
+
+14:48
+N Central legislative guide on the law of insolvency, it in fact defines the avoidance proceedings as the proceedings of insolvency law that permit transactions for the transfer of assets or the undertaking of obligations which are prior to insolvency proceedings to be canceled or otherwise are rendered ineffective, and any assets transferred or their value to be recovered in the calc Collective interest of the creditors. 
+
+
+## RP or Liquidator must submit application for avoidance transactions
+15:19
+So in fact, the code provides for four types of avoidable transactions, I'm sure we all know, under sections 43,45.50 or 66, with respect to preferential, undervalued, defrauding creditors and the extortionate transactions. So the code in fact attempts to preserve the commercial morality by way of incorporating the provisions for the avoidance of certain transactions. It also in fact, provides for penalizing the suspended directors for the misconduct. 
+
+15:53
+So accordingly, the RP or the Liquidator is obliged under the code and the regulations to file applications in respect of avoidance transactions, which are preferential transactions, undervalued, extortionate or the fraudulent transactions found by him during the cirp and the liquidation process to the adjudicating authority seeking the appropriate release. 
+
+16:17
+So regulation 35a of the cirp regulation requires the RP to form an opinion whether the corporate data has been subjected to any transactions which are covered under the provisions of section 43,45.50 or 66 on or before the 75th day of the insolvency commencement date and wherever the resolution professional is of the opinion that the corporate debtor has been subjected to such transactions which are covered under these sections, he shall make a determination on or before the 130th day of the ICD or the insolvency commencement date under the intimation to the board and further he shall apply to the adjudicating Authority for appropriate relief on or before the 130th day of the insolvency commencement date. 
+
+
+## Sub regulation 3 a talks about, which requires RP to submit a copy of the
+17:18
+So this there is an insertion of sub regulation 3 a which talks about, which requires the RP to provide forward a copy of the avoidance application to the prospective resolution applicant to enable him to consider the same While submitting the resolution plan within the time initially stipulated. 
+
+17:43
+And further insertion in this regard is with respect to sub regulation 4, where it states that a creditor shall provide to the resolution professional the relevant extract from the audits of the corporate data conducted by the Creditor, such as stock audit, transaction audit or forensic audit, Etc. So that is what has been provided for in this regard. now under regulation 36, which talks about the information memorandum. 
+
+18:21
+You can see the what was there in the M random earlier and what has now been changed in the regulation 3.1 in that regard. So what was provided for earlier was that subject to sub regulation 4, the resolution professionals shall submit the information memorandum in electronic form to each member of the committee within two weeks of his appointment, but not later than 54th Day from the insolvency commencement date, whichever is earlier now. 
+
+
+## RP submits information memorandum to COC on or before 95th day
+18:53
+What has changed in this is that the subject to sub regulation 4, the resolution professional shall submit the information memorandum in electronic form to each member of the committee on or before the 95th day from the insolvency commencement date. So that is the change that has been brought in here. 
+
+19:23
+In fact, the amendment to this regulation 3.1 provides for a revision in the timelines for submission of the information memorandum by the RP, as we will just noticed. So the under the amended regulation 3.1, the RP has now to submit the information memorandum to the COC on or before the 95th day. 
+
+19:44
+As compared to what was provided for earlier, which was 54,3. So the an extension of timeline has been provided for, and this was probably necessary because, if we look at section 18 of the code, it provides that the IRP has to collect all information relating to the assets, finances and operations of the corporate data for determining the financial position of the corporate data. 
+
+
+## IRP and RP must excise powers and perform duties under Clause 25 subclass
+20:09
+Also if we look at Clause 25, sub 23, subclass 2. That also requires that the resolution professional should in fact excise the powers and perform duties which are vested or conferred on the IRP under that chapter. So the IRP and RP are vested with the duty of collection of the information regarding the financial details of the CD. 
+
+20:31
+Now the IRP and rpn performance of that Duty face numerous kind of difficulties, as you would have already seen in the collection of the information regarding the financial position of the art of the corporate data. In fact, in many situations that I have noticed, the resolution professionals are not able to prepare and submit the information memorandum to the committee of creditors within the prescribed timelines because of many reasons. 
+
+21:00
+Sometimes it is because of the lack of information, sometimes it is because of the incomplete books of accounts that are provided to them, sometimes also because of the non cooperation from the promoters, which becomes a very huge concern, and I've seen this to be happening in most of the cases. So, and hostile promoters also for that matter. 
+
+
+## Information Memorandum: How to prepare Corporate Data for resolution
+21:20
+So the information memorandum, which is a crucial, you know, document to establish a baseline of the corporate data and is required to be shared with the prospective resolution applicants for them to assist the corporate data before making a resolution plan. So it becomes a very critical document in that sense and also, in fact, with respect to the valuation of the corporate data, which is based on the available information regarding the assets and liabilities. 
+
+21:47
+So it becomes. Of course, you know, as we discussed, it becomes a very critical and crucial document and therefore a timely preparation of the information memorandum. Timely is one part of it, but also complete in terms of all the evaluation exercise which are required to be done, so timeliness and a proper and complete valuation exercise in a time bound manner, which is crucial to the completion of the cirp process. 
+
+22:14
+And therefore I think it is a good decision to increase the timeline. further preparation of the information memorandum, which has been increased. In fact, if you look at the provisions of section 19. It also imposes a liability on the Personnel of the CD, its promoters or any other person who is associated with the corporate data to provide the assistance and the cooperation to the IRP or the RP. 
+
+
+## Information Memorandum 3.2: What happens in the real sense?
+22:40
+In order, but you know what happens in the real sense is something that we all know and therefore, in order to strengthen the availability of information with the IRP and for the preparation of the information memorandum and the avoidance applications, it is essential that the information which is available with the corporate data or with the promoters or its employees, or you know, even their creditors, are made available to the IRP or the RP in a time bound manner. 
+
+23:17
+Then if we look at 3.2, it has also been amended to expand the scope of the mandatory contents of the information memorandum. So the information memorandum will now require is now required to include the key selling propositions and should also contain all the relevant information, which serves as a comprehensive document sorry conveying the significant information about the corporate data, including its operations, financial statements to the prospective resolution applicant, and it also provides for what all to be included. 
+
+24:11
+So an information memorandum should include all the contingent liabilities of the data, the geographical coordinates of all the fixed assets, and it should also in fact include the details of the business performance, key contracts and key Investments and other factors, along with the brought forward income tax losses, the input credit of GST. 
+
+
+## 36 A1 talks about the invitation for expression of Interest
+24:38
+It also in fact includes the key employees list, key customers, list the supply chain, linkages, utility connections and other kind of pre existing facilities which are already there. Further, if we look at 36 to J, which has been also newly inserted, that talks about the company overview, including the snapshot of business performance, which we just spoke about, and key contracts, key investment highlights and other factors which will bring out the value as a coin concern. 
+
+25:20
+So a comprehensive and robust information memorandum is likely to infuse more confidence amongst the investors who are interested in acquiring the stressed assets under the IBC. Now, if we look at 3.1,36 A1 my apologies. 
+
+25:40
+36 A1 talks about the invitation for expression of Interest, so it has been amended, by which the maximum time limit which was available to the resolution professional to publish the brief particulars of the invitation for the for the expression of interest in form G of the schedule 1 has been now reduced from the 75 days that was provided for earlier to 60 days from the insolvency commencement date. 
+
+
+## RP shall publish brief details of invitation for expression of interest
+26:16
+If we look at regulation 36, it states that the RP shall publish the brief particulars of the invitation for the expression of interest in form G of the schedule 1 at the earliest but not later than 60th Day from the insolvency commencement date. 
+
+26:35
+From interest from interested and eligible prospective resolution applicants to submit the resolution plan and the prospective resolution applicant who meet the requirements of the invitation for the expression of Interest May submit the expression of interest within 15 days from the date of issue of the detail invitation. 
+
+26:59
+So after the dualiance is conducted in this regard, the RP shall issue a provisional list of eligible prospective resolution applicants, let's call them PRS within 10 days of the last date for submission of the expression of interest. And the RP also is required to issue the final list of PRS within 10 days of the last date of receipt of objections to the committee, so on. 
+
+
+## Request for Resolution Plan: How To Start Invitation Of Expression of Interest
+27:26
+If you look at it becomes very apparent that for inviting the expression of interest from the prospective resolution applicants, the information memorandum per se is not necessarily required, as at this stage only basic information of the corporate data is required to be given. While inviting the expression of Interest, the information memorandum is required at the time of the issue of request for resolution plan. 
+
+27:50
+So the activity of the invitation of the expression of interest can be started much earlier. And if this process of identifying the potential resolution applicant is started earlier, I think there will be enough time for another iteration of the process if sufficient numbers of resolution applicants do not come or are not identified in the first iteration. So the timeline for invitation of expression of Interest has been reduced because of that reason. 
+
+28:19
+Probably Is What It Seems. Now if we look at the other Amendment, which is with respect to 36 B, this talks about the request for resolution plan. It has been inserted by the amendment with the objective to maximize the value and resolution. 
+
+
+## Resolution Plan for Corporate Data as a Going Concern
+28:44
+So this amendment enables the resolution professional and the committee of creditors to issue the request for the resolution plan for a second time for sale of one or more assets of the corporate data, in case where no resolution plan has been received by the corporate data as a whole, because until now it was like mandatory for the resolution professional who are appointed under the IBC to seek the resolution of the corporate data as a whole. 
+
+29:12
+In fact, if we look at this judgment of binani Industries versus Bank of Baroda, the nclad had held at the IBC provides for the resolution plan as a plan for insolvency resolution of the corporate data as a going concern. So it does not necessarily spell out the shape, color and the texture of resolution plan, which is left to the imagination of the stakeholders. So it is not a sale. 
+
+29:42
+No one is selling or buying the corporate data through a resolution plan. So the NCLEX has said that it is resolution of the corporate debtor as a going concern, where one does not need to need a resolution plan for selling the corporate data. If it were a sale, then one can put in a on a trading platform. Whoever pays the highest price would get it. 
+
+
+## Subregulation 7 of 36 B: If the resolution professional does not receive a resolution plan in
+30:06
+So that was the thought at that point of time in the minari Siemens judgment. But if, contrary to this view, if we look at Clause 9 of the amendment regulation, which has been introduced a new regulation, which is this 36B sub section 6A of the regulation, it reads 6A. That reads and let me you know, read it. 
+
+30:29
+If the resolution professional does not receive a resolution plan in response to the request under this regulation, he may, with the approval of the committee of creditors, Issue request for resolution plan for sale of one or more assets of the corporate data. So now we are not talking about the corporate data as a going concern. We have moved from that aspect to selling the asset, one or more asset of the corporate data. 
+
+30:59
+So that in itself is a shift from what was there earlier to what it is now. So under. Now, if you look at subregulation 7 of 36 B that talks about that if the resolution professional did not receive a resolution plan in response to his request or if the resolution plan was not satisfactory, he has the option to reissue a request for the resolution plan, which was to be done with the approval of the COC and it was with the subject to the condition that the request is made to all the prospective resolution applicants in the final list. 
+
+
+## Sub regulation 6A allows resolution professional to invite new resolution applications
+31:38
+But now with this insertion of the sub regulation 6A, it provides an additional option to the resolution professional if that is in case a resolution plan is not received by him, which is to invite the resolution plans from the Pras for the part of the assets of the corporate data, not necessarily the entire so it is. 
+
+31:59
+But it is very in fact necessary to note that this 6A enables the RP to sell part of the assets of the corporate data, but then only if no resolution plan is received. That is important. So let's understand what happens when the resolution plan is received by the resolution, you know, by the RP, and it is not satisfactory or it does not meet the requirement of the COC. What happens in that case? 
+
+32:30
+So in that situation, the resolution professional will have the option of resorting to sub regulation 7 of 36 B and invite new resolution applications. So it is clear from the provision that it requires the approval of the committee of creditors. 
+
+
+## What does not remain clear is what whether it would require a simple majority approval or a
+32:53
+But what does not remain clear is what whether it would require a simple majority approval or a special majority approval, because the decision for sale of the part assets of the corporate debtor should require the approval of the special majority of coc, since it may be misused by some of the creditors of the COC over others. 
+
+33:14
+In fact, after covet, there are many real estate companies who are undergoing insolvency, and you know there are some suggestions which have come with respect to the discussion paper also in this regard, and there are some discussions that around the time of budget, there would be some provision in that regard. 
+
+33:30
+With respect to the real estate companies who are undergoing insolvency, what all are the options which can be availed by the by the home buyers in that sense? So for now what it was is that in case of real estate companies which are undergoing insolvency before various benches of nclt, this new provision May provide a boost to the incoming resolution applicants and it may in fact attract the interest of the Reconstruction companies who may now be willing to purchase the part of the assets of these distressed companies. 
+
+
+## Amendment Does not deal with one very important issue regarding the treatment of liabilities on that asset vis
+34:05
+So, though the new Amendment does enable the resolution professional to sell the Assets in part, it does not in fact deal with one very important issue regarding the treatment of the liabilities on that asset vis a vis proceeds of sale. So that's one Latina that I have noticed. 
+
+34:23
+But the underlying purpose for the amendment appears to be towards curtailing the delays in the completion of cirps and also to maximize the value, because the more the deal is, the value also starts to erode. 
+
+34:36
+So I think that was also one of the ideas behind introducing this provision and in fact, if you look at earlier, there was no such in fact you know guidance on the number of times a resolution professional could restart the process for the invitation for the submission of resolution plan. 
+
+
+## 36 C Amendment to 36 C Resolutions
+34:53
+So, in fact, due to the instruction by the COC or the directions which are passed by the educated Authority, every cirp in fact used to get multiple rounds where the public would be invited to submit a solution plan. 
+
+35:09
+So I think the whole idea by with the present amendment is to attempt to remedy this malaise by putting a cap on the number of times this process can be conducted, and also to provide for an option, alternative option, whereby the assets of the company could be, you know, maximized in terms of value and since it allows the resolution professional to sell the assets on a piecemeal basis, and this also, in fact, allowed for the project specific kind of resolutions, as different projects would have differing economics and different classes of resolution applicants, and it will also, in fact, depend on the project size. 
+
+35:50
+It will depend on a development type. it will also depend on the stage or of the completion, or also, in fact, location of the project which is beverage becomes very critical in that sense. Now if we look at another very important and significant amendment that has been brought in is with respect to 36 C. 
+
+
+## Resolution Professional Prepares Strategy for Marketing of Assets of Corporate Data
+36:16
+In 36C it has been inserted and provides that where the total value of assets of the corporate data exceeds 100 crores so that's important the resolution professional shall prepare a strategy for marketing of assets of the corporate data. Now there could be a question asked: you know how will it be done? Does the resolution professional have the you know professional expertise in this regard? 
+
+36:44
+Or would he require professionals who would be able to assist in preparing the strategy for the marketing of the assets? all of these are questions which arises in our mind and I'm sure we will be able to you know sail through these answers. 
+
+36:58
+So the implementation of the strategy is the subject to the approval of the COC, of course, and if you look at the general methods which are adopted by the RPS to disseminate the information, it is to publish the advertisement in the newspapers and a press release on the website of the corporate data. 
+
+
+## Resolution Plan: How to maximize the value of the assets in a time bound manner
+37:16
+So if there are strict timelines for submission of the resolution plan from the date of the publication of the invitation, there is a considerable lack of awareness amongst the investor Community with respect to such processes. so if a resolution professional receives lesser number or he receives inferior quality of a resolution plan, the debtor is very likely to be forced into liquidation. 
+
+37:42
+So I think this would have been the basis or the idea behind introducing the requirement for preparing a strategy for marketing of the assets of the data, in order to be able to provide for making it more, you know, salable, and also in terms of making it more attractive for the buyers and maximizing the value of the Assets. In that sense. 
+
+38:06
+So probably it is a step in the right direction in, you know, assisting the whole concept of maximizing the value of the assets, and that too, in a time bound kind of a manner. 
+
+
+## 39a - Preservation of Records by IRP or RP
+38:26
+The next amendment that has been brought in is with respect to 37 M, where 37 M that has been introduced talks about the sale of one or more assets of the corporate data to one or more successful resolution applicants, submitting the resolution plan for such assets and manner of dealing with the remaining assets. 
+
+38:53
+So this sub regulation has in fact been inserted to add on to the non exhaustive list which is already provided for under Section 37. if we look at it, which is there, if we look at 39a, which talks about the preservation of Records, it is basically to expand the category of Records to be preserved by the IRP or the RP which are required to give a com you know a complete account of the cirp and this requires, in terms of you know, the copies of the records to be maintained in electronic form for a period of eight years and in the physical form it is required to be maintained for three years from the date of conclusion of the cirp or from the date of any other conclusion of any proceeding which is relating to the cirp before the ibbi or adjudicating authority or before any other court, whichever is in fact later. 
+
+40:23
+So the IRP or the RP is now required to preserve the copies of the records. The records are all mentioned under 39a2. What are the kind of records that are required to be maintained so it relates to or forms the basis of the appointment of the IRP or the resolution professional. It includes the terms of appointment. it includes the handing over or taking over of the assignment. 
+
+
+## 39a2: The admission of the corporate debtor into the corporate insolvency resolution process
+40:49
+The admission of the corporate debtor into the corporate insolvency resolution process. The public announcements that are made, the constitution of the committee of creditors and the meetings of the committee. The minutes of the meetings of the committee. The claims, the verification of claims and the list of creditors. Engagement of professionals, registered valuers and insolvency professional entity, including the kind of work that has been done. The reports that have been generated or submitted by them. 
+
+41:18
+The information memorandum. all the filings which have been done before the adjudicating authority or, in fact, before the Appellate Authority, and also their orders, invitations, considerations, approval of resolution, plans, statutory filing with the board, the insolvency resolution process, costs the agencies, the preferential undervalued extortionate credit transactions or fraudulent or wrongful trading transactions that are done so. 
+
+41:49
+These are the kind of data and Records which are provided on 39a2, which are required to be maintained for a period of eight hours in electronic form and three years in the physical form. Now, if we look at 39ba, 39 B A has been inserted with respect to the assessment of compromise or Arrangement. 
+
+
+## 39ba amendment provides that the committee of creditors should explore the compromise or Arrangement
+42:15
+39ba is a very significant kind of an amendment which has been brought in and it provides that the committee of creditors, while deciding to liquidate the corporate data under section 33, the committee shall examine whether to explore the compromise or Arrangement both with the subsequent regulation, one of Regulation 2B of the ibbi liquidation proceedings regulation and the resolution professional has to submit the committee's recommendation to the adjudicating authority while filing the application under 33. So the whole idea is that both the RP and the COC must continuously explore the arrangements during the pendency of the liquidation application. 
+
+43:03
+In fact it provides that we are a recommendation has been made under sub regulation one, the resolution professional and the committee should keep the you know, exploring the possibility of compromise or Arrangement During the period in which the application to liquidate. The Cooperative is spending before the educating Authority. So this provision in itself also gives further impetus and emphasis to the purpose of the insolvency code, which is the resolution of the insolvency of the companies. 
+
+43:33
+So that was the whole idea with which, in fact, this amendment has been brought in, because what happens is that, on the initiation of the liquidation process, the Liquidator first attempts to work out to compromise or Arrangement under 230 of the companies Act. for this, a period of 90 days from the commencement of liquidation is prescribed, which is now in fact proposed to be reduced to 30 days. 
+
+
+## RP files in application for compromise or Arrangement
+43:57
+So, once the COC has decided to liquidate the corporate data, the RP files in application. The approval of the educating Authority is required for liquidation, and during this period, the cirp is in limbo and the value of the assets continues to erode. Sometimes, in fact, the assets go out of the market and are brought only once liquidation starts. 
+
+44:21
+So in order to make the efficient use of the time and to keep the assets also in fact you know intact in the market. It has been envisaged that if the COC and the RP decide to explore the option of compromise or Arrangement, this inter training period should be used for exploring this option and, in the event a compromise or Arrangement is worked out, the Liquidator, in fact, can you know, on the passing of the order, immediately file the application for compromise or Arrangement under Section 230 as well. 
+
+45:00
+So if you look at the discussion paper of ibpi on streamlining the liquidation process, it stated that all the liquidation process closed in the officer dimension. I took an average of almost like 466 days for the completion, and major chunk of this time is taken by the nclt in disposing of the applications which are filed by. The Liquidators. 
+
+
+## Regulation 39 ba ba - How to mitigate delays
+45:25
+So it was in this context, to you know, mitigate such kind of delays that this regulation 39 ba has been introduced and after which the COC can actually explore the possibility of a compromiser arrangement, even while it is deciding to liquidate the corporate data. 
+
+45:48
+So if the committee of creditor has, you know, proposed a compromise or Arrangement, the resolution professional will, you know, shall present such recommendation to the nclt as the educating Authority and when the application seeking the initiation of liquidation is filed with the nclt, the RP and COC shall keep exploring the possibility of compromise or Arrangement During the period while the liquidation application is pending determination before the nclt. 
+
+46:21
+So what happens is that you know during this process it ensures that if a compromise or Arrangement can be achieved, it should not suffer from the unnecessary delays due to the procedural requirements that is likely to be coming on the way. the next regulation that we are going to talk about is regulations for TDS foreign Ty D is with respect to the decision for liquidation, this in fact you know. 
+
+
+## TD: Resolution Professional and creditors have no option but to go for liquidation of corporate data
+47:00
+There are various cirps in which the CD, the corporate data, is defunct, and also there are scenarios in which there are no assets or we can say that there are no significant assets. So in such extreme cases, there is no office, there's no premises. The registered office is only a paper office, so and the corporate data exists also only in paper. 
+
+47:27
+So in such cases, the resolution professional and the creditors have no option but to go for liquidation of the corporate data. In fact, in most cases, the resolution professional in fact attempts a resolution before filing of the liquidation orders, and this forces the conduct of the cirp where the chances of resolution do not exist and the IT imposes a cost on the creditors in paying to the RP and the other process cost which is which is absolutely of no use and consequence because when we have ascertained that it is only a paper company and that there is nothing left in terms of the Assets in the company, the following of the entire process in itself does not really make any sense and it is a cost which is added and you know goes to the committee of creditors. 
+
+48:12
+So it and it in fact also delays the liquidation process and in fact it leads to the loss of the value of assets of the corporate data. So in order to avoid such a situation and to enable the committee of predators to arrive at an early decision, there are certain guidelines which have been laid out by the insertion of regulation for TD, where it provides that if the committee, while considering the liquidation of the corporate data, it may consider factors which include but not limited to the non operational status of the corporate data for the preceding three years, or the goods or services offered or the technology which has been employed being Obsolete and the absence of any assets, lack of any intangible assets or factors which bring value as a going concern over and above the physical assets, like brand value, intellectual property, accumulated losses, depreciation Investments that are yet to mature. 
+
+
+## Decisions on Indian cirps that we just discussed before adjudicating authority
+49:24
+So such consideration may be recorded and submitted in the application for liquidation which is submitted by the resolution professional to the adjudicating authority. Now we are going to talk about some of the judgments on these amendments that we just discussed, before we go for the discussion on further amendments. But before we go to the judgments, I would want to take a five minutes break. Let's come back. 
+
+49:51
+It's 3,10 now, so let's come back at 3,15 and we will resume our discussion. Thank you, foreign. Yeah. So coming back. We were talking about, just before the break, this judgment that we have we are going to discuss, and this judgment is Venus recruiters private limited versus Union of India. This is Delhi High Court single band judgment. this matter thereafter went up to the division bench as well, and this is on the avoidance transactions. 
+
+56:32
+This judgment was passed on 26th of November 2022. So in this case, the State Bank of India had initiated the cirp against bhushan steel, which is now known as Tata steel BSL limited, which was the corporate debtor, and the IRP was appointed on the same date when the cirp was initiated. So the COC was constituted and in the first meeting of the COC, the IRP was confirmed as the resolution professional of the corporate data. 
+
+
+## Resolution Plan submitted by data steel and resolution plan submitted by nclt
+57:03
+So subsequently a resolution plan was also in fact submitted by data steel. The COC had approved the resolution plan which was submitted by data steel and the resolution plan submitted. The professional submitted the resolution plan to the nclt for its approval. 
+
+57:21
+So while the resolution plan was pending before the nclt for the approval, the resolution professional had also filed an avoidance application under section 25 to J, also under Section 43,251 and section 66 of the IBC, since there were various transactions in the avoidance applications which was labeled as a suspect transaction. So the nclt had approved the resolution plan about five weeks after the avoidance application was filed before the nclt. 
+
+57:58
+So what happened is that in the Judgment the nclt passed various orders and directions, but it did not pass any order with respect to the pending avoidance application. In fact, the final order which had come it only you know, the final order stated a line that all the other applications are also disposed of. 
+
+
+## RP approves avoidance application and adjudicates it
+58:21
+So if that is the line, then the avoidance application which was filed by the RP also gets disposed of without it being heard on merits. The resolution plan was in fact approved by the NCLEX. Now the resolution plan was passed. 
+
+58:38
+The nclt passed a separate order in the avoidance application and impleading the company Venus recruiters private limited as a party and issuing the notice to it which was based on the fresh Memorial parties which was filed by the RP. So the petitioner in the in that case challenged the notif impleading and notice by filing a red petition before the single bench of the Delhi High Court. 
+
+59:02
+The issues that were raised before the Delhi high court was whether an application for avoidance offer preferential transaction, though filed prior to the you know resolution plan being approved, can be heard and adjudicated by the nclt at the instance of the resolution professional and the post the approval of the resolution plan. 
+
+
+## RP cannot continue to act beyond the approved resolution plan
+59:38
+The other issues were that whether the RP can continue to act beyond the approved resolution plan and whether nclt has jurisdiction to hear the avoidance application after the approval of the resolution plan. so the. 
+
+59:57
+The Honorable Delhi High Court single bench held that when the nclt has approved the resolution plan and it is in accordance with section 31 of the IBC, the resolution professional has to forward all the records relating to the cirp and the resolution plan to the board to be recorded on its database. This is where the role of the resolution plan professional comes to an end. 
+
+1:00:23
+The resolution professional cannot continue to act beyond the approval of the resolution plan. So section 43 and section 44 of the IBC it read with regulation 35 a of the cirp regulation. It prescribes for a timeline that within which the RP should examine the objectionable transactions and apply to the nclt for the appropriate relief that is required to be sorted. so this is all the finding that was given by the high court. 
+
+
+## RP should include details of transactions in resolution plan
+1:00:58
+So there is a purpose for prescribing the timeline, which is that the RP should include the details of these kind of transactions also in the resolution plan which is submitted to the nclt under Section 30 of the IBC, and in fact these details that are required to be made available to the nclt before the approving the resolution plan under 31 of IBC. 
+
+1:01:24
+So if the avoidance application relating to the preferential or other transaction survives beyond the conclusion of cirp, the whole thing will be against the entire basic scheme of the IBC. so this the single judge in fact had observed that the RP cannot wear the hat of the former RP and still pursue the avoidance application because it will create a very animalist kind of situation. 
+
+1:01:53
+So in respect of the preferential transactions after the Hat of the corporate data has changed, so now after the resolution plan has been approved and the resolution applicant has been successful in getting the company, this company no longer remains a corporate debtor and therefore it becomes important for the resolution plans to contain the specific Provisions to allow the resolution professional or any other specified entity to continue the prosecution of avoidance application. 
+
+
+## Delhi High Court held that if the resolution plan is approved, the nclt
+1:02:24
+And so the Delhi High Court held that once the resolution plan is approved and the cirp has concluded, the nclt does not have the jurisdiction to hear and decide the avoidance application which is filed under Section 2J of the IBC. As the purpose of avoidance application is to benefit the creditors, so there will be no benefit to the creditors if the avoidance application is heard and decided after the approval of the resolution plan. 
+
+1:02:56
+So in this context, if we look at you know what happened because it this decision of the single bench was challenged before the division bench of the same quarterly High chord. so in this. In fact, the Judgment has come very recently, on January 1.2023, in the latest patent appeal that was filed. 
+
+1:03:16
+So, in this case, in the letters patent appeal that was filed by the resolution applicant data the successful resolution applicant, Tata steel, BSL limited and the union of India, impugning the Judgment of 26 November passed by the single bench of Delhi High Court, where it had held that the application file by under Section 43 of IBC for avoidance of the preferential transactions cannot survive beyond the conclusion of the cirb process. 
+
+
+## if the avoidance application survives cirp, RP can pursue it
+1:03:48
+So now here the issues that were taken before the LPA code was whether an alternate efficacious remedy existed before the NCLEX, whether the avoidance application survive cirp in cases where resolution plans are unable to account for such applications. third is if the avoidance application survives cirp in such cases, who pursues them and whether the RP, who has become now a functors official, he can, upon conclusion of cirp, continue to pursue this application for avoidance. 
+
+1:04:30
+So the division bench held that the cirp is a time bound process, but avoidance application necessitate the proof Beyond Reasonable Doubt, which practically can in certain situations be a very time consuming as well. 
+
+1:04:49
+So the cirp and the avoidance application are by their very nature, a separate set of proceedings wherein the former, the you know can be being objective in nature is time bound, whereas the letter, which requires a proper discovery of the suspect transactions that are to be avoided by the adjudicating authority. 
+
+
+## IBC vs. IBC: How to adjudicate avoidance application
+1:05:11
+So if we look at the scheme of IBC, it reinforces this difference and accordingly adjudication of the avoidance application is independent of the resolution of the corporate data and it can in fact survive the cirp as well. So the treatment of avoidance application to be infectious after the completion of the resolution applicant resolution process is frivolously futile, as the fraudulent beneficiaries get the advantage out of it. They walk away scot free with the public money. 
+
+1:05:47
+So the Court held that the principle of independency by reasoning of the unjust enrichment is something which is required to be looked into in such circumstances. And then it held that the RP will not become functors official with respect to the adjudication of the avoidance transactions in a situation, as you know, as provided for you, and in fact the Court held that there being a clear demarcation between the scope and nature of the cirp and the avoidance application within the scheme of the IBC, the RP can continue to pursue such applications. 
+
+1:06:28
+In fact, this was a very, you know, interesting judgment and if we look at what is the you know Fallout of this judgment is something that we need to understand. One is that the Delhi High Court paved way for the proper treatment of the avoidance application by this judgment. Like intentional delaying of the awareness application till the RP Becomes functors of issue should be prevented. 
+
+
+## Regulation 35a: How to submit a resolution plan to the Pras
+1:06:59
+Second is that the amendments to the regulation 35a, which provide that an application file by the RP is to be supplied to the Pras to enable them to consider the same. While you know, submitting the resolution plan within that time initially is stipulated. 
+
+1:07:15
+It also in fact appears that to facilitate the resolution plan in filing the application in terms of the prescribed timeline, the creditors are required to provide the resolution plan a professional with the records of various audits which are undertaken by them. 
+
+1:07:31
+So the intention is very clear behind the insertion of Clause 3 a and 4 to regulation 35 a, and in fact that appears to be that a resolution applicant is able to take cognizance of the avoidable transactions at the earliest. now, the other judgment that we are going to talk about with respect to the requirement of designated email account by the RP is the Judgment of sales tax officer versus rainbow papers Limited. 
+
+
+## rainbow papers limited Gujarat value added tax & Central sales tax
+1:08:09
+So in this judgment, this was passed on 6th of September 2022. And in this judgment what was the fact was that the rainbow papers limited was involved in the manufacturing of something called crafts and ores in and outside Gujarat since 1990. So the sales tax officer who was the applicant here had assessed the value added tax and Central sales tax of an aggregate amount of almost rupees 53 or cross as due and payable by the respondent company, which is, you know, the rainbow papers limited under the Gujarat value added tax to the sales tax authorities. 
+
+1:09:00
+So. In pursuance of this, the applicant in 2016 had initiated recovery proceedings and attached certain properties of the respondent company. So this company called neeraj papers limited, which was one of the operational creditors of the respondent company, initiated the cirp before nclt Ahmedabad bench. 
+
+1:09:20
+In the fact that nclt proceeding was initiated and the application was admitted in September of 2017 and IRP was appointed and claims were invited from the creditors, the appellant, which is sales tax officer, filed its claim for about 47 odd grows after the expiration of the of the time period which is provided for. So the RP informed the appellant that the entire claim amount of 47 crores had been waived off. 
+
+
+## Abilene challenged the resolution Plan before the Ahmedabad bench of nclt
+1:09:49
+In pursuance of this, the Abilene challenged the resolution Plan before the Ahmedabad bench of nclt and it contended that the government deals could not be waived off and that sales talk sex officer was a secured creditor within the meaning of IBC, but this was rejected by the nclt Ahmedabad. Thereafter, the applicant filed and appealed before the NCLEX, challenging the order of nclt, which was again dismissed. 
+
+1:10:17
+So, after the dismissal of the appeal before the end clad the epilant, which is sales tax officer, filed the appeal before Supreme Court. So the issue that was to be, you know, decided here was whether the provisions of the IBC and section 53 in particular, overwrites the provisions of the Gujarat value added tax of Act of 2003. so the Apex Court. 
+
+1:10:44
+The Supreme Court had in fact expounded the definition of secured creditor under the code and to include any government or governmental Authority. The Supreme Court had held that as statutory creditors who are granted a charge over the assets of the data Company by virtue of a statute would fall within the definition of security interest under section 31, subsection 3 of the court, and the state will become a secured creditor to that extent under Section 30, subsection 3 of the code. 
+
+
+## Supreme Court held that claims by the statutory Authority should be considered in resolution plan
+1:11:27
+So the Supreme Court also held that claims by the statutory Authority should be considered in the resolution plan as per the books of accounts by the resolution professional and in case of the interest of the state is not taken care in the resolution plan, the company would have to be necessarily liquidated. 
+
+1:11:45
+So if the resolution plan ignores the statutory demands payable to the state government or the legal Authority all together, then the adjudicating authority is bound to reject the resolution plan. So Supreme Court in fact also held in his ruling and in fact considered another aspect, which was the timelines for filing of Claim by the creditors and even for the completion of the proceedings, which was directory and not mandatory. 
+
+1:12:11
+So by allowing the claim of the tax department of the state. Even after the resolution plan was approved by the COC, the Supreme Court, somewhere you know, ignored the consistent views which were taken by the Supreme Court or even in clat in the other judgments where delaying filing of claims were rejected. 
+
+
+## RP notified appellant that his entire claim had been waived off by the email
+1:12:28
+Since the resolution, applicant could not have been allowed to face surprise claims after the approval of claims by the COC and had recognized the concept of clean State Theory. 
+
+1:12:41
+So if you look at the Fallout of this in this case, the RP had informed the appellant that his entire claim had been waived off by the email dated 6th of November 2018. so the appellant immediately in fact challenged the resolution Plan before the Ahmedabad bench of the nclt, contending that the government use could not be waved off and further that the sales tax officer was a secured Creator within the meaning of the IBC. 
+
+1:13:09
+This communication of rejection of Claim by email curved the delay that could have been caused when informed through other means. Hence, this practice of communication through email was in fact introduced to mitigate the delay in the process of cirp, and the inclusion of provision 4C, whereby now the IRP is mandated to open a designated email account to be used for the purposes of Correspondence with all the stakeholders, will have the effect of streamlining the cirp process. 
+
+
+## IRP Decision: How to get a resolution professional to reach out to creditors
+1:13:42
+In fact, the requirement of the IRP of sending a communication to all the operational creditors, also along with the copy of the Public Announcement, appears to be, I think, a Fallout of this judgment itself. So this step, you know, may lead to further challenges, as it creates an additional liability on the resolution professional to reach out to the Creditor, where in most cases the resolution professionals are. 
+
+1:14:06
+You know, hands are tied due to the lack of sufficient information. So how it will be done is something that will need to see in that regard. The other judgment that we will discuss is Central Bank of India versus octopus papers limited. This was passed by Ahmedabad nclt on 21st of December 2022. so in this case the financial creditor, which is the Central Bank of India. 
+
+1:14:42
+They had filed an application under Section 7 of the IBC for the initiation of cirp against the corporate data, which is octopus papers limited, which was admitted by. The adjudicating Authority by the order of 11th of December 2020 and the applicant which is appointed as the IRP, and subsequently he was appointed as the resolution professional of the corporate data. 
+
+
+## Workman Employee Employee Removes Defect in Claim Form
+1:15:12
+So two claims were received from the creditors and another claim was received from the state tax department, operational Creator, which was not in the prescribed format. So the claim from the Workman employee was received after the last date of submission of the claim and the applicant had written an email in January of 2021 to the state tax department and the representatives of the employee to remove the defect in the claim form and submit further evidence to substantiate the claim. 
+
+1:15:42
+But as the government departments react, there was no update in the list of creditors as there was no response which was received from the state tax department in this regard, nor was there any representative of the employee removed from the defect in the claim form. 
+
+1:15:58
+So in the COC meeting its CSE meeting, which was held in August of 2021, the COC rejected all the three resolution plan which was submitted by the resolution applicant with about 91 percent voting. so the COC then resolved to liquidate the corporate debtor and further, it in fact resolved to appoint the resolution professional the as the Liquidator, and it also resolved to instruct the applicant to file the present application. 
+
+
+## Liquidator May vowed to sell corporate data as going concern
+1:16:30
+So the application was filed by the resolution professional of this company octopus papers and seeking an order for liquidation of the company. As the committee of creditors had rejected all the resolution plans which had come in the way ah and submitted for consideration of the COC. 
+
+1:16:49
+So the Committee in fact, in the finding that the court came was that the committee, through 91.31 voting, had resolved for the liquidation of the corporate data and, taking into account the facts and circumstances, the nclt allowed the same and ordered the liquidation. so nclt directed that the Liquidator May first explore to sell the corporate debtor as a going concern. 
+
+1:17:13
+And this is what is the twist here, because the decision was taken after the amendment, so they had in fact also suggested the Liquidator to explore the possibility to sell the corporate data as a going concern in compliance with regulation 39c of the ibbic IRP regulation. so after a clarification was sought with regard. 
+
+
+## RP: Liquidator May explore compromise or Arrangement
+1:17:43
+In fact, this is a very interesting twist which had come in this judgment, which was that the and the observation in this regard is relevant because after a clarification sought with regard to payment of liquidation cost, the RP had convened the ninth COC meeting on 24th November 22, wherein the following resolution was passed by 91,3 percent voting share resolved that in pursuant to provisions of Regulation to be and 32 e of ibbi liquidation regulations 2016, red with regulation 39 B A, which talks about compromise or arrangement, and 39c of the ibbicirp regulation, the COC recommend that the Liquidator May first explore compromise or Arrangement or sale of the corporate data as going concern if an order for liquidation is passed under section 33. so if we have to Analyze This. 
+
+1:18:47
+The bare perusal of this excerpt denotes that the committee of creditors, taking regulation 39 ba of the cirp regulations into account, are resolving that the Liquidator ought to continue to explore the options or liquidations. 
+
+1:19:06
+And in fact, if you look at 39ba, it is not the intent of the regulation to ensure that the committee of creditors a result that the Liquidator should explore the option of compromise or Arrangement, since the same has already been envisaged as a duty on to the Liquidator that this is a part of the obligation already provided for. So what is the achievement that we are looking at here? 
+
+
+## Regulation 39 ba of the cirp regulation is a failure to uphold the sanct
+1:19:32
+And the purport of 39ba was to ensure that the role of Committee of creditors do not cease with the filing of the liquidation application and they continue to find the ways to revive the corporate data, as is the intent of the Court generally at large. So the way in which the resolution has been passed by the committee in this case falls short of the purport of Regulation 39 ba of the cirp regulation. 
+
+1:19:57
+In fact, it was for the first time since the coming into effect of the regulation 39 ba of the cirp regulation that it was put into works and the detailed perusal of the nclt order. 
+
+1:20:11
+If you look at it, it brings to light the committee of creditors failing to uphold the sanctity of Regulation 39 ba of the cirp and that the regulations bestow upon the committee to continue to explore the measures in order to find the compromise and Arrangement during the pendency of the liquidation application. 
+
+
+## 9th COC: What is the possibility of a judgment
+1:20:29
+But the following the excerpt that we just discussed of the ninth COC, which is there on the screen also that you read the highlights that not only did the committee of creators fail to adhere with the duty enshrined under regulation 39 ba, but they employed a different understanding of it. So these are also the kind of scenarios which is a possibility and which may come to us tomorrow. 
+
+1:21:01
+The next judgment that we are going to talk about is the Judgment again a recent one or 5th January 2023. This judgment is Raghu Leela States private limited versus kambala Hospitality private Limited. This is cpib 38 MB a 2022. It is dated 5th of January 2023. So in this case the applicant. You know the application was filed by the RP and he sought liquidation of this kamba Hospitality private limited, which was the corporate enter. 
+
+1:21:41
+It was done under section 33, subsection 3 of the code and the resolution professional had uprised the Tribunal that the COC of the corporate data, which consisted of the financial creditor. They had resolved to liquidate the corporate data. 
+
+
+## Resolution Professional appointed COC as RP for remaining period of cirp of corporate data
+1:22:05
+So the resolution professional submitted that the COC meeting, which was held, I think, sometime in November of 2022, through video conferencing, the COC with 100 majority votes and resolved to appoint this resolution professional as the RP for the remaining period of cirp of the corporate data. 
+
+1:22:25
+In fact, the resolution professional also informed the COC the complete and detailed information pertaining to the corporate data which was sought from the suspended director was not provided and that the resolution professional had come across only certain invoices, some broken CCTV cameras and some agreements which were, you know, available in the files on personal visit which was made to the office of the corporate data. 
+
+1:22:56
+And the resolution applicant also apprised the committee of creditors that there was only one asset which was available and that was a car which was hypotheticated to the ICICI Bank. So the RP then discussed the sale of the car with for which the NOC had been obtained from the icic bank. but the COC sought to defer the sale of the car to the Liquidator and therefore the COC unanimously agreed and decided. 
+
+
+## Liquidator should consider liquidation as a going concern under regulation 39 B
+1:23:24
+You know that this company has to go for early liquidation because there is nothing much which is left in the company, and so there was a voting for liquidation which was agreed by 100 majority, and the COC ratified the expenses also which was incurred by the resolution professional and decided the fees which was payable to the Liquidator as per the liquidation regulations. 
+
+1:23:48
+I think regulation 4, and approved the plan for meeting the estimated liquidation cost as perfect regulation 39 B of the ciip regulation. So the COC resolved and recommended that the Liquidator should explore the sale of the corporate debtor as a going concern in terms of 32 e of the liquidation regulations, or the sale of the business of the corporate data as a going concern under regulation class for f if an order for liquidation is passed under 33 of the code. 
+
+1:24:24
+So the COC rejected the proposal of exploring any compromise or arrangement, in this case under regulation 39 ba, owing to the lack of assets. Because there is no assets. So there is no point evaluating also or considering going into 39 ba in that sense. 
+
+
+## ibbi liquidation Second Amendment Regulation 2022: How to maximize the recoveries
+1:24:40
+So in terms of the finding the committee unanimously had resolved to appoint you know the RP as the liquidator, and the important interesting issue was that the tribunal had observed that the Liquidator for the conduct of the liquidation proceedings would be entitled to a remuneration according to the liquidation fees, which is as per B regulation 4 of the ibbr liquidation process regulation of 2016. So the corporate data to be liquidated in the manner as was laid down in the chapter by issuing public notice stating that the corporate data is in liquidation, with a direction to the Liquidator to send the order to the ROC under which the company was registered. 
+
+1:25:26
+So that was the decision which was taken in that sense, in order to you know maximize whatever value could be done in that sense. Okay now the next notific this thing amendment that we are going to talk about is the ibbi liquidation Second Amendment regulation 2022, on which we have been discussing thus far, and there is a very interesting element which has been added in this context here, and the element that has been added is with respect to the introduction of something called stakeholders consultation committee. 
+
+1:26:01
+So the we have, of course, multiple times discussed that the aim was to maximize the recoveries in a time bound manner and be able to mitigate the Practical difficulties which were faced in the liquidation process. So this was the whole intent behind coming up with the Second Amendment to the liquidation process regulations. 
+
+
+## Changes in Liquidation Regulations
+1:26:23
+This was notified on September 16 last year and the amendment brought about radical changes, though no I mean I have mentioned about stakeholder consultation committee. But there are many more radical changes that have been brought about in this including, you know, the timelines for exploring a compromise or arrangement, also with respect to conducting auction, the filing of claims, then also with respect to a replacement of Liquidator, the treatment of avoidance applications. 
+
+1:26:58
+So there are many of these issues which have been, you know, amended, discussed in that regard. so the whole idea behind this was of course. You know, as has been mentioned, that if you look at the data, about 1666 cirps had ended up with an order for liquidation and 346 cases the Liquidators had submitted final reports, while taking an average of about 471 days, which period has been increasing over the years. 
+
+1:27:29
+So the whole idea was to enable a better participation of stakeholders and to streamline the liquidation process, to reduce delays and, of course, realize better value that the amendment in the liquidation regulations had major modifications. 
+
+
+## 39 ba amendments to be of liquidation process regulation
+1:27:48
+So if we look at the Amendments which have been brought in that regard, the amendment, the first amendment that we are talking about is with respect to the regulation to be which was inserted in the this thing, the regulation to beat, which was the second Proviso. Now this was also in relation to the compromise or Arrangement you know we discussed about under regulation 39 ba. 
+
+1:28:17
+So prior to the insertion of 39 ba with the with respect to the assessment of compromiser arrangement, the COC did not have the power to explore the option of compromise or Arrangement. 
+
+1:28:30
+You know in with respect to the during the time of liquidation, because sub regulation one of 39 ba empowered the COC, while deciding to liquidate the corporate data, to examine whether to explore the option of compromise or Arrangement, as mentioned under regulation 2b1, and then recommend to the Liquidator for scheme under the regulation to be of the liquidation process regulation. 
+
+
+## RP required to submit recommendation to adjudicating authority while filing application under 39 ba
+1:28:56
+So the RP was required to submit the committee's recommendation to the adjudicating authority while filing the application under Section 33. But now the new Proviso to regulation 2B had been added, which mandated the Liquidator to file the proposal of compromise or Arrangement which had been recommended by the committee under 39 ba. 
+
+1:29:18
+So if you look at the you know integrities of it in terms of specifics, it states that where the recommendation to explore the proposal of compromise or Arrangement has been made by the committee under 39 ba, the Liquidator shall file the proposal within a period of 30 days from the order of liquidation. 
+
+1:29:39
+So any compromise or Arrangement which is proposed under Section 230 of the companies Act shall be completed within a period of 90 days of the order of liquidation. The Proviso of Regulation to be further stated that a person who is not eligible under the code to submit a resolution plan for insolvency resolution of the corporate data shall not be a party in any manner to such compromise or arrangements. 
+
+
+## Liquidators fee to be fixed by consultation committee
+1:30:08
+So that is one thing which has you know, continuously been ruled out, that if it is, I mean, restricted in any manner for any reason as a promoter or for any other reason, then you are not entitled to participate. So what cannot be done directly can also not be done indirectly is the whole basic premise on which this has been provided for foreign a which has been inserted. 
+
+1:30:39
+This regulation talks about the fee which is payable to the Liquidator and how is it to be determined? Is because it talks about Liquidators fee. So it is to be determined in accordance with the decision which is taken by the committee of creditors, to be done under regulation 39d of the ibbi regulations of 2016. so if we look at the sub regulation 1A that has been inserted to provide that where no fee has been fixed by the sub regulation, the consultation committee May fix the fee of the Liquidator in its first meeting. 
+
+1:31:15
+So ABI what is happening is that a considerable time passes between the application which is filed for seeking liquidation and the order which is passed for liquidation by the adjudicating authority. So the fee of the Liquidator which is to be fixed by the COC May no longer be relevant and therefore COC may not decide to fix this fee while deciding to liquidate the corporate data. Many a times this is also what is happening. 
+
+
+## Amendment to Liquidator Regulation 12
+1:31:45
+So the idea was, to you know, fix or review the fee of the Liquidator in the initial phase of the reputation process itself foreign. Now, if we look at the next Amendment, this is amendment with respect to regulation 12,2, which is about Public Announcement by liquidator. 
+
+1:32:12
+Here this was inserted and provided that where a stakeholder does not submit its claim during the liquidation process, the claims submitted by such stakeholder and duly collated by the IRP or the Erp, as the case may be during the cirp process under the ibbi, you know, resolution process for corporate persons, regulation that shall be deemed to be submitted under Section 38. so if any claim is not filed during liquidation process, then the amount which has been collated during the cirp process that will be verified by the Liquidator is what is provided for here. 
+
+1:32:54
+But next instruction is with respect to Clause 12, regulation 12 a, with the respective process email ID, and here also the Liquidator has to operate the process email account handed over to him by the RP in accordance with the regulation 4C that we discussed just now. In and in the event of his replacement, the credentials of such email ID has to be handed over to the new Liquidators. So that is what is provided here. 
+
+
+## Regulation 15 requires Liquidator to submit first progress report to adjudicating authority
+1:33:25
+Further regulation 15 has also been added 15.1, which is with respect to the progress report, and it requires the Liquidator to submit the progress report to both the adjudicating authority as well as to the ibbi, as opposed to the earlier you know, requirement of submission of the progress report only to the adjudicating authority. 
+
+1:33:48
+So now, in fact, the Liquidator is required, under the regulation 15, to submit the first progress report in the format which is stipulated by the board, within 15 days of the end of the quarter in which he is appointed and the subsequent progress report within 15 days after the end of every quarter during which he access the Liquidator. 
+
+1:34:11
+So that is required to be provided much now Proviso to regulation 30, which is with respect to verification of claims that has also been inserted and that requires so. 
+
+
+## ibbr Liquidation Process: What is the requirement for Liquid
+1:34:36
+This requires that the Liquidator shall also verify the claims with respect to a collater during the cirp process, but not submitted during the liquidation process within 30 days from the last state of receipt of claims during the liquidation process, and it may either admit or it can also reject the claim either in whole or also can be done in part. In that context. 
+
+1:35:06
+Now there are a lot of amendments which has also been brought in under 31a of the ibbr liquidation process, and this is where it provides for the requirement for stakeholders consultation committee that we mentioned. so this says that in fact the code does not envisage any mechanism for the oversight or, for you know, monitoring of the liquidation process and the Liquidator by the creditors. So similar to that is provision for cirp through Committee of creditors. 
+
+1:35:39
+So while in the entire cirp process you have a committee of creditors to oversee the entire Affairs, there was no similar process for liquidation is what was the understanding on the basis of which this has been included here? 
+
+
+## Liquidator Consultation Committee for stakeholders in liquidation regulation
+1:35:53
+So the 35,2 of the code only provides that the Liquidator shall have the power to consult any of the stakeholders entitled to a distribution of proceeds under 53. But there is no structured mechanism which is provided for which could be, you know, utilized in terms of monitoring the Affairs during the liquidation process. 
+
+1:36:15
+So it was to fill, I think, this Gap that the ibbi under the liquidation regulation provided for a formal monitoring mechanism in the form of the stakeholders consultation committee. 
+
+1:36:27
+So, if we look at earlier, the position was that the Liquidator was mandated to constitute a consolidation committee within 60 days from the liquidation commencement date and it was based on the list of stakeholders which was prepared under which you know and which was prepared under the this thing, the list of stakeholders which was available with the RP, and it stated that the Liquidator shall constitute a consultation committee which would be comprising of the all the creditors of the corporate data within 60 days from the liquidation commencement date, which was based on the list of stakeholders prepared under 31 to advise him on matters relating to the appointment of professionals and their remuneration, sale under regulation 32, which included the manner of sale, pre bid, qualification, reserve, price, amount of earnest money deposit and marketing strategy, so the consultation committee which comprises of the creditors. 
+
+
+## Corporate debtor within 60 days from liquidation commencement date
+1:37:27
+Of the corporate debtor within 60 days from the liquidation commencement date. Based on the list of the based on the list of stakeholders which is prepared under regulation 31 to advise in on matters. 
+
+1:37:42
+Now there are list of matters which are provided for which requires the attention of the stakeholders consultation committee first being the remuneration of the professionals who are appointed under regulation 7. Second is with respect to the sale under regulation 32 and also in fact it includes the manner of sale, pre bid qualifications, reserve price, marketing strategy, auction price, Etc process, Etc. Then it also provides further fees of the liquidator. 
+
+1:38:11
+It also provides for the valuation under sub regulation 2 of the regulation 35. then it also provides for the manner in which the proceedings in respect of the preferential transaction or the undervalued, extortionate and fraudulent transactions shall be pursued after the closure of the liquidation proceedings and the manner in which the proceeds, if any, from these proceedings are to be distributed. 
+
+
+## Where the SEC under 31a has been constituted before the commencement of the Second Amendment
+1:38:36
+So, wherever the SEC under 31a has been constituted before the commencement of the Second Amendment regulation, the Liquidator, within 30 days of the commencement of the regulation, shall reconstitute the consultation committee. That is what is the requirement of law. Now, if you look at 3.1A, that requires that the committee of creditors under section 21 shall function as the consultation committee. 
+
+1:39:03
+They will also, in fact, have the Voting Rights till the constitution of the consultation committee under sub regulation one and after the adjudication of claims which are received during liquidation process and within 60 days of the liquidation commencement date, the composition of the SEC will be changed, with the stakeholders having voting rights in proportion to the share of payments They will receive as per the waterfall mechanism which is provided under section 53 of the liquidation value as per the latest valuation which is available is taken as the proceeds for sale. 
+
+1:39:45
+So let me repeat this that after adjudication of claims which are received during the liquidation process and within 60 days of the liquidation commencement date, the SCC composition will be changed, with the stakeholders having voting rights in proportion to the share or payments They will receive as per waterfall mechanism in terms of section 53 of the liquidation value as per the latest valuation which is available and is taken as the proceeds for sale. 
+
+
+## Amendment to Liquidator's voting rights under 31 A6
+1:40:24
+So if any valuation is undertaken subsequently, the voting rights of the stakeholders may be revised also accordingly. Now there is also an amendment in this regard. Under 31 A6. yeah here in 31 A6, the Liquidator was to convene the first meeting of the consultation committee within seven days of the liquidation commencement date and that it in fact it states that it may convene other meetings if he considers necessary on a request received from one or more members of the consultation committee, provided that when a request is received by the Liquidator from members individually or collectively having at least 33 percent of the total voting rights, the Liquidator shall mandatorily convene the meeting. 
+
+1:41:28
+So this is in fact similar to what you know is provided for even prior to the cirp process. So further, the SEC shall advise the Liquidator by a vote of not less than 66 percent of the representatives of the SEC voting. However, the advice of the consultation committee shall not be binding on the liquidator. 
+
+1:41:53
+If we look at the amendment under 31 a 10, it categorically provides the advice of the consultation committee shall not be binding on the Liquidator. The Liquidator, where he takes a decision different from the advice of the SEC, it has to record the reasons, which is what is provided in the Proviso. 
+
+
+## Amendment 32 A4: Liquidator proposed to be replaced by Liquidator
+1:42:18
+It has to record the reasons for the same in writing and submit the records relating to the decision to the adjudicating authority and to the board within five days of you know the decision, and it should also in fact include the next progress report that is to be provided so as per the earlier provision, the Liquidator was required to mention the same in the progress report itself. 
+
+1:42:50
+Now the next amendment is, with respect to 31 a11, which talks about the consultation committee, after recording the reasons made by a majority vote of not less than 66 percent, proposed to replace the Liquidator and file an application after obtaining the written consent of the proposed Liquidator. Inform a of the schedule 2 before the adjudicating Authority for replacement of the Liquidator. Where a liquid. 
+
+1:43:22
+However, where a liquidator is proposed to be replaced, he shall continue to work till his replacement and be suitably remunerated for the work performed till his replacement. further if we look at the amendment in regulation 32 A4, which is about the sale as a going concern here. 
+
+
+## Liquidator has been empowered to sell corporate data or its business under Clause e
+1:43:52
+Now, what has been provided is that the Liquidator has been empowered to sell the assets of the corporate data under Clause e of Regulation 32 exclusively only at the first option. 
+
+1:44:07
+Because, if you look at the earlier provision, if the Liquidator is unable to sell the corporate data or its business under Clauses e or F of regular regulation 32 within 90 days from the liquidation commencement date, he would proceed to sell the assets of the corporate debtor under Clauses a to d of the regulation 32, now regulation 32. of course we know how you know what is provided for with respect to the sale of the assets, either on a standalone basis or the Assets in a slump sale or the set of assets collectively, or the Assets in Parcels or the corporate debtor as a going concern, or in if the business of the corporate debtor as a going concern, with the Proviso that where an asset is subject to security interest, it will not sell any of the Clauses a to F unless the security interest has been relinquished to the liquidation estate. 
+
+1:45:13
+So liquidation regulations in fact did not contain any timelines for undertaking or for you know, concluding the various stages in the auction proceedings. so with respect to selling the corporate data as a going concern, caused delay in the process and also led to a value erosion of the assets of the CD. In fact, it also caused great difficulty because the Liquidator used to conclude the auction in reasonably short period as per his whims and fancies. 
+
+
+## Liquidator Act & Regulation 32 B on Conduct of Consultation Committee
+1:45:46
+So this kind of an act of Liquidator affected the number of effective participants in the auction and it led to sometimes either the failure of the option or it also led to sale of assets to a buyer who was in fact sometimes, you know, pre identified in an unfair Manner, and it in fact also compromised on the transparency to a great extent and also in fact, compromise the fairness of the process in the whole thing. 
+
+1:46:16
+So the Amendments that were brought in this context was to ensure that there is a fairness in the conduct of the option proceedings and there is a certain amount of transparency, which is also brought in the whole process. So the amendment required the Liquidator to sell the assets of the corporate data or the or the corporate data itself as a going concern. 
+
+1:46:44
+Now the next amendment is with respect to regulation 32 B on conduct of meeting of the consultation committee. So it talks about that. You know the process which is provided for under regulations 1.226 of chapter 6 and chapter 7 of the ibbi insolvency resolution process for corporate persons regulation will apply mutatus mutandis to the meetings of the consultation committee under the liquidation proceedings now under 34. the asset memorandum, how is it to be prepared, is provided for under 34,1 for cases which required the Liquidator to provide or prepare the asset memorandum in accordance with the regulation, which was based on the information memorandum prepared under Section 29 within 30 days from the liquidation commencement date. 
+
+
+## Sub regulation 1 of Regulation 35 prepares asset memorandum for liquidation state
+1:47:53
+For the cases under sub regulation 1 of Regulation 35, as opposed to the erst oil requirement of preparing the asset memorandum on the basis of liquidation state. So prior to this substitution, which was added here after you know, for the Liquidator formed the liquidation State under 36, it was required to prepare an asset memorandum in accordance with the regulation within 75 days from the liquidation commencement date. 
+
+1:48:21
+So that is something which has been amended in the accordingly now regulation 3.1A, which provides that the Liquidator is to prepare the asset memorandum in accordance with regulation within 75 days from the liquidation commencement date for the cases which are covered under sub regulation 2 of 35, and the asset memorandum shall provide the details of the value of the assets. 
+
+1:48:51
+It shall also provide for the intended Manner and mode of realization and reasons for the same and the expected the value of the assets, the intended manner of sale in accordance with regulation 32, intended mode of sale and expected amount of realization from the sale or any other information that may be relevant for the sale of the asset. 
+
+
+## The Acid Memorandum has been amended by the Liquidator
+1:49:21
+The 35,34.5 in fact, has also been amended and has included the Liquidator to share the acid memorandum with the board and the members of the consultation committee having the voting rights after receiving an undertaking from each member, that such members shall remain confident, I mean, shall maintain the confidentiality of the information and it shall not use such information either to cause undue gain or to cause and you lost to itself or to any other person. 
+
+1:49:57
+So if, before this substitution, the acid memorandum was not accessible to any person during the course of liquidation, unless it was permitted by the adjudicating authority, so this thing, it was necessary for the regulation to have amended. 
+
+1:50:15
+But then the maintenance of the confidentiality, which was the basic premise, has continued even in this case, and there could be, you know, signing of ndas in that regard between the parties before sharing any confidential information that is required to be done. Now regulation 44A, which talks about the treatment of the avoidance transactions. 
+
+
+## 45 Regulation 45: Preservation of Records, Preservation of Records
+1:50:41
+This required that the Liquidator, on the advice of the consultation committee, provide in the application, along with the final report filed under 45 regulation 45, for the manner in which the proceedings in respect of an avoidance transaction under chapter 3 or fraudulent transaction under chapter 6 or part 2 of the Court will be pursued after the dissolution or the closure of liquidation process, and the manner in which the proceeds, if any, from such proceedings were to be distributed. 
+
+1:51:24
+If you look at the regulation 45a, which talks about preservation of Records, so this also talks about the preservation of Records which give a complete account of the liquidation process and without prejudice to the generality of the regulation, the Liquidator shall preserve copies of the records. We have seen, even in cases of the RP, how he has to maintain and preserve the records. 
+
+1:51:55
+So a similar list of documents that are required to be preserved and maintained by the Liquidator in electronic form for a period of eight years and in physical form for a period of three years. So this is an identical provision which has been included in that regard. Thank you. 
+
+
+## Judgment of rishikesh Das Gupta versus Blue
+1:52:14
+Now there's another judgment that I would want to touch upon in the in this context, and this is the Judgment of rishikesh Das Gupta versus Blue Fern Ventures private Limited. In this case, the bank of Baroda was the financial creditor and filed an application for initiating the cirp in the matter of Groupon Ventures, which and claimed a dues for almost like about 37 crores, and this dues was allowed by the ncld guwahati. 
+
+1:52:43
+The nclt guwahati in fact passed an order and initiated cirp in the matter, and why order of 21st of December 2018. It appointed the RP IRP in fact, and subsequently he was the IRP was confirmed as the RP with 100 majority of the COC. the resolution plan which is submitted by the promoter and liquidation was not acceptable to the COC and therefore the COC, in its meeting with the 100 majority, recommended liquidation of the company. 
+
+1:53:17
+So the tribunal passion order of Liquidation in the matter of the company and appointed the IRP or the RP as the liquidator. So subsequently there was, you know, in the meeting of the stakeholders consultation committee. 
+
+
+## Investment of Investment in Investment of Investment in Investment in Investment in Investment in Investment in Investment in Investment
+1:53:33
+It was informed that the land on which the building of the company is situated did not belong to the liquidation State and it was only the building and the contents thereof which formed part of the liquidation State, as the land is in the personal name of the promoters of the company. 
+
+1:53:50
+So, and it was also in fact informed that the secured creditor or the stakeholder had already approached the DRT Siliguri for realization of its Security on the said line, as it was a guarantee again the loan given to the company. 
+
+1:54:05
+So it was discussed that the Creditor shall transfer the land to the liquidation estate so that the land and building could be dealt with together and thereafter simultaneous e auction of the land and building was attempted by the Creditor and the Liquidator respectively, but it failed. 
+
+
+## Liquidator Application: Liquidator Liquidator Liquidator Li
+1:54:26
+So there was an application filed by the Liquidator and he prayed that the registered Office of the company, which is situated in Sikkim, whereas the Liquidator is situated in Kolkata, and since the governments of West Bengal and Sikkim, they had announced a lockdown in various zones around that time of you know, April to July 2021, during the second phase of covet, so a limited progress was possible in the in the liquidation process. 
+
+1:54:53
+So the period of 90 days that was you know that had passed in the process of covet and when nothing could have been done that should be excluded from the liquidation period of the company. in fact the Liquidator had submitted that though, the e auction was in fact conducted and there were attempts which were made by the Liquidator to continue the process, but the results could not be achieved due to pandemic. 
+
+1:55:19
+So the Liquidator then submitted that the liquidation process actually will be severely Prejudiced and it will become inefficient and ineffective. So it will not in fact also be able to then, you know, give the whole intent of Meet, the whole intent of IBC, which was to maximize the value of the assets, and so the period should be excluded, is what was, you know, the decision of the adjudicating authority and they allowed the application which was filed in that regard. 
+
+
+## Liquidator's prayer to exclude liquidation completion period from liquidation order
+1:56:03
+So if we look at the finding in this case, the tribunal had allowed the application and disposed to accepting the prayer of the Liquidator to exclude the period between April to July of 21 from the liquidation completion period during which the governments respectively of West Bengal and Sikkim had declared lockdown in view of the second wave of covet and but then it observed that there has been no progress in the liquidation process during the last two years from the date of liquidation order, which should have completed within a year. 
+
+1:56:35
+So the Liquidator was directed to ensure the complete completion of the entire process without any further loss of time. So, in terms of the Fallout, is that the proper. 
+
+1:56:45
+The process of liquidation, you know, requires a swift completion of sale and also requires a dissolution of the stressed entity in a certain time bound manner, and the Liquidator plays a very proactive and accountable role with respect to you know his role and responsibility and involvement, and they are accountable to the stakeholders consultation committee as well, and in fact, if you look at the amended regulation 31 A1 11, it ensures that you know in the light of the discrepancy or even the failure of the Liquidator to act adequately. 
+
+
+## ibbi voluntary liquidation process, ibbi cirp
+1:57:26
+The power Now lies with the SEC to seek his replacement by an application before the adjudicating authority, and the stricter timelines for exploring the options of compromise and arrangement in terms of 2B has also been introduced. in fact there is a lot of discussion which is happening with respect to the timeline and there are more you know discussions, discussion paper which has been released by. 
+
+1:57:50
+The ibbi, which I'll quickly touch upon, because you know it has only come on 18th and I also have not been able to go into too much of detail of it. 
+
+1:57:59
+But before going to that, the next Amendment, which has come around the end of September, is the ibbi voluntary liquidation process, because, if we look at the code, it primarily provides for reorganization and insolvency resolution of a corporate person which is not able to service its debt in a time bound manner, so the corporate person may itself, on an application which can be filed before the adjudicating authority under Section 10, seek initiation of the cirp. 
+
+
+## voluntary liquidation regulations - Visage, Visage, Visage
+1:58:33
+It may also happen that a corporate person, having no use or being able to pay all its dues, also intends to liquidate itself voluntarily for a variety of reasons, but not limited to the change, Market environment, technological obsidence, entry of new players or also outliving the purpose for which it was set up. So the code provides a mechanism for voluntary liquidation under Section 59 in that circumstance. 
+
+1:59:00
+So the code and the voluntary liquidation regulations also provide for a completely Market driven kind of an approach and especially in cases of voluntary liquidation, it in fact the it ensures a faster outcome, at least you know, at a least possible kind of a cost. 
+
+1:59:19
+So in the normal Circumstance, the intervention of the adjudicating authority in a voluntary liquidation process is in Visage only once, and largely it is around the time of the dissolution of the corporate person. Also I if you look at the value of the assets, it falls drastically with time. So it is also important to you know ensure that the assets are liquidated quickly and they are liquidated efficiently. 
+
+
+## voluntary liquidation regulations 1.051 cases which you know
+1:59:57
+They are able to maximize the value, and so the code does not stipulate any time limit for completion of the voluntary liquidation process as such. But if we look at the principles you know which govern the preservation of the time value which is enshrined in the banking law committee report, then the voluntary liquidation regulations also provide that the Liquidator should Endeavor to complete the liquidation process of the corporate person within a period of 12 months from the liquidation commencement day. That is what has been provided there. 
+
+2:00:31
+But if we look at you know as on 31st December 21, there are about 1.051 cases which you know so this has changed. It was 1.051 in voluntary liquidation process have been initiated. 
+
+2:00:49
+But if you look at end of September 3022, the number have changed to 1351 corporate persons who have initiated the process and out of which for voluntary liquidation and the final reports with respect to about 814 voluntary liquidations have been submitted and about 13 have been withdrawn by September 3.2022. So the amended regulations lay down the manner and the period of retention of Records relating to voluntary liquidation of a corporate person and the amendment with respect to the information utility regulations. 
+
+
+## Regulation 3: How Corporate Persons Can Make a Statement
+2:01:32
+So the I mean let us look quickly look at now, since we are going to run short of time, I'm not going to spend too much time discussing each of these amendments. We'll quickly run through these regulations. 
+
+2:01:44
+So far as regulation three five is concerned, it talks about the initiation of liquidation, which was inserted as a declaration under sub regulation 1A or under 59,3A, to provide that the corporate person has made the provision for preservation of its records after its dissolution. 
+
+2:02:05
+Further regulation 3,1 in fact states that the liquidation proceeding of a corporate person has to met in two conditions: one, a declaration from majority of the designated Partners if the corporate person is an LLP or if the individuals constituting the governing body in case the of the corporate persons. 
+
+
+## Regulation 5: Liquidator's appointment within seven days of termination
+2:02:27
+Now so far as regulation 5,2 is concerned, it talks about the appointment of Liquidator and where the now the amendment that has been done is it requires to intimate the board about the appointment within seven days of the appointment as opposed to the earlier three days. 
+
+2:02:43
+That's the only amendment which has been brought in now a Proviso to regulation 30, subsection 2 is a list of stakeholders which has been Incorporated and since in most of the voluntary liquidation process there are, you know, no creditors or very few creditors. So the stakeholders involved in such cases are only the shareholders or the partners of the corporate person and very few creditors. 
+
+2:03:07
+So there is, you know, an insertion in the sub regulation too, that the Liquidator will prepare the list of stakeholders within 45 days from the last date of receipt of claims. And in fact there is a period of 30 days from the liquidation commencement date, which is also provided for submission by the of claims by the stakeholders. 
+
+
+## preparing for liquidation commencement of liquidation process
+2:03:30
+So a total period, if you look at it, is about 75 days from the liquidation commencement date is provided for preparation of the list of stakeholders. But in case there are no creditors, then the preparation of the list of stakeholders could not take so much time and then it could also be expedited in terms of the commencement of liquidation process. 
+
+2:03:52
+Then 35.1, which is about distribution where the in case of voluntary liquidation process, the time period for distribution of the proceeds was earlier six months and now it has been drastically reduced to 30 days. And especially where there are no creditor, the stakeholders who are entitled for distribution are the shareholders Partners, as we discussed. 
+
+2:04:15
+So the voluntary liquidation process commences with the resolution passed by the shareholders or the partners of the corporate person, and it provides active guidance to the Liquidator during the process and the liquidation Liquidator also remains in close contact with each of these persons and therefore the process is expedited and the time period for distribution has been drastically reduced. thank you also in 37, in fact, for that matter. 
+
+
+## Amendment for Liquidation: How to submit final report and compliance certificate
+2:04:42
+There is a minor Amendment where the time limit for completion of the liquidation process has now been reduced from 12 months to 270 days, where the creditors have approved the resolution, and 90 days from the liquidation commencement date, where the approval of credit rails is not required at all. So in earlier cases, in fact it was about two years and now it is 270 days. 
+
+2:05:07
+So 38,3 also, in fact, has been amended, where the Liquidator is now required to submit the final report and the compliance certificate in form h, which is along with the application under 597 to the a. Earlier there was no such requirement for submitting the compliance certificate. 
+
+2:05:24
+So there's an addition here that has been made for the regulation 41 is with respect to the preservation of Records, so similarly the electronic copy of Records, registers and books of accounts referred to in regulation 8 and 10 for at least eight years and physical form again, you know, similarly for three years, when there are certain amendments which have been brought in for ibbr information utilities now appeared. 
+
+
+## Fourth Amendment Regulation 6.1, which is for insolvency professionals
+2:05:54
+I'm not going to go through all of these amendments, because you know it is already here in this slide. So anybody who would be wanting to know a little bit more, because there are not too many judgments around it. These are, you know, routine kind of amendments which have been brought in, so there's no point really touching upon each of these. 
+
+2:06:13
+So I would rather want to touch upon the amendment which has come in the insolvency professionals. Fourth Amendment regulation which probably would be of more interest to the and here in that sense, regulation 6.1 has been amended, where the individual who is enrolled with the IPA as a professional may make an application to the board. For you know, in the form a of the second schedule to the regulations, along with non refundable application. 
+
+2:06:43
+So the fee has been amended from 1.000 to 2.000. So similarly, regulation 7.2, which is for certificate of registration, there is a requirement that if the board is satisfied and after inspection or inquiry, the applicant is eligible, it may Grant a certificate of registration to the applicant to carry on the activities of an insolvency professional in Form B. thank you. 
+
+
+## ibbi investigation inspection regulation 2017 - IPS
+2:07:08
+Then there are also, in fact you know, some disciplinary proceedings related Amendment where the there is a mention that if the disciplinary proceedings has provided for under the principle, regulation has been substituted and it will be conducted in accordance with the ibbi investigation inspection regulation of 2017 for ipes. Also, in fact, there is a regulation 1.2, which talks about the recognition of the IPS like the registered partnership firm or llps or an IP entity. 
+
+2:07:41
+Has you know, the fee has increased from 5.000 to 2 lakh. So all of that is are the minor changes which have been brought in. There are, you know, certain code of conduct for the insolvency professionals which have now been added. so like Clause 8 B 8 C, 8D, 15a. 
+
+2:08:01
+These are inserted and it talks about if an IP shall disclose, if the IP has to disclose his relationship with the corporate data, other professionals who are engaged in that manner. 
+
+
+## IP also has to ensure timely and correct Disclosure by him and other professionals appointed by him
+2:08:15
+And the IP also has to in fact ensure the disclosure of such relationship, as stipulated in 8A, of other professionals who are engaged by him, the corporate data or the financial creditor, the interim Finance provider and the prospective resolution applicant to the insolvency professional agency of which he is a member, within three days. 
+
+2:08:36
+Then IP also has to ensure timely and correct Disclosure by him and the other professionals who are appointed by him, including the registered valuers or lawyers or, you know, Chartered Accountants, whoever is being appointed by him Auditors. 
+
+2:08:53
+He should provide a confirmation to the IPA of which he is a professional member, to the effect that the appointment if any or other professional has been made at arm's length relationship, then 15a has been included, where the iip prominently has to state in all his communication to a stakeholder his name, address, email registration number in fact this was one in his name towards his fee, and such fee has to be paid to him only through banking channels. 
+
+
+## IPS should not accept any fee or charges for any professional or support service provider
+2:09:37
+IP has to also ensure that the IP entity or the professional who is engaged by the IP also raises bills or invoices only in their own name towards such fee and has to be paid through banking Channel. Then 26a, where the IPS should not accept any fee or charges for from any professional or any support service provider who are appointed. 
+
+2:10:03
+You know, under the process here, then the IP should also not take any assignment or conduct processes and he, in fact he or she has and take all necessary steps to ensure that the corporate person complies with the applicable laws, and they should not also include any amount towards any of their losses or penalties which have been imposed upon them due to their own defaults. 
+
+2:10:30
+So that's also a very important aspect that has been provided for now. the next amendments are in relation to the inspection and investigation of the First Amendment regulations, because ibbi's function is to inspect and investigate the service providers, like IPS, ipas, IUS. 
+
+
+## 
+2:10:50
+So if ibbi has, you know, found any reasonable ground to believe that there has been any breach committed by either IP or IPA or IU, it may direct the person to act as an investigating authority to conduct an inspection or investigation, and it has to be done in a time bound manner and the manner which is specified in the relevant regulations in that regard. 
+
+2:11:19
+So there are some amendments which have been brought in with respect to the term stakeholder, which would mean the data, the Creditor, the claimant, or it could also include the service provider, a resolution applicant or any person who may have, you know, interest in the in the process of insolvency or liquidation or voluntary liquidation or bankruptcy transaction. 
+
+2:11:46
+On the code, then regulation three, four e, where the board has been given the power to inspect and the term client has been replaced by the word stakeholder. There. Then, with respect to investigation report also, a regulation 10 has been added, where the term you know draft has now been omitted before the words investigation report. So the investigating Authority is now required to submit a draft to the board at the first instance. 
+
+
+## 
+2:12:16
+Then 10A, which talks about the investigation during the disposal of the claim of or Grimace when, where the term investigation will now mean the process for completion of the complaint or Givens or the material which is available on record and the investigation report will mean processing papers under the ibbi grievance and complaint handling procedure, then regulation 10 B is with respect to the interim order that can be passed on material which is available on record on a prime FSI basis by the disciplinary committee. 
+
+2:12:55
+Then section 220, subsection 2, provides for the if, on the examination of the report of investigating Authority, the disciplinary committee is in any manner satisfied that this, if it's sufficient cause exists, that they can also impose penalty on the IP, IPA or IU, which could be three times of the amount that is, you know, loss that is caused or likely to have been caused to the person's concerned on account of such contravention, or three times of the unlawful gain which has been made by on account of the contravention, so that is also provided for therein. 
+
+2:13:38
+Then also with respect to 12.1D, the process which has been provided for following the principles of natural justice, of show cause notice to be given and after the show was noticed, it has to be responded by the defaulter, or you know the alleged contravena, and then Under 12.3 if it provides for a revision in the time limit given to the service provider to issue reply, that is also, you know, possible. 
+
+
+## 
+2:14:05
+It has to be done within 15 days to issue reply or written submission. As compared to earlier, what was provided for was 21 days. So that would be Amendment which has been brought in. 
+
+2:14:17
+And then, under 13,3 ba, the disposal of the show cost notice that has been inserted by the amendment, which provides the order passed by the disciplinary committee for disposing the Shockers notice may include an order for suspension or for cancellation of the authorization for assignment of the IP. 
+
+2:14:36
+So all those are the kind of steps that can be taken under 13,5 it further provides further disposal of the show cause notice and 13,7 provides that the cases where the service provider is in IP, then the board shall intimate the order to all the members of the committee of creditors of the insolvency resolution process in which he is acting as an IAP or RP, as the case may be, and also to the adjudicating authority. 
+
+
+## 
+2:15:09
+So this is what is with respect to the investigation amendment that has been brought into the regulation. The next is the ibbi grievance and complaint handling procedure, where you know, the gruvanse is defined as a written expression of a stakeholder of his suffering due to the conduct of a service provider or the Associated person, and the complaint has to be in writing, which expresses the contraventions in terms of the provisions of the IBC or the related rules, and the ibbi has in fact been given the power to direct, you know, the service providers to redress the provinces in case of a complaint and it can also in fact order, in you know, inspection or investigation under the inspection and investigation regulation if it feels that there is a prime FSI case in that regard. 
+
+2:16:11
+So presently, the enforcement mechanism is of handling the grievance is time consuming and also it is slow. So the delays in the enforcement action is in fact considered to be quite detrimental to the interest of these stakeholders and sometimes it leaves also the stakeholders a little unsatisfied in that regard, and it also, in fact, you know does not. 
+
+2:16:36
+It deprives the other service providers of getting a chance to observe the contraventions held and the actions which are taken by the board, or also to learn from such mistakes that are made by others other service providers. 
+
+
+## 
+2:16:50
+So ibbi, on 14th of June 2022, have now provided for a grievance and complaint handling procedure which amended the earlier ibbi Griffin complaint handling procedure of 2017, and this was done to streamline and Swift, you know, make it so if the complaint handling procedure, with the objective of making it time bound and giving it some teeth and also making it effective. 
+
+2:17:18
+So there are some amendments which have been brought in, which we can see in the table, primarily in relation to regulation 6 for disposal of the gruvanse, where, in the earlier situation, it was that the board May seek additional information and records from the grieved from the concerned service provider to decide if the gravance requires the any redress by the service provider. 
+
+2:17:43
+The aggrieved and the service provider shall submit the information and the board was to close the device within 45 days. So now that has been amended and has been broadened, as we can see in terms of the parameters. So the board May seek additional information and record from the aggrieved and the information and record from the concerned service provider to decide if the gryvanse requires any redress. 
+
+
+## 
+2:18:07
+Second is the aggrieved and the service provider shall submit the information within seven days and provided that an additional time not exceeding for the period of seven days may be granted by the board for submitting the information on the request. 
+
+2:18:22
+And now the gravance has to be closed within a period of 30 days if it does not require any address, and the board should direct the service provider to redress the grievance also within 30 days of its receipt if it requires a needed. Both ways, it has to be done within 30 days. So that is one Amendment which has been brought in. Then we've just discussed regulation 6A and then 7 with respect to disposal. 
+
+2:18:54
+The additional this thing is with Amendment which has come in is with respect to ibbi model bylaws and governing board of insolvency professional agencies. So these are some of the directives which have come with respect to the IPS, which I'm not running through due to positive time. 
+
+
+## 
+2:19:12
+The other Amendment which has been brought in is with respect to the engagement of research Associates and Consultants which has been done under Section 20, subsection 2A, and section 25, subsection 2D of the chord, which empowered the IRP and the RP respectively to appoint the accountants, legal or other professionals, as was necessary to protect and preserve the value of the property and also to manage the operations of the corporate data as a going concern and to preserve and protect the assets of the corporate data, including the continued business operations of the corporate data. 
+
+2:19:51
+So this was added. In that context. there are, you know, certain parameters or amendments which have been brought in with respect to the qualifications, experience and remuneration, in where the chairperson of the board now has discretionary powers to amend the Consolidated remuneration as given in schedule 2, which is appended to the principal regulation. 
+
+2:20:15
+So there are many changes in that regard and there is a table which has you know been provided in that sense, which talks about what are the kind of experience which are required and if there's an experience, then what is the Consolidated monthly remuneration, along with 10 percent annual increase which is envisaged for the different research level Associates and the Consultants. 
+
+
+## 
+2:20:40
+Then there are also this ibbi Employee Service First Amendment regulation, which was brought in last year, around 6th of July 2022, for and where the primary amendment was in with respect to the schedule 2, which is on the screen here, where it provided for many additional specifications with respect to the method of Recruitment and eligibility for the grades and positions as was prescribed. 
+
+2:21:07
+So without getting into those specifics which are of no relevance, I would want to quickly now touch upon the yesterday. Before yesterday, in fact, I noticed this. I have not been able to, of course, you know, discuss in detail. This is an invitation of comments from the public on changes which is being considered to under the IBC. probably I would want one entire session on this to be discussed. 
+
+2:21:31
+But a very interesting you know suggestions which have been made, where the invitation has been made from the public to provide their submission. One is with respect to the use of technology in the IBC ecosystem. So end to end. 
+
+
+## 
+2:21:48
+If we are technology driven, you know where the first stage, right from the use of Technology by the IRP to the RP to the adjudicating authorities, to you know if we are able to have that kind of ecosystem. I think that would make the system more efficient, and especially after the coming of the new chief justice, where he is actually focusing a lot more on the use of technology in the Judiciary as such. 
+
+2:22:16
+So if we are able to introduce this kind of an IBC ecosystem, it will of course make a change in terms of the speed efficiency managing the records. Everything second is to increase the Reliance on the record submitted with the information utilities during the admission process, because presently the information utilities are not being utilized in the manner as was emphasized in the first stage, and we do not have a sufficient number of information utilities as well. So I think it is also important to focus on increasing the number of information utilities, although any SL has been doing a great job in that regard. 
+
+2:22:51
+But then yeah there is probably a need for more then the mandatory it to admit an application under Section 7 where occurrence of a default is established, because a lot of time is actually invested in deciding whether there is a default or not, especially in cases of section 7 where it is so apparent that you know if and if there is a prime office iview which can be made with respect to default, then I do not see there to be any reason for delaying the matters for admission. 
+
+
+## 
+2:23:17
+Then restricting the right of the promoters to propose an IRP. I think this is where there should be some consideration. there should be a some you know value threshold which can be put in with respect to restricting the right of the promoters, because completely barring them under 29a probably you know, has not really served the purpose, the amount of you know involvement that the promoters have with the companies. 
+
+2:23:40
+It becomes very difficult thereafter for anybody else to get that kind of a hold, because a lot stays in the mind of the promoters, which is not documented in any manner. 
+
+2:23:49
+So once the IRP has taken over the Affairs of the company and if there are there are hostile promoters, which is which is happening in most of the cases, it becomes very difficult to get hold of the Affairs of the company and then empowering the adjudicating authority to impose penalties for violations of the Court, which is also very necessary because at the moment you know there are people who have been violating the orders of the court with impunity, without realizing the repercussions. 
+
+
+## 
+2:24:18
+Then there are also discussions with respect to rethinking the fast track corporate and solvency resolution process, which have been in discussion, where in fact there are, you know, Provisions made in that regard, but it has not been implemented in the manner it was envisaged. There are pirps which are suggested at the moment. 
+
+2:24:36
+We have already made the pirp applicable for the msmes, but then if we are able to expand it for all the other corporate letters as well. I think it would be a great achievement that we'll be able to make in that sense and improving the outcomes in real estate cases, because this is one set of cases which is delaying the entire IBC process hugely, and there are different types of complications which have been arising in the real estate side. So I think the government is already contemplating a separate set of regulations for Real Estate. 
+
+2:25:08
+More than the regulation, I think it is the implementation of the regulation which is a challenge. The speed at which the nclts have been working is also quite slow for various reasons. of course we cannot blame them because the number of matters which have searched it probably is not commensurate to the number of benches that we have. 
+
+
+## 
+2:25:27
+Then reimagining the consideration of the resolution plan and the manner of distribution of the proceeds from the same during the cirp. I think this is something which also needs a separate consideration in the manner in which you know it presently exists. So these are some of the additional comments. I'm actually running short of time, with only 15 minutes left for question answer. 
+
+2:25:48
+We can probably have a separate session for this speed, because there are too many suggestions which have been made and the comments in this regard have come, but some of them which I've been able to you know capture here have been provided. so thank you so much for all your time and for giving me this opportunity. 
+
+2:26:06
+It was a pleasure speaking with all of you and I would really wait to hear if there are any questions or clarifications that I can provide in that regard. Any anybody who want to ask anything related to the session, whatever the ma'am has covered regarding the IBC Amendment came up in 2022, you may please this time you given to you may ask: yeah, we have only 10 minutes left, but yeah, whatever questions. 
+
+
+## 
+2:26:48
+Otherwise, what I would also encourage is because I'll share this PPT with you. Any questions you can send me on mail as well. I'll be happy to respond. Final suggestions I could not hear at all. Actually, I'm sorry, but you know the voice was not clear. okay, is it possible to type it out and in chatwork also, you can write your question. 
+
+2:27:25
+Yeah, that would be easier because sometimes technically so I think ma'am has provided her email ID also, yeah, directly to ma'am to write me. Yeah, that would be better, because you know waiting for messages to be typed can be time consuming. So if there is no quick question, then probably I have shared my email ID here as well, and I'll share it along with the PPT as well. So thank you so much to you. 
+
+2:28:28
+We are grateful for your time and effort. You look to share your thoughts and experiences on the subject with our members. We look forward for your support and association with us in our future program. Also thank you once again for your contribution. thank you, thank you so much, thank you, ma'am, thank you, thank you, and before concluding this series today, I would also like to thank all our participants for attending this series. 
+
+
+## 
+2:28:54
+Hope this series was beneficial and provided useful information for all our members to keep its professional members abrased. With the provision of IBC as well as well as issues in compressing the installments alone, icsip has been organizing various workshops, webinars for the benefit of its members and solvency practitioners. For future workshops, you may visit our website. Thank you all and have a great evening. Thank you, thank you so much. 
+
+2:29:22
+In fact, we have you know any other issues that you would have faced during the implementation of the amendments. please write to me, because I would be very keen to you know understand what exactly are the practical challenges that you're facing during the implementation of these amendments. We can talk about the theoretical part of it, but the Practical side of it is what you are actually facing the most. 
+
+2:29:43
+So it would be good to know all of those challenges so that we are able to then, you know, together overcome them as well. Yeah, thank you everyone. good night, have a good evening, thank you, thank you, everyone bye, everybody. thank you so much, thank you. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

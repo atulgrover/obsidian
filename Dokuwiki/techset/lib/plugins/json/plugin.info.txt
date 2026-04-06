@@ -1,0 +1,7 @@
+base   json
+author Janez Paternoster
+email  janez.paternoster@siol.net
+date   2024-03-11
+name   JSON Data Plugin
+desc   Build JSON database inside dokuwiki page and use the data in the page.
+url    https://www.dokuwiki.org/plugin:json

@@ -1,0 +1,11 @@
+.dokuwiki button.tagbutton {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 5px 5px 0;
+    background: #35627c;
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+    border-radius: 5px;
+    text-transform: capitalize;
+}

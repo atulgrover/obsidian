@@ -1,0 +1,76 @@
+<html>
+<h1>creditor in a class</h1>
+<h2 style="text-align:center;">FORM B</h2>
+<p style="text-align:center;">Proof Of Claim By Operational Creditors Except Workmen And Employees</p>
+<p style="text-align:center;">
+  (<em>Under Regulation 7 of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016</em>)
+</p>
+
+<p style="text-align:right;">Date: @@process_details.process_commencement_date@@</p>
+
+<p>To<br>
+The Interim Resolution Professional / Resolution Professional<br>
+xxxxxxxxxxxxbbbbbbbbbbbbbbbbbb<br>
+House no 1634
+Sector 18-D<br>
+Email: atulgroverr@gmail.com<br>
+Phone: 981404090
+</p>
+
+<p>From<br>
+zzzzzzzzzzzzzzzzzzzzzzzz<br>
+House no 1634
+Sector 18-D<br>
+Email: resolutionbazaar@gmail.com<br>
+Phone: 09814040900<br>
+PAN: <br>
+Aadhaar: <br>
+Entity Type: 
+</p>
+
+<p><strong>Subject:</strong> Submission of proof of claim.</p>
+
+<p>zzzzzzzzzzzzzzzzzzzzzzzz hereby submits this proof of claim in respect of the corporate insolvency resolution process in the case of @@process_details.process_type@@.</p>
+
+<table border="1" width="100%" style="border-collapse:collapse;">
+  <tr>
+    <th>Particulars</th><th>Details</th>
+  </tr>
+  <tr>
+    <td>Total amount of claim</td>
+    <td>Principal: <br>
+        Interest: <br>
+        Calculation: </td>
+  </tr>
+  <tr>
+    <td>Nature of claim</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Documents substantiating debt</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>How and when debt incurred</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Details of dispute / litigation</td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>Security held</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bank Account for payment</td>
+    <td>
+      Bank: <br>
+      A/c No: <br>
+      IFSC: <br>
+      Branch: 
+    </td>
+  </tr>
+</table>
+
+</html>

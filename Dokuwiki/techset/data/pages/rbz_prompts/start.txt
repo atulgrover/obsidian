@@ -1,0 +1,17 @@
+~~NOTOC~~
+
+The rise of large language models has created new possibilities for how humans interact with computers. To make the most of these systems, it is essential to understand how to guide them. Prompt engineering is the skill of crafting prompts that help LLMs understand intent, follow instructions, and produce accurate and relevant output. As AI becomes part of more applications, this skill becomes increasingly important for ensuring useful, reliable, and safe interactions.
+
+==== What is Prompting? ====
+
+  * Prompt engineering is the practice of asking clear and intentional questions so that an AI model produces the most useful response. It allows anyone to work directly with an LLM using plain language, without needing technical expertise.
+  * In the past, working with machine learning required deep knowledge of datasets, statistics, and modeling techniques. Today, you can guide an LLM simply by describing what you need in everyday language.
+
+==== Prompting Best Practices ====
+
+  * Communicate what information matters most so the model understands where to focus.
+  * Structure the prompt by defining a role, giving context or input data, and then stating the instruction.
+  * Use specific examples to narrow the model focus and improve accuracy.
+  * Add constraints to keep the response within scope and reduce mistakes.
+  * Break complex tasks into smaller, clearer steps.
+  * Ask the model to check or evaluate its own output before finalizing it (for example, limit response length or rate its clarity).

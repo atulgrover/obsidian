@@ -1,0 +1,5 @@
+Claim Management: Automate Collation, Verification, and Communication
+  - 1. Claim Extraction Agent (JSON form)
+  - 2. Claim Verification Agent
+  - 3. Creditor Communication Agent (Email)
+  - 4. IP Workflow Agent (API)

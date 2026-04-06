@@ -1,0 +1,6 @@
+base   kanbantasks
+author Atul Grover
+email  your@email.com
+name   Kanban Tasks Plugin (Dynamic CSV Loader)
+desc   Displays and downloads task lists from CSV files in assets folder
+url    https://resolutionbazaar.com

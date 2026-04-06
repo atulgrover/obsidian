@@ -1,0 +1,16 @@
+====== DOCUMENT AGENTS ======
+
+<WRAP column 68%>
+{{agentic_framework:resolution_pillars:json.png}} \\
+{{agentic_framework:resolution_pillars:json1.png}} \\
+</WRAP>
+
+
+<WRAP column 28%>
+/**
+[[https://courtformsonline.org|{{:agentic_framework:pasted:20250504-070408.png?250}}]]
+**/
+{{:agentic_framework:pasted:20250504-070408.png?250}}
+  * Claim Forms
+  * EOI Forms
+</WRAP>

@@ -1,0 +1,428 @@
+===== IN THE MATTER OF... ===== 
+{{tablelayout?colwidth="100px,800px"&rowsHeaderSource=1&tableSearch=1&tableSort=1}} 
+^ Order Date ^ Title ^
+|2024-08-19|[[:IBBI_IPRV_ORDERS_TEXT:in_the_matter_of_rti_appeal_of_r_ramachandran_19_08_2024]]|
+|2024-08-14|[[:IBBI_IPRV_ORDERS_TEXT:in_the_matter_of_hari_babu_thota_14_08_2024]]|
+|2024-08-14|[[:IBBI_IPRV_ORDERS_TEXT:in_the_matter_of_mudappallur_varieth_gangadharan_14_08_2024]]|
+|2024-08-14|[[:IBBI_IPRV_ORDERS_TEXT:in_the_matter_of_brijendra_kumar_mishra_14_08_2024]]|
+|2024-08-13|[[:IBBI_IPRV_ORDERS_TEXT:in_the_matter_of_rti_appeal_of_gaurav_13_08_2024]]|
+|2024-08-12|[[:IBBI_IPRV_ORDERS_TEXT:in_the_matter_of_vijendra_kumar_jain_12_08_2024]]|
+|2024-08-09|[[:IBBI_IPRV_ORDERS_TEXT:in_the_matter_of_nimit_kalsi_09_08_2024]]|
+|2024-08-09|[[:IBBI_IPRV_ORDERS_TEXT:in_the_matter_of_subrata_monindranath_maity_09_08_2024]]|
+|2024-08-09|[[:IBBI_IPRV_ORDERS_TEXT:in_the_matter_of_s_vasudevan_09_08_2024]]|
+|2024-08-08|[[:IBBI_IPRV_ORDERS_TEXT:in_the_matter_of_rti_appeal_of_jitender_kumar_jain_08_08_2024]]|
+|2024-08-06|[[:IBBI_IPRV_ORDERS_TEXT:in_the_matter_of_srigopal_choudhary_ip_2024_08_06]]|
+|2024-08-06|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Gopal Lal Baser IP]]|
+|2024-08-05|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Krishna Mohan Gollamudi IP]]|
+|2023-10-27|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Devinder Singh]]|
+|2017-03-02|[[:IBBI_IPRV_ORDERS_TEXT:gaurav jain ip registration-2017-03-02]]|
+|2017-03-14|[[:IBBI_IPRV_ORDERS_TEXT:vimal prakash dubey ip registration-2017-03-14]]|
+|2017-06-29|[[:IBBI_IPRV_ORDERS_TEXT:rajkumar vinod vachher ip registration-2017-06-29]]|
+|2019-07-06|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rv registration-2019-07-06]]|
+|2019-10-24|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr satnam singh-2019-10-24]]|
+|2019-10-25|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of dr puja chandra-2019-10-25]]|
+|2019-11-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr mahender kumar khandelwal insolvency professional-2019-11-14]]|
+|2019-12-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ip registration-2019-12-05]]|
+|2020-01-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr mukesh kumar rathi registered valuer-2020-01-08]]|
+|2020-01-10|[[:IBBI_IPRV_ORDERS_TEXT:derecognition of dawn resolution llp ipe-2020-01-10]]|
+|2020-01-21|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ip registration-2020-01-21]]|
+|2020-01-24|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr rashmi naval thakeria insolvency-2020-01-24]]|
+|2020-02-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ishrat ali-2020-02-20]]|
+|2020-02-27|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr dushyant c dave insolvency professional-2020-02-27]]|
+|2020-03-09|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr subodh r raje-2020-03-09]]|
+|2020-03-11|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rv registration-2020-03-11]]|
+|2020-03-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr chetankumar j shah-2020-03-16]]|
+|2020-03-17|[[:IBBI_IPRV_ORDERS_TEXT:brer_anwar_ramju_appeal-2020-03-17]]|
+|2020-03-18|[[:IBBI_IPRV_ORDERS_TEXT:derecognition of ipe almondz insolvency resolutions services pvt ltd-2020-03-18]]|
+|2020-03-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr tarun jaggi insolvency professional-2020-03-20]]|
+|2020-03-30|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ishrat ali-2020-03-30]]|
+|2020-04-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr amit gupta-2020-04-08]]|
+|2020-04-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr manoj k kamr a-2020-04-10]]|
+|2020-04-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr gokulakrishnan-2020-04-13]]|
+|2020-04-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr koteswara rao karuchola insolvency professional-2020-04-20]]|
+|2020-04-21|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr bhupesh gupta insolvency professional-2020-04-21]]|
+|2020-04-27|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr ashwini mehra insolvency professional-2020-04-27]]|
+|2020-04-30|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr mohit rasiklal mehta-2020-04-30]]|
+|2020-05-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr anmol malhotra-2020-05-05]]|
+|2020-05-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr arvind sharma-2020-05-14]]|
+|2020-05-30|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr mohan lal jain insolvency professional-2020-05-30]]|
+|2020-06-02|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr kanwal chaudhary insolvency professional-2020-06-02]]|
+|2020-06-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vijay kumar garg insolvency professional-2020-06-08]]|
+|2020-06-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr cm raghavan-2020-06-08]]|
+|2020-06-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr mohit rasiklal mehta-2020-06-08]]|
+|2020-06-11|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr dhanamjaya reddy lebaka insolvency professional-2020-06-11]]|
+|2020-07-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeals of mr manoj k kamr a-2020-07-03]]|
+|2020-07-21|[[:IBBI_IPRV_ORDERS_TEXT:rv_registration-2020-07-21]]|
+|2020-07-28|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr satyen gupta-2020-07-28]]|
+|2020-08-02|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr shobhit sharma-2020-08-02]]|
+|2020-08-19|[[:IBBI_IPRV_ORDERS_TEXT:rv_registration-2020-08-19]]|
+|2020-08-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr anil syal-2020-08-20]]|
+|2020-08-20|[[:IBBI_IPRV_ORDERS_TEXT:rv_registration-2020-08-20]]|
+|2020-08-24|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr rajneesh singhvi insolvency professional-2020-08-24]]|
+|2020-08-25|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr prashant rao-2020-08-25]]|
+|2020-08-29|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr satyen gupta-2020-08-29]]|
+|2020-09-04|[[:IBBI_IPRV_ORDERS_TEXT:abhishek ahuja registered valuer-2020-09-04]]|
+|2020-09-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr avishek gupta insolvency professional-2020-09-04]]|
+|2020-09-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr satyen gupta-2020-09-05]]|
+|2020-09-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr manoj k kamr a-2020-09-08]]|
+|2020-09-11|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr ravi sharma insolvency professional-2020-09-11]]|
+|2020-09-17|[[:IBBI_IPRV_ORDERS_TEXT:rv_registration-2020-09-17]]|
+|2020-09-19|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr kuntal shah-2020-09-19]]|
+|2020-10-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr sanjay beri-2020-10-04]]|
+|2020-10-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr pranav kumar insolvency professional-2020-10-12]]|
+|2020-10-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr sivakumar v-2020-10-12]]|
+|2020-10-13|[[:IBBI_IPRV_ORDERS_TEXT:ajay kumar insolvency professional-2020-10-13]]|
+|2020-10-15|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr kishan gopal somani insolvency professional-2020-10-15]]|
+|2020-10-23|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr a bhatia-2020-10-23]]|
+|2020-10-25|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr satyen gupta-2020-10-25]]|
+|2020-10-27|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr sanjay gambhir-2020-10-27]]|
+|2020-10-29|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr anil goel insolvency professional-2020-10-29]]|
+|2020-10-29|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr dushyant c dave insolvency professional-2020-10-29]]|
+|2020-10-29|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sundaresh bhat insolvency professional-2020-10-29]]|
+|2020-10-30|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of registration of insolvency professional-2020-10-30]]|
+|2020-11-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ms nikita vyas-2020-11-04]]|
+|2020-11-06|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr manmohan jhawar insolvency professional-2020-11-06]]|
+|2020-11-06|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr s radha krishna insolvency professional-2020-11-06]]|
+|2020-11-09|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr pritpal singh dua insolvency professional-2020-11-09]]|
+|2020-11-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr pawan kumar singhal-2020-11-10]]|
+|2020-11-11|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vinod kumar kothari insolvency professional-2020-11-11]]|
+|2020-11-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr kamalesh kumar singhania insolvency professional-2020-11-13]]|
+|2020-11-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr s rajagopal insolvency professional-2020-11-13]]|
+|2020-11-24|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr nitesh kumar sinha insolvency professional-2020-11-24]]|
+|2020-11-28|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr t n kripanandan-2020-11-28]]|
+|2020-12-01|[[:IBBI_IPRV_ORDERS_TEXT:ajay gupta insolvency professional-2020-12-01]]|
+|2020-12-01|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sanjay kumar agarwal insolvency professional-2020-12-01]]|
+|2020-12-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr balaknath bhattacharyya insolvency professional-2020-12-04]]|
+|2020-12-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr satinder kapur insolvency professional-2020-12-04]]|
+|2020-12-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr romesh chander sawhney insolvency professional-2020-12-08]]|
+|2020-12-14|[[:IBBI_IPRV_ORDERS_TEXT:ajay gulati insolvency professional-2020-12-14]]|
+|2020-12-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sajeve bhushan deora insolvency professional-2020-12-14]]|
+|2020-12-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr satya narayana guddeti insolvency professional-2020-12-14]]|
+|2020-12-15|[[:IBBI_IPRV_ORDERS_TEXT:abhay narayan manudhane insolvency professional-2020-12-15]]|
+|2020-12-15|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr rajesh samson insolvency professional-2020-12-15]]|
+|2020-12-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr manoj kumar jain insolvency professional-2020-12-16]]|
+|2020-12-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr venkata sivakumar insolvency professional-2020-12-17]]|
+|2020-12-30|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr amar kakaria-2020-12-30]]|
+|2020-12-30|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ramesh agarwal-2020-12-30]]|
+|2021-01-01|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr anil goel insolvency professional-2021-01-01]]|
+|2021-01-05|[[:IBBI_IPRV_ORDERS_TEXT:a arumugam insolvency professional-2021-01-05]]|
+|2021-01-11|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr girish siriram juneja insolvency professional-2021-01-11]]|
+|2021-01-11|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr jitender kumar jain-2021-01-11]]|
+|2021-01-27|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr vibhu gautam-2021-01-27]]|
+|2021-02-02|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vijaykumar v iyer insolvency professional-2021-02-02]]|
+|2021-02-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr anil kumar tyagi-2021-02-05]]|
+|2021-02-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr valuer-2021-02-16]]|
+|2021-03-02|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr valuer-2021-03-02]]|
+|2021-03-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr venkatesan insolvency professional-2021-03-05]]|
+|2021-03-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr lakhan lal gupta registered valuer-2021-03-12]]|
+|2021-03-15|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr kiran chinubhai shah insolvency professional-2021-03-15]]|
+|2021-03-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr somasundaram s-2021-03-16]]|
+|2021-03-31|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr rajmal ratanlal kakaria-2021-03-31]]|
+|2021-03-31|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr surendra kumar-2021-03-31]]|
+|2021-04-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr raman berry-2021-04-03]]|
+|2021-04-11|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr rajmal ratanlal kakaria-2021-04-11]]|
+|2021-04-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ashish kumar srivastava-2021-04-13]]|
+|2021-04-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr venkataramanarao nagarajan insolvency professional-2021-04-16]]|
+|2021-05-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ramakrishna s-2021-05-12]]|
+|2021-06-02|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr sudipta biswas-2021-06-02]]|
+|2021-06-09|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr rajmal labhchand mogra insolvency professional-2021-06-09]]|
+|2021-07-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr anupam tiwari insolvency professional-2021-07-08]]|
+|2021-07-14|[[:IBBI_IPRV_ORDERS_TEXT:sgc_resolution_professionals_llp_ipe-2021-07-14]]|
+|2021-07-15|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr gaurav tiwari-2021-07-15]]|
+|2021-07-15|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr tushar mahendrabhai patel-2021-07-15]]|
+|2021-07-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr prabhjit singh soni insolvency professional-2021-07-20]]|
+|2021-07-22|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr manish kumar gupta insolvency professional-2021-07-22]]|
+|2021-07-26|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr tushar mahendrabhai patel-2021-07-26]]|
+|2021-08-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr pandurang ramchandra shinde-2021-08-03]]|
+|2021-08-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr tushar mahendrabhai patel-2021-08-03]]|
+|2021-08-09|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms kumudini paranjape insolvency professional-2021-08-09]]|
+|2021-08-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of dr gp capt atul jain-2021-08-12]]|
+|2021-08-27|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr pramod kumar sharma insolvency professional-2021-08-27]]|
+|2021-09-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr dibakar ray-2021-09-16]]|
+|2021-09-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms charu sandeep desai insolvency professional-2021-09-17]]|
+|2021-09-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr abhishek goel-2021-09-17]]|
+|2021-09-21|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr sanket garg-2021-09-21]]|
+|2021-09-28|[[:IBBI_IPRV_ORDERS_TEXT:derecognition of ipe mitcon insolvency professional services pvt ltd-2021-09-28]]|
+|2021-09-28|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr satyen gupta-2021-09-28]]|
+|2021-10-06|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr chandeep singh-2021-10-06]]|
+|2021-10-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ketan bipinchandra jasani-2021-10-14]]|
+|2021-10-29|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr r jayanthilal-2021-10-29]]|
+|2021-11-09|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr david arockia-2021-11-09]]|
+|2021-11-09|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ms amr ita khandelwal-2021-11-09]]|
+|2021-11-24|[[:IBBI_IPRV_ORDERS_TEXT:rv_registration-2021-11-24]]|
+|2021-11-25|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr pawan kumar garg insolvency professional-2021-11-25]]|
+|2021-12-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr rajansinh l zala-2021-12-08]]|
+|2021-12-09|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr jaswant singh insolvency professional-2021-12-09]]|
+|2021-12-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr rajansinh l zala-2021-12-14]]|
+|2021-12-29|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vimal kumar grover insolvency professional-2021-12-29]]|
+|2022-01-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ravi kanth aluvala-2022-01-04]]|
+|2022-01-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr jasani yashkumar kamleshkumar-2022-01-05]]|
+|2022-01-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr satyen gupta-2022-01-05]]|
+|2022-02-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ip registration-2022-02-04]]|
+|2022-02-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr anil goel insolvency professional-2022-02-10]]|
+|2022-02-11|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr mahesh chand agrawal registered valuer-2022-02-11]]|
+|2022-02-18|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr sunder khatri-2022-02-18]]|
+|2022-02-24|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms esther rani jakkula registered valuer-2022-02-24]]|
+|2022-02-25|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr kannan sundaresan-2022-02-25]]|
+|2022-02-28|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vishwanath shridhar prabhu registered valuer-2022-02-28]]|
+|2022-02-28|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ms sudha ray-2022-02-28]]|
+|2022-03-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr rajansinh l zala-2022-03-04]]|
+|2022-03-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr sudhir khurana-2022-03-04]]|
+|2022-03-09|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr shreyans shah-2022-03-09]]|
+|2022-03-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms rita gupta insolvency professional-2022-03-14]]|
+|2022-03-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr c naulak-2022-03-16]]|
+|2022-03-22|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr umesh garg insolvency professional-2022-03-22]]|
+|2022-03-29|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr gaurav-2022-03-29]]|
+|2022-03-29|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr yogesh assudani-2022-03-29]]|
+|2022-03-31|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr rajiv chakraborty insolvency professional-2022-03-31]]|
+|2022-03-31|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr sanjay upadhyay-2022-03-31]]|
+|2022-04-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr anil kohli insolvency professional-2022-04-04]]|
+|2022-04-06|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr pawan kumar singal insolvency professional-2022-04-06]]|
+|2022-04-06|[[:IBBI_IPRV_ORDERS_TEXT:yardi_prabhu_consultants_valuers_pvt_ltd_rve-2022-04-06]]|
+|2022-04-07|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sripatham venkatasubramainan ramkumar insolvency professional-2022-04-07]]|
+|2022-04-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr mahender kumar khandelwal insolvency professional-2022-04-08]]|
+|2022-04-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr manish gupta insolvency professional-2022-04-08]]|
+|2022-04-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr manoj kumar singh insolvency professional-2022-04-08]]|
+|2022-04-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr nanak chand gupta registered valuer-2022-04-08]]|
+|2022-04-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr pankaj dhanuka insolvency professional-2022-04-12]]|
+|2022-05-02|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ip registration-2022-05-02]]|
+|2022-05-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr amit kumar-2022-05-04]]|
+|2022-05-06|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr chakravarthi srinivasan insolvency professional-2022-05-06]]|
+|2022-05-06|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sumat kumar gupta insolvency professional-2022-05-06]]|
+|2022-05-06|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ishrat ali-2022-05-06]]|
+|2022-05-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr bhupesh gupta ip-2022-05-10]]|
+|2022-05-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms kalpana g ip-2022-05-12]]|
+|2022-05-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr prasad kamalakar dharap ip-2022-05-13]]|
+|2022-05-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr shashi agarwal ip-2022-05-13]]|
+|2022-05-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ishrat ali-2022-05-17]]|
+|2022-05-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ms nisha malpani-2022-05-17]]|
+|2022-05-18|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr sunil jain-2022-05-18]]|
+|2022-05-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr dhinal shah ip-2022-05-20]]|
+|2022-05-24|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr venkateswarlu kari ip-2022-05-24]]|
+|2022-05-26|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr manish kumar gupta ip-2022-05-26]]|
+|2022-05-31|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr amit kumar-2022-05-31]]|
+|2022-06-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr arun kumar khandelia ip-2022-06-03]]|
+|2022-06-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ca rajat kumar mehra-2022-06-08]]|
+|2022-06-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr venkata suryanarayanarao nagulapati insolvency professional-2022-06-14]]|
+|2022-06-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr akshay goenka-2022-06-17]]|
+|2022-06-21|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr srinivasan karthigeyan insolvency professional-2022-06-21]]|
+|2022-06-24|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr partha sarathy sarkar insolvency professional-2022-06-24]]|
+|2022-06-24|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr satish sharma-2022-06-24]]|
+|2022-07-01|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr yogesh kumar gupta insolvency professional-2022-07-01]]|
+|2022-07-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr avishek gupta insolvency professional-2022-07-05]]|
+|2022-07-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sunil kumar agarwal insolvency professional-2022-07-05]]|
+|2022-07-07|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr anil kumar ojha-2022-07-07]]|
+|2022-07-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ca rajat kumar mehra-2022-07-08]]|
+|2022-07-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr mahender kumar khandelwal insolvency professional-2022-07-13]]|
+|2022-07-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr mohit rasiklal mehta-2022-07-13]]|
+|2022-07-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr mohit rasiklal mehta-2022-07-14]]|
+|2022-07-19|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr getticheviyur venkatraman ravikumar insolvency professional-2022-07-19]]|
+|2022-07-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr anil tayal insolvency professional-2022-07-20]]|
+|2022-07-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr rajat kumar mehra-2022-07-20]]|
+|2022-07-21|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr rajat kumar mehra-2022-07-21]]|
+|2022-07-22|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr gonugunta murli insolvency professional-2022-07-22]]|
+|2022-07-22|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr rajat kumar mehra-2022-07-22]]|
+|2022-07-25|[[:IBBI_IPRV_ORDERS_TEXT:rti appeal of mr rahul patlolla-2022-07-25]]|
+|2022-07-26|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms padmasri appana insolvency professional-2022-07-26]]|
+|2022-07-26|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr rajat kumar mehra-2022-07-26]]|
+|2022-07-27|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of rajat kumar mehra-2022-07-27]]|
+|2022-07-28|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr mudappallur varieth gangadharan insolvency professional-2022-07-28]]|
+|2022-08-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr anil kumar ojha-2022-08-03]]|
+|2022-08-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr firoz t totanawala-2022-08-03]]|
+|2022-08-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr rohit aggarwal insolvency professional-2022-08-04]]|
+|2022-08-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr rakesh ahuja insolvency professional-2022-08-10]]|
+|2022-08-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of dr debaprasad bandyopadhyay-2022-08-16]]|
+|2022-08-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms rakesh verma insolvency professional-2022-08-17]]|
+|2022-08-18|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr savan godiawala insolvency professional-2022-08-18]]|
+|2022-08-18|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr rajat kumar mehra-2022-08-18]]|
+|2022-08-22|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr nipan bansal insolvency professional-2022-08-22]]|
+|2022-08-23|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sanjay kumar singh insolvency professional-2022-08-23]]|
+|2022-08-25|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr dinkar tiruvannadapuram venkatasubramnian insolvency professional-2022-08-25]]|
+|2022-08-25|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ashutosh kumar singh-2022-08-25]]|
+|2022-09-07|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ishrat ali-2022-09-07]]|
+|2022-09-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ishrat ali-2022-09-10]]|
+|2022-09-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr jayesh natvarlal sanghrajka insolvency professional-2022-09-12]]|
+|2022-09-19|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr dharambir singm-2022-09-19]]|
+|2022-09-19|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr yash barvaliya-2022-09-19]]|
+|2022-09-22|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ca rajat kumar mehra-2022-09-22]]|
+|2022-09-23|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr manish kumar gupta insolvency professional-2022-09-23]]|
+|2022-09-28|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sundaresh bhat insolvency professional-2022-09-28]]|
+|2022-09-29|[[:IBBI_IPRV_ORDERS_TEXT:estate managers and appraisers foundation rvo-2022-09-29]]|
+|2022-10-11|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr chandra prakash insolvency professional-2022-10-11]]|
+|2022-10-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr rajendra k bhuta insolvency professional-2022-10-12]]|
+|2022-10-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ashok kriplani-2022-10-17]]|
+|2022-10-20|[[:IBBI_IPRV_ORDERS_TEXT:abhijit guhathakurta insolvency professional-2022-10-20]]|
+|2022-10-25|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ravi sharma-2022-10-25]]|
+|2022-10-28|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr anil mehta ip-2022-10-28]]|
+|2022-11-02|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sanjeev ahuja insolvency professional-2022-11-02]]|
+|2022-11-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr prateek kathuria insolvency professional-2022-11-03]]|
+|2022-11-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms sonu jain insolvency professional-2022-11-10]]|
+|2022-11-15|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr gopal lal baser insolvency professional-2022-11-15]]|
+|2022-11-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of firoz t totanawala-2022-11-17]]|
+|2022-11-21|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of sivakumar venkatesan-2022-11-21]]|
+|2022-11-24|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr anuj kumar tiwari insolvency professional-2022-11-24]]|
+|2022-11-25|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr komal kumar-2022-11-25]]|
+|2022-12-09|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr t sujesh nair-2022-12-09]]|
+|2023-01-09|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr naveen kumar-2023-01-09]]|
+|2023-01-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr subrata monindranath maity ip-2023-01-10]]|
+|2023-01-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr ranjeet kumar verma ip-2023-01-13]]|
+|2023-01-18|[[:IBBI_IPRV_ORDERS_TEXT:association of certified valuators and analysts rvo-2023-01-18]]|
+|2023-01-25|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr rajagurusami maheswaran ip-2023-01-25]]|
+|2023-01-27|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of pramod kumar jain-2023-01-27]]|
+|2023-01-30|[[:IBBI_IPRV_ORDERS_TEXT:abhishek anand ip-2023-01-30]]|
+|2023-01-30|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr pankaj sham joshi ip-2023-01-30]]|
+|2023-01-31|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr ashutosh gokhale ip-2023-01-31]]|
+|2023-01-31|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of adv menon-2023-01-31]]|
+|2023-02-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr manish gupta ip-2023-02-03]]|
+|2023-02-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ms rashmi singhal-2023-02-08]]|
+|2023-02-15|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr anurag kumar sinha ip-2023-02-15]]|
+|2023-02-15|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mohit rasiklal mehta-2023-02-15]]|
+|2023-02-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mohit rasiklal mehta-2023-02-16]]|
+|2023-02-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vivek raheja ip-2023-02-17]]|
+|2023-02-17|[[:IBBI_IPRV_ORDERS_TEXT:rbsa_valuation_advisors_llp_rv-2023-02-17]]|
+|2023-02-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr c ramasubramaniam ip-2023-02-20]]|
+|2023-02-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of nandish patel-2023-02-20]]|
+|2023-02-28|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sandeep kumar agarwal rv-2023-02-28]]|
+|2023-02-28|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms gunjan agarwal rv-2023-02-28]]|
+|2023-03-01|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ashish mohan gupt-2023-03-01]]|
+|2023-03-01|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ashish mohan gupta-2023-03-01]]|
+|2023-03-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vineet aggarwal ip-2023-03-14]]|
+|2023-03-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of cs maurya-2023-03-16]]|
+|2023-03-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of cs maurya-2023-03-17]]|
+|2023-03-22|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr hemant kumar lakhotia rv-2023-03-22]]|
+|2023-03-22|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr neeraj kumar sureka rv-2023-03-22]]|
+|2023-03-23|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr bhupendra singh narayan singh rajput ip-2023-03-23]]|
+|2023-03-27|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ashok kriplani-2023-03-27]]|
+|2023-04-06|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of sunil jain-2023-04-06]]|
+|2023-04-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr s muthuraju ip-2023-04-12]]|
+|2023-04-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of robil mittal-2023-04-17]]|
+|2023-04-18|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr shyamal mukherjee rv-2023-04-18]]|
+|2023-04-19|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr asim maity rv-2023-04-19]]|
+|2023-04-21|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of robin mittal-2023-04-21]]|
+|2023-04-24|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of dharambir singh-2023-04-24]]|
+|2023-04-26|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr debasish ghosh rv-2023-04-26]]|
+|2023-05-01|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr dushyant c dave insolvency professional]]|
+|2023-05-01|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr ravinder kumar goel insolvency professional]]|
+|2023-05-02|[[:IBBI_IPRV_ORDERS_TEXT:in_the_matter_of_vedagiri_venkata_krishnamurthy_ip-2023-05-02]]|
+|2023-05-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr arun gupta ip-2023-05-04]]|
+|2023-05-04|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ramesh chauhan-2023-05-04]]|
+|2023-05-09|[[:IBBI_IPRV_ORDERS_TEXT:ajay kumar chakrabarti rv-2023-05-09]]|
+|2023-05-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr kanwal goyal ip-2023-05-10]]|
+|2023-05-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr s amarendran ip-2023-05-10]]|
+|2023-05-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr s shivshanker ip-2023-05-12]]|
+|2023-05-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr srigopal choudhary ip-2023-05-12]]|
+|2023-05-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr ramasamy shanmuggam ip-2023-05-16]]|
+|2023-05-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr motappa thimmarayaswamy rv-2023-05-17]]|
+|2023-05-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr pulianda chengappa achaya rv-2023-05-17]]|
+|2023-05-17|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sudhindra rao h r rv-2023-05-17]]|
+|2023-05-18|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr amit gupta ip-2023-05-18]]|
+|2023-05-18|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr navneet gupta ip-2023-05-18]]|
+|2023-05-19|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr konduru prasanth raju ip-2023-05-19]]|
+|2023-05-23|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr ganga ram agarwal ip-2023-05-23]]|
+|2023-05-23|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr kairav anil trivedi ip-2023-05-23]]|
+|2023-05-26|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr gopal lal baser ip-2023-05-26]]|
+|2023-05-31|[[:IBBI_IPRV_ORDERS_TEXT:yardi_prabhu_consultants_valuers_pvt_ltd_rve-2023-05-31]]|
+|2023-06-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr brij kishore sharma ip-2023-06-08]]|
+|2023-06-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms sonu jain ip-2023-06-08]]|
+|2023-06-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of dharambir singh-2023-06-10]]|
+|2023-06-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr raj kumar ralhan ip-2023-06-13]]|
+|2023-06-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr puran kumar-2023-06-13]]|
+|2023-06-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr debaprasad bandyopadhyay-2023-06-14]]|
+|2023-06-19|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr c ramasubramaniam ip-2023-06-19]]|
+|2023-06-19|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vishal ghisulal jain ip-2023-06-19]]|
+|2023-06-19|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr bhaskar saxena-2023-06-19]]|
+|2023-06-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr adarsh abhishek-2023-06-20]]|
+|2023-06-22|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr debasish ghosh rv-2023-06-22]]|
+|2023-06-22|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr robin mittal-2023-06-22]]|
+|2023-06-23|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr sharaf abbas rizvi-2023-06-23]]|
+|2023-06-27|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr anand chandra swain ip-2023-06-27]]|
+|2023-06-28|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ashok kriplani-2023-06-28]]|
+|2023-06-30|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr robin mittal-2023-06-30]]|
+|2023-07-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr rohit vora ip-2023-07-03]]|
+|2023-07-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ramesh chandra-2023-07-03]]|
+|2023-07-06|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr pramod kumar sharma ip-2023-07-06]]|
+|2023-07-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr ananda rao korada ip-2023-07-13]]|
+|2023-07-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sanjay kumar singh ip-2023-07-20]]|
+|2023-08-02|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sutanu sinha ip-2023-08-02]]|
+|2023-08-03|[[:IBBI_IPRV_ORDERS_TEXT:rti appeal of ramesh chandra-2023-08-03]]|
+|2023-08-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of gaurav saini-2023-08-08]]|
+|2023-08-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr mehul bansal-2023-08-10]]|
+|2023-08-11|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms poonam basak ip-2023-08-11]]|
+|2023-08-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vinodkumar bhagvanji bhogayata rv-2023-08-14]]|
+|2023-09-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vishal pawankumar bidawatjika ip-2023-09-05]]|
+|2023-09-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr abhishek aryan-2023-09-05]]|
+|2023-09-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr partha sarathy sarkar ip-2023-09-13]]|
+|2023-09-19|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of uv rao-2023-09-19]]|
+|2023-09-29|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr dhaval jitendrakumar mistry ip-2023-09-29]]|
+|2023-09-29|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr venkata krishna srinivasa raju penmetsa rv-2023-09-29]]|
+|2023-10-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ganesan shanmugam-2023-10-20]]|
+|2023-10-31|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr ramit rastogi ip-2023-10-31]]|
+|2023-10-31|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of k c bhargava-2023-10-31]]|
+|2023-10-31|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ramesh chandra-2023-10-31]]|
+|2023-11-01|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sandeep bhatt ip-2023-11-01]]|
+|2023-11-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of bhaskar roy-2023-11-14]]|
+|2023-11-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of shiv kumar-2023-11-14]]|
+|2023-11-20|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vineet aggarwal ip-2023-11-20]]|
+|2023-11-23|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr ramesh chandra-2023-11-23]]|
+|2023-12-08|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr manish gupta ip-2023-12-08]]|
+|2023-12-15|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr sundaresan-2023-12-15]]|
+|2023-12-21|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr nirav anupam tarkas ip-2023-12-21]]|
+|2023-12-27|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vichitra narayan pathak ip-2023-12-27]]|
+|2023-12-28|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr manoj kumar agarwal-2023-12-28]]|
+|2023-12-29|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sanjeev jhunjhunwala ip-2023-12-29]]|
+|2024-01-02|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr ramanahalli shivanna dodda byregowda ip-2024-01-02]]|
+|2024-01-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vivek raheja ip-2024-01-12]]|
+|2024-01-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr gopal laddha-2024-01-12]]|
+|2024-01-29|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of mr subrata monindranath maity-2024-01-29]]|
+|2024-01-30|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr naren sheth ip-2024-01-30]]|
+|2024-02-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of ashok kumar sharma-2024-02-03]]|
+|2024-02-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ip registration-2024-02-05]]|
+|2024-02-05|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms maya gupta ip-2024-02-05]]|
+|2024-02-16|[[:IBBI_IPRV_ORDERS_TEXT:alok_kumar_kuchhal_ip-2024-02-16]]|
+|2024-02-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr sanjay kumar singh ip-2024-02-16]]|
+|2024-02-26|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr shashi agarwal ip-2024-02-26]]|
+|2024-03-15|[[:IBBI_IPRV_ORDERS_TEXT:rti appeal of mr shiv kumar roongta-2024-03-15]]|
+|2024-04-03|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr chetan patel ip-2024-04-03]]|
+|2024-04-09|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr venkata sivakumar ip-2024-04-09]]|
+|2024-04-12|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of ms jovita reema mathias ip-2024-04-12]]|
+|2024-04-23|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of nelson james macwan-2024-04-23]]|
+|2024-04-30|[[:IBBI_IPRV_ORDERS_TEXT:ajit gyanchand jain ip-2024-04-30]]|
+|2024-05-02|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr c ramasubramaniam ip-2024-05-02]]|
+|2024-05-09|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of krishna chakrabarty-2024-05-09]]|
+|2024-05-10|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of kunal gupta-2024-05-10]]|
+|2024-05-13|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr vineet aggarwal ip-2024-05-13]]|
+|2024-05-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr ankit gupta ip-2024-05-14]]|
+|2024-05-14|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of rti appeal of t sujesh nair-2024-05-14]]|
+|2024-05-16|[[:IBBI_IPRV_ORDERS_TEXT:in the matter of mr anil goel ip-2024-05-16]]|
+|2024-05-17|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Manish Kumar Gupta IP_2024-05-17]]|
+|2024-05-22|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of RTI Appeal of Jagdish Jakhar_2024-05-22]]|
+|2024-05-22|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of RTI Appeal of Yathish H_2024-05-22]]|
+|2024-05-22|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of RTI Appeal of Yogesh Kumar Gupta_2024-05-22]]|
+|2024-05-22|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of RTI Appeal of Yogesh Kumar Gupta_2024-05-22]]|
+|2024-05-31|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Ms J Karthiga_2024-05-31]]|
+|2024-06-03|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of RTI Appeal of Ritika Kansal_2024-06-03]]|
+|2024-06-03|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of RTI Appeal of Shailesh Kumar Agrawal_2024-06-03]]|
+|2024-06-05|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Muthuiah Thevar Rajapandian IP_2024-06-05]]|
+|2024-06-07|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Mahender Kumar Khandelwal IP_2024-06-07]]|
+|2024-06-18|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr C Ramasubramainam_2024-06-18]]|
+|2024-06-18|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of RTI Appeal of Mr Nelson James Macwan_2024-06-18]]|
+|2024-06-20|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Uday Narayan Mitra IP_2024-06-20]]|
+|2024-06-21|[[:IBBI_IPRV_ORDERS_TEXT:In the mater of RTI Appeal of Ashish Shankar_2024-06-21]]|
+|2024-06-21|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of RTI Appeal of Shivam Gupta_2024-06-21]]|
+|2024-06-21|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of RTI Appeal of Prashant Sheth_2024-06-21]]|
+|2024-06-25|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Pinaki Sircar IP_2024-06-25]]|
+|2024-06-26|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Shashi Agarwal IP_2024-06-26]]|
+|2024-07-05|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Arun Jain IP_2024-07-05]]|
+|2024-07-08|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Radhakrishnan Dharmarajan IP_2024-07-08]]|
+|2024-07-11|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Narender Kumar Sharma IP_2024-07-11]]|
+|2024-07-11|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Ms Reshma Mittal IP_2024-07-11]]|
+|2024-07-12|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Gopal Krishna Raju RV_2024-07-12]]|
+|2024-07-15|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Narender Kumar Sharma IP_2024-07-15]]|
+|2024-07-19|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of RTI Appeal of Mr Mukul Shriniwas Goyal_2024-07-19]]|
+|2024-07-23|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr S Diraviam IP_2024-07-23]]|
+|2024-07-24|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Vijaykumar Subramaniam Varun IP_2024-07-24]]|
+|2024-07-30|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Rakesh Kumar Gupta IP_2024-07-30]]|
+|2024-07-31|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Amar Gopal Gambhir IP_2024-07-31]]|
+|2024-07-31|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of RTI Appeal of Anubhav Choudhary_2024-07-31]]|
+|2024-08-02|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Manish Kumar Gupta IP_2024-08-02]]|
+|2024-08-02|[[:IBBI_IPRV_ORDERS_TEXT:In the matter of Mr Devendra Singh IP_2024-08-02]]|

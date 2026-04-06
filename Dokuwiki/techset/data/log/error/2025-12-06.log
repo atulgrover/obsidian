@@ -1,0 +1,17 @@
+2025-12-06 16:17:32	/home/resokied/public_html/techset/lib/plugins/markdowku/syntax/ulists.php(79)	E_WARNING: Undefined array key 2
+  #0 /home/resokied/public_html/techset/lib/plugins/markdowku/syntax/ulists.php(79): dokuwiki\ErrorHandler::errorHandler()
+  #1 /home/resokied/public_html/techset/inc/Parsing/Handler/Lists.php(80): Doku_Handler_Markdown_Unordered_List->interpretSyntax()
+  #2 /home/resokied/public_html/techset/inc/Parsing/Handler/Lists.php(32): dokuwiki\Parsing\Handler\Lists->listOpen()
+  #3 /home/resokied/public_html/techset/lib/plugins/markdowku/syntax/ulists.php(55): dokuwiki\Parsing\Handler\Lists->process()
+  #4 /home/resokied/public_html/techset/inc/parser/handler.php(298): syntax_plugin_markdowku_ulists->handle()
+  #5 /home/resokied/public_html/techset/inc/Parsing/Lexer/Lexer.php(269): Doku_Handler->plugin()
+  #6 /home/resokied/public_html/techset/inc/Parsing/Lexer/Lexer.php(189): dokuwiki\Parsing\Lexer\Lexer->invokeHandler()
+  #7 /home/resokied/public_html/techset/inc/Parsing/Lexer/Lexer.php(146): dokuwiki\Parsing\Lexer\Lexer->dispatchTokens()
+  #8 /home/resokied/public_html/techset/inc/Parsing/Parser.php(113): dokuwiki\Parsing\Lexer\Lexer->parse()
+  #9 /home/resokied/public_html/techset/inc/parserutils.php(234): dokuwiki\Parsing\Parser->parse()
+  #10 /home/resokied/public_html/techset/inc/parserutils.php(198): p_get_instructions()
+  #11 /home/resokied/public_html/techset/inc/parserutils.php(520): p_cached_instructions()
+  #12 /home/resokied/public_html/techset/inc/parserutils.php(299): p_render_metadata()
+  #13 /home/resokied/public_html/techset/inc/common.php(265): p_get_metadata()
+  #14 /home/resokied/public_html/techset/doku.php(101): pageinfo()
+  #15 {main}

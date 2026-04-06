@@ -1,0 +1,16 @@
+/** action pagemod process_forms:insolvency_forms:tickets:guest_comments add_comment **/
+
+===== Comments =====
+
+<pagemod add_comment output_after>
+//@@meta.date.format.r@@://
+^<nowiki>@@Name@@</nowiki> |<nowiki>@@Email (optional)| @@</nowiki>|
+|<nowiki>@@Comment@@</nowiki> ||
+</pagemod>
+//Sun, 02 Nov 2025 07:24:17 +0000://
+^<nowiki>testing again</nowiki> |<nowiki>tesr@gmail.com</nowiki>|
+|<nowiki>ssssssssssssssssssssssssssssssssssssssssssssssssssss</nowiki> ||
+
+//Sat, 18 Oct 2025 07:07:42 +0000://
+^<nowiki>Atul Grover</nowiki> |<nowiki>resolutionbazaar@gmail.com</nowiki>|
+|<nowiki>dfgdhfg dfghdfg dfghdfghdf </nowiki> ||

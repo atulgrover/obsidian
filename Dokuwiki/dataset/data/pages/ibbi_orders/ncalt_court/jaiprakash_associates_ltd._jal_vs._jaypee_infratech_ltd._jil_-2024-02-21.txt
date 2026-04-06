@@ -1,0 +1,853 @@
+<html>
+<div>
+	<h2>
+		Jaiprakash Associates Limited vs Jaypee Infratech Ltd. &amp; Ors on 21 February, 2024
+	</h2>
+	<h3>
+		Author: Ashok Bhushan
+	</h3>
+	<h3>
+		Bench: Ashok Bhushan
+	</h3>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL, PRINCIPAL BENCH, NEW DELHI Company Appeal (AT) (Insolvency) No. 548 of 2023 &amp; I.A. No. 2643, 3702 of 2023In the matter of:Jaiprakash Associates Ltd. ....AppellantVs.Jaypee Infratech Ltd. &amp; Ors. ...Respondents For Appellant: Mr. Krishnan Venugopal, Sr. Advocate with Mr. Anupam Chaudhary, Mr. Sarvesh Mehra, Mr. Krishnan Aggarwal, Mr. Avinash Mathews, Advocates. For Respondents: Mr. Sumant Batra, Mr. Sanjay Bhatt, Mr. Sarthak Bhandari, Ms. Mehreen Garg, Advocates for IMC of JIL/R-1. Mr. Krishnendu Datta, Sr. Advocate with Mr. Mahesh Agarwal, Ms. Geetika Sharma, Ms. Eshna Kumar, Mr. Sagar Bansal, Ms. Varsha Himatsingka, Mr. Rajat Sinha, Advocates for SRA, R- 3 &amp; 4. Mr. Tushar Jain, Mr. Vaibhav Chowdhary, Mr. Mukesh Kumar, Advocates in IA 2643/2023. Mr. Parth Tandon and Mr. Harsh Sharma, Advocates for Applicant in I.A. 3218/2023. Mr. Amit K. Mishra, Mr. Akshat Hansaria, Advocates for Homebuyers/Intervenors. Mr. Vierat K. Anand, Ms. Srishty Kaul, Mr. Harish Nadda, Advocates. Company Appeal (AT) (Insolvency) No. 559 of 2023 &amp; I.A. No. 3701 of 2023In the matter of:Manoj Gaur ....AppellantVs.Jaypee Infratech Ltd. &amp; Ors. ...Respondents Cont'd.../ 2 For Appellant: Mr. Krishnan Venugopal, Sr. Advocate with Mr. Anupam Chaudhary, Mr. Sarvesh Mehra, Mr. Krishnan Aggarwal, Mr. Avinash Mathews, Advocates For Respondents: Mr. Sumant Batra, Mr. Sanjay Bhatt, Mr. Sarthak Bhandari, Ms. Mehreen Garg, Advocates for IMC of JIL/R-1. Mr. Krishnendu Datta, Sr. Advocate with Mr. Mahesh Agarwal, Ms. Geetika Sharma, Ms. Eshna Kumar, Mr. Sagar Bansal, Ms. Varsha Himatsingka, Mr. Rajat Sinha, Advocates for SRA, R- 3 &amp; 4. Mr. Varinder Kumar Sharma, Ms. Parul Sharma, Advocates in I.A. No. 3701, 3702 of 2023. Mr. Vierat K. Anand, Ms. Srishty Kaul, Mr. Harish Nadda, Mr. Vikalp Singh, Mr. Kumar Shashank, Mr. Rishabh Singh, Ms. Deepannita Chakraborty, Mr. Arun Yadav, Mr. Anant Singh, Mr. Abhishek Sharma, Advocates. JUDGMENT
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(21st February, 2024) Ashok Bhushan, J.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		These two Appeals have been filed against the same order dated 07.03.2023 passed by the Adjudicating Authority (National Company Law Tribunal), New Delhi, Special Bench approving the Resolution Plan submitted by Consortium of M/s. Suraksha Realty Limited and M/s. Lakshdeep Investment and Finance Private Limited (hereinafter referred to as 'Suraksha Realty') in Corporate Insolvency Resolution Process of Jaypee Infratech Limited. The Appellant in Company Appeal (AT) (Insolvency) No.548 of 2023 is holding company of Jaypee Infratech Limited, the Corporate Debtor and erstwhile promoter and majority shareholder of the Corporate Debtor. The Appellant in Company Appeal (AT) (Insolvency) No.559 of 2023 is erstwhile Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 3 Managing Director of the Corporate Debtor and personal guarantor of the loans given to the Corporate Debtor.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		2. There is chequered history of litigation with respect to CIRP of the Corporate Debtor- Jaypee Infratech Limited. We need to notice only few of the background facts and events giving rise to these Appeals which are necessary to be noticed for deciding these Appeals:-
+	</p>
+	<p title="Issue">
+		2.1. The State of Uttar Pradesh constituted Industrial Developmental Authority namely-- 'Taj Expssway Industrial Development Authority' under the UP Industrial Areas Development Act, 1976. On 07.02.2003, a Concession Agreement was executed between Taj Expssway Industrial Development Authority and Jaiprakash Associates Limited (erstwhile Jaiprakash Industries Limited) where Jaiprakash Associates Limited (hereinafter referred to as 'JAL') has been granted concession to develop the expssway against right to collect toll charges for a period of 36 years and right to develop 6177 acres at actual compensation cost. Jaypee Infratech Ltd. was constituted as SPV for the project and by agreement dated 19.10.2007, all the rights and obligations under the Concession Agreement were assigned to the Corporate Debtor. On 11.07.2008, Taj Expssway renamed as 'Yamuna Expssway Industrial Development Authority' (hereinafter referred to as "YEIDA").
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Finances were obtained from consortium of banks on mortgage of immovable land and pledge of 51% shareholding of JAL. IDBI Bank which was one of the lenders filed Section 7 application against the Corporate Debtor which was admitted by NCLT, Allahabad Bench by order dated 09.08.2017. Several Writ Petitions were filed before the Hon'ble Supme Court under Article 32 by the Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 4 Homebuyers for protection of their interest. One of the Writ Petitions was "Chitra Sharma &amp; Ors. vs. Union Of India &amp; Ors.- Writ Petition No.744 of 2017" in which Writ Petition several orders were passed by the Hon'ble Supme Court permitting IRP to take over the management of JIL. Orders were also passed against JAL. Hon'ble Supme Court passed final judgment in Writ Petition of Chitra Sharma on 09.08.2018 (Judgment Reported in (2018) 18 SCC 575). The Hon'ble Supme Court held that the promoters of JAL/JIL cannot participate in the Resolution Process of the Corporate Debtor in view of Section 29A. CIRP period having come to an end, Hon'ble Supme Court took the view that the CIRP should be revived and CoC be re-constituted as per the amended provision to include the homebuyers. The Hon'ble Supme Court in exercising jurisdiction under Article 142 of the Constitution revived the CIRP process. After the order of the Hon'ble Supme Court dated 09.08.2018, the IDBI Bank filed an application before the Adjudicating Authority for excluding certain period. In the Appeal filed by IDBI Bank, NCLAT granted the exclusion of time which order was challenged by Jaiprakash Associates Limited and Ors. in the Hon'ble Supme Court by Civil Appeal No.8437 of 2019 which Appeal was finally disposed of by the Hon'ble Supme Court by judgment and order dated 06.11.2019. The Hon'ble Supme Court by the said order again exercised jurisdiction under Article 142 and extended period of 90 days. In the CIRP of the Corporate Debtor, Adjudicating Authority vide order dated 03.03.2020 approved the Resolution Plan of NBCC with some modification. Various parties objected the approval of the Resolution Plan including JAL. NBCC itself objected modification done Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 5 in the Resolution Plan. Appeals were filed in the NCLAT. The Hon'ble Supme Court by an order withdrew Appeals pending in the NCLAT with respect to the order dated 03.03.2020. Against an order passed on 22.04.2020 by the NCLAT, Civil Appeal No.3395 of 2020 was filed by Jaypee Kensington Boulevard Apartments Welfare Association &amp; Ors. Hon'ble Supme Court vide its judgment and order dated 24.03.2021 decided Civil Appeals and all transfer matters which judgment is reported in (2022) 1 SCC 401. Hon'ble Supme Court by its judgment dated 24.03.2021 found error in the order dated 03.03.2020 that the matter regarding approval of Resolution Plan to be remitted to the CoC. Time was also extended for completion of the CIRP. The Hon'ble Supme Court has directed that the IRP to take fresh Resolution Plan only from Suraksha Realty and NBCC respectively.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		2.2. After the above order of the Hon'ble Supme Court, both Suraksha Realty and NBCC submitted their Resolution Plans. The Resolution Plan was submitted by Suraksha Realty dated 07.06.2021 with addendum dated 09.06.2021. CoC in its meeting dated 23.06.2021 approved the Resolution Plan of Suraksha Realty by 98.66% voting. The IRP filed an IA 2836 of 2021 before the Adjudicating Authority on 07.07.2021 for approval of Suraksha Realty's Resolution Plan. On 30.07.2021, JAL filed objection to Suraksha's Resolution Plan. Shri Manoj Gaur, Promoter/ Director has also filed his objection before the NCLT to the Suraksha Realty's Resolution Plan. IRP filed his rejoinder to the objection to Suraksha Realty's Resolution Plan. IDBI Bank has also filed its reply to the objection submitted by Promoter/Director. IRP filed additional documents and additional affidavit. Compilation of documents Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 6 was also filed by JAL. Adjudicating Authority heard the parties on several occasions. Adjudicating Authority on 07.03.2023 pronounced the order approving the Resolution Plan of Suraksha Realty. Several other applications filed by homebuyers were decided by the same order. IA No.2836 of 2021 filed by the IRP was allowed and other applications were dismissed. Challenging the order dated 07.03.2023, Company Appeal (AT) (Insolvency) No.548 of 2023 has been filed by Jaiprakash Associates Limited and Company Appeal (AT) (Insolvency) No.559 of 2023 has been filed by Manoj Gaur, promoter/director.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		2.3. It is also relevant to notice that the order dated 07.03.2023 has also been challenged by other several entities who were aggrieved by the order dated 07.03.2023.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		2.4. The Income Tax Department has filed a Company Appeal (AT) (Insolvency) No.549 of 2023- "Deputy Commissioner of Income Tax vs. Anuj Jain, IRP of M/s. Jaypee Infratech Limited" which has been decided by judgment of this Tribunal dated 26.09.2023.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		2.5. YEIDA also filed a Company Appeal being Company Appeal (AT) (Insolvency) No.493 of 2023 challenging the order dated 07.03.2023 which is still pending.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		3. We have heard Shri Krishnan Venugopal, Learned Senior Counsel on behalf of the Appellant, Shri Sumant Batra, Learned Counsel appearing for Monitoring Committee and Learned Senior Counsel Shri Krishnendu Datta for the SRA. We have also heard several Learned Counsels who have filed I.As on behalf of different Homebuyers.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 7
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		4. Shri Krishnan Venugopal, Learned Senior Counsel for the Appellants has made elaborate submissions on behalf of the Appellants and has also filed his Written Submissions. At the outset, Counsel for the Appellants submits that the Appellants have sufficient locus standi to raise objection to the Resolution Plan. Appellants' objections were heard by Adjudicating Authority on merits. Appellants' arguments were also heard and considered in the earlier round of litigation even before the Hon'ble Supme Court in Jaypee Kensington (supra). Locus of Appellants was challenged by the Resolution Professional in the Jaypee Kensington Boulevard Apartment Welfare Association but the said arguments was repelled. Appellants have raised submission in earlier round of litigation in Jaypee Kensington Boulevard Apartment Welfare Association where Resolution Plan of NBCC was under
+	</p>
+	<p title="Respondent's Argument">
+		challenge which objections were noticed and considered.
+	</p>
+	<p title="Respondent's Argument">
+		4.1. Learned Counsel for the Appellant has also placed reliance on judgment of the Hon'ble Supme Court in "Vijay Kumar Jain vs. Standard Chartered Bank- (2019) 20 SCC 455" in support of his submission. Learned Counsel for the Appellant further submits that the Resolution Plan requires to be complied with Section 30(2) of the IBC as the CIRP process is an "in rem". The Resolution being binding on all stakeholders including guarantors, the Appellants were also guarantors whose interest being affected by the Resolution Plan and they have every locus to challenge the Resolution Plan.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		Elucidating his submission, Learned Senior Counsel for the Appellant contends that the duties cast upon the Adjudicating Authority under Section 31(1), that the plan may be approved only when it is satisfied that the Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 8 Resolution Plan complies with the mandatory requirements of Section 30(2). Appellants are fully entitled to point out that the Resolution Plan does not comply with Section 30(2) and deserves to be interfered by the Adjudicating Authority in exercise of limited power of review considered to it as laid down by the Hon'ble Supme Court in various judgments including the judgment of the Hon'ble Supme Court in "Essar Steel India Ltd. Committee of Creditors vs. Satish Kumar Gupta- (2020) 8 SCC 531". 4.2. It is submitted that the Appellants have raised objection regarding future dues of Income Tax Department. It is submitted that the revenue subsidy on account of the land for development given by YEIDA to JIL could not be written off in the Resolution Plan as these were future liabilities in respect of which no demand had yet been raised.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		4.3. The Resolution Plan extinguishes an amount of Rs.3334 Crores for assessment years 2010-11 and 2012-13 in respect of which IT Department had filed its claim in Form B on 28.09.2017. However, the Resolution Plan also sought to extinguish the future liability of Rs.33,000 Crores. The Adjudicating Authority by approving the Resolution Plan has wiped out the entire liability owing to the IT Department including the amounts in respect of which the IT Department did not raise any demands. The IT Department had not filed any objections before the Adjudicating Authority but they have pferred Company Appeal (AT) (Insolvency) No.549 of 2023 against the impugned order which has been decided by this Tribunal vide order dated 26.09.2023. Against the judgment of this Tribunal dated 26.09.2023, Suraksha Realty has filed Civil Appeal No.7412 of 2023.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 9 4.4. It is submitted that the treatment of the dues to the IT Department not severable from the Resolution Plan and makes it unworkable. Learned Counsel for the Appellant has also referred to the order dated 10.11.2023 passed by the Hon'ble Supme Court in Civil Appeal No. 7412 of 2023 where it noticed the submission of the Counsel for Suraksha Realty that the Resolution Plan become unworkable. It is submitted that there being no provision for effective implementation of Suraksha's Resolution Plan, Adjudicating Authority ought not to have approved the Resolution Plan. 4.5. Learned Counsel for the Appellant further advanced submission with regard to extinguishment of dues owed to YEIDA as provided in the Resolution Plan. It is submitted that the Additional Farmers' Compensation (AFC) of Rs.1,698 Crores has not been paid. Counsel for the Appellant has referred to the various paragraphs of the Judgment of the Hon'ble Supme Court in Jaypee Kensington (supra) where claim of YEIDA regarding its treatment of dues claim in NBCC plan was noticed. It is submitted that the Hon'ble Supme Court had held in Jaypee Kensington (supra) that the extinguishment of existing liability qua YEIDA is not a relief that could be given to the Resolution Applicant for asking. The treatment provided to YEIDA in the Resolution Plan by Suraksha Realty is wholly contrary to the judgment of the Hon'ble Supme Court in Jaypee Kensington (supra). Counsel for the Appellant has referred to the clauses of Concession Agreement under which concession is liable to pay the actual compensation paid to landowners in respect of the land under the Yamuna Expssway and land for development. YEIDA being a Secured Creditor, Suraksha Realty's Resolution Plan could not Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 10 have treated them as a mere Operational Creditor and allocated only Rs.10 lakhs to it. YEIDA has filed a claim of Rs.6,111.60 Crores which includes an amount of Rs.1689 Crores payable towards AFC. Consent of YEIDA was not obtained and Resolution Plan of Suraksha Realty has unilaterally sought to modify the Concession Agreement which is impermissible. Resolution Plan transferred the land parcels to SPVs which is impermissible. It is submitted that under the provisions of the Indian Contract Act, 1872, a surety or guarantor has a right to subrogation. The liability of a surety is co-extensive with that of the principal debtor and, upon the discharge of principal debtor from its obligation to repay the debt, the liability of surety also gets extinguished. Suraksha Realty is being unjustly enriched by taking over an asset rich company at a hefty haircut while depriving JAL and Shri Manoj Gaur of their statutory rights of discharge under Section 135 of the Contract Act, right to get possession of the securities under Section 141, and their right to become creditors of JIL as the principal debtor under Section 140 of the Contract Act. Thus, the Resolution Plan being contrary to the provisions of the law for the time being in force in terms of Section 30(2)(e) of the IBC. 4.6. Coming to the reliefs and concessions, Counsel for the Appellant submits that out of 38 reliefs and concessions sought by Suraksha Realty, Adjudicating Authority has granted only 8 reliefs and concessions. Rejection by the Adjudicating Authority of certain clauses i.e. by denying the reliefs and concessions, it is clear that the Resolution Plan does not confirm to the parameters laid down in Section 31(1) and are inconsistent with Section 30(2). Adjudicating Authority having denied several reliefs and concessions, the Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 11 Resolution Plan ought not to have been approved and the plan ought to have been sent back to the CoC for re-submission after satisfying the parameters. Giving direction to the statutory authority, the Adjudicating Authority is travelling beyond jurisdiction. It is further contended that the Financial Creditors have ignored the actual value of the assets of the Corporate Debtor. The plan value is too less to the fair market value and liquidation value of the Corporate Debtor. Financial Creditors have taken huge voluntary haircut and they should not be allowed to pursue personal guarantors. There is no discussion regarding 758 acres of land which came into kitty of the Corporate Debtor in pursuance of allowing the avoidance application filed by the IRP.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		5. Shri Sumant Batra, Learned Counsel appearing for the Implementation and Monitoring Committee of the Corporate Debtor has opposed the submissions of the Counsel for the Appellant. It is submitted that the promoters/erstwhile management has no locus to challenge the Resolution Plan which has been approved by the Adjudicating Authority. Reliance placed by Appellant on judgment of the Hon'ble Supme Court in Vijay Kumar Jain (supra) is misplaced since Vijay Kumar Jain's case deals with the right of suspended members of the board of directors to receive agenda, agenda documents for meetings of CoC, other information and copy of resolution plan which is not the controversy in psent appeals. Vijay Kumar Jain's case does not hold that suspended board members have locus to challenge the resolution plan.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		5.1. Coming to the submission made by Counsel for the Appellant with regard to claim of Income Tax Department, it is submitted that the said issue Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 12 has already been decided by this Tribunal while deciding Company Appeal (AT) (Insolvency) No.549 of 2023 filed by Deputy Commissioner of Income Tax. Appeal of Income Tax Department having been disposed by order dated 26.09.2023 by which order the plan approval was upheld. It is not open for the Appellant to raise any issue pertaining to the claim of Income Tax Department. Counsel for the Respondent has referred to observations made in paragraphs 29 and 30 of the judgment dated 26.09.2023. It is submitted that although Civil Appeal No.7412 of 2023 has been filed by Suraksha Realty which appeal with respect to liability of Rs.33,000 Crores of Income Tax Authority, the treatment of liability of Rs.33,000 Crores in any view of the matter the judgment of this Tribunal dated 26.09.2023 has not been set aside. It is not open to the Appellant to re-open the issue of liability of the Income Tax Department. Appellant by making submission is seeking review of the order dated 26.09.2023 which is not permissible.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		5.2. Coming to the submission advanced by Counsel for the Appellant with regard to the claim of Yamuna Expssway, it is submitted that the Yamuna Expssway has already filed its appeal being Company Appeal (AT) (Insolvency) No.493 of 2023 and they have raised issues in support of their appeal. YEIDA being affected by order dated 07.03.2023, it has raised ground to challenge which is to be considered in the said appeal. Counsel for the Respondent has also referred to the order dared 05.12.2023 passed by this Tribunal in Company Appeal (AT) (Insolvency) No.493 of 2023 where this Tribunal has noted that a proposal has been submitted by Suraksha Realty for settlement which has been forwarded to the State Government which is Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 13 under active consideration. It is submitted that the claim of YEIDA will be considered and decided in Company Appeal (AT) (Insolvency) No.493 of 2023 and Appellant cannot be allowed to raise the issue nor the said issue can be decided in this Appeal which may cause pjudice to the rights of the parties in Company Appeal (AT) (Insolvency) No.493 of 2023. Reliance placed by Appellant on the judgment of the Hon'ble Supme Court in Jaypee Kensington with regard to YEIDA issue is also to be looked in the Appeal filed by YEIDA and promoter/director cannot themselves become proxy to the actual claimant i.e. YEIDA.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		5.3. The submission of Counsel for the Appellant with regard to reliefs and concessions is also incorrect. Reliefs and concessions granted by the Adjudicating Authority are in nature of directions for expediting the process as the same would help in implementation of the Resolution Plan in an expeditious manner. Counsel for the Respondent refers to Clause 12 of the Resolution Plan where Resolution Applicant undertake that they will implement this Resolution Plan whether or not the reliefs and concessions are granted. SRA has not filed any appeal against the impugned order against grant or non-grant of any relief and concession in the Resolution Plan and Appellant cannot be heard in raising such issue on behalf of the SRA in his appeal. Appellant is not an aggrieved party to challenge grant or non-grant of any relief and concession in the Resolution Plan submitted by SRA. 5.4. Refuting the submission of the Counsel for the Appellant regarding right of subrogation, it is submitted that the Resolution Plan expssly provides that the liability of guarantors of JIL, both corporate and personal, Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 14 shall survive while simultaneously extinguishing the right of subrogation of such guarantors. The said clause is in accordance with the provisions of the Code and the law. Personal guarantor has no right of subrogation nor they are entitled to recover its dues from the Corporate Debtor, after approval of the Resolution Plan.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		5.5. With regard to submission of 758 acres of land, it is submitted that 758 acres of land was released from encumbrances was fully taken into consideration by the SRA while submitting the Resolution Plan. The Resolution Plan submitted by Suraksha Realty did not contravene Section 30(2) of the Code. The Appellant being ineligible under Section 29A which has already been pronounced by the Hon'ble Supme Court in Jaypee Kensington (supra), they cannot be allowed backdoor entry. It is submitted that the commercial wisdom of the CoC is of paramount importance and cannot be allowed to question by the Appellant in this Appeal. It is submitted that the Adjudicating Authority cannot enter into any quantitative analysis to adjudge whether the pscription of the resolution plan results in maximisation of the value of assets of not.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		6. Learned Counsel for the SRA has also advanced submission on the same line as was advanced on behalf of Monitoring and Implementation Committee of the Corporate Debtor. It is submitted that the Adjudicating Authority has rightly treated the debt of the Income Tax Department as operational debt and further the appeal being Company Appeal (AT) (Insolvency) No.549 of 2023 filed by the Income Tax has already been dismissed which is under challenge by the SRA in the Hon'ble Supme Court.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 15 It is not open for the Appellant to raise any issue on behalf of the Income Tax Department. SRA has filed limited appeal in the Hon'ble Supme Court for quashing the observations made in paragraphs 24 and 25 of the judgment of this Tribunal dated 26.09.2023 is binding on all parties and Appellant cannot be raised any amount pertaining to Income Tax dues.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		6.1. With regard to claim of YEIDA, it is submitted that the amicable settlement efforts in progress with YEIDA in which no pjudice shall be caused to any of the stakeholder. It is submitted that the contention raised by the Appellant regarding treatment of additional compensation by farmers cannot be decided in the psent appeal especially when an Appeal No.493 of 2023 filed by YEIDA is pending before this Tribunal. YEIDA has already accepted the SRA proposal which is awaiting decision of the UP Government Cabinet. Counsel for the SRA has referred to the order dated 25.08.2023 and order dated 05.12.2023 passed in YEIDA appeal being Company Appeal (AT) (Insolvency) No.493 of 2023. The submission advanced on behalf of the Appellant with regard to YEIDA is only to derail the process of resolution at the behest of erstwhile suspended shareholder/erstwhile promoters of a Corporate Debtor who are responsible for insolvency of the Corporate Debtor. Appellant has no locus to espouse the cause of YEIDA. 6.2. It is submitted that the wisdom of the CoC pvails in respect of all commercial aspects including maximisation of the value of assets. The CoC having approved the Resolution Plan by majority of more than 98% vote share, same cannot be allowed to question by the Appellant. It is submitted that the value of Resolution Plan is more than the liquidation value. Liquidation value Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 16 is Rs.17,767 Crores whereas Resolution Plan value including the working capital infusion for the project completion is Rs.20,936.70 Crores. Moreover, there is no provision in the Code to match the liquidation value. The SRA has duly considered Rs.758 acres of land. In the 17th meeting of the CoC held on 12.04.2021, IRP has psented and circulated a detailed chart on findings of Hon'ble Supme Court in the Jaypee Kensington (supra) which clearly mentioned the land of 758 acres. In the 18th CoC meeting, IRP psented the liquidation value calculations, which included 758 acres of land earlier mortgaged to JAL lenders. Counsel for the Appellant submitted that the guarantor's liability does not dissolve more so in the Resolution Plan. It is specifically provided that such liability shall continue. 6.3. Right of subrogation cannot be given to the guarantors of the Corporate Debtor which has already been considered and rejected by the Hon'ble Supme Court in various judgments.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		6.4. With regard to reliefs and concessions, SRA has clearly provided in the plan that the Resolution Applicant undertake that they will implement this plan whether or not the reliefs and concessions are granted. Reliefs do not have any bearing on the implementation of the plan. It is submitted that no grounds have been made out on behalf of the Appellant to interfere with the order of the Adjudicating Authority approving the Resolution Plan. Adjudicating Authority has considered all objections raised by the Appellant and there is no error in the order to approve the Resolution Plan.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 17
+	</p>
+	<p title="Fact" data-structure="Facts">
+		7. In Company Appeal (AT) (Insolvency) No. 548 of 2023, several IAs have been filed praying to intervene in the appeal. We need to notice the different IAs and prayers made therein.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		7.1. IA No.2643 of 2023 has been filed by one Ayush Agarrwal, allottee of unit in Kosmos. Applicant claims to have been issued allotment letter dated 11.12.2009 and submit that he has deposited certain amount till June 2022. Applicant submits that the Applicant who is not a resident of Delhi NCR never came to know about the insolvency proceeding of the Corporate Debtor. Being unaware of the aforesaid proceeding, he could not file his claim in the CIRP. In the application, following prayers have been made:-
+	</p>
+	<p title="Court's Reasoning">
+		"In view of the facts abovesaid, the Applicant humbly prays that the psent IA pferred by the homebuyer may be allowed and monitoring committee/SRA may be directed to consider the claim of the Applicant for possession of its flat/unit, being an "ACTIVE"
+	</p>
+	<p title="Issue" data-structure="Issue">
+		homebuyer, at par with other homebuyers whose claims are already considered by the SRA in terms of the RP." 7.2. IA No.3218 of 2023 has been filed by one Mrs. Vandana Chaudhary praying for impleadment and seeking a direction to the Respondent to disclose as to when they will initiate the refund of money of the applicant who cancelled the allotment of the apartment prior to initiation of CIRP. Applicant claim to be allottee who was issued provisional offer letter. Applicant deposited the amount but was not handed over the possession. Applicant filed Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 18 its claim with the IRP. Applicant sent a letter dated 30.05.2023 to the erstwhile IRP seeking status of her refund.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		7.3. IA No. 2471 of 2023 has been filed by Jaypee Kensington praying for intervention in the Appeal.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		7.4. IA No. 3702 of 2023 has been filed by Tajender Khanna seeking intervention in the Appeal. Applicant also claim to be an allottee.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		8. We have also heard Counsel for intervenors. Counsel for the homebuyers expssed their concern over delay in implementation of the Resolution Plan. It is submitted that the homebuyers are waiting their units to be given possession for the last several years and by appeal filed by promoters/directors, process is being delayed. Promoters/ directors have been responsible for miserable conditions of the homebuyers and their appeals require to be dismissed.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		9. We have considered the submissions of the Counsel for the parties including the intervenors.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		10. From the submissions of the Counsel for the parties and materials on record, following issues arise for consideration in these Appeals:-
+	</p>
+	<p title="Issue">
+		(i) Whether Appellants have locus to challenge the order dated 07.03.2023 passed by the Adjudicating Authority approving the Resolution Plan of Suraksha Realty?
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(ii) Whether the treatment of Income Tax dues in the Resolution Plan where they have been treated as Operational Creditor and Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 19 offered only Rs. 10 Lacs violates the provision of sub-section (2) of Section 30?
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(iii) Whether the treatment of claim of YEIDA towards farmers' compensation and other claims of the YEIDA being treated as Operational Creditor and having offered only Rs. 10 lacs towards satisfaction of their dues violates provision of sub- section (2) of Section 30 of the Code and the Resolution Plan deserves to be set aside on this ground alone?
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(iv) Whether YEIDA is a Secured Creditor of the Corporate Debtor?
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(v) Whether the Resolution Plan violates provision of Section 30(2)(e) of the Code in removing the right of subrogation to the guarantors whereas under Indian Contract Act a surety or guarantor has right to subrogation and further upon discharge of principal debtor to repay the debt the liability of surety also gets extinguished?
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		(vi) Whether the Adjudicating Authority having denied several reliefs and concessions which clearly means that those provisions of Resolution Plan have been disapproved, the Adjudicating Authority ought not to have been approved the Resolution Plan and only course available for the Adjudicating Authority was to send the plan back to the CoC for reconsideration?
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(vii) Whether the Adjudicating Authority in granting various reliefs and concessions has exceeded the jurisdiction vested in the Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 20 Adjudicating Authority and by issuing various directions, Adjudicating Authority travelled beyond its jurisdiction and further no direction could have been given to statutory authority as has been directed in the impugned order, which is impermissible?
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(viii) Whether Resolution Plan take into consideration 758 acres of land which became available to the Corporate Debtor consequent to allowing the avoidance application and subsequent to the judgment of the Hon'ble Supme Court dated 26.02.2020?
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(ix) Whether applicants who have been permitted to intervene in the appeal are entitled for any relief?
+	</p>
+	<p title="Issue" data-structure="Issue">
+		11. Before we enter into above issues, we need to notice judgments of the Hon'ble Supme Court delivered in the CIRP of the Corporate Debtor itself.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		12. The first judgment delivered by the Hon'ble Supme Court in respect to CIRP of the Corporate Debtor is the Judgment of the Hon'ble Supme Court in Chitra Sharma Vs. Union of India, (2018 18 SCC 575). The writ petition under Article 32 was filed by the Chitra Sharma, a home buyer of the Corporate Debtor who claimed to have invested in the Real Estate Projects of JAL and JIL and felt distressed in the wake of CIRP concerning JIL. In the writ petition, initially Hon'ble Supme Court stayed the CIRP order dated 09th August, 2017. In the writ petition, several orders were passed by Hon'ble Supme Court including direction to the JAL to deposit an amount of Rs.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 21 2000 Crores, JAL deposited an amount of Rs. 750 Crores in pursuance of the direction of the Hon'ble Supme Court. In the aforesaid writ petition, notices were issued to JAL as well as promoters, directors of the JAL/JIL who appeared before the Hon'ble Supme Court. Hon'ble Supme Court in Chitra Sharma Case, took the view that promoters of JAL/JIL are ineligible to participate in the Resolution Process of the Corporate Debtor. Observations to the above effect were made by the Hon'ble Supme Court in Paragraph 39 of the Judgment:
+	</p>
+	<p title="Issue">
+		"39. Clauses (c) and (g) of Section 29-A would operate as a bar to the promoters of JAL/JIL participating in the resolution process. Under clause (c), a person who at the time of the submission of the resolution plan has an account which has been classified a non-performing asset under the guidelines of RBI or of a financial regulator is subject to a bar on participation for a stipulated period. Under clause (g), a person who has been a promoter or in the management or control of a corporate debtor in which a pferential transaction, undervalued transaction, extortionate credit transaction or fraudulent transaction has taken place and in respect of which an order has been made by the adjudicating authority under the IBC is prohibited from participating. The Court must bear in mind that Section 29- A has been enacted in the larger public interest and to facilitate effective corporate governance. Parliament rectified a loophole in the Act which allowed a backdoor entry to erstwhile managements in the CIRP. Section 30 IBC, as amended, also clarifies that a resolution plan of a person who is ineligible under Section 29-A will not be considered by the CoC:"
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 22
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		13. Further in paragraph 42, it was further held:
+	</p>
+	<p title="Issue">
+		"42. The bar under Section 29-A would pclude JAL/JIL from being allowed to participate in the resolution process. Moreover, the facts which have been drawn to the attention of the Court leave no manner of doubt that JAL/JIL lack the financial capacity and resources to complete the unfinished projects. To allow them to participate in the process of resolution will render the provisions of the Act nugatory. This cannot be permitted by the Court."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		14. The writ petition of Chitra Sharma was ultimately decided vide its judgment and order dated 09th August, 2018, following directions were issued in paragraph 50:
+	</p>
+	<p title="Issue">
+		"50. We, accordingly, issue the following directions:
+	</p>
+	<p title="Issue">
+		50.1. In exercise of the power vested in this Court under Article 142 of the Constitution, we direct that the initial period of 180 days for the conclusion of the CIRP in respect of JIL shall commence from the date of this order. If it becomes necessary to apply for a further extension of 90 days, we permit NCLT to pass appropriate orders in accordance with the provisions of IBC;
+	</p>
+	<p title="Issue">
+		50.2. We direct that a CoC shall be constituted afresh in accordance with the provisions of the Insolvency and Bankruptcy (Amendment) Ordinance, 2018, more particularly the amended definition of the expssion "financial creditors";
+	</p>
+	<p title="Issue">
+		50.3. We permit the IRP to invite fresh expssions of interest for the submission of resolution plans by applicants, Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 23 in addition to the three shortlisted bidders whose bids or, as the case may be, revised bids may also be considered;
+	</p>
+	<p title="Issue">
+		50.4. JIL/JAL and their promoters shall be ineligible to participate in the CIRP by virtue of the provisions of Section 29-A;
+	</p>
+	<p title="Issue">
+		50.5. RBI is allowed, in terms of its application to this Court to direct the banks to initiate corporate insolvency resolution proceedings against JAL under the IBC;
+	</p>
+	<p title="Issue">
+		50.6. The amount of Rs 750 crores which has been deposited in this Court by JAL/JIL shall together with the interest accrued thereon be transferred to NCLT and continue to remain invested and shall abide by such directions as may be issued by NCLT."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Hon'ble Supme Court exercised its jurisdiction under Article 142 in reviving the CIRP of the Corporate Debtor.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		15. Next Judgment which need to be noticed in the CIRP of the Corporate Debtor is judgment of the Hon'ble Supme Court in Jayprakash Associates Limited Vs. IDBI Bank, (2023) 2 SCC 328. On an application filed by the IDBI Bank, NCLT has granted exclusion of certain time in the CIRP of the Corporate Debtor. In an appeal filed before the NCLAT, NCLAT directed certain period to be excluded. The Judgment of the NCLAT was challenged in the Hon'ble Supme Court by JAL which Appeal was disposed of by Hon'ble Supme Court vide its judgment and order dated 06.11.2019. Hon'ble Supme Court exercised its jurisdiction under Article 142 of the Constitution Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 24 of India directing that 90 days extended period be reckoned from the date of the Judgment. In paragraph 19 and 20, following was held:
+	</p>
+	<p title="Precedent Analysis">
+		19. Indeed, the third proviso to Section 12(3) pdicates time-limit for completion of insolvency resolution process, which has come into effect from 16-8-2019. The same reads thus:
+	</p>
+	<p title="Precedent Analysis">
+		'Provided also that where the insolvency resolution process of a corporate debtor is pending and has not been completed within the period referred to in the second proviso, such resolution process shall be completed within a period of ninety days from the date of commencement of the Insolvency and Bankruptcy Code (Amendment) Act, 2019.' Taking an overall view of the matter, we deem it just, proper and expedient to issue directions under Article 142 of the Constitution of India to all concerned to reckon 90 days' extended period from the date of this order instead of the date of commencement of the Insolvency and Bankruptcy Code (Amendment) Act, 2019. That means, in terms of this order, the CIRP concerning JIL shall be completed within a period of 90 days from today.
+	</p>
+	<p title="Precedent Analysis">
+		20. We do not deem it necessary to dilate on the arguments of the respective counsel for the nature of order that we intend to pass, including about the locus standi of JAL which, in our opinion, already stands answered against JAL by virtue of Section 29-A of the Act as expounded in Chitra Sharma [Chitra Sharma v. Union of India, (2018) 18 SCC 575]."
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 25
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		16. Another direction issued in the above case was that the IRP to complete the CIRP process within 90 days and it will be open to the IRP to invite revised resolution plan only from Suraksha Realty and NBCC respectively who were finally bidders and had submitted resolution plan on the earlier occasion.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		17. Another Judgment which need to be noticed is that the judgment of Hon'ble Supme Court in Jaypee Infratech Limited Vs. Axis Bank Ltd., (2020) 8 SCC 401. Before the NCLT, IRP filed an application for avoiding of seven transactions under which land of corporate debtor was mortgaged to the lenders to secure the loan taken by JAL. The Adjudicating Authority allowed the Application filed for avoidance and declared six out of seven transactions as pferential transactions. Result of the order of the Adjudicating Authority was that 758 Acres of Land became encumbrance free and vested in the corporate debtor. NCLAT on an Appeal filed by the lenders allowed the appeal and reverse the order of the Adjudicating Authority against which IRP of the Corporate Debtor filed the Appeal which was decided by the Hon'ble Supme Court by the aforesaid judgment dated 26.02.2020. Hon'ble Supme Court in its judgment affirmed the order passed by the NCLT and held that transaction in question are hit by Section 43 of IBC. In paragraph 30 of the Judgement, following was observed:
+	</p>
+	<p title="Analysis of the law">
+		"Summation: The transactions in question are hit by Section 43 IBC.
+	</p>
+	<p title="Analysis of the law">
+		30. For what has been discussed hereinabove, we are clearly of the view that the transactions in question are hit by Section 43 of the Code and the adjudicating authority, Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 26 having rightly held so, had been justified in issuing necessary directions in terms of Section 44 of the Code in relation to the transactions concerning Properties Nos. 1 to
+	</p>
+	<p title="Analysis of the law">
+		6. Nclat, in our view, had not been right in interfering with the well-considered and justified order passed by NCLT in this regard."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		18. The consequence of judgment of the Hon'ble Supme Court in above case was that 758 acres land became encumbrance free land which came to be vested in the corporate debtor.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		19. In consequence to the order passed by the Hon'ble Supme Court in Jayprakash Associates Limited Vs. IDBI Bank Limited dated 06.11.2019 as noted above, the revised resolution plans in the CIRP of the Corporate Debtor were submitted by Suraksha Realty and NBCC. The Resolution Plan came to be approved by the Committee of Creditors, application was filed by the IRP for approval of the plan before the Adjudicating Authority, the Adjudicating Authority vide order dated 03rd March, 2020 approved the Resolution Plan submitted by NBCC India Limited with 97.36% voting share. NBCC aggrieved by certain part of the order filed an appeal before the NCLAT being Company Appeal (AT) Ins. No. 475 of 2022 which was transferred by the Hon'ble Supme Court. Jaypee Kensington Boulevard Apartments Welfare Association and Ors. have also filed appeal questioning the order dated 22nd April, 2020 passed by NCLAT. Hon'ble Supme Court decided the civil appeal filed by the Jaypee Kensington along with Appeal filed by the NBCC which was transferred. Hon'ble Supme Court delivered a detailed and elaborate judgment dated 14th March, 2021, in (2022) 1 SCC 401, Jaypee Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 27 Kensington Boulevard Apartments Welfare Association and Ors vs. NBCC India Limited &amp; Ors. In paragraph 18 of the Judgment, Hon'ble Supme Court noticed points for determination. One of the questions framed by the Hon'ble Supme Court was "what is the extent of, and limitations over, the powers and jurisdiction of the Adjudicating Authority while dealing with the resolution plan approved by the CoC?" Hon'ble Supme Court considered the above question in detail under Point A. The law laid down by the Hon'ble Supme Court in Jaypee Kensington with regard to extent of and limitation over the powers and jurisdiction of the Adjudicating Authority while dealing with the resolution plan approved by the COC is also one of the questions which has arisen in this Appeal. As noted above, these Appeals have been filed challenging the order of the Adjudicating Authority approving the Resolution Plan which was approved by the CoC. Law having been laid down by the Hon'ble Supme Court in the CIRP of the Corporate Debtor in Jaypee Kensington Judgment is fully attracted for deciding the issues of challenge raised by the Appellant in this Appeal. We thus shall notice in detail law as laid down by the Hon'ble Supme Court on above question.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		20. Hon'ble Supme Court in Jaypee Kensington has held that corporate insolvency resolution process with the approval of the plan of Resolution is ultimately in the exclusive domain of the CoC. Hon'ble Supme Court noticed judgment of the K Shashidhar Vs. Indian Overseas Bank, (2019) 12 SCC 150, while extracting the relevant paragraphs of the K. Shasidhar Judgment, following was held in paragraph 97.2:
+	</p>
+	<p title="Analysis of the law">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 28 "97.2. In K. Sashidhar [K. Sashidhar v. Indian Overseas Bank, (2019) 12 SCC 150 : (2019) 4 SCC (Civ) 222] , while setting out the relevant extracts from the said Report, this Court exposited on the primacy of the commercial wisdom of the Committee of Creditors in the corporate insolvency resolution process in the following terms : (SCC pp. 183-84, paras 52-53) "52. As aforesaid, upon receipt of a "rejected" resolution plan the adjudicating authority (NCLT) is not expected to do anything more; but is obligated to initiate liquidation process under Section 33(1) of the I&amp;B Code. The legislature has not endowed the adjudicating authority (NCLT) with the jurisdiction or authority to analyse or evaluate the commercial decision of CoC much less to enquire into the justness of the rejection of the resolution plan by the dissenting financial creditors. From the legislative history and the background in which the I&amp;B Code has been enacted, it is noticed that a completely new approach has been adopted for speeding up the recovery of the debt due from the defaulting companies. In the new approach, there is a calm period followed by a swift resolution process to be completed within 270 days (outer limit) failing which, initiation of liquidation process has been made inevitable and mandatory. In the earlier regime, the corporate debtor could indefinitely continue to enjoy the protection given under Section 22 of the Sick Industrial Companies Act, 1985 or under other such enactments which has now been forsaken. Besides, the commercial wisdom of CoC has been given paramount status without any judicial intervention, for ensuring completion of the stated processes within the timelines pscribed by the I&amp;B Code. There is an intrinsic assumption that financial creditors are fully informed about Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 29 the viability of the corporate debtor and feasibility of the proposed resolution plan. They act on the basis of thorough examination of the proposed resolution plan and assessment made by their team of experts. The opinion on the subject-matter expssed by them after due deliberations in CoC meetings through voting, as per voting shares, is a collective business decision. The legislature, consciously, has not provided any ground to challenge the "commercial wisdom" of the individual financial creditors or their collective decision before the adjudicating authority.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		That is made non-justiciable.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		53. In the report of the Bankruptcy Law Reforms Committee of November 2015, primacy has been given to CoC to evaluate the various possibilities and make a decision. It has been observed thus:
+	</p>
+	<p title="Precedent Analysis">
+		"The key economic question in the bankruptcy process When a firm (referred to as the corporate debtor in the draft law) defaults, the question arises about what is to be done.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Many possibilities can be envisioned. One possibility is to take the firm into liquidation. Another possibility is to negotiate a debt restructuring, where the creditors accept a reduction of debt on an NPV basis, and hope that the negotiated value exceeds the liquidation value. Another possibility is to sell the firm as a going concern and use the proceeds to pay creditors. Many hybrid structures of these broad categories can be envisioned.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		The Committee believes that there is only one correct forum for evaluating such possibilities, and making a decision : a Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 30 creditors committee, where all financial creditors have votes in proportion to the magnitude of debt that they hold. In the past, laws in India have brought arms of the Government (legislature, executive or judiciary) into this question. This has been strictly avoided by the Committee. The appropriate disposition of a defaulting firm is a business decision, and only the creditors should make it."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		21. Hon'ble Supme Court further referred to and relied on three judge bench of the Essar Steel India Limited Vs. Satish Kumar Gupta, (2020) 8 SCC 531. Judgment of Essar Steel India Limited was noticed in paragraph 97.3 and 97.4 which is to the following effect:
+	</p>
+	<p title="Analysis of the law">
+		97.3. In Essar Steel [ Essar Steel India Ltd.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		(CoC) v. Satish Kumar Gupta, (2020) 8 SCC 531 : (2021) 2 SCC (Civ) 443] , a three-Judge Bench of this Court surveyed almost all the relevant provisions concerning corporate insolvency resolution process; and, as noticed above, explained the assignments of different role players in this process. In that context, this Court again explained the primacy endowed on the commercial wisdom of the Committee of Creditors and reasons therefor, with a further detailed reference to the aforesaid report of the Bankruptcy Law Reforms Committee of November 2015. Apart from the passage from the said report that was noticed in K. Sashidhar [K. Sashidhar v. Indian Overseas Bank, (2019) 12 SCC 150 : (2019) 4 SCC (Civ) 222] (reproduced hereinabove), the Court noticed various other passages from this report in Essar Steel [Essar Steel India Ltd. (CoC) v. Satish Kumar Gupta, (2020) 8 SCC 531 : (2021) 2 SCC (Civ) 443] ; and one part thereof, which further Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 31 underscores the rationale for only financial creditors handling the process of resolution, could be usefully reproduced as under (part of para 56 at pp. 578-79 of SCC):
+	</p>
+	<p title="Precedent Analysis">
+		"56. ... 5.3.1. Steps at the start of the IRP ***
+	</p>
+	<p title="Precedent Analysis">
+		4. Creation of the creditors committee The creditors committee will have the power to decide the final solution by majority vote in the negotiations. The majority vote requires more than or equal to 75% of the creditors committee by weight of the total financial liabilities. The majority vote will also involve a cram down option on any dissenting creditors once the majority vote is obtained. ...
+	</p>
+	<p title="Precedent Analysis">
+		The Committee deliberated on who should be on the creditors committee, given the power of the creditors committee to ultimately keep the entity as a going concern or liquidate it. The Committee reasoned that members of the creditors committee have to be creditors both with the capability to assess viability, as well as to be willing to modify terms of existing liabilities in negotiations. Typically, operational creditors are neither able to decide on matters regarding the insolvency of the entity, nor willing to take the risk of postponing payments for better future prospects for the entity. The Committee concluded that, for the process to be rapid and efficient, the Code will provide that the creditors committee should be restricted to only the financial creditors."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		97.4. In Essar Steel [Essar Steel India Ltd. (CoC) v. Satish Kumar Gupta, (2020) 8 SCC 531 : (2021) 2 SCC (Civ) 443] , Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 32 the Court referred to the abovequoted and other passages from the judgment in K. Sashidhar [K. Sashidhar v. Indian Overseas Bank, (2019) 12 SCC 150 : (2019) 4 SCC (Civ) 222] and explained the decisive role of the commercial wisdom of the Committee of Creditors, inter alia, in the following passages : (Essar Steel case [Essar Steel India Ltd. (CoC) v. Satish Kumar Gupta, (2020) 8 SCC 531 : (2021) 2 SCC (Civ) 443] , SCC pp. 577, 580-81 &amp; 584, paras 54, 59, 60 &amp; 64) "54. Since it is the commercial wisdom of the Committee of Creditors that is to decide on whether or not to rehabilitate the corporate debtor by means of acceptance of a particular resolution plan, the provisions of the Code and the Regulations outline in detail the importance of setting up of such Committee, and leaving decisions to be made by the requisite majority of the members of the aforesaid Committee in its discretion. ...
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		***
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		59. Even though it is the resolution professional who is to run the business of the corporate debtor as a going concern during the intermediate period, yet, such resolution professional cannot take certain decisions relating to management of the corporate debtor without the prior approval of at least 66% of the votes of the Committee of Creditors. ...
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		60. Thus, it is clear that since corporate resolution is ultimately in the hands of the majority vote of the Committee of Creditors, nothing can be done qua the management of the corporate debtor by the resolution professional which impacts major decisions to be made in the interregnum Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 33 between the taking over of management of the corporate debtor and corporate resolution by the acceptance of a resolution plan by the requisite majority of the Committee of Creditors. Most importantly, under Section 30(4), the Committee of Creditors may approve a resolution plan by a vote of not less than 66% of the voting share of the financial creditors, after considering its feasibility and viability, and various other requirements as may be pscribed by the Regulations.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		***
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		64. Thus, what is left to the majority decision of the Committee of Creditors is the "feasibility and viability" of a resolution plan, which obviously takes into account all aspects of the plan, including the manner of distribution of funds among the various classes of creditors. As an example, take the case of a resolution plan which does not provide for payment of electricity dues. It is certainly open to the Committee of Creditors to suggest a modification to the prospective resolution applicant to the effect that such dues ought to be paid in full, so that the carrying on of the business of the corporate debtor does not become impossible for want of a most basic and essential element for the carrying on of such business, namely, electricity. This may, in turn, be accepted by the resolution applicant with a consequent modification as to distribution of funds, payment being provided to a certain type of operational creditor, namely, the electricity distribution company, out of upfront payment offered by the proposed resolution applicant which may also result in a consequent reduction of amounts payable to other financial and operational creditors. What is important is that it is the commercial Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 34 wisdom of this majority of creditors which is to determine, through negotiation with the prospective resolution applicant, as to how and in what manner the corporate resolution process is to take place."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		22. Hon'ble Supme Court in Jaypee Kensington held that the role of CoC is akin to that of a protagonist giving finality to the process subject to approval by the Adjudicating Authority. As noted above under heading 'Point A', Supme Court dwelt on "contours of jurisdiction of adjudicating authority while dealing with a Resolution Plan". Hon'ble Supme Court again quoted paragraph 55 to 58 of the K. Shashidhar Case. In paragraph 103.8, Hon'ble Supme Court laid down:
+	</p>
+	<p title="Precedent Analysis">
+		"103.8. Having said so, this Court also proceeded to define the strict limits of the jurisdiction of NCLT/Nclat while dealing with the matter relating to approval of resolution plan in the following passages : (K. Sashidhar case [K. Sashidhar v. Indian Overseas Bank, (2019) 12 SCC 150 :
+	</p>
+	<p title="Precedent Analysis">
+		(2019) 4 SCC (Civ) 222] , SCC pp. 185-87, paras 55-58) "55. Whereas, the discretion of the adjudicating authority (NCLT) is circumscribed by Section 31 limited to scrutiny of the resolution plan "as approved" by the requisite per cent of voting share of financial creditors. Even in that enquiry, the grounds on which the adjudicating authority can reject the resolution plan is in reference to matters specified in Section 30(2), when the resolution plan does not conform to the stated requirements. Reverting to Section 30(2), the enquiry to be done is in respect of whether the resolution plan provides : (i) the payment of insolvency resolution process costs in a specified manner in priority to the Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 35 repayment of other debts of the corporate debtor, (ii) the repayment of the debts of operational creditors in pscribed manner, (iii) the management of the affairs of the corporate debtor, (iv) the implementation and supervision of the resolution plan, (v) does not contravene any of the provisions of the law for the time being in force, (vi) conforms to such other requirements as may be specified by the Board. The Board referred to is established under Section 188 of the I&amp;B Code. The powers and functions of the Board have been delineated in Section 196 of the I&amp;B Code. None of the specified functions of the Board, directly or indirectly, pertain to regulating the manner in which the financial creditors ought to or ought not to exercise their commercial wisdom during the voting on the resolution plan under Section 30(4) of the I&amp;B Code. The subjective satisfaction of the financial creditors at the time of voting is bound to be a mixed baggage of variety of factors. To wit, the feasibility and viability of the proposed resolution plan and including their perceptions about the general capability of the resolution applicant to translate the projected plan into a reality. The resolution applicant may have given projections backed by normative data but still in the opinion of the dissenting financial creditors, it would not be free from being speculative. These aspects are completely within the domain of the financial creditors who are called upon to vote on the resolution plan under Section 30(4) of the I&amp;B Code.
+	</p>
+	<p title="Precedent Analysis">
+		56. For the same reason, even the jurisdiction of Nclat being in continuation of the proceedings would be circumscribed in that regard and more particularly on account of Section 32 of the I&amp;B Code, which envisages that any appeal from an order approving the resolution plan Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 36 shall be in the manner and on the grounds specified in Section 61(3) of the I&amp;B Code. ...
+	</p>
+	<p title="Precedent Analysis">
+		57. On a bare reading of the provisions of the I&amp;B Code, it would appear that the remedy of appeal under Section 61(1) is against an "order passed by the adjudicating authority (NCLT)", which we will assume may also pertain to recording of the fact that the proposed resolution plan has been rejected or not approved by a vote of not less than 75% of voting share of the financial creditors. Indubitably, the remedy of appeal including the width of jurisdiction of the appellate authority and the grounds of appeal, is a creature of statute. The provisions investing jurisdiction and authority in NCLT or Nclat as noticed earlier, have not made the commercial decision exercised by CoC of not approving the resolution plan or rejecting the same, justiciable. This position is reinforced from the limited grounds specified for instituting an appeal that too against an order "approving a resolution plan"
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		under Section 31. First, that the approved resolution plan is in contravention of the provisions of any law for the time being in force. Second, there has been material irregularity in exercise of powers "by the resolution professional" during the corporate insolvency resolution period. Third, the debts owed to operational creditors have not been provided for in the resolution plan in the pscribed manner. Fourth, the insolvency resolution plan costs have not been provided for repayment in priority to all other debts. Fifth, the resolution plan does not comply with any other criteria specified by the Board. Significantly, the matters or grounds--be it under Section 30(2) or under Section 61(3) of the I&amp;B Code--are regarding testing the validity of the "approved" resolution plan by CoC; and not for approving the resolution plan Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 37 which has been disapproved or deemed to have been rejected by CoC in exercise of its business decision.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		58. Indubitably, the inquiry in such an appeal would be limited to the power exercisable by the resolution professional under Section 30(2) of the I&amp;B Code or, at best, by the adjudicating authority (NCLT) under Section 31(2) read with Section 31(1) of the I&amp;B Code. No other inquiry would be permissible. Further, the jurisdiction bestowed upon the appellate authority (Nclat) is also expssly circumscribed. It can examine the challenge only in relation to the grounds specified in Section 61(3) of the I&amp;B Code, which is limited to matters "other than" enquiry into the autonomy or commercial wisdom of the dissenting financial creditors. Thus, the pscribed authorities (NCLT/Nclat) have been endowed with limited jurisdiction as specified in the I&amp;B Code and not to act as a court of equity or exercise plenary powers."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		23. Hon'ble Supme Court held that approval of the Resolution Plan is exclusively in the domain of the commercial wisdom of the CoC, the scope of judicial review is circumscribed. In paragraph 107.1, 107.2, following has been held:
+	</p>
+	<p title="Precedent Analysis">
+		"107.1. Such limitations on judicial review have been duly underscored by this Court in the decisions abovereferred, where it has been laid down in explicit terms that the powers of the adjudicating authority dealing with the resolution plan do not extend to examine the correctness or otherwise of the commercial wisdom exercised by the CoC. The limited judicial review available to adjudicating authority lies within the four corners of Section 30(2) of the Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 38 Code, which would essentially be to examine that the resolution plan does not contravene any of the provisions of law for the time being in force, it conforms to such other requirements as may be specified by the Board, and it provides for : (a) payment of insolvency resolution process costs in priority; (b) payment of debts of operational creditors; (c) payment of debts of dissenting financial creditors; (d) for management of affairs of corporate debtor after approval of the resolution plan; and (e) implementation and supervision of the resolution plan.
+	</p>
+	<p title="Precedent Analysis">
+		107.2. The limitations on the scope of judicial review are reinforced by the limited ground provided for an appeal against an order approving a resolution plan, namely, if the plan is in contravention of the provisions of any law for the time being in force; or there has been material irregularity in exercise of the powers by the resolution professional during the corporate insolvency resolution period; or the debts owed to the operational creditors have not been provided for; or the insolvency resolution process costs have not been provided for repayment in priority; or the resolution plan does not comply with any other criteria specified by the Board."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		24. It may also be noticed that in Jaypee Kensington case under heading 'Point C' Supme Court considered under the heading "matters related with the land providing agency YEIDA while considering the objections raised by YEIDA to the Resolution Plan" the Hon'ble Supme Court held that concessionaire agreement could not have been tinkered without approval and consent of the YEIDA. In paragraph 141 of the Judgment, following has been held:
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 39
+	</p>
+	<p title="Precedent Analysis">
+		141. The contract in question, the CA, even though not a statutory one, is nevertheless a contract entered into between the concessionaire and statutory authority, that is, Yeida. It is needless to observe that even if in the scheme of IBC, a resolution plan could modify the terms of a contract, any tinkering with the contract in question, that is, the concession agreement, could not have been carried out without the approval and consent of the authority concerned, that is, Yeida. Any doubt in that regard stands quelled with reference to Regulation 37 of the CIRP Regulations that requires a resolution plan to provide for various measures including "necessary approvals from the Central and State Governments and other authorities". The authority concerned in the psent case, Yeida, is the one established by the State Government under the U.P. Act of 1976 and its approval remains sine qua non for validity of the resolution plan in question, particularly qua the terms related with Yeida. The stipulations/assumptions in the resolution plan, that approval by the adjudicating authority shall dispense with all the requirements of seeking consent from Yeida for any business transfer are too far beyond the entitlement of the resolution applicant. Neither any so-called deemed approval could be foisted upon the governmental authority like Yeida nor such an assumption stands in conformity with Regulation 37 of the CIRP Regulations."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		25. The Hon'ble Supme Court also noticed that YEIDA has consistently maintained before the NCLAT as before the Hon'ble Supme Court that it does not stand to oppose the resolution plan only for sake of opposition rather it would like to place the plan to succeed but it has public duty to ensure that Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 40 the framework under concessionaire agreement is pserved. In paragraph 146 of the Judgment, following was held:
+	</p>
+	<p title="Precedent Analysis">
+		"146. Before concluding on this point for determination where we have accepted the major parts of the objections of Yeida, we may, in fairness to all the parties concerned, reiterate that despite stating its objections, Yeida has consistently maintained before NCLT as also before this Court [ vide paras 67.2, 67.3, 137 and 137.8] that it does not stand to oppose the resolution plan only for the sake of opposition; rather it would like the plan to succeed but, it has a public duty to ensure that the framework under CA is pserved and else, it would be ready to do everything within its power to ensure that the plan is a success. Thus, it would not be out of place to add a sanguine hope that being the owner of the land in question and public authority, Yeida, which had envisaged and promoted the entire project, would, in future dealing with the matter, act with caution and circumspection, while earnestly reflecting upon the practical impact of its propositions/decisions on various stakeholders, including the homebuyers."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		26. Ultimately in paragraph 147, Hon'ble Supme Court took the view that correct course for the Adjudicating Authority was to send the plan back to the CoC for reconsideration. In paragraph 147, following has been held:
+	</p>
+	<p title="Precedent Analysis">
+		"147. For what has been discussed hereinabove, we are constrained to hold that the stipulations in the resolution plan, as regards dealings with Yeida and with the terms of concession agreement, have rightly not been approved and the stipulations in question, when not being consented to by Yeida, are required to be disapproved. Further, in the Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 41 cumulative effect of the stipulations which have not been approved, the only correct course for the adjudicating authority was to send the plan back to the Committee of Creditors for reconsideration."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		27. Under 'Point N' "summation of findings; final order and conclusion"
+	</p>
+	<p title="Conclusion">
+		Hon'ble Supme Court held that the Adjudicating Authority has limited jurisdiction in the matter of approval of the Resolution Plan which is well defined and circumscribed by Section 30(2) and 31 of the Code. In paragraph
+	</p>
+	<p title="Conclusion">
+		273. 1 and 273.3, following observations were made:
+	</p>
+	<p title="Conclusion">
+		"273.1. The adjudicating authority has limited jurisdiction in the matter of approval of a resolution plan, which is well- defined and circumscribed by Sections 30(2) and 31 of the Code. In the adjudicatory process concerning a resolution plan under IBC, there is no scope for interference with the commercial aspects of the decision of the CoC; and there is no scope for substituting any commercial term of the resolution plan approved by the Committee of Creditors. If, within its limited jurisdiction, the adjudicating authority finds any shortcoming in the resolution plan vis-&agrave;-vis the specified parameters, it would only send the resolution plan back to the Committee of Creditors, for re-submission after satisfying the parameters delineated by the Code and exposited by this Court.
+	</p>
+	<p title="Conclusion">
+		..........
+	</p>
+	<p title="Conclusion">
+		273.3. The stipulations in the resolution plan, as regards dealings with Yeida and with the terms of concession agreement, have rightly not been approved by the adjudicating authority but, for the stipulations which have Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 42 not been approved, the only correct course for the adjudicating authority was to send the plan back to the Committee of Creditors for reconsideration."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		28. Hon'ble Supme Court ultimately took the view that some of the terms and stipulations of the Resolution Plan of NBCC does not meet with the approval. In paragraph 275 and 276, following was held:
+	</p>
+	<p title="Precedent Analysis">
+		"275. For what we have held hereinabove, when several shortcomings are found in the resolution plan approved by the Committee of Creditors vis-&agrave;-vis the specified parameters, the plan cannot be approved and the matter is required to be sent back to the Committee of Creditors. But the course to be adopted in the psent matter carries its own share of complications.
+	</p>
+	<p title="Precedent Analysis">
+		276. We have anxiously pondered over all the peculiarities and complications involved in this matter where twice over in the past, this Court had to invoke its plenary powers under Article 142 of the Constitution of India, so that the insolvency resolution process concerning JIL could be taken to its logical fruition but within the discipline of IBC. Having regard to the circumstances, this Court had provided windows for completion of CIRP while essentially discounting on the time spent in the course of litigations."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		29. Ultimate directions are contained in paragraph 282, 282.1 to 282.6:
+	</p>
+	<p title="Precedent Analysis">
+		282. Accordingly, while once again exercising our powers under Article 142 of the Constitution of India to do substantial and complete justice to the parties and in the interest of all the stakeholders of JIL, we conclude on these matters with the following order:
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 43 282.1. The matter regarding approval of the resolution plan stands remitted to the Committee of Creditors of JIL and the time for completion of the process relating to CIRP of JIL is extended by another period of 45 days from the date of this judgment.
+	</p>
+	<p title="Precedent Analysis">
+		282.2. We direct the IRP to complete the CIRP within the extended time of 45 days from today. For this purpose, it will be open to the IRP to invite modified/fresh resolution plans only from Suraksha Realty and NBCC [ Only these resolution applicants were permitted to submit the revised plans in the judgment dated 6-11-2019 [Jaiprakash Associates Ltd. v. IDBI Bank Ltd., (2020) 3 SCC 328 : (2020) 2 SCC (Civ) 113]] respectively, giving them time to submit the same within 2 weeks from the date of this judgment.
+	</p>
+	<p title="Precedent Analysis">
+		282.3. It is made clear that the IRP shall not entertain any expssion of interest by any other person nor shall be required to issue any new information memorandum. The said resolution applicants shall be expected to proceed on the basis of the information memorandum already issued by IRP and shall also take into account the facts noticed and findings recorded in this judgment.
+	</p>
+	<p title="Precedent Analysis">
+		282.4. After receiving the resolution plans as aforementioned, the IRP shall take all further steps in the manner that the processes of voting by the Committee of Creditors and his submission of report to the adjudicating authority (NCLT) are accomplished in all respects within the extended period of 45 days from the date of this judgment.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		The adjudicating authority shall take final decision in terms of Section 31 of the Code expeditiously upon submission of report by the IRP.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 44 282.5. These directions, particularly for enlargement of time to complete the process of CIRP, are being issued in exceptional circumstances of the psent case and shall not be treated as a pcedent.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		282.6. As noticed in paras 5.6 and 55.3 hereinabove, the proceedings relating to CIRP of JIL were initiated by the Allahabad Bench of National Company Law Tribunal but, later on, the same were transferred to its Principal Bench at New Delhi. Therefore, the proceedings contemplated by this judgment shall be taken up by the Principal Bench of the National Company Law Tribunal at New Delhi."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		30. All the appeals, transferred cases were disposed of in the above manner. After the above order was passed by the Hon'ble Supme Court in Jaypee Kensginton, NBCC submitted its revised resolution plan on 04th June, 2021 and Suraksha Realty submitted its revised resolution plan along with addendum on 07th June, 2021. The CoC discussed and deliberated upon the revised resolution plan along with addendum in the 24th CoC meeting convened on 10th June, 2021, both the plans were put to be voted and the resolution plan of Suraksha Realty was approved with 98.66 % votes. Resolution Plan of Suraksha Realty having been approved, I.A. No. 286/KB/2021 was filed by the IRP for approval of the Resolution Plan which has been approved by the Impugned Order dated 07th March, 2023.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		31. After noticing the Judgments of the Hon'ble Supme Court which was delivered in the CIRP of the Corporate Debtor and certain background facts, now we proceed to consider the question which have been framed as above.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 45 Question No. (i)
+	</p>
+	<p title="Issue" data-structure="Issue">
+		32. The question to be answered is as to whether Appellant JAL and Manoj Gaur erstwhile promoter have locus to challenge the order dated 07th March, 2023 approving the resolution plan of Suraksha Realty.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		33. The submission of the Appellant is that objection to locus standi has not been accepted in the pvious round of litigation hence it is not open for the Respondent to raise objection regarding locus. It is submitted that arguments and objections raised by the Appellant were noticed and considered by the Hon'ble Supme Court in Jaypee Kensington, Manoj Gaur was also impleaded in the Appeal filed by the NBCC due to which he was one of the Respondent in the NBCC Appeal. It is submitted by the Appellant that objections raised by the Appellant was decided by the Adjudicating Authority in the Impugned Order and it is not open to Respondent to contend that Appellant has no locus to object approval of the Resolution Plan. Learned Counsel for the Appellant has relied on judgment of the Vijay Kumar Jain Vs. Standard Chartered Bank &amp; Anr. (2019) 20 SCC 455. The Appeal before the Hon'ble Supme Court was filed by Vijay Kr. Jain, member of suspended board of directors of the Corporate Debtor challenging the Appellate Tribunal's Judgment rejecting appellant's prayer for direction to the Resolution Professional to provide all relevant documents including the insolvency resolution plan in question to members of the Suspended Board of Directors. The facts were noticed in paragraph 1 of the Judgment which is as follows:
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 46 "R.F. Nariman, J.-- The psent appeal arises out of an Appellate Tribunal's judgment [Vijay Kumar Jain v. Standard Chartered Bank Ltd., 2018 SCC OnLine NCLAT 855] rejecting the appellant's prayer for directions to the resolution professional to provide all relevant documents including the insolvency resolution plans in question to members of the suspended Board of Directors of the corporate debtor in each case so that they may meaningfully participate in meetings held by the Committee of Creditors (CoC)."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		34. Hon'ble Supme Court in the above case after noticing the relevant provisions of the IBC and Regulations noticed that members of erstwhile director who was often guarantors, are vitally interested in the resolution plan since the resolution plan binds them. In paragraph 19.3 to 19.5, following has been observed:
+	</p>
+	<p title="Precedent Analysis">
+		19.3. Even assuming that the Notes on Clause 24 may be read as being a one-way street by which erstwhile members of the Board of Directors are only to provide information, we find that Section 31(1) of the Code would make it clear that such members of the erstwhile Board of Directors, who are often guarantors, are vitally interested in a resolution plan as such resolution plan then binds them. Such plan may scale down the debt of the principal debtor, resulting in scaling down the debt of the guarantor as well, or it may not. The resolution plan may also scale down certain debts and not others, leaving guarantors of the latter kind of debts exposed for the entire amount of the debt.
+	</p>
+	<p title="Precedent Analysis">
+		19.4. The Regulations also make it clear that these persons are vitally interested in resolution plans as they affect them.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 47 Thus, under Regulation 36 of the CIRP Regulations, the information memorandum that is given to each member of the CoC and to any potential resolution applicant, will contain details of guarantees that have been given in relation to the debts of the corporate debtor [see Regulation 36(2)(f) of the CIRP Regulations]. Also, under Regulation 37(d) of the CIRP Regulations, a resolution plan may provide for satisfaction or modification of any security interest.
+	</p>
+	<p title="Analysis of the law">
+		"Security interest" is defined by Section 3(31) of the Code as follows:
+	</p>
+	<p title="Analysis of the law">
+		"3. Definitions.--In this Code, unless the context otherwise requires--
+	</p>
+	<p title="Analysis of the law">
+		*** (31) "security interest" means right, title or interest or a claim to property, created in favour of, or provided for a secured creditor by a transaction which secures payment or performance of an obligation and includes mortgage, charge, hypothecation, assignment and encumbrance or any other agreement or arrangement securing payment or performance of any obligation of any person:
+	</p>
+	<p title="Analysis of the law">
+		Provided that security interest shall not include a performance guarantee;"
+	</p>
+	<p title="Analysis of the law">
+		This would certainly include a guarantor who may be a member of the erstwhile Board of Directors.
+	</p>
+	<p title="Analysis of the law">
+		19.5. Further, under Regulation 37(1)(f), a resolution plan may provide for reduction in the amount payable to the creditors, which again vitally impacts the rights of a guarantor. Last but not the least, a resolution plan which has been approved or rejected by an order of the Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 48 adjudicating authority, has to be sent to "participants"
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		which would include members of the erstwhile Board of Directors -- vide Regulation 39(5) of the CIRP Regulations. Obviously, such copy can only be sent to participants because they are vitally interested in the outcome of such resolution plan, and may, as persons aggrieved, file an appeal from the adjudicating authority's order to the Appellate Tribunal under Section 61 of the Code. Quite apart from this, Section 60(5)(c) is also very wide, and a member of the erstwhile Board of Directors also has an independent right to approach the adjudicating authority, which must then hear such person before it is satisfied that such resolution plan can pass muster under Section 31 of the Code."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		35. Ultimately Hon'ble Supme Court directed that Appellant will be given copies of all resolution plan submitted to the CoC within period of two weeks from the date of its judgment. In paragraph 25 of the Judgment, following has been held:
+	</p>
+	<p title="Precedent Analysis">
+		"25. We may indicate that the time that has been utilised in these proceedings must be excluded from the period of the resolution process of the corporate debtor as has been held in ArcelorMittal (India) (P) Ltd. v. Satish Kumar Gupta [ArcelorMittal (India) (P) Ltd. v. Satish Kumar Gupta, (2019) 2 SCC 1] (decided on 4-10-2018) (at para 83). In each of these cases, the appellants will be given copies of all resolution plans submitted to the CoC within a period of two weeks from the date of this judgment. The resolution applicant in each of these cases will then convene a meeting of the CoC within two weeks thereafter, which will include the appellants as participants. The CoC will then deliberate Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 49 on the resolution plans afresh and either reject them or approve of them with the requisite majority, after which, the further procedure detailed in the Code and the Regulations will be followed. For all these reasons, we are of the view that the petition and appeal must be allowed and the Nclat judgment [Vijay Kumar Jain v. Standard Chartered Bank Ltd., 2018 SCC OnLine NCLAT 855] set aside."
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		36. Mr. Sumant Batra, Learned Counsel for the Respondent refuting the submissions submits that there is no locus of directors of the Corporate Debtor have to challenge the resolution plan. He sought to distinguish the judgment of the Hon'ble Supme Court in Vijay Kumar Jain on the ground that Vijay Kumar Jain deals with the right of the members of the board of directors to receive agenda document for meeting and application and copy of the resolution plan which is not the controversy in the psent case. Mr. Sumant Batra had relied on Judgment of this tribunal in Krishan Mohan Mendiratta Vs. State Bank of India and Anr. 2021 SCC OnLine NCLAT
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		528. The above was a case where application filed by the Appellant to consider the offer of Rs.32 Crores made by Unsuccessful Resolution Applicant was rejected by the Adjudicating Authority which order was under challenge. The Appeal was dismissed observing that Appellant himself being not in fray and all the suspended board of directors were ineligible to submit a plan, he could not be directed to espouse the cause of unsuccessful resolution applicant. The above judgment is clearly distinguishable and does not support the submission made by the Appellant/Respondent.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 50
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		37. Learned Counsel for the Respondent has also relied on judgment of this Tribunal in Jaidep Ghosh and Anr. Vs Niraj Agarwal and Ors. C.A.(AT) Ins. No. 839 of 2022, (2023) SCC OnLine NCLAT 396. A perusal of the above judgment indicates that this Tribunal has not noticed the judgment of the Hon'ble Supme court in Vijay Kumar Jain. Further judgments which have been relied on by this tribunal from the observation that law is settled on the point that suspended board of directors has no locus to file an appeal against the approval of the plan where the judgment laying down that unsuccessful resolution applicant has no right to challenge the approval of the Resolution Plan. Furthermore, the main reasons for dismissing the appeal has been contained in paragraph 48. The main reason, where the court has observed that one who does not come to a court with clean hand may not get any relief. It was held that conduct of the Appellant in both the appeals is not transparent. In the psent case, there are several other facts which need to be noticed. For example, the Appellants were permitted to file objections before the Adjudicating Authority against the resolution plan and their objections were heard on merits, promoter and director was also impleaded as one of the parties in appeal of NBCC, objections of appellants were also noticed by Hon'ble Supme Court in earlier round of litigation that is while deciding Jaypee Kensington Case.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		38. In view of the above submissions, we are of the view that appeals of appellant cannot be thrown out on the ground of locus. As noted above, the limited ground to challenge approval of the resolution plan is that the same is not in conformity with Section 30(2). We thus reject the objection of the Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 51 respondent on the locus and proceed to examine the submissions raised by the Appellant.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Question No. (ii)
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		39. Mr. K Venugopal, Learned Sr. Counsel for the Appellant has submitted that it was the Appellants who have raised objection with regard to treatment of income tax dues before the Adjudicating Authority. The contention is that future dues of income tax department to the extent of alleged revenue subsidy on account of land for development given by YEIDA to JIL could not be written off in the resolution plan as these were future liabilities in respect of which no demand has yet been raised.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		40. Learned Counsel for the Respondent refuting the submissions of the Appellant submits that income tax department itself has filed an appeal challenging the order dated 07th March, 2023 being C.A.(AT) Ins. No. 549 of 2023, Deputy Commissioner of Income Tax Vs. Anuj Jain, IRP of JIL which appeal has finally been decided by this Tribunal vide its judgment and order dated 26.09.2023. This tribunal vide its judgment dated 26.09.2023 has held that treatment of claim of the income tax department is in accordance with Section 30(2)(b) of the Code. This tribunal held that no relief can be granted to the Income Tax Department in the appeal. In paragraph 29 of the judgment dated 26.09.2023, following has been held:
+	</p>
+	<p title="Precedent Analysis">
+		"29. Now coming to the question of relief which can be claimed by the Appellant in the psent Appeal. Suffice it to say that Appellants claim for the AY 2012-13 cannot be said Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 52 to be non-existent, as is the stand taken by the IRP. However, after admitting the aforesaid claim for the AY 2012-13 for total amount of Rs.1157.07 Crores, as claimed by the Appellant, Income Tax Department who has filed claim as Operational Creditor was entitle for amount not less than the amount to be paid in the event of liquidation as per Section 53. It is specifically submitted on behalf of Respondent No. 2 and 3 that liquidation value of the Appellant being NIL, the Appellant was not entitled to receive any amount as per Section 30(2)(b). We, thus, are of the view that no effective relief can be granted to the Appellant in the psent Appeal. The treatment of the claim of the Appellant in the Resolution Plan cannot be said to be in violation of Section 30(2)(e)."
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		41. Income Tax Department itself having filed an appeal challenging the part of the Order dated 07th March, 2023 which has approved the resolution plan qua the treatment of income tax dues which appeal has already been disposed of by this tribunal observing the order of the Adjudicating Authority in so far as treatment of the claim of the plan is not vitiated, it is not open for the Appellant to raise any further submissions with regard to dues of income tax. Learned Counsel for the Appellant has also contended that against the order of this tribunal dated 26.09.2023 passed in C.A.(AT) Ins No.549 of 2023, Suraksha Realty has also filed an appeal where it was contended on behalf of Suraksha Realty that in event the future liability of income tax is not extinguished, the plan shall become non-implementable.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		42. Learned Counsel for the Respondent submits that the Suraksha Realty has filed the Appeal against only certain observations made in the Judgment Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 53 of this Tribunal dated 26.09.2023 in respect of liability of Rs. 33,000 Crores and issues which have been closed by Judgment dated 26.09.2023 with regard to treatment of income tax dues in the resolution plan, cannot be allowed to be reopened by the Appellant.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		43. As noticed above, the income tax department has itself filed an appeal being C.A.(AT) Ins. No. 549 of 2023 which has been decided on 26.09.2023 where this Tribunal came to the conclusion that there is no violation of provision of Section 30(2)(b) in so far as treatment of the claim of the income tax department is concerned and the order of the Adjudicating Authority not being interfered with in the Appeal, Appellant is not entitled to raise any further issues regarding the dues of the income tax department which has been concluded in the Appeal filed by the Income Tax Department itself. This Tribunal having held that there is no non-compliance of section 30(2)(b) with regard to treatment of claim of the income tax department who is operational creditor, we cannot accept the submission of the Appellant that there is any violation of section 30(2) of the Code with respect to claim of income tax department. We thus hold that there is no violation of provisions of sub- section (2) of Section 30 of the Code with regard to dues of the Income Tax Department.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Question No. (iii) and (iv):
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		44. Both the questions being interrelated are being decided together. Appellant challenging the approval of the Resolution Plan, order dated 07.03.2023, submits that the Resolution Plan in so far as it deals with the claim of YEIDA violates Section 30 Sub-section (2) of the Code. Submission Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 54 is that there are various clauses in the Resolution Plan which are violative of Section 30 Sub-section (2)(e). It is submitted that the Hon'ble Supme Court in Jaypee Kensington's case while dealing with the claim of YEIDA in the Resolution Plan of NBCC has already taken the view that the Resolution Plan of NBCC is not in accordance with law, which was sent back to the CoC for reconsideration. It is submitted that the judgment of Hon'ble Supme Court in Jaypee Kensington with regard to claim of YEIDA is a binding pcedent which cannot be allowed to be violated by Suraksha Realty in its plan. It is submitted that additional farmers compensation Rs.1,698 Crore has not been paid which was required to be paid asper concession agreement. A Government Agency like YEIDA cannot be made to withdraw pending litigation whereas Clause 34.28 seeks to render infructuous litigation about Additional AFC. Liability of additional farmers' compensation for land under expss way is of the concessioner. Learned counsel for the Appellant has also referred to judgment of Hon'ble Supme Court in "Yamuna Expssway Industrial Development Authority vs. M/s Shakuntala Education and Welfare Society and Ors., 2022 SCC On Line SC 655". Learned counsel for the Appellant further submits that YEIDA is a Secured Creditor as per judgment of the Hon'ble Supme Court in State Tax Officer vs. Rainbow Papers Limited, 2022 SCC OnLine SC1162. Learned counsel for the Appellant has also referred to Section 13 of the Uttar Pradesh Industrial Area Development Act, 1976. YEIDA being a Secured Creditor, Resolution Plan could not have treated as mere Operational Creditor and allocate only Rs.10 Lakhs to it. The allocation of amount to the YEIDA has Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 55 clearly in breach of Section 30 Sub-section (2)(b)(iii). Entire amount of Rs. Rs.6,111.60 Crore of the claim of YEIDA is entitle to same treatment and in the same proportion of debt as given to other Secured Creditors. Consent of YEIDA was never obtained with regard to provision of Resolution Plan. The plan ultimately sought to modify the Concession Agreement, which is impermissible.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		45. Learned counsel for the Respondent No.3 and 4 refuting the submissions of learned counsel for the Appellant submits that in so far as claim of YEIDA is concerned, YEIDA has already filed an appeal being Company Appeal (AT) (Ins.) No.493 of 2023 which is pending before this Appellate Tribunal. YEIDA in its appeal has raised all grounds to challenge the treatment of its claim in the Resolution Plan of Suraksha Realty. It is submitted that a settlement proposal between SRA and YEIDA is under consideration which has been noticed by this Tribunal in Company Appeal (AT) (Ins.) No.493 of 2023. When YEIDA has itself filed an appeal and raising all available grounds to challenge the order approving Resolution Plan, it is not open for the Appellant to raise such submissions which can be more effectively canvassed by YEIDA in its appeal. It is submitted that issues pertaining to the claim of YEIDA cannot be decided in this appeal where YEIDA is not party. It is submitted that Appellant cannot espouse case of YEIDA as Appellant is agitating their claim as members of the Suspended Board only.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 56
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		46. Shri Sumant Batra, learned counsel appearing for the Respondent No.1 has also submitted that Appellant has no locus or right to challenge the Resolution Plan on behalf of YEIDA, when YEIDA has already filed its own appeal being Company Appeal (AT) (Ins.) No.493 of 2023 before this Tribunal. YEIDA has submitted a proposal for amicable resolution of issues regarding YEIDA, which is beneficial to all stakeholders including Financial Creditors and homebuyers. Learned counsel for the Respondent No.1 has referred to order dated 05.12.2023 passed by this Tribunal in Company Appeal (AT) (Ins.) No.493 of 2023.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		47. We have considered the above submissions raised by the parties with regard to claim of YEIDA under the Resolution Plan. YEIDA has already filed an appeal Company Appeal (AT) (Ins.) No.493 of 2023 challenging the impugned order dated 07.03.2023 in so far as it treats the claim of YEIDA. Challenge to the treatment of claim of YEIDA has been raised on various grounds in Company Appeal (AT) (Ins.) No.493 of 2023. It is relevant to notice that in Company Appeal (AT) (Ins.) No.493 of 2023 this Tribunal has passed following orders on 2.04.2023, 25.08.2023 and 05.12.2023:
+	</p>
+	<p title="Court's Reasoning">
+		"20.07.2023: Mr. Ramji Srinivasan, Learned Senior Counsel for the SRA submits that they have given a proposal to the appellant which as per Learned Senior Counsel for the Appellant has been received.
+	</p>
+	<p title="Court's Reasoning">
+		Learned Counsel for the parties prays that appeal be adjourned for four weeks. As prayed, list this appeal on 25th August, 2023 at 2.00 P.M."
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 57 "25.08.2023: Mr. Gopal Jain, Learned Senior Counsel appearing for the appellant submitted that the proposal received by SRA is to be considered in the Board Meeting and it is likely to be held in the next month.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		List this appeal on 09.10.2023 at 2.00 P.M."
+	</p>
+	<p title="Conclusion">
+		"05.12.2023: Learned Counsel appearing for the appellant submits that the proposal has already been submitted before the State Government which is under active consideration and some more time may be required to take a decision on the proposal submitted to the State Government.
+	</p>
+	<p title="Conclusion">
+		List this appeal on 12.01.2024 at 2.00 PM."
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		48. The above orders indicate that the Successful Resolution Applicant has already submitted a proposal to the YEIDA which is under active consideration. Learned counsel for the YEIDA has submitted that proposal has been submitted with the State Government which is under active consideration. Recording the aforesaid statement made by learned counsel for the YEIDA, appeal filed by YEIDA adjourned to 12.01.2024. The appeal filed by YEIDA has not yet been decided and pending consideration. The Hon'ble Supme Court in Jaypee Kensington Judgment while considering challenge to the Resolution Plan submitted by NBCC has notice the stand taken by YEIDA. The Hon'ble Supme Court noticed the statement of YEIDA which was maintained before NCLT as well as Hon'ble Supme Court that YEIDA does not stand to oppose the resolution plan only for the sake of opposition: rather it would like the plan to succeed but, it has a public duty Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 58 to ensure that the framework under CA is pserved and else, it would be ready to do everything within its power to ensure that the plan is a success. We reproduce Para 146 of the Jaypee Kensington Judgment:
+	</p>
+	<p title="Petitioner's Argument">
+		"146. Before concluding on this point for determination where we have accepted the major parts of the objections of YEIDA, we may, in fairness to all the parties concerned, reiterate that despite stating its objections, YEIDA has consistently maintained before NCLT as also before this Court that it does not stand to oppose the resolution plan only for the sake of opposition: rather it would like the plan to succeed but, it has a public duty to ensure that the framework under CA is pserved and else, it would be ready to do everything within its power to ensure that the plan is a success. Thus, it would not be out of place to add a sanguine hope that being the owner of the land in question and public authority, YEIDA, which had envisaged and promoted the entire project, would, in future dealing with the matter, act with caution and circumspection, while earnestly reflecting upon the practical impact of its propositions/decisions various stakeholders, including the homebuyers."
+	</p>
+	<p title="Issue" data-structure="Issue">
+		49. As noted above with regard to the claim of YEIDA, Successful Resolution Applicant has already submitted a proposal which is under active consideration. In any view of the matter, the issues pertaining to YEIDA cannot be decided in this appeal, where YEIDA is not a party. Appellant has filed this appeal as Suspended Promoter and Director of the Corporate Debtor and the issues pertaining to claim of YEIDA need to be considered in Company Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 59 Appeal (AT) (Ins.) No.493 of 2023 filed by YEIDA challenging the impugned order. In so far as submission of learned counsel for the Appellant that YEIDA is a Secured Creditor which has wrongly been treated as Operational Creditor, such issue is also needed to be considered in Company Appeal (AT) (Ins.) No.493 of 2023 filed by YEIDA. We, thus, are of the view that issues pertaining to the claim of YEIDA and their ground to challenge the impugned order approving Resolution Plan are best suited to be examined and decided in the appeal filed by YEIDA where impugned order is under challenge and grounds have been raised. We, thus, are of the view that the issues raised by the Appellant, as noted above, need to be examined and considered in the appeal filed by YEIDA i.e. Company Appeal (AT) (Ins.) No.493 of 2023 and there is no necessity to consider those issues in this appeal which is filed by the Suspended Promoter and Director of the Corporate Debtor. Answer to both the questions is recorded accordingly.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Question No. (v)
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		50. Another ground of attack by the Appellant to the Resolution Plan is on the ground that right of subrogation which is vested in a Corporate Guarantor and Personal Guarantor has been taken away by the Resolution Plan. It is submitted that under the provisions of Indian Contract Act, 1872 a surety or guarantor has a right to subrogation. The liability of a surety is co-extensive with that of the principal debtor and, upon the discharge of principal debtor from its obligation to repay the debt, the liability of surety also gets extinguished. Learned counsel for the Appellant has relied on provisions of Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 60 Section 135, 140 and 141 of Indian Contract Act. It is submitted that right under Section 135, 140 and 141 has been taken away by the Resolution Plan. The Appellants are Corporate Guarantor and Personal Guarantor of the Corporate Debtor. We may first notice Clause 34.50 of the Resolution Plan which has been extracted and dealt by the Adjudicating Authority in the impugned order. In Para 99 of the impugned order Clause 34.50 has been extracted which is as follows:
+	</p>
+	<p title="Conclusion">
+		"99. Another objection raised by JAL is against Clause 34.50 of the Resolution Plan, which reads as under:
+	</p>
+	<p title="Conclusion">
+		"34.50 Upon completion of transfer of the beneficial ownership of land parcels to Assenting Institutional Financial Creditors as contemplated in clause no 15 above, the outstanding dues of the Assenting Institutional Financial Creditors shall stand settled and the Assenting Institutional Financial Creditors shall not take any action against the Corporate Debtor for recovery of any outstanding dues. Further, notwithstanding the treatment of the Claims of the Institutional Financial Creditors under this Resolution Plan (including but not limited to the extinguishment of any such Claims), any personal and corporate guarantors, other than the Corporate Debtor, shall continue to be liable to the Institutional Financial Creditors for any amounts due to them to the fullest extent under the Applicable Laws without any recourse or remedy against the Corporate Debtor. Further, any right or remedy including but not limited to right of subrogation as may be available to such corporate or personal guarantors against the Corporate Debtor in the event of exercise of rights by Institutional Financial Creditors shall stand extinguished.""
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		51. Learned counsel for the Appellant relies on Section 135, 140 and 141 of the Contract Act. Section 135, 140 and 141 of the Indian Contract Act are as follows:
+	</p>
+	<p title="Conclusion">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 61 "135. Discharge of surety when creditor compounds with, gives time to, or agrees not to sue, principal debtor.--A contract between the creditor and the principal debtor, by which the creditor makes a composition with, or promises to give time to, or not to sue, the principal debtor, discharges the surety, unless the surety assents to such contract.
+	</p>
+	<p title="Conclusion">
+		140. Rights of surety on payment or performance.--Where a guaranteed debt has become due, or default of the principal debtor to perform a guaranteed duty has taken place, the surety upon payment or performance of all that he is liable for, is invested with all the rights which the creditor had against the principal debtor.
+	</p>
+	<p title="Conclusion">
+		141. Surety's right to benefit of creditor's securities.--A surety is entitled to the benefit of every security which the creditor has against the principal debtor at the time when the contract of suretyship is entered into, whether the surety knows of the existence of such security or not; and if the creditor loses, or, without the consent of the surety, parts with such security, the surety is discharged to the extent of the value of the security."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		52. We may first consider the submission advanced by the Appellant on right of subrogation. Subrogation is defined in P Ramanatha Aiyar's Advanced Law Lexicon in following words:
+	</p>
+	<p title="Conclusion">
+		"Subrogation. The acquisition of another person's rights usually as result of assuming or discharging that Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 62 person's liabilities, particularly in connection with guarantees and insurance."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		53. The Hon'ble Supme Court in "Krishna Pillai Rajasekharan Nair (D) by Lrs. vs. Padmanabha Pillai (D) by Lrs. &amp; Ors., (2004) 12 SCC 754"
+	</p>
+	<p title="Precedent Analysis">
+		elaborating the doctrine of subrogation laid down following in Para 20:
+	</p>
+	<p title="Precedent Analysis">
+		"20. Subrogation rests upon the doctrine of equity and the principles of natural justice and not on the privity of contract. One of the principles is that a person, paying money which another is bound by law to pay, is entitled to be reimbursed by the other. This principle is enacted in Section 69 of the Contract Act, 1872. Another principle is found in equity: "he who seeks equity must do equity". (See Rashbehary Ghose on Law of Mortgage in India, 7th Edn., 1997 at p. 461.)"
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		54. Section 140 lays down that when a guaranteed debt has become due on principal debtor and security as guaranteed is paid by the surety to the creditor, what is due to the creditor becomes right of the guarantor in respect of the debt and default to which guarantee relates. The provision enables to keep alive securities, benefit, any right of the creditor under the security or otherwise which is discharged by payment or performance of liability. In the facts of the psent case, it is not the case of the Appellant that the Corporate Guarantor and Personal Guarantor have paid the dues of the creditor and thus they are entitled to get in the shoes of the principal creditor. On this single ground claim of Section 140, does not subsist. In the psent case, debt of the Principal Borrower is being discharged consequent to the Resolution Plan under the IBC. We have already noticed clause 34.50 which Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 63 expssly takes away the right of subrogation to the Guarantors. The Hon'ble Supme Court had occasion to consider the right to Guarantors consequent to approval of Resolution Plan in IBC in "Lalit Kumar Jain vs. Union of India, (2021) 9 SCC 321". Submission was advanced before the Hon'ble Supme Court that once a resolution plan is accepted, the corporate debtor is discharged of liability. As a consequence, the guarantor whose liability is co-extensive with the principal debtor i.e. the corporate debtor, too is discharged of all liabilities. Above submission is noted in Para 115 of the judgment, which is as follows:
+	</p>
+	<p title="Conclusion">
+		"115. The other question which parties had urged before this Court was that the impugned notification, by applying the Code to personal guarantors only, takes away the protection afforded by law; reference was made to Sections 128, 133 and 140 of the Contract Act, 1872; the petitioners submitted that once a resolution plan is accepted, the corporate debtor is discharged of liability. As a consequence, the guarantor whose liability is co-extensive with the principal debtor i.e. the corporate debtor, too is discharged of all liabilities. It was urged therefore, that the impugned notification which has the effect of allowing proceedings before NCLT by applying provisions of Part III of the Code, deprives the guarantors of their valuable substantive rights."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		55. The Hon'ble Supme Court noted relevant provisions of the Contract Act including Section 141 of the Contract Act. The Hon'ble Supme Court laid down that approval of Resolution Plan and finality imparted to it does not Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 64 per se operate as a discharge of the guarantor's liability. Following was laid down in Para 122 and 125:
+	</p>
+	<p title="Conclusion">
+		"122. It is therefore, clear that the sanction of a resolution plan and finality imparted to it by Section 31 does not per se operate as a discharge of the guarantor's liability. As to the nature and extent of the liability, much would depend on the terms of the guarantee itself. However, this Court has indicated, time and again, that an involuntary act of the principal debtor leading to loss of security, would not absolve a guarantor of its liability. In Maharashtra SEB [Maharashtra SEB v. Official Liquidator, (1982) 3 SCC 358] the liability of the guarantor (in a case where liability of the principal debtor was discharged under the Insolvency law or the Company law), was considered. It was held that in view of the unequivocal guarantee, such liability of the guarantor continues and the creditor can realise the same from the guarantor in view of the language of Section 128 of the Contract Act, 1872 as there is no discharge under Section 134 of that Act. This Court observed as follows:
+	</p>
+	<p title="Conclusion">
+		"7. Under the bank guarantee in question the Bank has undertaken to pay the Electricity Board any sum up to Rs 50,000 and in order to realise it all that the Electricity Board has to do is to make a demand. Within forty-eight hours of such demand the Bank has to pay the amount to the Electricity Board which is not under any obligation to prove any default on the part of the Company in liquidation before the amount demanded is paid. The Bank cannot raise the plea that it is liable only to the extent of any loss that may have been sustained by the Electricity Board owing to any default on the part of the supplier of goods i.e. the Company in liquidation.
+	</p>
+	<p title="Conclusion">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 65 The liability is absolute and unconditional. The fact that the Company in liquidation i.e. the principal debtor has gone into liquidation also would not have any effect on the liability of the Bank i.e. the guarantor. Under Section 128 of the Contract Act, 1872, the liability of the surety is coextensive with that of the principal debtor unless it is otherwise provided by the contract. A surety is no doubt discharged under Section 134 of the Contract Act, 1872 by any contract between the creditor and the principal debtor by which the principal debtor is released or by any act or omission of the creditor, the legal consequence of which is the discharge of the principal debtor. But a discharge which the principal debtor may secure by operation of law in bankruptcy (or in liquidation proceedings in the case of a company) does not absolve the surety of his liability.""
+	</p>
+	<p title="Conclusion">
+		"125. In view of the above discussion, it is held that approval of a resolution plan does not ipso facto discharge a personal guarantor (of a corporate debtor) of her or his liabilities under the contract of guarantee. As held by this Court, the release or discharge of a principal borrower from the debt owed by it to its creditor, by an involuntary process i.e. by operation of law, or due to liquidation or insolvency proceeding, does not absolve the surety/guarantor of his or her liability, which arises out of an independent contract."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		56. The Resolution Plan after approval is binding on the Corporate Debtor, its employees, members, creditors including its Directors and Guarantors. Section 31(1) of the IBC provides as follows:
+	</p>
+	<p title="Conclusion">
+		"31. (1) If the Adjudicating Authority is satisfied that the resolution plan as approved by the committee of creditors under sub-section (4) of section 30 meets the requirements as referred to in sub-section (2) of section Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 66 30, it shall by order approve3 the resolution plan which shall be binding on the corporate debtor and its employees, members, creditors, 1[including the Central Government, any State Government or any local authority to whom a debt in respect of the payment of dues arising under any law for the time being in force, such as authorities to whom statutory dues are owed,] guarantors and other stakeholders involved in the resolution plan.
+	</p>
+	<p title="Conclusion">
+		2[Provided that the Adjudicating Authority shall, before passing an order for approval of resolution plan under this sub-section, satisfy that the resolution plan has provisions for its effective implementation.]"
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		57. When the statute provides that the Resolution Plan is binding on the Guarantors also, Appellants are not entitled to make any submission that they are not bound by Clause 34.50 of the Resolution Plan which expssly extinguishes the right of subrogation. In the judgment of Hon'ble Supme Court in "Essar Steel India Ltd. Committee of Creditors v. Satish Kumar Gupta, (2020) 8 SCC 531" under the heading "Extinguishment of Personal Guarantees and Undecided Claims" the issue has been dealt by the Hon'ble Supme Court from Para 100 to 107. In the Resolution Plan which came for consideration in Essar Steel's case, clause of Resolution Plan is extracted in Para 103 of the judgment which provides that "claims of the guarantor on account of subrogation, if any, under any such guarantee shall be deemed to have been abated, released, discharged and extinguished". The submission of learned counsel for the Appellant challenging the extinguishment of claim Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 67 of guarantee on account of subrogation was repelled. We may notice Para 100 to 107 of the judgment, which is as follows:
+	</p>
+	<p title="Conclusion">
+		"Extinguishment of Personal Guarantees and Undecided Claims
+	</p>
+	<p title="Conclusion">
+		100. Shri Gopal Subramanium and Shri Rakesh Dwivedi have also appealed against the extinguishment of the rights of creditors against guarantees that were extended by the promoters/promoter group of the corporate debtor. According to them, this was done by a side wind by the Appellate Tribunal without any reasons for the same.
+	</p>
+	<p title="Conclusion">
+		101. Shri Prashant Ruia a promoter/director of the corporate debtor in his personal guarantee dated 28-9- 2013, specifically stated as follows:
+	</p>
+	<p title="Conclusion">
+		"7. The obligations of the Guarantor under this Guarantee shall not be affected by any act, omission, matter or thing that, but for this Guarantee, would reduce, release or pjudice any of its obligations under this Guarantee (without limitation and whether or not known to it or any Secured Party) including:
+	</p>
+	<p title="Conclusion">
+		***
+	</p>
+	<p title="Conclusion">
+		(g) any insolvency or similar proceedings."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		102. Also, under the caption "terms of settlement", the final resolution plan dated 2-4-2018, as approved on 23-10-2018, specifically provided:
+	</p>
+	<p title="Court's Reasoning">
+		"Financial Creditors:
+	</p>
+	<p title="Court's Reasoning">
+		Pursuant to the approval of this resolution plan by the Adjudicating Authority, each of the financial Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 68 creditors shall be deemed to have agreed and acknowledged the following terms:
+	</p>
+	<p title="Court's Reasoning">
+		(i) The payment to the financial creditors in accordance with this resolution plan shall be treated as full and final payment of all outstanding dues of the corporate debtor to each of the financial creditors as of the effective date, and all agreements and arrangements entered into by or in favour of each of the financial creditors, including but not limited to loan agreements and security agreements (other than corporate or personal guarantees provided in relation to the corporate debtor by the existing promoter group or their respective affiliates) shall be deemed to have been (i) assigned/novated to the resolution applicant, or any person nominated by the resolution applicant, with effect from the effective date, with no rights subsisting or accruing to the financial creditors for the period prior to such assignment or novation; and (ii) to the extent not legally capable of assigned or novated-
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		terminated with effect from the effective date, with no rights accruing or subsisting to the financial creditors for the period prior to termination.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		(ii) In relation to the loan and financial assistance provided to the corporate debtor;
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		each of the financial creditors, as the case maybe, shall:
+	</p>
+	<p title="Conclusion">
+		-- Assign/novate all security given (including but not limited to encumbrance over assets of the corporate debtor, pledge of shares of the corporate debtor (other than corporate guarantees and personal guarantees) related in any manner to the corporate debtor) to the resolution applicant and/or its connected persons, and/or banks or financial institutions designated by the resolution applicant in this regard, pursuant to the Acquisition Structure, with effect from the effective date;
+	</p>
+	<p title="Conclusion">
+		-- Issue such letters and communications, and take such other actions, as may be required or deemed necessary for the release, Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 69 assignment or novation of (i) the encumbrance over the assets of the corporate debtor; and (ii) the pledge over the shares of the corporate debtor; within 5 (five) business days from the effective date; and
+	</p>
+	<p title="Conclusion">
+		-- Be deemed to have waived all claims and dues (including interest and penalty, if any) from the corporate debtor arising on and from the insolvency commencement date, until the effective date."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		103. Shri Rohatgi, learned Senior Advocate appearing on behalf of Shri Prashant Ruia, also pointed out Section XIII(1)(g) of the resolution plan dated 23-10- 2018, in which it is stated as follows:
+	</p>
+	<p title="Court's Reasoning">
+		"Upon the approval of the resolution plan by the Adjudicating Authority in relation to guarantees provided for and on behalf of, and in order to secure the financial assistance availed by the corporate debtor, which have been invoked prior to the effective date, claims of the guarantor on account of subrogation, if any, under any such guarantee shall be deemed to have been abated, released, discharged and extinguished.
+	</p>
+	<p title="Court's Reasoning">
+		It is hereby clarified that, the aforementioned clause shall not apply in any manner which may extinguish/affect the rights of the financial creditors to enforce the corporate guarantees and personal guarantees issued for and on behalf of the corporate debtor by existing promoter group or their respective affiliates, which guarantees shall continue to be retained by the financial creditors and shall continue to be enforceable by them."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		104. We were also informed by the learned Senior Counsel that the personal guarantees of the promoter group have been invoked and legal proceedings in respect thereof are pending. It has been pointed out to Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 70 us that Shri Prashant Ruia and other members of the promoter group, who are guarantors, are not parties to the resolution plan submitted by ArcelorMittal and hence, the resolution plan cannot bind them to take away rights of subrogation, which they may have if they are ordered to pay amounts guaranteed by them in the pending legal proceedings.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		105. Section 31(1) of the Code makes it clear that once a resolution plan is approved by the Committee of Creditors it shall be binding on all stakeholders, including guarantors. This is for the reason that this provision ensures that the successful resolution applicant starts running the business of the corporate debtor on a fresh slate as it were. In SBI v. V. Ramakrishnan [SBI v. V. Ramakrishnan, (2018) 17 SCC 394 : (2019) 2 SCC (Civ) 458] , this Court relying upon Section 31 of the Code has held: (SCC p. 411, para 25) "25. Section 31 of the Act was also strongly relied upon by the respondents. This section only states that once a resolution plan, as approved by the Committee of Creditors, takes effect, it shall be binding on the corporate debtor as well as the guarantor. This is for the reason that otherwise, under Section 133 of the Contract Act, 1872, any change made to the debt owed by the corporate debtor, without the surety's consent, would relieve the guarantor from payment. Section 31(1), in fact, makes it clear that the guarantor cannot escape payment as the resolution plan, which has been approved, may well include provisions as to payments to be made by such guarantor. This is perhaps the reason that Annexure VI(e) to Form 6 contained in the Rules and Regulation 36(2) referred to above, require information as to personal guarantees that have been given in relation to the debts of the corporate debtor. Far from supporting the stand of the respondents, it is Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 71 clear that in point of fact, Section 31 is one more factor in favour of a personal guarantor having to pay for debts due without any moratorium applying to save him."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		106. Following this judgment in V. Ramakrishnan case [SBI v. V. Ramakrishnan, (2018) 17 SCC 394 :
+	</p>
+	<p title="Conclusion">
+		(2019) 2 SCC (Civ) 458] , it is difficult to accept Shri Rohatgi's argument that that part of the resolution plan which states that the claims of the guarantor on account of subrogation shall be extinguished, cannot be applied to the guarantees furnished by the erstwhile Directors of the corporate debtor. So far as the psent case is concerned, we hasten to add that we are saying nothing which may affect the pending litigation on account of invocation of these guarantees.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		However, NCLAT judgment being contrary to Section 31(1) of the Code and this Court's judgment in V. Ramakrishnan case [SBI v. V. Ramakrishnan, (2018) 17 SCC 394 : (2019) 2 SCC (Civ) 458] , is set aside.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		107. For the same reason, the impugned NCLAT judgment [Standard Chartered Bank v. Satish Kumar Gupta, 2019 SCC OnLine NCLAT 388] in holding that claims that may exist apart from those decided on merits by the resolution professional and by the Adjudicating Authority/Appellate Tribunal can now be decided by an appropriate forum in terms of Section 60(6) of the Code, also militates against the rationale of Section 31 of the Code. A successful resolution applicant cannot suddenly be faced with "undecided" claims after the resolution plan submitted by him has been accepted as this would amount to a hydra head popping up which Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 72 would throw into uncertainty amounts payable by a prospective resolution applicant who would successfully take over the business of the corporate debtor. All claims must be submitted to and decided by the resolution professional so that a prospective resolution applicant knows exactly what has to be paid in order that it may then take over and run the business of the corporate debtor. This the successful resolution applicant does on a fresh slate, as has been pointed out by us hereinabove. For these reasons, NCLAT judgment must also be set aside on this count."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		58. The law is thus well settled that after approval of the Resolution Plan, the Personal Guarantors and Corporate Guarantors have no right of subrogation especially when in the facts of the psent case under Clause 34.50 of the Resolution Plan, right of subrogation is expssly extinguished. The debt against the Corporate Debtor might have extinguished after approval of the Resolution Plan but said consequence shall not be with regard to the Corporate Guarantors and the Personal Guarantors. The same shall be as per the expss provisions of the Resolution Plan. We, thus, do not find any substance in submission of the Appellant that debt is extinguished under Section 135 and they have right of subrogation under Section 140 and to receive provision of securities under Section 141, cannot be accepted. The question is answered accordingly.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 73 Question No. (vi) and (vii)
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		59. Learned counsel for the Appellant submits that in the Resolution Plan, Successful Resolution Applicant has prayed for grant of several reliefs and concessions. It is submitted that when several reliefs and concession have not been granted which relief and concessions are not severable from the Resolution Plan, the Resolution Plan contravenes Section 30 Sub-section (2)(e). It is further submitted that the Adjudicating Authority while granting some of the reliefs and concessions has exceeded its jurisdiction and issued/granted certain reliefs and concessions which are not permissible in law. To support his submission, Learned counsel for the Appellant has relied on judgment of the Hon'ble Supme Court in "Embassy Property Developments Pvt. Ltd. vs. State of Karnataka &amp; Ors., (2020) 13 SCC 308".
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		60. Learned counsel for the Respondent No.1 as well as learned counsel for the Successful Resolution Applicant refuting the submission of the Appellant contends that the Successful Resolution Applicant in its Resolution Plan in Clause 12 has clearly stated that even if, no relief and concession are granted, the plan shall be implemented. It is submitted that the relief and concession which have been granted by the Adjudicating Authority does not violate any provision of law and they are necessary for implementation of Resolution Plan. It is requirement of the law that Resolution Plan shall contain provision for effective implementation of the Resolution Plan.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 74
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		61. We may first notice the relief and concession which have been granted by the Adjudicating Authority in the impugned order which are sought to be questioned by the Appellant. Learned counsel for the Appellant has challenged the reliefs and concessions granted in Para 157, 158, 160, 161 and 164. We first proceed to notice above reliefs and concessions granted by the Adjudicating Authority and as to whether the said grant was impermissible and violative of Section 30(2)(e). Para 157 of the impugned order is as follows:
+	</p>
+	<p title="Conclusion">
+		"157. The next relief and concession sought by the SRA is at Serial No.26 of Annexure II, which reads as under:
+	</p>
+	<p title="Conclusion">
+		"26. Issuance of necessary directions to SEBI, relevant stock exchanges and MCA for expediting the delisting of shares and to take necessary actions in a time bound manner as applicable under the pvailing laws in order to implement the Resolution Plan."
+	</p>
+	<p title="Conclusion">
+		As the relief sought is to facilitate implementation of the Resolution Plan, the same is granted."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		62. From the above direction issued by the Adjudicating Authority it is clear that the SRA has prayed for issuance of necessary directions to SEBI, relevant stock exchanges and MCA for expediting the delisting of shares and take necessary actions in a time bound manner as applicable under the pvailing laws in order to implement the Resolution Plan. The above direction is only for the purpose of implementing the Resolution Plan and does not violate any statutory provisions. The use of expssion "as applicable under the pvailing laws" clearly indicate that the SRA is not seeking any relief and Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 75 concession in violation of any applicable law. The objection raised by the Appellant thus has no merit.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		63. Now we come to Para 158 of the impugned order, which is as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"158. The next relief and concession sought by the SRA is at Serial No.27 of Annexure II reads thus:
+	</p>
+	<p title="Precedent Analysis">
+		"27. Issuance of necessary directions to relevant RERA Authority(ies) to expeditiously make the appropriate changes in its records qua Projects, in accordance with the Resolution Plan."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Since the relief sought will expedite the implementation of the Resolution Plan, the same is granted."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		64. The above direction is only to relevant RERA Authority to expeditiously make the appropriate changes in its records qua Projects, in accordance with the Resolution Plan. The said action is necessary consequence to the approval of Resolution Plan. The SRA is not asking any direction which is in violation of any applicable law. Thus, there is no error in granting the above relief by the Adjudicating Authority.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		65. Now we come to Para 160, where following relief has been directed:
+	</p>
+	<p title="Precedent Analysis">
+		"160. The next relief and concession sought at Serial No.29 of Annexure II reads as given below:
+	</p>
+	<p title="Precedent Analysis">
+		"29. The Hon'ble Adjudicating Authority be pleased to issue necessary directions to the local district administration of the respective states where the assets of the Corporate Debtor are situated to give assistance to the Resolution Applicant (s) for the implementation of the Resolution Plan, as and when required by the Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 76 Resolution Applicants and for completing the Construction of Projects for Home Buyers."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Since the relief sought will expedite implementation of the Resolution Plan, the relief is granted."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		66. The above direction was only to give assistance to the Resolution Applicant for the implementation of the Resolution Plan, the direction cannot be read as violating any law of the land.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		67. In Para 161 following has been directed:
+	</p>
+	<p title="Conclusion">
+		"161. The next relief and concession sought is at Serial No. 30 of the Annexure II, which reads as under:
+	</p>
+	<p title="Conclusion">
+		"30. To direct the concerned Registrar of Companies to expeditiously associate, as per Applicable Laws, the Directors Identification Numbers (DIN) of the Directors who would be taking charge collectively as Board of Directors of the Corporate Debtor, pursuant to the approval of the Resolution Plan."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		The aforesaid relief is granted."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		68. In the above relief, the applicant is asking for issuing direction "as per applicable laws", which cannot be said to violate any statutory provision.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		69. Lastly, the Appellant has questioned the relief granted by Para 164. In Para 164, the Adjudicating Authority has directed following:
+	</p>
+	<p title="Precedent Analysis">
+		"164. The next relief and concession sought at Serial No.33 of Annexure II reads as under:
+	</p>
+	<p title="Precedent Analysis">
+		"33. Issuance of suitable directions to the Ministry of Corporate Affairs, to waive the requirements under Section 140 of the Companies Act, 2013 in respect of the removal of the existing auditors of Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 77 the Corporate Debtor. Issue directions to JAL to the effect that during the Transition Period, JAL, if so required by the Resolution Applicants, shall provide all facilitation to the Resolution Applicants /Corporate Debtor, with regard to maintenance and handing over the assets of the Corporate Debtor, for effective implementation of the Resolution Plan."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Since the relief sought will expedite the implementation of the Resolution Plan, the relief is granted."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		70. Section 140 of the Companies Act deals with 'Removal, resignation of auditor and giving of special notice'. Section 140(1) of the Companies Act is as follows:
+	</p>
+	<p title="Conclusion">
+		"140(1) The auditor appointed under section 139 may be removed from his office before the expiry of his term only by a special resolution of the company, after obtaining the pvious approval of the Central Government in that behalf in the pscribed manner:
+	</p>
+	<p title="Conclusion">
+		Provided that before taking any action under this sub- section, the auditor concerned shall be given a reasonable opportunity of being heard."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		71. The above provision indicates that pvious approval of the Central Government is required in the pscribed manner. Under Para 164 direction was sought to the MCA to waive requirement under Section 140 of the Companies Act. The psent is a case where the SRA, who is taking over the Corporate Debtor has to implement the Resolution Plan. The Adjudicating Authority held that "since the relief sought will expedite the implementation of the Resolution Plan, the relief is granted". The object and purpose of granting relief is to expedite the implementation of the Resolution Plan in Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 78 which we do not find error warranting any interference by this Appellate Tribunal.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		72. We may further notice that in Clause 12 which deals with reliefs and concessions, the Successful Resolution Applicant has made following statement:
+	</p>
+	<p title="Conclusion">
+		"12. Reliefs and Concessions The reliefs and concessions sought by the Resolution Applicants are more particularly contained in Annexure-II hereto. The Resolution Applicants undertake that they will implement this Resolution Plan, whether or not the reliefs and concessions are granted."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		73. The above clause clearly stipulates the statement of the Successful Resolution Applicant that the implementation of Resolution Plan is not subject to grant of all reliefs and concessions, as prayed in the Resolution Plan. It is clear that any reliefs and concessions not been granted thus cannot have any adverse effect nor by non-grant of any relief and concession, for the reasons which are given by the Adjudicating Authority in the impugned order, there can be said to be any violation of law. There is no challenge to the reliefs and concessions not granted by the Adjudicating Authority by the Successful Resolution Applicant. The submission of the Appellant that as several reliefs and concession have not been granted which were part of the Resolution Plan, the Resolution Plan cannot be approved and should be sent back to the CoC also does not commend us. As noted above, the Successful Resolution Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 79 Applicant has clearly contemplated that the Successful Resolution Applicant will implement the plan whether or not reliefs and concessions are granted. We, thus, do not find any infirmity in the reliefs and concessions granted by the Adjudicating Authority. As noted above, the fact that certain reliefs and concessions have not been granted could have not adverse effect on validity of the Resolution Plan or it can be said that any illegality has been crept in the Resolution Plan on the above ground. We thus answer the question accordingly.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Question No. (viii):
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		74. One of the submission which has been advanced by the Appellant is that the Successful Resolution Applicant has not taken into consideration 758 acres of land which was covered by six mortgage transactions which has been released from encumbrances as per order of the Hon'ble Supme Court dated 26.02.2020 in "Anuj Jain Vs Axis Bank Ltd., (2020) 8 SCC 401". The above submission has been refuted by learned counsel for the Respondent. It is relevant to notice that Respondent No.1 in reply filed in this appeal as specifically pleaded that 858 acres of land was taken into consideration in the Resolution Plan submitted by Suraksha Realty. In the Reply filed by the Respondent No.1, in Para 15 (u) and (v) following has been pleaded:
+	</p>
+	<p title="Petitioner's Argument">
+		u. It is submitted that In terms of Anuj Jain Vs Axis Bank Ltd., 758 acres of land of the Corporate Debtor, which was earlier mortgaged to the lenders of JAL, was released from any encumbrances under the provisions of avoidance Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 80 transactions. The Resolution Plan submitted by Suraksha factors in this land of 758 acres released from encumbrances and has been approved by the CoC after due deliberations. The Comparison of land offered by NBCC under the Resolution Plan in 2019 and that by Suraksha in 2021 is as under:
+	</p>
+	<p title="Petitioner's Argument">
+		Treatment as per NBCC Resolution Treatment as per Suraksha Resolution Plan (Dec' 2019)* Plan (June' 2021) Particulars Total Mortgage Land Balance Ref. Mortgage Land Balance Ref.
+	</p>
+	<p title="Petitioner's Argument">
+		Land to JAL offered Land to JAL offered Land Lender in Plan Lender in PlanLFD-1 25 25 - - - - 25(Noida)LFD-2 800 158 187 455 - 718 82(Jaganpur) Clause ClauseLFD-3 336 - 170 166 1.12 - 50 286 15.11(Mirzapur) Page PlanLFD-4 1,226 418 550 258 No.45 100 1,126 -(Tappal)LFD-5 1,185 257 619 309 - 808 377(Agra)Grand 3,501 858 1,526 1,188 100 2,702 770Total v. Thus, the aforementioned comparison makes it abundantly clear that the land offered by Suraksha to the stakeholders under the
+	</p>
+	<p title="Petitioner's Argument">
+		Resolution Plan takes into account the additional Land of 758 acres released from any Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 81 encumbrances under the provisions of avoidance transactions.
+	</p>
+	<p title="Petitioner's Argument">
+		75. In reply Para u, a table has been given where details of the land have been mentioned and land which was mortgaged to JAL Lenders, except that 100 acres rest has been taken into consideration in the Resolution Plan. The aforesaid reply clearly pleads that plan of Suraksha includes the entire 758 acres of land which was released from mortgage. We have already noticed that the IRP has filed an application before the Adjudicating Authority for avoidance of 7 transactions by which land of Corporate Debtor were mortgaged for securing the loan granted to JAL by the Lenders. The Adjudicating Authority has declared 6 transactions as pferential by order dated 16.05.2018 which order was set aside by the Appellate Tribunal but reversed by the Hon'ble Supme Court in "Anuj Jain Vs Axis Bank Ltd., (2020) 8 SCC 401". It is relevant to notice that although in the reply filed by Respondent No.1 details of 858 acres which has been taken in the Resolution Plan pleaded and explained, in the rejoinder which has been filed by the Appellant in Company Appeal (AT) (Ins.) No.548 of 2023 there is no reply to above pleading. In Para 4 of the Rejoinder following has been pleaded:
+	</p>
+	<p title="Petitioner's Argument">
+		"4. JAL is filing a composite and not a para-wise rejoinder to the Reply filed by JIL while reserving its right to file a para-wise rejoinder if such need does arise or a direction in this regard in given by this Hon'ble Tribunal. Further, JAL seeks leave of this Hon'ble Tribunal to reiterate, refer to and rely on its submissions made before the Adjudicating Authority in the underlying proceedings."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 82
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		76. Although Appellant submitted that JAL is filing a composite and not a para-wise rejoinder to the reply filed by JIL, in none of the Para any pleading that land of 858 acres is not included in the Resolution Plan of Suraksha Realty has been made. A perusal of the Rejoinder indicates that although in some para reply to different sub-paragraphs of Para 15 have been given but there is no specific reply to Para 15 (u) and (v).
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		77. The judgment of Hon'ble Supme Court in "Anuj Jain Vs Axis Bank Ltd." was delivered before approval of the Resolution Plan on 03.03.2020. From judgment of Jaypee Kensington of the Hon'ble Supme Court it is noticeable that even in NBCC's plan relief was sought with regard to 858 acres of land. Both the Resolution Applicants were thus well aware about order of the Hon'ble Supme Court dated 26.02.2020 and there was no occasion for not including the said land which was available for the kitty of the Corporate Debtor after release of encumbrances. We, thus, do not find any substance in submission of the Appellant that 758 acres of land has not been included in the plan submitted by Suraksha Realty.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Question No. (ix):
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		78. We have noticed above the different I.As. filed by the homebuyers. Applicant homebuyers have prayed for intervention in the appeal. We have already heard the interveners. Learned counsel for the interveners who repsent homebuyers of the Corporate debtor have expssed concern for inordinate delay in start of construction and completion of their project. Homebuyer submitted that they are waiting for their units for last several Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 83 years and Promoter/Director who are responsible for insolvency of the Corporate Debtor have created hurdles in resolution of the Corporate Debtor and appeals filed by the Appellants are nothing but another attempt to create obstruction in implementation of the Resolution Plan. It is submitted that implementation of the Resolution Plan is in the benefit of all homebuyers.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		79. It is well settled that interveners by the I.A. cannot claim any relief for themselves. Interveners are either to support the order which is subject matter of challenge or support the Appellant in their challenge. The Applicants who have filed their claims before the IRP and whose claims are reflected are fully entitled to approach the SRA/Monitoring and Implementation Committee for their entitlement, for which they are entitled as per the Resolution Plan.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		80. In I.A. No.3218 of 2023, the Applicant has prayed for a direction to the Respondent No.1 to disclose as to when they will initiate refund of the money of the Applicant who cancelled the allotment of the unit prior to initiation of CIRP. I.A. No. 3218 of 2023 is disposed of with liberty to the Applicant to approach Respondent No.1.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		81. I.A. No.2643 of 2023 is an I.A. filed by one Ayush Agarrwal who has claimed in the application that he had no knowledge of the insolvency resolution process and he had no knowledge of the order prior to 08.03.2023. Applicant has not filed any claim in the CIRP, hence, no direction can be issued for consideration of claim of the Applicant. I.A. No.2643 of 2023 is Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023 84 thus rejected. Similarly, I.A. No. 3701 of 2023 praying for similar relief is also rejected.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		82. In I.A. No.3702 of 2023, the Applicant - Tajender Khanna has sought for intervention. We have permitted the homebuyers to intervene in the matter. No other reliefs can be granted in I.A. No.3702 of 2023. I.A. is disposed of accordingly. All the I.As. seeking intervention are disposed of.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		83. In view of the foregoing discussion and conclusion, we do not find any ground in these appeals to interfere with the impugned order dated 07.03.2023 passed by the Adjudicating Authority at the instance of the Appellants.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		84. Before we close, we record our compliments to the learned counsel for the respective parties and their associates who have rendered assistance to the Court in dealing with variety of questions involved in these matters.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		85. In result, both the appeals are dismissed. Parties shall bear their own costs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice Ashok Bhushan] Chairperson [Barun Mitra] Member (Technical) New Delhi Anjali/Archana/Basant Company Appeal (AT) (Insolvency) Nos. 548 of 2023 &amp; 559 of 2023
+	</p>
+</div>
+</html>

@@ -1,0 +1,115 @@
+~~NOTOC~~
+
+# **22) Case Law Extraction (Limitation + Acknowledgement of Debt Post-IBC)**
+
+**A — Act as**
+A legal researcher specializing in IBC limitation jurisprudence.
+
+**U — Audience**
+Insolvency counsel preparing arguments on limitation.
+
+**T — Targeted Action**
+Extract and summarise all relevant case law on whether limitation resets upon acknowledgement of debt after IBC.
+
+**O — Output Definition**
+A **case-law table** with:
+`case name | court | citation | principle | relevance | direction of support`.
+Plus a **100–150 word synthesis**.
+
+**M — Mode/Tone/Style**
+Neutral, citation-accurate, jurisprudence-focused.
+
+**A — Atypical Cases**
+
+* If issue scope unclear → ask whether the query is pre/post *Asset Reconstruction Company v Bishal Jaiswal* line.
+* Conflicting facts → present both streams of judgments.
+
+**T — Topic Whitelisting**
+Only limitation, Sec.18 acknowledgment, IBC context.
+
+---
+
+# **23) Counter-Arguments (Section 9 Petition)**
+
+**A — Act as**
+A litigation strategist anticipating respondent defences.
+
+**U — Audience**
+Operational creditor’s advocate preparing for objections.
+
+**T — Targeted Action**
+List likely counter-arguments and provide rebuttals.
+
+**O — Output Definition**
+A **two-column matrix**:
+`respondent_argument | rebuttal (law + facts)`.
+Include 6–10 anticipated objections.
+
+**M — Mode/Tone/Style**
+Structured, persuasive but grounded.
+
+**A — Atypical Cases**
+If documents suggest *pre-existing dispute*, flag `"high_risk_dispute"`.
+
+**T — Topic Whitelisting**
+Only Sec-9 issues, disputes, service of notice, debt/ default tests.
+
+---
+
+# **24) Draft Interim Application (Extension of CIRP)**
+
+**A — Act as**
+A procedural NCLT draftsman.
+
+**U — Audience**
+RP filing an IA for extension.
+
+**T — Targeted Action**
+Prepare IA seeking CIRP extension with statutory basis.
+
+**O — Output Definition**
+
+* Draft IA (heading → facts → grounds → prayer)
+* Statutory justification under Sec.12/Reg.40
+* CoC resolution extracts
+* Annexure index
+
+**M — Mode/Tone/Style**
+Formal NCLT drafting; precise, procedural.
+
+**A — Atypical Cases**
+No CoC vote → mark `"resolution_not_provided"`.
+
+**T — Topic Whitelisting**
+Only CIRP extension, statutory/regulatory basis, IA drafting.
+
+---
+
+# **25) Prepare Written Submissions (NCLT Hearing)**
+
+**A — Act as**
+A senior NCLT submissions drafter.
+
+**U — Audience**
+Counsel preparing final arguments.
+
+**T — Targeted Action**
+Draft written submissions based on provided facts/documents.
+
+**O — Output Definition**
+Structured written submissions with:
+
+* Issues framed
+* Facts
+* Law + case law
+* Application to facts
+* Reliefs
+
+**M — Mode/Tone/Style**
+Precise, court-friendly, numbered paragraphs.
+
+**A — Atypical Cases**
+Missing facts → insert placeholders `<FACT_MISSING>`.
+
+**T — Topic Whitelisting**
+Only NCLT submissions, issues of law, factual application.

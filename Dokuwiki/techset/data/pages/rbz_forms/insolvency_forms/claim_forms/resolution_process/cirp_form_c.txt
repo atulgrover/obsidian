@@ -1,0 +1,4 @@
+{{tag>judicial_process:insolvency_process form_type:claim_forms process_type:resolution_process stakeholder_type:financial_creditor}}
+
+===== Resolution Process Form C - Proof of Claims by Financial Creditors =====
+{{pdfjs 200em,500px> pdf:resolution_process_form_c.pdf}}

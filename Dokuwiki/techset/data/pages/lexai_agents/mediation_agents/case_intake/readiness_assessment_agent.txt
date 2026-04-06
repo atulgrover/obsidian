@@ -1,0 +1,5 @@
+The Readiness Assessment Agent evaluates whether all prerequisites for proceeding with mediation or insolvency action are fulfilled. It checks for completeness of documentation, verified identities, declarations, and payment of applicable fees or deposits.
+
+The agent also measures process readiness by reviewing whether stakeholders have agreed to participate voluntarily (in mediation) or whether statutory notices and default intimations have been duly served (in insolvency). It identifies pending gaps requiring attention before case registration.
+
+Finally, it produces a readiness score and checklist summarizing what’s complete, what’s pending, and next steps. This ensures that professionals only move forward with cases that are procedurally sound, minimizing rejections or delays in filing or admission.

@@ -1,0 +1,6 @@
+Drafting / Clause Suggestion Agent
+The Drafting / Clause Suggestion Agent assists professionals in preparing settlement agreements, term sheets, or awards by intelligently generating context-specific legal clauses. It draws from a repository of standardized templates, prior agreements, and sector-specific phrasing used in insolvency and restructuring cases. The agent ensures language precision, neutrality, and enforceability.
+
+By analyzing the negotiation transcript, case facts, and applicable precedents, the agent dynamically suggests appropriate clauses to capture agreed terms. It automates the repetitive drafting process, ensuring that important legal safeguards—such as payment schedules, confidentiality, and default remedies—are not omitted.
+
+In addition, the agent adapts to user preferences and jurisdictional formats, ensuring documents are ready for submission to the CoC, NCLT, or other stakeholders. This ensures consistent, high-quality drafting across cases while freeing professionals from routine documentation.

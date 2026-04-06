@@ -1,0 +1,125 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Stakeholder Communication and Management Agent (SCMA)&quot;,
+&quot;agentDescription&quot;: &quot;Facilitates efficient, consistent, and tracked communication between the corporate debtor (or its representative, like an IP/RP) and various stakeholders (Creditors, CoC, NCLT, Employees, etc.) throughout the insolvency or restructuring process. Automates routine updates, manages contact lists, distributes documents, and maintains communication logs.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Streamline communication workflows with diverse stakeholder groups.&quot;,
+  &quot;Ensure timely dissemination of required information, updates, and documents.&quot;,
+  &quot;Automate the distribution of routine notifications (e.g., meeting invites, report availability, deadline reminders).&quot;,
+  &quot;Maintain accurate and up-to-date stakeholder contact information.&quot;,
+  &quot;Provide a centralized platform or mechanism for sending and tracking communications.&quot;,
+  &quot;Generate audit trails and logs of all stakeholder communications.&quot;,
+  &quot;Facilitate alignment by ensuring consistent messaging across stakeholder groups.&quot;,
+  &quot;Support compliance with communication requirements stipulated by law (e.g., notice periods under IBC).&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Stakeholder Database Management: Manages contact details, roles, group affiliations (e.g., CoC member, Financial Creditor, Operational Creditor).&quot;,
+  &quot;Communication Templating: Creates and stores templates for frequently used messages and notifications.&quot;,
+  &quot;Automated Distribution Engine: Sends personalized or bulk communications via selected channels (primarily email, potentially SMS or portal notifications).&quot;,
+  &quot;Document Distribution: Attaches or links relevant documents (reports, notices, minutes) to communications.&quot;,
+  &quot;Meeting Coordination Support: Distributes meeting notices, agendas, and potentially integrates with calendaring systems.&quot;,
+  &quot;Tracking and Logging: Records details of sent communications (recipient, time, subject, status). Optionally track delivery/open rates if technically possible.&quot;,
+  &quot;Notification System: Generates alerts based on case milestones or user triggers.&quot;,
+  &quot;Grouping and Segmentation: Allows sending targeted messages to specific stakeholder groups.&quot;,
+  &quot;Reporting: Generates summaries of communication activities and recipient lists.&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Insolvency Professionals (IPs) / Resolution Professionals (RPs)&quot;,
+  &quot;Liquidators&quot;,
+  &quot;Debtor&#039;s Management/Coordination team&quot;,
+  &quot;Legal Counsel (for both debtor and IP/RP)&quot;,
+  &quot;Secretarial Staff supporting the IP/RP or debtor&quot;,
+  &quot;Members of the Committee of Creditors (CoC) (as recipients)&quot;,
+  &quot;Other Creditors (as recipients)&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Master list of stakeholders (Name, Organization, Role, Contact Details - Email, Phone, Address).&quot;,
+  &quot;Categorization of stakeholders (e.g., Financial Creditor, Operational Creditor, Employee, CoC Member, Regulatory Body).&quot;,
+  &quot;Communication Templates (Pre-approved text for standard notices, updates).&quot;,
+  &quot;Documents to be distributed (Reports, Notices, Agendas, Minutes, NCLT Orders).&quot;,
+  &quot;Case-specific deadlines and key dates.&quot;,
+  &quot;Specific user instructions for ad-hoc communications.&quot;,
+  &quot;Configuration for preferred communication channels (e.g., email gateway settings).&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Sent Emails / SMS Messages&quot;,
+  &quot;Communication Log Reports (CSV, PDF, HTML)&quot;,
+  &quot;Delivery Status Reports (where available)&quot;,
+  &quot;Stakeholder List Exports (CSV)&quot;,
+  &quot;Meeting Invitations (.ics format optional)&quot;,
+  &quot;System Notifications/Alerts (In-app, email)&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Significant reduction in administrative overhead for managing communications.&quot;,
+  &quot;Ensures consistency and accuracy in messages sent to stakeholders.&quot;,
+  &quot;Improves timeliness of information dissemination.&quot;,
+  &quot;Creates a clear and verifiable audit trail for communication activities.&quot;,
+  &quot;Reduces risk of missing important communications or deadlines.&quot;,
+  &quot;Enhances transparency and stakeholder engagement (by keeping them informed).&quot;,
+  &quot;Helps ensure compliance with statutory communication requirements.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Data Storage &amp; Management&quot;,
+    &quot;tools&quot;: [
+      &quot;Relational Databases (e.g., PostgreSQL, MySQL, SQL Server - for storing stakeholder info, logs, templates)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Communication Services&quot;,
+    &quot;tools&quot;: [
+      &quot;Email Service APIs (e.g., SendGrid, AWS SES, Mailgun)&quot;,
+      &quot;SMS Gateway APIs (Optional, e.g., Twilio, Vonage)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Backend Processing &amp; Logic&quot;,
+    &quot;tools&quot;: [
+      &quot;Programming Languages (e.g., Python, Java, Node.js)&quot;,
+      &quot;Web Frameworks (if a UI is needed, e.g., Flask, Django, Spring Boot, Express)&quot;,
+      &quot;Data Processing Libraries (e.g., Pandas - for managing lists/contacts)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Templating &amp; Document Handling&quot;,
+    &quot;tools&quot;: [
+      &quot;Template Engines (e.g., Jinja2, Thymeleaf)&quot;,
+      &quot;Libraries for handling file attachments (standard libraries in chosen language)&quot;,
+      &quot;PDF generation libraries (if creating notices as PDFs)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Scheduling &amp; Workflow&quot;,
+    &quot;tools&quot;: [
+      &quot;Task Schedulers (e.g., Cron, Celery, Quartz Scheduler)&quot;,
+      &quot;Workflow Engines (Optional, for more complex notification sequences)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;User Interface (If applicable)&quot;,
+    &quot;tools&quot;: [
+      &quot;Frontend Frameworks (e.g., React, Angular, Vue.js)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Security &amp; Authentication&quot;,
+    &quot;tools&quot;: [
+      &quot;Authentication Libraries/Frameworks (e.g., OAuth, JWT, Spring Security)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Calendar Integration (Optional)&quot;,
+    &quot;tools&quot;: [
+        &quot;APIs for Google Calendar, Microsoft Outlook Calendar&quot;,
+        &quot;Libraries for creating .ics files&quot;
+    ]
+  }
+]</pre>
+
+<p>
+}
+</p>

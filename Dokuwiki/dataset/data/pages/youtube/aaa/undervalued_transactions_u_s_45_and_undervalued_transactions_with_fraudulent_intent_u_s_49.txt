@@ -1,0 +1,445 @@
+# UNDERVALUED TRANSACTIONS u/s 45 and UNDERVALUED TRANSACTIONS WITH FRAUDULENT INTENT u/s 49
+![](https://img.youtube.com/vi/jg_VKi1Q2pY/hqdefault.jpg)
+5 months ago (Jan 29, 2024) — 57:20
+[https://youtube.com/watch?v=jg_VKi1Q2pY](https://youtube.com/watch?v=jg_VKi1Q2pY)
+
+
+## Summary
+The discussion revolves around undervalued transactions in the context of the Insolvency and Bankruptcy Code. Undervalued transactions were also present in the Companies Act of 1956 and are in the Companies Act of 2013 in sections 328 and 331. The Resolution Professional (RP) or the Liquidator can file an application for undervalued transactions under section 45 subsection 1. However, in the case of undervalued transactions, a creditor, a member of the company, or a partner of a Limited Liability Partnership (LLP) can also file this application. The lookback period for undervalued transactions is two years from the insolvency commencement date for related parties and one year for others. A gift or a transaction involving the transfer of assets of the company, with consideration significantly less than the market value, can be considered undervalued transactions. The adjudicating authority has the power to get an independent expert assessment of the transaction's value. The adjudicating authority can pass orders to declare the transaction void, require any property transferred as part of the transaction to be vested in the corporate data, release or discharge any security interest created on the assets of the corporate data, and direct the other person who has got the benefit to give back that kind of sum to the Liquidator or the RP. If the application is not filed by the RP or the Liquidator and is filed by a creditor or a member or a partner of an LLP, the adjudicating authority can pass the order to declare such transaction as void and initiate disciplinary proceedings against the Liquidator or the RP. Protections are provided to those who have acquired the interest in the property in good faith. The adjudicating authority cannot pass an order that the asset be vested back to the corporate data if the person has purchased the asset from someone other than the corporate data and was acting in good faith.
+
+## Namaste. Good morning.
+0:08
+Namaste. Good morning. The subject is very, very active thought and this information sharing is very important. Do join us do ask question. Anit is joining slightly late because of the technical difficulties, so I would start my deliberations on this. 
+
+0:43
+So going to the again, I would say that this concept of undervalued transaction it was also there in the companies act 1956 and it is also there in the companies act 20.2013. Section 328 and section 331 is relevant for this. RP is under obligation to find these transactions, determine these transactions and file an application before the adjudicating authority. 
+
+1:19
+So there is a slight change in the avoidance transactions, specifically in section 45. I will come to that when I say RP or the liquidator. so in this scenario, the slight change is there in the undervalued transactions and the remedies available. Who can file these transactions? Who can file an application before the adjudicating authority? 
+
+
+## Section 45 and 49 Application for Undervalued Transactions
+1:48
+It is the resolution professional or the Liquidator, and the application will be filed under section 45, subsection 1. However, in the case of under undervalued transactions, a creditor, a member of the company means shareholders who is registered on the membership register of the company. A member of the company or a partner of a LLP can also file this application. 
+
+2:18
+So in the case of section 43, in the case of section 66 or in the case of section 50, the application can only be filed by RP or the Liquidator in the case of section 45, since section 49 is consequential to 45. So I believe section 45 and 49 applications can also be filed by a creditor or a shareholder or a partner of an limited liability partnership form, and in that case that application will be filed under Section 47, subsection one. 
+
+3:04
+Let us try to understand what is the look back period. What is the relevant time? Under Section 46, the relevant time is again. If it is a related party, it is 2 years from the ICD insolvency commencement date, and in case it is not a related party, then it is one year. the transaction must happen. If it is a undervalued transaction without a fraudulent intent, then the transaction must happen within this relevant period. 
+
+
+## Undervalued Transactions: Corporate dat makes a gift
+3:38
+That means two years and one year related party and other than related parties. Now section 45, subsection 2 defines what is a undervalued transaction. So let us say the first transaction is that the corporate data makes a gift to a person. Making a gift is not something like which is in the income tax act that somebody makes a gift and the other person accept it. 
+
+4:11
+Somebody's making a gift and the other person is just sitting with the asset. That means it is already accepted. so the income tax definition may be slightly different, but the definition of a gift means that anyone who actually is getting some benefit, some asset of the company, without a consideration, zero consideration that would be considered as a gift. 
+
+4:37
+And if there is another transaction where the consideration has transferred, consideration has been transferred, but the consideration is much lesser than the market value of that asset. So one is the corporate dat makes a gift. 
+
+
+## Republic Day: What is the definition of undervalued transactions
+4:54
+Second is the corporate dat enters into a transaction with any person and that person can be a related party, can be other than a related party, which involves the transfer of one or more assets, transfer of one or more assets of the company. So the first threshold is that there must be a transfer of an asset. there must be a transfer of an asset. That is something which is very important. 
+
+5:25
+So, anit, you could join slightly later. So we just started this: the definition of undervalued transactions. So in case you would like to add something, see, we just celebrated the 26th January, the gantantra divas of India Republic Day. So I think we should greet our audience as maybe belated but happy Republic Day. What do you say? 
+
+5:59
+Yes, very much Happy Republic Day to all the all our participants, and I believe yesterday, you know, on Republic Day, we all get a chance to, of course look at our diverse cultural heritage. 
+
+
+## How to tackle insolvency: What to do in the past 3 years
+6:14
+When we look at the parade, we see, you know every state having soers, and I believe it's a blessing that we have this platform in a way of a webinar, where you know all of us from Across the Nation can come together and you know talk about a common subject. that's also, you know, un unity in its own way with respect to how we can tackle. 
+
+6:39
+You know, have a common process, for you know the entire country for different problems and I believe with respect to this undervalued transaction idea or this thought process, it's a very important part of the law, but it would, it would not be effective unless and until I always say that it will never be effective if the insolvency commencement is delayed, either delayed on account of the action of the lenders where the default has occurred, or delayed because of the court process, or delayed because of you know any other reasons. 
+
+7:16
+So the two year look back period, or one year plus twoyear look back period is, you know, pretty a very vast period in case you look at a going concern. But the moment you see that people, companies, there are companies that come into insolvency, where the problem of NPA is already 3 years old, there's no balance sheet available for the last 3 years. 
+
+
+## Corporate dat making a gift to a person
+7:36
+There again we find that so many assets are appearing in the books of accounts where there are no answers to where they have gone. So there we of course try to capture those as undervalue transactions. But then again that's challenging, sometimes good anit. So we have just gone about a little bit of background and also this kind of the real text, with a little analysis from our side. 
+
+8:05
+But see first is that the first kind of transaction we said corporate dat making a gift to a person, and the second is that there must be a threshold, that which actually the transaction must be something like transfer of an asset, transfer of an asset, one or more assets by the company. That's a first threshold. 
+
+8:27
+Secondly, is for a consideration the value of which is significantly less than the value of the consideration provided by the corporate data, and such transaction has not taken place in the ordinary course of the business of the corporator, not in the ordinary course of business. And also making a gift or a transaction where the consideration is significantly less than the market value. 
+
+
+## 
+8:55
+In this particular case, the adjudicating authority has also been given power to get the independent expert assessment about the value of the transaction. The adjudicating Authority has powers under Section 46, subsection 2 that in case the adjudicating authority feels like, the adjudicating authority can get the valuation of that particular transaction and then compare with the actual value of the transaction and then try to find out whether there is an undervaluation or not and whether it is sign significant or not and whether it is in the ordinary course of the business or not. 
+
+9:33
+So these are the various ingredients of a undervalued transactions and once the it is considered that the asset has been transferred and the other person has actually gets got some benefit out of this transa transfer, we can call that person as a beneficial transfery. 
+
+9:57
+Now, once this is established that either there was a gift or there was a transfer of an asset and this consideration was significantly less than the market value, and the basis of the market value can be independent assessment by any expert and also that the transaction is not in an ordinary course of business. Once all these ingredients are filled in the transaction, then definitely their judica Authority can pass an order. 
+
+
+## 
+10:26
+Now, what kind of orders can be passed by. The adjudicating Authority? one and the very first is that to declare that such transaction as vo and reverse the effect of such transaction. That is what is very clearly mentioned in section 45, sub one. Then we go to section 48. Author is mentioned as the transactions. It is the see just one second one MH hello. 
+
+11:08
+So yes, so now the other kinds of order from the adjudicating authority can be the require any property transferred as part of the transaction to be vested in the corporate data. Now this particular order would be that the property would actually come back to the company, come back to the corporate data by way of passing of an order. 
+
+11:34
+So in certain cases the undervalued transaction can also be in such manner that a security interest is created on the asset of the company, so that ways that means that the adjudicating authority can also pass an order to release or discharge any kind of security interest created on the assets of the corporate dat. That is the Third Kind of order that can be passed by the adjudicating authority. 
+
+
+## 
+12:06
+Fourth option with the adjudicating authority is that the adjudicating authority can direct the other person who has got the benefit, who is a beneficial transfery, to give back that kind of sum to the Liquidator or to the RP. give that to some, that kind of something to the a, the, to the RP or the Liquidator, then require the payment of such consideration for the transaction, as may be determined by an independent expert. 
+
+12:39
+And there may be a case that there is a vehicle, there is a luxury car, which has been transferred, say, for 5 000 rupees, and an independent assessment say that the value was five lakhs of rupees. Then the adjudicating authority can also pass, can also pass an order where the person who has already taken the car, he can be directed to pay back the difference between the actual value and the consideration value. 
+
+13:02
+So these are the kind of orders which can be passed by the adjudicating authority. now going to another scenario, going to another scenario, and that scenario is that in case the application is not filed by the RP or the Liquidator and the application is filed by and the application is filed by, so anit. I'm actually getting a lot of calls, anything that like. Let me see. We are connected now. 
+
+
+## 
+13:40
+I think some people are calling us like is this no, I think there must be some shouldn't be, shouldn't be a problem? I think everything is fine. The chat box is enabled for anyone to put in any questions or any issues. All is okay. We are getting a message from Madan also. I think it's just coincidence, since lot of phones are coming. I thought that we are not connected. So this is okay. 
+
+14:12
+So what we are trying to say is now this scenario is that the in case the application is not filed by the Liquidator or the RP and the application is filed by a creditor or a member or a partner of an LLP, then the then the again the adjudicating authority can pass the order. 
+
+14:40
+Adjudicating Authority can pass the order to declare such transaction as void and reverse their effect, but in the meantime the information will also be provided to ibbi to initiate disciplinary proceeding against the Liquidator of the RP. I repeat: in case the application is not filed. 
+
+
+## 
+15:02
+In case the application is not filed by the RP or the Liquidator and the application is filed by the Creditor or the shareholder of the company or the partner of an LLP, then in that case, if that transaction is adjudicated as undervalued transaction, then the information will be given to ibbi and ibbi will start. But disciplinary action against the Liquidator or the RP. So what is important? 
+
+15:34
+No transaction, no undervalued transaction should be left, even if it is not reported by the forensic auditor. The Liquidator or the RP is under obligation to file an application for the adjudication of undervalued transactions. He cannot skip this. He cannot speak this. So, like in this case, the there is a protection. 
+
+16:11
+Also in section 45, there is a protection also which is granted to those people who have acquired the interest in the property in good faith. Now the that provision says that if an asset is acquired from a person other than the corporate deor no, not what. 
+
+
+## 
+16:31
+I'm trying to say that the corporate deor sold the asset to a and the consideration is significantly low and the relevant period is within the relevant period mentioned in section 46, subsection one. That means two year or one year that a have sold that particular property to B. Now the property has gone to B, whereas. The Beneficial transfer is a. So in this case the law say that the B is protected. 
+
+17:12
+Now the adjudicating authority cannot pass an order that the asset be vested back to the corporate dator because the asset has already gone to B, so the transaction or the anything, any person who has not purchased the asset from the corporate data and he was acting in good faith and he has paid the value for the asset and he has also got not no notice of the relevant circumstances. 
+
+17:41
+He was not aware of the circumstances that the a has purchased it from CD and this it may be undervalued. Transaction a is a related party or unrelated party, but then the B who has actually finally acquired the asset is protected and the order can be passed against a for Recovery of that benefit that he has got. so if this also the section also says that. 
+
+
+## 
+18:10
+The section also says that the adjudicating authority shall not require a person who received a benefit from the transaction, unless he is a party to the transaction, to pay a sum. If a person is not a party to the transaction because the transaction has happened between the CD and a, so the adjudicating authority cannot go to B and ask for that kind of benefit because C he is not part of the transaction. 
+
+18:40
+The transaction is between the CD and the a, so the transaction between the A and B is not relevant. the transaction between A and B cannot be covered under section 45 and the trans the B is completely protected, whereas the a is the person who actually is the involved in the transaction, because the transaction has taken in a good faith. 
+
+19:04
+So till now we have explained transaction under section 45. So is there any question coming at this stage or anything which is which can be you can add in? As for this definition of transaction 45, I can repeat: there must be a gift or there should be a transfer of an asset from the corporate data to some other person. The consideration should be either zero or the consideration should be significantly less. 
+
+
+## 
+19:34
+The consideration and the other is that the that the other, the other party, that it is not in the ordinary course of business. these are the various threshold and it is within the relevant period. Then only the transaction can be considered as under Valu transaction. There are five basic ingredients which has to be filled before a trans action can be considered as undervalued, anything that you would like to add. So there a couple of questions. 
+
+20:04
+One question is from Mr Brahim. He says: can the adjudicating authority pass order, even if the prayer is different? I very nice question in fact, anit. I was doing my research in the morning today and I saw an order from the from. 
+
+20:23
+The Honorable member the Ben, which is the bench four of Mumbai, the bench of honorable Justice Bist and also Mr Prat Kumar, and it was a very clear order that even if the RP said that this transaction is under section 45, but then the final order was passed under Section 66. So then we have a question from Mr maheswari. He says that when donation is given by cd2 political party charitable trust comes to CP. 
+
+
+## 
+21:01
+Now this: how is this donation treated? I don't think a donation can be understood to be any transaction amongst the avoidance transactions as long as it is legally given. in case there is some illegality with respect to companies, act with respect to this donation. That can always bring this into section 66, but not otherwise. 
+
+21:22
+But you see when we say donation, donation is given by the company to the Bonafide of the donation has to be seen if the doni, if the doni is not having a clear objective, if the Don is scrupulous, then it can be considered as a gift. It all depends upon the Bonafide of the transaction. 
+
+21:55
+Because see there are lot of trusts or there are lot of charitable organizations and in case you and just those are considered to be fake and those are considered to be accommodating accommodation, entry type people. so if the transaction is found to be of that nature, the then it will not be considered as a genuine donation and it will be considered as something which is undervalued. 
+
+
+## 
+22:30
+Right then we have a question that if a person has purchased the property in good faith, how can a CD be compensated? How can a CD be so? He's saying that if the purchaser has purchased the property in good faith, then who can the CD recover this money from? I think good faith, as long as we already talk. 
+
+22:56
+Already said that like the transaction between the company and a, this is a transaction where all these ingredients had to had to be F filled in whether the a is buying in good faith or not. that is not something which is covered in the law. However, when a is selling to another person and that other person is buying in good faith, that is something covered. Even this is also covered. 
+
+23:17
+The even the genuine buyer is also covered, then in that case then it will be considered as if the genuine. If the B buyer is genuine and then means it is not an undervalued transaction. If it is an undervalued transaction, then he actually is a beneficial creditor. How can a buyer be genuine when something which is yeah? 
+
+
+## 
+23:42
+So if it is genuine, then if it is bonafied, or if it is genuine, then there will be no applicability of the section itself. So that's, I think, what we talking about. yes. Then next question is if a company asset is required, registered in personal name of the directors, which section should be invoked one. 
+
+24:05
+I think assets of the company being registered in the name of the director is illegal in company's act itself, because the ACT clearly says that it should. It is not allowed at all, and therefore what can easily be said is that the company has used its funds for the acquisition of an asset in the name of the director, which is again a fraudulent intent. 
+
+24:26
+Where which is Miss use of the company's money, it can easily be covered under Section 66, and one can seek the prayer that the asset should be transferred to the company's name or its proceed should be realized for the company's benefit. 
+
+
+## 
+24:42
+I think that's: secondly, if the funds of the company are used for example, funds of the company are used for to buy a luxury car, but the car is registered in the name of a director or a part partner, that actually means that particular vehicle will be considered as the deemed asset of the company and that deemed asset of the company. Whenever this asset is sold, that the consideration must come to the corporate data. 
+
+25:12
+So that is what is why understanding so that will be considered a deemed asset, although there is a non compliance on account of companies's act. So we are not see like in case we restrict ourself to IBC. 
+
+25:24
+I think this asset, which is acquired from the funds of the company, will be considered as the deemed asset of the company and any transfer of that asset would again be covered under section 45 in case it is undervalued. 
+
+
+## 
+25:40
+We have a question from in ipca anur G he's asking that if no application was filed by the RP but the Liquidator has filed a section 66 application, is there any chance, or do you have you ever seen a disciplinary proceedings being initiated against the RP for not initiating the section 66 application? I have the incidences where the ibbi can investigate the matter, that the why the RP could not do this. 
+
+26:12
+If the RP is able to justify that. yes, the RP was restricted by reasonable cost and the RP was prevented by reasonable cause and he was unable to file. Maybe the audit was delayed or maybe there was a non op anything then it will be okay. But in case the RP had everything in hand, RP had the report RP had also everything was in time, but RP failed. RP failed to do that. 
+
+26:40
+I think this is a matter of non compliance and ipbi can take action against the RP. Question that if a brand name is sold for some value, can such transaction be covered under undervalued transaction? 
+
+
+## 
+26:55
+Yes, if there is a report if there is there's a valuation report that you can justify that the brand was sold at a much lesser price than what it should have been sold for, then I believe you can always find an undervalued transaction, but here the point would be to prove that it is undervalued. 
+
+27:11
+So for that maybe a valuation exercise for that intangible asset would be a requirement for the code to take to have a Reliance on. Yeah, then we have a question that if investigating agencies like CBI and Ed are involved, then what are the implications? I understand that when CBI and Ed are involved, you still have to prove that there are certain transactions that need to be adjudicated as an avoidance transaction. 
+
+27:38
+So that's that proving that is a separate process. now whether Ed and CBI support you with any information or maybe they have you know those assets as well. That doesn't impact the process. The transaction needs to be with maybe a third party to prove that it is an undervalued transac action. Certainly responsibility of the RP or the Liquidator is independent of the investigating agencies. 
+
+
+## 
+28:04
+The investigating agency may do whatever they are doing, but then the RP or the Liquidator cannot say since the CBI was doing the investigation. So therefore I didn't do that is that answer cannot be accepted. Then, how do you evaluate assets under valuation undervalued in real estate assets like land and building flats or commercial property? How you evaluate value and who shall value? Who shall value to the same? 
+
+28:32
+So I think again, an independent valuer can do the valuation. there can be other instances of transactions where you say that okay, there were maybe four transactions that happened in a similar period, And if you say that yes, this transaction happened at this price and these three transactions or two transactions happened at a very different price, you can establish that these are undervalued. I think this is what we have been doing in home. 
+
+28:53
+Cas question is very important and I would like to indulge into this question. Is I can give you some instances like the bookings were done for any of the units of the corporate dat maybe three or four years back, and in the entire booking process there was some in. there were some bookings which were done at say 3 000 rupees per square fet, and some bookings were done, say, for example, 1 500 per square fet. 
+
+
+## 
+29:22
+But these transactions, the these transactions, basically, were done beyond the relevant period, beyond the look back period. So these transactions cannot be considered as undervalued, even if there is a very direct evidence that some transactions are like. Majority of the transactions are booked at 3 000 and the some of the transactions are booked at 1 500. That means pure undervalued transactions. 
+
+29:50
+Now, this is the reason that I know would like to go to section 49, and when such transactions come, when such transactions come, that means that this is a case of defrauding the creditors. Now can I read section for can I go to section 49? 
+
+30:11
+Yes, yes, now section when I say that section 49 so in section 49, the first of all the transaction must be a transaction of undervaluation under Section 45, subsection 2. That means that all the 53,56 ingredients that I have said, those ingredients must be fulfilled except that the relevant period. 
+
+
+## 
+30:40
+But if the RP or the Liquidator is of the opinion that the transaction was in fact carried on deliberately for keeping, deliberately for keeping assets of the corporate dat beyond the reach of creditors, assets of the corporate dat beyond the reach of creditors, because this is an example where in case the company has, say, 10 crores of rupees in the bank account and there is a likelihood of commencement of cirp, then those 10 crores are given to some people and even if those, even if that means that the deliberations, basically it was deliberation, the clear deliberation, the clear intent was that otherwise this money will go to the creditors or if the transaction is deliberately done in order to adversely affect the interest of such creditors. 
+
+31:37
+Now what can be the interest of such creditors, like in case there are some properties in the company which are unencumbered and before the start of commencement of CP and or even before some security interest is created on those properties and only intent is only intent is to adverse ly affect the interest of the secured creditors, because the secured creditors definitely will have the rights to get distribution under section 53 from all the assets, even if those assets are not incumber, those assets are not pledged with them, then the adjudicating authority shall make an order where the restoring the position as it existed before such transaction, as if the transaction had not taken place, or protecting the interest of the persons who are victims of such transaction. 
+
+32:25
+That is what is section 49, because the in case we try to see section 49 and then we see the protection, the protection which is granted to the creditors. 
+
+
+## 
+32:37
+So it is already held in the in various cases by NT in the case of V abishek nagori, the Liquidator of the Liquidator versus Asian natural resources India Limited in that particular say it is very clearly said that section 49,9 for Section 49 there is no look back period. 
+
+33:01
+So the section the look back period which is provided in section 46 is not applicable to the transactions under Section 49 or section 66. So this is what it has been held. So when we say the undervalued transactions, then the intent is to defraud the creditors. 
+
+33:22
+It would be a transaction under Section 49. In fact, to my understand, standing most of the undervalued transactions would have the intent to defraud the creditors, to keep the assets of the company away from the claimants or to adversely impact the interest of the claims. So most of the transactions under section 45 would fall under the fraudulent intent. That means under Section 49. That means no look back period. 
+
+
+## 
+33:55
+So this is very important and I can actually out of my experience, I can say some of the incidences of some of the examples of undervalued transaction, which is we have experienced in most of our cases. in fact we as triaa might have filed something like about more than 50 such applications under Section 43,45.50,66 and all those experiences that I would share with you. 
+
+34:28
+That most important is that the fancy and inexpensive cars of the company are getting transferred, and at a very small value, because those cars are something which is a pride possession of the promoters and they don't want to give it to the creditors. Then the very, very kind of fancy offices of the companies or the very valuable properties which are not encumbered to the banks, those also can be those. 
+
+34:52
+Also we have seen that invariably the promoters transfer those properties to the other parties so that it doesn't go to the creditors. If there is a money, if there is a fund flow available in the company, then the giving loans and advances to related parties or unrelated parties without any business objective. 
+
+
+## 
+35:10
+That also is something which we have seen and that can be covered under Section 49. Also like in case of a retail business, in case of a branded items, then we have seen that the corporate data or the management of the company give franchises to others, and those franchises are long term franchises and with very small consideration because they wanted that business can continue in the in the name of the franchises. 
+
+35:45
+The brand also is being used by the franchises and those franchises can also be distantly related or related parties. So these are the most important transactions of undervalued the shares of subsidiary companies. The shares of associate companies are getting transferred at a price which is much lower than their market price or inherent price, or in the intrinsic value of those particular Shares are very high. 
+
+36:10
+When we finally get valued transfer of the brand, trademark, copyrights, the intellectual property rights like software, P patents, digital assets all these are the various examples of the undervalued transactions. Then again, there are some transactions which actually can be considered as undervalued. like in case I purchase an asset of a company like if there is another company I have some funds and there's another company which is already a kind of a sick company. 
+
+
+## 
+36:37
+In case I purchase the in the corporate data to siphon off the funds to siphon of the funds I purchase the shares of other associate company which are almost dead or almost lost money. So those Shares are purchased by the corporate dator and the benefit goes to benefit goes to another person. That means that the buying an asset at a very high value, whereas the value of that asset is much lesser. 
+
+37:05
+This is also considered to be kind of giving a gift to someone passing on a benefit to someone. This is also considered as undervalued transactions. Then I'm saying that the like, if there is a receivable in my books of account, maybe the as, Maybe from associate concerns or maybe from other parties, and if I kind of assign those receivables to any other person at low value, that is also considered as undervalued and the intent is fraudulent, because in case this money will come, it will go to the Creditor. So section 49 is also applicable. 
+
+37:48
+So writing of the dors, writing of the dats or advances without justification or any reasons, and that can also be considered as a gift under section 45 and would also be covered under Section 49. buying shares of an associate concerns like buying shares of associate concerns at a much higher value, which I've already said. 
+
+
+## 
+38:10
+Buying dead assets of the family, buying dead assets of the family and paying the price to those owners and bringing those dead Assets in the company's balance sheet. And taking out the liquid money from the company with the intent that the Creditor should not get hold of this money which is in the company, which is the asset of the company, so that asset is getting transferred to the family member or any other person to buy dead asset. Sale of unsold inventory by the real estate before the CP starts at a price which is much less than that, and sale of inventory. 
+
+38:51
+So this is an these are various examples of VAR ious undervalued transactions where the it has been held in some of the cases that, yes, these are the transactions under section 45 with the intent to defraud the creditors, so can be covered under Section 49. I would also like to say that when we say section 49 or section 66, we should also immediately invoke section 69 of the insolvency and bankruptcy code, which says that when the transaction has been made, when such transactions have been made which is fraudulent, then the as the officer of the officer of the corporate dator officer of the corporate dator would be prosecuted for a punishment, and that punishment can be a fine or a punishment can be an imprisonment, and that also should be invoked, and the prosecution would be done under Section 236 of the IBC by making an application to ibbi will file prosecution for transactions. 
+
+40:01
+Before we go to the various judgments, we can also say section 50. we have to cover today section 50, which is not many such transactions have been reported, but section 50 covers extortionate credit transactions and the extortionate credit transactions. I can just give you a very simple definition of the such transactions. 
+
+
+## 
+40:26
+First of all, for Section 50 also, the application can be filed only by RP or the Liquidator, and the transactions can only be for raising loan or taking an operational debt or taking a financial debt. When the corporate deor raises loan, raises debt, maybe Financial or operational, During the period within two years. This is a unique section where there is nothing think there is no difference between related party or unrelated party. 
+
+41:00
+In section 50 it is only one look back period that is chers, irrespective of the rated party or not. the only thing is that when we raise such credit, when we raise such debt, the terms and conditions of such debt should not be exorbitant. It should not be uncons conable. So this is the principle of law of justice and principle relating to the contract. 
+
+41:26
+So when it says that the transaction, the terms and conditions, basically somebody's trying to somebody trying to take benefit of the stress of the company and somebody's trying to say that this transaction is extortionately tilted towards the to the person who has given the loan. So in such cases the section 51 says that. 
+
+
+## 
+41:56
+The adjudicating Authority has the power to reset the terms and conditions of the such raising of debt or to ask the other person to refund the excess amounts taken from the corporate data. so modify the terms and conditions. So these are the remedies available under Section 50. So many various unsecured loans. Then we take unsecured loans from the related parties at an ex ENT interest rate. That is also a common extortionate transaction. 
+
+42:31
+Then some monopolistic supplier can also say that we will only Supply you the goods at a very high price because you are under stress. That also can be considered as extortionate in case it is on credit. If it is if the transaction is on cash, then it cannot be because there is no debt raised. 
+
+42:52
+So if a person buys Goods on credit at a very high or very unreasonable terms and condition, then it can be exate credit. But in case a transaction of purchases at a very high price, then it can be a transaction under section 45 for undervalued transactions where the other person is being given a gift, a deemed gift, because the while we have given 100, the goods worth 50 has been given to the corporate dat, the balance 50 would be considered as gift. 
+
+
+## 
+43:27
+So this is a because like there are judgments and it is also very clearly said that the any kind of financial service providers, like the banks, credit cards and bfc's, the transactions with them, would not be considered as extortionate credit transactions. So they are exempt in such transactions. So anit is, can we do? We have a question at this stage? Yeah, we can ask. I can ask a few questions. 
+
+44:01
+So C MP is asking that if any amount has been paid on account of settlement arrived in mediation directed by Court, can such cases be covered under IBC for fraudulent transactions? Or maybe I think he also means maybe other transactions also. So mediation is something where you know mediation is not compulsive. That okay you have to arrange or get into a settlement during mediation. 
+
+44:25
+So the allegation that can be put into an avoidance transaction or a preferential transaction in this case can be that even though the dues were payable to somebody who had superiority in the waterfall mechanism, but still the dues have been paid to somebody else because of other issues. Other issues can be that there might be some personal guarantees with that person. there might be some check bouncing cases that are required to be settled. 
+
+
+## 
+44:52
+So those are the allegations that can stick around, even if the mediation documentation is available. So that would be the angle that one would have to look into. I have come across a judgment which says that the compulsion to pay is not relevant under Section 43. Compulsion to pay someone is not relevant. 
+
+45:17
+Somebody was paid and he actually got the benefit of getting a priority over the other creditors is the only fact which is required for treating a transaction as a preferential transaction under Section 43. So what he's saying it is not a subject of undervalued transaction, but it is a subject of section 43, which is a preferential transaction. yes, you can move to the other. Then will the. 
+
+45:46
+There's a question that will the borrowings and repayment in normal course of business also be covered as preferential transaction? So the borrowings? I can say that there are five secured creditors in a company and out of the five, three are defaulted and two are not defaulted. So that can be considered as a preferential transaction. Because, see, then these two are getting their repayments and definitely they are getting a preferential treatment over the other three. 
+
+
+## 
+46:26
+I believe this is also a preferential transaction. Then there are questions which are related. one question is that if a company the CDs has bought unquoted company shares at a very high value and those are not actually worth that value, then another question is that the CD has purchased a painting, an antique painting, at a very high value without any market value. Can it be covered under Section 50? 
+
+46:53
+I understand that this will be mostly covered under Section 66, as maybe a fraudulent trading where you have spent the company's money on an asset which is not related to the business and at a time when the company was having a stress. so somebody buying shares of a company which had no relationship with the business at a time when the company was having stress, is what can cover this transaction? 
+
+47:14
+As a section 66 transaction, and in case you can establish, I was also saying that in case we try to buy a dead asset, a price that is also considered to be a deemed gift, if I pay someone 100 and I get a goods worth 10, so according to my understanding, the 90 Rupees is a gift to that person. 
+
+
+## 
+47:41
+So that is also covered under undervalued transaction, and that is also with the intent to keep that money away from the creditors and also to geopod eyes, the interest of the other Clements that will be covered under Section 49, also right. so here the if the if the beneficiary has expired, will the liability fall on legal representatives in case of avoidance transactions? 
+
+48:09
+I don't think it can fall onto the legal ha but it can but it can fall on the it can. It can fall on the legal hairs properties, right, not on the legal hair. No, we have a judgment of nclat which says that the first of all the legal hair has to be ascertained. 
+
+48:30
+And once the legal hair is ascertained under the Hindu sucession act or whatever Act is applicable, then the estate of the deceased, whosoever is the legal representative of that estate, would be responsible and that can be made. They can. They can be impleaded into the transaction application right. So estate of the deceased is responsible. Maybe it is through the legal representative or maybe it is through a legal here. 
+
+
+## 
+49:01
+Then we have a question with respect to the Puja Bahari judgment in enat. That's a question with respect to section 45. That's a request that we can discuss, that maybe we can discuss it later or today. The other question that is left out is that what is the relevance of avoidance transactions and personal insolvency? Personal insolvency, similar transactions are. There are different sections in personal insolvency. 
+
+49:30
+Regarding the avoidance transactions, one very important section that I can say, which I recall is that any transaction with the related parties, any transaction with the related Party by that individual who is being adjusted as ins solvent, would be considered as a transaction worth reporting to the adjudicating authority, the bankruptcy trustee. the first of all I would say that this role of the avoidance transaction only would be handled by the bankruptcy trustee. 
+
+50:07
+The resolution professional is not supposed to do that. The responsibility is only with the bankruptcy truste in the in the bankruptcy process, not before that. So in that case all transaction with the related parties are considered to be voidance dection. But there are other sections also we will cover another day when we take up the insolvency of individuals. So we have two raised hands. 
+
+
+## 
+50:37
+I'll will quickly ask them in case they would want to say something. You will have to give me co rights as a co host. Yes, so d g. Maybe you can unmute and speak, Mr Gupta. We also have Ashu Gupta G and we have Mr Babu. I would request please be very specific on your question and then because, see, we only have five minutes and we actually need to cover all this. 
+
+51:15
+In fact, we have lot of judgments also, and we will take up another session where we will Cate all the judgments related to the avoiders actions in one go. We today we are not trying to deliberate on the judgments of avoidance transactions, so in the next session we will complete all the judgments of the avoidance transactions in one go. Yes, please ask your question be brief also please. Yes, mrta. 
+
+51:44
+So just one question, small question that if there are transactions which is covered under Section 43 also, 45 also or 66 also, and as per for the latest guidelines, we have to file a separate application for each section. so how we will be doing? Will it not be a multiple amounting to? I mean filing this application under different section for the same amount? 
+
+
+## 
+52:10
+I don't think the court is saying that a transaction can fall into 43 as well as in 45 as well as in 66. What the what is the what exactly? The court say that you have to determine a transaction very carefully. 
+
+52:26
+If you determine is as 43, you should determine as 43 transaction and only file an application under Section 43. So in case you are filing an application under section 45, then you Club it with 4,49 if possible, and in case it is only a transaction under Section 66, then you file a transaction under Section 66. So there are three categories. One is 45 all alone. second is 45 red with 49. So this is one application. 
+
+52:54
+43 is the another application. 66 is another application. So there is no possibility that one transaction. The court doesn't accept that the one transaction will may fit into any of the three or four sections or five sections. The court say that you actually have to determine and make up your mind. So you please tell me any example I can discuss with you later. What are the understanding? 
+
+
+## 
+53:18
+Because, see, I also understand the transaction can either be section 43,45.49 and 66. these are the three buckets of the transactions and the transaction will fall into each of these three buckets without anything which is overlapping. And if there is an overlapping transaction which is slightly this way or that way, then we can we have to determinate which section we want to apply in, but we can't make an application under all the three sections covered. 
+
+53:46
+This is what is my understanding. Yeah, shall I ask. Yeah, this is ASU Gupta. I just have a very small query for application filed under Section 66 tribunal allowed. The goone for appeal is also dismissed. So how the execution part see the Judgment says. The Judgment of NT says that the execution powers are within the company's act and within the companies act. 
+
+54:21
+The powers can also be exercised by the tribunal, National company law tribunal under the company's act, because this is a this is a first of all, there is a recovery which is adjusted by this adjudicate. There are two parts. One is recovery of the amount that is to be contributed to the CD account. The other is the criminal. Criminal part is taken care by ibbi. Criminal prosecution of that will be taken care by Abbi. 
+
+
+## 
+54:52
+But the recovery of amount execution of the section 66, the recovery proceedings, that is, that is within the powers of the tribunal. I'm saying tribunal, because under the company it is called tribunal and under the IBC it is called adjudicating Authority. So this can be done by the tribunal and there is one case where the tribunal has already done it. okay, anit, can I have that judgment? 
+
+55:19
+Secondly, under which section you have to go for execution 65? I think SE. No, it is the comp act. It is the company's act, company's act. That application for recovery and execution of this order under Section 66 will actually go into company act. That will be appli, yes, but it will section. I will let you know the section I have just judgment. Okay, I'm looking forward. Thank you sir. 
+
+55:52
+Thank you, I think, if there are, or if Mr Babu can also ask his question, maybe. No, I don't think we are able to hear. Him must be some issue at his end. So I think we're done with the questions for now, and ADI is also not spoken so far. Mr adank can also, I think he has. he has not unmuted himself. So must be some technical issue or something like that. 
+
+
+## 
+56:26
+So you the questions, yeah, and yes, please, any question is there. I can no nothing, nothing. So we have many judgments and I think the next episode, which will be 95th episode on the coming Saturday, that will be on all the judgments under Section 43,45.49,50 and 66. We will collaborate all the judgments and category wise. We will have a deliberation on that. Thank you very much, and it is our way of learning. There is no other objective. thank you, thank you everyone. thank you so much. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

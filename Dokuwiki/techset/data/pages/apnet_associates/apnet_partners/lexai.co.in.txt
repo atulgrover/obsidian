@@ -1,0 +1,6 @@
+  * lexai provides an international and AI-powered legal research, knowledge creation and community platform that enables legal professionals, business development experts, law firm executives, auditing/consultancy companies, enterprises, SMEs, political institutions, and associations to gain and extend legal understanding in an accessible, fast, integrated and highly cost-efficient manner. On its integrated platform, LEX AI offers a unique, global networking community for legal professionals to present their expertise, interact with their industry peers and reach out to potential business customers.
+    * https://github.com/ulanch/lexai
+    * paid website creation/management
+    * paid ai-vdr creation/management
+    * paid investment teasers creation/management
+    * paid ai-software installation/training

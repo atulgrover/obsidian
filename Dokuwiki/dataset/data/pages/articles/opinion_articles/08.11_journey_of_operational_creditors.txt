@@ -1,0 +1,267 @@
+# Journey of Operational Creditors
+
+This research paper examines the challenges faced by operational creditors (OCs) in India's insolvency and bankruptcy proceedings, highlighting the disparity in treatment between OCs and financial creditors (FCs). The authors argue that while the Insolvency and Bankruptcy Code (IBC) aims to save companies by fairly treating stakeholders, OCs are often left disadvantaged, receiving significantly smaller amounts in resolution plans compared to FCs. The paper provides a detailed analysis of the obstacles faced by OCs, including limited participation in the decision-making process, challenges in verifying claims, and low priority in the payment hierarchy. The authors conclude by emphasizing the need for a more equitable and inclusive insolvency resolution framework that adequately addresses the concerns and interests of OCs.
+
+## **Exploring the Journey of Operational Creditors in India's Insolvency and Bankruptcy Code**
+
+### **Source: Excerpts from "journey of operational creditors.pdf" by Sunit Shah and Yashree Dixit**
+
+**I. Abstract**  
+This section introduces the study's focus on the challenges faced by operational creditors (OCs) under India's Insolvency and Bankruptcy Code (IBC). It highlights the disparity between the IBC's objective of equitable treatment for all stakeholders and the reality of OCs' limited rights and minimal recovery in corporate insolvency resolution processes (CIRP). The abstract outlines the comparative study of ten companies undergoing CIRP between 2019-2023, revealing the significant haircuts OCs face compared to financial creditors (FCs).  
+**II. Introduction**  
+This section provides context for the IBC, tracing its evolution from previous insolvency frameworks to its current "creditor-in-control" regime. The paper acknowledges the positive impact of the IBC while emphasizing the unique challenges faced by OCs due to their classification and limited powers within the insolvency process. It concludes by highlighting the lack of similar creditor classification in developed countries and emphasizing the complexities faced by OCs under the IBC.  
+**III. Defining “Operational Creditor”**  
+This section delves into the legal definition of "operational debt" and "operational creditor" under the IBC, drawing upon relevant sections and landmark judgments. It underscores the broad scope of the definition, encompassing various goods and services providers, employees, and government dues. It further clarifies the distinction between operational debt and financial debt, referencing the BLRC report and judicial pronouncements. The section concludes by categorizing OCs into three classes: goods and services providers, employees, and government entities.  
+**IV. Financial vs Operational Creditors: A Tale of Unjust Enrichment**  
+This section analyzes the inherent differences between FCs and OCs, explaining the power dynamics favoring FCs. It details the advantages FCs possess, including secured contracts, easy verification of financial debts, and greater influence in the CIRP. The section cites legal provisions and court rulings that solidify the FCs' privileged position, like Section 24(4) of the IBC, which grants limited participation to OCs in Committee of Creditors (CoC) meetings without voting rights. It examines arguments supporting FC dominance while acknowledging the counterarguments advocating for OC involvement and equitable distribution.  
+**V. Adversities Confronted by Operational Creditors**  
+This section systematically lists and elaborates upon nine major challenges faced by OCs during insolvency proceedings:  
+a) **Initiation of CIRP:** Outlines the more complex process OCs face compared to FCs when triggering insolvency proceedings. b) **Insufficient Knowledge and Lack of Guidance:** Discusses the difficulties faced by OCs, especially those operating internationally, due to limited understanding of the complex insolvency process and potential financial strain caused by procedural expenses. c) **Limited Information Flow & Inadequate Information:** Highlights the lack of transparency and communication surrounding insolvency processes, hindering OCs' ability to participate effectively. d) **Complexity of Claims Verification:** Explains the difficulties OCs encounter in substantiating their claims due to inadequate documentation and record-keeping practices. e) **Adjudication of Disputes:** Emphasizes the financial burden and delays caused by protracted legal battles arising from disputes over the validity and quantum of OC claims. f) **Inadequate Representation in CoC:** Discusses the limited representation and lack of voting rights for OCs within the CoC, resulting in decisions that often disregard their interests. g) **Limited Say in Approval of Resolution Plan:** Details how OCs are subjected to substantial haircuts (reaching 95% or more) in resolution plans primarily driven by FC priorities. h) **High Transaction Costs:** Underscores the financial strain legal and administrative expenses place on OCs, particularly smaller entities, potentially hindering their recovery. i) **Low Priority in Payment Hierarchy:** Explains how Section 53 of the IBC places OCs near the bottom of the payment hierarchy, leaving them with a disproportionately smaller share of assets in liquidation scenarios.  
+**VI. Judicial Pronouncements on Disbursement Amount to Operational Creditors**  
+This section examines three specific legal cases to illustrate the challenges faced by OCs in securing equitable settlements:  
+a) **Genius Security and Allied Services v. Mr. Shivadutt Bannanje, RP M/s. Fortuna Urbanscape Pvt. Ltd. (2021):** Highlights the approval of a resolution plan granting no payment to OCs despite potential recovery in liquidation, demonstrating the lack of consideration for their interests. b) **Damodar Valley Corporation v. Dimension Steel Alloys and Ors. (2021):** Showcases an OC's appeal against a resolution plan offering a meagre 0.19% of admitted dues, prompting calls for equitable treatment by the Appellate Authority. c) **Yogeshwar Garg and Ors. v. Mandeep Gujral RP Jaycon Infrastructure Ltd. and Anr. (2023):** Illustrates the dismissal of an appeal against a resolution plan allotting no payment to OCs, reinforcing the limited power of courts to intervene in CoC decisions.  
+**VII. Literature Review**  
+This section summarizes eight research papers exploring various aspects of the IBC and its impact on OCs. These include:  
+a) Puja Kumari (2019): Highlighting the IBC's potential for efficient resolution while noting the concerning trend of liquidation surpassing resolutions. b) Saransh Jain (2020): Criticizing the IBC's treatment of OCs as "outcasts" due to their limited rights and the moratorium imposed on alternative recovery methods. c) C. Scott Pryor and Risham Garg (2020): Identifying problems like CoC composition, inconsistent public policy, and procedural unfairness, proposing solutions like redefining "net liquidation value." d) Suharsh Sinha (2021): Examining the risks faced by unsecured creditors, particularly OCs, in liquidation scenarios despite the IBC's strengthened protection for secured creditors. e) Dhaval Vyas (2021): Analyzing internal and external factors contributing to delays in IBC implementation, including debtor resistance, infrastructural bottlenecks, and market unpreparedness. f) Prerna Jain Kala (2022): Discussing the strategic use of the IBC by creditors and the disadvantaged position of OCs despite the IBC's positive impact on the banking sector. g) Avinash Kumar (2023): Exploring the declining payment prospects for OCs despite initial intentions to strengthen their position, advocating for a reassessment of the IBC's objectives. h) Vidushi Puri (2023): Raising concerns about discriminatory treatment of OCs and highlighting the lack of incentive mechanisms to prevent FCs from prioritizing their interests over maximizing recovery for all creditors. i) Ananya Singh (2023): Analyzing the disenfranchisement of OCs and their voiceless position in resolution plans and liquidation scenarios, emphasizing the need for legislative amendments to address their concerns.  
+**VIII. Research Question and Methodology**  
+This section poses the research question: "Will the OCs be able to get an adequate amount on approval of the resolution plan?" It outlines the descriptive research design, focusing on analyzing the percentage of claims recovered by OCs and FCs in ten companies undergoing CIRP between 2019-2023.  
+**IX. Data Analysis**  
+This section presents three tables showcasing the data gathered:  
+a) Table 1.1: Lists the admitted claims of FCs and OCs for ten companies across diverse sectors, demonstrating the significant disparity in claimed amounts. b) Table 1.2: Details the actual amounts received by FCs and OCs under approved resolution plans, further illustrating the disproportionate allocation favoring FCs. c) Table 1.3: Calculates the percentage of claim amounts received by FCs and OCs, highlighting the significant haircuts faced by OCs compared to the excess amounts received by FCs.  
+**X. Conclusion**  
+This section reiterates the study's findings, emphasizing the need for a more equitable and inclusive framework within the IBC. It acknowledges the positive impact of the IBC while advocating for greater consideration of OC interests, particularly in terms of CoC representation and decision-making power. The paper concludes by suggesting potential amendments and continuous review of the IBC to ensure a balanced and sustainable insolvency resolution system that fairly benefits all stakeholders.
+
+# **FAQ: The Plight of Operational Creditors in the Indian Insolvency and Bankruptcy Code**
+
+## **1\. What is the Insolvency and Bankruptcy Code (IBC) of 2016, and what are its main objectives?**
+
+The IBC is a landmark reform in the Indian economy, aiming to streamline insolvency and bankruptcy proceedings. Its primary objectives are to:
+
+* **Rehabilitate viable distressed companies**: This includes restructuring debt, bringing in new management, or merging with healthier entities.  
+* **Ensure fair and equitable treatment to all stakeholders**: This includes financial creditors, operational creditors, employees, and the debtor company itself.
+
+However, the practical implementation of the IBC has raised concerns about the treatment of operational creditors.
+
+## **2\. Who are Operational Creditors (OCs) under the IBC, and how do they differ from Financial Creditors (FCs)?**
+
+The IBC classifies creditors into two main categories:
+
+* **Financial Creditors (FCs):** Typically banks and financial institutions that lend money to companies. Their debts are usually secured against assets and have specific repayment timelines.  
+* **Operational Creditors (OCs):** Entities providing goods and services to a company in its day-to-day operations. This includes suppliers, vendors, employees, and government dues for taxes and utilities. OCs' debts are generally unsecured and lack strict repayment schedules.
+
+## **3\. What are the main challenges faced by OCs during insolvency proceedings under the IBC?**
+
+OCs face several disadvantages and obstacles during insolvency proceedings:
+
+* **Limited Influence:** OCs have limited representation and voting rights in the Committee of Creditors (CoC), the body that makes key decisions during insolvency proceedings. The CoC is predominantly composed of FCs.  
+* **Information Asymmetry:** OCs often receive inadequate and untimely information about the insolvency process, hindering their ability to participate effectively.  
+* **Claims Verification:** The process for verifying claims can be complex and burdensome for OCs, particularly due to the unsecured nature of their debts and often less stringent documentation practices.  
+* **Low Priority in Payment:** The IBC's waterfall mechanism prioritizes secured creditors and FCs in the distribution of proceeds from the sale of assets during liquidation. OCs are often left with minimal recovery, sometimes receiving haircuts of 95% or more on their dues.
+
+## **4\. How does the limited representation of OCs in the CoC impact their interests?**
+
+The CoC holds significant power in insolvency proceedings, making decisions about the appointment of the Resolution Professional, the approval of the resolution plan, and the liquidation process. The lack of voting rights and limited representation for OCs within the CoC can lead to:
+
+* **Resolution Plans Favoring FCs:** Resolution plans, primarily driven by FCs, often offer substantial haircuts to OCs, prioritizing the recovery of FCs' dues.  
+* **Ignoring OCs Concerns:** Key decisions may not adequately consider the unique challenges and interests of OCs, leading to outcomes that disproportionately benefit FCs.
+
+## **5\. Are there any legal precedents that highlight the issues faced by OCs in IBC proceedings?**
+
+Yes, several judicial pronouncements illustrate the challenges faced by OCs:
+
+* **Genius Security and Allied Services v. Mr. Shivadutt Bannanje:** The NCLAT upheld a resolution plan that offered no payment to OCs, arguing that they would have received nothing in liquidation anyway.  
+* **Damodar Valley Corporation v. Dimension Steel Alloys:** The NCLAT acknowledged the need for equitable treatment of creditors after an OC appealed against a resolution plan that offered them only a meager 0.19% of their admitted dues.
+
+These cases demonstrate the vulnerability of OCs and the need for a more balanced approach that protects their interests.
+
+## **6\. What are the broader economic consequences of the current treatment of OCs under the IBC?**
+
+The current framework's limitations in safeguarding OCs' interests can have adverse economic consequences:
+
+* **Discouraging Trade Credit:** The fear of significant losses during insolvency can discourage businesses from extending trade credit, potentially hampering economic activity.  
+* **Cascading Impact on MSMEs:** Many OCs are Micro, Small, and Medium Enterprises (MSMEs). Significant haircuts for them during insolvency proceedings can lead to financial distress, potentially causing further bankruptcies and job losses.  
+* **Eroding Trust in the Credit System:** The perception of an uneven playing field between FCs and OCs can erode trust in the overall credit system, making it harder for businesses to access necessary funding.
+
+## **7\. What are some potential solutions to address the concerns of OCs in IBC proceedings?**
+
+Several reforms could help improve the position of OCs:
+
+* **Enhanced Representation in the CoC:** Granting OCs greater representation and voting rights in the CoC would ensure their concerns are adequately considered during decision-making.  
+* **Improved Information Flow:** Establishing mechanisms for timely and transparent information dissemination to all creditors, including OCs, would enable them to participate more effectively in the process.  
+* **Streamlined Claims Verification:** Simplifying the claims verification process, particularly for OCs, would reduce administrative burden and expedite the resolution process.  
+* **Addressing Payment Priority:** Revisiting the waterfall mechanism to ensure a more equitable distribution of proceeds during liquidation, particularly for smaller OCs and essential service providers.
+
+## **8\. What steps can OCs take to protect their interests during insolvency proceedings?**
+
+OCs can take proactive steps to safeguard their interests:
+
+* **Maintain Meticulous Records:** Thorough documentation of transactions, invoices, and contracts is crucial for effective claims verification.  
+* **Seek Expert Advice:** Consulting with legal and financial professionals specializing in insolvency proceedings can help OCs navigate the complexities of the process.  
+* **Engage in Collective Action:** OCs can form associations or groups to advocate for their interests and present a united front during negotiations and legal proceedings.
+
+By understanding their rights and actively participating in the process, OCs can work towards achieving a fairer outcome in insolvency situations.
+
+## **A Comparative Study of Operational Creditors in India's Insolvency and Bankruptcy Code, 2016**
+
+### **Short Answer Questions (10)**
+
+* **What distinguishes India's Insolvency and Bankruptcy Code (IBC) from insolvency laws in countries like the United Kingdom and the United States?**  
+* **According to the IBC, what are the four categories covered under "operational debt"?**  
+* **Explain the procedure an operational creditor must follow to initiate a Corporate Insolvency Resolution Process (CIRP) against a defaulting company.**  
+* **What is the key difference in the initiation of CIRP by financial creditors versus operational creditors?**  
+* **The IBC makes a distinction between two types of creditors. Briefly describe the key characteristics of each type and their roles in the insolvency resolution process.**  
+* **Why does the IBC's classification of creditors create a "tale of unjust enrichment," particularly in the distribution of proceeds from a resolution plan?**  
+* **Despite lacking voting rights in the Committee of Creditors (CoC), how does the IBC aim to counterbalance the limited influence of operational creditors?**  
+* **Highlight three specific adversities confronted by operational creditors during CIRP and liquidation processes.**  
+* **Referring to the case studies presented in the text, what is a common trend observed regarding the treatment of operational creditors in resolution plans?**  
+* **What does the data analysis of companies undergoing CIRP between 2019-2023 reveal about the disparity in treatment between financial and operational creditors?**
+
+### **Answer Key**
+
+* The IBC uniquely classifies creditors into two categories: financial creditors (FCs) and operational creditors (OCs), unlike the insolvency laws in developed countries, including the UK and the US, which do not have such a classification.  
+* The IBC defines “operational debt” as a claim related to the provision of goods, services, employment dues, and government dues.  
+* An operational creditor must first serve a demand notice to the defaulting company under section 8 of the IBC. If no payment or notice of dispute is received within 10 days, the OC can file an application with the Adjudicating Authority (AA) in Form 5 to initiate CIRP.  
+* Financial creditors, typically banks and lending institutions, can directly trigger insolvency proceedings against a debtor. Operational creditors, however, have to send a demand notice and wait for a stipulated period for the debtor to respond or make payment before initiating proceedings.  
+* The IBC categorizes creditors into financial creditors (FCs), typically lenders like banks, and operational creditors (OCs), which include suppliers of goods and services. FCs have greater influence in the insolvency process, forming the Committee of Creditors (CoC) and having voting rights in key decisions like approving resolution plans. OCs have limited influence and no voting rights in the CoC.  
+* The IBC's classification often leads to FCs receiving a significantly larger share of proceeds from a resolution plan, sometimes even receiving more than their proportional claim while OCs face substantial haircuts. This happens despite OCs playing a vital role in the company's operations and contributing to its value.  
+* The IBC attempts to balance the limited influence of OCs by prioritizing their dues for payment in the proposed resolution plan. This prioritization was suggested by the Bankruptcy Law Reforms Committee (BLRC) to counterbalance OCs' lack of voting power in the CoC.  
+* Three adversities faced by OCs: a) Complex claims verification process due to lack of proper documentation and record-keeping; b) Limited information flow and inadequate access to information about the CIRP proceedings; c) High transaction costs associated with legal and administrative procedures, which disproportionately affect smaller OCs.  
+* Case studies reveal a consistent pattern of resolution plans favoring FCs, with OCs accepting significant haircuts of up to 95% or even receiving no payment despite their crucial role in the company's operations.  
+* The data analysis of companies undergoing CIRP between 2019-2023 highlights a significant disparity in treatment. While FCs often receive payments exceeding their proportional share of claims, OCs bear substantial haircuts, often exceeding 90% of their claims, indicating a systemic bias towards FCs in the resolution process.
+
+### **Essay Questions (5)**
+
+* **Critically analyze the rationale behind classifying creditors into financial and operational categories under India's IBC. Discuss the arguments for and against such a classification, considering its impact on the overall objective of the Code and the interests of all stakeholders involved.**  
+* **Examine the powers and limitations of operational creditors in influencing the outcome of the CIRP. Evaluate the effectiveness of the counterbalancing mechanisms provided in the IBC to address the concerns of OCs and suggest potential reforms to ensure their equitable treatment within the insolvency framework.**  
+* **Discuss the challenges faced by operational creditors in navigating the complexities of the CIRP process. Focus on the practical difficulties related to information access, claims verification, and representation within the CoC. Propose measures to enhance transparency, streamline procedures, and empower OCs to participate effectively in the resolution process.**  
+* **Analyze the judicial pronouncements and case studies presented in the research paper to assess the prevailing trends in the treatment of operational creditors in resolution plans approved under the IBC. Identify the recurring patterns of disparity and evaluate the extent to which judicial interpretations have addressed the concerns of OCs. Discuss whether the current legal framework adequately safeguards the interests of OCs.**  
+* **The research paper concludes that the introduction of the IBC, while representing a positive shift in India's insolvency regime, has inadvertently created a "situation of bleak and abandoned lenders" for operational creditors. Discuss the validity of this assertion, supporting your arguments with evidence from the text and your own insights. Present a comprehensive set of recommendations to address the identified shortcomings and create a more balanced and sustainable insolvency resolution framework that truly benefits all stakeholders involved.**
+
+### **Glossary of Key Terms:**
+
+**Insolvency and Bankruptcy Code, 2016 (IBC):** A comprehensive legislation in India that governs insolvency and bankruptcy proceedings for companies, partnerships, and individuals. Its objective is to consolidate and streamline the insolvency process, ensuring a time-bound resolution for distressed entities and maximizing value for stakeholders.  
+**Corporate Insolvency Resolution Process (CIRP):** A formal process initiated under the IBC when a company defaults on its debt obligations. It involves a structured framework for resolving the insolvency of a company within a specified timeframe, either through a resolution plan or liquidation.  
+**Financial Creditor (FC):** A creditor whose relationship with the debtor arises from a financial transaction, typically involving lending or extending credit. Examples include banks, financial institutions, and bondholders.  
+**Operational Creditor (OC):** A creditor whose relationship with the debtor arises from providing goods or services in the ordinary course of business. Examples include suppliers, service providers, and employees.  
+**Committee of Creditors (CoC):** A committee formed under the IBC consisting exclusively of financial creditors. The CoC has significant decision-making power in the CIRP, including approving the resolution plan and deciding on the liquidation of the company.  
+**Resolution Plan:** A comprehensive plan proposed during the CIRP outlining the strategies for reviving the financially distressed company and repaying its creditors. The resolution plan needs approval from the CoC and the Adjudicating Authority.  
+**Liquidation:** A process initiated under the IBC when the resolution of a company's insolvency through a resolution plan is not feasible. Liquidation involves the sale of the company's assets and the distribution of the proceeds among creditors according to a specified priority.  
+**Waterfall Mechanism:** A hierarchical framework defined in Section 53 of the IBC that dictates the order of priority in which creditors receive payment from the proceeds of the liquidation process.  
+**Haircut:** The reduction in the amount a creditor agrees to accept as a settlement compared to the original claim amount. Haircuts are often part of resolution plans in CIRP to achieve a viable solution for the distressed company.  
+**Adjudicating Authority (AA):** The National Company Law Tribunal (NCLT) is designated as the Adjudicating Authority for corporate insolvency cases under the IBC. It is responsible for admitting insolvency applications, overseeing the CIRP, and approving resolution plans or ordering liquidation.
+
+## **Briefing Doc: The Plight of Operational Creditors Under India's Insolvency and Bankruptcy Code**
+
+This briefing doc reviews the main themes and important facts from the research paper "Exploring the Journey of Operational Creditors From Admittance to Compromise" by Sunit Shah and Yashree Dixit. It highlights the challenges faced by operational creditors (OCs) under the Insolvency and Bankruptcy Code, 2016 (IBC), compared to financial creditors (FCs).  
+**Key Themes:**
+
+* **Discriminatory Treatment of OCs:** The IBC distinguishes between FCs and OCs, granting FCs significant control over the Corporate Insolvency Resolution Process (CIRP) while sidelining OCs.  
+* **Inadequate Representation and Limited Rights:** OCs have limited representation in the Committee of Creditors (CoC), often lacking voting rights even when their dues are substantial. They have minimal influence over the approval of resolution plans, which frequently prioritize the interests of FCs.  
+* **Financial Distress and High Haircuts:** OCs suffer significant financial losses due to the low priority accorded to them in the payment hierarchy during liquidation and the substantial haircuts imposed on their claims in resolution plans.
+
+**Key Findings:**
+
+* **Limited Participation in CIRP:** "OCs have no rights to participate or vote in the meetings. There are very few studies that have explored the area of OCs under the Code."  
+* **Minimal Realization from Resolution Plans:** "The realization to the OCs from the proceeds of resolution plan has been very minimal. They have kept knocking on the doors of the defaulting company since a long time."  
+* **Disproportionate Haircuts:** "The study also reveals how OCs are disregarded in so far as the distribution from the proceeds of the resolution plan is concerned and have received a large amount of haircuts at the time of the distribution of funds."  
+* **Unjust Enrichment of FCs:** "Practical observations indicate that many plans literally wipe out the exposure of OCs, while safeguarding the interests of FCs."  
+* **Lack of Information and Guidance:** "Insufficient knowledge and dearth of proper guidance can cause considerable challenges if the default amount is nominal and the case gets admitted."  
+* **Cascading Effect on Business Ecosystem:** "Liquidation of a large company has a direct bearing on all its vendors and any entity or person associated with it in business or employment terms, but the one who suffers the most during this whole process is the OCs."
+
+**Data Analysis:**  
+The study analyzed ten companies from various sectors undergoing CIRP between 2019-2023. The data reveals:
+
+* **Significant Gap in Claim Realization:** While FCs received amounts exceeding their percentage share of the total claim amount, OCs faced substantial haircuts, accepting significantly less than their proportional share.  
+* **Extreme Cases of Haircut:** In some instances, OCs were offered a negligible 0.19% of their admitted dues, while in others, they faced a complete 100% haircut.
+
+**Recommendations:**
+
+* **Enhanced Representation and Voting Rights:** OCs should be given greater representation and voting rights in the CoC to ensure their interests are considered in the resolution process.  
+* **Equitable Treatment in Resolution Plans:** Resolution plans should ensure a fairer distribution of proceeds between FCs and OCs, reducing the disproportionate burden of haircuts on OCs.  
+* **Streamlined Claims Verification and Dispute Resolution:** Mechanisms for claims verification and dispute resolution should be simplified and expedited to reduce financial strain and uncertainty for OCs.  
+* **Increased Awareness and Guidance:** Initiatives to improve OCs' understanding of the IBC process and their rights are crucial, particularly for smaller entities.
+
+**Conclusion:**  
+The current implementation of the IBC has inadvertently created an uneven playing field, disadvantaging OCs despite their crucial role in the business ecosystem. Addressing the highlighted concerns and ensuring equitable treatment for all creditors is essential for fostering a balanced and sustainable insolvency resolution framework in India.
+
+## **Timeline of Events:**
+
+This timeline is based on the provided excerpt and focuses on the journey of operational creditors (OCs) under the Indian Insolvency and Bankruptcy Code, 2016 (IBC).  
+**Pre-2016:**
+
+* Multiple laws and platforms exist to address insolvency and bankruptcy, including SICA (1985), SARFAESI (2002), RDDBFI (1993), and the Companies Act (2013).  
+* A “debtor-in-possession” model prevails.
+
+**2016:**
+
+* IBC is implemented, shifting to a “creditor-in-control” regime.  
+* IBC distinguishes between Financial Creditors (FCs) and Operational Creditors (OCs).  
+* OCs are granted the right to initiate Corporate Insolvency Resolution Process (CIRP) under section 9\.
+
+**Post-2016 (Specific Dates Not Provided):**
+
+* Several key judgments by the National Company Law Tribunal (NCLT) and National Company Law Appellate Tribunal (NCLAT) shape the interpretation of the IBC and the treatment of OCs.  
+* Swiss Ribbons judgement affirms "intelligible differentia" between FCs and OCs.  
+* Binani Industries case highlights the importance of prioritizing OC dues.  
+* Hammond Power Solutions case emphasizes the need for resolution plans to protect all stakeholders.  
+* Concerns grow over the limited role of OCs in the Committee of Creditors (CoC), the significant haircuts they face in resolution plans, and their low priority in the waterfall mechanism.  
+* Threshold limit for OCs to initiate CIRP is increased to ₹1 crore.
+
+**By September 30, 2023:**
+
+* 7054 CIRPs initiated, with 49.49% instigated by OCs (3491 instances).
+
+**2019-2023:**
+
+* The study analyzing ten companies undergoing CIRP reveals a significant disparity in the realization amounts for FCs and OCs.
+
+## **Cast of Characters:**
+
+**1\. Operational Creditors (OCs):**
+
+* **Definition:** Persons to whom an operational debt is owed. This includes suppliers of goods and services, employees, and government entities for statutory dues.  
+* **Role:** Play a crucial role in the day-to-day operations of companies but hold a disadvantaged position under the IBC.  
+* **Key Concerns:**Limited representation and voting rights in the CoC.  
+* Significant haircuts in resolution plans.  
+* Low priority in the payment hierarchy during liquidation.  
+* Complexity in claims verification.  
+* Inadequate information flow.  
+* High transaction costs.  
+* Delays in dispute adjudication.
+
+**2\. Financial Creditors (FCs):**
+
+* **Definition:** Typically banks and financial institutions who lend money to companies.  
+* **Role:** Hold a dominant position in the IBC with significant control over the CIRP.  
+* **Key Advantages:**Can directly trigger insolvency proceedings.  
+* Form the CoC and hold voting rights.  
+* Receive higher priority in the payment hierarchy.
+
+**3\. Committee of Creditors (CoC):**
+
+* **Composition:** Exclusively comprises FCs (OCs can attend without voting rights if their dues exceed 10% of total debt).  
+* **Role:** Makes crucial decisions during the CIRP, including appointing the Resolution Professional and approving the resolution plan.
+
+**4\. Resolution Professional (RP):**
+
+* **Role:** Takes control of the debtor company's management during the CIRP.  
+* **Responsibilities:** Verifying claims, facilitating the resolution process, and ensuring compliance with the IBC.
+
+**5\. Adjudicating Authority (AA):**
+
+* **Role:** Approves the initiation of CIRP and the final resolution plan.  
+* **NCLT:** Acts as the AA for company insolvency cases.  
+* **NCLAT:** Appellate authority for appeals against NCLT orders.
+
+**6\. Bankruptcy Law Reforms Committee (BLRC):**
+
+* **Role:** Instrumental in recommending the IBC and shaping its provisions.  
+* **Views on OCs:** Recognized the need to balance the lack of voting rights for OCs with priority in payment during resolution.
+
+**7\. Judicial Authorities:**
+
+* **Supreme Court of India:** Delivers landmark judgments impacting the interpretation of the IBC and the rights of stakeholders.  
+* **NCLT and NCLAT:** Interpret and apply the IBC in specific cases, shaping the treatment of OCs.
+
+**Note:** This list only includes the principal characters discussed in the provided source. Other stakeholders involved in the insolvency process, such as the debtor company and its shareholders, are not discussed in detail.
+

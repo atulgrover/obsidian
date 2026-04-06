@@ -1,0 +1,37 @@
+<WRAP group>
+<WRAP half column>
+|{{:agent_icon.png?150}}|**[[rbz_agents:financial_agents:data_collection_ingestion|Data Collection & Ingestion]]** - Gather and standardize financial, transactional, and communication data.\\  * **[[rbz_agents:financial_agents:Data Ingestion Agent]]** – Collects data from ERP, bank, and accounting systems.\\  * **[[rbz_agents:financial_agents:Document Parsing Agent]]** – Extracts structured data from PDFs, ledgers, and filings.\\  * **[[rbz_agents:financial_agents:Email & Communication Scraper Agent]]** – Gathers internal communication records.\\  * **[[rbz_agents:financial_agents:Bank Statement Reconciliation Agent]]** – Matches bank transactions with ledger entries.\\  * **[[rbz_agents:financial_agents:Metadata Extraction Agent]]** – Pulls timestamps, authorship, and file trail information.|
+</WRAP>
+
+<WRAP half column>
+|{{:agent_icon.png?150}}|**[[rbz_agents:financial_agents:Transaction & Ledger Analysis]]** - Detect irregularities, fund diversion, and falsification of records.\\  * **[[rbz_agents:financial_agents:Journal Entry Analyzer Agent]]** – Identifies suspicious or round-tripped transactions.\\  * **[[rbz_agents:financial_agents:Fund Flow Tracing Agent]]** – Maps money trails across entities and timeframes.\\  * **[[rbz_agents:financial_agents:Related Party Transaction Agent]]** – Flags transactions with group or connected entities.\\  * **[[rbz_agents:financial_agents:Asset Diversion Detection Agent]]** – Detects unauthorized transfers or alienation of assets.\\  * **[[rbz_agents:financial_agents:Cash Flow Pattern Agent]]** – Analyzes inflow/outflow anomalies and sudden spikes.|
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+|{{:agent_icon.png?150}}|**[[rbz_agents:financial_agents:Financial Statement Verification]]** - Validate accuracy and detect manipulations in financial reporting.\\  * **[[rbz_agents:financial_agents:Ratio Consistency Agent]]** – Tests ratio stability and variance across years.\\  * **[[rbz_agents:financial_agents:Revenue Recognition Audit Agent]]** – Verifies genuine versus fictitious revenues.\\  * **[[rbz_agents:financial_agents:Inventory Valuation Agent]]** – Detects over/under-valuation of stock.\\  * **[[rbz_agents:financial_agents:Depreciation & Fixed Asset Agent]]** – Reviews asset capitalization and depreciation policy.\\  * **[[rbz_agents:financial_agents:Expense Validation Agent]]** – Identifies fake or duplicate expenses.|
+</WRAP>
+
+<WRAP half column>
+|{{:agent_icon.png?150}}|**[[rbz_agents:financial_agents:Fraud & Anomaly Detection]]** - Apply predictive and unsupervised learning for red-flag identification.\\  * **[[rbz_agents:financial_agents:Anomaly Detection Agent]]** – Flags statistical outliers in financial or operational data.\\  * **[[rbz_agents:financial_agents:Benford’s Law Analysis Agent]]** – Detects data manipulation in numeric fields.\\  * **[[rbz_agents:financial_agents:Duplicate Transaction Agent]]** – Finds repeated invoice or payment patterns.\\  * **[[rbz_agents:financial_agents:Ghost Vendor Detection Agent]]** – Identifies fictitious suppliers or employees.\\  * **[[rbz_agents:financial_agents:Conflict of Interest Agent]]** – Detects common directors, addresses, or ownership links.|
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+|{{:agent_icon.png?150}}|**[[rbz_agents:financial_agents:Legal & Compliance Analysis]]** - Align findings with IBC, Companies Act, and regulatory compliance.\\  * **[[rbz_agents:financial_agents:Regulatory Breach Detection Agent]]** – Flags violations under IBC, FEMA, or SEBI rules.\\  * **[[rbz_agents:financial_agents:Director Responsibility Agent]]** – Maps acts of omission/commission by KMPs and directors.\\  * **[[rbz_agents:financial_agents:Section 66 / 67 / 69 Evaluation Agent]]** – Identifies fraudulent/wrongful trading instances.\\  * **[[rbz_agents:financial_agents:Transaction Classification Agent]]** – Classifies transactions as preferential, undervalued, or extortionate.|
+</WRAP>
+
+<WRAP half column>
+|{{:agent_icon.png?150}}|**[[rbz_agents:financial_agents:Insight Generation & Reporting]]** - Compile, visualize, and narrate findings for forensic reports.\\  * **[[rbz_agents:financial_agents:Report Drafting Agent]]** – Generates structured forensic audit reports (executive summary + annexures).\\  * **[[rbz_agents:financial_agents:Visualization & Dashboard Agent]]** – Builds interactive charts of fund flows and red flags.\\  * **[[rbz_agents:financial_agents:Timeline Reconstruction Agent]]** – Builds event chronology of suspected activities.\\  * **[[rbz_agents:financial_agents:Root Cause Analysis Agent]]** – Summarizes patterns and responsible individuals.\\  * **[[rbz_agents:financial_agents:Narrative Intelligence Agent]]** – Converts audit trails into human-readable investigation stories.|
+</WRAP>
+</WRAP>
+
+
+<WRAP group>
+<WRAP half column>
+|{{:agent_icon.png?150}}|**[[rbz_agents:financial_agents:Governance, Ethics & Data Security]]** - Ensure integrity, confidentiality, and audit trail preservation.\\  * **[[rbz_agents:financial_agents:Access Control Agent]]** – Restricts data visibility to authorized roles.\\  * **[[rbz_agents:financial_agents:Audit Trail Preservation Agent]]** – Maintains immutable records of investigation steps.\\  * **[[rbz_agents:financial_agents:Bias Detection Agent]]** – Ensures algorithmic neutrality in fraud detection.\\  * **[[rbz_agents:financial_agents:Compliance Monitoring Agent]]** – Tracks adherence to data retention and reporting standards (IBBI, ICAI).|
+</WRAP>
+
+</WRAP>

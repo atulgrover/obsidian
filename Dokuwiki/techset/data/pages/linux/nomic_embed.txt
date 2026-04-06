@@ -1,0 +1,16 @@
+  * Nomic Embed 
+    * Easiest overall.
+    * Fine-tuning: One command using the nomic CLI or HuggingFace scripts
+    * Data format: simple JSONL
+    * Hardware: CPU or small GPU
+    * https://www.nomic.ai/news/nomic-embed-text-v1
+    * https://www.nomic.ai/news/nomic-embed-matryoshka
+    * https://ollama.com/library/nomic-embed-text
+    * https://huggingface.co/nomic-ai/nomic-embed-text-v1
+    * https://arxiv.org/pdf/2402.01613
+    * https://docs.nomic.ai/platform/embeddings-and-retrieval/generate-embeddings
+    * https://medium.com/@guptak650/nomic-embeddings-a-cheaper-and-better-way-to-create-embeddings-6590868b438f
+    * https://qdrant.tech/documentation/embeddings/nomic/
+    * https://developers.llamaindex.ai/python/examples/embeddings/nomic/
+    * https://hub.docker.com/r/ai/nomic-embed-text-v1.5
+    * https://www.youtube.com/watch?v=LpcaeQZDVB8

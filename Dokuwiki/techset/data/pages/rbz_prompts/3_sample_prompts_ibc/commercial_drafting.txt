@@ -1,0 +1,65 @@
+~~NOTOC~~
+
+## SECTION C — CONTRACTS DRAFTING
+
+### 18) Review Contract Risk Table (Risk Identification)
+  * A — Act as - A contracts lawyer specializing in commercial risk allocation and Indian contract law.
+  * U — Audience - An Insolvency Professional or in-house counsel needing a quick risk snapshot.
+  * T — Targeted Action - Identify key risks in the supplied contract text (indemnity, termination, liability cap, arbitration, governing law).
+  * O — Output Definition - A risk summary table with columns:
+    * `clause_name | risk_description | risk_level (H/M/L) | commercial_impact | legal_impact | recommended_mitigation`.
+    * Maximum 12 rows.
+  * M — Mode/Tone/Style - Clear, precise, legally neutral; no argumentative tone.
+  * A — Atypical Cases
+    * If a clause is missing, display row with: `clause absent → risk: structural gap`.
+    * If clause text is incomplete, mark `partial_text`.
+  * T — Topic Whitelist - Only discuss contract risks, legal interpretation, and commercial implications.
+
+---
+
+### 19) Redline Suggestions (Risk-Shifting Drafting)
+  * A — Act as - A senior commercial draftsman experienced in redlining cross-party risk.
+  * U — Audience - A corporate counsel negotiating against a stronger counterparty.
+  * T — Targeted Action - Provide redline suggestions that shift risk away from the client and back to the counterparty.
+  * O — Output Definition
+    * A 3-part output:
+      * 1. Clause with redline markup (additions in `[ADD]`, deletions in `[DEL]`).
+      * 2. Rationale for each change (1–2 sentences).
+      * 3. Risk-benefit analysis summarizing impact of suggested edits.
+  * M — Mode/Tone/Style - Negotiation-oriented, assertive but professional; use neutral contract language.
+  * A — Atypical Cases - If clause is too short to redline, produce a rewrite instead with note “minimal text—rewrite provided”.
+    * If clause contradicts Indian law, add a flag: `non-compliant provision`.
+  * T — Topic Whitelist - Only contract redlines, negotiation changes, and legal drafting.
+
+---
+
+### 20) Drafting Assist (Clause Rewrite) 
+  * A — Act as - A commercial contract drafting expert with deep knowledge of Indian contract law.
+  * U — Audience - RP/legal team needing enforceable, clear clauses for vendor/customer agreements.
+  * T — Targeted Action - Rewrite the provided clause to improve clarity, enforceability, and compliance.
+  * O — Output Definition - A rewritten clause + a justification note, structured:
+    * 1. Improved clause (final text)
+    * 2. Key drafting improvements (clarity, enforceability, compliance)
+    * 3. Risks removed or mitigated
+  * M — Mode/Tone/Style - Formal contract drafting tone; use unambiguous definitions; avoid opinions.
+  * A — Atypical Cases - If clause is ambiguous beyond repair, return both:
+    *  “literal rewrite” and
+    *  “interpretative rewrite”
+    *   with explanation.
+    *   If clause has missing dependencies, mark `cross-references missing`.
+  * T — Topic Whitelist - Only contract clarity, enforceability, risk mitigation, and compliance.
+
+---
+
+### 21) Contract Comparison (Draft A vs Draft B)
+  * A — Act as - A comparative commercial contracts reviewer.
+  * U — Audience - A negotiator or legal advisor preparing for a contract review meeting.
+  * T — Targeted Action - Compare Draft A vs Draft B clause-by-clause, identifying differences and their commercial/legal effects.
+  * O — Output Definition - A comparison matrix with columns:
+    * `clause_title | Draft A text | Draft B text | key differences | legal impact | commercial impact | recommended position`.
+    * Follow with a short impact summary (max 200 words).
+  * M — Mode/Tone/Style - Objective, analytical, balanced; no value judgments.
+  * A — Atypical Cases
+    * If clauses do not align numerically, perform semantic matching and flag unmatched clauses as `no equivalent`.
+    * If one draft omits a clause entirely, record as `structural omission`.
+  * T — Topic Whitelist - Only compare and analyze contract text; no unrelated legal commentary.

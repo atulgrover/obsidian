@@ -1,0 +1,804 @@
+# Round table (Virtual Discussion) | SEBI Consultation Paper
+![](https://img.youtube.com/vi/eF1Uy397wM8/hqdefault.jpg)
+7 months ago (Dec 19, 2023) — 1:29:40
+[https://youtube.com/watch?v=eF1Uy397wM8](https://youtube.com/watch?v=eF1Uy397wM8)
+
+
+## Summary
+The presentation discusses the problem statement of the Corporate Insolvency Resolution Process (CIRP) under the Insolvency and Bankruptcy Code (IBC) where equity shareholders' capital is reduced to zero value, leading to delisting of the company. The speaker, Vinod Kothari, proposes a solution that SEBI should mandate the new acquirer to provide at least 25% of the equity capital to non-public shareholders (excluding promoters) in the new corporate entity. This would allow minority shareholders to participate in the acquisition process, addressing concerns of section 29A. The proposal is applicable only to listed companies undergoing CIRP, and the minimum level of acceptance is set at 5%. The existing promoters will become public shareholders, and the offer of 25% equity to public shareholders will be made on a proportional basis. The shares will be offered at the same price as offered to investors in the new corporate entity.
+
+## What Is Equity Capital? A Small Presentation on the Series proposition
+0:00
+A small presentation which tries to capture what we're trying to say. Either way, maybe I think I'll start and then maybe you can take over sure, right. So that's the a small presentation on the series proposition. So we'll just talk about first what exactly is a problem statement? 
+
+0:24
+The problem statement basically, is that as companies undergoing resolution are acquired and I think the whole purpose of CRPS that companies will get acquired, as we've seen very large listed entities have also gone into CRP. CBS presented some data as well about number of companies which have undergone CRP, and we noticed that out of nearly 100 odd companies, in most of the cases of resolution, the equity capital is reduced to zero value. 
+
+0:57
+Promoters, Equity Capital obviously gets reduced to zero value, but as the treatment given by an acquirer cannot be different for different classes of shareholders, Equity itself is a class and I'm sure everyone understands that when it comes to priorities of section 53, that's the core of insolvency law. There's no question of tinkering with that section 53 principle. So Equity shareholders are the last in the queue and equities Equity. 
+
+
+## Equity is Equity, and the Share Capital gets completely written off
+1:22
+So no matter who is the person who is putting in equity, whether it's promoter or a minority shareholder. Equity is equity and therefore all the equity holders typically get reduced to a zero value, which means the share Capital gets completely written off and then the acquirer comes mostly. 
+
+1:38
+Either may be continuing with the same corporate data as legal entity, or might probably propose a merger of the corporate debtor into some of the entities of the acquirer, and share capital is then saluted to the acquirers, whatever preferred investors. Sometimes the acquirer is a special purpose vehicle, therefore the multiple investors who come in. 
+
+2:00
+Sometimes the acquirer is an asset reconstruction company which might have issued cell security receipts, so money might be coming into that, into the acquirer from different sources, but invariably the existing Equity holders. in more cases than not, and this bulk of the cases 75 of cases the capital of the existing holders gets completely eroded. Now. 
+
+
+## Real Estate & Equity Capitals: How to delist if the company is undergoing
+2:23
+The question therefore is therefore: automatically the company becomes real estate because shares a complete written off that leads to the listing of the company if the company that was undergoing resolution was a listed company. 
+
+2:38
+One of basic principles of listing is to provide Assurance to minority that before the company goes for Real Estate, there is a certain I mean minimum threshold acquisition that has to be done by the promoters and there has to be minimum price to be paid to the outgoing shareholders as well. 
+
+2:57
+So resolution by itself mostly leads to delisting, as Equity capitals offers the right off, and if delisting is a necessary consequence, or let's say most common consequence, of a resolution process, then why will it not be required to follow the delisting regulations delisting regulations currently provide? As it stands it provides a curve out to CRP, so it provides an exemption that delisting regulations will not be applicable. 
+
+
+## Where the Listing happens is a part of resolution plan
+3:28
+Where the listing happens is a part of resolution plan where exit up either a exit opportunity is provided or it goes to say either the company provides exit opportunity, in which case the price cannot be less than the price I mean paid to promote, or it is a part of the resolution process itself. 
+
+3:49
+So that would mean to the extent a delisting happens as a part of resolution plan, then the delisting regulations as it stands today will not be applicable. And that's exactly where the problem is, because while promoters money gets written off, I don't think there's anybody shedding tears for promoters money getting lost. But they are. They are the promoters. They've enjoyed the company for good number of years. More often than not the company gets into sickness. 
+
+4:22
+Promoters don't, as such, become sick, so to say. Promoters might have a news of I mean finding other business opportunities. Very often the business itself might have been hyped off into different other profitable entities, etcetera. those are issues that we don't need to get into. 
+
+
+## minority shareholders are nowhere in the resolution process
+4:37
+But the question is that we are not necessarily lamenting the fact that promoters money has been written off, but when minority shareholders are nowhere in the process, they are not a part of the resolution process at all. They're concurrenced by way of any resolution is not taken. They are not members of the committee operators. They are nowhere in the scene, and suddenly the companies now become zero and that business has been acquired by somebody else. 
+
+5:03
+I was a so called owner of the business. I was a minority owner of the business. Now the business has gone completely off my hands into the hands of a new acquirer, where I have absolutely no say whatsoever. So in terms of the underlying philosophy of CB's concept paper, it's quite understandable. 
+
+5:23
+How can you completely shut the gates for minority shareholders without allowing the minority at least some way to participate in the resolution in the acquisition process? That's the beginning point. Now what is say we actually proposing is that if, for a minute that new acquirer, the acquirer, is acquiring the business we call it the new corporate debt, new corporate data doesn't mean the change of legal entity. 
+
+
+## Equity Capital: At least 25 of Equity Capital You Need to Provide to the Minority
+5:49
+Quite likely it will not be change of legal entity, because typically the existing legal entity will be continued. Though as a part of resolution plan, the existing liabilities are subjective to haircuts subjected to a write down, but the corporate data quite often will continue, because I mean people will try to take benefit of accumulated losses. There are car votes from minimum alternative taxes as well, so that's a tax issue. 
+
+6:16
+We don't need to get in that, but quite likely the legal entity will be continued and there. If we refer to this company post acquisition, as the new corporate data sebi says that you needs to provide at least 25 percent of the equity Capital, whatever be the equity capital of the new corporate data, at least 25 of that Equity Capital you need to provide to the minority. 
+
+6:44
+When I'm using the word minority, I'm actually should be saying non public shareholders, sorry public shareholders, by which I mean exclude the promoters, excluding the promoters, excluding so what all can be counted as public shareholders. Those public shareholders need to be given at least a 25 participation in the equity of the new corporate data. now that would actually mean what that those minority shareholders will actually have to put in further money basis. 
+
+
+## Minority shareholders willing to put in money for acquisitions
+7:20
+One could probably once again say I have burnt my money already. Now the companies, the acquirer is asking me to put a part of the acquisition prices further investment. So why would somebody be willing to put in money into a case that has already lost money? But that's a question of, let's say, the decision of the minority shareholders. 
+
+7:42
+I think there's a very good rationale for minority shareholders willing to put in money because the acquirer has come. The acquirer is obviously getting the business for very good value. Mostly, I'm sure you understand that Acquisitions happen at a very attractive value and sure enough the acquirer is putting whatever, let's say, 100 crores. He's not hoping to lose his 100 crores. he's hoping to get a very good rate of return on that hundred crores. 
+
+8:06
+So assuming that collateral is putting 100 crores, then a part of the hundred crores should come from Mine. By giving minority shows an option. A part of that money should come from Minority shareholders and therefore it's a participative acquisition. 
+
+
+## Minority shareholders should be able to participate in the acquirer
+8:20
+By participative acquisition, what I mean is 75 money comes from the acquirer, 25 money up to 25 money comes from the minority shareholders, so the minority shoulders go to right to participate in the acquirer by way of getting shares in the new CD. Now, if you give this offer, we let's examine three situations. The company does not want to give the offer at all. 
+
+8:46
+It doesn't want to give offer to the minority schedule is at all. somebody says that I will contribute entire 100 crores. I will not care for the rights of the minority shareholders at all. That's one situation. In that case, Sabi says in that case, the carve out or the exemption from delisting regulations will not be applicable. That would mean you need to comply with de listing regulations. 
+
+9:12
+The moment I say you need to comply with delisting regulations. What it actually means is that I will have to offer a minimum offer price to buy the shares from Minority shareholders, and the computation of that offer price is almost following the sstc takeover Norms. 
+
+
+## Minority shareholders will be given 25 percent right of participation
+9:30
+So there'll be a substantial extent of payment to be done to buy the shares of minority shareholders to go for the delisting route and therefore the exemption from delisting regulations currently applicable will be mailed, conditional upon the company giving the 25 percent right of participation to the minority shareholders, as is a part of this proposal. 
+
+9:54
+So the option of not giving this 25 doesn't therefore remain, because in that case you anyway have to follow the delisting regulations. That's one situation. second situation. I give offer to the minority shareholders and let's say I would I give up. I give the option to participate up to 25 percent. However, investors and investors. 
+
+10:13
+They don't come forward then the investors don't take my offer and say: investors take my offer to the extent of two percent, only 25. I offered. They take only two percent. The remaining 23 is not taken. Then CB says that if at all you get interest of minority shareholders to the extent of less than five percent, 25 is what I offered. If I get less than five percent. 
+
+
+## Can the acquirer offer 51 shares to minority?
+10:36
+In that case the offer fails and in that case the company will go for the listing without having to abide by the conditions of realistic. That would mean I can go for delisting. No damage is done. I don't have to make any offer for buying public shareholders, etcetera. Therefore, I can go for the listing straight away. Third question: can the acquirer, for example CB says you need to offer 25? 
+
+11:01
+Can the acquirer, for example, offer, say, 51 shares to minority? She wouldn't say I will offer you 51 of the capital of the acquire. Now that's actually not envisage in this Abe discussion paper, because it's talking about 25 only, which means 75 Shares are still put in by the acquirer. 25 Capital comes from the minority. We are therefore able to address concerns of section 29a. We are also now. 
+
+11:29
+If you follow this process, then the company will continue its listing. the company will not lose its listing status. If you have given this minimum offer of 25 percent and if you like, I said, if you don't give the offer, in that case the company becomes delisted, in which case the company will have to comply with the delisting conditions. So that is in a sense. The Proposal from CB. 
+
+
+## Listing Companies undergoing CRP: What's happening?
+11:55
+If you were to quickly run through some of the situation, some of the situation will probably be able to see that in most of the cases where listed companies have gone for right hand side, you'll be able to see listed companies. Well, listed companies have gone for CRP. It's only a small part. You can see. This is the part where companies have continued with the listing. 
+
+12:18
+It's either a large part of companies end up into delisting. substantial chunk is still undergoing CRP, so we don't know. But mostly, as you can see, most of the companies actually opt for the listing. That's what is happening currently. Now that's not a happy situation, because minority shareholders completely are raised out of existence and therefore that's not what CB prefers. 
+
+12:41
+So the proposals in the consolidation paper are: this proposal, of course, is applicable only with the company undergoing CRP is a listed company, so it's applicable to listed companies only if the company in question is unlisted company. The whole question doesn't arise. Be there. We don't need to care for listing regulations at all. 
+
+
+## Equity Capital: 25 of what 25 are the equity Capital
+13:01
+If it's a listed company, it is mandatory to offer 25 to the minority shareholders up to 25 percent, and the minimum level of acceptance is five percent. now 25 is 25 of what 25 of the equity Capital as proposed in the resolution plan. So that would mean resolution plan to give an example. Supposing a Target company is acquired for a total, I mean, let's say, resolution value of, say, rupees 500 crores. 
+
+13:35
+The acquirer agrees to pay rupees 500. Existing asset based or claims might be 5000 crores acquired, agrees to 500 crores and that 500 crores has split into, let's say, Equity Capital. 200 and let's say, debt of 300 crores, 200 crores of equity, 300 crores of debt. 
+
+13:53
+Now, if the 200 crores is the value of equity in the so called new corporate data, then of this 200 crores at least 25, meaning 50 crores will be offered to minority. the remaining 150 can be contributed by the persons who are willing to invest in the equity Capital. That is the so called exact virus versus they can invest in the capital of the new corporate data. 
+
+
+## Minimum Public Holding Norms - mph norms
+14:16
+The only question which Still Remains is that, in order to continue listing, there is something called minimum public holding Norms, mph norms. So the question will only be: how will the minimum public holding Norms be adhere to in that case? 
+
+14:35
+That's a matter of detail, because assuming you made offer for 25 percent but only five percent comes, then the 95 of the capital is not held by public and possibly there will be a way to either make an offer for sale or to comply with mph condition within a given time. it's quite usual for CB to allow time for achieving minimum public holding. 
+
+14:56
+So that's something that is in the details and therefore let's pack it for discuss energy of now. But the basic idea is that of the 200 crores worth of equity Capital, 25 will be whole to the minority will be offered to minority shareholders. Remaining can come from the acquirer and if we don't get five percent response from the minority in that case the company will go for the listing. 
+
+
+## Can existing Promoters still be participating in equity as public holders?
+15:22
+It will be exempt in that case, but exempt only subject to that condition. So the good part is that we have not tinkered with the priorities of section 53. We're not created classes among the equity holders. the only question will be that will existing promoters? Because promoters, existing promoters, will now become public as there is a new acquirer. Change of control is happening. The existing promoters will become public. 
+
+15:51
+So whether these existing promoters Also may participate in equity as public holders. That's also a question that we flag for discussion and whether there is any a section, section 29 age to section 29a doesn't mean the virtual promoters cannot hold even one percent share of the company, but question is: can the existing promoters still be participating? We question we flag for discussion and we were talking about the 25 Holdings. 
+
+16:21
+So we've actually said that this is 25 because now there is a. So I think the meaning of public shareholders to whom the offer will have to be given is lay down the regulations. it is as this way the public Equity shareholders and negative list is provided. That would mean promoters are negative. 
+
+
+## Public Holdings: How much does it mean to offer 25 episode only
+16:45
+Listed promoters are not captured in the list of public orders at all, no, and public shareholder representing a member on board, meaning a board member with obviously not so the question. Basically, when talking about public holding, we are excluding each of these negative listed categories. 
+
+17:13
+And question once again will be: when we decide to make an offer of this additional or this 50 crores to the public holders, how would I mean how do you make this offer? How much of the offer is made to who? So regulation, the savings proposal says that the offer will be made on a proportional basis to the public shareholders. What is proportional basis mean? 
+
+17:38
+That would mean the proportion we need to offer 25 episode only. So we're talking about 20 left, but let's say the proportion of the public holders in the existing Capital over 60 percent. Assuming the proportion of public Capital was 60 percent and we are now proposing to give 25 only. So it will be 25 by 60, multiplied by the existing holding. 
+
+
+## What is the price of offering shares to the public holders?
+17:59
+That's the kind of offer that you need to give and then wait for the public to actually show interest in taking this holding. So that's the proposal. Another question that comes is when we are giving offering these shares to the public holders. At what price will we offer the shares? 
+
+18:19
+And the proposal says that the shares will be offered at the same price at which they are being offered to the so called investors in the new CD. That would mean the equity holders in the new city. The acquire the resolution applicant at whatever price the shares are being taken by the resolution applicant at the same price will give the shares to the minority or the public holders as well. 
+
+18:46
+Now is there a possibility of some overvaluation of shares, whereby the shares are overvalued and therefore the public is asked to put in a substantial amount of money in the equity of the new CD. now, while the income tax act section 56 to 7B, which talks about shares of a company being priced at more than fair value, in which case the differential being taken as other income of the company. 
+
+
+## Shares are not being offered on proportional basis to shareholders
+19:17
+While that provision is not applicable, but in our view this will be still Bound by the provisions of companies Act six, section 62 will be applicable here. This is not exactly a rights issue, because Shares are not being offered on proportional basis to all the shareholders and therefore there will be question of shares being offered at fair value. 
+
+19:38
+So the question: is it possible to sort of play with the fair value and therefore offer the shares to minority shareholders at an inflated price? frankly, we don't see that possibility because we are talking about a company under insolvency which has now been acquired and the share capital of that company already on acquisition, seeing an appreciation and therefore the fair value of fears being more than the power value. 
+
+20:07
+I think I don't think that is at all fair or reasonable, if at all somebody tries to play with the value of shares and tries to put a share premium or a valuation higher than the power value. To my mind, the Judiciary Authority well, while approving resolution plan, can definitely put a question on the price at which Shares are being offered, because unless one plays with the cash flows after the acquisition. 
+
+
+## Resolution Plan: What is the Difference Between Companies and Companies?
+20:33
+But that's completely a story, because all this while the company was an entity under insolvency, merely because entities here now coming out of insolvency it shares seeing an appreciation in value. We don't see a chance of I mean that possibility being there. However, that is still a concern. 
+
+20:52
+The concerns, therefore, would basically be pricing and whether shareholders will actually find this acceptable and that apart the concern will be that in many cases resolutions are quite complicated, because in many cases you'll find resolution plans says the corporate data will be acquired and then different units will be transferred into different entities. So the CD will be split into multiple entities immediately upon acquisition and those different units will become different undertaking the different companies. 
+
+21:21
+So if that is the situation, then in which company are we talking about? Giving the shares to the minority shareholders because the company undergoes the process of merger or demerger immediately upon? Resolution plan is a part of resolution plan itself. We are talking about shares being given in which come. So that is a challenge. 
+
+
+## How to minimize equity equity equity by minimizing equity equity
+21:43
+Sometimes the challenges also could be that the CD is acquired in a special purpose vehicle in which various investors come who become multiple investors. In all of these situations, issue is we are talking about giving shares in which entity one may also try to manipulate and play with the number of shares to be offered to the minority shareholders by minimizing the equity Capital component. if 500 crores 500 crores is resolution value. 
+
+22:15
+Nothing Stops the acquirer from downsizing the equity by increasing the debt. One could say, of the 500 crores I will be putting only 50 crores of equity and the remaining 450 crores will be debt, though that's a very unreasonable number, because then we're talking about a debt to equity. Ratio of 9 is to one which is extremely unreasonable. But in resolution plans currently those kinds of I mean plays are being done. 
+
+22:44
+So if somebody wants to play with the equity number and make it extremely small, so as to minimize public participation, that is possible, though, but I think we are still concentrating the same thing that ultimately the public doesn't show, doesn't I mean participate in the process of acquiring the equity. the company will undergo the listing, though the company doesn't have to make an open offer. But that I mean the issue. Therefore. 
+
+
+## ICC IPA's ICC IPA's proposal to rule out minority participation
+23:10
+The concern could therefore be that will the resolution applicant try to manipulate the extent of equity in the resolution price so as to make the public offer I mean the offer to minority shareholders extremely unattractive and therefore rule out the minority participation and thereby the company goes for the listing without complying with the listing regulations. Is that a player? Is that a concern that you all have? 
+
+23:40
+And I'm sure there are other concerns that you will have, but let's let me stop here. first I'll ask my colleague Shikhar to maybe take this discussion a bit forward, but essentially we'll all love to hear from you to get your concerns on the series proposals so that nitika from ICC IPA can assimilate our concerns or feedback to be able to take the discussion forward. 
+
+24:08
+Whatever you would like to add here, I'll stop sharing so if you want you can. Maybe it's also not required. You've covered all the points. Just the point on MPS that probably scrr already provides a timeline of say three years to get it up to 25 case of resolution plans and 12 months to take it up to 10 percent. So that is already there. I think that will be taken care of. 
+
+
+## if this proposal is sufficient for shareholders, then it's okay
+24:29
+So the so just to point out the concerns first of all. we need to discuss here whether this proposal is sufficient for safeguarding the interest of public shareholders, as sebby wants to number one. Second, whether the requirement of putting in additional consideration is okay. Thirdly, you know whether this is a feasible idea for resolution applicants who would want the company to be delisted and to bring the company totally under its control. Then it's the. 
+
+25:00
+The Proposal basically want to impose this mandatory offer on the ra, so will it actually help resolutions and you know those from those fronts we need to discuss today. So we would want to invite comments from maybe I think the first thing we can start with shika, and I think vikramji is already raised his hand, the and I'm sure there might be other questions as well that people have. but let me start with first thing. 
+
+25:26
+This proposal to offer shares in the new corporate data to minority will be a part of the resolution plan. Therefore, it's not as if this entire offer to minority holders has to be done during the six months or nine months time of CRP. It's a part of resolution plan. What would that mean? 
+
+
+## Resolution applicant proposes to offer shares to minority holders within a certain time post confirmation of resolution
+25:47
+That would mean the new the resolution applicant proposes to offer 25 shares to the minority holders, which means once the resolution plan is confirmed, then within a certain timeline, the timeline for making the public offer also perhaps has to come. So that may be. I think point to flag to say that there needs to be a timeline within which the shares will be offered. 
+
+26:11
+But the resolution applicant will be required to offer shares to minority holders within a specific time post confirmation of resolution plan. So it's not like we are keeping the resolution plan on hold until the time the minority offer is done. It's a part of the implementation of resolution plan and not a part of the resolution process itself. It's a part of the implementation and therefore is there any concern or question about the? 
+
+26:39
+We already have a problem of delays, and I mean delays are for multiple regions. So are we sort of dragging the resolution process and making it more prone to delays, if at all? So is there a concern at all? vikramji, you raise your hand. Maybe you or others, and if you have others have other questions as well. Maybe you can discuss those as well. But let's here. 
+
+
+## IBC Review: IBC Review, IBC Review, IBC Review
+27:01
+We come here first, so thank you and thank you for the excellent presentation. So you know I have multiple objections to this discussion paper and I my understanding is that the intent of study is very Noble, but it would end up doing more damage than good, because the point is that we already know that there is a dearth of resolution applicants in the market and. The Honorable ncert has already held in the binary cement's case. 
+
+27:37
+Then the first order objective is resolution. So the objective of IBC is first resolution and then the other objectives will come into play. now the point is if suppose I am the applicant and my first interest is to revive the complaint, then only I am interested in any listing or D listing. So the point is I'm not interested in running as a listed entity because the company is in loss. 
+
+28:04
+I want to focus all the you know our attention to regarding the company and once the entity has been revived, then at a fair value, I would like to come out with a public issue or whatever issue I would like to come in, because at this stage I am actually, you know, issuing the shares to the public holders at a throwaway price, because I, as a successful applicant, is actually acquiring. The Entity through. 
+
+
+## What is the Best Value additions for Tata Tata?
+28:31
+A lot of you know value additions I'm doing, say the ability to bring debt. it is not available to everyone, say Tata is acquiring a company, so the tatas are able to raise debt, and that's the reason why they are. They are a successful resolution applicant number two. They would be bringing in a lot of capital in Reviving. The Company, so we are actually not valuing all the. You know other factors. 
+
+28:57
+We are simply, you know, putting in the price at which Tata is acquiring the equity. There are a lot of other value additions are happening, which is going ignored. 
+
+29:07
+So point is that it should be first and foremost is the applicant should decide whether it wants to run the company as a listed entity or as a non listed entity, and if the entity is the ra believes that it wants to run a company as a listed entity, then only all these Provisions should apply. Otherwise the application of this provision does not come into picture. That is the first point. 
+
+
+## 25 Equity is being offered to promoters and non promoters
+29:33
+Second point is on page number seven of the discussion paper. They are given a table wherein they are very clearly state that the promoter shall also be classified as a non promotives. So the non, the promoters also become non promoters. Technically they are also public. Now. So 25 Equity is being offered to the promoters and non promoters. I call it as one growth. no, why I say so. 
+
+30:00
+My point is that if you see in the table if 25 percent is already held by the promoters in public, then further Equity to be offered to you know the serial number two as stated in the table. So basically you know what the point is. You are offering the 25 percent equity to the promoters in public at Large and both the both the entities are entitled to subscribe the 5 25 equity. 
+
+30:29
+At least five percent equity has to be subscribed by the public. Then only it stays as a listed entity. Otherwise it does not say as a listed entity. Is my understanding correct or wrong in this point? Yes, I think there is a disconnect. there is a disconnect in the provision of. 
+
+
+## The Proposal versus what they are providing in the table, because in the provision of
+30:51
+The Proposal versus what they are providing in the table, because in the provision of the framework proposal they are saying that public shareholders were in bond Intuit, promoter and promoter group. On the other hand, in the tabular illustration which Vikram sir is pointing out, they are kind of including that say whatever percentage the promoter holds in that 25 percent right, not necessarily. If we read it properly, this might possibly be. 
+
+31:15
+It might be possible to reconcile that, because not every acquisition results in 200 write off of equity assume. A resolution says that acquisition owners will be reduced to the extent of 25 existing Equity. If it's 10 Rupees, it becomes two and a half. So that would mean we already have 25 Equity. then the question of offering any is what I think that's the first row of the table we are saying. 
+
+31:41
+If the equities have been depleted to the extent of 25, that would mean within a 75 write down. 25 Capital anyway is now public, including virtual promoters, because promoters also not necessarily being reduced to zero. If you are not reducing the minority shareholders to zero, I cannot reduce promoters also to zero. So everyone is reduced to 25 value. 
+
+
+## Public holders should reclassify promoters as public, but that is possible
+32:02
+Then there is no need to make any offer to the so called public holders that public holders actually excludes promoters. So promoters are now reclassified as public, but that is possible. That's true only in cases where the equity is not reduced to zero value. Shikai hope, therefore that no, I think you are right. I got your point, so I started. But yeah, that's okay. The table is a matter of details. 
+
+32:27
+But become these vehemently opposed to the very idea of offering the shares to minority? I can see that transportation are coming to pick. So the point is that you know I say, as you get an example of the category two cases, where you know two percent equity is then actually bought by the minority shareholders. So eventually the company will be delisted and that two personal Equity will be returned back to the minority shareholders. 
+
+32:59
+Absolutely now what happens if there is a default in implementation of the plan? Suppose five percent equity has been contributed by the public minority shareholders and then they plan there's a default and eventually Recreation gets impacted, because that is very common these days. that is not covered in the discussion paper. That's a very fair point. I think nitika should nitika. 
+
+
+## A very Important Point: A Shareholding Offer Will Be Made Post Order of Enfield
+33:28
+I hope you can flag this very important point is mention yes becomes a very important Point. Third point is that this public shareholding, this offer will be made post order of the nclt are prior to the order of Enfield has made several significant points, but let me pick up the first point, because Vikram Z seems to be opposed to the idea of offering shares to minority all together, and I we would like to hear rasmology as well, but let's maybe first if somebody else has views on that, because what Vikram this says is that the acquirer is getting the shares, as he mentioned, at throw away price. 
+
+34:19
+So. I think the question would therefore be: acquirer is getting shared through a price. Why would he not want? Why would he frown upon giving the same throwaway price? Because suppose I am raising 450 crores as debt and 50 crore Equity. This 450 crores of debt is being raised because of my own Goodwill in the market in every listed company. That's what happens when the promoters have their Goodwill. 
+
+34:46
+They are able to raise that, and suppose I am. I have to invest 2000 crore in Reviving. The Company. Yeah, what you spend? I mean other than the resolution money, the initial resolution money, whatever further Capital Investments are required for. I'm Reviving the company for growing the company Etc. All of that will be a part of the capital structure. 
+
+
+## 25 Minority Offers a Promoter's Choice
+35:09
+So as the company expands Capital, there'll be a process of Rights entitlement, there will be process, a preferential issue. This 25 that is offered to minority might eventually become, who knows, might become to an opposite with the company's Capital will grow over time. But that's what that is the usual process of every listed company. In every listed company there is a promoter. 
+
+35:28
+The rest of the minority holders are getting their valuation because of the stake of the promoters play a very important part. So here the resolution applicants are first and the resolution applicants, let's say Endeavor to revive the companies, unquestionable. The only thing is that if he is able to see a value in that should a part of that value not be spread to the minority as well? 
+
+35:54
+That's probably what is CB is a regular might have thought from this perspective. Vikramji seems opposed to that. But Rajkumar, did you want and Mr Anal cutting also, isn't it so do you want to maybe first discuss on this point? Is it something which is fundamentally objectionable giving mandatory giving an offer to minority, or are we fundamentally agreeable to the proposition? Thereafter question of details will anyway be settled. Whoever wants to speak first. 
+
+
+## Foreign Equity is to be converted or it will be only for equity
+36:19
+There are several other people raising heads. Foreign Equity is to be converted or it will be only for the equity. That is not clear in the in the proposal, so that if the, if it is the structured things are there. 
+
+37:15
+So I think that point is should be added in the in the saving basement, so that so rational is mentioning sort of a possibility of adding further detail, because saves obviously expecting only the equity to be offered, not the rest of the instruments. The question of offering any other instrument doesn't rise to my view. But well, if the resolution applicant blinks, for example, say, convertible shares, convertible shares have an inherent conversion option. 
+
+37:41
+Resolution applicant may get, for example, warrants or for that matter of resolution applicant for whatever other reasons, wants to make this public offer extremely unattractive and therefore wants to minimize the equity component by, let's say, blowing up the debt component. what stops the resolution applicant from saying that out of 500 crores, only five crores will be equity and 495 crores will be rest of the capital structure. 
+
+
+## Nothing Stops him from I mean exaggerating sorry, exaggerating sorry,
+38:04
+Nothing Stops him from I mean exaggerating sorry, exaggerating the rest of the components of capital structure so as to minimize the equity and therefore minimize the public offer and therefore make the public completely relevant in the process. But if that is what the resolution applicant does, then to my mind, adjudicating with adjudicating authority while approving the plan May challenge it for unfairness, because essential principle of every resolution planet has to be fair to all the stakeholders. 
+
+38:36
+So I think what sabi's consultation does is to make the minority shareholders a stakeholder in the resolution process and therefore fairness of the resolution to the minority holders becomes important. so it might be questioned on that ground, but that is for the adjudicating bodies to exercise their jurisprudence. An LG would you want to say on the? 
+
+38:59
+I mean, do you have any basic objection to the process or you are basically aligned but there might be questions of detail? No, I am absolutely aligned with what sebby has proposed and I think if any resolution applicant believes that the company has continued to be listed, obviously they have to comply with what is the sebi's normal Norms of a listed entity. I don't see anything wrong being done by sebby here. 
+
+
+## enabling the process by sabi
+39:27
+In fact, in fact, sabi is enabling the process by giving you an opportunity to raise the public shareholding in stages. If you can't do it in one go, that's one second. I really don't see that there is a pricing issue here. I think we need to call it offering of a new company at par simple. Keep it simple, so everybody who is coming is coming at par. At the start of the process. 
+
+39:57
+The resolution applicant has paid Equity according to the value of the company or infused money according to the value of the company. So he is giving part of the value and part of the equity to the shareholders in proportion to what he is offering. So I really don't see anything wrong in it. I think it is an enabling process for a listed entity and I think it is quite required. 
+
+40:22
+If somebody doesn't want to go through this cumbersome process, he can choose to be a delisted entity. that's all, thank you, and follow the delisting regulations, which will be even more cumbersome. There you have to follow the sasd process. Yes, if he, if he or she believes that you know, he doesn't want to go through the rigors of you know raising money offering it to the minority Shadows, I would say: let's look at it differently. 
+
+
+## Minority shareholders should be able to get 25 money from external sources
+40:46
+I don't see this as a as a you know benefit being extended to minority shareholders. I see more of it as a listing requirement. Well, it is of course added. It will be coming as a part of the listening regulations. Yes, and Sabi sabi is bound to regulate that somebody is bound to have the discipline in place to prevent any rigging in the markets. 
+
+41:07
+They have to have some kind of mechanism in place, which is which they can monitor, then isn't it? Thank you if you ask me. I'm completely aligned when I find that this is what is appropriately. The Regulators I mean anybody who is coming from Securities regulation. Their concern is more from Minority shareholders point of view, and there is no doubt that Minority shouldn't have been Governor completely. 
+
+41:35
+You know the completely nil role in the entire process of resolution and therefore at least ensuring that they are able to put in money and be a part of the future. Yeah, it's an early evening mechanism on both sides from the RAS perspective, as well as minority shareholders. He's able to get 25 money from external sources. Yes, what is wrong with that? 
+
+
+## What Is the Equity Risk of a Company?
+42:01
+So you are enabling both sides to come and play the new entity which is being revived, rescued, resurrected, you know. So I don't see anything wrong and I don't see anything wrong if the company ends up in liquidation. Thereafter the minority shareholders chose to participate in the equity. They took the risk. Now, if the company ends up in liquidation, so be it. That is a little difficult analogy. 
+
+42:26
+I think that's a little difficult situation because if the resolution plan is not adhered to and therefore for breach of resolution plan, the company ends up in liquidation. So that I mean the damage for that is going to minority holders who put in additional money in there after the company has to face liquidation. they're there for once again they so you like the SS any rough adhering prospectus. They have to assess this investment Equity risk. 
+
+43:00
+So this is a risk in a in a company being restricted Any Which Way documentation investing in a company which is. But on the fundamental acceptability or advisability of this proposal. We heard some of the speakers already others. Do you want to contribute on the basic idea itself? If you want to, then kindly do so. 
+
+
+## What is the law that is related to insolvency?
+43:31
+Yes, so this is basically it seems like the save is posing for well at least to continue the company which is continue for the listing through this regulations looks like that only. And the fundamental question is why is the whole law is basically related to insolvency and across the world there is no example. 
+
+43:56
+At least as part of my knowledge, you are the insolvent person will have any say in the process insolvency process, so that where the CB is trying to create a picture where the shareholders of that company listed company were technically in solvent, are also having some say in the process. 
+
+44:14
+And second, the option is there only for why option is only for listed companies, minority shareholder, because what about unlisted public or even in case of a private, whether it will stand with article 14, equality, because companies Act? Of course I do not make any difference between this kind of entities. So whether the CV has itself and jurisdiction over creating a law or it should be the complete prerogative or Parliament only hello. 
+
+
+## Savi has the power to regulate listed entities and CB will not Tinker with insolv
+44:46
+Interesting question, though, but I think from point of view of jurisdiction, Savi has the power to regulate listed entities and CB will come by way of regulating listed entities only. CB will not Tinker with insolvency law say. We will not make any changes in CRP regulations. CP will make changes in listing regulations, so listing regulations. Currently in delisting regulations there is an exemption from companies having to adhere to realistic regulations. 
+
+45:15
+If it is being revived for resolution plan that exemption from the listing regulations will be made conditional upon these, this proposal being adhered to. that would mean if the company doesn't want to adhere to this 25 minimum offer. In that case the company has to follow the resisting regulations, which means the minority shareholders will have to be acquired by paying the price as per s? T regulations. 
+
+45:41
+I think that damage will be much more than undergoing through. I mean that's a question of choice. That will be a bigger damage, but let's hear this. Praveenji, you want to speak on this issue, sir, I am totally against such provision. See, the shareholder has put on money is put in a risky Capital. He is well aware that this real capital is risky. 
+
+
+## When the 10 rupee share can go 2000 rupees, it can go to zero also
+46:02
+When the 10 rupee share can go 2000 rupees, it can go to zero also. so there is a question of having a minor right for the minority share order or Mercy for the minority shareholders. That is my thinking. Second thing is suppose, as a promoter, if I buy a plot or something, if you say that seller should have a right in that plot. 
+
+46:23
+Suppose I buy a 10 crore to be flat in a Bombay and tomorrow I am told that one group should be reserved for the previous chapter. Why should office tomorrow off say, 1000 square feet and that five grow to be? I should keep something for the previous shareholder or previous seller who has lost the money. The promoters have lost. The public has lost. Everybody has lost their money. 
+
+46:45
+Where is the need of the any new coming incoming buyer to keep us something for the old shareholder? he is nothing and many cases I have seen the way the previous paid of capital was sent through. The value for the shareholder is already zero. There is no the money left at the creditors delivery. Forget the shareholders level, and why should I keep them? 
+
+
+## Why should I be made to run through the additional process of deal State
+47:08
+Why should I be made to run through the additional process of deal State when at the first level, 53 won a level or B level? The entire money is exhausted. The bankers itself where the financial creators itself over 95 haircut? Where is the value left for the shareholder and why I should be meant to run through the entire de listing for process? First of all, I am coming for Revival. I am a buyer. 
+
+47:31
+I should have a parent inside. there are two things we need to understand just quickly to maybe respond to your points. First of all, the proposal is not asking the resolution applicant to pay anything to the shareholders. Nothing, no question of paying. We are not going away from the section 53 priorities. We're not proposing to pay anything at all. 
+
+47:56
+Always saying is that whatever be the equity in the new corporate data, a part of that Equity that would mean money will be coming from the minority money you will not be going back to. Minority will be asked to put in further money. If they want to buy the shares of the new corporate data. They pay for the money and buy the shares. It's not as if the acquirer is paying money. 
+
+
+## Why promoters and minority shareholders should be treated differently
+48:16
+But on the on the other question which you said, why would promoters and minority shareholders be treated differently and why not treat the two of them at par? And therefore, if promoters have lost value, minority also has lost value. I think, while the point on a I mean on a technical ground, the point is okay. Equity is equity and therefore promote is equity and minority Equity is not different. 
+
+48:39
+But we need to realize that in the way the companies are run the payoffs to promoters in the Pay Auto minority is not the same, and I hope all of us, as at least professionals, you all realize that rarely do promoters actually suffer a loss of value. It's only the minority which whose values are values are lost. That's something that is a practical, ironical reality which we all appreciate. 
+
+49:03
+There's no way to either prove or disprove that. But I think we can all feel it if we want to agree on that. But nevertheless, one quick point. The mood question is whether this will encourage the RS to come or it will discourage the RS to come. That is what you said. The arrays will be discouraged merely because the RAS required to offer 25 to the minority holders. 
+
+
+## Are you giving priority to minority shareholders at the cost of resolution?
+49:28
+You think the array will feel that his control is diluted and therefore he will be. If, suppose you discourage even one ra, then you are actually, you know, increasing one more liquidation than the resolution. That is very completely that's completely agreeable that even if you set back one resolution applicant, you run value destruction. so. The question therefore is: are we as professions? 
+
+49:50
+Are we thinking, are we, are we sensing that this need for the resolution applicants to put in some part of the equity for the minority holders, they have to be dissuade or discouraged or demotivate? Resolution is my basic point is: are you giving the importance to minority shareholders above the resolution of the company? Surely not, there's no question of. 
+
+50:15
+I mean the point is that the premise of ipc's resolution, if suppose you are giving priority to the interest of a minority shareholder at the cost of resolution, then you are doing more damage than you are doing. You know service, so let's, maybe let's place this question: do we see a conflict between resolution itself and offering a certain minimum stake to minority? 
+
+
+## minority is given the state, then the company will not resolve at all
+50:39
+Are we saying either of these minority is given the state, then the company will not resolve at all, or resolution applicants will not come at all. Is are we able to see a basic conflict between the two, or is it possible that the two can co exist, the company may be revived and minority itself may also have it's? Kashi vishwanathanji would probably want to say something, but yeah, I think you have made the point. 
+
+50:59
+But yes, sir, first thing is, will the COC agree? Will the COC agree for waiting for the money to come after a certain period of time? That's a basic question which needs to be answered. 
+
+51:13
+For example, if the loan is somewhere around 100 crores and you are saying I am going to make an upfront payment of something like this in a staggered Manner and then waiting for some money to come at a later point of time to be paid back to him. Will he agree to it on such an eventuality? I am going to give you this money, Willis. 
+
+
+## USC member agrees that if you ask for a minimum public offer, then C
+51:34
+USC member agree, that's a very fair point, and that's the point that we need to flag for CB's attention that even if we ask for a minimum public offer, the question is the timing of the offer, because the COC would need certainty and effect. 
+
+51:52
+All this public offer fails, then the resolution applicant has to be still ready to pay the remaining 25, because if 25 is not taken, the resolution applicant therefore has to be prepared to put in the remaining amount. So CSC has to be given a certainty of payment, and that too within a time out manner. The question of waiting for a staggered offered to public and therefore money coming from public Etc. 
+
+52:14
+That is certainly one issue I think we need to flag. It's just a discussion paper. Still it's not like CBS.come with the resolution, but very important point that you made listings, which is even today true friends. If there is a listed company and a foreign C, then you will have to first run the entire delisting process in a listed company. if a foreign procedure. 
+
+
+## IBC - A Listing Company Under IBC
+53:07
+No, I think the listing is mandatory if listed, but without any procedure under IBC without when I'm buying a public listed company under IBC, I don't have to go through any procedure. I have to just say that I will delete the shade and write off the 100 sheet. No, I have to appoint a merchant Banker. I have to give my options. That's the point I was making, that the company is not under insolvency. 
+
+53:35
+The question of IBC therefore does not come. We're talking about a normal listed company. I am coming if 100 my Capital. Why I don't need any listing and I don't need any procedure when there is no value left? Why should I do the procedure for that? 
+
+53:53
+So that's basically what CB's point is that if there is, if the listed companies virtually rendered as delisted unlisted company through the process of resolution, then should the carve out from the listing regulation? Currently there's a curve out that you don't need to follow the listing regulation. Yes, should this carve out not be made conditional upon giving yes? Sorry, no, sir. 
+
+
+## What Is the Initial Period of Implementation?
+54:24
+Second thing is first of all the time period, for example the implementation of the plan. The initial period of implementation is very crucial for the Revival of this year, for the Revival of this corporate data. Now, if he is not able to do it, you see it goes into liquidation, though, is sebi looking for us opportunity that, after a certain period of time, delisting what to say 25 minority shareholders should be given an offer? 
+
+54:57
+Is it thinking on those lines? Because the level of money being put in is on an upfront basis to take the company into your hands, then only your other documents. With regard to the loan agreements. Everything come into your hands. The property comes into your hands. Do we are we looking for such an opportunity? 
+
+55:19
+For example, everything has to be done so that I have the company Freehold with regard to assets, so that I'm able to utilize it in a proper manner. Probably people might even think of not having loan agreements or running the company on its own with their own equity. In such a situation, what happens? That's a question which needs to be addressed too. 
+
+
+## CB: Minimum Public Offer Post Acquisition
+55:44
+Company run on fully full equity, for example, any loan Agreements are there, the assets are being pledged, or whatever you call it over. Their structures are then what happens to that? Because the debtor, the Creditor, will never give the documents to me unless and until I give him the full money. Release of security interest will not happen until the full money is given. I think the point fairly well made. 
+
+56:12
+You I think you made this point earlier as well, so I think in a reactivated manner. The point basically is that money has to come up front from the resolution applicant. 
+
+56:21
+So I guess the way CB might like to frame it is like a minimum public offer post acquisition, as if the entire Equity Capital will be first put in by the resolution applicant itself, and then a minimum public offer by way of a public offer, as is required by public offer process and minimum public offer of 25 of the holding of the acquirer will be possibly made, so that the problem of a Time gap between receiving money from Minority holders and the payment to COC that time Gap may be addressed. 
+
+
+## Post Resolution Plan sanctioned for public float
+56:54
+We can see several hands going up next. Oh hello. yeah, good, absolutely wonderful presentation, and you know the premise appears to be, at least to me, that if you would like to have the listed tag post resolution plan sanction, you have to ensure certain minimum level of public float initially five percent and later on you have to raise it up to 35 percent. I think. 
+
+57:26
+In fact, recently I have scripted a resolution plan wherein I have reserved the preserved the public shareholding and extinguish only the promoter shareholding, whereby the level of holding of the public Remains the Same subject, only to the new Equity that is being created. 
+
+57:45
+So we have designed it means that's the way that the five percent public float is left, that is the 25, has become 5 because of the resolution Plan and the New Equity being pumped in. even if delisting were to be applicable. It is all about the value of the shares at that point of time. So it is not going to be a costly exercise, because the price per share will be decided basis what is possible. 
+
+
+## Every resolution plan, you always find the original secured.
+58:12
+Every resolution plan, you always find the original secured. Let us say, security financial debt itself is probably twice or Thrice the sustainable debt. So the sustainable debt, in my opinion, roughly, will be equal to the perceived value of the Enterprise, business assets, Etc. 
+
+58:35
+So when you look at that way, the value per share will be hardly anything and therefore, if you want to continue to be listed entity, I think this proposal, which is already in existence, is slightly modified so that the 53 waterfall are giving the last jurier most entitled shareholder zero is able to acquire it instead of receiving it like a gift. 
+
+59:05
+In this plan, which I have made so therefore, I think it is some moralities have to be worked out. Some difficulties as expressed by the Learned professionals here are very valid, because I know the time line issues relating to timelines, the cocs, the money that is supposed to come, the valuation Matrix. 
+
+
+## Savvy will take Consulting, and that is why this consultation paper has come
+59:25
+Probably all of us will be knowing that in the initial 30 day period, how much you are going to pump in out of the money you are agreeable to pop in will give you the lower points brownie points, I can say so. All these things probably Savvy will take Consulting, and that is why this consultation paper has come. All of us are entitled to share our thoughts and bring the proper implementable. 
+
+59:50
+It is, I think, the paper or the regulations. That's all. Thank you, sir, you are not as such opposed to the idea of the minority participation in the acquisition process, because you said you have gone a step further and offered shares to minority while depleting the entire promoter's Capital. 
+
+1:00:08
+That's extremely magnanimous because yeah, you're right, people too actually kindly permit me, without surgery, to be very in fact able to offer to the financial creditors, because anyway, if it is listed, with a new efficient management inefficiency being the premise for the State of Affairs, the upside is likely to bring them big rewards without the resolution applicant putting money on the table. I completely see your point. 
+
+
+## Delisting and listing is a very costly process, but it's still a
+1:00:42
+I mean you rightly mentioned that this proposal might require whole lot of refinement, so a lot of detailing to make it workable. There are some difficulties which participants have raised. I think that's the whole purpose of flagging it. But on the point of Mr ravichandran's point about delisting and delisting not being a very costly process, to my mind it might still be. I mean between offering shares to minority versus taking the company for listing. 
+
+1:01:09
+To my mind, I think the listing might be relatively costly, and the reason why I say so is because, while technically every case of insolvency financially the equity is reduced to zero value, because that's when insolvency occurs, when the liabilities are exceeding the assets. That's when we say it's insolvency. Therefore, the equity is technically zero. 
+
+1:01:27
+However, normally we never find the actual stock market valuations of equities to be either zero or close to zero valuations are still positive. Probably the shareholders are still hoping that something will happen and therefore the company will provide and the listing regulations require us to offer the minimum value as per SST regulations. SSC regulations in turn look back for 26 weeks, 50,52 weeks Etc. 
+
+
+## SST: What is the highest value of the shares?
+1:01:50
+And therefore we're talking about the highest of the four or five different values as per SST. Therefore, if the acquirer proposes to go for delisting, perhaps he might end up paying a much higher price then offering the shares to minority. So that's just a point. In case you would like to maybe cutting that, but a lot of other people also are raising heads. Yes, sir, audible, you are perfect. 
+
+1:02:17
+Two things that I need to tell you before that even the listing will continue, whatever the past problems of the CV. That automatic exemption should take place, because the old promoters must not complied with lot of things. That is the one aspect, then only the this thing one the new promoter would like to continue. Otherwise I'm just I'm. This has to be directly taken into account. 
+
+1:02:43
+Number one itself, like what we are doing, is like cirp expenses we are keeping aside. I'm not saying that in the similar manner. Some 10 days, 20 likes 30 lakhs should be kept aside, even for the purpose of the minority, even if you are delisting, also assuming that because what is happening, that Minority people are not getting otherwise anything and because of no fault on their part. 
+
+
+## IBC: Minimum Money Should be given to them
+1:03:09
+So even if they try to just go for realistic, then there must be a some kind of a minimum money that should be given to them. That should be a provision in the IBC so that it will not critical. This is my view. I'm just telling you because I've seen in so I've also drafted a lot of resolution plan and people are just starting zero money. so, therefore, they are not getting. 
+
+1:03:27
+There is no fault on that, but I agree that the equity value is zero. Secondly, at the same point of time, even alok Industries let me put it like that, I'm just giving a name at that point of time, what has happened that so many investors have taken the shares at 10 percent, 15 PESA, and they have taken one crore to crore shares and thereafter the resolution plan approved and the company continued there. 
+
+1:03:50
+They meant a lot of money. So those kind of the red flags are also required to be taken into account, so that it should not happen that some scrupulous investors may not take the advantage of it. These are the two things which I want to just tell now. I think the question of making any payouts to equity. That would probably conflict with section 53, because section 53 May depreciate when you are going for the sure. 
+
+
+## I am representing shareholders only.
+1:04:29
+And Mr President, would you like to speak, sir? Yeah, sir, actually let me put in my views, because I am involved in some litigation, also on behalf of shareholders in and glad and I have spent almost 35 years, which resolution Professor process professional is not involved in litigations. I think all of us. No, actually I am representing shareholders actually right, and I have spent my 35 years career as a company secretary serving the shareholders only. 
+
+1:05:04
+So from my heart I would like to say that this is a very positive step to safeguard the minority interest, because you know they have to be looked Upon A different kind of resource for the economy. 
+
+1:05:19
+You know people make create entities, then they invest in the company, then they come out with the public issue to unlock their capital and they offload their shares in the market and they claim I have I have, I personally know this that promoters and then you unlock your money. So at that time you know retail shareholders put in money and create wealth for the promoters is recent example I would like to give. 
+
+
+## CG Power: Who is the CEO of Revival?
+1:05:54
+There is a case of CG power. You know they have not. they have taken over the company, which was in a totally zero promoters committed lot of frauds, whether committed or not. This is a question of different you know. But they defrauded the shareholders but the company, the promoters which took up the company. They did not write off the capital and they bought the company around that 750 crore Rupees. 
+
+1:06:24
+At that time, the market valuation of that company was around 600 or something can you believe? After two years of Revival, the market cap of that company is 4.000 crore. And how much wealth that promoter has created for himself, because he acquired share about 53 during the time of when the price was lower. 
+
+1:06:49
+He acquired at the as per these heavy regulations, for maybe in 40. so, although he has created wealth for himself, at the time same time he is sharing wealth for the with the minority shareholders. He is not giving from his own pocket to these minor issues around us. Nobody is giving from their own pocket. 
+
+
+## Market forces - One of the very creative proposal they created in the resolution framework
+1:07:11
+These are Market forces actually, and one of the one of the one of the very creative proposal they created in the resolution framework was, although it was a debtory instruction, not an insolvency proceeding, they gave some shares to the financial creditor also, and later on, after this two year, Pier he exited. He recovered all his dues without any zero percent haircut. 
+
+1:07:41
+So Market that doesn't mean that if that person, that Financial creditor, that is Standard Chartered Bank, they reward 200 crores at they exited as 200, so they are able to recover money. that's what I'm saying that they this kind of proposal should be looked upon as a, as a, as a wealth creation exercise. Not at that. Somebody is giving to the shareholder. Somebody is not giving to the chair orders. 
+
+1:08:10
+Ah, the only weak point today in the system is that shareholders are not organized. If there is some mechanism where the you are able to organize these minority shareholders, the time will come that these shareholders can give resolution plans and they you know experts are available in the market. You hire this you and then they will run the company. Good idea, but ask again, so even employees, I think in some cases, have given resolution plans. 
+
+
+## Reliance Can Give Any Art of Proposal
+1:08:38
+But otherwise organizing people collectively, yeah, because credibility is not them. They are not. They have. no, they have no track record. Because you see, Reliance can give any kind of proposal. Everybody will accept it. Body of shareholders will give. Nobody will accept it. Sure there is a need to institutionalize these kind of things. Maybe later on these things will come, but I am very optimistic. I am very happy that Savvy has brought out this proposal. 
+
+1:09:06
+I am dealing a case where you know the capital of minority shareholder was less than one percent of the total admitted claim. So basically, if we be bigger, a couple of other people also want to do is say something. So maybe if you can come back to you in a minute from now. Yes, thank you and thanks a lot for organizing this session. It's a Wonderful session. 
+
+1:09:32
+My quick take on this is that I don't agree to the concept of having protection for minority shareholders a because it creates class divide, the operational creditors unsecured Financial creators and many plans don't have any recourse. So how can we get Equity holders to step over them, even if they are minority? Even operational creditors are minority. There are a couple of Supreme Court judgments which clearly say that Minority holders don't have any rights. 
+
+
+## minority shareholders need to recognize the law of the land
+1:09:59
+So that also we need to recognize, because that's law of the land. So I feel, and if at all, for some reason, an option has to be given to minority shareholders, then I feel it needs to be at the resolution plan value, because every resolution plan is converted into the total value of the resolution plan when you submit your format or when you do your comparisons with liquidation valuation, irrespective of what capital structure it is proposed. 
+
+1:10:26
+So if at all an option has to be given, then it has to be given at the resolution plan value. So that is my point. I have a I have a limited additional point which is also important from the concept of minority shareholders. 
+
+1:10:39
+If you may permit, may I bring it up soon, and this is essentially on the fact that a lot of the problems which are getting caused in some of the companies, like alok and all what we discussed, is because sebi has chosen, a government has chosen to permit trading while the company is in solvency. 
+
+
+## Insolvency: One Month Minimum Trading with Notice
+1:10:57
+I feel the solution to that is that after a company gets into insolvency, maybe one month mandatory trading with notice it should be allowed and after that it should be suspended, because unless at that time you don't know who's going to buy the company. 
+
+1:11:12
+So chances of stock manipulation are minimum in the next month, one month of insolvency, but as soon as you get to know who the resolution applicants are, then manipulation starts and then buying stock at lower price and then taking it higher, and all of those things start. 
+
+1:11:30
+So I feel there should be suspension of trading during the insolvency period and the notice period and minimum trading of one month or two months should be permitted for people who want to exit. To exit though that is the limited point. 
+
+
+## Stop Trading during CRP: What's the root cause of problem?
+1:11:43
+I think that is the root cause of problem, where you see suddenly stocks going very high and people accumulating stock when they know they have inside information of who's acquiring the business, so that can be prevented. so I think, on this point of stopping trading during CRP, this point was discussed. I think for the last five years, elaborate discussions have been done with CBA exchanges. 
+
+1:12:06
+Everyone ultimately the and looking at experience from other countries as well none of the countries of the world's trading stops when entity gets into resolution. In fact, there is an argument to say that trading is all the more important when resolution is going. That's when children must be getting an exit. if I'm facing the threat of either the company getting to liquidation or the company being revived. 
+
+1:12:25
+That's the right time when sharola should be asked to either decide to exit Celsius at whatever value they are giving, or to hope for recovery and therefore be invested. Stay invested. So exit to shareholders being stopped is almost like you are in a building and the building is, let's say, fire alarm and that says the gates are locked so you cannot go out. That would be extremely ironically unfortunate. That point was discussed at Clinton. 
+
+
+## CB is still wanting on the other point of resolution value
+1:12:50
+Like I said, CB has been discussing this for almost four or five years now. So this is a it's only during liquidation that trading is suspended. That's the rule in other countries as well. Vikramji is still wanting on the other point of resolution value. I think they are all aligned. Okay, that's what we were saying. Resolution value minus the value of liabilities. The difference is what is paid. 
+
+1:13:11
+I think we'll hear nitikaji and then we will maybe move to who were else okay. So we have a message in the chat box. Mr Ravi prakash Gandhi has some points, so can we touch it. Can you? Can you kindly speak? Yes, so, and they'll have to become here. Yes, sir, can you hear me? Of course we can hear research. Yeah, thank you. I had a basically a very small point. 
+
+1:13:38
+We have been discussing about the fairness the ETC of this proposal that should be there should not be there from the angle of various stakeholders. very limited issue was that this is a session for eyepiece and we should concentrate on assuming it becomes law. How we shall implement it and what are the things that we need to look into from that angle? Why do we have different roles in life? 
+
+
+## If the IPA is right or wrong, it doesn't benefit the area
+1:14:06
+But because there's an IPS sections and I feel not supposed to have views on whether the law is right or wrong? We are once we are appointed as the trustee of a company. We are Duty bound to implement whatever is the law. 
+
+1:14:21
+So let us assume that if this becomes law, how it affects us and not get into it, that is right, or that it is wrong, whether it benefits the ra, it doesn't benefit the area. How will be concerned? I mean that was my limited issue, the fair point about edge of now. CBS sought views on the proposal. It's not the lowest yet. CB is simply given a proposal. 
+
+1:14:44
+Savi is asking for a feedback, so I think the yeah, Mr Kota, I agree with that. I'm not saying no, because sebi is asking the World At Large okay, which includes individuals as individuals in roles other than as IPS. We can obviously give to sebi. Icsi could have organized that from that angle. But when it is the IPA, let us suggestion, let's look at how it will affect us when we are looking at resolution plans. 
+
+
+## What are the things we need to take into account to assess the?
+1:15:14
+What are the things we need to take into account to assess the? You know whether it is aligned with it, because we as RP will have to give an opinion on that? does it comply with all the laws? This will be one of the laws. Once it becomes, then how does it impact us? Let us assume that it becomes the law. 
+
+1:15:33
+Whether it should become the law or not is maybe some of us will be in that discussion too, but that will not be as eyepiece that will be in, probably as a advisor to an RA or a credit or whatever. 
+
+1:15:46
+Yeah, I think if no one else has any other point, then I think two, three points, and I think we will hear you, and then I think I'll pass over to nitika to maybe make concluding observations. But anybody else will want to say anything at all. The platform becomes. Kindly raise your hand. I just want to make a quick point I feel you know, with respect to the resolution plan. Approval of the COC. 
+
+
+## Resolution Plan: How to get a resolution plan
+1:16:24
+You know, yeah, I mean somebody pointed out already, getting a resolution plan itself is tough, then the terms ought to be agreed by the COC. Third thing, the resolutionary applicant should be successful. Resolution applicant should be able to bring in money and ensure that he complies with the terms whatever he has agreed, and hence it really becomes a successful resolution plan. When there are so many challenges: one side, IBC and the terms and conditions. 
+
+1:16:51
+One side, sebi, I think you know how it is working as of today. It has to continue as such, instead of bringing the sebi regulations into IBC and getting it complicated. and as far as the listing is, and see any listing, whether it's in IBC or outside IBC listing is an individual's Choice, whether he wants to go for listing or not. It is his choice. 
+
+1:17:15
+Same way, and under IBC also, whether the new resolution successful resolution applicant, whether he wants to continue with listing or he wants to lay our deal list. If he wants to delist it, then he has to comply with the you know, with the semi regulations. 
+
+
+## I think we have to keep it independent, like how it is today, instead of trying to
+1:17:32
+I think we have to keep it independent, like how it is today, instead of trying to bring in or combine both merge, both saying that you have to make minimum 25 percent to the minority shareholders and things like that. I think it's made very complicated. I feel no, whatever is there today is very simple. section 53 is there. 
+
+1:17:52
+Section 30 is there, plus the individual, the coc's rights and the resolution professional, what he can offer, how he can bring in funds. There's so much of complexity already involved. I think we should not make it more and more complex by bringing all our laws into picture. Already the operation crater Supreme Court ruling so much is already going on and sebi also bringing everything you know, then the IBC will become more and more. 
+
+1:18:18
+You know then we will instead of moving going up in the ladder in the IBC execution. I think the reverse Trend will settle. That is my view and I think is happy and this thing let us keep it. We need to keep it totally aside. Would like to speak further. 
+
+
+## What happens if the company is sold as a going concerning electric liquidation?
+1:18:42
+I want to say with regard to miss point of view, I agree to that completely, because already we are facing a lot of problems, adding something more to the fear, fire fuel to the fire. It's not going to serve the purpose. Already you have said once you are, the plan is being there. The delisting arrangements are not there. Simple law is very simple. 
+
+1:19:06
+Let us keep it as simple as that, rather than bringing in you have to kind of put this condition. Put that condition, then do it. Nobody will come. Sir. That is for sure. Sure, that's for sure, and I think vikramji was vehemently anyway opposed to vikramji would like to add further arguments. Sure. First point: is it the company into liquidation? Then there is a compulsory listing. right. 
+
+1:19:28
+It doesn't matter, because company promulgation of liquidation order automatically leads to it. But what happens if the company is sold as a going concerning electric liquidation? Do you think that you need to consider that point also in this case, with the provisions apply, for you know if the company is sold as a going concern in liquidation? Will this Provisions apply? You not apply something you know? I think needs to be discussed in the discussion paper. 
+
+
+## How do you ensure that the promoters Who are ineligible under 29 do not
+1:19:54
+That is one point. Second is how do you ensure that the promoters Who are ineligible under 29a do not get hold of the equity? Or basically, you know you ensure that the promoters Who are ineligible 29 cannot acquire the shares of the new entity because that might permit a back door entry for the promoters. that is probably addressed, because the offer will be given only to non promoter public holders, not the promoters. 
+
+1:20:20
+I think so subsequently basically stated I think it's there. It's there in. The Proposal. But if by market acquisition the promoters buy the shares that they can do anyway, I mean they slowly aggregate shares from the market. Because my understanding it is not covered in the news in the in the discussion paper, and a third definition of Public public probably says it, but kindly go ahead anyway. 
+
+1:20:43
+Third point is, do we have similar Provisions in other advanced Supply, ukl U S or you know, this is only being, you know, considered in India. My understanding is that these Provisions don't apply to the other advanced jurisdictions or trying to do something which is not existing in the other countries. you might be more conversant with the provisions in the other countries. 
+
+
+## Indian insolvency law is going on a solo track altogether
+1:21:07
+I might only say that in many ways Indian insolvency law has gone on a different track altogether. It's largely following Global principles, but in many ways it's going on a completely solo track. For example, question is: do we have an equivalent of section 29 in any other country? Correct, nowhere else do we have this concept? This is 29 is India's Gift To. The World At Large. 
+
+1:21:30
+Likewise, I'm not sure whether equivalent of this exists in other jurisdiction. But protection to shareholders in a case of delisting that, I think, is a basic principle of listing regulations. 
+
+1:21:43
+But I think this is something that I am guessing it is extremely important, because how can you distinguish or give production only to a minority shareholder and then you know you exclude the operational creditors because they are also deeply impacted or they, you know, go through a very deep haircut in the resolution process got it so I think, in terms of views of participants, it's a divided house. 
+
+
+## What Is the Difference Between Equity Shareholding and Public Shareholding?
+1:22:07
+There are people who have vehemently opposed and found issues in this concept paper. Is it being presumed that the city as a standalone will remain as a standalone City? Or you know, if the merger happens, then I think it will create further complications. You're right. That's something that we also mentioned, that if the entity itself undergoes the process of restructuring, there'll be additional problems, and you're right on that. 
+
+1:22:32
+So I think, nitika, we might probably now return to you and the views. I'm sure you would have kept a note of the news. Different people have expressed different views. I think based on that, we'll probably have to give a feedback too. So I also have one question. 
+
+1:22:47
+Like during the implementation stage when the monitoring committee is formed and when IPS also a part of it, so how like should like, the monitoring committee should also have a watch on this implementation of equity shareholding and public shareholding thing, or IEP in the monitoring committee, will be excluded from this process. 
+
+
+## We cannot keep the process of getting money from Minority shareholders and the COC getting that money
+1:23:08
+So in my view, after hearing the participants here, who rightly pointed out that we cannot keep the process of getting money from Minority shareholders and the COC getting that money back as a part of the resolution proceeds. We cannot these. We cannot keep this process connected. That would mean we cannot expect the creditors to wait for money to be collected from Minority, and that would be a long known process. 
+
+1:23:33
+Therefore, appropriately, the resolution applicant should pay for the entire Equity value and thereafter make an offer for sale. So that's an offer for sale done by the resolution applicant by offering shares to the minority as a part of the resolution plan. 
+
+1:23:49
+Therefore, well, if it's a part of resolution plan, then the entire implementation of resolution plan should be overseen by the monitoring committee, and if the RP is a sort of compare of the monitoring committee should continue to monitor this part as well. That's the way I see it, but there are a lot of details to be, a lot of dots to be connected to make this entire process work well. 
+
+
+## What Is the Difference Between Companies Under Carps?
+1:24:14
+I think, with this anything over to you and Mr rajendra, you want to say something, sir. Yes, sir, good evening, fine, sir, thank you. So one small observation. I just thought that you know I have heard the views from all other learned participants in this program. my view is that we have handled two or three cases of listed companies under this carp, and in all the cases the existing shareholders went high and dry. 
+
+1:24:42
+They didn't get any kind of amount. You know from the resolution plan, as shareholders, in fact many of them call me and then you know they lamented that how come, all of a sudden, you are just asking me to go without any kind of money and my value is zero shares. 
+
+1:24:57
+My thought process went like this: sir, the company coming into carp is always communicated to the exchangers through a corporate notification or you say a corporate action or some kind of information which goes to the courses, to the stock exchangers. So the shareholders we're having an option to exit at any point of time. today there is one company undercarps, rightly pointed out. 
+
+
+## Stock Exchange: Investors Should Take a Call
+1:25:24
+Even now the trading is happening, whether it is 10 rupees or 15 rupees or two rupees. Some trading is happening. So it is an informed choice of the shareholders to take a call. It's a risk Capital, as mentioned in the note. Also, the people coming into the equity, they always have back up their mind that their money can at any point of time can be swept aside by a tsunami. 
+
+1:25:48
+So having said that, sir, the plan actually is daily. Are we losing a company? So the person bailing out as a white knight should have all other kinds of effects. Slightly few words we lost, but you're okay now. kindly good. 
+
+1:26:15
+Okay, as a resolution applicant comes to bail out the company, I think he should be given a complete freedom, in whatever way manner fashion he would like to have the company, even if he wants to come. My suggestion to bring back the company into the MPS requirements, minimum public shareholding requirements, and that should be given as a fresh kind of an offer for those shareholders, whether they are minority or even promoter shareholders. 
+
+
+## Keeping listed is the best thing to do in the world
+1:26:47
+It was a decision, conscious decision by them. So they had the options. They had the choice. They had the ability to if you switch from the company at any point of time. So my thinking goes like that the law always comes to those who are Vigilant and not to those who are sleeping at some point of time or they are forgetting their rights. so this is my submission. Etc. Thank you fairly well made the observations. 
+
+1:27:21
+Just that I think on the last part that you mentioned, at the company, if it wants to continue to be a listed company should comply with minimum public holding Norms. I think that's exactly what saves wanting to ensure here that the company has two choices to make: either to stay listed or to become delisted. 
+
+1:27:38
+If it wants to stay listed, in that case it has to make a minimum public offer and that minimum public offer must be made to the minority at the same price at which resolution applicant acquired the equity. That's part. If the company decides to go the delisting path, in that case the de listing regulations come back and therefore the company is to acquire. 
+
+
+## Equity should always have the choice of staying invested or exiting
+1:27:59
+I think it's largely on that those lines only, of course, with the idea of you rightly mentioned that Equity should always have the choice of either staying invested or to exit the company once the news of it's not just the promulgation of installment. In fact, even an application is filed for CRP. That also requires immediate disclosure to exchanges, so the information flows to exchanges seamlessly and all instantaneously. There's no doubt on that absolutely. 
+
+1:28:28
+I think we have exhausted about time, so we should go back to her and ask her to give her concluding remarks. Yes so thank you so much for the session and thank you for all the participants for joining and for giving their valuable inputs. 
+
+1:28:43
+We will try to collate all the inputs that we have received and will send the same to sebi, and I would request all the participants to individually send your views also to sebi, so that those views will be seen and maybe good decision will come from the regulator. So we will share all of your suggestions and we'll send to sebi. Thank you. I just want to add that very senior professional join this meeting today. 
+
+
+## Israel's views on Israel - A very interesting experience
+1:29:13
+We've heard the views of Israel. Very, Madam, a lot of senior professionals have come, so that's very interesting and thank you all for joining today. Thanks, thank you and thank you everyone. Thank you, thank you everyone. it was very nice. thank you, thank you. 

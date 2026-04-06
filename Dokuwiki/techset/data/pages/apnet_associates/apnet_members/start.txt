@@ -1,0 +1,13 @@
+<WRAP group>
+
+<WRAP half column> 
+|{{:agent_icon.png?300}}|**[[apnet_members:terms_conditions|Terms & Conditions]]** - Membership is subject to compliance with association rules, timely fee payments, and adherence to applicable laws. The association reserves the right to amend policies and take disciplinary action for violations of its guidelines.|
+</WRAP>
+
+
+<WRAP half column> 
+|{{:agent_icon.png?300}}|**[[apnet_members:code_of_conduct|Code of Conduct]]** - Members shall uphold the highest standards of integrity, professionalism, and confidentiality in all engagements. They must act impartially, avoid conflicts of interest, and maintain ethical behaviour that protects the reputation of the association.|
+</WRAP>
+
+</WRAP>
+  

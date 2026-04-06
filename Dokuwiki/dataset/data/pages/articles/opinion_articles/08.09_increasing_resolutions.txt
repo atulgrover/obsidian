@@ -1,0 +1,186 @@
+# Increasing Resolutions
+
+The provided text argues that the primary objective of India's Insolvency and Bankruptcy Code (IBC) should be **resolution**—reviving failing companies to maintain their operations—rather than solely focusing on **recovery** for creditors. The author critiques the current approach, which prioritizes high upfront payments and leads to excessive litigation, hindering timely resolution. He emphasizes the need for a more balanced approach that considers the interests of all stakeholders, including employees and the public, while recognizing the crucial role of **speed** in maximizing value and achieving successful outcomes. The author also highlights the challenges posed by judicial delays and advocates for strengthening the infrastructure and capacity of the National Company Law Tribunal (NCLT) to facilitate swifter and more efficient resolution processes.
+
+## **Briefing Doc: Increasing Resolutions is Key to IBC's Success**
+
+**Author:** Sidharth Sharma  
+**Source:** Excerpts from "increasing resolutions.pdf"  
+**Main Theme:** This article argues that the primary goal of the Insolvency and Bankruptcy Code (IBC) in India should be the **resolution** of insolvency, not just maximizing creditor recovery. The author emphasizes the importance of swift and timely resolutions to maximize value for all stakeholders and prevent further erosion of a company's worth.  
+**Key Points:**
+
+* **Resolution, not just recovery:** The author asserts that the focus on creditor "haircuts" and recovery percentages misses the larger point of the IBC, which is to revive viable businesses and prevent unnecessary liquidations. Quoting former IBBI Chairman Dr. Sahoo, the article highlights that the IBC aims "to keep \[the firm\] going, to maximise the value of its assets, and to balance the interests of all stakeholders."  
+* **Delays are detrimental:** The article identifies delays in the CIRP (Corporate Insolvency Resolution Process) as a major obstacle to successful resolutions. This is due to factors like litigation, inadequate capacity at the NCLT (National Company Law Tribunal), and difficulty in marketing stressed assets. Delays lead to value erosion and lower recovery rates for creditors. Data shows that recovery rates fall from 49.2% to a mere 26.1% when CIRP stretches beyond 600 days.  
+* **Focus on time-bound resolutions:** Quoting Dr. Sahoo again, the article notes that the enterprise value of a firm diminishes rapidly during prolonged insolvency proceedings. Timely resolution is crucial to preserve value and attract potential resolution applicants.  
+* **Balancing interests:** While the CoC (Committee of Creditors) plays a crucial role, the article emphasizes the need to consider all stakeholders, including employees and workmen, whose livelihoods depend on the outcome of CIRP.  
+* **Avoiding the perfect deal fallacy:** The author acknowledges the need for procedural integrity and safeguards against fraudulent resolution plans. However, he cautions against seeking the "perfect deal" and suggests that a timely compromise is often preferable to protracted negotiations that could lead to liquidation.
+
+**Important Quotes:**
+
+* "The soul of the Code is resolution of insolvency of a firm by (a) a collective effort (b) to keep it going (c) to maximise the value of its assets, and (d) to balance the interests of all stakeholders." \- Dr. M.S. Sahoo  
+* "time and again, it has been expressed and explained by this Court that the provisions of the Code are essentially intended to bring the corporate debtor to its feet and are not of money recovery proceedings as such.” \- Supreme Court in Invent Asset v. GirnarFibres  
+* "The delays often due to litigations by multiple stakeholders with competing interests, erodes the value of already distressed CD further, and minimises the recovery value to the creditors…..Hence, it is important for all the stakeholders to expedite decision making." \- Ravi Mital, current IBBI Chairman
+
+**Recommendations:**
+
+* **Strengthening NCLT infrastructure:** The article highlights the need for increased capacity and resources at the NCLT and NCLAT to expedite proceedings.  
+* **Streamlining CIRP process:** Addressing delays caused by repeated modifications to resolution plans, excessive litigation, and other procedural bottlenecks.  
+* **Shifting focus from recovery to resolution:** Encouraging CoCs to prioritize long-term viability and value creation over maximizing short-term recoveries.
+
+**Conclusion:**  
+The article advocates for a paradigm shift in the way IBC is perceived and implemented. The emphasis should be on swift and efficient resolutions that revive viable businesses and protect the interests of all stakeholders. A recovery-centric approach undermines the true potential of the IBC and leads to unnecessary liquidations, ultimately hindering economic growth.
+
+## **Increasing Resolutions: A Study Guide on the Efficacy of India's IBC**
+
+**Quiz**  
+**Instructions:** Answer each question in 2-3 sentences.
+
+* What is the primary goal of the Insolvency and Bankruptcy Code (IBC) according to the author?  
+* How does the author use the example of the Lehman Brothers bankruptcy to illustrate the importance of swift resolution?  
+* Why does the author argue that focusing solely on creditor recovery rates under the IBC is an inadequate measure of its success?  
+* Explain the concept of “maximisation of value” in the context of IBC and why it should not be solely interpreted as maximizing creditor recovery.  
+* What are the four main reasons identified for delays in the Corporate Insolvency Resolution Process (CIRP)?  
+* How did legislative amendments and court judgments address the initial bottlenecks in CIRP related to government dues?  
+* According to the author, what is the most significant challenge hindering the timely completion of CIRPs?  
+* How do delays in CIRP impact the likelihood of successful resolution and creditor recovery rates?  
+* Explain the author's statement: "In CIRP, the perfect need not be the enemy of the good."  
+* What is the author's ultimate conclusion regarding the resolution process under the IBC?
+
+**Quiz Answer Key**
+
+* The author emphasizes that the primary goal of the IBC is the resolution of insolvency, aiming to rehabilitate businesses and ensure their continued operation rather than solely focusing on liquidation.  
+* The author cites the Lehman Brothers bankruptcy as an example to highlight the urgency of swift resolution. In this case, the judge approved the deal with Barclays not because it was the best option, but because it was the only one available, demonstrating the importance of timely action to preserve value.  
+* The author criticizes the overemphasis on creditor recovery rates as a measure of IBC's success. This approach, according to the author, overlooks the broader objective of resolution, which encompasses the revival of businesses, preservation of jobs, and efficient utilization of resources.  
+* "Maximisation of value" within the IBC should not be solely interpreted as maximizing creditor recovery. It entails considering the interests of all stakeholders, including employees, workmen, and the overall economy. A successful resolution plan should aim to optimize asset value for the benefit of all parties involved.  
+* The author identifies four main reasons for delays in CIRPs: inadequate capacity of the National Company Law Tribunal (NCLT), challenges in marketing distressed assets, lack of cooperation from corporate debtors, and poor documentation practices by companies.  
+* Legislative amendments to the IBC clarified the treatment of government dues during CIRP. Court judgments, particularly the Ghanashyam Mishra v. Edelweiss case, established that government dues not included in the resolution plan stand extinguished, preventing government agencies from pursuing claims after a successful resolution.  
+* According to the author, the most significant challenge hindering timely CIRP completion is the pervasive problem of judicial delays within the NCLT and NCLAT. Despite these tribunals being specialized courts, they are still subject to the broader issue of delays within the Indian judicial system.  
+* Delays in CIRP significantly reduce the likelihood of successful resolution and negatively impact creditor recovery rates. Prolonged uncertainty leads to the erosion of business value, deterring potential resolution applicants and resulting in lower recovery for creditors.  
+* The author's statement emphasizes the need for pragmatism in CIRP. While striving for an ideal resolution is commendable, delays in pursuit of perfection can be detrimental. A timely and acceptable resolution, even if not perfect, is preferable to no resolution at all.  
+* The author concludes that while the IBC has made significant strides in corporate insolvency resolution, there is room for improvement. The focus should shift towards expediting the resolution process, minimizing delays, and recognizing the broader economic benefits of successful business revival.
+
+**Essay Questions**
+
+* Critically analyze the argument that prioritizing resolution over recovery is the key to the success of the IBC. Discuss the potential benefits and challenges associated with this approach.  
+* Examine the role of the judiciary in the effective implementation of the IBC. To what extent have judicial delays hampered the achievement of the IBC’s objectives?  
+* Evaluate the impact of the IBC on the Indian economy. Has it succeeded in fostering a culture of entrepreneurship and credit availability?  
+* Discuss the various stakeholders involved in the CIRP and analyze the challenges in balancing their competing interests. How effectively does the IBC address these challenges?  
+* "In CIRP, the perfect need not be the enemy of the good." Discuss the implications of this statement in the context of achieving timely and effective resolution under the IBC.
+
+**Glossary of Key Terms**
+
+* **Insolvency and Bankruptcy Code (IBC):** A comprehensive legislation in India that governs the resolution of insolvency for corporations, partnerships, and individuals.  
+* **Corporate Insolvency Resolution Process (CIRP):** A time-bound process under the IBC aimed at reviving financially distressed companies by restructuring their debts and operations.  
+* **Resolution Plan:** A proposal submitted by a potential investor or existing management to revive a financially distressed company under the CIRP.  
+* **Committee of Creditors (CoC):** A group of financial creditors who have a significant stake in the insolvent company and hold the decision-making power during the CIRP.  
+* **Liquidation Value:** The estimated value of a company's assets if they were to be sold off in a liquidation scenario.  
+* **Resolution Applicant:** An entity that submits a resolution plan to the CoC proposing to take over the management and operations of the insolvent company.  
+* **National Company Law Tribunal (NCLT):** A specialized tribunal in India that adjudicates matters related to company law, including insolvency cases.  
+* **National Company Law Appellate Tribunal (NCLAT):** An appellate tribunal that hears appeals against orders passed by the NCLT.  
+* **Haircut:** The reduction in the amount owed to creditors as part of a debt restructuring or resolution plan.  
+* **Going Concern:** A business that is assumed to be operating in the foreseeable future.
+
+## **Timeline of Events**
+
+This timeline focuses on the evolution of the IBC and significant legal cases that shaped its interpretation:  
+**2009:**
+
+* **Lehman Brothers Bankruptcy:** This event, detailed in Andrew Ross Sorkin's book "Too Big To Fail", highlights the importance of swift resolutions in insolvency cases, even if they involve compromises.
+
+**2016:**
+
+* **Insolvency and Bankruptcy Code (IBC) Operationalized:** This new legal regime in India aims to facilitate corporate insolvency resolution and prioritize rescuing businesses over liquidation.
+
+**2018:**
+
+* **Binani Industries Case:** The National Company Law Appellate Tribunal (NCLAT) emphasizes the 'resolution' goal of IBC, prioritizing it over maximizing value for any specific stakeholder group.
+
+**2019:**
+
+* **Swiss Ribbons Case:** The Supreme Court underscores that the IBC aims to revive and continue struggling businesses, preventing "corporate death by liquidation."  
+* **Insolvency and Bankruptcy Code (Amendment) Act:** Amendments clarify the binding effect of approved resolution plans on government authorities, including for tax dues.
+
+**2021:**
+
+* **Ghanashyam Mishra v. Edelweiss:** The Supreme Court rules that government dues, including taxes, not included in the resolution plan are extinguished after the resolution process concludes.  
+* **Report of the Working Group on Tracking Outcomes under the IBC:** This report highlights the positive economic impact of the IBC, including the efficient reallocation of resources and the rescue of viable businesses.
+
+**2022:**
+
+* **Invent Asset v. GirnarFibres:** The Supreme Court reiterates that the IBC is not primarily a debt recovery mechanism but a law designed to revive struggling companies.  
+* **Asset Reconstruction Company (India) Limited v. Tulip Star Hotels Limited & Ors:** The Supreme Court reaffirms that the IBC aims to revive companies unable to pay their debts, not simply liquidate them.
+
+**August 2023:**
+
+* **"Report of Study on Effectiveness of the Resolution Process" by IIM Ahmedabad Professors:** The study concludes that companies resolved under IBC show improved performance, contributing to job creation, capital investments, and efficient resource utilization.
+
+**2024:**
+
+* **Standing Committee on Finance Report on IBC Implementation:** The report expresses concern over the significant backlog of IBC cases pending with the NCLT, attributing 71% of the delays to cases pending for over 180 days.  
+* **IBBI Newsletter, Jan-Mar 2024:** Data presented shows a direct correlation between the length of the CIRP and the recovery rate for creditors, with faster resolutions leading to higher recovery.  
+* **IBBI Issues New Guidelines for Committee of Creditors:** These guidelines aim to enhance transparency, coordination, and time-bound decision-making by the CoC during the CIRP, contributing to more successful resolutions.
+
+## **Cast of Characters**
+
+**Sidharth Sharma:** The author of the excerpt, arguing for the prioritization of resolutions over pure recovery in IBC cases.  
+**Andrew Ross Sorkin:** Author of "Too Big To Fail," which recounts the Lehman Brothers bankruptcy and emphasizes the need for timely resolution in insolvency situations.  
+**Dr. M.S. Sahoo:** Former Chairman of the Insolvency and Bankruptcy Board of India (IBBI), who championed the resolution-centric approach of the IBC and highlighted the importance of swift CIRP timelines.  
+**Ravi Mital:** Current Chairman of IBBI, acknowledging the negative impact of delays on the CIRP and advocating for expedited decision-making by stakeholders.  
+**Prof. M.P. Ram Mohan & Prof. B. Gopalakrishnan:** IIM Ahmedabad professors who authored the study on the effectiveness of the IBC resolution process, demonstrating positive outcomes for resolved companies.  
+**Bankruptcy Judge (Lehman Brothers Case):** The judge who approved the Barclays deal for Lehman Brothers' North American operations, highlighting the urgency of resolving insolvency cases, even with compromises.  
+**Various Stakeholders:** The article mentions several groups involved in CIRPs, including creditors (financial and operational), resolution applicants, employees and workmen of struggling companies, government authorities (including tax authorities), and the NCLT and NCLAT judges handling these cases.
+
+## **Increasing Resolutions: A Deep Dive into India's IBC**
+
+**Source:** Excerpts from "increasing resolutions.pdf" by Sidharth Sharma  
+**I. The Urgency of Resolution: A Lesson from Lehman Brothers (Paragraphs 1-2)**  
+This section uses the Lehman Brothers bankruptcy as a case study, highlighting the critical need for swift resolution in insolvency cases. It underscores that while fair value is ideal, the rapid decline of a company's worth during insolvency proceedings makes timely resolution paramount.  
+**II. Resolution as the Primary Goal of the IBC (Paragraphs 3-10)**  
+This section establishes the core objective of India's Insolvency and Bankruptcy Code (IBC) – resolution, not just recovery. It emphasizes that rescuing viable businesses and maximizing asset value should take precedence over mere debt recovery. The author criticizes the prevailing recovery-centric discourse surrounding IBC, arguing that it overlooks the law's broader aim of corporate revival. It further substantiates this point with legal precedents from Supreme Court and NCLAT judgments.  
+**III. The Effectiveness of IBC Resolutions: Post-Resolution Performance (Paragraphs 11-14)**  
+This section showcases the positive impact of IBC resolutions. Drawing on research findings, it highlights how resolved firms experience a resurgence in productivity and efficiency, contributing to job creation, capital investments, and optimal resource utilization. The author stresses the need to view CIRP (Corporate Insolvency Resolution Process) from the perspective of all stakeholders, not just creditors.  
+**IV. Delays in CIRP: A Major Obstacle to Successful Resolution (Paragraphs 15-23)**  
+This section identifies delays as a significant impediment to IBC's success. It analyzes the causes of these delays, attributing them to factors like inadequate NCLT capacity, asset marketing challenges, non-cooperation from debtors, and poor documentation practices. The author underscores the detrimental impact of delays on both the value of the corporate debtor and the potential for revival. Statistical data is presented to illustrate the correlation between delays and reduced recovery rates.  
+**V. The Path Forward: Expediting Resolutions and Balancing Interests (Paragraphs 24-27)**  
+This section proposes solutions to enhance IBC's effectiveness. It advocates for bolstering NCLT and NCLAT infrastructure to address judicial delays. The author calls for striking a balance between safeguarding procedural integrity and avoiding excessive focus on equitable considerations that can hinder timely resolutions. The concluding message emphasizes the need for pragmatism, acknowledging that reaching a deal, even if not perfect, is preferable to protracted negotiations leading to no deal at all.
+
+# **FAQ: Increasing Resolutions under the IBC**
+
+**1\. What is the primary goal of the Insolvency and Bankruptcy Code (IBC)?**  
+The primary goal of the IBC is the **resolution** of insolvency, not simply the recovery of debts. This means focusing on reviving and continuing the operations of the corporate debtor (CD), preventing its liquidation and maximizing the value of its assets. Resolution aims to balance the interests of all stakeholders, including creditors, employees, and the economy.  
+**2\. Why is focusing solely on recovery rates a flawed approach when evaluating the IBC's effectiveness?**  
+A recovery-centric approach overlooks the broader objective of preserving viable businesses. While maximizing recovery for creditors is important, the emphasis should be on finding resolutions that allow the CD to continue operating. This benefits employees, preserves economic activity, and often leads to better long-term outcomes for all stakeholders.  
+**3\. What are some of the main causes of delays in the Corporate Insolvency Resolution Process (CIRP)?**  
+Key factors contributing to delays include:
+
+* Inadequate capacity of the National Company Law Tribunal (NCLT).  
+* Difficulties in marketing distressed assets.  
+* Non-cooperation from corporate debtors.  
+* Poor documentation practices within companies.
+
+**4\. How do delays in CIRP negatively impact the resolution process?**  
+Delays erode the value of the distressed CD, making it less attractive to potential resolution applicants. This can lead to:
+
+* Reduced chances of successful resolution.  
+* Lower recovery rates for creditors.  
+* Increased likelihood of liquidation.  
+* Job losses and negative economic consequences.
+
+**5\. What role do creditors play in achieving successful resolutions under the IBC?**  
+Creditors play a crucial role in CIRP as they form the Committee of Creditors (CoC) which has the power to approve or reject resolution plans. Their focus should be on assessing the viability and long-term sustainability of the resolution plan, not just the upfront payment offered.  
+**6\. How can the IBC be strengthened to further promote resolutions?**  
+Several measures can be taken to enhance resolution outcomes:
+
+* Addressing the capacity constraints at the NCLT and NCLAT to expedite the judicial process.  
+* Streamlining the CIRP process to minimize procedural delays.  
+* Encouraging greater creditor participation and fostering a resolution-oriented mindset.
+
+**7\. Is it ever preferable to liquidate a company rather than pursue resolution?**  
+Yes, liquidation can be a better outcome in certain situations. If the CD's business model is fundamentally flawed, if its assets hold little value, or if there is no realistic prospect of revival, liquidation may be the most efficient and pragmatic option.  
+**8\. How does the IBC benefit the overall economy?**  
+By providing a robust framework for resolving insolvency, the IBC promotes:
+
+* Efficient allocation of capital by freeing up resources trapped in non-viable businesses.  
+* Entrepreneurship by allowing businesses to exit and restart.  
+* Availability of credit by instilling greater confidence in lenders.  
+* Job creation and economic growth through the revival of viable companies.

@@ -1,0 +1,128 @@
+====== DUE DILIGENCE ======
+
+Due diligence of assets and investors forms the backbone of successful insolvency resolution under India's Insolvency and Bankruptcy Code (IBC), ensuring value maximization, legal compliance, and systemic trust. This dual verification process mitigates risks for all stakeholders while maintaining the integrity of the resolution ecosystem.
+
+### Asset Due Diligence: Safeguarding Value and Transparency
+1. Verification of Asset Integrity  
+   Asset due diligence confirms the existence, ownership, and condition of a corporate debtor's assets. This includes:  
+   - Physical inspection of properties, machinery, and inventory  
+   - Validation of intellectual property rights and contractual obligations  
+   - Analysis of financial records to identify encumbrances or liens  
+
+   For example, the *Information Memorandum* mandated under Section 29 of the IBC requires Resolution Professionals (RPs) to disclose asset details, enabling investors to assess risks accurately[2][5]. Failure in this process can lead to disputes, as seen in the *Amtek Auto* case where incomplete asset disclosure derailed a resolution[5].
+
+2. Preventing Value Erosion
+   Distressed assets are sold on an "as-is-where-is" basis, leaving buyers with minimal legal recourse[2][7]. Rigorous due diligence:  
+   - Identifies voidable transactions (e.g., preferential transfers under Section 43 IBC)  
+   - Uncovers hidden liabilities like pending litigation or tax dues  
+   - Validates critical contracts (client agreements, supplier terms) to avoid post-acquisition surprises[7]
+
+3. Regulatory Compliance
+   Asset verification ensures adherence to:  
+   - SEBI regulations for listed entities  
+   - RBI guidelines for financial sector assets  
+   - Sector-specific norms (e.g., environmental clearances for industrial properties)  
+
+### Investor Due Diligence: Ensuring Eligibility and Capability
+1. Section 29A Compliance
+   The IBC bars ineligible persons (e.g., willful defaulters, undischarged insolvents) from submitting resolution plans. RPs must:  
+   - Scrutinize investor affidavits and connected persons  
+   - Cross-check with databases like CERSAI and IBBI's defaulters list  
+   - Investigate offshore entities through international legal channels[4]  
+
+   The Supreme Court in *Chitra Sharma v. Union of India* (2018) reinforced that mere self-declarations are insufficient-active verification is mandatory[4].
+
+2. Financial Capacity Assessment
+   Investors must demonstrate:  
+   - Liquidity to fund resolution plans  
+   - Track record in turnaround management  
+   - Alignment with the corporate debtor's operational needs  
+
+   For instance, the *eBKray* platform provides RPs with tools to validate bidder credentials through bank guarantees and audited financial statements[3].
+
+3. Mitigating Strategic Default Risks  
+   Due diligence uncovers:  
+   - History of asset stripping  
+   - Related-party transactions favoring investor groups  
+   - Cross-border ownership structures that could complicate enforcement  
+
+### Interplay in the Resolution Process
+- Pre-Bid Phase: RPs use asset due diligence to create marketing materials, while investor vetting ensures qualified participation[2][9].  
+- Bid Evaluation: Asset verification data enables fair valuation comparisons, while investor checks prevent plan rejection at later stages[4][8].  
+- Post-Approval: Continuous monitoring ensures investors adhere to resolution plan commitments, protecting asset value post-transfer[9].
+
+### Consequences of Inadequate Due Diligence
+- Legal Challenges: Courts have overturned resolutions where material facts were suppressed (*Essar Steel* case).  
+- Recovery Loss: IBBI data shows haircuts exceeding 60% in cases with poor asset verification.  
+- Systemic Distrust: Repeated failures discourage institutional investors, undermining the IBC's market-driven resolution ethos[5][9].
+
+By enforcing rigorous due diligence protocols, the IBC framework transforms distressed assets into viable opportunities while maintaining creditor and investor confidence-a critical balance for India's $5 trillion economy aspirations.
+
+
+# Verification of Eligibility Under Section 29A of the Insolvency and Bankruptcy Code, 2016  
+
+Section 29A of the Insolvency and Bankruptcy Code (IBC), 2016, establishes stringent eligibility criteria for resolution applicants to prevent defaulting promoters, related parties, or individuals implicated in corporate debtor mismanagement from regaining control during insolvency resolution. The provision ensures accountability and protects creditor interests by disqualifying unfit entities. Below is a structured analysis of the verification process and key considerations under Section 29A:  
+
+---
+
+## **Key Disqualifications Under Section 29A**  
+1. **Undischarged Insolvents**[1][15]:  
+   - Individuals or entities undergoing insolvency/liquidation proceedings.  
+2. **Wilful Defaulters**[1][2][7]:  
+   - Classified under RBI guidelines (Banking Regulation Act, 1949).  
+3. **Non-Performing Assets (NPAs)**[1][3][6]:  
+   - Accounts classified as NPAs for ≥1 year, unless dues are cleared before plan submission.  
+4. **Criminal Convictions**[1][7]:  
+   - Convictions for offenses punishable by ≥2 years imprisonment.  
+5. **Directorship Disqualifications**[1][6]:  
+   - Disqualified under Companies Act, 2013.  
+6. **SEBI Prohibitions**[1][7]:  
+   - Barred from securities markets.  
+7. **Fraudulent/Preferential Transactions**[1][7]:  
+   - Promoters/management involved in voidable transactions.  
+8. **Guarantors to Corporate Debtors**[1][7]:  
+   - Executed enforceable guarantees for corporate debtors under insolvency.  
+
+**Connected Persons & Related Parties**[2][7][21]:  
+- Includes holding/subsidiary companies, associates, spouses, relatives, and entities under common control.  
+
+---
+
+## **Due Diligence Process for Eligibility Verification**  
+### **1. Role of the Resolution Professional (RP)**  
+- **Document Review**:  
+  - Scrutinize affidavits, financial statements, criminal records, and director disqualifications[2][7][18].  
+  - Validate NPA status via RBI databases and bank records[6][7].  
+- **Third-Party Checks**:  
+  - Engage agencies to verify wilful default status (CERSAI), SEBI prohibitions, and criminal history[2][6][18].  
+- **Related Party Analysis**:  
+  - Map corporate structures to identify indirect connections (e.g., family ties, cross-directorships)[7][21].  
+
+### **2. Committee of Creditors (CoC) Oversight**  
+- Review RP’s due diligence report and ensure compliance with Section 29A[7][18].  
+- Reject plans if ineligibility is discovered post-approval[14][21].  
+
+### **3. Judicial Precedents**  
+- **Essar Steel Case**: Bidders disqualified for links to defaulting promoters[21].  
+- **Ruchi Soya Case**: Spouse’s familial ties to promoters triggered disqualification[21].  
+- **Jaypee Infratech**: Promoters barred from bidding despite higher settlement offers[21].  
+
+---
+
+## **Challenges in Implementation**  
+- **Broad Definitions**: "Related party" and "acting in concert" create ambiguity, necessitating exhaustive checks[7][21].  
+- **Timelines**: CIRP’s 330-day window pressures RPs to balance thoroughness with efficiency[18][21].  
+- **Retrospective Application**: Amendments apply to ongoing processes, causing disputes[7][21].  
+
+---
+
+## **Recommendations for Robust Verification**  
+1. **Standardized Checklists**: Use templates for document collection (e.g., financial records, director affidavits)[18].  
+2. **Technology Integration**: Leverage AI tools to trace corporate networks and flag related parties[18].  
+3. **Stakeholder Training**: Educate CoC members on red flags (e.g., complex holding structures)[18].  
+4. **Precedent-Based Guidelines**: IBBI should issue clarifications on ambiguous terms (e.g., "control")[7][21].  
+
+---
+
+## **Conclusion**  
+Section 29A serves as a critical safeguard against moral hazard in insolvency resolutions. Effective verification requires collaboration between RPs, CoCs, and regulatory bodies, supported by judicial clarity. While the provision strengthens creditor protections, ongoing refinements are essential to address operational challenges and ensure the IBC’s objective of value maximization.  

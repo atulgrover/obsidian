@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar</title>
+        <description>Insolvency &amp; Bankruptcy Resolution Services</description>
+        <link>https://resolutionbazaar.com/</link>
+        <image rdf:resource="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-03-30T21:23:43+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_a&amp;rev=1743367107&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=start&amp;rev=1743366376&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:due_diligence&amp;rev=1743366306&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:investment_teasers&amp;rev=1743366306&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?image=services%3Aclaims%3Aresolution_process%3Apasted%3A20250330-201613.png&amp;ns=services%3Aclaims%3Aresolution_process%3Apasted&amp;rev=1743365773&amp;tab_details=history&amp;media_do=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_h&amp;rev=1743365609&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_g&amp;rev=1743365599&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_fa&amp;rev=1743365587&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_f&amp;rev=1743365575&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_e&amp;rev=1743365564&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_d&amp;rev=1743365554&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_ca&amp;rev=1743365542&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_c&amp;rev=1743365530&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_b&amp;rev=1743365519&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_ab&amp;rev=1743365501&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_aa&amp;rev=1743365490&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_a_public_announcement&amp;rev=1743365457&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process&amp;rev=1743365444&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:fast_track_process&amp;rev=1743365136&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=services:claims:fast_track_resolution_ciftp&amp;rev=1743365123&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://resolutionbazaar.com/</link>
+        <url>https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_a&amp;rev=1743367107&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:38:27+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_a</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_a&amp;rev=1743367107&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=start&amp;rev=1743366376&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:26:16+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>start - created</title>
+        <link>https://resolutionbazaar.com/doku.php?id=start&amp;rev=1743366376&amp;do=diff</link>
+        <description>Our Services
+PROCESS ADVISORY
+
+INVESTMENT TEASERS
+
+INVESTOR SEARCH
+
+CLAIM SUBMISSION
+
+RESOLUTION PLAN
+
+About Us
+Tel: +91 98140-40900
+resolutionbazaar@gmail.com
+Our Team | Tag Filter</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:due_diligence&amp;rev=1743366306&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:25:06+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>due_diligence - ↷ Page name changed from services:due_diligence to services:investment_teasers</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:due_diligence&amp;rev=1743366306&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:investment_teasers&amp;rev=1743366306&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:25:06+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>investment_teasers - ↷ Page name changed from services:due_diligence to services:investment_teasers</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:investment_teasers&amp;rev=1743366306&amp;do=diff</link>
+        <description>Process  Companies under IBC Processes  CIN #  State  Business LiquidationMILLENNIUM EDUCATION FOUNDATIONU80904DL2014NPL269753DelhiEducationVol.LiquidationPAGONXT MERCHANT SOLUTIONS INDIA PRIVATE LIMITEDU74110MH2019PTC332473MaharashtraOther Business ActivitiesVol.LiquidationTHE BOMBAY BURMAH TRADING EMPLOYEES&#039; WELFARE COMPANY LIMITEDU74999MH1983PLC030940MaharashtraOther Business Activities</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?image=services%3Aclaims%3Aresolution_process%3Apasted%3A20250330-201613.png&amp;ns=services%3Aclaims%3Aresolution_process%3Apasted&amp;rev=1743365773&amp;tab_details=history&amp;media_do=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:16:13+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>20250330-201613.png - created</title>
+        <link>https://resolutionbazaar.com/doku.php?image=services%3Aclaims%3Aresolution_process%3Apasted%3A20250330-201613.png&amp;ns=services%3Aclaims%3Aresolution_process%3Apasted&amp;rev=1743365773&amp;tab_details=history&amp;media_do=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://resolutionbazaar.com/lib/exe/fetch.php?w=500&amp;amp;h=500&amp;amp;tok=6dca10&amp;amp;media=services:claims:resolution_process:pasted:20250330-201613.png&quot; alt=&quot;20250330-201613.png&quot; loading=&quot;lazy&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_h&amp;rev=1743365609&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:13:29+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_h - created</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_h&amp;rev=1743365609&amp;do=diff</link>
+        <description>CIRP Form H - compliance certificate</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_g&amp;rev=1743365599&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:13:19+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_g - created</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_g&amp;rev=1743365599&amp;do=diff</link>
+        <description>CIRP Form G - invitation for EOI</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_fa&amp;rev=1743365587&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:13:07+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_fa - created</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_fa&amp;rev=1743365587&amp;do=diff</link>
+        <description>CIRP Form FA - application for withdrawal of CIRP</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_f&amp;rev=1743365575&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:12:55+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_f - created</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_f&amp;rev=1743365575&amp;do=diff</link>
+        <description>CIRP Form F - proof of claim by Creditors except FC OC</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_e&amp;rev=1743365564&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:12:44+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_e - created</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_e&amp;rev=1743365564&amp;do=diff</link>
+        <description>CIRP Form E - proof of claim by AR to WE</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_d&amp;rev=1743365554&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:12:34+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_d - created</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_d&amp;rev=1743365554&amp;do=diff</link>
+        <description>CIRP Form D - proof of claim by WE</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_ca&amp;rev=1743365542&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:12:22+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_ca - created</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_ca&amp;rev=1743365542&amp;do=diff</link>
+        <description>CIRP Form CA - proof of claim by FC in a Class</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_c&amp;rev=1743365530&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:12:10+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_c - created</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_c&amp;rev=1743365530&amp;do=diff</link>
+        <description>CIRP Form C - proof of claim by FC</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_b&amp;rev=1743365519&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:11:59+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_b - created</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_b&amp;rev=1743365519&amp;do=diff</link>
+        <description>CIRP Form B - proof of claim by OC except Worker Employee</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_ab&amp;rev=1743365501&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:11:41+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_ab - created</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_ab&amp;rev=1743365501&amp;do=diff</link>
+        <description>CIRP Form AB - written consent as AR</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_aa&amp;rev=1743365490&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:11:30+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_aa - created</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_aa&amp;rev=1743365490&amp;do=diff</link>
+        <description>CIRP Form AA - written consent as IP</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_a_public_announcement&amp;rev=1743365457&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:10:57+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_a_public_announcement - removed</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process:cirp_form_a_public_announcement&amp;rev=1743365457&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process&amp;rev=1743365444&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:10:44+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>resolution_process</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:resolution_process&amp;rev=1743365444&amp;do=diff</link>
+        <description>Claim Submission Resolutions (CIRP)
+
+	* CIRP Form A - Public Announcement
+	* CIRP Form AA - written consent as IP
+	* CIRP Form AB - written consent as AR
+	* CIRP Form B - proof of claim by OC except Worker Employee
+	* CIRP Form C - proof of claim by FC
+	* CIRP Form CA - proof of claim by FC in a Class
+	* CIRP Form D - proof of claim by WE</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:fast_track_process&amp;rev=1743365136&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:05:36+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>fast_track_process</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:fast_track_process&amp;rev=1743365136&amp;do=diff</link>
+        <description>Claim Submission Fast Track Resolutions (CIFTP)
+
+	* CIFTP Form A
+	* CIFTP Form B
+	* CIFTP Form C
+	* CIFTP Form D
+	* CIFTP Form E
+	* CIFTP Form F
+	* CIFTP Form G</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=services:claims:fast_track_resolution_ciftp&amp;rev=1743365123&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:05:23+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>fast_track_resolution_ciftp - ↷ Page name changed from services:claims:fast_track_resolution_ciftp to services:claims:fast_track_process</title>
+        <link>https://resolutionbazaar.com/doku.php?id=services:claims:fast_track_resolution_ciftp&amp;rev=1743365123&amp;do=diff</link>
+        <description></description>
+    </item>
+</rdf:RDF>

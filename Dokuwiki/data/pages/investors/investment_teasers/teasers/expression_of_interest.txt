@@ -1,0 +1,55 @@
+====== EXPRESSION OF INTEREST ======
+
+The Expression of Interest (EOI) serves as the foundational step in India’s insolvency resolution framework, ensuring structured participation from credible investors while safeguarding the interests of creditors and stakeholders. Governed by Regulation 36A of the Insolvency and Bankruptcy Board of India (CIRP) Regulations, 2016, the EOI process establishes eligibility, transparency, and competitive bidding.  
+
+## **Key Requirements for EOI Submission**  
+
+### **1. Mandatory Documentation**  
+Potential resolution applicants must submit:  
+- **Cover Letter**: On entity letterhead, declaring intent to participate[1].  
+- **Financial Proofs**:  
+  - For corporates: Audited financial statements for the previous two years (or provisional accounts certified by a CA if audited statements are unavailable)[1].  
+  - For individuals: Income tax returns for the last two financial years[1].  
+- **Net Worth Certificate**: Notarized affidavit verifying net worth (for individuals/body corporates)[1].  
+- **Eligibility Affidavit**: Declaration of compliance with Section 29A of the IBC, confirming no disqualifications (e.g., wilful default, criminal convictions)[1][4].  
+- **Confidentiality Undertaking**: Agreement to protect sensitive information disclosed during the process[3].  
+
+### **2. Submission Protocols**  
+- **Format**: EOIs must follow the prescribed template in Form G, published by the Resolution Professional (RP)[3].  
+- **Channels**: Physical submission via registered post or hand delivery, with a protected PDF copy emailed to the RP[1].  
+- **Deadlines**: Strict adherence to submission timelines, extendable only with Committee of Creditors (CoC) approval[1].  
+
+### **3. Eligibility Verification**  
+- **Section 29A Compliance**: RPs cross-check applicants against RBI’s wilful defaulter list, SEBI prohibitions, and corporate registries to exclude ineligible parties[4].  
+- **Third-Party Validation**: Financial capacity is verified through bank guarantees, AUM certificates (for funds), or auditor certifications[1][4].  
+
+---
+
+## **Strategic Importance of the EOI Process**  
+
+### **1. Ensuring Market-Driven Resolution**  
+- **Wide Participation**: Public advertisements in newspapers and digital platforms (e.g., eBKray) attract diverse investors, fostering competitive bidding[4].  
+- **Value Maximization**: By filtering credible applicants early, the process reduces delays and enhances recovery rates for creditors[3].  
+
+### **2. Regulatory Compliance and Transparency**  
+- **Standardized Framework**: Form G ensures uniformity in disclosing critical details (e.g., insolvency commencement date, RP contact information)[3].  
+- **Fraud Prevention**: Mandatory affidavits and document checks mitigate risks of asset stripping or related-party collusion[1][4].  
+
+### **3. Streamlining Liquidation and Resolution**  
+- **Liquidation Sales**: In liquidation, EOIs help liquidators assess market interest, determine sale modes (auction/private treaty), and shortlist bidders[4].  
+- **Judicial Oversight**: Courts rely on EOIs to validate the fairness of the process, as seen in precedents like *Essar Steel* and *Ruchi Soya*[4].  
+
+### **4. Risk Mitigation**  
+- **Early Elimination of Unqualified Bidders**: Only applicants meeting financial and legal criteria proceed, reducing plan rejection risks at later stages[1].  
+- **Clarity for Investors**: Detailed Information Memorandums (shared post-EOI) enable informed bidding, minimizing post-acquisition disputes[3].  
+
+---
+
+## **EOI in Practice: Case Study Insights**  
+- **Amtek Auto**: Incomplete asset disclosure in EOIs led to prolonged litigation, underscoring the need for rigorous documentation[1].  
+- **NCLT Hyderabad Bench**: Liquidators used EOIs to auction East Coast Energy’s assets, ensuring compliance with Section 35 of the IBC[4].  
+
+---
+
+## **Conclusion**  
+The EOI process is indispensable to India’s insolvency ecosystem, acting as a gatekeeper that balances creditor protection with investor opportunity. By mandating rigorous documentation, eligibility checks, and transparent advertising, it upholds the IBC’s objectives of value maximization and timely resolution. As the distressed asset market evolves, refinements in digital platforms (e.g., NeSL) and standardized checklists will further strengthen this critical mechanism.

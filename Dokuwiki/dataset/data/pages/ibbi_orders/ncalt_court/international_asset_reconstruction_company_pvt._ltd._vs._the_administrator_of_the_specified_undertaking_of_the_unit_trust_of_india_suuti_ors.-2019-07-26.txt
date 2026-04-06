@@ -1,0 +1,34 @@
+<html>
+<p>
+	<p>
+		<p>
+			Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.
+		</p>
+	</p>
+	<h2>
+		National Company Law Appellate Tribunal
+	</h2>
+	<h2>
+		International Asset Reconstruction ... vs The Administrator Of The Specified ... on 26 July, 2019
+	</h2>
+	<p>
+		 NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI Company Appeal (AT) (Insolvency)No. 763 of 2019IN THE MATTER OF:International Asset Reconstruction Company Pvt. Ltd. .....AppellantVs.The Administrator of the SpecifiedUndertaking of the Unit Trust of India(SUUTI) &amp; Ors. ......Respondents O R D E R
+	</p>
+	<p title="Issue" data-structure="Issue">
+		26.07.2019 - The Appellant is one of the 'Financial Creditor' whose grievance is that the Adjudicating Authority admitted application of claim filed by Respondent No. 1 - 'The Administrator of the Specified Undertaking of the Unit Trust of India', after approval of the Plan by the 'Committee of Creditors'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		On hearing, learned counsel for the Appellant, we are of the view that if for one or the other reason before the approval of the plan by the Adjudicating Authority, it is brought to the notice of the Adjudicating Authority that a party could not file its claim, that too, like 'The Administrator of the Specified Undertaking of the Unit Trust of India', who has an entity on behalf of a number of investors, it is always open to the Adjudicating Authority to decide the claim u/s 60(5) of the Insolvency &amp; Bankruptcy Code, 2016 ('I&amp;B' Code, for short), if 'Resolution Professional' (RP) has no jurisdiction to entertain the same.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		...contd.
+	</p>
+	 2
+	<p title="Conclusion" data-structure="Conclusion">
+		For the said reason, we are not inclined to interfere with the impugned order dated 5th July, 2019. The appeal is dismissed. No costs.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		[Justice S. J. Mukhopadhaya] Chairperson [Justice A. I. S. Cheema] Member (Judicial) [Kanthi Narahari] Member (Technical) ss/sk Company Appeal (AT) (Insolvency)No. 763 of 2019
+	</p>
+</p>
+</html>

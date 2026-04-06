@@ -1,0 +1,126 @@
+<html>
+<div>
+	<h1>
+		Erstwhile Demand Notice issue u/s 8 of IBC cannot be treated as a valid Demand Notice for filing fresh petition u/s 9 where earlier petition was dismissed as withdrawn and the date of default and amount are also different &ndash; Willis Lease Finance Corporation v. SpiceJet Ltd. &ndash; NCLT New Delhi Bench Court-V
+	</h1>
+	<div>
+		December 14, 2023
+	</div>
+	<p>
+		NCLT New Delhi Bench Court-V held that (i) On bare perusal of Section 5 (21) of IBC, it is clear that &lsquo;Operational Debt&rsquo; is a claim in respect of provision of goods or services which should be based on a contract duly entered between the Corporate Debtor and the Operational Creditor. Moreover, it is settled law that an Operational Creditor is a person to whom an operational debt is owed. (ii) Under definitions in Section 5(20) &ldquo;operational creditor means a person to whom an operational debt is owed and includes any person to whom such debt has been legally assigned or transferred&rdquo;. (iii) Section 8 (1) of IBC provides that an Operational Creditor is required to deliver a demand notice for unpaid operational debt and the same is sine qua non for filing and maintaining petition under Section 9 of the IBC. However, in the instant case WLFC had issued a Demand Notice pursuant to which a petition was filed and it was &ldquo;dismissed as withdrawn&rdquo;. In the instant case, no fresh Demand Notice was issued by WLFC to SpiceJet, and WLFC in the present Petition is relying on its erstwhile Demand Notice and the demand notice cannot be treated as a valid Demand notice for the alleged debt amount.
+	</p>
+</div>
+<div>
+	<p>
+		<strong>
+			 IN THE NATIONAL COMPANY LAW TRIBUNAL
+		</strong>
+		<br />
+		 Court-V, New Delhi
+	</p>
+	<p>
+		<strong>
+			 Willi Lease Finance Corporation
+		</strong>
+		<br />
+		 v.
+		<br />
+		<strong>
+			 SpiceJet Ltd.
+		</strong>
+	</p>
+	<p>
+		Company Petition-IB No. 249/(ND)/2023
+		<br />
+		 Decided on 04-Dec-23
+	</p>
+	<p>
+		<em>
+			 Coram: Shri Mahendra Khandelwal (Judicial Member) and Shri Rahul Prasad Bhatnagar (Technical Member)
+		</em>
+	</p>
+	<p>
+		<strong>
+			 Add. Info:
+		</strong>
+	</p>
+	<p>
+		<em>
+			 Corporate Debtor:
+		</em>
+		 SpiceJet Ltd.
+	</p>
+	<p>
+		<em>
+			 Operational Creditor:
+		</em>
+		 Willis Lease Finance Corporation
+	</p>
+	<p>
+		<em>
+			 Present for the Applicant
+		</em>
+		 : Mr. Virendra Ganda, Sr. Adv. with Mr. Ashim Sood, Mr. Rajendra, Ms. Priyanka Shetty, Ms. Ambareen Mujawar, Ms. Aakansha Mathur, Ms. Tanya, Advs.
+	</p>
+	<p>
+		<em>
+			 Present for the Respondent
+		</em>
+		 : Mr. Krishnendu Datta, Sr. Adv. with Mr. Sanjay Gupta, Ms. Sharmistha Ghosh, Mr. Kushagra Kaul, Mr. Rajat Sinha, Advs.
+	</p>
+	<hr />
+	<p>
+		<strong>
+			 Brief about the decision:
+		</strong>
+	</p>
+	<p>
+		This is an Application filed under Section 9 of the Insolvency and Bankruptcy Code, 2016 by Willis Lease Finance Corporation (Operational Creditor) duly authorized by its Board for initiation of CIRP against SpiceJet Limited. (Corporate Debtor).
+	</p>
+	<p>
+		The claims of the Applicant is based upon the Lease Agreement and invoices issued by the Lessors of the following Lease Agreement, namely (i) Willis Lease (Ireland) Limited; (ii) WEST III Engines (Ireland) Limited; (iii) West IV Engines (Ireland) Limited; and (iv) West V Engines (Ireland) Limited (previously known as Willis Engine Securitization (Ireland) Limited) (hereinafter referred to as the &ldquo;Lessors&rdquo;) with respect to various lease agreements with the Corporate Debtor i.e. SpiceJet Limited.&nbsp;
+	</p>
+	<p>
+		In order to analyze that whether the present petition is maintainable, we have to see whether the Applicant in the instant case, is operational creditor within the meaning of IBC, 2016. The term Operational Creditor and Operational Debt are defined under Section 5(20) and Section 5(21) of the Code.
+	</p>
+	<p>
+		None of the Lease Agreement, was executed by the Applicant and no invoices were issued by the instant Applicant.
+	</p>
+	<p>
+		On perusal of each Lease Agreements, it is evident that each Agreement is independently executed between the Lessors and the Corporate Debtor in the instant case.&nbsp;
+	</p>
+	<p>
+		It is observed that the invoices were issued by the Lessors to SpiceJet Limited, and not by WLFC (Applicant) to SpiceJet Limited (Corporate Debtor). The Learned Counsel for the Applicant has stressed during the oral arguments, that the name of the instant Applicant i.e. WLFC is mentioned in each invoices. However, on perusal of the invoice (Pg. 1019), it can be seen that the name of the Lessor in the said invoice is Willis Lease (Ireland) Limited, which is not the Applicant in the instant case. In the same invoices, it is written that WLFC (instant applicant), is the Servicer. Therefore, the debt is owed to the Lessors and not to the instant Applicant.
+	</p>
+	<p>
+		In light of the aforementioned clauses of the respective Lease Agreements executed between SpiceJet Limited and different Lessors, it can be concluded that the amount was due and payable to the respective Lessors and not the Applicant in the instant case. On bare perusal of Section 5 (21) of IBC, it is clear that &lsquo;Operational Debt&rsquo; is a claim in respect of provision of goods or services which should be based on a contract duly entered between the Corporate Debtor and the Operational Creditor. Moreover, it is settled law that an Operational Creditor is a person to whom an operational debt is owed. However, in the instant case, there was no debt owed to WLFC, which is evident from the perusal of the Lease Agreements and Part IV of the petition itself states that the debt is due and payable under various lease agreements, which was executed by different lessors.
+	</p>
+	<p>
+		Additionally, under definitions in Section 5(20) &ldquo;operational creditor means a person to whom an operational debt is owed and includes any person to whom such debt has been legally assigned or transferred&rdquo;. However, in the instant case, neither the operational debt is owed to the instant applicant, nor it has been legally assigned or transferred to the instant applicant. The Applicant in the instant case does not have any direct contractual agreement with SpiceJet as neither any goods or services have been provided by WLFC to SpiceJet nor there is any contractual relationship between the parties. WLFC itself admits in the Petition that it is only the Servicer and Administrative Agent of the respective lessors and has inter-se arrangement with lessors in form of &lsquo;Servicing Agreements&rsquo;. Also, the Corporate Debtor in the instant case is not a party to such Servicing Agreements. Therefore, it is undisputedly concluded that the Applicant is not a &lsquo;Operational Creditor&rsquo; in the instant case.
+	</p>
+	<p>
+		Further, the Applicant in the instant case has relied upon Lease Termination and Forbearance Agreement dated 10 June 2022, wherein the Applicant attempted to show that there is a privity of contract between the Applicant and the Respondent in the instant case. However, on perusal of the same, it is evident that the said document was never executed between the parties. The same is evidenced by the fact that there are no signatures on behalf of WLFC on the said document as can be seen at Pg. 978, Volume VI of Petition. Therefore, in the absence of privity of contract between the Applicant and the Respondent, it cannot be contended that an operational debt is owed to SpiceJet, as held by Hon&rsquo;ble NCLAT in Harrish Khurana v. One World Realtech (P) Ltd. [2021 SCC OnLine NCLAT 5547.
+	</p>
+	<p>
+		Therefore, we observe that WLFC has has no locus, to file the instant application, as there is no privity of contract between WLFC and SpiceJet Limited.
+	</p>
+	<p>
+		Further, with respect to the contention of the Corporate Debtor that the instant application is not maintainable in law as no Demand Notice was issued under Section 8 of the IBC, it is pertinent to note that Section 8 (1) of IBC provides that an Operational Creditor is required to deliver a demand notice for unpaid operational debt and the same is sine qua non for filing and maintaining petition under Section 9 of the IBC. However, in the instant case WLFC had issued a Demand Notice dated 04&nbsp;November 2022 pursuant to which a petition was filed bearing CP IB No. 121 of 2023&nbsp;and it was &ldquo;dismissed as withdrawn&rdquo; by the Adjudicating Authority vide order dated&nbsp;02 March 2023.
+	</p>
+	<p>
+		In the instant case, after the passing of Order Dated 02 March,2023, no fresh Demand Notice was issued by WLFC to SpiceJet, and WLFC in the present Petition is relying on its erstwhile Demand Notice of 04 November 2022. In light of the same, the amount claimed and the date of default in the Demand Notice of 04 November 2022 and amount claimed and date of default in the present Petition are different.
+	</p>
+	<p>
+		Therefore, in view of the aforesaid observation, the demand notice dated 04 November 2022, cannot be treated as a valid Demand notice for the alleged debt amount, which is claimed by WLFC in the present petition. Therefore, the Demand Notice being relied upon by WLFC is defective and not a proper Demand Notice for the purposes of IBC. Therefore, the contention of the Applicant with this regard, does not stand substantiated.
+	</p>
+	<p>
+		Further, the contention made by the Applicant in its written submission and oral arguments, with respect to issue as to necessity of filing pleadings by Spicejet (Corporate Debtor), i.e. no party should be permitted to participate in proceedings, without first furnishing pleadings or affidavits setting out the case advanced.
+	</p>
+	<p>
+		However, in this regard, this Adjudicating Authority is of the view that, this application is being analyzed on a prima facie issue, i.e. on the issue of maintainability of Section 9 petition. The Civil Procedure Code in its strict sense is not applicable under the present case and only the principle underlying therein may be applied wherever necessary. However, for the limited purpose of deciding preliminary issue of maintainability, no fruitful purpose would be served, by seeking written response, from the Corporate Debtor, when the application is at the stage of maintainability, i.e. whether the Applicant, is an Operational Creditor under the provisions of IBC or not. Therefore, principle of Nandkishore Lalbhai Mehta v. New Era Fabrics (P) Ltd., (2015) 9 SCC 755, is not strictly applicable in the instant case.
+	</p>
+	<p>
+		According, this Adjudicating Authority is of the view that the present application filed by Willis Lease Finance Corporation (Operational Creditor), under p 9 of the Code read with rule 6(1) of the Insolvency &amp; Bankruptcy (Application to Adjudicating Authority) Rules, 2016 for initiating CIRP against SpiceJet Limited (&lsquo;Corporate Debtor&rsquo;), lacks merit, is not maintainable and therefore stands dismissed without costs. We have only examined the issue of maintainability of present application under Section 9 and we have not expressed any opinion in respect of the bonafide/interest of the claim referred to and necessary recourse regarding such claim may be taken in appropriate court/forum in accordance with law.
+	</p>
+</div>
+</html>

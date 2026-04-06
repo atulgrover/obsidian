@@ -1,0 +1,120 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Financial Planning and Restructuring Agent (FPRA)&quot;,
+&quot;agentDescription&quot;: &quot;Provides personalized financial planning insights and analyzes personal financial restructuring strategies for Personal Guarantors (PGs) facing potential liability from Corporate Debtor (CD) defaults. Helps PGs manage personal finances effectively, understand options, and work towards financial stability amidst the insolvency proceedings. *This agent provides planning support and generalized strategies; it does not constitute specific regulated financial or investment advice.*&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Analyze the PG&#039;s comprehensive personal financial situation (income, expenses, assets, liabilities).&quot;,
+  &quot;Develop personalized budget plans and cash flow forecasts to manage finances under potential stress.&quot;,
+  &quot;Identify potential areas for expense reduction or income enhancement.&quot;,
+  &quot;Evaluate and explain various *concepts* for personal debt management and restructuring (e.g., consolidation approaches, prioritization strategies).&quot;,
+  &quot;Model the short-term and long-term financial impact of potential guarantee liability materialization.&quot;,
+  &quot;Simulate the potential effects of different personal financial strategies (e.g., debt repayment acceleration, building emergency funds).&quot;,
+  &quot;Provide actionable, personalized recommendations (within informational bounds) for improving financial resilience.&quot;,
+  &quot;Guide PGs towards financial stability and facilitate informed decision-making with their professional advisors.&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Personal Financial Health Assessment: Analyzes budget adherence, savings rate, personal debt ratios, net worth trajectory.&quot;,
+  &quot;Budgeting &amp; Cash Flow Planning Tools: Offers templates, tracking capabilities, and forecasting based on PG&#039;s data.&quot;,
+  &quot;Expense Optimization Analysis: Categorizes expenses and highlights areas for potential discretionary spending reduction.&quot;,
+  &quot;Personal Debt Management Strategy Module: Explains concepts like debt snowball/avalanche, explores *types* of consolidation options (e.g., implications of using different loan types - directs to advisors for specifics).&quot;,
+  &quot;Liquidity &amp; Emergency Fund Planning: Assesses current liquidity and models paths to building adequate buffers.&quot;,
+  &quot;Financial Goal Setting Interface: Allows PGs to define financial objectives (e.g., maintain essential expenses, preserve specific assets, rebuild savings).&quot;,
+  &quot;Impact Simulation Engine: Models the effect of guarantee payments, income changes, or restructuring actions on future cash flow and net worth.&quot;,
+  &quot;Personalized Recommendation Engine: Suggests general financial best practices tailored to the PG&#039;s situation (e.g., &#039;Prioritize high-interest personal debt reduction&#039;, &#039;Build 3-month emergency fund&#039;, &#039;*Consult financial advisor* on investment strategy&#039;).&quot;,
+  &quot;Educational Content Delivery: Provides clear explanations of relevant financial planning concepts.&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Personal Guarantors to Corporate Debtors&quot;,
+  &quot;Financial Planners/Advisors working with Personal Guarantors&quot;,
+  &quot;Credit Counselors assisting Personal Guarantors&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Comprehensive Personal Financial Data (likely from PLAA or direct input): Assets, Liabilities, Detailed Income sources, Categorized Expenses/Budget.&quot;,
+  &quot;Assessed Potential Liability (from PLAA).&quot;,
+  &quot;Potential Settlement Scenarios (from CNSA or user input).&quot;,
+  &quot;PG&#039;s stated financial priorities or constraints.&quot;,
+  &quot;Information on existing personal loan terms (rates, maturity).&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Personalized Financial Plan / Strategy Document (PDF, HTML).&quot;,
+  &quot;Detailed Budget Analysis and Recommendations.&quot;,
+  &quot;Cash Flow Projections under various scenarios.&quot;,
+  &quot;Personal Debt Management Strategy Options Report (Explaining Concepts).&quot;,
+  &quot;Simulation Results (Net Worth projection, Liquidity forecast).&quot;,
+  &quot;Actionable List of Recommendations (heavy emphasis on consulting advisors).&quot;,
+  &quot;Personal Financial Dashboard (Visualizing health, goals, progress).&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Provides PGs with a clear picture of their personal financial situation and path forward.&quot;,
+  &quot;Offers concrete, actionable steps for managing personal finances during a high-stress period.&quot;,
+  &quot;Empowers PGs to have more productive discussions with financial advisors.&quot;,
+  &quot;Helps PGs regain a sense of control over their personal finances.&quot;,
+  &quot;Supports development of realistic budgets and savings goals.&quot;,
+  &quot;Clarifies the potential impact of different choices on long-term financial stability.&quot;,
+  &quot;Facilitates proactive financial management rather than reactive responses.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Data Acquisition &amp; Integration&quot;,
+    &quot;tools&quot;: [
+      &quot;Secure Data Input Interfaces (Web Forms, File Uploads)&quot;,
+      &quot;API Clients / DB Connectors (to integrate with PLAA, CNSA outputs if possible)&quot;,
+      &quot;Spreadsheet Processing Libraries (Pandas)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Financial Planning &amp; Modeling&quot;,
+    &quot;tools&quot;: [
+      &quot;Data Manipulation Libraries (Pandas, NumPy)&quot;,
+      &quot;Financial Calculation Libraries (e.g., NumPy Financial)&quot;,
+      &quot;Custom Scripting (Python, R) for budgeting logic, cash flow forecasting, simulations&quot;,
+      &quot;Goal Programming / Optimization Libraries (Optional)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Recommendation Engine&quot;,
+    &quot;tools&quot;: [
+      &quot;Rule-Based Systems&quot;,
+      &quot;Personalization Algorithms (if sophistication increases)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Educational Content&quot;,
+    &quot;tools&quot;: [
+      &quot;Content Management System Integration or DB storage&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Storage (Secure)&quot;,
+    &quot;tools&quot;: [
+      &quot;Encrypted Databases (for personal financial data, plans, goals)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Security &amp; Privacy (Paramount)&quot;,
+    &quot;tools&quot;: [
+      &quot;As per PLAA: Strong Authentication, Authorization, Encryption, Privacy Compliance&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Reporting &amp; Visualization&quot;,
+    &quot;tools&quot;: [
+      &quot;Reporting Libraries (ReportLab, FPDF)&quot;,
+      &quot;Data Visualization Libraries (Matplotlib, Seaborn, Plotly, Chart.js)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;User Interface&quot;,
+    &quot;tools&quot;: [
+      &quot;Secure Web Frameworks (Flask, Django, React, Angular)&quot;
+    ]
+  }
+]</pre>
+
+<p>
+}
+</p>

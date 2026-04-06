@@ -1,0 +1,102 @@
+~~NOTOC~~
+
+<WRAP group>
+<WRAP column 31%>
+==== IBC General ====
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_gen_prelim_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_gen_misc_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_gen_insp_reg]]  
+
+</WRAP>
+
+<WRAP column 31%>
+==== Guarantor-Resolution (PGIRP) ====
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_pgirp_reg]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_pgirp_rules:ibc_pgirp_rules]] 
+
+</WRAP>
+
+<WRAP column 31%>
+==== Guarantor-Bankruptcy (PGIBP) ====
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_pgibp_reg]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_pgibp_rules:ibc_pgibp_rules]] 
+</WRAP>
+
+</WRAP>
+
+----------------
+
+<WRAP group>
+<WRAP column 31%>
+==== Individual General ====
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_ilaw_penal_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_ilaw_nclt_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_ilaw_prelim_sec]] 
+</WRAP>
+
+<WRAP column 31%>
+==== Individual-Resolution (IIRP) ====
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_iirp_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_ifsp_sec]] 
+</WRAP>
+
+<WRAP column 31%>
+==== Individual-Bankruptcy (IIBP) ====
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_iibp_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_iema_sec]] 
+</WRAP>
+
+</WRAP>
+
+
+----------------
+
+
+<WRAP group>
+
+<WRAP column 31%>
+==== Corporate General ====
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_claw_penal_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_claw_nclt_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_claw_prelim_sec]] 
+</WRAP>
+
+<WRAP column 31%> 
+==== Corp-Resolution (CIRP) ====
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_cirp_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_cirp_reg]] 
+</WRAP>
+
+<WRAP column 31%>
+==== Corp-Liquidation (CILP) ====
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_cilp_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_cilp_reg]] 
+</WRAP>
+
+</WRAP>
+
+
+----------------
+
+
+<WRAP group>
+
+<WRAP column 31%>
+==== Corp-Vol-Liquidation (CIVLP) ====
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_civlp_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_civlp_reg]] 
+</WRAP>
+
+<WRAP column 31%>
+==== Fast-Track (CIFTP) ====
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_ciftp_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_ciftp_reg]] 
+</WRAP>
+
+<WRAP column 31%>
+==== Pre-Pack (CIPPP) ====
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_cippp_sec]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_cippp_reg]] 
+  * [[rbz_datasets:insolvency_chatbot:laws_insolvency_act:ibc_cippp_rules:ibc_cippp_rules]] 
+</WRAP>
+</WRAP>

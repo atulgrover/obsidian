@@ -1,0 +1,28 @@
+~~NOTOC~~
+<aichat button float>Welcome, How can I help your with information on Companies under insolvency processes? </aichat>
+
+<WRAP column 99%>
+====== Agentic Services for Committee of Creditors ======
+
+**CREDITOR COMMITTEES** - The Committee of Creditors (CoC) is formed by financial creditors and plays a pivotal role in CIRP. It evaluates resolution plans, monitors the insolvency professional’s actions, and ensures decisions align with value maximization and fairness. The CoC serves as the final authority on accepting or rejecting resolution plans. Committee of Creditors plays a central role in the insolvency resolution process, and AI-driven agents can significantly enhance their operations. These agents manage communication, documentation, and voting logistics for CoC members, ensuring that all stakeholders are well-informed and aligned throughout the process. By automating routine tasks such as summarizing agendas, circulating evaluation matrices, and recording decisions digitally, AI agents help streamline CoC activities, reducing administrative burdens and enhancing efficiency.
+</WRAP>
+
+<WRAP column 75%>
+
+  * **Voting and Decision Support Agent (VDSA)** - This agent facilitates eVoting processes for the CoC, ensuring secure, transparent, and weighted voting based on creditors' financial stakes. It provides real-time updates on voting outcomes and supports decision-making by analyzing voting patterns. \\
+  * **Financial Information Management Agent (FIMA)** - Manages and analyzes financial data provided by the resolution professional, ensuring that all stakeholders have access to accurate and up-to-date information. It helps in evaluating the financial health of the corporate debtor. \\
+  * **Resolution Plan Evaluation Agent (RPEA)** - Assesses proposed resolution plans by analyzing financial projections, feasibility, and potential risks. It provides data-driven insights to support the CoC's decision-making process. \\
+  * **Communication and Collaboration Agent (CCA)** - Facilitates communication among CoC members, the resolution professional, and other stakeholders, ensuring that all parties are informed and aligned throughout the process. It automates routine updates and notifications. \\
+  * **Risk Assessment and Mitigation Agent (RAMA)** - Identifies potential risks associated with different resolution plans and suggests strategies for mitigation. It helps in evaluating the likelihood of successful restructuring or liquidation. \\
+  * **Regulatory Compliance and Reporting Agent (RCRA)** - Ensures that all actions taken by the CoC comply with legal requirements under the IBC. It automates the preparation of reports and submissions to regulatory bodies like the NCLT. \\
+  * **Asset Valuation and Optimization Agent (AVOA)** - Provides insights into the valuation of assets under consideration for sale or restructuring, helping the CoC make informed decisions about asset utilization. \\
+  * **Monitoring and Oversight Agent (MOA)** - Assists the Monitoring Committee in tracking the implementation of the resolution plan, ensuring that milestones are met and corrective actions are taken when necessary. It provides real-time updates on progress and compliance.
+
+</WRAP>
+
+<WRAP column 21%>
+{{wiki:lexai1.png?200}}\\
+/**
+[[request_forms:valuer_forms|{{wiki:request_demo.jpg?200}}]]
+**/
+</WRAP>

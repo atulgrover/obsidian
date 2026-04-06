@@ -1,0 +1,7 @@
+4. Agenda Management Agent
+
+The Agenda Management Agent helps structure the flow of mediation or arbitration sessions by preparing and circulating detailed agendas in advance. It ensures that all relevant issues, documents, and procedural items are listed in an organized sequence aligned with the case’s objectives and stage.
+
+The agent compiles input from parties, mediators, and counsels to build a balanced and time-efficient agenda. It can dynamically update session plans based on new submissions, interim developments, or settlement progress, maintaining flexibility without losing procedural order.
+
+During and after the session, the agent records action points, pending issues, and agreed deliverables. It generates follow-up agendas and summaries, helping participants stay focused on resolution milestones. This systematic approach improves engagement, documentation quality, and overall process discipline in mediation or arbitration proceedings.

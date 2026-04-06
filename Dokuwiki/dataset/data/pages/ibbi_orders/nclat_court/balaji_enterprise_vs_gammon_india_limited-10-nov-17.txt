@@ -1,0 +1,71 @@
+<html>
+<div>
+	<h2>
+		National Company Law Appellate Tribunal
+	</h2>
+	<h2>
+		Balaji Enterprise vs Gammon India Limited &amp; Ors on 10 November, 2017
+	</h2>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL NEW DELHI Company Appeal (AT) (Insolvency) No. 168 of 2017IN THE MATTER OF:Balaji Enterprise .. AppellantVersusGammon India Limited &amp; Ors. .. RespondentsPresent:For Appellant: Shri Hareesh Shah and Shri Sanjay Ruia Chartered AccountantFor Respondents: Shri Rudraweshwar Pratap Singh, Shri Prashan Kumar, Mrs. Awantika Manohar and Aniruddh Singh Advocates ORDER
+	</p>
+	<p title="Issue" data-structure="Issue">
+		10.11.2017 Appellant (Operational Creditor) filed an application under Section 9 of the Insolvency and Bankruptcy Code, 2016 (I&amp;B Code) for initiation of a Corporate Resolution Process against the Respondent-Gamon India Limited. Learned Adjudicating Authority - (National Company Law Tribunal), Mumbai Bench, Mumbai by impugned order dated 19.07.2017 dismissed the application with the following observations:
+	</p>
+	<p title="Issue">
+		"6. Admittedly the Operational Creditor has initiated Arbitration proceedings on 5.1.2017 by issuing notice to the Corporate Debtor for referring the dispute to Arbitration under Section 21 of the Arbitration and Conciliation Act, 1996. Hence it is abundantly clear that before the issue of Demand Notice under Section 8(2) the Operational Creditor initiated arbitration proceedings. The only contention of the 1 Operational Creditor in respect of initiation of arbitration proceedings is that the Corporate Debtor as required under Section 8(2) of the Code has neither brought to the notice of the Operational Creditor the existence of pendency of any suit or arbitration proceedings filed nor repaid the debt. These Arbitration proceedings is not initiated by the Corporate Debtor but by the Operational Creditor. Hence the contention of the Operational Creditor defies the logic as if the Operational Creditor is unaware of the arbitration proceedings. Since arbitration proceedings already initiated is pending, the same will attract the provisions of Section 5(6) of the IB Code, which provides that:
+	</p>
+	<p title="Issue">
+		"dispute" includes a suit or arbitration proceedings relating to:-
+	</p>
+	<p title="Issue">
+		(a) The existence of the amount of debt;
+	</p>
+	<p title="Issue">
+		(b) The quality of goods or service; or
+	</p>
+	<p title="Issue">
+		(c) The breach of a repsentation or warranty:
+	</p>
+	<p title="Issue">
+		7. The Operational Creditor Counsel argued that initiation of arbitration proceedings cannot be taken as arbitration proceedings filed since neither arbitrator was appointed nor any claim was filed before the Arbitrator. The Counsel for the Corporate Debtor cited many decisions in support of its claim that the arbitral proceedings in respect of a particular dispute commenced on the date on which a request for the dispute would be referred to arbitration is received by the Respondent. The following are the decisions:
+	</p>
+	<p title="Issue">
+		(a) State of Goa Vs. Pravin Enterprises (2012) SCC 581 - to say that Section 21 of the Act provides that the arbitration proceedings shall be deemed to commence on the date on which a request for the dispute to be referred to arbitration is received by the Respondent.
+	</p>
+	<p title="Issue">
+		(b) Milkfood Ltd. Vs. GMC Icecream Pvt. Ltd. Reported in 2004 (7) SCC 288 - wherein it was held that service of notice for appointment of an Arbitrator would be relevant date for the purpose of commencement of arbitration proceedings.
+	</p>
+	2
+	<p title="Issue">
+		(c) H. Candolker &amp; Sons, Civil Engineer and Contractors Vs. Union of India through Secretary, Government of India, Ministry of Communication and Ors. Reported in Manu/MH/1417/2009 wherein the Hon'ble Supme Court has held that service of notice for appointment of an arbitrator would be relevant date for the purpose of commencement of Arbitration proceedings.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		8. The Hon'ble National Company Law Appellate Tribunal in the matter of Kirusa Software Pvt. Ltd. Vs. Mobilex Innovations Pvt. Ltd. held that the dispute in Insolvency and Bankruptcy must relate to specified nature in clause (a), (b) or (c) of sub-Section 6 of Section 5 of the Code. Accordingly, the case on hand herein squarely falls under section 5(6) of the Code in view of the dispute relating to the existence of debt."
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		Learned Counsel appearing on behalf of the Appellant submits that the Respondents having refused to go for arbitration cannot take advantage of the Section 21 of the Arbitration and Conciliation Act, 1996. It is only after the rejection of the Application under Section 9 of the I &amp; B Code, the Respondents has now agreed for arbitration proceeding.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		It is further submitted that the Application under Section 9 of the I &amp; B Code was filed with regard to default pursuant to different agreements. In one of the agreements while there is a clause of arbitration, in the other agreement there is no such clause of arbitration and therefore in respect to the other agreement, advantage of Section 21 of the Arbitration and Conciliation Act, 1996 cannot be taken.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		However, we find that the aforesaid plea was not taken by the Appellant before the Adjudicating Authority.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		3
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		According to the Counsel for the Respondents clause for arbitration exists in both the agreements. However, such disputed question of facts cannot be determined in this appeal particularly the Appellant or the Respondents having not taken such plea before the Adjudicating Authority.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		While we are not inclined to interfere with the impugned order dated 19th July, 2017 passed by the Adjudicating Authority in view of the proper appciation of law i.e. Section 21 of the Arbitration and Conciliation Act, 1996, as per which the Arbitration proceeding commence on the date request for the dispute to be referred to arbitration is received by the Respondent, we give liberty to the Appellant to move before appropriate forum, in respect to any agreement if there is no clause of agreement and arbitration proceeding has not commenced.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		With the aforesaid observation the appeal stands disposed of. However, in the facts and circumstances, there shall be no orders as to cost.
+	</p>
+	<p title="Conclusion">
+		[Justice S.J. Mukhopadhaya] Chairperson[Justice A.I.S. Cheema] [Balvinder Singh]Member (Judicial) Member (Technical)/akc/uv 4
+	</p>
+</div>
+</html>

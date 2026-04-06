@@ -1,0 +1,82 @@
+<html>
+<div>
+	<h1>
+		Whether a Stock Broker Company registered with SEBI is a Financial Service Provider under IBC? &ndash; M/s Bezel Stockbrokers Pvt. Ltd. Vs. Security Exchange Board of India &ndash; NCLT New Delhi Bench Court-II
+	</h1>
+	<div>
+		August 11, 2023
+	</div>
+	<p>
+		NCLT New Delhi Bench Court-II held that: (i) On perusal of the definitions u/s 3(16), 3(15), 3(37) of IBC and Section 2 of the Securities Contracts (Regulation) Act, 1956, it is observed that Shares, Scrips, Stocks, Bonds, Debentures, Debenture Stocks etc., are included under the term &ldquo;Securities&rdquo;. Hence, the same can also be treated as a &ldquo;Financial Product&rdquo; as defined under Section 3(15) of IBC, 2016. (ii) Since Corporate Applicant, being a stock broker, was dealing in the activities of buying, selling, or dealing in securities etc., which in terms of Section 3(15) of IBC 2016 are a &ldquo;Financial Product&rdquo; belonging to another person. Hence, in terms of Section 3(16) of IBC 2016, the Corporate Applicant was providing &ldquo;Financial Service&rdquo; or in other words, it was a &ldquo;Financial Service Provider&rdquo;. (iii) Stock Broker Company is a &ldquo;Financial Service Provider&rdquo;. Since the Corporate Applicant Company being a &ldquo;Financial Service Provider&rdquo; is outside the purview of the definition of a &ldquo;Corporate Person&rdquo; as defined under Section 3(7) of IBC 2016 and therefore, is not a &ldquo;Corporate Debtor&rdquo; in terms of Section 3(8) of IBC, 2016, the instant application is not maintainable.
+	</p>
+</div>
+<div>
+	<div>
+		<div>
+			<div>
+				<div>
+					<p>
+						<strong>
+							 I. Case Reference
+						</strong>
+					</p>
+					Case Citation:(2023) 434 NCLTCase Name:Bezel Stockbrokers Pvt. Ltd. Vs. SEBICorporate Debtor:Bezel Stockbrokers Pvt. Ltd.Application/Appeal No.:Company Petition No. (IB)-251(ND)/2021Judgment Date:02-Aug-23Court/Bench:NCLT New Delhi Bench Court-IIMember (Judicial):Shri Ashok Kumar BhardwajMember (Technical):Shri L.N. Gupta
+					<p>
+						<strong>
+							 II. Brief about the decision
+						</strong>
+					</p>
+					<p>
+						<em>
+							<strong>
+								 Facts of the case
+							</strong>
+						</em>
+					</p>
+					<ul>
+						<li>
+							M/s Bezel Stockbrokers Private Limited (Corporate Applicant/Corporate Debtor) has filed the present application under Section 10 of the IBC 2016 with a prayer to initiate the Corporate Insolvency Resolution Process against it.
+						</li>
+						<li>
+							It is stated by the Corporate Applicant that it is a stock broker company incorporated under the Companies Act, 1956 registered with ROC Delhi. The Corporate Applicant has also been registered with the Securities and Exchange Board of India (SEBI) under (Stock Brokers and Sub-Brokers) Regulations, 1992.
+						</li>
+						<li>
+							It has been carrying on the business as a stock broker/proprietary trading member/clearing member for carrying on the activities of buying, selling, or dealing in securities/ clearing and settlement of trades and for carrying on such other activities as are permitted by stock exchange(s)/clearing corporation, subject to the conditions specified therefor, from time to time, by the Board since June 2019.
+						</li>
+					</ul>
+					<p>
+						<em>
+							<strong>
+								 Decision of the Adjudicating Authority
+							</strong>
+						</em>
+					</p>
+					<p>
+						Applicant is a stock Broker Company duly registered with SEBI. Thus, the issue that emerges from the submissions of the parties is &ldquo;Whether a Stock Broker Company is a Financial Service Provider?.
+					</p>
+					<p>
+						The Adjudicating Authority held that:
+					</p>
+					<ul>
+						<li>
+							On perusal of the definitions u/s 3(16), 3(15), 3(37) of IBC and Section 2 of the Securities Contracts (Regulation) Act, 1956, it is observed that Shares, Scrips, Stocks, Bonds, Debentures, Debenture Stocks etc., are included under the term &ldquo;Securities&rdquo;. Hence, the same can also be treated as a &ldquo;Financial Product&rdquo; as defined under Section 3(15) of IBC, 2016.
+						</li>
+						<li>
+							Since Corporate Applicant, being a stock broker, was dealing in the activities&nbsp;of buying, selling, or dealing in securities etc., which in terms of Section 3(15) of IBC 2016 are a &ldquo;Financial Product&rdquo; belonging to another person. Hence, in terms of Section 3(16) of IBC 2016, the Corporate Applicant was providing &ldquo;Financial Service&rdquo; or in other words, it was a &ldquo;Financial Service Provider&rdquo;.
+						</li>
+						<li>
+							Additionally, the Corporate Applicant was also registered with SEBI under the provisions of the SEBI Act read with SEBI (Stock Brokers and Sub-brokers) Regulations, 1992. Since, in terms of Section 3(18) of IBC 2016, SEBI is a &ldquo;Financial Sector Regulator&rdquo;, hence it can be concluded that the Corporate Applicant Company, being a &ldquo;Financial Service Provider&rdquo; was registered with and was subject to control and supervision of SEBI &ndash; the &ldquo;Financial Sector Regulator&rdquo;.
+						</li>
+					</ul>
+					<p>
+						The Adjudicating Authority concluded that the Applicant/Stock Broker Company is a &ldquo;Financial Service Provider&rdquo;. Since the Corporate Applicant Company being a &ldquo;Financial Service Provider&rdquo; is outside the purview of the definition of a &ldquo;Corporate Person&rdquo; as defined under Section 3(7) of IBC 2016 and therefore, is not a &ldquo;Corporate Debtor&rdquo; in terms of Section 3(8) of IBC, 2016, the instant application is not maintainable by or against it for the purpose of initiating the CIRP. The application is accordingly Dismissed.
+						<strong>
+							 (p16-21)
+						</strong>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</html>

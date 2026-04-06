@@ -1,0 +1,200 @@
+====== JSON Data Usage Demo ======
+
+
+===== Example JSON data =====
+<code javascript>
+<json path=person> {
+    "firstName": "James",
+    "lastName": "Smith",
+    "email": "james.smith@example.com|Salesman email address",
+    "age": 30,
+    "motorcycles": false,
+    "cars": [
+        { "name":"Ford", "url": "https://ford.com", "models": [ "Fiesta", "Focus", "Mustang" ] },
+        { "name":"BMW", "url": "https://bmw.com", "models": [ "320", "X3", "X5" ] },
+        { "name":"Fiat", "url": "https://fiat.com", "models": [ "500", "Panda" ] }
+    ]
+}</json>
+</code>
+<json path=person> {
+    "firstName": "James",
+    "lastName": "Smith",
+    "email": "james.smith@example.com|Salesman email address",
+    "age": 30,
+    "motorcycles": false,
+    "cars": [
+        { "name":"Ford", "url": "https://ford.com", "models": [ "Fiesta", "Focus", "Mustang" ] },
+        { "name":"BMW", "url": "https://bmw.com", "models": [ "320", "X3", "X5" ] },
+        { "name":"Fiat", "url": "https://fiat.com", "models": [ "500", "Panda" ] }
+    ]
+}</json>
+
+
+===== Extract text =====
+Basic extractor syntax: ''%%%$ ... %%%''
+
+<code>
+%$person.firstName% %$person.lastName% sells cars.
+</code>
+%$person.firstName% %$person.lastName% sells cars.
+
+<code>
+person.middleName: **%$person.middleName%**. person.cars: **%$person.cars%**. person.cars.1.models: **%$person.cars.1.models%**.
+</code>
+person.middleName: **%$person.middleName%**. person.cars: **%$person.cars%**. person.cars.1.models: **%$person.cars.1.models%**.
+
+
+===== Filter =====
+Basic syntax: ''%%%$ ... ( ... )%%%''
+
+Variable will be displayed, if filter evaluates to true.
+
+<code>
+This person is older than 40: %$person.firstName(person.age>40)%. This person is younger than 40: %$person.firstName(person.age<=40)%.
+</code>
+This person is older than 40: %$person.firstName(person.age>40)%. This person is younger than 40: %$person.firstName(person.age<=40)%.
+
+
+===== Format =====
+Basic syntax: ''%%%$ ... # ... #%%%''
+
+Variable may be rendered in one of the following formats: code, header, link, email, media, rss or ejs.
+
+<code>
+%$person.cars.1.models #code#%
+</code>
+%$person.cars.1.models #code#%
+
+<code>
+%$person.email #email#%
+</code>
+Email: %$person.email #email#%
+
+To use [[https://ejs.co/|Embedded JavaScript templating]] first enable it in the configuration settings.
+<code>
+%$person.firstName #ejs?<$=d.toUpperCase()$>#%
+</code>
+
+In upper case: %$person.firstName #ejs?<$=d.toUpperCase()$>#%
+
+
+===== Extract list =====
+==== List of all properties ====
+Syntax: ''%%%$ ... {}%%%''
+
+Empty curly brackets lists all properties of the variable.
+<code>
+%$person{}%
+</code>
+%$person{}%
+
+==== Partial list ====
+Syntax: ''%%%$ ... { ... }%%%''
+
+Curly brackets may contain pairs with header description linked to path.
+<code>
+%$person{"First name":firstName, "Age":age, "Main car":cars.0.name, "Not existing":middleName}%
+</code>
+%$person{"First name":firstName, "Age":age, "Main car":cars.0.name, "Not existing":middleName}%
+
+==== Format specific member ====
+Syntax: ''%%%$ ... { ... } # ... #%%%''
+
+Format must contain pairs with header description linked to format.
+<code>
+%$person{"First name":firstName, "Email address":email, "Main car":cars.0.name} #"Email address":email#%
+</code>
+%$person{"First name":firstName, "Email address":email, "Main car":cars.0.name} #"Email address":email#%
+
+
+===== Extract table =====
+==== Simple table ====
+Syntax: ''%%%$ ... []%%%''
+
+If variable is simple double array, it can be displayed, if square brackets are added after the variable. Table has no header. If variable is not well formed, table may show unpredictable results.
+<code>
+%$person.cars[]%
+</code>
+%$person.cars[]%
+
+To generate table header automatically add empty curly brackets.
+<code>
+%$person.cars[]{}%
+</code>
+%$person.cars[]{}%
+
+==== Table with specified header ====
+Syntax: ''%%%$ ... []{ ... }%%%''
+
+Curly brackets contain pairs with header name and path for each column.
+<code>
+%$person.cars[]{"Name":name, "Model 1":models.0, "Model 2":models.1, "Model 3":models.2}%
+</code>
+%$person.cars[]{"Name":name, "Model 1":models.0, "Model 2":models.1, "Model 3":models.2}%
+
+==== Table with row filter ====
+Syntax: ''%%%$ ... [( ... )]{ ... }%%%''
+
+Filter rules may be added inside brackets inside square brackets. Each row will be checked against filter.
+
+<code>
+%$person.cars[(name > b and name <= fiat)]{"Name":name, "Model 1":models.0, "Model 2":models.1, "Model 3":models.2}%
+</code>
+%$person.cars[(name > b and name <= fiat)]{"Name":name, "Model 1":models.0, "Model 2":models.1, "Model 3":models.2}%
+
+==== Table with column format ====
+Syntax: ''%%%$ ... []{ ... } # ... #%%%''
+
+Format must contain pairs with header description linked to format.
+
+<code>
+%$person.cars[]{"Name":name, "Webpage":url, "Models":models, "Number of models":models} #Webpage:link, "Number of models":ejs?<$=d.length$>#%
+</code>
+%$person.cars[]{"Name":name, "Webpage":url, "Models":models, "Number of models":models} #Webpage:link, "Number of models":ejs?<$=d.length$>#%
+
+
+===== Show or Hide sections =====
+Show contents only, if it matches [[json_plugin#filters|filter]] inside brackets. Syntax: ''%%%$-start ( ... )% ... %$end%%%''
+<code>
+%$-start (person.cars)%
+==== Section about Cars ====
+This section should **be visible**.
+%$end%
+</code>
+
+%$-start (person.cars)%
+==== Section about Cars ====
+
+This section should **be visible**.
+%$end%
+
+
+<code>
+%$-start (person.motorcycles)%
+==== Section about Motorcycles ====
+This section should not be visible.
+
+Not even in TOC.
+%$end%
+</code>
+
+%$-start (person.motorcycles)%
+==== Section about Motorcycles ====
+This section should not be visible.
+
+Not even in TOC.
+%$end%
+
+
+===== Show or Hide inline text =====
+Mind extra ''i'' in ''%%%$-start%%''**''i''**'' ( ... )% ... %%%$%%end%'' for inline text.
+<code>
+He sells
+%$-starti (person.cars)%**Cars**%$end%
+%$-starti (person.cars and person.motorcycles)% and %$end%
+%$-starti (person.motorcycles)%**Motorcycles**%$end%.
+</code>
+He sells
+%$-starti (person.cars)%**Cars**%$end%
+%$-starti (person.cars and person.motorcycles)% and %$end%
+%$-starti (person.motorcycles)%**Motorcycles**%$end%.

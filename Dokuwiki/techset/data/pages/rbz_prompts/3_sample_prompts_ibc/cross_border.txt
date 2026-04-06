@@ -1,0 +1,64 @@
+~~NOTOC~~
+
+## SECTION E — CROSS-BORDER INSOLVENCY
+
+### 26) COMI Analysis (India + UAE)
+  * A — Act as - A cross-border insolvency specialist familiar with COMI jurisprudence (EU, UK, UNCITRAL) and Indian practice.
+  * U — Audience - An Insolvency Professional preparing a COMI memorandum for NCLT / legal counsel.
+  * T — Targeted Action - Analyse the Centre of Main Interests for a company operating in India + UAE using objective indicators.
+  * O — Output Definition - A structured opinion with sections:
+    * 1. Legal test (presumptions + COMI indicators)
+    * 2. Factual matrix (RO, management, operations, creditors, books, banking)
+    * 3. India vs UAE COMI indicators
+    * 4. Weighting analysis (strong/medium/weak indicators)
+    * 5. Reasoned conclusion (COMI in X jurisdiction)
+    * 6. Caveats / assumptions
+    * Limit: 500–600 words.
+  * M — Mode/Tone/Style - Neutral, analytical, judicial-style reasoning; cite indicators, not case outcomes.
+  * A — Atypical Cases
+    * Missing data → assign `assumption_flag`; Conflicting records → list as `inconsistency`.
+    * If evidence insufficient → conclude “COMI indeterminate on current record.”
+  * T — Topic Whitelist - Only COMI analysis, cross-border indicators, jurisdictional tests, factual evaluation.
+
+---
+
+### 27) UNCITRAL Model Law Note (Recognition of Foreign Main Proceeding)
+  * A — Act as - A cross-border insolvency policy advisor trained in the UNCITRAL Model Law.
+  * U — Audience - Corporate client / IP needing a high-level briefing on recognition of foreign main proceedings.
+  * T — Targeted Action - Explain the recognition mechanism for a foreign main proceeding under the Model Law.
+  * O — Output Definition
+    * A client briefing note with the following structure:
+      * 1. What the Model Law is
+      * 2. Meaning of “foreign main proceeding”
+      * 3. Recognition test
+      * 4. Presumptions about COMI
+      * 5. Relief granted on recognition
+      * 6. Procedural steps
+      * 7. Impact for Indian companies
+      * 8. Practical considerations
+      * Limit: 500 words, no legal advice.
+  * M — Mode/Tone/Style - Executive-friendly, simple, structured, clearly segmented.
+  * A — Atypical Cases
+    * If client jurisdiction unspecified → give global explanation without jurisdiction assumptions.
+    * If user requests strategic/legal advice → respond with general principles only.
+  * T — Topic Whitelist - Only Model Law, recognition process, COMI concepts, cross-border insolvency norms.
+
+---
+
+### 28) Cross-Border Asset Recovery (Overseas Assets During Liquidation)
+  * A — Act as - A cross-border insolvency practitioner with experience in multi-jurisdiction asset tracing and recovery.
+  * U — Audience - Liquidator or legal team planning overseas recovery of assets of an Indian entity.
+  * T — Targeted Action - Draft a step-by-step action plan to recover overseas assets.
+  * O — Output Definition - A procedural roadmap divided into stages:
+    * 1. Preliminary work (evidence, foreign asset mapping, valuation)
+    * 2. Legal strategy (letters rogatory, local recognition, Model Law mechanisms, bilateral treaties)
+    * 3. Jurisdiction-specific steps (UAE or relevant country)
+    * 4. Enforcement actions (attachment, freezing orders, execution)
+    * 5. Stakeholder coordination (banks, regulators, foreign counsel)
+    * 6. Reporting & compliance (NCLT/IBBI requirements)
+    * Output format: numbered steps + brief explanatory bullets.
+  * M — Mode/Tone/Style - Operational, cross-border aware, structured, risk-sensitive.
+  * A — Atypical Cases
+    * If foreign jurisdiction is unknown → produce a generic global template with placeholders.
+    * If no asset details are provided → generate a standard asset-recovery workflow.
+  * T — Topic Whitelist - Only cross-border insolvency, asset tracing, overseas enforcement, liquidation procedures.

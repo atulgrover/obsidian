@@ -1,0 +1,27 @@
+~~NOTOC~~
+<aichat button float>Welcome, How can I help your with information on Companies under insolvency processes? </aichat>
+
+<WRAP column 99%>
+====== Agents for Valuers ======
+**REGISTERED VALUERS** - Registered valuers assess the fair market value of a corporate debtor’s assets during CIRP. Their valuations guide resolution plans and liquidation strategies to ensure transparency and accountability in asset disposition. 
+</WRAP>
+
+<WRAP column 75%>
+
+  * **[[insolvency_agents:agents:valuer_agents:avia|Asset Valuation Intelligence Agent (AVIA)]]** - This agent uses machine learning models to analyze market trends, historical data, and comparable assets to provide accurate and real-time valuations of tangible and intangible assets. \\ \\
+  * **[[insolvency_agents:agents:valuer_agents:mdaa|Market Data Aggregator Agent (MDAA)]]** - Aggregates and analyzes market data from multiple sources, including stock exchanges, real estate listings, and commodity markets, to provide insights into current market conditions affecting asset values. \\ \\
+  * **[[insolvency_agents:agents:valuer_agents:fsaa|Financial Statement Analyzer Agent (FSAA)]]** - Automates the review of financial statements, identifying discrepancies, trends, and key metrics that impact the valuation of businesses or assets. \\ \\
+  * **[[insolvency_agents:agents:valuer_agents:raa|Risk Assessment Agent (RAA)]]** - Evaluates potential risks associated with an asset or business by analyzing factors like market volatility, legal disputes, and operational challenges. \\ \\
+  * **[[insolvency_agents:agents:valuer_agents:caa|Comparable Analysis Agent (CAA)]]** - Conducts automated comparable analysis by identifying similar assets or businesses in the market and benchmarking their value against the subject property or company. \\ \\
+  * **[[insolvency_agents:agents:valuer_agents:ssa|Scenario Simulation Agent (SSA)]]** - Simulates various economic or operational scenarios to predict how changes in external factors (e.g., interest rates, inflation) might impact the value of an asset. \\ \\
+  * **[[insolvency_agents:agents:valuer_agents:lcda|Legal Compliance and Documentation Agent (LCDA)]]** - Ensures all valuation reports meet regulatory compliance standards by cross-referencing legal requirements and automating documentation processes. \\ \\
+  * **[[insolvency_agents:agents:valuer_agents:iava|Intangible Asset Valuation Agent (IAVA)]]** - Specializes in valuing intellectual property, goodwill, patents, trademarks, and other intangible assets using advanced algorithms and industry-specific benchmarks. \\ \\
+  * **[[insolvency_agents:agents:valuer_agents:dcia|Data Cleansing and Integration Agent (DCIA)]]** - Prepares datasets by cleaning, integrating, and organizing financial and operational data to ensure accuracy in valuation models. \\ \\
+  * **[[insolvency_agents:agents:valuer_agents:vrga|Valuation Report Generator Agent (VRGA)]]** - Automates the creation of comprehensive valuation reports with detailed analysis, charts, and justifications based on inputs from other AI agents.
+
+</WRAP>
+
+<WRAP column 21%>
+{{wiki:lexai1.png}}\\
+[[request_forms:valuer_forms|{{wiki:request_demo.jpg}}]]
+</WRAP>

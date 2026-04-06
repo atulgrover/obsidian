@@ -1,0 +1,266 @@
+# Use of Technology in IBC Ecosystem
+![](https://img.youtube.com/vi/9y48wNjDE7Y/hqdefault.jpg)
+2 years ago (Oct 10, 2022) — 30:03
+[https://youtube.com/watch?v=9y48wNjDE7Y](https://youtube.com/watch?v=9y48wNjDE7Y)
+
+
+## Summary
+Welcome to the discussion on the use of technology in the IBC (Insolvency and Bankruptcy Code) ecosystem. The IBC has four pillars: Insolvency and Bankruptcy Board of India, adjudicating authorities, information utility, and insolvency professionals. Technology plays a crucial role in each of these pillars. The Information Utility (IU) is a technologically-driven institution where complete information flows automatically from Financial Creditors to the IU and is disseminated to different stakeholders. Adjudicating authorities have developed a technology-driven platform for online documentation and case proceedings. The Insolvency and Bankruptcy Board of India (IBBI) uses technology for online filings and information sharing with Insolvency Professionals (IPs). IPs are provided with a digital platform to manage multiple processes and regulatory filings. IBBI has also implemented PDAs (Platform for Distress Assets) for distress asset management, including auction platforms for efficient price discovery. The IBC has transformed the life cycle of a company, incorporating technology for data capture and management at different stages.
+
+## Introduction
+0:16
+Thank you, foreign assistant general manager. 
+
+
+## Agenda
+1:02
+We welcome you all and today we'll be discussing on how technology will help Ibis ecosystem and how it is useful in interecosys Ibis ecosystem. So I'll now Take It Forward how the roadmap of this presentation will look like. So first we will introduce on how the IBC has been formed, the various background history of IBC and what are the objectives and how it is implemented at ibbi level. 
+
+1:32
+And further, what are the roles of technology in ibbi and how it has been helpful to all stakeholders of ibbi. Now I hand over to Sri Rahul Khanna to have a detailed background and brief of IBC and insolvency bankruptcy Board of India Board of India. 
+
+
+## Background
+1:52
+Today we are going to have a discussion about the use of technology in IBC ecosystem. 
+
+1:58
+Over a period of years, the we have seen the company's creditors, debtors, lenders and insolvencies have been insolvences have been treated along with the law of land at that point of time, and the laws have been improved over a period of time from depending upon the gaps in the existing laws. 
+
+2:21
+In 2016 in solvency and bankruptcy code was introduced to plug the gaps within the previous legal system and to have a shift in fundamental approach towards insolvency, along with the improvements that are visible on the screen that earlier laws used to take more time. The recovery was low. The information on symmetry was there. A lot of legal disputes used to happen. This was catered to. 
+
+2:47
+This was identified and try to cater to in the new ecosystem. 
+
+
+## Market Driven Resolution
+2:53
+so in the next slide in the we would see that this how this law is different. This is actually a market driven resolution approach where all the players will be having equal information as well as it is a time bound approach that anything and everything has a timeline, so that the process is completed well in time, because the earlier the resolution, the better the realization of the Assets Now. Ah, we'll discuss about this in the next slide in detail. IBC has emphasized four pillars. 
+
+3:28
+The four pillars are insolvency and bankruptcy, Board of India, adjudicating authorities, information, utility and insolvency professionals. If we start with the first point, that insolvency starts with the default, if the default is there, only then the company can be taken into insolvency. So the first pillar of the insolvency IBC is IU. 
+
+3:52
+The code has any site, IU as the one technologically driven institution where the complete information flow happens automatically from Financial creditors to the IU and disseminated to different stakeholders, like if default is there has to be debt the all the information about the debt Forum Financial creditors goes to IU automatically and that is that needs to be authenticated and once the default happens, that also in that information it flows to from fsis to IU automatically. 
+
+4:30
+Financial creditors passed on that information Tech through technology to install information utility and that information is being authenticated from the different stakeholders and that provides us the record of default. that record of default can be easily downloaded and can be produced, used into the court of laws to prove that the default has been there and the insert insolvency proceedings should be started towards that. 
+
+4:56
+Now coming to the second pillar, adjudicating authorities, one of the most important pillar, the, because the regulatory guidelines are being run through them. So adjudicating authorities. Ncerts have developed their technology driven platform, e code system, where all the documentation can be done online at any point of time and there's no Foundation of physical location. So it can be done from anywhere and the status of cases, the proceedings results can be seen online. 
+
+5:25
+Only now coming to insolvency and bankruptcy Board of India, ibbi, since ibbi is the regulator for IPs insolvency professionals. So and all the information that IBA gets most of it is through IP. I'll be defining them along side by side. 
+
+5:43
+So Insurgency professionals is the person who is going to handle the full insolvency process during that timeline and it has the responsibility to maintain the delicate balance between upholding the interest of different stakeholders, compliance with the rules as well as running the company as a going concern. So it's a very delicate balance during that IPS run multiple processes as simultaneously, so it has to be very. 
+
+6:14
+It is very pertinent that those professionals are provided with the digital platform so that they can do. they need not spend their time in regulatory filing, a physical filing as well as doing different process ah core otherwise other than what is required from them in terms of the resolution. 
+
+6:35
+So all the filings that IP needs to do to ibbi is online, rather the full process, starting from the registration of the professional to the fee payment to the filing and every other thing is online and the information is passed on to ibbi. Now the information that IP provides is in two categories. One is the process related information which is confidential that is available to IP only. 
+
+7:02
+The other information that IP provides is in the which is not non confidential type and in the interest of different stakeholders, so that information is once it is provided to I IP I IBB. Ibba uses it for the benefit of different stakeholders. I will give you an example. Whenever an applicant wants to file an insolvency proceeding against a CD, he on that entity the applicant has to file one form, IEEE intimation of application. 
+
+7:34
+As soon as that form is filed, the IBB gets that information. That information flows to IU. IU, since having a very good integration with all the apps is passes on that information to all the financial creditors. All the financial creditor is related to that CD. 
+
+7:53
+So the all the financial creditor gets to know that status of the CD that it has defaulted, whether to them or to other people, so they can firm up their cost of action. This is a very recent development. Earlier what used to happen is when an insolvency application is admitted to the ncert and the company goes into sales therapy. At that point of time that information used to be disseminated. 
+
+8:17
+But now, in order to have the better timing of the information dissemination, this is this has been developed that as soon as intimation comes to Highway that information flows to are you and different Financial creditors now coming to the second aspect, as soon as the company gets admitted to insolvement carp through nclt. So IP has to do Public Announcement. 
+
+8:42
+That Public Announcement requires that all the creditors, all the stakeholders in the for the CD, has to put their information and start their course of action. So as soon as the Public Announcement happens, I P within three days maximum. 
+
+9:00
+Timeline is three days provides that information to IBB and as soon as that information is provided to ibway, IB Bank circulates that information to all the subscribers of its website at the end of the day, so everyone gets to know that the this company has been admitted to ncit and we need to file claims or do whatever the action that we need to take. 
+
+9:23
+So all the workmen, all the so this information flows to all the information provided by IU is FS and this information is for general public. so everyone gets to know now the claim, which is a very important aspect of the whole process, the claim admission. As per the regulation, IP has to file the claims digitally once it is verified. 
+
+9:45
+So as soon as the claims are filed to ibbi by IP, that list is being put up on the website of ibbi and everyone can go there and see whether their claims have been admitted, rejected or whatever has happened and take the necessary course of action. So the information is quite transparent, is easily available and is centrally available. So that is how the technology is being used in different aspects. 
+
+10:11
+Now coming to IP has multiple processes being run at the same time. so when IP has to be assisted with technology in other aspects also apart from regulatory filing. Also whenever a company gets admitted into insolvency. Whenever a company weakens in terms of its Financial there is, there are only two aspects to it. The end result is one is restructuring and change of management. 
+
+10:37
+The other is the company gets liquidated assets got sold and it goes closed. So in both of the three things the earlier principles that we talked about, the code that it is a market driven process, time bound and same level of information has to be there with all the stakeholders. Now this is for this one for any efficient market to work, so that the multiple players come. Efficient Market has three rules. 
+
+11:06
+One is the low cost of transaction. information should be there and multiple players should be there so that the market to function efficiently. Now coming to that factor, ibbi has impended two pdas platform for distress assets which on which IP can run its full process, starting from inviting the claim in, starting from inviting claims to invite invitation of resolution plan and even evaluation of those resolution plane digitally. 
+
+11:37
+The data in is in these pdas are execute the data is both the data in transit and data interest. Both are encrypted and is available to the only relevant stakeholders only to which the access is provided. Now these PDFs have these videos also have liquidation platform, so these are single platforms. These are the platform where all the auctions can happen. 
+
+12:02
+Ibbi is also in the process of paneling more auction platforms because the all the stakeholders can come at that place and that market can have multiple place and efficient price Discovery can happen in terms of distance assets also, so the ah coming to this one and now we will be seeing the life cycle of a company. Earlier the life cycle of a company was incorporation, success, success of the business, Decline and closing. 
+
+12:31
+But now with the introduction of I IBC, what used to happen is that company After Decline gets into carp and there is change of management over a proper resolution after proper resolution, the company will is being run by the different entity and can go into growth phase in terms of Technology. what we identify here is technology is all about data, so data is being captured at different stages in different formats. 
+
+13:02
+Ah, most of the data has been captured in different formats to different regulators and some of the data is not available presently. But the more data that we can collect from the system, the more helpful it is it is going to be to different stakeholders. Now I'll pass on the presentation to my colleague, Mr pankaj. 
+
+
+## IBC Technology
+13:23
+Yeah, welcome once again. 
+
+13:25
+So thank you, SRI Rahul Khanna ji for having a good Insight on IBC the how the background was, how it's implemented and how it has been fruitful to all the stakeholders. So thank you. Now I'll take forward this presentations to the technology front, which is our main core topic. 
+
+13:43
+So how we have exactly taken this IBC into complete digitization, so as of now all the processes, like certainly 99 99 of the processes are digitized in our IBB ecosystem and how it's fruitful and fueling the growth of Ibis ecosystem. So let's have a look. So there are basically three types of stakeholders which you can see in this presentation. One is regular. Second is intermittent. Third is internal. 
+
+14:11
+So we get flows of inflows and data and information or whatever is the suggestions from all these stakeholders. So like suppose we say what is regular type of stakeholder? So these are the core stakeholders, which is insolvency professionals or registered values, or information utility or insolvency professional agencies. so what happens whenever this? 
+
+14:34
+People operate on their website or on their processes and While submitting any form, if they feel like any, there is any suggestion or something is there. So they come up with us and they have a mechanism with us to inflow the ideas, the data processes by which we improve our website and the processes involved digitally. The second one is intermittent stakeholder. These are the complainants and researchers, data Seekers and public. 
+
+15:03
+So while we get complaints from other stakeholders, so which is general public and also like other data Seekers also, we get some information. So this day to day activities whatever we get on the portal, we get it scrutinized and we get it converted into more refined form of version of website. 
+
+15:23
+So that's why you can see like our website is completely you know, technologically core of IBC where in which all the processors are running on 100 digitalized mode. The third internal stakeholder is internal divisions of ibbi. 
+
+15:37
+Whenever we form any regulation, we for many act when we form any circular so that's get implemented in the internal system of ibbi, which is also digitized at present level.coming to the next slide, so I'll just give you a brief overview what all our ibba website is all about. 
+
+
+## IBC Website
+15:56
+So our website has a what's new section. 
+
+15:59
+So this is the most important section whenever we come up with any regulation, any act, any circular, any order, so any document which needs to be disseminated through website. So that comes into this what's new section. so this what's new section also has one subscription, quality, this subscription thing which can be subscribed and suppose if something some input is coming to that section. 
+
+16:23
+So this will be disseminated to all the stakeholders who have subscribed, and at present we are having around 6.000 subscribers to our website. The second one is legal framework. This will be detailed in the next slide. 
+
+16:36
+Media, events, resources, publication, so all the media and resources whatever we have with respect to IBS ecosystem, all are published and well maintained in the respective repositories of our website, which is in the home page of our website, orders, public comments and discussion papers. 
+
+16:53
+So while we in a year or so we come up with around 10 to 12 discussion papers which are floated to Normal public for the suggestions for suggestions for Quality improvements for various other purposes. Whenever we receive this kind of comments, we get it filter, we get it like we rooted through internal approvals and then we make necessary changes in circulars or any of the act or regulations. 
+
+17:19
+So this is how our ibbi website and home page looks all about, which is data Centric. All the all the data and all the data with respect to ib6 ecosystem is epicentered and well maintained in our ibbi website and this IBB website is also bilingual. Last one is academicians corner, so suppose somebody is wanted. Somebody wants to apply for any internship or so like activities in ibbr. they can also apply from online mode. 
+
+17:53
+So that's what I was speaking about. Legal framework. So whenever there's, since IBB is a statutory body and legal body, so whenever we get any acts, regulations, rules, so circulars or notifications or guidelines, so this is well disseminated through this Channel, and this is very this has a searchable engine also which can be sorted and searched through date or subject. 
+
+
+## Knowledge Repository
+18:16
+So this is the right now. 
+
+18:18
+This is the knowledge repository on our web portal, where in which we cover media coverage. That is, all the newspaper articles in our Ibis ecosystem are well mannered and date wise selected and have been published in our website. So at present we are having more than 1.000 of media coverage. So there are press releases, median newsletters, other Publications and annual reports. 
+
+18:44
+Everything is published on the publication section of our website, while resources section covers speeches, reports, videos, articles, interviews and video lectures. This is this is a essential. This is essential database for any of the stakeholder which goes through and learns activity like how the IBC and IBB is improving or what are the updates on the IBB ecosystem. 
+
+19:12
+These are the forms which are available in the download section, where in which all the stakeholders can make good use of all these forms while filling, while preparing the draft section or anything else. So this is the unique feature of our website that is role based login. 
+
+
+## Role Based Login
+19:30
+So role based login is something you can enter your username and password and you will have a different view. all together. 
+
+19:37
+As we all know, like IBC has lot many processes and lot many compliances to do so we have made all these role based logins for all these stakeholders. So starting with insolvency professionals. So insolvency professionals are the core of any CRP process which runs the company, which runs the CD, which manages the claims stakeholders and all Associated things in IBC. 
+
+20:00
+So whenever I in insolvency professional logins through this window in our website which is readily available. So he can fill various CRP forms. He can fill consent form. He can feel IEEE form. He can have claims register. He can publish any announcement, Public Announcement. He can give forms here that is expression of interest for inviting resolution plans and Etc. 
+
+20:24
+So this is a one window, one window login for IPs, where in which he can comply and do everything. He can also manage his cprs, which is a professional education thing which he has to carry mandatory. Second, one is the insolvency professional agencies. As we all know, like IBC is like one of the pillar is insolvency professional agencies. So whenever any insolvency professional gets registered himself through any mechanism. 
+
+20:52
+So this gets floated through insolvency professional agencies. So we have made all like digitize all these processes. The internal mechanism processes suppose any IP applies for registration. So this first will go to insolvency professional agencies. They will scrutinize this applications and based on the Merit they will. This applications will come up with the internal mechanism that is ibba. Third one is registered values. 
+
+21:18
+At present we are having around 5000 registered values with us, so same is the process. That's also single window login. They can register themselves and through our view, this application comes to ibbi ecosystem for scrutiny, verification and finally registration and dissemination of certificates, complaints and grievances any complaints and grievances, like any outside stakeholder who is not happy or is having any grievance and incomplete with respect to any stakeholder. 
+
+21:47
+So he can just register himself in the same website that is ibb gb dot in and he can raise the complaint to the stakeholder and this and the complaint gets resolved within the stipulated timeline. Internal staff of ibbi so, as we all know, like IBC, has a process as mentioned by SRI Rahul Khanna ji. There are four pillars. 
+
+22:08
+So whenever any stakeholder is applying for any registration or any application, so that gets floated through IPA and ultimately it comes to ibbf or internal processes. So this internal compliances are done on the same website, although we have a different role based module over here and this gets managed and all the applications, all the registered applications are get scrutinized and well maintained and finally we disseminate the information on our website whoever whosoever gets registered with ibbi. Nclt is a unique feature. So whenever any case gets admitted. 
+
+22:44
+So NCT has a list of all IPS and whatever IP is doing suppose any IPS from this state. This city is having this much of experience. This he is having so many of cpers, which is the main essential thing. so and facility has a One login window by which they can check all the details of Ip and they can shortlist any IP for any corporate data. 
+
+23:07
+Last one is employee corner, so employee corner is used for recreation activities and leave balances and all other activities with respect to HR and administration of ibbi going forward. 
+
+
+## Performance of IPS
+23:21
+So this is analytics about performance of ips, since in our Ibis ecosystem the main important role is how IP is selected and how IP will perform. 
+
+23:32
+The stronger the IP, the well behaved, the well professional, the IPS, the well resolution, the resolution, the high resolution chances of that corporate data is high. So in this presentation you can actually see this is also placed on our front page of our website. this performance of ips window enables like we can get all the information of ips, his history, his AFA, his membership and his details of assignments. 
+
+24:02
+We can also get, like year wise assignments, what he has done and how many types of assignment he has carried and in which capacity has carried. We also show some diagram, some joke, some diagramic view of this. Presentations of all this data we have. We have a good view on this on our website. So single point of information CD suppose somebody wants to have any information about CD that is corporate data. 
+
+24:29
+So when it is, when it is listed? When it is admitted? What are the orders Associated and what all are the informations, such as in when the form G is published? When the Public Announcement is done? what is the summary of outcomes? What are the auction notices related to it? So everything is published in this single point of information that is Corporate processes. 
+
+24:50
+So we have also got recently got new IP filter list which enables you can, for any segment, for any industry, you can search IPS based upon how the industry is, with respect to in which city he resides, and Etc. So this enables all the stakeholders, especially Banks and nbfcs, whosoever is admitting any corporate data he can select IEP in a will be in a well determined manner. 
+
+25:14
+So if he wants to have some something from oil and gas sector or something from XYZ sector, he can select IPS from this sector using this portal of using this mechanism of our portal, so moving towards safeguards of technology in ibba. 
+
+
+## safeguards of technology
+25:32
+so since ibbi is a statutory organization, is a statutory body. 
+
+25:36
+So we have got all this technology and website implemented on a NIC driven platform, that is that is a web application fiber for sorry web application firewall and VPN. So all our resources and all our access to the website is well managed and well secured through security connections only, so nobody from outside can enter into the website. 
+
+26:01
+Servers are running in master and slave technology, so whenever any user is trying to log in and Suppose there are multiple array of users on the same time and same date. So suppose if there is any load. So in order to have a load balancer system we have we have got a master's latex slave technology. so the load will shift and there is no way like our website will crash down at any point in time. 
+
+26:27
+Authentications of forms are submitted by stakeholder of by stakeholders by e sync and DSC. So this includes, like they are authenticated e sign is available. Other maintained portal and process flow visibility to all the stakeholders. Email confirmation of forms is sent whenever any form is submitted by any IP for any compliance issues. So all the forms are emailed to them at the same instance. 
+
+26:51
+To have a safeguard of Technology, SMS authentication is made suppose if any form is being modified. Anything is done by any IP to have a second mode of authentication. We have done a SMS integration of all our platforms. so SMS has been hit to his registered mobile number and digital payments. All are payments and processes are digitized 100 digitized at present and we are using payment Gateway for this coming to the last leg of our presentation. 
+
+
+## future of IBC
+27:18
+So this is a our future of ibbi website. So at present we are working on data dissemination policy which will deals with which will deal with. You know we are storing lots and lots of data usable data, unusable data, but we are publishing only selected of those data. So presently we're working on like how we can disseminate data so that the confidentiality of all the stakeholders is maintained. Public dashboard. 
+
+27:46
+So if in future, in coming two or three months, suppose, if somebody logins and checks in our website, so you'll see like you'll have a dashboard kind of pattern so you can select any tab, any details you want about any IP, any CD, that will be just one click away. We are working on that integration of our website with density desktop database. 
+
+28:06
+So whenever ncld comes up in a with any order or like any admission order or any withdrawal order, so that we are working with nclt databases. So whenever the order is published in nclt website, it will be simultaneously published in our IBB website. Reassessment of various utilities, an integrated module for Global search window and handling service request of stakeholders. 
+
+28:30
+So what we are going to do, since you must be you must be aware like banks are having this kind of activities, like Global search window and some service ticketing number whenever somebody wants to raise any complaint or any issue. So we'll have a one platform for everybody. 
+
+28:45
+That is a service request, that is Sr number whenever he will plug in any complaint or any issue that will come into one portal and that will get resolved within a stipulated timeline. That is done around time. So this is how we are working towards an integrated process and this will help us to grow further. So with this I'll thank you and I'll request to give closing remarks. 
+
+29:10
+So it's like the what we have described here is the how the technology has been used in the IBC ecosystem, as well as in the interest of ips and how the data can be used from IP ibbs website. 
+
+29:25
+Now the future is that we have to integrate with different stakeholders, and the different data points that have been generated through the processes needs to be analyzed so that the regulation framing is better and data driven so that the actual scenarios can be captured. So that is how we see that we how we will be moving, and I'll thank you for this presentation also, and I this is how we are thinking of clothing. Thank you to ignou also for live streaming this video. thank you. 
+
+
+

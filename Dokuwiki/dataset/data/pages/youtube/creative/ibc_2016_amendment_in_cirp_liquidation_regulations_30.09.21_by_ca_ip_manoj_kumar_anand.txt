@@ -1,0 +1,565 @@
+# IBC 2016 amendment in CIRP & Liquidation Regulations 30.09.21 by CA(IP) Manoj Kumar Anand
+![](https://img.youtube.com/vi/WM-pbPW6RAc/hqdefault.jpg)
+3 years ago (Nov 3, 2021) — 1:22:11
+[https://youtube.com/watch?v=WM-pbPW6RAc](https://youtube.com/watch?v=WM-pbPW6RAc)
+
+
+## Summary
+The session, organized by the Continuing Professional Education Committee of ICAI, focuses on two emerging areas of professional interest: the amendment to CIRP and liquidation regulations as of 30th September 2021 and search and seizure under the Income Tax Act and retraction of statement. The speakers are Manoj Kumar Anand, a Chartered Accountant, Insolvency Professional, and Associate Director, and Kumar. The session covers changes in CIRP and liquidation regulations, including the introduction of pre-pack insolvency and an electronic platform for hosting liquidation actions. The amendments to the regulations aim to provide guidance for the Committee of Creditors, restrict modifications to registration plans, and clarify the contents and timing of notices. The session also discusses the rationale behind these changes and their expected impact on the effectiveness of the IBC.
+
+## icai vcm: 20th vcm of continuing professional education series
+1:33
+Hello everyone I am and I will be the moderator for today's session. We are delighted to welcome you in the 20th vcm of the series beating the monday blues being organized by the continuing professional education committee of icai. Continuing professional education is a means by which members of the profession maintain, improve and broaden their knowledge, skills and develop qualities required for sustainable growth. 
+
+2:01
+The icai has been providing continued inputs to its members through seminars, lectures, workshops, technical literature e learning, web based training, etc. The cpe committee of icai has also launched a 360 degree learning series. Wednesday words of wisdom on every wednesday, focused on updating four areas of ca practice. Hence we heartily welcome you in this vcm on ibc, recent changes in cirp and liquidation regulations and surge and seizure under the income tax fact. our eminence. 
+
+2:38
+Speakers will talk about two emerging areas of professional interest: first, amendment to cirp and liquidation regulations as on 30th september 2021, and second, search and seizure under the income tax act and retraction of statement. We have an announcement from the cpe committee of ici, also on occasion of dhanteras and shoti diwali. The cpe committee will not have its vcm session on 3rd of november 2021, host that on 8th november and 10th november. 
+
+
+## ici learner faculties chairman welcome address
+3:12
+The programs will play as per schedule. We now invite the chairman of agra branch of circ of ici c ashish chen for welcome address. Welcome, ashish tri. Thank you, devenderjee. Thanks a lot. 
+
+3:26
+A very good evening to all the members of ici learner faculties for today, manoji and amiji, who were kind enough to spare time for this technical session, my colleagues in the managing committees vice chairman agra branch and see they become the secretary agra branch for helping us out and organizing this event and all members of ici. 
+
+3:52
+As i, as already said, cpe committee has been very active and very vibra in organizing seminars for the growth and learning of the members, and rather I would say cp is not continuous learning. Continuous learning is like continual learning for the members, but we have to grow your day one day subject to subject the way integrities are involved in law, and we have two learned speakers with manual energy. He has already. 
+
+
+## agra branch ncp committee welcomes deepika mittal to introduce us to
+4:18
+We have heard him before, as well as a iep as well, so the intricacies of insolvency and bankruptcy code. It's indeed a need of an r and as far as income tax is always a welcome topic when we discuss income tax and speech to search and survey. That's really nice and we I welcome on behalf of agra branch ncp committee, each one of you present day. Thank you, and if you enjoy your audio is hello. 
+
+4:51
+Thank you, ashish, for enlightening us on cpe learning. We now invite the secretary of agra branch of circ c deepika mittal, to introduce us to the first speaker of today's session. Welcome deepakaji. Thank you. Speaker manoj kumar anand is qualified charted accountant insolvency professional and associate director in renowned company. till date he handled 19 large assignments as irp rp pg liquidator process advisor in his ca practice. 
+
+5:32
+He is doing audit and income tax cases up to idit level, mainly for national level corporates. He has co authored book on valuation. He is also visiting faculty at various seminars held by icai, icsi, cbi, etc. And regularly writes articles on ibc and income tax. Welcome, sir. Thank you very much deepikaji for such a nice introduction. Ashish, I'm also thankful to you for providing the opportunity. 
+
+
+## ici webinar: How to prepare for a seminar
+6:06
+In fact, I'm thankful to the cpa also that they have provided with the opportunity to interact with my professional colleagues. In fact, in all those seminars, you know I treat it as an opportunity for me to learn reason, for that is very simple. 
+
+6:24
+When I need to deliver it on something I need to prepare for that also in that preparation and I i enlighten myself and I learn also, and the most you know effective part in any seminar is at the end, when we have a question answer sessions that really you know the increases our knowledge because questions are really good for us. 
+
+6:47
+Also, and sharing platform with professional colleagues and you know sharing our thoughts with them and having their thoughts also is there. Okay, I'm allowed to start my presentation, can I can i? Yeah, yes, I'm sharing my ppt. Yeah, my today webinar is on installation bankruptcy code 2016, whereas yeah, whereas i'll be speaking on a given topic and this webinar has been organized by cpe committee of ici. My timings are four to five thirty. 
+
+
+## ppt for cs & cs - ibc code
+8:02
+I hope i'll be able to you know, complete it within this time. Okay, you know, before I start my seminar, I would like to address you, for on two angles. One is that key you know, seeing the audience therein mainly audience. 
+
+8:18
+There will be chartered accounters, but I have prepared my ppt for a particular class of cs also who are ip practitioners also because a lot of ceos have also diversified, like me, into the insolvency professional work also and similarly, but at the same time some basic things. What this ibc code is there? 
+
+8:40
+What regulation is there which i'll be discussing in detail, that I also be sharing with my another professional please also, for example, you know what why you know I generally I ask questions from many audience that why this ibc is called as a code, not as an act. 
+
+
+## ivc code, ivc code, ivc code,
+8:58
+If we see, generally we have a finance act, we have a customer, we have a gst act, we have a lot of other acts only like incompress act, like partnership act, because reason for that is that this particular ivc was formed by codification of lot of laws. 
+
+9:18
+The objectives of this particular code was that if you, if you see that you know, india and certain other south asian countries are known in the whole world, and this was really you know have virtually downgraded our international rating just to get rid of that particular phobia in the minds of foreign investors. 
+
+9:41
+What government came out is that they common came out with the idc code ibc code in 2016, which means codification of the all the laws which deals with recovery it we can have a deal with recovery like sikka, like surfacing, like certain pieces of income tax act, like certain pieces of insolvency act. 
+
+
+## ibc bankruptcy code: What is the definition of creep and liquidation
+10:04
+All these have been codified, and that is why ibc is known as that as in solution bankruptcy code, instead of being as a act or something else. one thing I would just you know. Our pm was abroad in g20 meetings. He also used one word that one earth, one health mission for the all. Similarly, ivc also like a code where the objective is to have recovery for anybody who has lent money to anybody. 
+
+10:48
+This is my small introduction, because many times my audience asked me to have your contact details so that they can knock me later on. Also everything is there. This is a simple disclaimer. Okay, now come to the topics assigned to me. I've been signed. Topic amendment to creep and liquidation regulation as on 30th number, 2021 stands for corporate insolvency irrigation process and liquidation process. 
+
+11:35
+We all understand when a company goes into liquidation, that then it is called liquidation, and you know creep stands for corporate cif. you know, this particular script is dealt in part two and chapter two of the ibc 2016 and liquidation process is immediately after. That is in chapter three and very recently, in the month of march, pre pack insolvency has also been introduced. That is, in short known as p? 
+
+
+## R ipr pre pack resolvency under chapter 3a
+12:00
+R ipr pre pack resolvency under chapter 3a, that is, you know, by the by having a lot of sub sections in section 54. I have divided my these topics in these two following agendas. Part one, part one deals with changes in a crypt regulation as on thursday number 2021 notification crypt. You know, crypt is a very vast topic, but I be dealing just for this, since I have been signed one and a half hour. 
+
+12:34
+I be dealing only with the amendments done by notification dating 3.2021 incorrect. here I have included in it also discussion paper on coc guidance, coc guidance. Coc being a committee of creators.committee of creators is like what you call it you know irp. If you, if you compare it with the companies, that irp is like a single board or single board of directors. 
+
+13:02
+Cos is like you know people who are controlling the rp and coc basically consists of all differential creditors in proportion of deosha in the whole committee changes in liquidation regulation as on thursday 2021. You know here one more notification came out to be there that is a notification for electronic platform for hosting liquidation action. 
+
+
+## ibbi implementing bankruptcy board of india
+13:34
+This has been done first time and I be you know practically seeing it how we can put our data or our option details there, because it's very important and it has been made mandatory now by the ibbi. Ibbi is installing a bankruptcy board of india. This is basically you know, controlling authority of ibc, controlling authority also implementing authority also and the working independently changes in crypt regulation as on 30th number 2021 ib. 
+
+14:13
+You know they were. There are eight ten changes. I be first of all briefly looking after these changes and then we shall discuss in detail also why these changes are prompted and what effect these changes will have and why you know how we can expect that ivc will be more effective after these stages. 
+
+14:37
+You know, there has been insertion of sub regulation 1 e in regulation 17 to provide for the first time, code of conduct of committees of creditors.committee of creators is one of the very big pillar in whole ibc process. If we see ibc there are. There are basically information utilities, there are valuers, there are ip's and there are committee operators. Till date there was some regulation. 
+
+
+## ibc: insertion of subjection for a pre and prison after regulation 36
+15:04
+Some trolls were there on all others like on information utilities, also on ips also, and on valuers also. they were having their own code of conductor guidelines but there was nothing in the committee of curators and in fact you know if we see the ibc. The genesis of ibc was blrc, bnrc was the report bankruptcy and delegate report for insolvency and blrc report. 
+
+15:30
+When it came before 2016, when this ibc was enacted, it never envisas that we that there will be any a controlled record on the coc. Next is there is an insertion of subjection for a pre and prison after regulation 36 a subject regulation 4. This is with reference to expression of interest by correlating its modification with the initial expression of interest and annoying modification only once. 
+
+16:00
+Insertion of subclass e and b in regulation 39, sub regulation one a to provide that r a resident applicant can be allowed to modify registration plan only once and may also provide a challenge mechanism like swiss challenge to enable restaurant applicants to improve their plans. 
+
+
+## Sub regulation 17 to provide for first time guidance for committee of purchase
+16:16
+What swiss challenge method is there that we shall also see it indicate insertion of subclass 1b and after that another subclasses a, b and c in regulation to put time, person and contents of notice restricting as per section 36b, section 30, subsection two and sub regulation one of resolution 39. You know, don't get confused with my this regulation. This is only preamble. 
+
+16:42
+I'll let you know later on that what these regulations are meant for and what changes they're bringing. now let's see the detailed analysis of insertion of sub regulation 1a in regulation 17 to provide for the first time guidance code of connect for the committee of purchase and member of the committee. Let's try to underline two things: committee of creditors and members of the committee.committee consists of all of their members. 
+
+17:19
+What existing regulation is existing reaction such 17 deals with irp22 to file report holding for coc meeting. Insertion of subsection 1a regulation 17 to provide for the first time guidelines for the committee of creators. It states as follows: the committee and members of the committee shall disage functions and exercise spas under the code and these regulations in respect of corporate insolvency sedation process in compliance with governance as may be issued by the board. 
+
+
+## No guidelines have been issued. Only thing is no guidance has been issued.
+17:49
+I just clarified that till that no guidelines have been issued. Only thing is no guidance has been issued, but discussion paper dated 27th august 2017 was issue 21 was issued by the ibb and hopefully it happens with that. This is a practice for the ib that they firstly, whenever any major change is there, they firstly issue a discussion paper against that they ask for some comments and based on those comments they go for amendment. 
+
+18:18
+The presumably also that if this is it you know, i'll be consuming another 15 20 minutes on this particular amendment, because this is very material amendments and hopefully the discussion paper which they have shared with public and I think was the last date was 17th of last month, whereby they have asked for the comments and people have submitted their comments and what that discussion paper says, because all the amendments expected to be there and shall be based on this discussion. 
+
+18:59
+You know what preamble of this discussion paper is. Ibc uses market solutions by professionals and coc. All stakeholders must be regulated. Stakeholders been the persons who are interested. They can. they consist of financial characters, operational characters and workers and workers also and ips also and ibbi also and all others also ips values are you are regulated, but no regulation for coc. 
+
+
+## ibc in 2016: Value maximization and timeless
+19:32
+As I told you earlier, ibc in 2016 includes blrc never felt the need of it because coc was basically lenders and it was expected that they will fulfill the ivc objectives being value maximization and timeless. 
+
+19:46
+I must share it with you that when ibc came, as indian dating was quite downrated and reason of that down rating was that he you know, as I told you earlier, that it was a felt in the market that if you might give the money in india, it's next impossible to record back your money. 
+
+20:04
+But bringing of ibc, because it came in 2016 and in 2017, if we remember that gst also came bringing up these two laws, you know, uplifted the credit rating of india by 30 to 35 points, which was an history in the whole world and you know. Objective of ibc was value maximization of assets and timelines, why valuement maximization was objective of the ibc. Reason for that is when I t is appointed. 
+
+
+## ivc vs. cd corporate data - What is the
+20:35
+His objective is not to recover the amount and give it to the creditors. His objective is to what the underlying is that whatever are there in the with the cd corporate data that should be, you know, recovered to the maximum possible. Accept and everything should be done within timeline is a very strict. There regulation 40 is there, which prescribes within what time you are supposed to do and codes are very strict. 
+
+21:03
+Whole ibc are expected to be finished within 180 days or two, seventy days or later on. It started within 30 days and the timeline and value maximization are two biggest ingredients of ibc. Yeah, I'm you know we are we're talking about what discussion paper said coc. Actually, many cases are fun. determinant to the ivc objective. That is the value maximization and timeliness course puts in place creators and controllerism from existing tatters in control. 
+
+21:35
+What creators and controllers is that if you see other surface and other earlier in that case, if any financial cutters has to recover money from the corporate debtor or the company, then he, he has to you know, he is absolutely dependent on the management of the company or cd only. But ibc brought cj what? What is that? The movement? An application is accepted under section 14. Monotonium is started. When monotony started immediately. 
+
+
+## Insolvency Professionals should understand what coc is and what it is
+22:09
+An insolvency professional is appointed and existing detectives are, you know, virtually made nullified. You know they're all the powers are taken out. the board is not suspended, but powers of the odd directors are taken out and all those powers are transferred to the insolvency professional who run company as a representative of a duty country authority which at present is nclt, and this is a very big change. 
+
+22:38
+Now, earlier you know ownership has been changed from you know data to creditors. You know. These are some of the basic things I would like to share, although it is not part of my presentation, so that people who are not doing ibc practice. They should also understand what coc is. 
+
+23:09
+Coc competition is as per section 21, subsection 2 consists of financial guidance only, as per section 5 subsection 7 accept of related parties and as per section 5, what relationship parties are there? it is you know, like what we do audit and have year 18 in our accounting center, 18 there it's similar to that, approximately similar to that related parties fcs are signed voting share in proportion of voting shares. 
+
+
+## clc is the most important thing that affects the whole ibc ecosystem
+23:36
+If there is no financial character, then top 18 operational credit characteristics constitute coc as per regulation 16 sub regulation 2, coc pursues, pursues, transition, evaluate the best station plan and circumvents liquidation in the best interest of all stakeholders should not go into liquidation. You know this. We have been taught in all our training and as an ip, whatever assignments I do, it is also my desire that company should not go into liquidation. 
+
+24:08
+You know there should be either some settlement or some russian plan should be there so that company should remain alive. I remember the words of moka of public trust and emerged at most powerful entirety: stakeholders, custodian of public health. The reason for that is mainly, if you, if you see, practically most of the coc consists of public sector banks who have lend the money and whose money has gone into drinks. 
+
+25:02
+And when the public sector men say so, whatever money is there that is public money. The decision of clc are affecting the whole ibc ecosystem. You know the thesis of the coc are so important that it affects the as I told you earlier, whole body, whole corporate debtor, and many are people who are dependent upon that particular body, like we have arms legs and all this thing and whatever our body functions that really affects them. 
+
+
+## Irp rp is important in the role of coc
+25:42
+If anything goes wrong with any of the you know stakeholders. For example, I just give you an example that in many a time in the registration plan in the initial days, a lot of you know haircut between financial cutters and operational cutters used to be very different. 
+
+25:55
+If you know whether the company was not in a position to pay to their financial cutters, they were given a say haircut of 60 70 percent or 20 30. At the same time, ocs were given a haircut of 90 95. It was prevalent in the market. You know, but this decision making power was with the coc. Only that constitution consisting of financial creditors. Irp rp also works under the guidance and supervision of the coc. Yes, you know the. 
+
+26:22
+That is why the role of coc is very important. role of coc becomes vital in timely and successful completion of the whole ibc. Even you know certain powers of the coc has been recognized by the effects codes are honorable supreme court in the case of swiss civil, innovative at insert steel that the past of commercial wisdom. 
+
+
+## ibc is a ration plan for a debtor to recover from assets
+26:44
+It can't be interfered by the nclt and clad, meaning thereby that even as a commercial wisdom even course can't interfere. They have to accept it in total. Just see the you know kind of part with the no you know it says that power abuses and absolute power abuses also what swedish we are having up approximately five years of being ibc, though approximately five years that the coc has passed communicate with this responsibilities. 
+
+27:48
+You know, coc is so impowerful that they can give haircut of any magnitude to any or all of the stakeholders for avoiding liquidation. To choose the best ration plan against recovery from assets and assets of debtors now in a personal country has also been started, though. 
+
+28:07
+If if there is any leftover amount which they have recovered from the fractional credit, if they have recovered an amount from the cd and there's a leftward amount, they can file suit under section 95 against those personal countries. Also generally promoted are the personal contracts. Russian plan can restructure the whole business. This requires tremendous commercial wisdom. Even judiciary acknowledge the prerequisite of all these parts of theoc to fulfill ibis objectives. 
+
+
+## What are the essential features of crc?
+28:50
+No, you know, you know when they were having so much power. they were having so much detailed things with them, then their role was coming under scanner, because let's talk at the seat and broadly and then we'll see each point in detail. Is ccoc able to fulfill objectives of ivc being timeliness and value maximization of as tertiary control? Is coc able to take care interest of all these stakeholders? 
+
+29:20
+Had coc kept on sell filters above ibc and floated underlying code red with relevant rules and regulation? Had coc forced irp rp to do things not rendered by the code? Had coc paid from fees to professionals like irp rp values? As for the terms of appointment, the answer is fixed yes or no. You know if I see myself doing all this practical assignment. 
+
+29:48
+In my most of the cases, I was very comfortable with that coc, except one or two cases, or even in even in that one or two cases. Most of the committee members were helpful, but except one of the other members. Now let me now let's move to, since we have learned what are the role of the coc there. What are the now let's understand what are the essential features of crc. 
+
+
+## Coc is a new institution creation of ibc.
+30:35
+Coc is a new institution creation of ibc. This way I already talked still evolving to understand its role part time. you know what practically is happening that all these coc members. 
+
+30:46
+If we see a there and they have the part time working for most of the coc members, basically what happens that either egm cattle or cheap nature or gm, depending on the intensity of the involvement, are you know taking care of data as a member of coc lag? 
+
+31:07
+This is the making and coc meetings eyebrows raised in capacity and conduct of the coc power user abuse under following circumstances rb point one replacement from on panel under section 22 or section 27 treat rps recovery joints only rp to seek approval for certain you know actions under section 28 access, internal finance, limit for that related party transactions, delegation of authority etc. 
+
+
+## What Is the Coc Working?
+31:42
+Basically these are the powers given to the army, but they he has to do it all with the consent of the coc only. They have taken many attempts which you know i'll be sharing it with you, which are judicially also noted. Arbitrary decision making like eligibility criteria for pra evaluation, matrix timeliness, etc. You know these are the essential features of the coc which I have shared with you, and are they functioning? 
+
+32:18
+What was expecting from them? Let's see in our coming slides detailed reason for providing guidelines. Code of conduct for committee of credit is under election 17,18. A lot of judicial pronouncements are there which prompted them, you know, to come up with regulation whereby some sort of control is put on in place for coc. You know when we know internationally. also we found that some existing additional practices also there whereby they have been controlled. 
+
+32:56
+I hope a lot of ips be working there. You know listening to me also, and can any ip tell me that if there is any existing section on coc working before the 30th number 2021 amendments? Was there any existing section on there working? Just share it with me on the chat box. 
+
+
+## Own the conduct of the coc
+33:20
+Finally, when you know these two, three, four things came out to be there then parliament committee report came on third of august 2020. Own the conduct of the coc. I have some practical experiences also, you know I would like to. I shall share with you my two cases which are directly correlated with the coc connect. One is tax brokers. Another is tyrol's case in nurture. 
+
+33:48
+You know, the relationship of irp, rp or other stakeholders were sweet and sore with coc, because a lot of powers, a lot of responsibilities has been given to the coc. As results, they were taking many attempts, a lot of autism which were not. As for the conduct of the you know expectation from the coc. 
+
+34:11
+I just I just shared one case with you know, in tech process I was an irp and then I was appointed as a techno. What happened that in this case coc committee of creators, as initially consists of I formed it within 30 days. As for the required stipulation, which was having sbi each member, one erc and one or two other banks also. But subsequently what happened? 
+
+
+## rp one bank banker brother emma paid off his only one serious member
+34:41
+That during my tenure as an rp one bank banker brother came out with the some claim you know. Basically it was an order from the drt for recovery, as a result of which I have to introduce to them as also part of my coc and you know, by introduction to them in coc their share increase. Everybody share. In fact they were having more than 50 shares. They did not pay my fees. 
+
+35:06
+You know, you know what fees was decided earlier. All other members, including arc, sbi, pnb and all these day people paid but be a banker did not pay only contention that fees has been determined before they are joining as a coc and we should not pay for it. on the other hand, you know ibc could clearly provide that any decisions taken by any of the coc meeting is implementable and applicable on all the subsequent members. 
+
+35:35
+Ultimately, you know I was fed up by doing correspondence with all these people and then I have to find a case against them in what you call it against that particular crc member in ncrd, and I remember mr emma was there and he was very kind enough when he realized this thing that other c members have paid off his only one serious member is not paid off his. They called the person that they you know. 
+
+
+## stroyer rules case vs. chennai base case in del
+36:03
+They told the advocate that who are representing that particular banker brother that if his fees is not being paid, we shall dilute his debt and make them to go out of the coc and shall call the concerned officer in person at delhi although it was a chennai base case in delhi also, and see to him why he, why some action is not taken against him, that when he spoke verbally so heavily against that particular the coc member, ultimately under that pressure they paid our fees. 
+
+36:33
+So what I mean to say is that it you know, sometimes you have some sort relations also, and in fact it was my, if I remember it was it was my first case any coc member by an irp rp. it happened in 2018, and so the stroyer rules case is concerned that I shall discuss in my subsequent slides. Now let's see detail that what you know the basically making the judicial pronouncement. 
+
+36:59
+So it has a lot of waiters because it has been done with a lot of hard work and lot of listening to all the parties and in fact judicial judiciary has gone deadly in coc in you know in the in some of the control cases I've noted on the first case was andhra bank versus telling by attack limited in this case what happened that we all you know ibc protective practitioners knows that russian plan can be submitted by only the person who is eligible under section 29a. 
+
+
+## a ccd vs. a ccd insolvency
+37:36
+But in this case, although public sector bengal there the absconding and section 29 e individual promoters attempted to take over the company in the guise of ots would have been one time settlement with approval of 19,32 percent vote share of this eoc. The nclt observed that you can read later on because I have to a little bit rush. Also already 40 is there 40 minutes are already there. 
+
+38:00
+Bank of brother versus the seed command appliance and others in this case also. In fact, here also financial credits try to gain the control of the c cd, but the same person push the series cd into insolvency and a journey that thought it came very heavily on that and did not know how to do that thing. my third case is in the case of creeper bhushan power and steel limited. 
+
+38:39
+You know what happened in this case is that a registered rp, you know, with the concert with the concurrence of coc, paid rupees 12 car rupees as fees for doing the work prior to the kissing trip and during the against the iv circular dated that no fees can be paid to anybody or in fact no money can be paid to anybody before the start of the circle in the of versa limited, the lead fcd cover depth from conference account. 
+
+
+## crypt starts, monotone starts under section 14. Nobody can recover any money from the company,
+39:17
+You know, whenever crypt starts, yeah monotone starts under section 14. Nobody can recover any money from the company, from the corporate data until unless it is a it is. It is part of the cost. but in this case financial cut has recovered money from the company and ncrt worked very heavily on them and made them to return back that much in the case of kitandri limited. You know it is. 
+
+39:48
+This is also a very unique case and fc decided to engage and entitle it for services during crim. It proposes the name of the nip for point, but as irp in the application. After having an understanding with him that his appointment as the irb, he shall appoint that entity. The rf pointed the said entity on the date of commencement of crypt. 
+
+40:10
+The fees of the entirety was 20 times 20 times the fees of the irp and rp. you know, entity is meant to help irprp not to run the cip process and fees paid to helper more than 20 times the fees of the irprp is absolutely uncalled for and due to getting authority very heavily came on coc in this case. 
+
+
+## Delaying taxes was adopted by three clc member in approving the religion plan
+40:34
+Delaying taxes was adopted by three clc member in approving the religion plan and say you know, nclt felt so heavily. You know so bad about it that their reference of matter to the rbi for investigation. That why these coc members who are public sector banks who are having such a ill responsibility against that particular crp at the thinning and technology. 
+
+41:03
+I have already discussed that in this case coc member bank did not trade his share of it and ultimately coc has to do this thing. Okay, I think something's wrong with my screen. I'm just, you know, sharing it again. Books foreign. Yeah, sorry, I've come back to the slides. In case of general success, financial services limited versus mayfair capital due to critical authority had that you know. 
+
+43:31
+This is a quite prevalent practice that whosoever coc members come there, he will say that for any reason. I recall internal proverbs. There were four french accrediters who attended our first coc meeting. The said bidding coc did not approve appointment of irp. As rp says, two of the four financial creditors were having 77,97 required internal approvals from their competent authority. The judicated authority observed that we depreciate this practice. The financial crisis. 
+
+
+## What happened to rajneesh channel nukumtiwari
+43:57
+Banks must send only those representatives who are competing to take decisions on this spot. The basis of time causes delay and allows depletion of value which is sought to be contained. another case is very interesting. Sbj exports and manufacturing limited. In this case, what happened? 
+
+44:19
+That rp was required to have prior approval from the you know for extension of the period from 180 to 270 days, and coc member did not granted that approval, despite knowing that this 180 days are expanding as on varado, those are tara adjudicated. Authorities came very heavily on them and said: you're, this act is unfortunate in case of rajneesh channel nukumtiwari rp. Now what happened? 
+
+44:55
+This case was that rp has failed to perform you know what the duties to observe the code, the rules and regulation as enumerated in the code and crp regulation while conducting crp, of the reason of taking up such agenda of meeting and leading to illegal resolution of hosting of bvn traders from the coc. What basically happened? 
+
+
+## rp2 vs. rp2 vs. rp
+45:14
+That some conflicting interest was there and one you know proportion of coc wants that another person should not come into the picture, and some vivian traders were there and he said it is my friendship that not a question on that. But coc did not know rp2 had treated as a financial debt. 
+
+45:33
+Reason for that is very simple that if that financial debt should have been treated, then he should have also been part of coc and existing members forward should have been diluted and meaning invited for the self interest they indulge into wrong practice in case of stca finance limited through this thing. You know in this case we are. We need expression of a test and form g approval prior to it from the coc. 
+
+46:02
+They did it ten times only it does not happen. it has to be done one and now, after this amendment, only after once more amendment is required. They are indulged in this practice for the reasons best known to them only in case of in camping, you know industries. What happened? 
+
+
+## judicial pronouns that have gone heavily on coc contract
+46:21
+That constitution of committee of credit itself is found to be tempted, then the decision of that tempted coc can't be validated on the potential exercise of commercial wisdom. Okay, these are all you know judicial pronouns which have gone very heavily against all coc members, which prompted them to have a control on the coc members and which have subsequently come after this amendment, as on 30th summer 2013, when we were, you know, discussing this thing, we heard we understood that judicially came heavily on the coc contract. No, we. I thought of seeing whether there is any international practice in this regard. 
+
+47:07
+When I knocked into the international laws there I found in case of uk and usa this practice do exist. You know in case of uk what happened there exists elaborate kindness issued by the association of business recovery professionals. It's like you know. Agencies as in india in conjunction with the recognized professional bodies on that might be expected from the coc in usa. 
+
+47:34
+Also, characters and other stakeholders play an important role in the acting as a watchdog over that is conduct, and the section 1102 of the? U s court places responsibility of interest of these representative by the committee, but not pointed on it on the members of the committee. okay, as I asked earlier. You know now we have read that there were some judiciary was very heavily on the coc for their conduct. 
+
+
+## What is the Code of Conduct?
+48:00
+Some international practices are also there. Then I thought of knocking it seeing into the act and regulation, including rules also that is there any existing restriction on coc? You know when I when I knocked everything then I came out with one thing only that there is an existing section on coc conduct also what data section is data structure is as per circular number so and so dated so and so which clarifies representation in csc by such persons who are competent and authored to take decision on the spot and without different decision for want of any internal approval from the financial creditors. 
+
+48:39
+In fact you know, I always give my reference in the circle of this server for all the notices and you know plead with them that with all these eoc members, that only those persons who are competent enough to take listen should attend the wedding. But practically you know my this plea and my this saying is always kept in advance and they do the way they want to do. 
+
+49:05
+Now let's see what is the outcome of all these things. You know this is what I'm just sharing with you while reading all those slides. No, no, let's see what this supposed code of conduct is there in the discussion paper. I just remind you that you know in discussion paper word use what code of credit, but input this amendment in the crypt regulation. The word has been used as guidance. 
+
+
+## What We Can Expect From the Coc? Code of Net Organism
+49:46
+So we need to interchangeably see that code of net organism. Since the decision of the cs impact the life of the firm, it has to be fair and transparent and there should be some accountability. It should promote transparent working. Any attempt of favoritism should be avoided. This is a summary of you know it's a discussion paper is having a lot of pages on it, but I've summarized the whole thing. Promote the. 
+
+50:13
+This is what I expected is that promote higher responsibility from coc. These are all generalized terms. Elevated accountability and responsibility establishes broad principles that can be applied to every situation they have. they should have some ethical norms. You know it's basically if you sum up everything, then my ip audience must be understanding that we also have a code of internet as per schedule of our ip regulation. It is similar to that. 
+
+50:41
+Now let's see, now let's analyze that after coming of this implementation of this code of conduct, based on this discussion paper, what we can expect from the coc. Hopefully they will respect no moratorium vote indulge in, you know, taking money out of data's account disclose conflict of interest. You know here I would like to share one story with you: what happened that in the case of erc? 
+
+
+## erc is a reconstruction company, but it's not a coc.
+51:06
+Yeah, you know what a market has started developing now that the control will be put on there. If any erc is a reconstruction company and yes, anybody can from an estimated reconstruction company, if with the prerequisite of having a 500 business that's paid of capital, if you know, they buy debts from the banks generally at a very low price, say at 10,15 or 20 of the that price, they do buy and consequently they become coc members. 
+
+51:37
+Also, and if they found in any of the registration plan that there is a huge difference in your underlying assets and the bid which you are receiving, and that case they always, you know, put some person, maybe indirectly known to them as a buyer, with 5,10 percent of a higher amount, so that they can buy the company and, you know, get good profit out of that particular day. 
+
+52:05
+This sort of conflict of interest need to be not exposed to the arc. Earlier what was happening was that although you know rp was aware of this thing or maybe not aware of this thing, but he has no control. not, they have to declare this conflict of interest in their dealing not by any asset, without disclosing interest to other members of the coc. 
+
+
+## ivc timeliness - A cryptic timeline for crypt
+52:29
+Not recover any month from the current or fdr respect timeliness as per regulation 30a. Facilitate appointment fees. Payments of the professor's values, crypt cost reasonable. Not delay in payment of costs including rp fees. Interim finance as required cooperation from with irp and rt. Yeah, these are the you know five summarize things which I found that their commercial wisdom will be accepted and coca function shall be more transparent. Coc shall be accountable to ibbi. 
+
+53:16
+Rp may get these relief and timeline is expected to be a deal. In nutshell, after these guidelines or code of net, I expect ivc will be more effectively implemented and you know whatever we have. timeliness or value maximization is the two primals or objective that will be achieved in a more effective manner. This is all I have for coc related. And now let me come to the second amendment. This relates to expression of interest. 
+
+53:45
+This is you know what basically was that existing regulation 36, say, provides in detail for invitation of expression of interest in form g within 75 days and prospective resident applicant pra along with its procedural spectrum publication etc. It also provides timeline for submission, and so and so parallel regulation 48, which prescribes modern timeline for crypt. All these were having a loophole, whereas expression of interest was inverted many attempts, which results in increase in timelines. 
+
+
+## pra was always beneficial in delay, in delay of you know, delay of accepting it because
+54:26
+You know, you know it's a but pra was always beneficial in delay, in delay of you know, delay of accepting it because indirectly delays in the benefit of pra, because coc rp shall be hard press on for time, to you know, to complete the whole crp process negotiation for approval of the coc with pra. You know parachute learning, parachute lending, what I told you is also quite prevalent nowadays. 
+
+54:55
+What was happening was that when there is a difference in underlying assets and the amount proposed by the pra, in that case somebody you know, will you know, who never gave any and any code for the initial as a pra. He will come out with a in a five, ten percent upward price and say that I'm willing to put my resolution with this price and the yeah all of a sudden come. 
+
+55:23
+That is a new concept of parachute landing was being popularized or being came into picture in ivc. now the loophole has been plugged by insertion of regulation fourier enterpriser to as follows: any modification that integration pla invitational expression of trust may be made in the manner as the initial mutation for expression of interest was made up of the time command or shall not be made more than once. 
+
+
+## ibv has come up with a regulation that it can't be made more
+56:05
+You know ibv has come up with a regulation that it can't be made more than once. Motivation doesn't put that it can be made only once another is that you know why this one has been there. You know we have also analyzed some situation. No response or very little response to state from publication of expression. You know what impact on timeline. With this amendment the timeline will be strictly adhered. 
+
+57:02
+Now either 180 days, 270 or 30 days impact on ongoing. I think the section will apply for the existing crp also, meaning thereby that whatever special operators they have received before 30th of december, only one amendment will be allowed. Now, yeah, you know. So again here I would like you know. 
+
+57:28
+Fundamentally would like to deal with my ip, brother, is that if you feel that there is has been a such change in circumstances and you have already taken two expression unders what circumstances can be changed is that, for example, in one of our case we you know we came across that particular cd got a particular result, which is highly valuable in liquor industry. 
+
+
+## road was passed on this particular land
+57:49
+In another case we found that you know government came out pronounced that some road will be passed on this particular land. As a result of its land prices increased a lot. it increased many food eight, ten times immediately include the moment, as some you know, road was to be passed through that particular land. In that case, you know. 
+
+58:07
+But since no regulation is sticking, we can always move an application to the ncrt under rule 11, section 60, subsection 5. They always have a power whereby they can override the regulations same thing. What I've already shared no, no, not. 
+
+58:40
+Third amendment measurement was that approval of registration plan adjusting regulation 3918 deals with the rejection of russian plan if it is not as per the code and regulation and not accomplish the affidavit intersection containing a and not stated to be true and correct, etcetera. 
+
+
+## a loophole in regulation 36b sub regulation 3
+58:59
+For the regulation 36b sub regulation 3 provides for submission of this one within 30 days, but it has having a loophole, whereas it has not mentioned or it's a number of reasons practically motivation were made by repeated males. You know scatter modification. We send mail to the coc will reply to us and then we send mail to the pr. Even you know when so much time was consumed in. 
+
+59:33
+You know approval russian plan because of negotiation. Even nclt was having a very sympathetic approach because it always results in value maximization of assets. But you know it was having a very big one pitfall. What that pitfall was that timeline in this case always get increased. You know basically issuing of a form and then accepting of a resistance. 
+
+59:59
+It takes minimum two months and if there are more than four or five approvals, then you can understand how much time will be consumed there. Now this loophole has been plugged, along with the lying mechanism to improve reduction plan as well as modification in election plans shall be allowed once only need to prepare evaluation matrix with great care. Now. No, you know. No, you know what earlier formal mails and other things will be there. 
+
+
+## russian russian russian plan for russian msme
+1:00:33
+No, that will be cut short and more informal discussions will be there in the coc meeting. Decision making will be quick. Yes, another prison added there is that allowed to have a challenge mechanism similar to pre packs for value maximization. You know what happened that earlier we were having a in chapter three. I thought it like edition chapter three and along with that chapter ta was added, whereas pre pack was introduced. 
+
+1:01:06
+What basically difference in pre pack and grip is that in case of pre pack, we you know we have to be at msme and the limit therein is also reduced from one crore to 10 lakh rupees. 
+
+1:01:18
+They are in you know they're in the there you know there is some base russian plan which is submitted by the existing promoters or directors of the company and if there is any haircut to the operational cutter then the you know the with that registration plan has to be put in the public and then have to see what we it can be done. 
+
+
+## swiss challenge mechanism - a swiss challenge mechanism
+1:01:40
+So there and one you know for value maximization there is some challenge mechanism has been provided in that particular challenge mechanism, which is popularly known as a swiss challenge mechanism. That particular thing has now been incorporated in also. I have prepared three, four slides on challenge method, but because of paucity of time I won't be able to discuss it. 
+
+1:02:04
+I just tell you broadly what basically swiss challenge method is that in case, for example, say there are three, four prs, they have given a particular a registration of, say, hundred crore rupees and that hundred quarter percent shall be put in a made as a base station plant and against that again bits will be invited and if there is any chain in case of prp, the prepair can. 
+
+1:02:29
+It has been mentioned that if there is a significant change, only then it will be allowed, but in this case no such word has been here. And if anybody comes with a higher bid, say 100,5.110, then the first bidder will be given a charge. That we just see that this particular bid is coming out to be of this amount. Will you be interested to you know? Take this company at this price or not. 
+
+
+## swiss challenge method for value maximization in rbi
+1:02:50
+If he agrees, then coc can decision to give that particular shared with that price, or it can be given to the highest bidder. This is all systemic methods. I'm just passing it because already five is there. you know when I see that it's just challenge method already used anywhere else, then I came come across that in rbi also and there are some judicial precedents also for use of cis channel net in rbi. 
+
+1:03:22
+You know when I found out that in case of surfacing there are guidelines whereby you can use swiss challenge method for value maximization, yeah, in case of you know the existing trip. also in the case of nclt mumbai bench. 
+
+1:03:42
+In the matter of bangkok you know, concerned rp used the switch challenge method quote gave approval to that regulation plan based on the switch channel method and in case of a saket text dire private limited case, this swiss challenge method was rejected with the reasoning by the same quote that there is just no such reason in the regulation and hence it can't be implemented. 
+
+
+## Coc for consideration of registering plant titan
+1:04:27
+But I think this particular case will be nullified after this amendment in the regulation. yeah now another advantage is that a section on coc for consideration of registering plant titan. It has been done by inserting subclass so and so in the engine 39 as well, whereas coc shall not consider any digestion plan received of the time as specified by the committee under relation 36b. 
+
+1:04:59
+No parachute landing receipt from a person who does not appear in the final list of prospective resident applicant. Please note now a market was just doing, as I've already shared with you does not comply with the prison of sex sub section 2, section 30, sub regression one, but let's understand what existing prison was there. The existing prison are dealt in section 30 subscription to the resistance prevention. 
+
+1:05:27
+Examine each russian plant seat by him to confirm that each registration plan provide for that payment of the insolvency relations process cost in a manner specified by the board in property of the in property of the payment of other debts, and corporate debtors provide for the payment of debts of operational credit in such manner as may be specified by the board, which shall not be less than basically in any regulation plan. 
+
+
+## Regulation 2 changes to liquidation regulation
+1:06:16
+The descending no section hasn't put on the coc that they should comply and see that these sections are complied by them and along with rb, these are all the changes in what we call it in crp process. Now let's move to changing the liquidation regulation as on 30th summer 2021. There are not much changes, but still some changes are there. 
+
+1:06:57
+Some contributive words has been removed some change in the regulation 28 sub relation one and four. Are there removal of what two contributors in regulation two regulation 1 ea 7. Removal of word subsection 1 and 4 in regulation 2b. Substitution of under part 2 against in a chronology, chapter 3 or part 2 of regulation so and so. Substitution of class a and b in regulation 31 a sub regression 1 to enlarge the scope of regulation. 
+
+1:07:38
+Substitution of class 4 in regulation 31 a to change the regulation. Substitution of prison to regulation 31 a s of regulation tend to change from in writing to these are the small changes. Other changes are with reference to regulation 47, schedule 1 and format. Now let's see each and every what these changes are. what is the you know removal effort. Regulation 2,1 ea defines the liquidation cost as per section 5 subsection 16 of the code. 
+
+
+## Subclass 7: Contributing means for llp
+1:08:18
+Earlier, as for subclass 7, liquidation also includes amount payable to contribute, and now this has been removed. Please note contributing means as for regulation 21c means a member of a company or partner of llp who is liable to contribute in the event of liquidation. Particularly this situation may rise when liquidation cost exceeds liquidation asset value. Now the money paid by them shall not form part of the liquidation cost. Removal of word. 
+
+1:08:53
+Subsection 1 subsection regulation 4, integration 2b. You know, before we needed. Let's understand what it relates to section 33. section 33 of the code prescribes fourth condition when liquidation shall be initiated, and regulation 2b deals with the compromise arrangement only as per section 33, subsection 1 and 4. You know what basically was there in case of comfort compromise arrangement and compromise within 90 days. Rpe was supposed to try for the compromise arrangement. 
+
+1:09:31
+It might have been. You know. What happened was that he can try for compromise and arrangement only as per sub regulation, section one and four, meaning they're bad that if under liquidation section 33, if the company has gone into liquidation only as per subsection one and four of section 33, only then rp was, you know, asked to go for a compromise on arrangement. No, I think it was a drafting error. 
+
+
+## compromise arrangement for liquidation
+1:10:00
+Now this compromise arrangement can be made under all the four sub sections, as we know that there are four subsections for liquidation. Please note that subsection two deals with liquidation at the instance of coc and subsection three deals with the liquidation when absolute russian plan is contamined by the concerned cod, meaning thereby that under all the force of regulations if the companies goes into liquidation, then we have to go for compromise and arrangement as per complicate substitution of under part two. 
+
+1:10:43
+Regulation 15 deals with progressive foreign directs rp to inform you with reference to development in avoidance transactions, what you know? What does transaction mean? We popularly we understand this in our ibc technology as puff mean p mean preferential. You mean under valued f mean fraudulent or even exhausted star section. these are defined under section 45,47.14 and 50. What existing regulation was there? It says that rp is duty bound to inform the progress during liquidation. 
+
+1:11:25
+Know it was earlier it was confined to crp only. No, since pirp has also started as chapter 3a. No, any preference session in pirp. Also that he has to also inform to the adjudicated authority. Now let's see what you know how. The scope of 30 regulation, 31 years of relation one has been announced by a you know class e and b regulation 31 a1 deals with advice to liquidator by stakeholder consultation committee scc. 
+
+
+## Earlier advice was confined to matter for scene only and now scope of advice and last include
+1:11:56
+Earlier advice was confined to matter for scene only and now scope of advice and last include advice on appointment and fees of professionals and manner of sale, like e auction, p deposit unless money etc. time period sector, along with bringing a notice to the work done by the by him before constitution of scc, like appointment of values within seven days against constitution of cc in securities. What basically is their key? 
+
+1:12:23
+You know the scope has been enlarged and as we know that stakeholder security was formed in 60 days. But you know liquidator was bound to point values within seven days and if any decision has been taken by him from his appointment till the point, whatever sickly working is, he is duty bound now to inform to the stakeholders about it. 
+
+1:12:45
+About that earlier was that he was only required to you know, inform to the stakeholders body after their formation, nothing before any work done by him. Yeah, there is also some small change. This you know. as we talked about the stakeholders commented here. One representative of each class is there? 
+
+
+## What earlier, what was the earlier the prisoners were that the person who is holding the highest value
+1:13:11
+No, what earlier, what was the earlier the prisoners were that the person who is holding the highest value in percentage in that particular class was treated as a majority per person as a representative for the whole that particular class. Now it has been changed and now that person present and vote will, it's like that who will represent in that particular class to the scc. That is the only change. 
+
+1:13:41
+You know, prison that there has been also some change earlier as per pleasure to regulation 31a, subjection 10, liquidator was required to only record results and regard writing if he goes against the advice of scc and now he has to mention it in the subsequent progress report. 
+
+1:14:00
+Also you know, there are small changes with reference to exit 47 schedule one format regulation 47 amended to remove the requirements of announcements to public after filing list of stakeholders scheduled one has been amended. These are very small changes. Nothing need to understand. If you go through these cities, you can understand yourself that the liquidity shall not regard payment of any non refundable deposit or fees for participation in an action under the liquidation process. 
+
+
+## What is the relationship between stakeholders committee and liquidator
+1:14:32
+That the earnest money deposit shall not exceed 10 of the reserve price. You know. If you want to see. Any of our ipc's are really interested in understanding the relationship of stakeholders committee and liquidator then I must tell them that they should. One very typical case, a techno system is going on at principal bank. they must study the adjudicating authority orders and hearing their end. 
+
+1:15:01
+Then they will realize that how big need was there, you know, with a relationship with stakeholders, committee, with legal data. All these changes. Since time is short, I'm just keeping the slide. These are these: you know small, small changes than liquidation. 
+
+1:15:27
+Okay, you know when this liquidation changes has also been brought after the discussion later, when I was comparing it, a discussion paper on liquidation changes with the this with the changes brought in by this introduction. You know I i thought of let me see whether there is any changes which word in the discussion paper but material in respect, but has not been taught in the liquidation process. 
+
+
+## ibbi has not drawn any change in the regulation
+1:15:56
+You know, I come across only one small thing is there which are in the discussion paper but which has not been brought as amendment in the regulation, that particularly it was with a reference appointment of any agent or broker for sale of assets. They can continue to be, you know, appointed. You know in the discussion paper there was there that rb shall not appoint any general broker for the sale officer. 
+
+1:16:21
+No, they can continue to be appointed with concentration of scc. This is a very big, you know, relief for vrp's liquidators working there and because selling of sl is not our domain and not our job. but it takes a lot of time and if any section should have been put on us of non appointment of any agenda like that, then it should have been very difficult for us to sell the assets. 
+
+1:16:58
+But ibbi has not drawn any change there and we are very happy. Okay, now my last slide is: you know this by notification? Ibbi has now created a site whereby, as a liquidator, you are compulsorily required to put your all the essential auctioning in that particular platform. They have created an electronic platform for hosting of liquidation assets. It is called public notice. And how? What steps are there? You have to know? 
+
+
+## Log into the ibbs site. You know I'm going live with it
+1:17:37
+Log into the ibbs site. You know I'm going live with it, so that you can understand. Yes, please, please carry on. I'm just, you know, sharing screen with you. yes, instead of going live. I'm just checking with. You have to log into the ibbi government in user login. There you'll find one assignment column there. You have to add an assignment there. 
+
+1:20:02
+Then again you have to return back to the dashboard and select relevant cd for under liquidation. After that you need to click on the auction notice window, for option notice will appear and fill and save as draft or submit there. That's all this is all my presentation. I hope thank you very much. 
+
+1:20:24
+I hope I have been able to justify my presentation and if any question answers up there, because I was asked to keep my assignments till 5.15. If there are any question answers, I'm willing to take those question answers please. I move into the host now. Thank you, sir. there are hardly any questions till now, but people are demanding a lot about your ppt. Will that be updated? 
+
+
+## ciars vice chairman gaurav ansel for vote of thanks for section number
+1:20:53
+So yeah, definitely I shall share it with you and later on you can distribute with the all this okay, thank you, sir. Okay, so we now invite the vice chairman of agra branch of ciars for a vote of thanks for section number one. Welcome to thank you, ca devagna. Good evening to all the dignitaries and respected members beating the monday blues 20th vcm being organized by continuing professional education committee of ici. 
+
+1:21:42
+I see ip gaurav ansel, vice chairman of agra branch of circ, on behalf of cpa committee of ici, extend my heartfelt thanks to our eminent speaker, ca manoj kumar anand for such a wonderful deliberation on amendment to cirp and liquidation regulation as on 30th september 2021. the practical aspects explained by the speaker within such a lucid manner is remarkable. once again I thanks to this. 

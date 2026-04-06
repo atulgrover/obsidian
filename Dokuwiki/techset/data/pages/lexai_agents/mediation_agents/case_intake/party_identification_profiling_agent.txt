@@ -1,0 +1,5 @@
+The Party Identification and Profiling Agent verifies and profiles all entities involved in the dispute—corporate debtors, creditors, guarantors, or counterparties. It uses public registries and databases to authenticate legal identities and extract relevant corporate or individual background information.
+
+By analyzing data from MCA, ROC filings, financial disclosures, and litigation records, the agent builds detailed profiles highlighting ownership, control relationships, and past insolvency or dispute involvement. This allows the IP or mediator to assess potential related-party issues or hidden affiliations that might affect neutrality or process integrity.
+
+The profiling output includes a structured dossier summarizing each party’s credentials, role in the dispute, and financial position. This ensures that all stakeholders are accurately identified before proceeding, minimizing risks of representation errors or jurisdictional challenges later in the process.

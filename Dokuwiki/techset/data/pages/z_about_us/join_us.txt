@@ -1,0 +1,56 @@
+====== About Us ======
+
+<WRAP GROUP>
+
+<WRAP column 38%>
+**Our Mission:**  
+To streamline insolvency resolution by connecting financial creditors, resolution applicants, and professionals through a transparent, data-driven platform, making every resolution faster, efficient, and fully compliant with IBC 2016.
+</WRAP>
+
+<WRAP column 38%>
+**Our Vision:**  
+To be India’s leading marketplace for insolvency resolutions, leveraging AI-driven insights and real-time data to maximize recoveries and ensure stakeholder satisfaction.
+</WRAP>
+
+<WRAP column 24%>
+</WRAP>
+
+</WRAP>
+
+====== Our Pricing ======
+
+<WRAP GROUP>
+<WRAP half column>
+===== Pay-It-Forward =====
+We believe in **sharing knowledge and tools freely**. All our free offerings are designed to help you grow while giving back to the IBC professional community. These services include
+  - **Chatbot Access** ODRchat, IBCchat, VALchat for instant support and dispute resolution guidance
+  - **Directory Listing** Get listed as a mediator, professional, or valuer for better visibility
+  - **Academic Resources** Access mock tests, case laws, case studies, and study materials
+  - **Internship Placements** Connect with opportunities to grow your expertise
+</WRAP>
+
+<WRAP half column>
+===== Pay-Per-Use =====
+For professionals seeking **custom AI solutions and full software support**, we offer paid plans with complete setup and integration:
+  - **Digital AI Agents** – Tailored AI assistants for case analysis, decision support, and workflow automation
+  - **Frontend & Backend Setup** – Full deployment of your web and internal systems
+  - **Premium Support** – Technical assistance, onboarding, and ongoing maintenance
+</WRAP>
+</WRAP>
+
+====== Roadmap ======
+^ Quarter ^ Focus Area ^ Key Initiatives ^ Deliverables/KPIs ^
+| Q1 2026 | Foundations & Research | Market study, regulatory review (IBC 2016), AI tech stack selection | Whitepapers, regulatory compliance checklist, AI architecture blueprint |
+| Q1-Q2 2026 | Data Infrastructure | Collect historical CIRP data, company filings, claim data; build secure databases | Structured datasets for agent training, APIs for internal access |
+| Q2 2026 | Agent Prototyping | Develop first set of proof-of-concept agents: <br> • Claimant Outreach Agent <br> • Investor Identification Agent <br> • Document Summarization Agent | Functional prototypes with sample outputs, internal demo dashboards |
+| Q2-Q3 2026 | Validation & Testing | Test agent outputs on mock insolvency cases; measure accuracy, relevance, efficiency | Test reports, KPI metrics (speed, accuracy, compliance) |
+| Q3 2026 | Integration Platform | Build a central orchestration system connecting all agents; define workflows | Internal platform alpha version with agent orchestration |
+| Q3-Q4 2026 | Advanced Agent Development | Predictive Recovery Agent, Debt Repayment Planning Agent, Risk & Sentiment Analysis Agents | Beta versions for pilot use, integration with orchestration system |
+| Q4 2026 | Pilot Programs | Partner with 1-2 Insolvency Professionals / firms to run real case pilots | Pilot reports, feedback loop for agent refinement, initial ROI metrics |
+| Q4 2026 | Go-to-Market Preparation | Build investor pitch decks, marketing collaterals, finalize subscription/pricing model | Go-to-market strategy document, investor-ready demos, website / portal launch plan |
+
+====== Contact Us ======
+  * **Email** info@resolutionbazaar.com
+  * **Phone** +91-9814040900
+  * **Address** 1634, Secto 18-D, Chandigarh, India
+  * **Website** [[https://resolutionbazaar.com|resolutionbazaar.com]]

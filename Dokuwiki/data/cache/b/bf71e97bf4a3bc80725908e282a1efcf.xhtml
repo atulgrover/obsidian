@@ -1,0 +1,121 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Insolvency Case Filing Automation Agent (ICFAA)&quot;,
+&quot;agentDescription&quot;: &quot;Automates the end-to-end preparation and compilation of insolvency petition documents required for filing with the adjudicating authority (e.g., NCLT under IBC). Ensures accuracy, completeness, and compliance with procedural requirements, streamlining the initiation of the insolvency process.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Automate the generation of specific application forms (e.g., Form 1 for Financial Creditors, Form 5 for Operational Creditors, Form 6 for Corporate Applicants under IBC).&quot;,
+  &quot;Gather and consolidate all necessary information and evidence required for the application.&quot;,
+  &quot;Ensure the filing package complies with the rules and regulations of the relevant insolvency code (e.g., IBC rules and NCLT procedural rules).&quot;,
+  &quot;Generate a complete, correctly formatted, and indexed set of documents ready for submission.&quot;,
+  &quot;Automate the drafting of accompanying documents like affidavits, board resolutions (templates), and demand notices (if applicable).&quot;,
+  &quot;Facilitate the integration of outputs from other agents (like DDVA&#039;s evidence package).&quot;,
+  &quot;Reduce errors and omissions in the filing process.&quot;,
+  &quot;Track the status of application preparation and submission.&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Data Aggregation: Collects debtor information, creditor/applicant details, debt specifics, default evidence (integrates with DDVA), and proposed Insolvency Professional details.&quot;,
+  &quot;Form Generation: Populates predefined official application forms using collected data.&quot;,
+  &quot;Template Utilization: Uses templates for standardized documents like affidavits, authorization letters, and notices.&quot;,
+  &quot;Document Assembly: Compiles the main application form, annexures, evidence, and other supporting documents into a single package.&quot;,
+  &quot;Compliance Validation Engine: Checks the application package against a predefined checklist of requirements (e.g., required fields, necessary attachments, default thresholds).&quot;,
+  &quot;Indexing and Formatting: Generates an index and ensures documents are formatted according to court/tribunal requirements (e.g., pagination, specific PDF standards).&quot;,
+  &quot;Workflow Management: Guides the user through the preparation steps, prompting for required inputs or approvals.&quot;,
+  &quot;E-filing Preparation (Conceptual): Generates output files potentially compatible with NCLT&#039;s e-filing portal requirements (if specifications are known and stable).&quot;,
+  &quot;Communication Assistance: Can draft initial notices (like S.8 Demand Notice for OCs) and potentially log proof of service.&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Financial Creditors&quot;,
+  &quot;Operational Creditors&quot;,
+  &quot;Corporate Debtors (Applicants)&quot;,
+  &quot;Law Firms assisting applicants&quot;,
+  &quot;Insolvency Professionals (assisting applicants before appointment)&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Applicant Details (Name, Address, Contact, Status, Authorization).&quot;,
+  &quot;Corporate Debtor Details (Name, CIN, Registered Address).&quot;,
+  &quot;Proposed Insolvency Professional Details (Name, Registration Number, Address, Written Consent - typically Form 2 under IBC).&quot;,
+  &quot;Verified Default Data (Output from DDVA or equivalent verification: Amount, Date of Default, Debt particulars).&quot;,
+  &quot;Supporting Evidence (Contracts, Invoices, Proof of delivery/service, Bank Statements, Communication records - from DDVA).&quot;,
+  &quot;Specific Application Form Templates (NCLT Forms).&quot;,
+  &quot;Proof of service for any required prior notices (e.g., Demand Notice under Sec 8 IBC for OCs).&quot;,
+  &quot;Fee payment details (if applicable).&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Completed Application Forms (e.g., Form 1, 5, 6 in PDF).&quot;,
+  &quot;Fully Assembled Filing Package (Indexed PDF or collection of files in required format).&quot;,
+  &quot;Generated Supporting Documents (Affidavits, Authorizations - PDF/DOCX).&quot;,
+  &quot;Compliance Checklist Report (indicating status of requirements).&quot;,
+  &quot;Error / Missing Information Report.&quot;,
+  &quot;Audit trail of the preparation process.&quot;,
+  &quot;Draft communication notices (PDF/DOCX).&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Significant reduction in time and effort for petition preparation.&quot;,
+  &quot;Improved accuracy and reduced risk of procedural errors.&quot;,
+  &quot;Ensures completeness of the filing package, potentially speeding up admission.&quot;,
+  &quot;Standardizes the filing process across multiple cases or users.&quot;,
+  &quot;Lowers costs associated with manual preparation.&quot;,
+  &quot;Provides a clear workflow and status tracking.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Data Acquisition &amp; Integration&quot;,
+    &quot;tools&quot;: [
+      &quot;Database Connectors (SQL)&quot;,
+      &quot;API Clients (to interact with DDVA or other internal systems)&quot;,
+      &quot;Spreadsheet Processing Libraries (Pandas)&quot;,
+      &quot;File System Access&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Document Generation &amp; Templating&quot;,
+    &quot;tools&quot;: [
+      &quot;PDF Generation/Manipulation Libraries (ReportLab, PyPDF2, iTextSharp)&quot;,
+      &quot;Template Engines (Jinja2, Apache Velocity)&quot;,
+      &quot;Office Document Libraries (python-docx, Apache POI)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Processing &amp; Validation&quot;,
+    &quot;tools&quot;: [
+      &quot;Data Manipulation Libraries (Pandas, NumPy)&quot;,
+      &quot;Data Validation Libraries (Cerberus, Pydantic)&quot;,
+      &quot;Rule Engines (custom logic or frameworks like Drools)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Workflow &amp; User Interface&quot;,
+    &quot;tools&quot;: [
+      &quot;Workflow Engines (optional, e.g., Airflow, Prefect, Camunda)&quot;,
+      &quot;Web Frameworks (if web-based UI is required: Flask, Django, React, Angular)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Storage&quot;,
+    &quot;tools&quot;: [
+      &quot;Relational Databases (PostgreSQL, MySQL - for case data, user info, templates, compliance rules)&quot;,
+      &quot;File Storage (Local or Cloud - S3, Azure Blob - for storing generated documents and evidence)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Communication (Limited Scope)&quot;,
+    &quot;tools&quot;: [
+      &quot;Email Service APIs (for potentially sending copies of draft notices)&quot;
+    ]
+  },
+  {
+     &quot;toolCategory&quot;: &quot;Packaging &amp; Formatting&quot;,
+     &quot;tools&quot;: [
+        &quot;File Archiving Libraries (e.g., ZipFile in Python)&quot;,
+        &quot;Specific formatting tools if required by e-filing portals&quot;
+     ]
+  }
+]</pre>
+
+<p>
+}
+</p>

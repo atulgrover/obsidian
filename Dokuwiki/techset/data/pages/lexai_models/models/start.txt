@@ -1,0 +1,30 @@
+  * EMBEDDINGS MODELOur highly specialized embedding model captures the intricate nuances of legal language, transforming complex documents into rich vector representations that enhance semantic understanding and search accuracy. 
+  * RETRIEVAL MODELDesigned for efficiency, our retrieval model swiftly identifies and extracts the most relevant legal precedents and information, ensuring pinpoint accuracy in vast legal datasets. 
+  * GENERATIVE MODELTailored for the legal domain, our generative model crafts coherent, contextually precise responses, offering detailed insights and case-specific legal narratives with unparalleled accuracy. 
+
+<WRAP group>
+
+<WRAP half column> 
+|{{:agent_icon.png?500}}|**[[rbz_technologies:datasets:start|Datasets]]** - Identifies and profiles potential investors or resolution applicants by scanning open databases, financial portals, and professional networks. Filters candidates based on sector interest, investment size, and turnaround expertise. Generates a contact list with tailored outreach messages for each prospect.|
+</WRAP>
+
+
+<WRAP half column> 
+|{{:agent_icon.png?500}}|**[[rbz_technologies:erpagents:start|Business Agent]]** - Prepares and distributes investment teasers, pitch decks, and sale notices for distressed assets or companies under CIRP/liquidation. Uses market analytics and digital channels to reach strategic buyers. Tracks engagement metrics to optimize marketing reach and investor conversions.|
+</WRAP>
+
+</WRAP>
+
+<WRAP group>
+
+<WRAP half column> 
+|{{:agent_icon.png?500}}|**[[rbz_technologies:models:start|AI Models]]** - Identifies and profiles potential investors or resolution applicants by scanning open databases, financial portals, and professional networks. Filters candidates based on sector interest, investment size, and turnaround expertise. Generates a contact list with tailored outreach messages for each prospect.|
+</WRAP>
+
+
+<WRAP half column> 
+|{{:agent_icon.png?500}}|**[[rbz_technologies:software:start|Software]]** - Prepares and distributes investment teasers, pitch decks, and sale notices for distressed assets or companies under CIRP/liquidation. Uses market analytics and digital channels to reach strategic buyers. Tracks engagement metrics to optimize marketing reach and investor conversions.|
+</WRAP>
+
+</WRAP>
+  

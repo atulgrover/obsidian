@@ -1,0 +1,122 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Document Analysis and Verification Agent (DAVA)&quot;,
+&quot;agentDescription&quot;: &quot;Analyzes financial documents, contracts, agreements, and other relevant evidence to verify authenticity, detect signs of forgery or manipulation, and check for compliance with expected standards or internal consistency. Aids forensic auditors by flagging suspicious documents requiring closer scrutiny.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual (some capabilities are highly advanced/research-oriented)&quot;,
+&quot;goals&quot;: [
+  &quot;Automate the preliminary screening of large volumes of documents for potential signs of tampering or fraud.&quot;,
+  &quot;Verify the internal consistency of information within documents (e.g., dates, amounts, signatures).&quot;,
+  &quot;Analyze document metadata for anomalies suggesting manipulation (e.g., unusual creation/modification dates, suspicious software origin).&quot;,
+  &quot;Detect potential image manipulation in scanned documents (e.g., alterations, inconsistencies in fonts, spacing, or signatures).&quot;,
+  &quot;Cross-reference key information (names, dates, amounts) across related documents to identify discrepancies.&quot;,
+  &quot;Check documents against known templates or standards for structural anomalies.&quot;,
+  &quot;Flag documents exhibiting characteristics commonly associated with forgery or fabrication.&quot;,
+  &quot;Provide a report detailing suspicious findings for expert forensic review.&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Document Ingestion &amp; Parsing: Reads various formats (PDF, DOCX, common image types like JPG, PNG, TIFF).&quot;,
+  &quot;Optical Character Recognition (OCR): Converts scanned documents/images into machine-readable text.&quot;,
+  &quot;Metadata Analysis: Extracts and analyzes embedded metadata (Author, Creation Date, Modification Date, Software used, etc.) for inconsistencies or red flags.&quot;,
+  &quot;Textual Analysis (NLP): Extracts key entities, checks for grammatical anomalies, unusual language patterns, or internal date/amount inconsistencies.&quot;,
+  &quot;Layout and Formatting Analysis: Detects unusual spacing, inconsistent fonts, or alignment issues potentially indicative of alterations.&quot;,
+  &quot;Image Forensic Analysis (Advanced): Uses techniques like Error Level Analysis (ELA - detects compression inconsistencies), noise analysis, and pixel-level comparison to spot potential digital manipulation in images or scanned signatures/stamps.&quot;,
+  &quot;Signature Anomaly Detection (Conceptual/Advanced): Compares features of scanned signatures against known samples or flags statistically unusual characteristics (NOTE: definitive forgery detection is extremely complex and often requires human expertise).&quot;,
+  &quot;Checksum/Hash Comparison: Verifies integrity if multiple versions of a digital document exist.&quot;,
+  &quot;Cross-Document Consistency Check: Compares extracted data points (e.g., invoice number, amount, date) between related documents (e.g., Invoice vs. PO vs. Delivery Note vs. Bank Statement entry).&quot;,
+  &quot;Rule-Based Flagging: Applies rules based on common forgery indicators.&quot;,
+  &quot;Reporting Engine: Generates detailed reports highlighting flagged documents, specific areas of concern (e.g., annotating images/PDFs), and the reasons for suspicion.&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Forensic Auditors&quot;,
+  &quot;Insolvency Professionals / Resolution Professionals / Liquidators&quot;,
+  &quot;Legal Teams (reviewing evidence)&quot;,
+  &quot;Compliance Officers&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Digital copies of documents to be analyzed (PDF, DOCX, JPG, PNG, TIFF, etc.).&quot;,
+  &quot;Potentially, known authentic document samples or templates for comparison.&quot;,
+  &quot;Known authentic signature samples (for advanced comparison - highly dependent on availability and quality).&quot;,
+  &quot;Lists of related documents for cross-referencing.&quot;,
+  &quot;Rules defining common document standards or forgery indicators.&quot;,
+  &quot;Metadata extraction tools configured properly.&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Document Verification Report (PDF, HTML) detailing findings per document.&quot;,
+  &quot;List of Flagged Documents with prioritized suspicion levels.&quot;,
+  &quot;Annotated Documents highlighting specific areas of concern.&quot;,
+  &quot;Extracted Metadata Summaries.&quot;,
+  &quot;Cross-Referencing Discrepancy Report.&quot;,
+  &quot;Structured Data Export (JSON, CSV) of findings.&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Accelerates the time-consuming task of preliminary document review.&quot;,
+  &quot;Detects subtle signs of forgery or manipulation potentially missed by the human eye.&quot;,
+  &quot;Increases the accuracy and reliability of evidence assessment.&quot;,
+  &quot;Provides objective data to support forensic conclusions about document integrity.&quot;,
+  &quot;Helps focus manual forensic examination efforts on the most suspicious items.&quot;,
+  &quot;Improves efficiency in large-scale document-intensive investigations.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Document Handling &amp; Parsing&quot;,
+    &quot;tools&quot;: [
+      &quot;PDF Libraries (e.g., PyMuPDF/Fitz, pdfminer.six, Poppler utils)&quot;,
+      &quot;Image Processing Libraries (e.g., PIL/Pillow, OpenCV)&quot;,
+      &quot;Office Document Libraries (e.g., python-docx, Apache POI)&quot;,
+      &quot;Optical Character Recognition (OCR) Engines (e.g., Tesseract, PaddleOCR, Cloud-based OCR APIs)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Metadata Analysis&quot;,
+    &quot;tools&quot;: [
+      &quot;Metadata Extraction Libraries/Tools (e.g., ExifTool wrappers, specific libraries for PDF/Office metadata)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Natural Language Processing (NLP)&quot;,
+    &quot;tools&quot;: [
+      &quot;Core NLP Libraries (e.g., spaCy, NLTK - for text extraction, entity recognition)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Image Forensics &amp; Computer Vision&quot;,
+    &quot;tools&quot;: [
+      &quot;Computer Vision Libraries (e.g., OpenCV - essential for many techniques)&quot;,
+      &quot;Specialized Image Forensic Libraries/Tools (e.g., libraries implementing ELA, noise analysis - potentially research-level or commercial tools)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Machine Learning (for advanced capabilities)&quot;,
+    &quot;tools&quot;: [
+      &quot;ML Frameworks (e.g., Scikit-learn, TensorFlow, PyTorch - for anomaly detection, potential signature analysis models)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Storage&quot;,
+    &quot;tools&quot;: [
+      &quot;Databases (e.g., SQL or NoSQL - for storing analysis results, document metadata)&quot;,
+      &quot;File Storage (Local or Cloud - for managing the documents themselves)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Reporting &amp; Visualization&quot;,
+    &quot;tools&quot;: [
+      &quot;Reporting Libraries (e.g., ReportLab, FPDF)&quot;,
+      &quot;Image Annotation Libraries (within OpenCV or others)&quot;,
+      &quot;Data Visualization Libraries (if visualizing trends or anomalies)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Hashing &amp; Integrity&quot;,
+    &quot;tools&quot;: [
+       &quot;Standard Hashing Libraries (e.g., hashlib in Python)&quot;
+    ]
+  }
+]</pre>
+
+<p>
+}
+</p>

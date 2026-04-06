@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://www.resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar - claimants:claim_forms:liquidation_process</title>
+        <description>Digital Agents for IBC Processes</description>
+        <link>https://www.resolutionbazaar.com/</link>
+        <image rdf:resource="https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-04-24T03:21:19+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_c&amp;rev=1745251541&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_d&amp;rev=1745251529&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_e&amp;rev=1745251552&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_f&amp;rev=1745251594&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_g&amp;rev=1745251634&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://www.resolutionbazaar.com/</link>
+        <url>https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_c&amp;rev=1745251541&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:05:41+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cilp_form_c</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_c&amp;rev=1745251541&amp;do=diff</link>
+        <description>Liquidation Process Form C - Proof of Claim by Operational Creditors except Workmen and Employees</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_d&amp;rev=1745251529&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:05:29+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cilp_form_d</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_d&amp;rev=1745251529&amp;do=diff</link>
+        <description>Liquidation Process Form D - Proof of Claim by Financial Creditors</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_e&amp;rev=1745251552&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:05:52+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cilp_form_e</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_e&amp;rev=1745251552&amp;do=diff</link>
+        <description>Liquidation Process Form E - Proof of Claim by Worker or Employee</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_f&amp;rev=1745251594&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:06:34+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cilp_form_f</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_f&amp;rev=1745251594&amp;do=diff</link>
+        <description>Liquidation Process Form F - Proof of claim by Authorised Representative of Worker or Employees</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_g&amp;rev=1745251634&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:07:14+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cilp_form_g</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=claimants:claim_forms:liquidation_process:cilp_form_g&amp;rev=1745251634&amp;do=diff</link>
+        <description>Liquidation Process Form G - Proof of Claim by any Other Stakeholder</description>
+    </item>
+</rdf:RDF>

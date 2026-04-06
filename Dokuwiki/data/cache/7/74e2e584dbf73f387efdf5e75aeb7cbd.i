@@ -1,0 +1,102 @@
+a:9:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:0;}i:2;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"{";}i:2;i:1;}i:3;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2;}i:4;a:3:{i:0;s:12:"preformatted";i:1;a:1:{i:0;s:5277:""agentName": "Stakeholder Communication and Management Agent (SCMA - Claimant Interaction)",
+"agentDescription": "Facilitates effective communication from the Insolvency Professional (IP)/RP/Liquidator to claimants and potentially other stakeholders (CoC, NCLT). Manages contact lists, automates the distribution of routine updates, notices, and documents, and ensures claimants are informed about case progress and required actions as per IBC procedures.",
+"version": "1.0",
+"status": "Conceptual",
+"goals": [
+  "Ensure timely delivery of mandatory and relevant communications to claimants.",
+  "Manage accurate contact information for all claimant groups.",
+  "Automate the distribution of standardized notifications (meeting notices, report availability, deadline reminders).",
+  "Provide claimants with access to relevant documents shared by the IP/RP.",
+  "Maintain a verifiable log of communications sent to claimants.",
+  "Facilitate alignment by ensuring claimants receive consistent information.",
+  "Support compliance with statutory communication requirements towards claimants."
+],
+"keyCapabilities": [
+  "Contact List Management: Maintains segmented lists of claimants (Financial, Operational, Employees, etc.) with verified contact details.",
+  "Templated Communication Engine: Uses predefined templates for consistent messaging in notices and updates directed at claimants.",
+  "Multi-Channel Distribution: Sends communications via configured channels (primarily Email, potentially SMS or notifications via a claimant portal like IPNA).",
+  "Secure Document Distribution: Attaches or provides secure links to documents intended for claimant review (e.g., list of creditors, meeting agendas, approved plan summaries).",
+  "Delivery Tracking & Logging: Records when communications are sent to claimants and tracks delivery status (if available from the service provider).",
+  "Acknowledgement Tracking (Optional): Can include mechanisms (e.g., links in emails, portal buttons) for claimants to acknowledge receipt of critical communications.",
+  "Targeted Messaging: Sends specific communications only to relevant claimant groups (e.g., voting information only to CoC members).",
+  "Integration with Claimant Portals: Can push notifications and document links to platforms like the Insolvency Process Navigator Agent (IPNA)."
+],
+"targetUsers": [
+  "Insolvency Professionals (IPs) / Resolution Professionals (RPs) / Liquidators (as Senders)",
+  "Teams supporting the IP/RP/Liquidator (as Senders)",
+  "Claimants (Financial, Operational, Employees, etc. - as Recipients)",
+  "Committee of Creditors (CoC) Members (as Recipients)",
+  "Other relevant Stakeholders (as Recipients)"
+],
+"inputDataRequirements": [
+  "Verified List of Claimants with Contact Details (from CIMA or equivalent).",
+  "Categorization/Grouping of Claimants.",
+  "Communication Content (Notices, Reports, Updates) provided by IP/RP.",
+  "Approved Communication Templates.",
+  "Configuration for preferred delivery channels.",
+  "Instructions on which documents to distribute to which groups."
+],
+"outputFormats": [
+  "Delivered Emails / SMS messages to claimants.",
+  "Notifications within claimant portals (e.g., IPNA).",
+  "Communication Log Report (filtered by claimant/group, date).",
+  "Acknowledgement Status Report (if feature enabled).",
+  "Audit Trail of communication activities."
+],
+"potentialBenefits": [
+  "Ensures claimants receive timely and required information throughout the insolvency process.",
+  "Improves transparency and reduces information asymmetry for claimants.",
+  "Streamlines the IP/RP's communication workload, especially for routine updates.",
+  "Provides a verifiable record of communications, aiding compliance.",
+  "Enhances claimant engagement by keeping them informed of key events and deadlines.",
+  "Standardizes communication quality and content."
+],
+"requiredTools": [
+  {
+    "toolCategory": "Data Storage & Management",
+    "tools": [
+      "Relational Databases (e.g., PostgreSQL, MySQL - for storing contacts, templates, logs)"
+    ]
+  },
+  {
+    "toolCategory": "Communication Services (Core)",
+    "tools": [
+      "Email Service APIs (e.g., SendGrid, AWS SES, Mailgun, Microsoft Graph API)",
+      "SMS Gateway APIs (Optional, e.g., Twilio, Vonage)"
+    ]
+  },
+  {
+    "toolCategory": "Backend Processing & Logic",
+    "tools": [
+      "Programming Languages (e.g., Python, Java, Node.js)",
+      "Web Frameworks (If UI needed for IP/RP to manage communications)"
+    ]
+  },
+  {
+    "toolCategory": "Templating & Document Handling",
+    "tools": [
+      "Template Engines (e.g., Jinja2)",
+      "Libraries for handling file attachments/links",
+      "Integration with Document Management Systems/Repositories"
+    ]
+  },
+  {
+    "toolCategory": "Scheduling & Workflow",
+    "tools": [
+      "Task Schedulers (e.g., Cron, Celery - for scheduled updates or reminders)"
+    ]
+  },
+  {
+    "toolCategory": "Integration with Claimant Portals",
+    "tools": [
+      "API Clients (REST, etc. to push data/notifications to IPNA or similar platforms)"
+    ]
+  },
+  {
+     "toolCategory": "Security & Access Control",
+     "tools": [
+        "Mechanisms to ensure correct targeting of communications",
+        "Secure handling of contact data"
+      ]
+  }
+]";}i:2;i:2;}i:5;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2;}i:6;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"}";}i:2;i:5485;}i:7;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:5485;}i:8;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:5485;}}

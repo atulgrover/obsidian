@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://lexai.co.in/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lexai.co.in/feed.php">
+        <title>RESOLUTION BAZAAR - insolvency_agents:agents:guarantor_agents</title>
+        <description>AI AGENTS - INSOLVENCY PROCESSES</description>
+        <link>https://lexai.co.in/</link>
+        <image rdf:resource="https://lexai.co.in/lib/exe/fetch.php/wiki:dokuwiki.svg" />
+       <dc:date>2026-03-13T15:14:40+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:apoa?rev=1744455855&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:cnsa?rev=1744455657&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:crca?rev=1744451943&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:fpra?rev=1744456194&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:ipna?rev=1744451832&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:lpcla?rev=1744455947&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:plaa?rev=1744450286&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:rmma?rev=1744452248&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lexai.co.in/lib/exe/fetch.php/wiki:dokuwiki.svg">
+        <title>RESOLUTION BAZAAR</title>
+        <link>https://lexai.co.in/</link>
+        <url>https://lexai.co.in/lib/exe/fetch.php/wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:apoa?rev=1744455855&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T11:04:15+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>apoa</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:apoa?rev=1744455855&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Asset Protection and Optimization Agent (APOA)&quot;,
+&quot;agentDescription&quot;: &quot;Analyzes the personal assets of a Personal Guarantor (PG) to identify potential exposure arising from guarantee invocations. Suggests general concepts and areas for professional review regarding asset optimization, structuring, and protection strategies *within legal boundaries*, helping PGs understand ways to manage exposure before seeking specific legal and financial advice. *Does not provide legal or investm…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:cnsa?rev=1744455657&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T11:00:57+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cnsa</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:cnsa?rev=1744455657&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Creditors&#039; Negotiation Support Agent (CNSA)&quot;,
+&quot;agentDescription&quot;: &quot;Assists Personal Guarantors (PGs) or their advisors in negotiating with creditors holding the guarantee. Analyzes the PG&#039;s financial situation, potential settlement structures, and provides data-driven arguments to support achieving favorable settlement terms regarding the invoked personal guarantee liability.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Analyze the PG&#039;s capacity to pay based on asses…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:crca?rev=1744451943&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T09:59:03+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>crca</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:crca?rev=1744451943&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Contract Review and Compliance Agent (CRCA)&quot;,
+&quot;agentDescription&quot;: &quot;Analyzes personal guarantee contracts provided by Personal Guarantors (PGs) to Corporate Debtors. Evaluates contract clauses for legal compliance, potential liabilities, loopholes, and risks under relevant laws (like the Indian Contract Act, IBC). Monitors legal and regulatory changes affecting PG liability. *This agent provides analysis for informational purposes and to support legal review; it does not constitut…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:fpra?rev=1744456194&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T11:09:54+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>fpra</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:fpra?rev=1744456194&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Financial Planning and Restructuring Agent (FPRA)&quot;,
+&quot;agentDescription&quot;: &quot;Provides personalized financial planning insights and analyzes personal financial restructuring strategies for Personal Guarantors (PGs) facing potential liability from Corporate Debtor (CD) defaults. Helps PGs manage personal finances effectively, understand options, and work towards financial stability amidst the insolvency proceedings. *This agent provides planning support and generalized strategies; it d…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:ipna?rev=1744451832&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T09:57:12+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ipna</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:ipna?rev=1744451832&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Insolvency Proceedings Navigator Agent (IPNA for PG)&quot;,
+&quot;agentDescription&quot;: &quot;Assists Personal Guarantors (PGs) to Corporate Debtors in understanding and navigating the specific procedures of India&#039;s Insolvency and Bankruptcy Code (IBC) applicable to them. Clarifies timelines, legal requirements, filing procedures, helps identify the appropriate Adjudicating Authority (NCLT or DRT), and provides updates on relevant proceedings. *This agent provides informational support and does no…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:lpcla?rev=1744455947&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T11:05:47+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>lpcla</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:lpcla?rev=1744455947&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Legal Precedent and Case Law Analyzer Agent (LPCLA)&quot;,
+&quot;agentDescription&quot;: &quot;Specializes in tracking, searching, and analyzing legal precedents and case law specifically concerning Personal Guarantors (PGs) under the Insolvency and Bankruptcy Code (IBC) and related statutes (e.g., Contract Act). Provides PGs and their counsel with insights into potential legal challenges, opportunities, judicial interpretations, and recent judgments impacting PG liability and rights.&quot;,
+&quot;version&quot;: &quot;…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:plaa?rev=1744450286&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T09:31:26+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>plaa</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:plaa?rev=1744450286&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Personal Liability Assessment Agent (PLAA)&quot;,
+&quot;agentDescription&quot;: &quot;Evaluates the personal financial position of individuals who have acted as personal guarantors for corporate debtors facing insolvency. Assesses the potential financial liability arising from invoked guarantees, identifies personal assets at risk, and provides informational insights and general financial planning strategies to understand and manage this exposure. *This agent provides analysis and does not constitut…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:rmma?rev=1744452248&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T10:04:08+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>rmma</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:guarantor_agents:rmma?rev=1744452248&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Risk Management and Mitigation Agent (RMMA)&quot;,
+&quot;agentDescription&quot;: &quot;Analyzes the personal guarantor&#039;s risk exposure identified by PLAA and explores potential *general* risk management strategies. Models impacts of various scenarios, provides insights into diversification concepts, liquidity planning, and monitors relevant market conditions. Aims to equip the PG with information to facilitate discussions with legal and financial advisors for concrete mitigation actions. *This agent…</description>
+    </item>
+</rdf:RDF>

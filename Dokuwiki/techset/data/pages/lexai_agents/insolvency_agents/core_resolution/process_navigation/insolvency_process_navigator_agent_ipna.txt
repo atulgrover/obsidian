@@ -1,0 +1,5 @@
+{{tag>store:insolvency_agents division:core_resolution cluster:process_navigation agent:insolvency_process_navigator_agent}}
+
+====== insolvency_process_navigator_agent ======
+
+coming soon ...

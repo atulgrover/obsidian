@@ -1,0 +1,20 @@
+<mermaid>
+
+flowchart LR
+    A[Frontend<br>Forms/Maps] <---> B[Backend<br>Project Management]
+    A --> C[AGENTS<br>AGI/RAG/XBRL]
+    C --> D[SSLMS<br>Specialized Small Language Models]
+    D --> B
+
+</mermaid>
+
+
+<code>
+<mermaid>
+flowchart LR
+    A[Frontend<br>Forms/Maps] <---> B[Backend<br>Project Management]
+    A --> C[AGENTS<br>AGI/RAG/XBRL]
+    C --> D[SSLMS<br>Specialized Small Language Models]
+    D --> B
+</mermaid>
+</code>

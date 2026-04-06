@@ -1,0 +1,7 @@
+**Data Privacy & Access Control Agent**
+
+The Data Privacy & Access Control Agent safeguards sensitive case data, ensuring compliance with data protection regulations and professional confidentiality standards. It manages authentication, role-based permissions, and audit trails for all system users handling insolvency records.
+
+The agent automatically classifies information as public, confidential, or restricted, and prevents unauthorized access or data sharing. It also encrypts files, maintains anonymized logs, and enforces retention/deletion policies consistent with GDPR and Indian data privacy laws.
+
+By integrating robust security protocols, this agent ensures that all digital case management activities—whether document uploads, financial analysis, or communications—remain secure, auditable, and ethically compliant.

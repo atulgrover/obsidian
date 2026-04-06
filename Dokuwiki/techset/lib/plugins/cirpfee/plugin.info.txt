@@ -1,0 +1,7 @@
+base   cirpfee
+author Atul Grover
+email  atulgroverr@gmail.com
+date   2025-10-20
+name   CIRP Fee Calculator
+desc   Calculates CIRP monthly fee for real estate corporate debtor
+url    https://resolutionbazaar.com

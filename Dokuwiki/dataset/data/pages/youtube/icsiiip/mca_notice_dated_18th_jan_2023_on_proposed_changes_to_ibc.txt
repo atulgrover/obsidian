@@ -1,0 +1,1695 @@
+# MCA notice dated 18th Jan 2023 on "Proposed changes to IBC"
+![](https://img.youtube.com/vi/5owIG8PPctE/hqdefault.jpg)
+1 year ago (Jan 27, 2023) — 3:27:38
+[https://youtube.com/watch?v=5owIG8PPctE](https://youtube.com/watch?v=5owIG8PPctE)
+
+
+## Summary
+The discussion, led by moderators Vinod Kothari and Sikha Bansal, focuses on the Ministry of Corporate Affairs (MCA) circular from January 2023, which proposes over 30 changes to the Insolvency and Bankruptcy Code (IBC). The participants discuss the impact of these suggestions, the cultural change brought by the IBC, and the need for timely completion of processes. The proposed amendments include the use of technology for automation, mandatory admission of applications if default evidence is available, decriminalization of certain provisions, and changes to the waterfall mechanism. The roundtable aims to gather feedback from professionals on these amendments.
+
+## IPC suggestions: Vinod kutari sir, vinod kothari
+0:01
+And all the participants. Thank you for joining this session. The topic or the subjects I should say that we shall take up our discussion today pertain to the suggestions that have been made under Ministry of corporate Affairs circular dated 18th of January 2023. The same have been put out for public comments and, once implemented, the suggestions would have far reaching implications and they shall help us in overcoming many of the challenges that the stakeholders are facing today, with the in solvency resolution process under the IPC now to throw light and to Enlighten us on those suggestions, we have with us vinod kutari sir and she commensal Madden, and let me take a brief moment to introduce our moderators for today. 
+
+0:46
+I shall start with vinod kothari sir, who actually does not eat any kind of introduction. sir is a fellow member of Institute of company secretaries of India, as also an associate member of the EC Road of Chartered Accountants of India and within experience of over 30 years in corporate law advisory servers, one of the first installation professions in India. 
+
+1:07
+Sir has also contributed several books, including one of the very first books on IVC that was titled as law relating to insolutely and Bankruptcy Court 2016. Sir has been appointed as the insolvency professional in separate matters and Sir has also been consulted for matters relating to IPC in accredited and regular lecture lecturer at the icsi, ICA and B icma and other professional forums, such as conducted seminars in over 25 jurisdictions all over the world. 
+
+
+## Getting to see conventional Madam sir ma'am is an associate member of Team zero
+1:41
+Getting to see conventional Madam sir ma'am is an associate member of Team zero company Securities of India. she also secured all India ranking examinations conducted by. The Institute. Her query of expertise include insolvency law to law relating to security interest corporate laws and financial regulations. Ma'am is also co authored of the book law relating to insology in bankruptcy court 2016 and has authored several articles on subjects pertaining to insolvency law. 
+
+2:11
+She has been engaged extensively in resolution and liquidation matters. Is also advisory under the IPC. So with that brief introduction may I request to take over sir over to you. Thank you, nitinji, and very good afternoon, everyone. As usual, it's always a great pleasure to be interacting with professors around the insolvency bankruptcy code. 
+
+2:42
+We are today discussing the MCA notice a proposing more than 30 changes in the insolvency in bankruptcy code, and I would start by first saying that there was overwhelming feeling coming from all circles. In fact, today's Economic Times carries an editorial piece on this very issue that the insolvency bankruptcy court was launched with the great forward with great hope. 
+
+
+## The Lord made a huge difference in the country.
+3:14
+The entire world was looking at it extremely optimistically, as if this would resolve the long standing problem of sticky and slow movement of resolution matters in the country we had we had experience with drts and surface earlier, and we were hoping that this law would make a huge difference. Now no one is saying that the law has not made if the Lord made a tremendous difference. 
+
+3:39
+I think we all agree that the law has made a substantial difference, particularly when it comes to the culture of meeting contractual obligations in the country. I mean the message that it's thrown to all the businesses and all the industries is that if you don't meet your contractual obligations, you can understand what the fate of the entity would be. So that way it's done a great job of leading to a cultural change. 
+
+4:09
+However, if the I would say the highlight of the code was timely completion of processes, because everybody talked about time. Not that insolvency was any anyway new in the country. Insolvency was there in companies that it's always been there over the years. But what was missing was timeliness and therefore the strong point of the law, with which it sort of sought to distinguish itself. 
+
+
+## Time bound process, CRP time bound admission
+4:36
+Everybody talked about time bound process, CRP time bound admission of CRP time bound. There are strict timelines for the resolution professional. There are strict timelines for almost everything. There's a timeline for liquidation as well the timelines everywhere. It's completely time bound process. 
+
+4:54
+In reality, how much have we been able to live to those timelines is not something that I need to tell you all, because you all are from practice and you all understand very well that most of the timelines are actually there in theory. In practice, the timelines have no meaning at all. 
+
+5:13
+He even the IBB itself has recognized that while the adjudicating bodies have 14 days to add to admit or reject insolvency application, I mean filing of CRP applications, the time taken in reality can be more than a year. many matters which were filed. I mean they're probably there before benches. For more than a year they have not even come for substantive hearing. 
+
+
+## Can we streamline processes? Can we streamlined the law?
+5:40
+So the question of either admitting or rejecting an application in 14 days remains as a Pious, humble, a Pious objective. So the whole idea was: can it be? Can there be some reform in the code? Thereby the languishing procedures can be simplified, shortened? Can there be some fundamental changes so that the places where we're killing time right now can be saved and eliminated? Basically was: can we streamline processes? Can we streamlined the law? 
+
+6:13
+Can we learn from experience of past six years and therefore move forward now? there are few positives that we see in the approach of the government, unlike the past regime, where it took years and years for matters to be resolved. When it comes to IBC, we fund resolution. That is resolution of difficulties happens fast enough. 
+
+6:34
+The government has been extremely responsive.commandments have been done to the court assignment needed and now, after six years of history of implementation, if we had some strong observations about certain things. The government is fast in introducing changes. That indicates the sensitivity, responsiveness of the regulator and therefore we are able to see a very responsive regulator. 
+
+
+## 30+ Amendments to the Six Year Old Law
+6:58
+That's one noticeable feature, and the other noticeable feature is that of all the changes which have been done in the past, this is obviously the most comprehensive, the most significant one. no shikha. You can maybe leave the slide edge of now there, sure. So this is one of the most significant one, of one of the most comprehensive amendments in the law, and it goes to make some extremely fundamental reforms. 
+
+7:27
+So I would say this is for the first time that we got a very bold, very far reaching, very comprehensive intent of reforming the law, and that's what makes it extremely significant. So today, what we're going to do and my job and the job of my colleague shikha, would be to act as moderators. We are not the ones who are supposed to supply inputs. 
+
+7:50
+The idea basically is to collect inputs from all of you, all of your practitioners, all of your seasoned professionals, all of you have been through experience of implementing the law, and the idea therefore is to gather feedback of professionals on this. 30 plus proposals to amend a six year old law. So before I proceed, maybe I'll just do a quick listing of what changes have taken place. We got a long list of 30 plus changes. 
+
+
+## ICC IPA Amendments: How to collect feedback on ICC IPA
+8:18
+I don't intend to read the entire list, but I'll just maybe make a quick zooming past those amendments and pause to make a point where we think the amendment is extremely significant. For example, the first change proposes and I must once again submit that all of us here 65 participants already joined in, all of us have free that to inter interact. 
+
+8:43
+That's the whole idea: to collect your feedback, to be able to give a meaningful feedback on behalf of ICC IPA to the MC and to be ibbs. So this is the learning from this round table. It's a round table. It's not a speech session. I am just a moderator, so is my colleague. So, in terms of the Amendments. Number one, use of technology. 
+
+9:05
+That would be, to the extent possible, automate processes, and there'll be some further comments we need to make on that and number two, information utilities to be relied as the source of information about happening of a default. That also goes to somehow give overarching credibility that information utility. if it's shown something as a default, then the question of whether the default is occurred or not. 
+
+
+## Supreme Court ruling restricts promoters' right to propose interim resolution professional
+9:28
+That question already sends answered and we'll like to talk about that mandatory to admit application under Section 7 if evidence of default is available. This is basically to overcome the ruling of Supreme Court. I don't need to say you are all aware which ruling I'm talking about restricting the right of promoters to propose interim resolution professional in case the application is being filed under Section 10, which is the corporate data itself. 
+
+9:54
+The proposes the name of the IRP will not be suggested by the promoters. It will be selected by the adjudicating body itself. That's the proportion. There's a very, I would say once again very timely proposal for decriminalizing. that would mean moving from fines to penalties in the same manner as has been done under companies act, LLP and whole lot of other economic laws. 
+
+10:17
+So section 235a providing for Omnibus fines that would be fine for breaching any other provision of law for which there is no specific penal provision that is supposed to be decriminalized, meaning moved from points to penalties and the right to impose penalty will be given to their adjudicating body itself. 
+
+
+## Fast Track insolvency process will be largely non adjudicative
+10:38
+Fast Track insolvency process will be largely non adjudicative, such that we go to the adjudicating body only when the ultimate dissolution order or ultimate decision on the resolution plan has to be done. 
+
+10:50
+The scope for pre pack is supposed to be expanded to move it Beyond, move it Beyond smes and to move to larger entities, which larger entities that list is to be specified by the government over a period of time, improving the outcome in real estate cases. Essentially, this is the widely talked about in public domain, because in whole lot of Builder insolvency cases the flat of the home buyers have been put to substantial difficulty. 
+
+11:18
+So that's a public interest matter and what the government proposes to do is if there are multiple projects being developed by the developer and then the resolution of insolvency can be taken. Project wise rather than entity wise, and their wild entity is in resolution that will not stop the developer from doing conveyances of the flats. 
+
+
+## Multiple of partial Evolution Plan: Resolution of Enterprises
+11:41
+But that's a I mean I would say that's what you call that's a sort of a ongoing business and therefore the ongoing business, which is completion of construction and conveyance of conveyances of apartment. That should not be stopped. Then comes the next proposal, which is multiple of partial Evolution plan. 
+
+11:59
+This is a very interesting, though in some sense it's already been already been already been done by way of the amendment of Regulation, but now we need to statutory incorporate partial resolution. That would mean if there are multiple businesses, then instead of waiting for a Lock Stock Barrel resolution of the entire entity, we look at the undertaking wise resolution, enterprise wide resolution instead of entity. 
+
+12:22
+Assuming the entity has multiple Enterprises, we can think of resolution of an Enterprise without bothering about resolution of the entire entity. another very interesting proposal. This is quite interesting is to segregate resolution and distribution of resolution proceeds, because currently what happens? The resolution applicant not only indicates how much is he willing to pay. He also indicates the manner of distribution. 
+
+
+## How Much I'll Pay to FCS, How much will Apple do OCS, How
+12:51
+He says how much I'll pay to FCS, how much will Apple do OCS, how much will I pay to the workers and so on. So now that part is taken off from the resolution applicant, resolution applicant will say how much is he willing to pay, and the distribution from there on would be the domain of the committee of creditors, of course, with approval of a Swiss. 
+
+13:12
+Challenge method is being used in several installments right now, so we need to see how it's getting codified in the statute now. COC will be empowered to also monitor. This is also already there in the law that but probably further details are coming on that. Then comes reinstating CRP even after commencement of Liquidation in certain cases if liquidation commenced, a liquidation is mostly irreversible. 
+
+13:36
+That would mean once liquidation has started, we cannot revert back to insolvency any further. All we can do is to do a going concern sale and liquidation. But now the statute will be amended or proposed to be amended to revert to insolvency even after conventional of Liquidation in certain given situations. You'll need to talk about that later. Then. Intermingling of assets of the corporate debtor and the assets of the guarantors. 
+
+
+## How to resolve group insolvency
+14:05
+If guarantors own certain assets and assets are the assets over which the working or the functioning of the corporate data is dependent, for example the lead over which the plant cells or the trademarks which are owned by a group entity. In that case, the assets of the Guardian term may also be Amalgamated with the assets of the corporate data, provided the guarantee whether the guarantee insolvency also has been invoked. 
+
+14:33
+That's a point which will require some discussion. Going further on the process of group insolvency. Further extension of the idea of insolvency of a group and a group once again has been defined. Here we're talking about a coordination approach, not consolidation approach, to resolving group insolvency very important change. Operational creditors propose to be put at par with financial traders. when it comes to Waterfall. Section 53 currently has distinct item. Number D is unsecured Financial creditors. 
+
+15:10
+Item number f is unsecured operational greatness. Now those hierarchies are supposed to be collapsed into only four classes. Category one of course, as usual expenses. Category B is workmen and the secured creditors. Categories c will be the employees. Category D will be all other creditors. That would mean without making a distinction between unsecured FCS and unsecured operational criticals. I'm a very significant proposal to change the word of changing the waterfall. 
+
+
+## Insolvency Law: How to amend the waterfall clothes
+15:39
+The waterfall clothes is the very Crux, the very sense of insolvency Law, and amending the waterfall by collapsing categories is like a very fundamentalist fundamental reform. So that's an important point on which we need to talk about. then this is once again overriding implication of Supreme Court ruling in the case of rainbow papers, statutory secured Predators will not be taken as at par with secured Traders valuation estimates to be disclosed in information. 
+
+16:10
+I think this was there in the regulations earlier. It's supposed to be now codified into the law. Number 16 is also arising from a supreme court only in the case of Gujarat urja vikas Nigam, where the Supreme Court said the statute needs to have Provisions for continuation of contracts if the entity in question has got an insolvency, the act of the fact of insolvency May itself lead to termination of contractual rights. 
+
+16:38
+So to preserve the contractual rights, the court recommended the law to be amended. this was done quite some time back, but nevertheless now the code seems to be incorporating this principle, though with certain reservations. Now number 17 civil protection to be applicable to resolution applicant. To my mind, this is simply extending the current provisions of section 32A. Number 18 is very important. 
+
+
+## Coc May Defunct the entire voting process by not coming for voting
+17:04
+I'm sure all of you are in practice would say that today a creditor who is part of coc May sort of defunct the entire proceeding in the voting process by not coming for voting because we are counting voting strength, not by looking at how many people voted, but by looking at the total voting rights. 
+
+17:26
+So this is a very I would shikha would probably discuss it later, but we will see that this is the view that we've been saying since 2016. then that's what, even without amending the law, that is what the correct reading of the law should have been. But now we are actually codifying this in the law that while counting voting percent is in cscoc, we will not talk about total voting strength. 
+
+17:52
+We will talk about the percentage of those who have voted. Now, even while we are introducing this in the law, we are bringing a further caveat, a further restraint, which, to my understanding, is not the right question to keep. So as we come to discuss this, we'll talk about what's the state that we're bringing and why is it not good? 
+
+
+## interim Finance - What is it that is Missing in the law?
+18:12
+So this is one point that, if you all agree that we might probably give as a part of our feedback, let's come to this as we discuss it further. next interim financiers are to be given back to me on the COC. This hardly an interim Finance. To my understanding in the country, interim Finance, or so called dip financing, is a very strong practice in other countries. 
+
+18:35
+In India it's not picked up, not picked up at all, to my understanding. However, you can give your feedback as to what is it that is Missing in the law. Why is because of which interim Finance during liquidation is not working in the country? The government wants to get a right to appoint administrator. That would be instead of an insolvency professional and government deported administered, like what is currently happening in case of ndfcs. 
+
+19:04
+Or I think banks have not gone into that seat still. But well, banks have gone into banking regulation act, for example. rbl disappointed administrator in case of banks. So the government wants to keep a power in case of public interest involving a public interest. Public interest matters to have the right to upon administrator who would work as the resolution Professor. This is something which is quite new and we need to discuss that. 
+
+
+## How to avoid liquidation if you want to keep a power to exempt companies from
+19:33
+The government also want to keep a power to exempt a class of companies from the provisions of the code, then certain amendments and install individual insolvency that is primarily for the corporate. For the personal guarantors to debts of companies, a provision to permit the nclt or the AAA to order dissolution without undergoing the process of liquidation. That would mean jump the process and go for resolution straight away. There's nothing in the company to actually sell. 
+
+20:04
+Next Point comes elimination of duplication. that would mean certain things that we do during insolvency will not need to do once again when liquidation commences. Traders to this is another very important part. Currently have a stakeholder conservation Community, but now the code proposes that there will be a COC during liquidation as well. We like to get the feedback of participants as to how do they see this process. Do you think that during liquidation is well? 
+
+20:33
+Commercial decisions of the Liquidator are dictated by creditors? Is it and that two of multiple rankings does that actually practically work? Is a question that we need to assess. Your feedback on replacement of filters well with Traders, or what you call Super majority vote. I think that's there in the law already, but that's what is now so to be qualified stay on continuation of other proceed. 
+
+
+## Companies Act 56 Companies winding up processes
+20:59
+This is another very important change because in the companies act 56 companies of 2013 winding up processes there always existing a permission, that is, that companies and winding up their litigation against the company. Various forums, for example labor code, this code or that code civil code here and there will all get concentrated in the winding up Court only because the Liquidator cannot be running from a quote to court. 
+
+21:25
+He will probably be handling Liquidation in one single Court. And that was, I would say, time tested principle, because as the company is passing to a terminal path of liquidity gets Affairs if litigation continues in different forums. That doesn't help the process at all. So now this provision is sought to be brought in the law that other proceedings in different forums will get stopped once liquidation commences. 
+
+21:54
+Realization of security interests under Section 52 will be permitted only with the unanimous consent of all the paribasal charge holders. It's part one and part two, like currently there is already provisional regulations for having a maximum time within which the creditors have to decide whether they would like to really pay. Security does not so if they don't come back within 90 days, then they would have been deemed to be deemed to have relinquency right. 
+
+
+## Progressive Fundamental Changes & Changes
+22:23
+Finally, there are some Provisions about insolvency or whatever informed insolvency service providers as well. So that's a broad Almanac, a broad view of the changes which have been proposed. If you can just stroll up a bit shikha and just stay there for a minute. So we want to broadly classify the changes. the changes can be classed as number one, some bit learning from past experience, for example voting of cocs enhancing the scope of prepack. 
+
+22:53
+We know that pre pack failed, virtually failed, because there are only been two prepacks so far. So some are learning out of past experience. There are some which are which are already there in the regulations. We're simply putting them in the statute. Now there are several changes which are trying to overcome the impact of Supreme Court rulings. 
+
+23:11
+But there are several changes which are indicating a basic fundamental Progressive thinking, for example partial resolution, collapsing of the levels or hierarchy in the waterfall, separation of resolution and distribution, Resurrection even after liquidation is begun, aggregation of assets or group insolvency, Etc. These are all Progressive fundamental changes. let me move to my colleague shikha, who would maybe move from here on shika, sure. So so adults people, the approach would be consultative. 
+
+
+## Interested in implementing ips for ips?
+23:50
+Here has been also clarified that we are acting as moderators and we would of course like to have the view of the audience here. So I would just touch upon the proposals broadly and would keep the questions open for the participants to provide the inputs. So the first proposal relates to automation and the use of Information Technology. 
+
+24:17
+Basically, the idea is to integrate the interaction between different stakeholders, including MCA, adjudicating Authority, ibbi, IU, insolvency professionals and other service providers as well. So this proposed e platform is expected to provide various services, for example case management system. So the idea is like at present do the platform is kind of scattered. 
+
+24:41
+The idea is to streamline and collaborate and the services which can be expected is case management system in including storage of records of CDs undergoing the processes and, where you know, the platform which can enable interaction of ips with stakeholders. While we understand this can be this is a progressive step. 
+
+
+## IBC reporting system should be comprehensive
+25:01
+However, we can also discuss as in what can be the other possible expectations from information technology in so far as its usage in IBC processes is concerned. Any inputs are welcome. I'm not sure whether they are planning this. There are many times we would be doing the reporting the same aspect again and again. It could be something to do with what cases we are handling at the end of the month. 
+
+25:45
+It may be to do with the reporting connected with the legal cases which we are reporting, so there should be one. I mean I'm not sure whether that is intended in this particular proposal. I think there should be a very comprehensive a reporting system to ipas and IB ibbi so that there is no duplication as such, and narrating this is I'm not sure whether it is included in their proposal. 
+
+26:23
+I think this is something which the system there should be a such a system so that there is no duplication in terms of reporting and compliances by IPS. This is one point I think it's relevant for this aspect. Okay, thank you. My name is shivaraman hello. hi, sir. Yes, sir, yeah, see, there should be only one end of reporting. 
+
+
+## What happens when IPA sends information to IPA
+26:57
+For example, for example, if I send it to IPA, that information should be transformed to transferred to ibbi. Sometimes I receive information that IP also say ask the same information and IBM also has the same information. It's just not warranted. This is something happening sometimes. See, for example, it is one end, I report to someone and from there it takes one second thing. Is, for example, a very peculiar case which happens. 
+
+27:33
+Ivba knows what the case number is and what the nclt hearings happen, but they ask for information. What was the last date of theory? When such an information is available on the website of the nclt, asking the RP to spend his time to tell where? What is the status? how many hearings have happened? Is it a right question when it is available in the nclt website about the case, the case number? 
+
+28:05
+What are all the cases running? Everything is known in the nclt website and unwanted sometimes what happens is you are putting too much of pressure on the RP to do certain aspects of the job when he's supposed to be on the field looking at some activity. This should be curtailed and it should be brought in such a manner that there is simple once I report it is reported a single integrated Reporting System. 
+
+
+## How to integrate the system in IBC 21
+28:34
+Basically you're talking yes, got it, got it, got it when those are your views. also raise his hand once you say something and hoping that some of us are keeping notes of the very important features. And sorry, so your voice is not audible, so still not okay, I think, while he works with his audio because part of the screen hello. 
+
+29:25
+Yes, sir, you're audible now okay, Madame, my inputs on this are: first, the integrated system should be integrated in such a manner, which is not one way reporting, but two way reporting where even the financial institutions, government departments, Etc, entire data, as they are trying in IBC 21, should be available to the IRP on day one or day two. 
+
+29:52
+The bank statement is a forensic audit reports the stock statements, the income tax, returns, the sales taxes or Returns, the custom returns, Etc. second, integrated for Regulators as well as adjudicating Authority to the extent and maybe if would you respect, as per ncrt rules we are, as IPS are required and notice are required to file is ETC for reporting every progress and other reports. 
+
+
+## if some changes in Evidence Act or something could be thought of or ncrt
+30:20
+Maybe if some changes in Evidence Act or something could be thought of or ncrt rules where the reports Etc could be through a single system. Third, even the notice is when it's Etc of stakeholders meetings, COC meetings, Etc can be through the same system that they are given. The email IDs would be input by IPS and automatic offers even or she will try and deliver himself and also but even through system they can be done. 
+
+30:51
+Third thing is maybe another point on this is even maybe the prospective resolution applicants Etc, whatever is the data which is givable to them, can be through the same system, even whatever the data the creditors and others can be having approach to. 
+
+31:06
+They can be given login and limited approach to whatever the law enables, and they can definitely go through that, so that a lot of litigation which is around the data Etc would be reduced to a very great extent. This is my submission on this particular point. Oh but so there is already a data room concept in case of resolutions, right. That's anything different which you are wanting to propose here there. 
+
+
+## Resolutions for Resolutions
+31:34
+The PDA Etc, which is therefore resolution is specifically for Resolutions. I am talking of a single integrated system where the data is provided two ways and is available everyone through the system, through login IDs and automated email IDs. Even when the claims have to be invited through from books of accounts and liquidation Etc. 
+
+31:55
+Maybe the promoters can provide the email IDs, the IP can input the emails and even the invitations form G, Form B, Etc can go directly from the system to everyone. 
+
+32:08
+So a single integrated system beat for resolution for reporting to ncit, for reporting to adjudicating Authority or communication with all the stakeholders, everything in a single system which is open to fully open to educating Authority Regulators, IP and to the extent others are allowed in that system. That will make life of everyone simple and lot of litigation reduce. 
+
+
+## initiation of CRP: How to publish it in a vernacular and English
+32:32
+Of course it's a very tall task being asked correct, but definitely we can start with small steps in that direction. Joseph Maisie, yeah, good evening. I have only one, two suggestions like this publication of initiation of CRP. We have seen that in most of the cases, people come later on that we will. 
+
+33:06
+We were not knowing that CRP has been initiated, because that law requires that it is to be published in a vernacular and English newspaper in the registered Office of the company or other is option you can give to other places. It is up to you, so how it can be widely circulated. That should. There should be something. 
+
+33:30
+Secondly, like we our friends have said, like reporting to ibpi and IPA, there is of course there is a duplications plus many times. the information required by them is not very clear. They should have a very clear I mean requirements and in many cases ibbi, after sometimes ask for resolution, form a liquidation format like that. So let them be in a initial stage or at the end of this CRP only. 
+
+
+## What information is required, let it be at that time only.
+34:05
+Whatever information is required, let it be at that time only. I would say I think no one is opposing this idea. I'm sure no one can oppose this idea. Yes, people have given various expansive sort of ramifications of this. The idea proposed basically is an integrated case management system. But I think we have even more ambitiously going into something which is encompassing whole lot of other things as well. I think that's okay good suggestion. 
+
+34:35
+We'll keep note of it and maybe forward it to icsi IPA for moving it forward. But as far as this proposal itself is concerned, there is no question of anyone. Not you know, not favor English. I think everyone is recommended and everyone is appreciated this proposition. It's almost like a no brainer. I have a small concern. Ed this is I'm calling from Hyderabad. The point is most of the cases in liquidation. 
+
+35:07
+Much money is not left with corporate data to carry out the process. Data group is very costly. Virtual network is very costly Affair and many cases will not be able to effort. Also, in that case, see Google Drive. Can we make use of the some other Alternatives, like Google drive or any other option, because company cannot afford it? copy data cannot afford it we have. 
+
+
+## Case Management System: What Is It?
+35:35
+I guess the concern is quite well appreciated, but I assume that when ibbi or MCA is talking about a case management system, I believe this will be a, I mean available for use as a licensed user to insolvency professors. That's the whole idea. For example, the ncrts will be using it, idba will be using it. Ipas will be using it. Likewise. I think the IPS will be using it's not I. 
+
+36:03
+I don't think they are meaning to say the. Even the data room will be a part of this, but not sure to what extent will it be. I mean what will be the scope of this integrated case management system, but perhaps the right of uses will be probably there with IPS. I think that should probably be a part of the package. I'm not sure on that. 
+
+36:21
+But well, the concern that gopalji has mentioned is one of the concerns which also may be taken note of, given the fact that we have a whole lot of other extensions. This particular we know, we know. G. I just want a request that the request is that the members should restrict to whatever the proposal, rather than bringing something unrelated with the specific point we are discussing. Then we may lose the focus. 
+
+
+## What Is the Next Proposal for default confirmation?
+36:52
+That is my humble submission. Right, sure. So the next yeah, this one. You can explain the proposal. So the next proposal pertains to making I use as a sole and conclusive basis of default confirmation. We all understand there are other sources of confirmation of debt. for example, there is Roc registration, there is phasing in case of default, one has to prove the existence of default. 
+
+37:19
+Now, while it is mandatory for financial relatives under section two and five to file the financial information, it's not the mandatory for operational creditors. However, there was there were recent amendments in CRP regulations where under regulation 21A, it was said that even the OCS will have to file for default if they want to apply under Section 9. So now this proposed amendment basically wants to transpose this regulatory Amendment into the code itself and wants to stipulate the same mandate on OCS as well. So again here what's our view is that there is no. So you would want to explain. 
+
+38:03
+Yeah, the concern that we thought would still be there is that in case of operational creditors, we're talking about a commercial claim. In case of financial creditors, it's a simple case of a financial facility. The grant of the financial facility is a part of the information utilities records. 
+
+
+## IU Registration of defaults with information utilities
+38:21
+It's there in several other records, for example, say Bill or currency for that matter, and the existence of default is also something which can be cross verified from Sybil. Or we'll see records as also from records of information utilities. So probably the IU was seen as a comprehensive database of financial transactions, involving, I mean provision of current facilities. When it comes to operational cradles. 
+
+38:47
+He's not in business of registering his transactions which are purely commercial, with the information utility, for example, some supplier of goods Services. what does he have to do with information utility? So merely because he intends to file an application on occurrence of a default, he goes and registers the default with information. 
+
+39:06
+Literally now the proposed amendment says that if at all such a default is proposed to be noted by an operational creditor, the com, the IU information utility in turn will have to give an opportunity to the company, to the to the company, to the corporate debtor in question. Therefore the corporate letter. I'm sure if it's a commercial transaction where there are commercial disputes, I am sure the competitor would have something to say. 
+
+
+## Information Utility: Are you the right place based on which a decision to admit insolv
+39:30
+So are we wanting the information utility to be a sort of an adjudicating body to keep record of contestant claims of people? Somebody says there's money due to me. somebody says no money is not due to you at all. 
+
+39:44
+So when it comes to contractual claims, which is what the very sense of information utility is, which is the very sense of operational criticists, is: are you the right place based on which a decision to admit insolvency would be taken? Because if we can actually contest the claim before the ncerts and I'm sure the series will conduct before the IU's? Also, tayu is not a forum to decide on such matters. The Forum is really adjudication. 
+
+40:11
+So moving adjudication to I use probably will not serve any purpose, because it's merely noting of a default which anyway will be contested. So we thought maybe it could probably stay limited to financial craters, as is the case currently, but nevertheless that's the proposal. so I'm able to see that Mr mg and devanji both are very friend. So Mr mg? Yeah, okay, this is related to financial creditor alone. In even Financial creditors. 
+
+
+## IU: Some portions like real estate, a lot is home buyers, in other words
+40:42
+Some portions like real estate, a lot is home buyers, in other words, are not being covered under IU. A lot of claims related probably delays issues and more of IAS in court, also for delayed claim filing. Everything is related to home buyers. 
+
+41:01
+Only if I tell you closely watch their real estate cases, CRP cases, my suggestion instead of probably operational creditor, they would have actually considered or should have considered consider the real estate claims through IU. 
+
+41:18
+So that's a fair, valid point, because the failure to in case of a home buyer, the failure to deliver the property based on contextual agreement is treated as a financial debt by virtue of amendments made in the law specifically for home buyers, and if it's taken as financial debt, then nothing. The evidence of that failure may also be moved to information utility and probably that you could be more useful there. 
+
+
+## IU RP RP RP RP RP RP RP RP
+41:44
+And especially if I tell you closely watch the real estate cases and majority of the activity of the RP, is that admitting the claim because delayed claims and the related to thereof, the cases in nclt for admission and other things right so that can be avoided also. This is these are the two agree with you. Thank you, Mr Devon. Sample so minus suggestion. I welcome the suggestion. 
+
+42:12
+However, there should be a sunset clause for existing this thing, existing operation Creator and other things besides, financial institutions and future, whenever a good sort of services provided, they should register in IU. So present registration of the time of sales or providing all services or alerting Etc should be prospective, which maybe are you should not be made as a adjudicating Authority or a court for claims which have already been defaulted. Etc. 
+
+42:45
+So with a sunset clause and prospective of legislation in future at the time of providing will sort out this issue which we are presently facing. And getting a default from IU is always welcome, because this would reduce stress on the system. And another point is today the threshold limit is one crore rupees. it is not one lakh rupees. 
+
+
+## Sunset Clause: How to Reduce Stress on the System
+43:08
+So someone who can provide rupees outstanding is definitely an informed person or the person who can afford Services of a professional and the fees Etc. Only if you wanted 200 300 Rupees at the most for registering in the IU. But this will reduce stress on the system and things many may bring many things online on board. So I believe it's Sunset Clause. Most of our problems will be solved. That is my suggestion. 
+
+43:38
+You are actually meaning to say that if at all it's prospective. I mean if it's prospectively applicable, which I'm sure it would be, because normally law is always respected, then this is doable, maybe existing if someone is accepting the default. Even then it is perfectly fine that much of stress on the adjudicating authority would reduce. so. But for past maybe it will kept open through all the systems, traditional system as well as IU system. 
+
+44:18
+Future it should be put to IU system with a sunset class. All right. So moving forward still yes. So this third paragraph okay, if I'm if I'm if I'm a lot to intervened here for a moment. Sir, sure this is actually for section 9 applications. I mean it's not uniform across the board. Like if you go to Delhi nclt then they ask you to just I mean go for information and that is IU. 
+
+
+## How to create a pre existing dispute with IU
+44:51
+We were terrorizing some other nclt. They don't have been pressed for this. So this thing should be uniform across like all ncertainty. So for a procedural part is concerned, maybe that's why they are inserting the provision in the low Rajkumar. that's why you don't mind. Yes, see the point is that the biggest disadvantage of allowing the operational creditors to use IU I use a platform basically with information, not for creating and not as an adjudicating authority. 
+
+45:26
+The issue is that if you look at the whole provision, the key to deciding on an operational debt, as for the a is concerned, is a pre existing dispute. As per the mobile mobilize judgment, you are giving a platform to create a pre existing dispute because the moment there is a default that is notified here, it will not be confirmed. 
+
+45:51
+A dispute will be created and that will be considered as a pre existing dispute prior to the demand notice. So that is where the issues could come up in terms of this going forward. so we need to have some chicken checks and balances on that aspect before the section 9 cases are permitted. To use this platform may be counterproductive. That's what you're saying. Yes, could be. I mean it would. It's. 
+
+
+## IU's proposed amendment to adjudicating body
+46:18
+It would almost like backfire, because if there was a contest at the time of making entry in IU, that will be taken as a case of pre existing dispute. Yes, that's. I mean that's a possibility. Surely it will need to be already guarding for such a possibility. Proposaling of Supreme Court in the industries, where it was seen that ncltn actually exercised discretion in admitting or rejecting a crb application, even if the default is established. 
+
+46:59
+So this proposed amendment basically seeks to insert a clarification in section seven. basically two sorts of clarification: where it's where it puts a mandate on admission of application of default is established, plus the timeline of 14 days is not only to assess whether there is a depart or not, but also to either admit or reject the application. This, to our understanding, should be a welcome move, without any doubt. 
+
+47:23
+However, when Also may give his views as well, I was saying was that: are we therefore saying that now the timeline for the adjudicating body also will be mandatory? All along we understood that timelines for the adjudicating body it's always directory and 14 days could be 140 days or maybe 360 days doesn't matter correct. 
+
+
+## 14 days time and with Evidence of default
+47:43
+So I'll be there for saying that if it's petition is taken on record, in that case, 14 days time and with an Evidence of default. Right to my mind. 
+
+47:52
+Here I mean the earlier proposal about use of automation could actually be very handy here, and I think there was a mention in the earlier slides as well that increasingly all over the world, Judiciary started making use of artificial intelligence, which would actually mean the machine which is capable of deciding that there is a default. Based on the information stored in IU. The machine can decide that there is a default. 
+
+48:16
+The machine can therefore come to virtually a decision. Decisions ultimately have to be taken by Judiciary. There's no doubt on that. the fact that we engage artificial intelligence does not mean judges are not deciding, just still deciding, but judges are aided and assisted by artificial intelligence. So perhaps here 14 days time would become practical. 
+
+
+## Time Limiting IU Calendars for Judges
+48:38
+The moment we say that there is huge of automation, we are relying on information stored in IU and therefore other than verifying the fact that there is a default in IU, there's nothing much that the adjudicating body has to do, and therefore let's move on fastly, because I think it cases are losing almost like a year in the pre admission says itself. 
+
+49:00
+So it's time to maybe limit that time and come and do some hard thinking. Some bold thinking said there is no question of this timing directory in their timelines for everyone. is it okay that there is no timeline for judicial at all, absolutely part of the same civil system. The courts as much are part of civil, same civil system, to which all of us are subjected to. 
+
+49:22
+So how is it open for the courts to continue to say that there's no timeline for me, so I think this is, though, as sounding little, I would say audacious, but I think it's time to actually take a hard look at that was one part, and of course now it's anyway a foregone conclusion, which is anyway was the design of the code that we are not looking at regions for default. 
+
+
+## Natural Justice: What Is It?
+49:45
+We are looking at the effect of default itself. We are not looking at solvency test anymore. We're looking at liquidity tests. if there's a defaults, then the outcome is very simple: it's a case of insolvency. So that's my take, but I'm hoping if there's someone else who would like to contribute on that. If no more moving ahead. 
+
+50:08
+Mr. Yeah, see the issue here is that you're trying to basically get over the weather for judgment, which of course is still under review. Now another question that we need to understand that natural Justice cannot be dispensed. So obviously, whatever amendments you make to that extent I am somewhere Supreme could be hold in Ultra wise. You know the Constitution. 
+
+50:36
+So that danger still exists in this, because if you look at with judgment, the basic ratio there was that I have honored my part of the contract you have not honored. Here you're part of the country. so obviously how do you have any anything against me till you do that is a basis. So here the natural justice issue comes in. So we need to see how the course will deal with it. 
+
+
+## vidharba ruling: What is the case?
+51:00
+So it will be interesting going forward. You'll get the idea. Yeah, the Supreme Court has admitted a review of the vidharba ruling and will look forward to I mean with great respect, learning from the Supreme Court. But in the meantime at least the policy makers stand has always been very clear, the policy makers that has been that there is no question of examining the reasons for default and default, the default, no matter what occurred. 
+
+51:25
+There is a question of natural Justice, sure, but in that case the natural Justice will all line, proving that the contention of the applicant that there is a default is not a correct contention. If there is a default, regions don't matter. The default is default, and therefore that's all that is required. 
+
+51:43
+Perhaps that's the thinking of that was the design of the blrc and probably that's what the intent of policy maker seems to be, Mr shivraman, instead of 14 days later, let them make it 30 days, let them make it as a month but then live with it, but fix it limited see. Whenever you go to the judge, he says: I will take my time. You cannot. You cannot count what to say. 
+
+
+## You cannot go against him. You cannot contradict him in the court.
+52:12
+You cannot go against him. you cannot contradict him in the court, or otherwise you will be. You will be pulled up and you will be put fine on that. You're only doing it every day. Yes, it they do it. He is defined Judiciary Left Right Center every day. So that is what is the thing. 
+
+52:32
+First of all, you have to break the judges to understand that 30 days time, yes, the time you have to decide a case, yes or no. If you are finding it, 14 days is difficult for you. The point is everybody in the system, the stakeholders, everybody, the Judiciary, the government, ibba, everybody should be on the same plane, one talking something, another not listening. It's not right on the part of the RP. 
+
+53:04
+What is it to pull up the RP in the case? That's my solution. pulling up the RP is the easiest thing for everybody. Everybody has and everybody does it. That's something that all of us are party to it. Let's, however this is my time I would rather say make it 30 days. Make it practical, make it practical and then live with it, because then don't say that. One more thing. 
+
+
+## How to file an application for the other side
+53:33
+For example, if you file an application, you should give an opportunity for the other side to represent this case. Right, there is always a representation from the other side. You cannot decide on your on one from one side. So there should be a definitive time, like, for example, if I file an application and it comes to the thing the respondent should say, I will file my reply within a week. 
+
+53:58
+You should not say I will take two weeks to file my reply or three weeks to file my reply. It should not be the case. Everything should be delivered. That can actually be made a condition, president, because what we mostly see that when you file it, though you serve the copy on the other side already the moment the first day comes. The code says: have you served it? 
+
+54:17
+Then say I'll direct the registry to serve a copy. the court insists that the registry of the nclt should serve a copy, though I produce the evidence of serving a copy on the respondent already, so that can be actually made a condition. 
+
+
+## 
+54:32
+President, if there is an if there is an application before it is filed and taken on the board by the nclt, evidence of serving it on the opposite party is already recorded and once that evidence is there, it should be good to proceed with without just asking for the registry to serve for the copy and therefore understandably kill time. 
+
+54:50
+But the point that Mr shivraman has made it extremely valid that if you talk about an ecosystem and we're talking about insolvency, as an ecosystem consisting of several players, IEPs, one significant player, ICS, IC, ICI, ipas and ibbr, let's say supervising regulatory bodies the nclts are also a very important part of the ecosystem. 
+
+55:11
+To say that one part of the ecosystem is free from timelines and therefore no timeline works for that system, I think it's ensuring the failure of the system. How can any system work where one element is bound by timelines, another element says that no timeline works? For me. so that is. 
+
+
+## 
+55:26
+I mean if and I'm sure all of you would agree that the biggest bottleneck today in the six years of implementation of IVC, like in the earlier regime, we would say the delays took mainly in the courts, and I think here again we're repeating the same thing. The delays are mostly happen happening in the courtrooms. So we need to understand that's exactly where we need to work on. 
+
+55:47
+We need to do some Bolder over there, some old reformers to come and say that there is an answerability on the part of the initialities as well, for every day that you lose in the matter, Messi is yes. Will you want to speak something? 
+
+56:11
+Yeah, sorry, I just want to add here, see normally what we find that delay by nclt is mainly due to lack of members in the benches, lesser number of benches and unnecessary admission of various applications. So I think we need to address these issues also if, let's say, my office takes a view that my office did not have adequate Manpower, therefore I delayed in filing. Will it work? 
+
+
+## 
+56:44
+If it doesn't work for me, how does it work for nclts to say that I have known the members to say that I don't have enough number of benches? That's see. That can see. Every part of the ecosystem has two honor its own responsibility without finding internal reasons for not doing it. That region is internal to me. I think every you're right that system that infrastructure issues have to be resolved, but that's the. 
+
+57:09
+That's where it goes back to the, I mean the appointing body. But in any case, if the point is that every part of the ecosystem has to be equally responsible for meeting its own timelines, without any internal reasons. The point that you made messages well noted, though that we know that there are infrastructural issues, yeah, and I just I sorry. 
+
+57:35
+I just wanted to say I mean to that only I'm not saying it's the a should not stick to timeline, but through ibpi or appointing body to a has to be awakened. You put the people or system in place fast, like if you have a lack of Staff in your office. you will take a decision to appoint persons absolutely so your pointing body has to act and take this issue. 
+
+
+## 
+58:06
+Point made, see, the issue is something like this: we have to look at ways how to reduce the delays in HCL. That is a point apart from Members is one issue. The other issue is that if you look at the matter coming up these days, you file an idea repetition. It comes up of course, in three, four days. That's good thing, but the point is that the reply time given for reply is too low. Right. 
+
+58:28
+The almost you get a date almost a month back later, 30 days, 45,30 days, at least. Now, why can't we have a system where you have a standard formative application, that is section 7 or section 9 or whatever section? why can't we have a similar lines, a reply format, just addressing those issues made in the application, which is made standard and that has been finally, three days, six days that could possibly shorten the timeline. 
+
+58:55
+The rest can be taken up at the argument stage and the return submission. So this could also possibly, you know, save time, provided of course this structure is accepted by NCL. That's the point. There's one loud thought I am making. No, I think the point yeah, what is very valid. I also have a loud thought on that. It's, I mean I would say, instantaneous loud thinking. 
+
+
+## 
+59:21
+But at some stage the nclt system has to start or has to disable a console to speak beyond. for example, if it needs 15 minutes, 30 minutes, 45 minutes, disable it for two hours, in fact for number of days. So I think I delete that time to a console. Like time for everything is limited. Well, if you got half an hour to make your case, make it a half an hour. 
+
+59:48
+I think that happens world over. Yeah, some quotes do it, but normally not to the senior tones. No, the junior guys, no, cannot look in the face of the advocate. Lowest look at the matter. I mean that's one of the most important principle of Judiciary is that don't look at the face of the person who is arguing and therefore apply it uniformly. Limit the time. Ultimately, it's a question of time which is precious for everyone. 
+
+1:00:15
+I know that quite often I can drag the same metaphor two hours, saying let's say what could be said in two minutes. If that's what and you are sharing it has a direct connection with the first point, case management system. So the insisting on the filing of the hard copy if we are moving towards a virtual environment is it really of relevance because the court officer would tell we say that we filed on 23rd? 
+
+
+## 
+1:01:00
+The court officer will say no, it is on 26th. It is the hard copy inspired on 26. So I think if the focus is on using the technology, it should be not limited to the. It should be for all. I mean that is the limited point. I think this can be noted to the first point if you think it relevant. 
+
+1:01:28
+I think the hard copy point is quite simple and some nclds I know are insisting on hard copying. That should actually be avoided. In the age of e filing. Everything works on electronic filing business, while this is some hard filing at all hard copies at all, and I know some instilities are asking for that. 
+
+1:01:43
+I think administrative it doesn't require any Amendment bill or this purely maybe a circular from the president of nclt should probably has a good idea. Actually it has become prerogative of the judicial member, so it shouldn't be that it shouldn't be like the point. 
+
+
+## 
+1:01:59
+The point is that the training part of it there should be addressed to use Virtual replies and to look at it make it much more easier for them to look at what they want to look at. While the point is still relevant that some members may not be comfortable flipping through the soft copies, but perhaps in soft copy is a lot easier. Part would be that searching for the prayer part. 
+
+1:02:22
+You don't need to say tell me which the system would search it. That's the that's what I think that's what intelligence anyway does. Which where is the bigger part hits the prayer part, the system would automatically say it's para 6,37 of piece number 232 of the petition. 
+
+1:02:39
+So flipping through evidences, flipping through the prayer part, refling through the evidences, but also will perhaps be highly easy and therefore the Reliance on hard copies will be extremely indicated. There are some people also wanting to contribute on that, and I'm hoping others also who are very well experienced. 
+
+
+## 
+1:03:00
+One small Point, Sir, with regard to this point, I would request the Judiciary to give you their timelines, rather than we telling them and then you do it. Let them give the duty timelines from their side so that it is easy for everybody to understand it. That is what is my point. This particular Point admission stage. They should tell I will do it in 30 days. 
+
+1:03:26
+Yes, 30 days across the board, no matter whatever it is, sir, a small Point. everything has to be I T and able to increase the speed and some acts, like evidence at nclt rules, Etc, which I said earlier. They need to be changed to enable technology to help the judicial processor. That is my small submission. Where We Are we are to avoid conflicts of interest under Section 10 application promoters now cannot propose irps. 
+
+1:04:07
+It's it would be only on the recommendation of ibbs in case, as in other cases, other OC cases. So any inputs here I don't think I think we should move ahead. I have one small Point. Why does a corporate debtor come for a resolution to section 10 application? Why does a corporate data come for a resolution? He wants to settle everything right and choice of an RP. 
+
+
+## 
+1:04:37
+If he is given that then there is a responsibility also attached to the RP right. It is not that he is. He is not beyond the law, and choosing his person means he will be a person who will act according to what the things are in the situation right. Asking someone, a third person, to come and act upon it how it will serve his purpose. It is like any other application you are filing. 
+
+1:05:03
+Why does a corporate editor come for a voluntary CRP? What is the recipient? Because he wants to settle everybody right with the right earnest and choice of an RP. If it is taken away from him, then what will be the threat? because it's only the interim resolution professional that we're talking about, because ultimate appointment has to be done by the committee operators anyway even for that interim 30 days time. 
+
+1:05:33
+The law wants to take away the right of the corporate letter himself to propose an IRP on the ground that may be such an IRP would chosen by the corporate letter, while of course the RT has to be independent professional. Merely that appointment was done by the corporate letter cannot absolve me of my duty of Independence Etc so that the obligation to stay independent to work as far lost Still Remains. 
+
+
+## 
+1:05:58
+Irrespective of who nominated the IRP. However, probably the feeling is that an IRP should also be nominated by the average should be appointed by the AAA based on the panel maintained by Abby, as is currently being done in cases where there is no such name given, and there are several people who want to see how you thought this will go unconscious sometimes, I want to add here. 
+
+1:06:21
+So if that is the case, CD cannot, I mean nominate somebody. Same applies to even per credit cards as well as the OC. Also same thing applies if they are proposing and that loyalty, all those things are same as loyalty to CD. so maybe that I think the moot point that they are building on is that loyalty to the promoters, who are obviously the promoters of the corporate data, versus loyalty to Predators. Society is loyalty. 
+
+1:06:59
+It cannot be different from Financial beta. Sorry, you are loyal to the law. You cannot be loyal to anybody. So in that case it is in theory and I need to be loyal to the law. I cannot be loyal to any particular appointing body. But well, I think to an extend this reality of life also, we need to understand if the IRP is on the brief of the corporate data. Perhaps I mean the. 
+
+
+## 
+1:07:27
+There is a potential risk that he may not be able to do as well as one who was appointed by the education. but probably that's the thinking when I know that some of you have different thoughts on that. I'm Mr haridas, possible for IRP to help somebody here, sir, as in voluntary liquidation, the company is used to appoint the Liquidator. In case of this section 10 also, why not the cdb continue to allow appoint IRP? 
+
+1:08:25
+I don't think whether there is a certainty that Independence will be sacrificed. I don't think so. There will be a better proposition if the CD himself appoints the IRP, because he will be interacting with the IRP and better things will come. Definitely the outcome will be better. You are very wrong with his thoughts that this will go uncontested. you were very wrong. 
+
+1:08:55
+Yeah, and as far as this purpose changes comes concerned there will be will make no much difference, because once the IRP is appointed, the COC is has their productive to change the IRP to RP. The only thing is Skip for the 30 days. A person who is appointed by the promoter is looked from the magnifying glass by the creators. 
+
+
+## 
+1:09:25
+But I don't think in giving the IRP period there is any much work to perform by the IRP. Basically, once the RP is appointed, he is doing the main other things. So I don't think it is going to have any much impact on that now. Yeah, so that way that way it doesn't it will be only I getting changes that COC he is independent of a promoter. That doesn't make the difference. 
+
+1:10:00
+But in any case the filing under Section 10 never greatly come down. Let's also efficient. The data shows that initially, when the code was promulgated, there were a lot of draft, a lot of filings under Section 10, but over period of time you know that you cannot be the acquirer. You will lose your rights under Section 20 in it. So why would somebody at all move for install? 
+
+1:10:22
+We'll see so self filed insolvency applications have actually greatly come down. This might actually even be appropriate to take out this right all together maybe, but that's a distant thought. Anyone else I think see the issue is we should understand the background of this change. 
+
+
+## 
+1:10:42
+Background of this change is basically the experience of nclt on Section 10 applications, where they have seen collusions and the motive being to ensure that liquidation happens through this route, rather than getting to a situation now. In fact, as you rightly said, the nclt have been discouraging many sections, and applications are not allowing it to be admitted. 
+
+1:11:05
+So here also what we need to look at is that somewhere the Integrity of the IPS or the hour in question, and that also is the reason so we as IP communities will ensure that our integrity is beyond Quest. Yes, same thing, sir, same thing. What I would like to say is that there is a almost all the cases whenever section 9 applications are there. 
+
+1:11:43
+The appointed IRS are being replaced by bankers also, but the first 30 days is very crucial, statutory and after 30 days you are simply reviewing that fellow who has done the much load so far so that the right of this COC so the results to replace it they can replace it with the second COC or after that is there in the law anyways. There were a lot of concern about this proposal. 
+
+
+## 
+1:12:48
+We cannot say that whoever is impelled by the Banks is so much Royal to the banks. In that case also, there is some case of compromise Coalition that Collision also can be accepted from the Apparently IPS, because they are supposed to be loyal to the bank. Otherwise they won't give any assignment. So the house is divided on this stuff. it seems to be completely opposed to the idea. Anyways, moving ahead. 
+
+1:13:14
+Next next proposal relates to decriminalization of services. As we understand two. Presently section 235a calls for penalties which again has to go through the root of the special code. Applications are to be filed by ipbi. Now the proposal is to decriminalize, basically convert penalties into fines and the adjudication can now be taken care of by because it finds into penalty sorry ah sorry fines into penalties. 
+
+1:13:42
+Besides, one positive move, according to me, is there are instances of frivolous applications being fired under IVC. So now explicit powers are proposed to be given to a dedicating authority to impose penalties. The Proposal also specifies minimum amount of penalties as well, plus with respect to Mal issues or fraudulent initiation of proceedings, while there are explicit Provisions but not for other offenses. 
+
+
+## 
+1:14:15
+For that also, there are proposals to specify penalties and then section 29a, disqualification as well. Yes, if the person has been, let's say repeat offender is violated or he's been, let's say, penalized for offenses under IBC at the description of the adjudicating body, he will be disqualified in terms of section 29a as well. So the basic idea of this is to move from A Fine regime to a penalty regime as far as section 235 is concerned. 
+
+1:14:50
+Currently the fine regime requires the idbi to file a show cause and then move the better to a criminal court and then the criminal court proceedings take, I mean take the take the case from there on. Now that process is even lengthy or much more longer than the IBC proceeding itself for matters which were probably filed by IBB in 2017. In some cases I'm probably aware that even the hearings have not come still. 
+
+1:15:17
+So that's even because criminal courts are equally as burdened as nclts and therefore the idea essentially is to decriminalize and move from fine to penalty, like companies act LLP act in several economic laws have done and therefore replace not in all other sections. It's only section 235 a and the section dealing with frivolous and vexatious filing of applications. 
+
+
+## 
+1:15:41
+So that's is sought to be replaced by penalties, and penalties can be imposed by adjudicating body with some basic adjudication principles laid in the regulations. So that's the proposal. You want to say something. So basically sorry, so please proceed. My question is: does nclt have the powers, inherent powers? That is what the I'm now granted. 
+
+1:16:09
+I just want this big granted, sir, but one thing is: nclt is not a what to say a criminal proceeding, right, it's a civil proceeding. Yes, sir, I think they do two things. Number one, converting from fine to penalty, so the moment it converts from fine to penalty, it becomes a in house adjudication mechanism, like in case of company. Is that the number one, they're converting from fine to penalties. 
+
+1:16:35
+And number two, the granting that power to the nclt. so that's how it's. Yeah, you're right, that fine cannot be imposed by incident is not a criminal court, but nclt is definitely can impose penalties. How many applications, for example under Section 74,76? How many? How many things have happened in nclt? Sir? I think nothing has happened, nothing. See. Take the example of what to say your section 19 to application and your perfect transactions. 
+
+
+## 
+1:17:15
+How many judgments have come? How many people have been put forward? It is just to say Obsession. I watch, I would rather say it's just an eye wash, because really I am. I am facing a lot of brunt on that personally. When things are to be completed, it has to be finalized. They take their own sleep time. your rights. 
+
+1:17:42
+I think 19 by 2 also will come under Section 13 by section 235 only now, and I think that will also therefore get into a penalty regime rather than find regime. Okay, don't do it, sir. It's a welcome science. It's a welcome sign, but one thing is how far it is enforceable is the question. That is what is my point. So I think we back on the point of delays. 
+
+1:18:05
+Essentially, what is killing the system is the delays in the courts, and that is the biggest so called elephant in the room that we need to tackle, address and first that is what I said ask nclt to define the dates within which they will complete. Then all these things can work out. Sir, I am definitely telling you it will work out correct, okay. so going forward many of the proposals related to streamlining of CI RPS. 
+
+
+## 
+1:18:43
+Firstly, talking about Fast Track resolution process, although there are regulations in place. However, now we are talking about some out of court process where the FCS will take the charge and things will require. 66 percent of foods IPS can be appointed directly by FCS and FCS will only oversee the process. However, with respect to moratorium, which is optional, FCS can reach out to AAA for declaring the same. 
+
+1:19:11
+So here the concern again is if anyway we have to go to a for the purpose of moratorium, the concerns of delay, as we talked about, will still remain so. anyway the instances of ftrp or anyway not as popular as like currently. Ftrp has lost its meaning because the current notification talks about assets of rupees one up to rupees one crore. Where is the threshold for filing insolvency is about rupees one crore. 
+
+1:19:43
+I think there's a clear conflict there. So fast track has lost its relevance with the current notification. So first of all the government has the power to notify and somehow they came with a notification of who is one. I think that notification also came some six years back way back. Yes, the number one. 
+
+
+## 
+1:20:01
+They need to revise it up and divide it substantially, because even I think even 100 Floors would still be fine to think of Fast Track. well, at least substantially upwards, and then the provision that this will be non adjudicative except for the purpose of moratorium. So if you need to come to that judicating body for getting moratorium, one of the most important part of resolution process is moratorium. 
+
+1:20:25
+Moratorium is not ordered and creditors continue to bother the corporate data, then the whole purpose of insolvency is lost. So for the purpose of moratorium we still need a statutory order and therefore you need to come to ncert. So while Fast Track can work, but the moratorium still is based on ncld's discretion there. 
+
+1:20:45
+Probably it might be an automated process that if there is a fast track resolution, the financial creditors have anyway asked for monetary border, then without questioning any further, the ncld should be willing to Grant the moratorium. then it would make fast track actually move on faster. Otherwise, I'm sure all of you would actually confirm that there's probably hardly any instance of a so called Fast Track resolution at all. 
+
+
+## 
+1:21:12
+In that case the moratorium should have a time limit other. Otherwise the fast track it doesn't come to the ncrt for approval. Then the moratorium may be misused so that way that way there should be a limitation for the moratorium. In such cases the faster anyway has to get to get CIB process. I think so. I think the morat will also remain for that particular period only okay. 
+
+1:21:42
+Secondly, as we talked about feedbacks here also the idea is to extend the concept of feedbacks. Presently it's only for msme's. the idea is to extend to further categories of CD and which are again get to be prescribed the law has. The proposal has not specified any sort of criteria. This basically depends on the central government most probably. 
+
+1:22:08
+Plus, there are proposed amendments relating to declaration by CD with respect to existence of avoidance transactions which may be omitted. Sermon also, yes, so I think this is something which was being talked about for a long time. Currently, pre pack has really been his failure, because it was intended only for msmes and they're also. It requires those predators to affirm the pre pack resolution. We're actually getting a haircut. 
+
+
+## 
+1:22:47
+We're expecting somebody whose claim is suffering a haircut to actually go and vote in favor of the resolution. so. In any case, there were only two instances of pre pack resolution so far and therefore it's been almost like a failure. So the fact that pre pack may extend to non msmes of such categories or such types as ibba or central government May perhaps lay down. That is certainly, I would say, expanding the scope of prepack. 
+
+1:23:16
+However, the procedural part is the still Laden with multiple approvals, a special Evolution, then two states process to go to a judicating body, Etc. So if anything which is asking the corporate data or the creditors to go to nclt, the moment we talk about reaching out to ncert is it takes time. 
+
+1:23:36
+I think all of us are, I mean time it can be talking about the moment you go to nclt is the courtrooms and then you are talking about enormous amount of time being lost there. If you're talking about two stage approval, then it makes it even more cumbersome. So if actually the pre pack has to work, pre pack is basically what pre agreed by Twitter. It's almost like an out of court agreement. 
+
+
+## 
+1:24:00
+It's sort of an OTS sort of, let's say, creators own settlement. The creators are coming into courts merely forgetting the seal of approval and to make it mandatory for everyone. so if that's the idea of a pre pack, the here it should actually move much faster and a single window clearance by ncrt is all that sub files, instead of asking the process to go to nclt on multiple occasions. 
+
+1:24:25
+That's what my take would be, but if other 70 suggestions to make on that, I cannot see any raised answer. So I would rather proceed. The next proposal relates to insolvency of real estate projects, as in with a. Instead of looking at the entire real estate company, we will now look at real estate projects. So we'll go by in solvency resolution project wise rather than ntdy wise. 
+
+1:24:54
+For example, let's say, when an application is filed to initiate the CIP against Siri being promoter of a real estate project, a at its discretion admit the case but apply the CIP Provisions only to such projects which have defaulted. Additionally, transfer of ownership and possession during CRP to the loates with the consent of coc is proposed. 
+
+
+## 
+1:25:18
+Foreign views yes, maheshi, this is workable only if we have a project wise balance sheet, because otherwise how you are going to identify the liabilities and constitute the COC? And other things because normally the corporate data has common liabilities, loans, Etc which are spread across the projects and which may not be correlated to a particular project as such. so practically this may be difficult to implement, although it's a good suggestion. 
+
+1:26:01
+But from the Practical presentation might have practical considerations to do separation of liabilities, a lot of Pandora box, because again you need to get your financials prepared for a project, get it audited, satisfied, justify that this belongs to this project only there are no liabilities or things coming from the other projects. So like that foreign that would arise for the partial resolution as well. It's the same issue. 
+
+1:26:35
+Partial resolution as is proposed and you're coming to the next slide, perhaps so all partial resolutions. As also in case of real estate projects, it works only if there are project related liabilities. If there are corporate liabilities which share the assets of multiple projects under a common entity, then this idea would never work. yeah, see, I fully endorse the view of I mean I did not hear that my SD see. 
+
+
+## 
+1:27:12
+But it is normally what happens in these real estate projects is that the once the first money comes, money comes for the first project. It is not necessarily itability. It is utilized only for the first project. Most of the times the money which comes from the first project is utilized for the purchase of land for the second, third or fourth or fifth project. So I at this amendment I have seen serious concern. 
+
+1:27:41
+Even I had concerns even for the NCAA, T and nclt orders which were in my view not appropriate for the reason what Mahesh ji told and what ever I am sharing now. so making an amendment in the law. 
+
+1:28:03
+I have serious concerns because it would give easy way for the fraudulent promoters to see that the home buyers are put to more difficulty, and it is quite possible that the money which is collect money which is collected for the first and second project are the third and fourth project trades invested on the first project and the money really belongs. I mean the first project. 
+
+
+## 
+1:28:38
+Also, home buyers also would have invested the money, but this first project gets completed and the third and fourth project home buyers may be put to a lot of difficulty. So, and this has a cons. The same thing, I have a concern regarding the handing over of the completed Flats by the RP with the with the approval of the COC. 
+
+1:29:11
+I have a serious concern connected with that, also because I doubt whether there is any real estate player who is keeping track of the influent outflow of the money project. Wise though I think it is expected as per the era, if I are not mistaken. So this is my serious concern and I do endorse you are you regarding the part resolution that is not a real good idea. I think it should be. 
+
+1:29:44
+It should not be made as a life. There is a specific cases or something, then it gets handled in the existing way. Even as of now, I understand that there are multiple resolutions for a CD, not too many, but which have the Ascent of the adjudicating authority. After the adjudicating authority has been convinced about it. I think it should not be a very general law when it comes to the aspects. 
+
+
+## 
+1:30:20
+What we have discussed, that is my amble submission with regard to the board of directors, suspension of both the board of directors. How it is going to be done for the particular project under a company is your role. That is also a question will it needs to be answered here. 
+
+1:30:40
+Secondly, where variable there are multiple projects and one of the project is in the problem, then in that case the company as a whole can go for the CRP and the lenders of the projects, which doesn't have any default and all those things they may they may continue with the projects and the project by its residual front can be there. 
+
+1:31:06
+And for a particular project the results block can be there and for the other projects let me continue and the COC should have a deciding such a reason in segmentation of coc for the project wise can be done, but the CRP process needs to be are taken forward for a company as a whole. That is what I think it will be very difficult to implement the project by CR. 
+
+
+## 
+1:31:35
+I think so hello, that the CRV based on the project which is going on. You know it is not possible internet set. It is wasting of time. Or this is putting the responsibility on the salt of the Ci or irpes because he don't have the he can't manage the fund and he even Authority involved. You know any every company. They are controlling the project. 
+
+1:32:13
+But if we have no authority to control that fund, how he will manage otherwise foreign? Why did you think so, sir? It says the resolution of a corporate debtor. So it's still the same. I mean they are not saying CRP of the project. They're talking about CRP of the corporate data, that is the company having multiple projects. Let's say one company has five projects and they come out. The CRP will be that of the company. 
+
+1:33:18
+However, resolution will be possible for Real Estate projects, you know. In other words, if one project, let's say, still good, other projects are facing and issue the project, which is good, will be allowed to. Let's say, continue. So, while we still need to see the details, and probably there's a similar proposal for partial resolution in the next slide as well. 
+
+
+## 
+1:33:39
+So the thought process has been going for quite some time that it's possible to do a partial or fractional resolution, while though the default is that of the company. But resolving the company does not have to mean resolving all the projects of the company in one single group. It may be project wise Revolution. That's probably the idea, though the details need to be seen as we get to see the fine print below. 
+
+1:34:06
+Mr and Lisa, thanks, sir. I welcome this move, actually because I closely interact more with real estate projects. One of the of course, there is a regulation which is going to follow with the amendment in the ACT. That's what I've heard from ibda, and those fine prints will be available there. 
+
+1:34:29
+Especially how do you constitute a committee of creditor see in case of a corporate debt is there, and then see if it is only a project and if at all you can distinguish the liability towards the project, you can always allocate that particular liability towards that COC right and otherwise what happens is that these are all the things. The fine prints already is and is in Android working by idbi. 
+
+
+## 
+1:34:58
+That is one, but the reality is that this is very much required. Sir, I know a lot of real estate companies which are all having four or five projects and all these projects individually has got shortfall. Also, and if at all you don't do this resolution project wise, probably the good one or Revival, one cannot get see the light at all because everything will stop right. I'm really welcoming this book. 
+
+1:35:28
+Thank you for making that point and just wanted to supplement by saying that there's a well known practice called project Finance. The project Finance the whole definition of project finances that the lender has looked at number one assets of the project. The lender has security interest on the assets of the project and primarily the cash flows from the project will go to repay the lender. That's a very definition of project Finance. 
+
+1:35:53
+Under armies regulation itself and mostly in case of project Finance, the lender will have an escrow mechanism whereby the cash flows from sale of units or apartments from the project will go through a particular escrow to the lenders in that project. That would mean there is no forming building of cash flows across project. that's the that's the way real estate Finance or project Finance typically works. 
+
+
+## 
+1:36:17
+So some of you are saying that the cash flows are still commingled, mostly in practice. They are not comical, because the project Financial will ensure that the cash flows of the project are first dedicated to make payment to him rather than go to other creditors. Of course, of course, the operational cost of the project have to be taken care of, but there is an escrow right over the cash flows from the project. 
+
+1:36:44
+Now all the projects are having individual accounts and even the collections are getting deposited there is an escrow account. Only 30 percent. That is the margin or whatever it is. 20 or 30 can be only a siphoned off by the promoters. Of course we can. we can argue that a lot of malpractices may be there, but the in reality the project wise accounting is available. That's what I could say. 
+
+1:37:08
+Yes, I recommend what Mr Gandhi says. That is there seventy percent you have to utilize for the project, 30 percent you can utilize it for some other purpose. It is based on two certificates. One is the chartered engineer certificate and the Chartered Accountants Advocate as to the completion and to the funds utilization. If that is strengthened, then this can happen or otherwise. No is currently applicable in most of the relevant States. 
+
+
+## 
+1:37:40
+It's a state matter, though, but well, some states have not implemented still, but nevertheless most of the states have actually implemented. Has been mentioned. Now, if you are going for project wise insolvency, this is the account is available. what is taxation impact of that particular project? What about the guarantees of that particular project in there are the same. Tower also can mean four phases. 
+
+1:38:10
+If one phase is registered, what about the land for other three phases? Or maybe, as I said, what about the taxation? Then they talk about the two occurs when we are talking about form one from two, form three, form five Etc now thirty percent goes to a corporate account. 70 goes to specific account. What about that 30 percent amount that is gone elsewhere? 
+
+1:38:32
+There are many such issues and maybe in my humble understanding, yes this is a very enabling and welcome gesture by Regulators. But a project or maybe our industry specific resolution is not an ideal thing. In my limited humble understanding. 
+
+
+## 
+1:38:53
+A general law is good enough to deal with all situations if it is well implemented and gives a freedom to create in a way any individual IP wants to do, with Committee of creditors and other applicants going for specific situations, exceptions, Etc, who create more problems than Solutions. So these are some just minor points which are pointed on this project resolution. Yes, we understand that real estate problems are very big problems. 
+
+1:39:25
+Home buyers are involved, but maybe we are getting into a situation where we are trying to find a solution which itself is creating other problems. The point I want to raise is that somebody talked about the Preamble in this context. Now, when an admission happens, the admission the CD happens into CR UC. You say project wise resolution. now the challenge with the RP. There is no. 
+
+1:40:02
+He is not able to give the other five or Suppose there are 10 projects. Two is under CRP. The rest of the aid of the project. The promoter is not permitted to deal with it independently. The RP is here in the picture. So the RP may not per se be the capable to handle eight projects. He will need the promoter. Suppose the promoter basically is in difficulties in this particular case. 
+
+
+## 
+1:40:29
+So when we are talking about project by carp, what is the modality? Because the promoter should not be put into a situation where he has, to you know, take the permission of RP for everything small things in the other projects. That defeats the very purpose of having a project based resolution. there needs to be a solution to this. But this has created a lot of problems in many cases where project my CRP has been taken. 
+
+1:40:52
+It's a very practical kind of a situation which also arises in the pre from the Preamble of the code which talks about the CD getting to see here. So there needs to be some Amendment or some carving out kind of a situation where the project assets and liabilities can be segregated and hand over to the RP. That's very important. 
+
+1:41:14
+We've looked at the ring fencing of the essence of the particular project and segregation of liabilities so as to keep the working of the project distinct from that of the corporate. We're not talking about Difficult by. The Entity. We're talking about default by particular projects. So that's a very important narrative. I think this: these are all things normally are a part of the narrative, but the narrative has to be amply clear. 
+
+
+## 
+1:41:37
+It has to think of all the details, because we're talking about default by a company, though pertaining to a particular project. So it's not a corporate level in solvency, talking about a project level insolvency. It's a novel concept. 
+
+1:41:50
+I think the next slide, which is currently on screen, also talks about something similar and therefore we might probably Club the two discussions, because here also talking about multiple connects, slightly different, though multiple reasons for the same CD, but there the presumption is that the multiple businesses are all insolvent in case of real estate. 
+
+1:42:07
+We're talking about some projects being bad, others being good, correct, and therefore resolution only for the bad one, leaving the good ones still in the control of the corporate debtor. So that narrative will still have to come clearly from the rules, and these are normally part of the rules. 
+
+
+## 
+1:42:23
+So I'm guessing that it would prob, and in any case I think we can build up our recommendations so that, while drafting the rules, ibba can take care of some of them, points very well made by all the participants. MRSA, did you want to add something further? Or? But you are muted, sir, you're on mute, so should. Now you're still on mute. Sorry. 
+
+1:42:59
+What I mean to say is that the books of accounts of that project are clearly decipherable, with all liabilities and assets being clearly demarcated. Then so see then the resolution can happen or otherwise? No, it can never happen because of the simple reason, simple reason being there is always a diversion of funds from one to the other thing. But those narratives have to be there in the support. 
+
+1:43:32
+It has to be very clear, clear, cut demarcation, sure, I think that's a very important. I think the participants have given extremely rich contributions to what should be there in the subordinate law, so that the intent of this particular provision is not frustrated by lack of details are needed here. That's very well made Point. I think the multiple resolutions will probably be somewhat similar. yes, I'm just briefly introducing it. 
+
+
+## 
+1:43:59
+So CIP regulations already have certain bits and parts of similar such stuff. Where they are talking about peace me resolution the we have regulation 36B and 3.1M where the resolution plan may actually provide for sale of one or more of the assets of the CD to one or more successful Ras and manner of dealing with the remaining Assets. Now. 
+
+1:44:17
+The Proposal is to enable resolution of individual or corrective assets of the CD in one or more resolution plans. But there is a rider that at least one of the plans should provide for insolvency resolution of the CD as a going concern. Now as and when COC approves any of these multiple plans. The plan goes to a for approval. the approve the a once up approves it shall be implemented pending approval of other plans. 
+
+1:44:43
+So we will not stop for any particular plan. The plan, one plan once gets approved, it goes into implementation mode, and the rest plans will follow the or the first plan. So this is how the proposal looks like, is quite Noble. Once again, a lot of it is a matter of detail. Once again, because you're talking about the good one has gone off now the good one actually could be the cash cow. 
+
+
+## 
+1:45:16
+Therefore, what remains is extremely unattractive. So the essential question is once again, and I think the next slide will have those concerns. You guys, you can maybe, yes, so the economic premise of a serial or multiple of fractional resolution always is whether the sum of the parts. you could probably see it on the right hand side in the equation. 
+
+1:45:38
+Some of the parts, that is everything put together, versus the sum of the parts separate, some of the parts, that is one ABC all put together, or a, plus b plus C, if the sum of the parts that is individually leads to a better economic value than the entire part 2 together, and I'm sure you'll all agree that conglomerates are quite a good. I mean there's quite a good proposition. 
+
+1:46:02
+A lot of companies actually are conglomerates. But when things to go bad, like One Bad Apple spoiling the rest of the apples in the basket, similarly one bad entity might actually kill the value of the rest of the entities. so why should resolution actually necessarily insist on all the apples in the basket being bought by the acquirer in one group? 
+
+
+## 
+1:46:22
+There might be multiple buyers for multiple apples, so to say, there might be multiple bags for multiple undertakings. So as far as going concern is concerned, going concern is the presumption during installments. We presume that the entertaining question is going concerned. It becomes a gone concern only in case of liquidation. So that's the presumption anyway. So that condition is easily satisfied. But the question is: whose approval are we asking for? 
+
+1:46:47
+If you're talking about entity, what that is not. I mean enterprise wide not enter device. If you think of entity as the legal entity in various Enterprises or various undertakings within the entity, the equivalent would be one of a demerit. One entity is getting demons. remaining undertaking still remain within the entity. So you're talking about one entity getting moved out of the entity by way of resolution remaining undertaking still staying with the entity. 
+
+1:47:13
+Question is: will the creditors of the remaining ones happily approve at the going out of the business? Creditors probably would be. They might either be entity wide Predators. There might be some segmental creditors as well undertaking base filters as well. So question of coc's concurrence will still remain a challenge. But that's where, as the Supreme Court says, the commercial which is the or the lack of it of the COC would have its overwhelming sweep. 
+
+
+## 
+1:47:42
+So if the creditors, in their so called Supreme commercial wisdom, want to approve the resolution of one single undertaking while the rest are still waiting to find a shooter? I think that makes a commercial sense. In many cases it might find a lot of commercial liquidation. We always do it celebrities in bits and peace. So if in liquidation we can sell the entertain bits and pieces, why can't we do it in resolution? 
+
+1:48:06
+That's as an idea perfectly seemingly okay. I think people still would like to express the thoughts they say the one sampath so there are. I'm aware of couple of resolutions which have already happened in this manner in existing framework itself. so why are new framework is required is something which maybe, if you could help me to understand something in many of these proposals, what is already there in regulations and now being brought in the law. 
+
+1:48:35
+Because quite often people will say: support network has it, but where is the substantive law having it? So they are wanting to introduce what is already there either in practice or in the regulations they want to quantify in the law. Thank you, sir. So first and foremost question which is to be answered is how many, how many entities are there which are good and which are bad within those framework? 
+
+
+## 
+1:49:00
+And, for example, if you find a resolution to one of the projects and CRP is a time bound process of 330 days maximum. how are we going to handle that point of view if one within the 330 days gets over and if the other part of the entity goes into liquidation? How are you going to handle such type of a situation when liquidation is of a corporate data, not as a entity as such? 
+
+1:49:27
+How are we going to address that point of view? That should be very clear in this law. If such a situation happens. What has gone by has gone. Other part will be the part of the liquidation. That should be the point, which should be very clearly deciphered in the law. 
+
+1:49:46
+I think that should be implicit, because if resolution works for one entity or one undertaking, the remaining undertakings don't find a shooter, don't find a buyer, it then moves into liquidation. that could probably be the idea. Maybe move to the next one. Yes, but this one is another interesting supposition. 
+
+
+## 
+1:50:14
+So basically, till now the resolution plan provides for all the intricacies, including what among the ra intends to provide plus and what Manner it wants to distribute the proceeds. That is a decent amount. Now, basically we are seeing distribution as a separate process from resolution can take its resolution gets decided and distribution can take its own course. Basically so the ra will give the resolution amount but distribution now COC can take care separately. 
+
+1:50:43
+That's the proposal. So proposal basically the array will indicate how much I'm willing to pay. Yes, that will pay 200 crores. Now 200 crores. Currently it says I'll pay 150 crores to FCS. I'll pay 30 crores to OCS. I'll pay five gross to government. I'll pay 10 cross to workers. She also gives the allocation of what he pays to who correct. 
+
+1:51:00
+Now what is expected is he'll say: this is all that I would pay and the distribution is left to the COC. No, of course. Maybe we can Club this propose with the waterfall proposal also correct, because when we are talking about distribution, what about waterfall becomes important? In case of liquidation, we have a identified waterfall which is quite obvious. 
+
+
+## 
+1:51:22
+So in cases of resolution going by the vertical comparison approach, you would of course have followed section 53. However, there have been debates around it. So therefore, what the proposal is to introduce some sort of waterfall in case of ciop, which is again aligned with section 53, which again we see is getting compact pursuant to this proposal. so seemingly, to my mind, so a good move. Yeah, but let's hear from yeah, let's see. 
+
+1:51:54
+First of all, this thought process has come where the concept of equitable distribution in some of the Supreme Court cases which has happened. That is the basis on which this law is coming up now, leaving it to this COC members to decide as to what the payments are to be made. Will there not be a fight within the COC where operational creditors are not part of the COC? No, so that's what I understand. 
+
+1:52:28
+Is this provision Ed by the provision where they are now actually laying down the rules of distribution, even in case of resolution. So the space for subjectivity probably would get eased out. That's what I understand. the Counterpoint is mailed out is that see resolution applicant is the one who has to carry the business forward correct? He has to carry the entity from here on. 
+
+
+## 
+1:52:55
+So he would need who supportively the support of the creditors, even in the support of suppliers, vendors, employees, workers, everyone still say, if and if I leave it to the as COC, which is consisting of just one class financial traders, do we expect the financial creditors to keep money aside for the workmen, to keep money aside for the employees, to keep money aside for others? I mean what matters is my self interest. 
+
+1:53:19
+Every creditor is overwhelmingly driven and I think rightly so by his own interests. He will not be looking at the interest of the ra. so ra is the one who can probably see the futuristic interest of the entity better than the COC is obviously dictated by their own self interest. 
+
+1:53:38
+So how does you, how does one expect the or perhaps in that case, Larry, would probably have to say that this is something that I'm leaving to discretion of coc and this is something that I will pay as a part of my own discretion. Perhaps something like that. Perhaps something like that, because he has to keep everyone happy right to get the wheel moving. 
+
+
+## 
+1:54:00
+But one thing is see you know the point is what is said here to an extent overlaps with the current mechanism of resolution. In this year we wear an RA is permitted to sell some assets and retain other and give a resolution plan. now, if you are saying that you will do a separate resolution for the undertaking separately. 
+
+1:54:27
+There is a plethora of changes I think Mr you know better has to be done right from stamp pack to various other places to make it happen economically. Otherwise you will have demored the entity, put it in a separate company and you know the taxation issues coming there. So the point here is that, as you write listed earlier, unless a narrative comes in, you are not clear how it will work. 
+
+1:54:49
+Now the point is that it's suppose I am an RA. I have a corporate data where I am submitting a plan. I may possibly be interested in two units out of five they have or five businesses they have. I will then say that what I could realize out of the other three businesses now the value maximization for me happens in the other three business. 
+
+
+## 
+1:55:10
+Provided I give a comprehensive settlement to the creditors of the entire CD, then I'll be able to fetch a better value for that and I will accordingly put an Enterprise Value and bid for it. Don't you think that's a better option than doing something like this? But I don't see. I realize I am not able to see clear advantage in doing that. I see a lot of confusions going forward in this. 
+
+1:55:34
+Possibly I may not be able to visualize all the confusions, but there are apparent confusions that you can see could crop up. And if you see your slide, the last portion you're saying about whenever finalized and approved by the COC, the resolution plus the scheme of distribution, as the case may be, shall be placed before the a. You know what is the role of a year again? 
+
+1:55:56
+Now, on one hand, the distribution has to be done by COC. The a will evaluate whether it's equitable. Or how do you ensure that the mandatory contents of the plan, the section 32, read with Section 34, and I think regulation 39 is complied within such a case, or they may have to make changes there also. I mean I'm just thinking a lot on all this. that's I have no Solutions, but I'm just thinking a lot. 
+
+
+## 
+1:56:23
+Thanks right. Okay on the yeah, I think see how we talked about the waterfall already and maybe I think just move on to the Swiss challenging this. I'm sure, as many of you would have already seen that a lot of major resolutions the Swiss challenge mechanism is being used every day in the financial place. Today you're hearing about one leading matter going in Mumbai, where Swiss challenge is already in the challenge. So but now the code. 
+
+1:57:01
+It seeks to mandate that instead of a clean auction, the Swiss challenge method would be mandatory. One of the options that can be used for the resolution plans. Mr srishanta Das, that's what you know. Yeah, good afternoon. Good afternoon everyone. this is just with respect to my inputs in the previous slides, from 9,4 to 9,6 onwards, where we were talking about the distinction between the resolution plan and the distribution methods. 
+
+1:57:39
+So what is our view in this? Actually, there is Major disputes are coming in the distributions parts and because of this, distribution parts are getting delayed because of filing of a and so the SRA actually they are not able to take over the CD. So what is our thought process was we will be. We will divide them. So once the resolution plan is approved. So let the and the SRA pays the money. 
+
+
+## 
+1:58:09
+Let the company be handed over to the SRA. However, the distribution, if there is dispute, it will be kept in the escrow account or something. it's some kind of mechanism so that once the dispute is settled then it will be distributed among them. So this is this was the plain vanilla thought from there. Actually it has come. 
+
+1:58:30
+Thank you for clarifying that and I think personally I would say it's a welcome move, because there is no reason to keep the Handover of the unit pending till disputes about distribution are taken care. 
+
+1:58:44
+Of course, distribution plan itself goes to a judicating body and adjudically the body might therefore yeah exactly the equity involved there exactly and when we are just now as we have this waterfall mechanism also again we are redefining so it will be a straight jacket formula and apart from that, when the some points are actually come that how the array will satisfy the creditors as per their need. so that option also. 
+
+
+## 
+1:59:10
+We are keeping it open if COC wants, so they can give some incentives to the employees if they want to keep those employees when it is a going concern, so that option will be there. So with that thought, data has come. So, but I think the basic idea is that a lot of detailing will probably have to be there in the subordinate law because the statutes increase. 
+
+1:59:33
+That's true delineates the outer periphery, but within that whole lot of work still may be developing the contributions, so they could be helpful when we get into the summer. Definitely definitely thank you. So next is again monitoring the implementation of resolution plan. This is a practice which we see even today resolution plans for the purpose of at the time of implementation. 
+
+1:59:59
+We generally see a monitoring committee taking care of one the implementation of the resolution plan. The law basically wants to codify it. Proposal is to qualify this and basically it wants to mandate that a monitoring committee should be constituted for monitoring and supervising the implementation of the resolution plan. It doesn't say anything about you know the kind of constituents of this monitoring committee as of now. 
+
+
+## 
+2:00:27
+So maybe any inputs on that, or maybe it's left of the COC. Yeah, so I think that's how it should be. Probably and the COC put together okay. The next is a is empowered to cure curable defection resolution plan. there I have been rulings where the powers of a were curved, for at the time of modification of resolution plan they was limited and that this a was depart from making modification to the resolution plan. 
+
+2:01:11
+Now the proposal talks about that a can send the resolution back to COC to cure certain curable effects. The Proposal doesn't talk about what kind of curable it affects the proposal is talking about and what kind of cure the proposal is talking about. So I mean in matter of principle, this is once again perhaps undisputable. But you're right. The whole issue will be: what are the curable defects? 
+
+2:01:41
+I would say because if the COC sends it back, like in case objective, is asking the resolution applicant to increase the amount. then once again, I mean we are then substantive part of the plan. It becomes a fact.commercial wisdom, so to say the Supreme Court's famous expression it gets into questions of commercial wisdom that might be highly uncomfortial and unwise. So first and foremost thing is all adjudicating authorities have only one point of contention. 
+
+
+## 
+2:02:13
+Is that equitable distribution, even though Supreme Court ruling is there, everything is there. So you will see approval is there. Everything is there. Every plan which is being minutely being discussed by the adjudicating authorities that have you given equitable distribution to all the parties, and questions have been raised with regard to operational creditors, who are government authorities, for example Noida Authority, very simple land owning Authority. 
+
+2:02:44
+All the treatment has been given to them, even though they are considered to be operational creditors. they are being questioned and they are being asked why can you not go for a renegotiation with the authority to make the plan? These are things which are required to be more clear. If you give it to the educating adjudicating Authority. The adjudicating Authority will start questioning the question. COC approval. Very clear, sir. 
+
+2:03:17
+If the provisions for the waterfall is made a part of the CRP Provisions as well, it help, because then the COC has lesser of what do you call flexibility or discretion? 
+
+
+## 
+2:03:34
+My simple suggestion would be, for example, if there is a plan of 100 crores and if the liabilities are to be given, it can be what to say percentage method can be adopted and given to each and every player so that it solves all the problems. where the Equitable equitable distribution happens. There should be clear cut understanding. 
+
+2:04:01
+You cannot live it to the limbs and fancies of someone and then question that Limbs and fancies once it has been decided. It is decided you will say one side if the equity of distribution is made up part of the waterfall. Currently we're referring to liquidation value and we're referring back to section 53. Liquidation value itself is contention based on what the valuation would be. 
+
+2:04:25
+But if and I know that writing down the waterfall during resolution will even be tougher than writing waterfall during liquidation, the liquidation we know what the values have been realized, but we can actually post facto verify the values in CRP. the values are still to be discovered. So therefore, writing waterfall in resolution will be quite a challenging task and I'm hoping that Mrs will be able to pick up some thoughts from these discussions. 
+
+
+## 
+2:04:51
+But it will be very important because you are right is very right that in wherever the resolution plan has been examined or questioned by the adjudicating bodies, the prime stress is the so called Equity of distribution and Equity if that's made a part of the law at as detailed principles as possibly could be there in the law leaving let's go for discretion. That would probably help to an extent. Yeah, that's what is my point. 
+
+2:05:22
+Yeah, I see vinodji. I think you have covered the point in some ways. I regarding leaving the distribution to the creditors, and it is it is a separate process. I think, even if there is a very specified way of I would say there would be one section 53 for liquidation value and one section 53 b or some in whatever the you call it 53 amended for the. 
+
+2:05:55
+What do you call anything value over the liquidation value? Let us take a see. It is not necessary that all resolution plan needs to be over and above the liquidation value right. It can be less. Also, there are decided cases. What happens can? 
+
+
+## 
+2:06:15
+What can happen is that again the operational creditors may get zero value, whereas if that is a industrial product which depends on two, three, four suppliers and if their requirement are not met, would the what you call corporate data be able to get the supplies at a later Point without getting even one rupee for the past supplies? And I in my view, uh that segregating approval of plan and the distribution could lead to more litigation. 
+
+2:07:04
+I will add, I'll pick up the point from you regarding the liquidation value if you are giving. If you are thinking of very standard formula for distribution, I think in the next two, three years you can see more litigation related the valuation than anything else. That is my respective full submission. in my view, there shouldn't be combined and we shouldn't, uh make what you call a very standard formula for the distribution. 
+
+2:07:42
+I think this chain, this thinking of this change it could have, though the intention is that to meet the objective of maximization with equity in the time bound manner. But we may not achieve the time bound Manner and it may get affected because of more litigation than now. We have more to do with the valuation. That is my respectful submission last month. 
+
+
+## 
+2:08:21
+Just give me a minute to just make a point that when the COC votes on the resolution plan, in the so called, let's say, segregation of resolution plan and distribution thereof, when the COC is voting on resolution plan, are we saying that they are not voting on the distribution? if the resolution and distribution are segregated. Are we expecting the COC to First vote on the resolution and then maybe separately vote on the distribution? 
+
+2:08:48
+Because that would then I mean if we linking those two, then maybe if the resolution plan is approved, distribution is not approved. Are we therefore saying that the resolution can go ahead even if the distribution Still Remains undecided because the COC has not been able to? Either they don't approve it at all or they don't approve they still want to take time for the disc. 
+
+2:09:09
+I think it's a complex question and I'm sure that a lot of Social Work might be needed to actually come to a meaningful Solution. On that MRSA, did you want to add something? so first of all, does the resolution applicant come with the Hard Cash to take the company? He doesn't. He gives it over a staggered period of time, right. So how the distribution will happen? 
+
+
+## 
+2:09:40
+For example, if he's telling the financial creditor I will pay within the next period of six months or one year and up till that time the documents will be available with you. That is how it is being done. It is not Cash and Carry business right. You put the cash and then you take the business out and the distribution is done by this COC. It can never happen like that. Sir, very clear right. 
+
+2:10:06
+The distribution has to happen along with the approval of the resolution plan. It should go hand in hand or otherwise it will not. it will create a Pandora's Box foreign. I was about to discuss on the next Point, sir, which you have mentioned about the curable defects in the resolution plan. Yeah, this a empowered to cure effects in the resolution plan. 
+
+2:10:45
+You see, this is proposed, but in one of our cases in Hyderabad, ncrt, the resolution plan was submitted last year. Now the nclt has given back the resolution plan asking the ra to cure the defects in the plan and again place it before the COC take their approval and file a RP to file a fresh IA for adjudication of the modified plan. Umiza, you are very good, so I got a small difference in view. 
+
+
+## 
+2:11:29
+This is a welcome move, sir. why I'm saying is that see how much has to be paid by the Rea and when they will pay. Everything is part of the resolution plan right maybe after six months, after one year. 
+
+2:11:44
+Whatever it is, it is not a Cash and Carry business, as rightly pointed out by Mr siram Right, but the reality is that if there are, say for an example, equal stakeholder in the COC or two banks are there right, the distribution is an activity within the COC right. 
+
+2:12:04
+So resolution is the frame activity which should be segregated and the resolution means you are Reviving the corporate and proceeds when it is coming how to distribute, how to divide between us in the COC. That should not form part of the discussion. while we are discussing thoroughly about the resolution plan. In my view, I go with what is being suggested and this amendment is a welcome suggestion, in my view. Right, sir, maybe you can. 
+
+
+## 
+2:12:40
+Yes, this part is very important, is very important here, as you know, sir. You see that in presently, liquidation is an irreversible process. Once CRP fails, the CD gets into liquidation. It cannot come out of it. The only probable Solutions are sale as a going concern or, and in few cases, schemes of arrangement. 
+
+2:13:01
+However, what is now proposed is even after see the entity has slipped into liquidation and is proposed to be say continued as a going concern, it can still be reinstated into cirp. so even before initiation of liquidation, this might be possible, but then again we are talking about a discretion of adjudicating authority in this regard. So that is one thing. Will it will it again address? Will it again give rise to concerns as to timeliness? 
+
+2:13:30
+Are we only repeating the process again and again with no fruitful results? Or is it a good alternative? That's the question. I just want to say that there is a word called Zombie entities, and this word wasn't there in the bankers dictionary for forever if this was introduced. Of course has talked about it before that one of the earlier executive directors of RB had talked about this word. 
+
+
+## 
+2:13:55
+Okay, and this word thereafter has become part of the Banker's vocabulary: zombie entities, and it is dead, and we're still feeding a dead entity with money and it's keeping it alive someday. So the entity did not meet resolution within the timelines that you therefore went into liquidation and the creators now want to Spur it back into Life by bringing it back into CRP. 
+
+2:14:21
+So I think, while they might going concernsail, liquidation is enabled by the regulations now. Even the Supreme Court talked about that in some rulings. But the question basically is that if we say resolution is time bound, we're bringing it with a threat that if you don't decide within nine months, in that case you're slipping into liquidation and once you go on there, it's irreversible. 
+
+2:14:44
+It's almost like death, corporate death, but after signing on corporate death or death warrant, so to say, and then saying the company will still live, because it's still a growing concern. Therefore the creators wanted to remain alive. Well, that is I mean while in the soil winding up regime there have been cases of Revival of entities into winding up, but the whole stress of the loan timeliness. 
+
+
+## 
+2:15:11
+I'm not sure what will happen to the challenge of time if you were to keep the possibility of bringing it back to resolution once again, but let's hear from others. Yeah, see, I read this, as there are one or two cases where the implementation of the cirp did not happen. 
+
+2:15:36
+I think it is tirupati or something some company's name in that case, when the creditors mode and application for reinstatement or I'm not sure whether this is the Innovative idea of the Creditor or the adjudicating authority. The say, for example, after the Circ, I mean after the resolution plan was approved and then within four, five months they did not implement the plan. 
+
+2:16:06
+Then again it was cirp, was order after certain months or something I mean this is what I think could be the source for this Amendment. My I because I am aware of one case. I'm talking from the public domain. I'm not privy to the internal aspects. A company called Scott garments. It is in the same process. In fact, Mr sushant Das is there. 
+
+
+## 
+2:16:35
+Maybe ibpi could investigate the matter from end to end in case of Scott garments, because it has more than two and a half years that the resolution plan has been approved and no implementation has happened and now the Creditor is requesting for the car to be initiated again. There would be huge number of issues involved. 
+
+2:16:57
+Who would pay the liability between the point of the order of the nclt and till the order of the Circ, whether it is in liquidation or in cirp, and if he has made games or incurred losses, who would bear it? And if there are many machineries equipments and have gone away, what would be the case, for example? I know for sure, based on the records on the public domain. 
+
+2:17:26
+This particular government I mean you don't take the name this particular company was a resolution plan was something like 180 crores and only 10 crores or 15 crores was paid under. The SRA is enjoying the facility for the last two and half years and now you start the carp again. How do you? How do you manage the claims? What would happen mean it would open Pandora's Box and I more tend to agree to vinoji in some sense. 
+
+
+## 
+2:17:59
+He said that we already have compromise and Arrangement. You can sell the company in liquidation as a going concern and why we need to have this life after death. That is one point. second related point is there is an absolute requirement for a time bound decision in case the implementation of the plan does not happen. 
+
+2:18:25
+If the implementation does not happen and the Creditor moves an application, it needs to be decided by within 15 days or 30 days. It is more critical. Otherwise you are not bringing the discipline in the system. It can be that anybody can give the resolution plan and take the system for a ride. 
+
+2:18:50
+So I strongly urge since there to have a proper case study of the company, what I share, because I am not private to many of the aspects. I am probably only to the orders which are on the nclt this one and understand the challenges and Link it with this life after death of the CI office and a timely decisions regarding the non in implementation of the plan, which is highly needed. 
+
+
+## 
+2:19:28
+I think with this I stopped. Thank you. Thank you very much. Thank you, sir. Mr ravindra has pointed out a very, very yeah, but we will not talk about a specific case here. Sorry, I'm not going to talk about that particular case, sir, I would not call it as a death. 
+
+2:19:47
+It's an a mercy kill probably verdict and then, when you have given a merciful verdict and instead of Distributing the organs if there is a possibility to revive that particular person, it should be. But only thing is only thing is that there should be a time bound activity. It cannot be that after two years you come and do all these things. 
+
+2:20:09
+Yes, and I think the condition is very clear that it's only in case of 33,1B non compliance or contravention of resolution plan, exactly not for non approval of resolution plan. Exactly that is the one and the second one sir, already under companies act. I think 360 and that is a compromise agreement which can happen after Declaration of death in this case. right. 
+
+
+## 
+2:20:34
+Yeah, that's also be the failure, because I think there is rarely been any success of section 230 in the exactly yeah. So it's usually been given as an appeal. I usually given an Escape Route and that should be given always, otherwise it will. It will not be there. It is not coming in a full round of law. Probably that could be the reason for this particular thing. 
+
+2:20:58
+I don't know how many cases will fall in this, but we are, but I'm sure that there should be Escape Route, which should be provided attractive foreign Ard to the implementation of the project. It should be clearly defined in the law that the time bone should be in this manner. 
+
+2:21:34
+Only then only that the this can happen, or otherwise, if it is not fixed up with regard to the implementation of the project, then this will not. This will be used as a tool by everybody in a different manner altogether, because every array will start using this as a tool to work out certain things. That is true. Okay, it's not. It would probably be contravention of resolution plan or resection of plan in terms of 3.1B. 
+
+
+## 
+2:22:16
+That's a very limited circumstance. So while the huge of this so called Reign statement is quite limited, nevertheless the whole issue would be: how does it leads to a timely extraction of value? The whole objective of the law is timely extraction of Our Lives. I think we note the concerns. If you can, maybe then the rougher move further. 
+
+2:22:40
+This is another very important provision proposal which says in case of interdependent assets, which is quite commonly the case, there are assets of a guarantor. For example, a promoter is a guaranteed guarantor holding company, where the assets are dependent on the assets owned by group entities, say the promoter entity or say the promoters personally, such that resolving the corporate data without involving the assets of the guarantor would be tough. 
+
+2:23:09
+For example, the land on which the plant is standing is belonging to a gardener or the trademarks are without holding entity. So in such cases it should be possible to club together the assets of the guarantor as well, which, in a way we are saying we are crossing the boundaries of the legal entity and piercing or lifting the corporate vehicle and including the assets of the gardener as well as a part of the resolution, a state, so to say, to incorporate those assets too. This is in principle of insolvency. 
+
+
+## 
+2:23:43
+There are only rare cases, rarest of rare cases, where assets of other entities may be included the part of liquidation estate. there have been rulings in the past in some countries, but extremely rare cases. But here we're talking about a guarantor who has provided guarantees, presumably the current amount of created security into some of the assets. 
+
+2:24:03
+If the assets are secured in favor of the predators of the entity in question, the CD in question, it might then be easier. But if the guarantor is not created security interest, assets are free from security interests of the creditors and there might be other creditors who have security interests of those assets, then this guarantor property consolidation, so to say, will be still a challenge. 
+
+2:24:27
+Globally there are cases where this has been done, but last few years there have been rarely. Even the U S where there was. There's a company, a face famous U S ruling, called Corning PLC. there. This was tried, but subsequently the courts have restrained or refrained from ordering. Consolidation. So called group insolvency is mostly a coordination, not consolidation, as we see in the next slide. 
+
+
+## 
+2:24:52
+Once again, but in the meantime on this, if anyone has any feedback to offer, I consider this as a very welcome move. I am not sure what litigations could go up to the Supreme Court regarding this amendment, but it is a welcome move. as a vinoji rightly told. 
+
+2:25:20
+There are many cases where the lands are in the name of the promoter directors and the buildings are in the name of the company, and I have seen cases where the promoter directors have taken a view that number one number one it is difficult to sell, even in liquidation, and that the promoter directors use that as a artisting tactics to defeat the objective of the creditors. 
+
+2:25:58
+That is a welcome move, but letter we may have to keep the fingers closed as far as the related litigations are concerned. Thank you, that's it. And likewise the next proposal basis, group in solvents. You know there is a separate discussion paper altogether she discusses about group insolvency have been going for quite some time. there are some cases. The group in solvency has been tried in this country. 
+
+
+## 
+2:26:22
+A Videocon, of course, is one of the very well known case. Here we're talking about coordination. That would mean in case of group companies, group companies, meaning holding substrate and Associate companies if there are multiple companies which are into insolvency. In that case the insolvency of these related parties shall go the coordinated manner. When we talk about codization we're saying there might be a common adjudicating Authority and there might be a common resolution. 
+
+2:26:52
+Professional cocs of course will be, because there'll be entity based cocs anyway, but the cocs may also provide for Mutual coordination. so I think in principle I don't think there would probably be much of a debate on this that if at all insolvency of related entities can work as a group of related entities, it could probably achieve better results. 
+
+2:27:16
+Otherwise, quite often the in the state of the corporate debtor is so spread across multiple entities and it is such a complicated way, some of which actually might be in other countries as well. Therefore, this has to actually be combined with the discussion on Cross modern solvency as well that it's impossible to think of sale of some of the assets without making others assets. 
+
+
+## 
+2:27:38
+So the group insolvency concept has been discussed, I think, for a long time, almost like three, four years now, and we are adopting the global approach versus coordination rather than consolidation would have meant to disregard the legal entities and bring the entire assets of the group into one single fold, but that would that would Dent the principle of separation of legal entities. 
+
+2:28:01
+So you are restrained or referring from doing that and we're talking about merely a group wise coordination. Mr Ashwini mehra, yeah, no, on the last part that you said, am I audible? Yeah, on the last part that you said actually very often these one single promoter or you know a couple of the family members. 
+
+2:28:24
+They hold different legal entities, you know, doing the same activity around the same activity, and unfortunately your the insolvency law applies only to companies and they actually take the benefit of that by, you know, preparing for the insolvency by transferring some of these assets into other legal entities which cannot be brought into the corporate entity in the group, which is something also that this law will have to take care of, though I mean the avoidance Etc do provide for you know the transactions, but establishing those you know avoidance transactions Etc is also very Herculean task at times because of the different legal entities which are involved. 
+
+
+## 
+2:29:13
+So I think you know the thought on consolidation also needs to continue to be kept in mind, where we actually see that. You know a different legal structure is being used in various parts of the group, only to defeat the creditors from getting their dues from the group ready. Yeah, I think the point is well made, sir, the point is well made and Mr Mahesh metal would you like to add. 
+
+2:29:48
+My point is, in case a group has, say, five entities and two entities are performing well and there are some default issues in the remaining three entities, then we can only go for the resolution of three entities, not the entire group, so in that case the group insolvency may not apply. 
+
+2:30:15
+And secondly, of course, the point already made that some entities may not be covered in the IBC because they are not corporates or not covered under the carp, and as such they may escape the insolvency route. I think you are right that if the assets are partly in non corporate entities such as individuals, then we'll find it difficult to extend the law. 
+
+
+## 
+2:30:49
+But mostly, while you're right that there might be some cases of individuals and non corporate bodies as well, but mostly the assets are across subsidy companies, associate companies, overseas entities, Etc. So in when we talk about consolidation, it has to come with a full package. The package has to include cross border entities as well, because very often the Enterprise is intertwined with entities across the country too. so. 
+
+2:31:11
+This might therefore make sense only when it is clubbed along with cross border Provisions, but with relevant detailing. Here also would be necessary but valuable detailing. Perhaps this might be a welcome. I mean it might actually be needing further expansion, not just group entities and substitution with the associates, but even. The Wider definition, for example Securities contracts regulation fact the icdr regulation talk about promoter and promoter group, a much wider concept. 
+
+2:31:43
+So it perhaps might be even sensible to think but think of expanding the definition ambition. No, my other point, Mr Harry, he was that in case you have five entities and two are profit making and have no issue of default, so how you can you know do the CRP for all the five? not. There's no question of getting an entity which is not insolvent into the fold of insolvency. The entertain question has to be involved. 
+
+
+## 
+2:32:10
+So if there are multiple entities which are into the holding entities in solvent, the subsea has been called into insolvency. Group entities also into insolvency. The whole idea might work only if the entities within the group are into insolvency. We cannot regard the insolvency merely by using this provision. That would mean there has to be a default, and so it's just one correction. I'm sorry we have seen we have only one correction in lavasa matter. 
+
+2:32:37
+All the entities that went into group in solvency were not under CR. Just for your information. Maybe they're. I'm not aware of the particular facts though, but then I was a part of coc. I know that's right. 
+
+2:32:51
+All right, because the idea basically is that either the garden does in this case you need to invoke the currently or there is a debt which is owing to the creditors of that entity as well, so that you can trigger the insolvency, because the solvent entity cannot be broken in solvency merely because my parent or subsidy company is also into is into insolvement. 
+
+
+## 
+2:33:11
+That's not a ground to breach the so called corporate veil, left the corporate veil and bring the assets of a solvent entity to supplement assets of an insolvent one, because that is done, then the whole concept of limited liability will become irrelevant. However, MRSA, sir, is there not a concept called as Consolidated balance sheet being prepared for group and only for the schools, not for insolvency? That does bro? 
+
+2:33:40
+I'm coming to that point only when and when a company is coming under, when you are supposed to report on a Consolidated balance sheet. Based on the Consolidated balance sheet and if the companies are under insolvency, why cannot they have a common COC and other things to happen? This can happen right, so that things can make it very clear. This is one point which I want to say. 
+
+2:34:06
+When you are asking for a Consolidated balance sheet in the companies act and if the group is under insolvency, that can be taken as a forward mechanism and complete the resolvancy process. That is what is my point. If you are not audible, perhaps yes, you know, thank you. My question is in the previous slide what happened was the corporate guarantor or the personal guarantor? 
+
+
+## 
+2:34:45
+It mentions that this the COC can initiate with the insolvency of the cirp process of the CD, as well as for the personal guarantor if they are the corporates from a group insolvency perspective. Now, and in most of the cases till now, say end of 2022, the ciarps have been initiated, but probably PG corporate PG has not been initiated. Our personal PG might not have been initiated. 
+
+2:35:12
+So what will happen is a question of the limitation. Law will also enter here, if at all. So that's exactly the clarification that I'm expecting. So say, for example, in cirp admitted in 2018 or 19 for that reason a limitation love from the perspective of the dues recoverable from a personal guarantor. are they subject to three year limitation because the cirp was initiated in, say three, four, five years back? 
+
+2:35:40
+I know that limitation question will remain significant, even though there are several Supreme Court rulings on what exactly is the meaning of limitation. And but I think the you're at the point that you build is very valid and we expect that whenever the law is made it probably addresses that question as well, given the time. 
+
+
+## 
+2:36:00
+So can't we restrict the understanding to the fact that because the claims were admitted during the process of cirp and say, for example, the cirp is currently going ongoing or liquidation is currently ongoing for the CDE, the liabilities of the PG, be that individual or be that corporate, are co extensive? is it not that simple or is it like more complex than this? Nothing is simple when it comes to liabilities and limitations limitation. 
+
+2:36:24
+I'm sure, as you would have seen, there have been multiple rulings of Courts on a law which is a 19th century law. The law has been there for almost like 100 years. I mean or let's say some seven, eight decades, with enormous amount of jurisprudence already still when IBC came, we started writing a new limitation law. 
+
+2:36:42
+So limitation law itself is quite a contentious topic and we hope that litigation wouldn't erupt once again on this and therefore, if shushanji is listening to this problem, he might take care of that while drafting the rules or drafting the law where it comes to the limitation point, which shouldn't be stuck on the ground of limitation merely because we did not initiate the insolvency of the related entities. 
+
+
+## 
+2:37:07
+Agree, yeah, in the interest of time, if you allow me to really move a little fast, because we got barely some time left and a lot of slides still, a lot of Provisions still to be discussed, section 53, the waterfall, and that's a very significant provision, because we're now thinking of collapsing the waterfall to merely four categories. I'm not meaning the preferential to the equity holders, which anyway would get nothing during insolvency. 
+
+2:37:31
+Currently we have six layers, leaving the first and second anyway on Dust, because first, second, third, that is insolvency resolution process cost and liquidation cost if any workman's due is induced to secured creditors on a peripheral basis. As usual, employees dues comes at third level. and right now the fourth level talks about unsecured Financial creditors and the fifth level things of two entities. 
+
+2:37:56
+The government use in the post relink Freshman dues of the secured activities, and the sixth level comes operational and the creditors. Now these last three, four, five and six are in proposed to be collapsed into one single category, such that we only four categories cost number one. Then comes Workman dues and creators, secured creditors, then employees dues and thereafter all other remaining claims itself. 
+
+
+## 
+2:38:22
+I would say such a significant rethinking of very significant rethinking of the law, because waterfall is the essence of insolvency and we are trying to, and I think I'm. I don't have any objection though, because there's no reason to put unsecured Financial craters and unsecured operational creators on a different platform. 
+
+2:38:44
+In fact that is something that we had contested long time back, when the law itself was being done that contractually unsecured is unsecured secured is one class unsecured in other class, unsecured printers, once again distinguishing between those who gave money and those who supplied goods and services? There's no reason. There's no basis for the distinction. These points were argued in 2016 initial Supreme Court ruling. 
+
+2:39:06
+In the event Etc also responds were raised, but eventually we're coming to this recognition that we don't need to distinguish between unsecured FC's and unsecured OCS. Any thoughts. The Proposal is very significant, but any thoughts kindly say, is that the first point to be addressed is that, with regard to the second Point, secured creditors again and again we are making a mistake. It should say secure Financial creditors. 
+
+
+## 
+2:39:42
+If we don't say this, there is a point of lot of litigations coming up. Sir, why did you think it should be secured Financial creditors only and not secured operations? Normally operations are not secured, though normally they're not secured. But there are cases where that is where the point of contention happened in the case of rainbow. 
+
+2:40:12
+If you're referring to Goblin news, then there is a separate provision to which we're just coming through, so that is separately getting addressed. But one thing is again and again: if you say secured creditors, what do you mean by secured creditors? The re. The meaning of secured creditors is nowhere return in the book to explain the meaning of the definition of secured creditors. What does it mean? Is it anywhere in the IBC law? 
+
+2:40:41
+No, this is not there. it says, suppose Financial creditors, it says about operational creditors. These are the two classifications which you have done only in the case of liquidation. You come across this word terminology called secured creditors and unsecured creditors. So some my thinking on this is that, and if one reached to the blrc report, it becomes clear that the distinction. 
+
+
+## 
+2:41:09
+So let's first understand that when it comes to insolvency law, we distinguish between secured and unsecured. We don't distinguish between Financial versus operational world over. There's nothing called Financial versus operational creditors in insolvency laws of any jurisdiction. I can think of blrc in India, made the distinction between Financial versus operational from point of view of who has the right to sit in the COC. 
+
+2:41:31
+Idea was that COC should consist of financial creditors who are informed entities. their Bankers were given credits, so they are the ones whose big sticks are involved. They are people who can actually do a meaningful contribution to a resolution plan, so they should be sitting in the COC. So the idea basically was with distinguish between these two for the purpose of coc Constitution, not for the purpose of Distinction in waterfall. 
+
+2:41:56
+To say that an operational creditor and financial creditor, the one who is both are unsecured, should still have a disparity and not a parity, is actually, I mean hitting at the very contractual right. Every unsecured character is equal in law, because if you don't have interest on an asset, your rights are exactly the same. So that waterfall first of all, distinguishing between unsecured Financial creditors and unsecured operational credit. 
+
+
+## 
+2:42:21
+I'm sort of still I'm referring to my own titles, but way back in 2016, when we wrote the treaties on the law, we said this is not. This is actually defeating, because it's going against contractual principle anyways. 
+
+2:42:34
+The intent now is that we are distinguishing based on security interests and then of course we're giving equal parenting to work when claim cells always has been the rule in this country and next come the employees and finally all of the characters. So that's the my simple point is: why don't you define a secured creditor in IBC would help would help if the definition yeah that would definitely help. 
+
+2:43:02
+But the point that you made about government claims which came from Rainbow papers that is anyway getting addressed. In fact I think rainbow papers, with extreme due respect. maybe the quote was not apprised of the provisions of surface yet, because surface Act is also very important and surface act 26 BCD eats say clearly that unless there is an attachment which is registered with server side, it will not take the status of a secured Creator. 
+
+
+## 
+2:43:28
+The government may become a security and the government has done attachment of the asset and has registered the attachment with sir sign. Otherwise the government is not executed. That law probably was not brought to the notice of Supreme Court. hence this ruling. But maybe now they're trying to tackle this by explicit provision overriding the impact of the rainbow paper soon. 
+
+2:43:49
+You just to add, your secure creator has been defined under Section 330 of IBC and it clearly sees as any Creator. So it doesn't matter whether he is financial or operational. Just that the conditions precedent under the definition should be satisfied. Because the security that's what distinguishes a transactional secure Crater from the tax creditors, because in case of secure creators we create the security interest. In case of tax creditors, it is statutory there. 
+
+2:44:17
+So that's where the distinction is coming in Mahesh Ji. You know just I wanted to say the same thing that section 3 subsection 30 of the IBC defines cured creditors, a Creator in wholesaver. some security interest has been created, so it will include both the financial Creator as well as the operational Creator. There is no distinction between the financial and operational Creator to the extent it is a stored creditor. It can be anybody. 
+
+
+## 
+2:44:47
+Next proposal, basically, is that valuation estimates will form part of the information memorandum as well. This has been there in regulations for quite a long time, so this is nothing new as far as regulations are concerned. No, probably it's supposed to be included in the statute itself. I don't think one can probably have much of concern on that. 
+
+2:45:10
+So if you think we can maybe move on to the very next important, very important Point versus anti deprivation principle, also called, if so, Factor Clauses and contracts. Just to give a quick background and this is also coming from Supreme Court, which is dealing with centuries old provision of insolvency laws that if there is a contractual provision which says, because the Contracting part is insolvent, that allows the other party to trigger an event of default and therefore Terminator contract, I'm sure you would see it in every contract when you read the events of default clause, the standard event of default clause says: if the other party becomes insolvent, I have a right to terminate the contract. 
+
+2:45:53
+So this is now in case the insolvency itself leads to termination of the contract, then contractual rights would lose their value. for example, if the value of the corporate letter lies in, let's say, a concession agreement or let's say, lease old right or let's say licensing right or say a PPA right, then the rights will become frustrated if the insolvency itself is used in the condition for terminating the hard drive. 
+
+
+## 
+2:46:21
+Supreme Court said: if the breach of the if the contract termination is like pulling the rug under the legs of the corporate debtor, then we will not allow it to happen. But the Supreme Court said: while I'm doing it exceptionally in this case, however, this is something which is to be tackled by the statute, and that was the ruling, and I think now the government is responding to that and proposing a change. 
+
+2:46:46
+However, the changes only in respect of contracts with central government, state government, local authorities and statutory bodies globally. The so called anti deprivation principle Works in every case. That would mean irrespective of who the Contracting party is. Insolvency cannot be used as the event of default unless there is a default under contract if the contract is being successfully performed. Merely the event of insolvency cannot be used to deprive an insolvent of his contractual rights. 
+
+2:47:20
+That's a global position, but India we're trying to bring it only to a limited scope, with Contracting parties being corporate central government, state government, local knowledge that should reduce. Another point which I am sure sushant dasri would like to note is that here we are saying these bodies being operational counters. Actually they may not be craters at all. 
+
+
+## 
+2:47:45
+The thing is, for example, due to central government, state government, local authorities or statutory bodies, the idea basically is that the Contracting party cannot use insolvency as the ground to terminate a contract. If we refer to these bodies as operational Predators, then we are necessarily presupposing that there is something due to them, which may not be the case. So that's what the law is proposing to do as far as anti deprivation Provisions are concerned. 
+
+2:48:13
+Does anybody have any thoughts to express on that? Or else, if you allow me, to maybe proceed further. This is what does that say something? sorry. I just wanted to say, like that contractual agreement say for supply of power to the factory, there is always a clause that if there are dues outstanding for two months, three months, they have a right to disconnect. 
+
+2:48:45
+So it is not out of insolvency but suppose at the date of insolvency commencement that there is outstanding use whether then they can disconnect the power. So essential supplies. I think even currently we have protection essential supplies only. But I think this is a important point that you have made, and I'm requesting sushanji to also take a note of it that it's not merely to a person to whom dues are pending. 
+
+
+## 
+2:49:15
+The idea of interdeprivation, or so called lipsofactor Clauses, is that if insolvency of the entity has been used as the pretext as the region for termination of a contract, then that would kill contractual lives. If many entities currently have contractual rights only, for example, concession rights. Take the case of a PPA that it is a supplier under the PPA. 
+
+2:49:36
+Now if I say that PPH stands terminated because entity went into insolvency, then the very value of PPA goes away. So it's not because of contractual default. It should actually extend to all situations of so called lips of ecto combination of a contract and protect the insolvement entity from facing termination on account of insolvency as an event of default. That is actually the idea if you were to maybe make a move from here. 
+
+2:50:07
+Protection against civil liabilities. One point of the electricity connection is a temporary feature. There is no termination or suspension of the agreement, the agreement or your connection agreement. That will remain in force. That is one part of it and the secondly, this is a matter of you know Court ruling that the essential supplies cannot be disconnected. So one cirp is commenced. 
+
+
+## 
+2:50:47
+That benefit will be available and the electricity company will not be able to disconnect the power supply if we submit the copy of the CRP order. So essential Supply is very limited scope. But here we're talking about any contractual right, not just essential supplies. So I think the scope is considerably wider when it comes to so called types of ectoprocess, the next man that talks about protection against civil identities. 
+
+2:51:14
+I think this is to an extent already Incorporated in section 32A. Probably the scope is getting. I mean proposed to be proposed to be a bit clearer and maybe wider to ensure that the resolution applicant does not face lingering or sort of backlash or sort of Hangover of the offenses. A legacy so called Legacy is on account of civil defaults of the ursul entity. That is what is proposed. 
+
+2:51:40
+I'm wondering if anybody has any thoughts on that. But the next point, which is extremely important and I would like to hear from you all also, because all of you have been in practice and have been running cocs in the past. This Point actually seeks to say that while Computing voting at the cocs, we will not be looking at the total voting strength. We'll be doing two things. 
+
+
+## 
+2:52:04
+Number one from the denominator will be excluding the voting share of the related Financial creditors. So we'll not count. The total votes are total votes only will exclude the from denominator itself, will exclude the votes of related Financial creditors, and that apart will count only the votes of those who are voting. That is, we will not count the votes of those who are abstaining from voting. 
+
+2:52:30
+So when you talk about two thirds majority, we'll talk about two thirds who actually voted and not the two thirds including those who did not vote at all. Now, this is what I would say the essential law of meetings is that those who are called upon the vote, who have a right to vote, do not come to vote at all. 
+
+2:52:48
+We cannot include what's up those who did not excise the voting rights at all, and this is so called basic settled law of meetings. Beat corporate democracy or beat public democracy. We always talk about those who exercise their votes. Now this proposal, though, comes with a rider, and the rider will therefore make this. I mean the move will be the effect of this will be curtail because of the rider. 
+
+
+## 
+2:53:12
+The Riders, however, says that the votes of those who voted, that is, those are proving the resolution plan should at least be 51 of the total voting strength of coc. Of course, there also will exclude the related for related Financial creditors, but it should at least be 51. to cite an example. Suppose the total voting strength is 100 and 20, do not come to what at all. 
+
+2:53:35
+So we are left with only 80 who are voting and then we're counting two thirds of that. So two thirds of 80, which is whatever 53, something. So that is still satisfying the threshold condition, which is 51 of the total strength of the COC, which, as we discussed, was, let's say, 100, however, say it's not much more than 51. So let's say 25 FC. 
+
+2:54:00
+So out of 175 I've seen from voting at all, and 75 of those who vote and we compute two thirds of that merely comes to 50. So that is still not adequate. so by this what you're trying to say is that if 25 or more in value of the financial filters who are entitled to vote do not vote at all, they can Dead Block. They can Dead Block the voting process by not voting. 
+
+
+## 
+2:54:25
+So my submission. I mean, with whatever very limited experience I've had and I think you all have much richer experiences that the biggest problem in current working of cocs is that to those who come to COC meetings they don't decide, they're mostly in the COC buildings, say: oh I'll have to go to my head office, I'll consider my seniors and then decide based on that and that process, going to acho Consulting seniors that can take its own sweet time. 
+
+2:54:50
+So quite often the CSC members don't vote at all a sort of qualified vote, subject to so and so in the sense if somebody was not what at all voted at all, can he sort of stall or hijack the voting process by not voting there. If you think if the voting strength of those who are not voted is 25 or more, they will still stall the decision making. 
+
+2:55:16
+So that's to my mind that would greatly limit the impact of what MC or IBB is proposing to do. However, let's hear from others as to what you have to say on this. Anyone has any thoughts on this? Is this something that you would? Yeah, I do have for an example this: two thirds, two third, whosoever is voting would be counted. 
+
+
+## 
+2:55:48
+It's already in some part in real estate projects where Financial Credit Union class always been the, the voting process happens this is the number of votes which is got casted versus what is voted for right. It's not the whole this thing. So already it's there in some part and pieces there in the current IBC process. So hence this is an extension. So I don't think that is a very bad thing. 
+
+2:56:15
+But you are right, sir, the people who are all not voting primarily their financial creditor, who has to take the concern from their supervisors. And actually we have to do little bit differently here, sir, in my view we have to have an punishment mechanism if at all you are not voting and something has to happen. Otherwise the financial creditors are not coming on board for voting at all. 
+
+2:56:46
+It's actually it's a very painful activity and somewhere we have to draw this line and we have to tell them that see, everywhere there is a timeline. Right why on voting process there is no timeline? There is no liability on them that if at all they are not voting somewhere we need to draw the line there. That's what my submissions are. The part that you just mentioned very interesting part, that those who are not voting. 
+
+
+## 
+2:57:10
+There should be some kind of punishment mechanism. That would mean if somebody is not voted, let's say on two occasions and third occasion you are not allowed to vote at some something to sort of either admonish or maybe publish the name of the bank which is not voted on more than one occasion. 
+
+2:57:27
+Etc ibbi may think of, I mean pooling a database of those who are not voted or not voted in time, because I do understand that IBB is coming with a code of conduct for COC members which is currently looking like a motherhood statement. It's like principles of being good boy that may be concretized, to make it more and I would say, tangible, resulting into some bit of penal implication, which penalty doesn't mean money. 
+
+2:57:55
+Penalty can mean penalty in very ways. Even reputational loss is a penalty. So there might be ways to not just mobilize creditors to vote but also penalize those who are not voting. you're probably not voting in time, sir. The president noting, as we understand in other places in companies Act is slightly different here, because here what happens is that when there is a COC that is happening, somebody may be present. 
+
+
+## 
+2:58:26
+Right somebody may not be present. Now, when the voting happens through the voting portal, the person who is not present in the meeting may also vote. So are we saying president voting will be those who voted only. Basically look at the liquidation regulation 31a9, subsection nine. It was presented noting they have removed present in the amendment on 16 September and said only voting. 
+
+2:58:55
+So when we are talking about present and loading, is it that the COC that suppose a member attends the COC meeting then only is permitted to vote or he can be absent in the COC meeting? But yet what there is a practical difficulty and essentially, look at the context of the liquidation regulation, changes in 31a subsection line. Yeah, president, noting the remote present. 
+
+2:59:18
+So there in liquidation SCC you don't add and also you cannot, since the voting happens by e voting. Yes, no, I'm just telling you in the context of the changes that happened. So the word present as such is not actually important, because what is relevant is only voting, only voting, and I'm hoping that Mr sandras can maybe take a note of this. Possibly you can you know, suggest that particular Point. Sure, absolutely right. 
+
+
+## 
+2:59:51
+Let's maybe move to the next Point. Okay, let's move to the next point. We are talking further about interim finance and sort of encouraging interim finance, and mentioned that there's hardly an interim Finance in the country. There's hardly any activity in terms of dip financing or dream financing. 
+
+3:00:11
+So now a small sort of motivational proposal, which says that you can now be a part of the loan, voting members of the COC as sort of expected or observers in COC. So you are not completely away from the process. You are participating though you don't have voting rights, but you can still be on the COC. I am hoping that this one wonders whether this would be sufficient to encourage lenders to lend in dream finances. 
+
+3:00:36
+I think the bigger issue is the prospect of realization, because most lenders currently know that if the entity gets into liquidation, how long will liquidation take and what will be the value realization? Something that they don't know, though interest in principle payable to an interim Financial is part of clause a, the first priority itself. However, when will liquidation happen? 
+
+
+## 
+3:00:57
+How much will be the realization out of liquidation that is still buried in doubt, and that's why interim financials are not very keen to extend a dream funding, particularly for entities which hardly have got any value, which is where the Enterprise is most needed. So it's been a non starter, but I'm wondering whether this could actually encourage lend us to Extended driven. 
+
+3:01:19
+So if somebody had any thoughts, kindly say, or else we will continue to move to the text position. Probably we can divide this interim Finance into two parts. So one is that is for running a going concern where you require money somebody has to fund right. Another one is to carry on the carp process where the bank account is not operational at all time right and probably total. 
+
+3:01:47
+This is this can be divided into two parts and definitely, if it is a going concern to run that going concern, the funding whosoever is making they will get the return and the probably the risk premium can be attached in the interest portion right. And for running the carp, definitely the COC has to mandatory contribute. 
+
+
+## 
+3:02:07
+Now they are not contributing mandatory and they are also leaving to the lab right so that could that can be a game changer, if at all. We can split this into two. The interim finance that we're probably talking about here is external financiers lending during resolution, not the committee members extending or contributing to liquidation costs. Perhaps so is there a motivation? 
+
+3:02:30
+The question basically: is there a motivation, given the risk and the indefinite time taken in the present proceedings for completion of liquidation? Is there a motivation for lenders external lenders to come forward and lend it to a company which is already into insolvency, even though it's super priority when it comes to priorities, but so far it's not picked up. I'm not sure whether making them as members of coc will actually help to encourage interim Finance. 
+
+3:03:02
+The next provision is: in case of entities involving public interest, the government May appoint an administrator instead of an insolvency professional occupying the position of IEP, the government May Place administrator same as in case of financial entities. Currently, administrators are appointed by RBI. Similarly, a power is sought to be conferred on the central government or such authorities. More likely maybe the IBB. Perhaps I don't know, but in public interest. 
+
+
+## 
+3:03:34
+In public interest is well, once again a matter of broad interpretation are there? The government may get the right to nominate the insology professionals. So one wonders in what all cases other than financial companies will the government be doing it? if it's done, how does it preserve or protect public interests? And are we therefore saying that the IEP wouldn't have so much feared for public interest? 
+
+3:04:02
+As the administrator, I'm wondering what is the thought process, but that's the proposal which is there by the MCA. Any thoughts around this? Not so great Provisions as an IP, and apart from that this is diluting right and say for an example, during your covet period and the government may say that all the Pharma companies are the companies with public interest right and suddenly not many things can happen. But that's what I'm saying. 
+
+3:04:37
+There can be a supervisory body, maybe a special technical member who can supervise those public interest companies, carp, but having separate administrator would not yield what has to be, then. the purpose is getting defeated here because we created the ecosystem of insolvency professionals. Now we're suddenly saying this ecosystem doesn't work. I'll get another entity here, which is the so called administrator. So in a way it's indicating a little lack of confidence on the it profession. 
+
+
+## 
+3:05:13
+It's in the same Theory, IPS. It's more of an non confidence on IPS, individual IPS, especially that too, after six years of being the IPS. Yeah, I just wanted to say like we can propose like, instead of putting non confidence on IRP IPS, like savings, appointing IPS as administrator. So government can consider IPS also to be appointed as administrator. 
+
+3:05:56
+And all you're saying that instead of this creditors appointing the IP, it should be appointed by the government. Maybe appointed by the government. yeah, if Government thinks so in some public interest matters, they want to appoint directly, so they may consider IPS also to be appointed as administrator. 
+
+3:06:15
+In other words, smooth the control of who the IP will be, from the creditors to the government, but keep the IP as insolvency professionals still right I mean worth considering like is doing that pointing IPS at administrator very true. The government also wants to keep a power of exempting certain entities. What will those entities which are Exempted from IBC Provisions will be either certain entities or class of entities, for example msme. 
+
+
+## 
+3:06:50
+They might probably have a separate msme insolvency regime separately or some for some other class. They might probably have some different process of Provisions. so like there's a power of exempting in the companies, that's to private companies or Section 8 companies. The government wants to keep similar power in IBC 2, given the time that we are currently are at. 
+
+3:07:13
+So if you maybe permit me to skip the personal insolvency part, which is not really great, simply aligning personal guarantors with the same principles as corporate defaults. I'll move to the parts which are dealing with liquidation. Some of these are very important recommendations. One part is direct dissolution. Some nclts have already passed holders that if we find that there is nothing in the entity left, therefore there is no point in moving from resolution to liquidation. 
+
+3:07:42
+We can jump directly to dissolution. so that is now legally sought to be coded that if resolution fails and the creditors come to realization that there is nothing to liquidate, it's simply moving to dissolution will be fine. So a statutory power is sought to be incorporated whereby. The Entity May directly move to liquidation. That was already done in some cases, like inside Bengaluru and City Chennai have done it. 
+
+
+## 
+3:08:10
+Also, there is a proposal to eliminate duplication, for example invitation of claims or admission of claims that's done during resolution. The same thing is repeated liquidation as well. Currently there are enabling Provisions for not inviting claims or not doing valuations by way of regulations. now. 
+
+3:08:29
+The enactment also wants to have the same flexibility to save the repeat or process procedures now, for example invitation of claims Etc during liquidation, though I'm sure all of you will come back and say that the claims during liquidation are as on the liquidation commencement date. The claims during crpr claims adds on the commencement of insolvency and between insolvency liquidation a the claim values might have changed. Be the claim management of cheats. Ah. 
+
+3:08:58
+Therefore, how can one actually avoid filing of claims at the start of liquidation process? But to the extent the procedures may be eliminated, they might be overlapping and might be eliminated. It might help to reduce the procedural time loss. if you all permit be given that we are already 20 minutes faster scheduled time, maybe I'll move to some very significant Provisions pertain to liquidation. This one, for example, is extremely significant. 
+
+
+## 
+3:09:26
+It says there will be mandatory COC during liquidation. Currently, the little experience we have had with stakeholders conservation committee now stakeholders consultation committees are good when it comes to advising the liquidity. The right is still given to the Liquidator to run the liquidation process. Liquidator may give, may do consultation with stakeholders, which is where the Liquidator does consolidation with the stakeholders conservation committee. But in law the decisions are taken by the liquidator. 
+
+3:09:54
+Now the proposals are that since ultimately the Liquidator is fiduciary for the creditors, is they who are the beneficiaries and therefore the creditors are the ones who should have the right to take commercial decisions. Now there are both the sides of the argument. This is seemingly like a pristine argument. After all, the Liquidator is working for the interest operators and therefore how can he not listen to. The Critters? 
+
+3:10:20
+Part one, part two is that eventually the CRP process was creditor driven. It was declated by the creators and the CRP came with a challenge in terms of timelines that if you don't decide with the next number of days, then your right to decide will be taken away and the entity will be headed over to a professional who is the liquidator. 
+
+
+## 
+3:10:38
+So once the entity moves to liquidation, the Liquidator works at the direct instructions of the adjudicating body is not as such dictated by the decisions of the COC. Now if you see internationally as well this position UK, Singapore, us as a part of the blrc reports also it says creators have to do no direct. I'm reading from BLS report, which is at the bottom of the scene. 
+
+3:11:05
+Don't direct intervention or no direct interface in the working of the Liquidator in Singapore, UK, us, everywhere when it comes to liquidation, it's the Liquidator who works for the instructions of the code and not based on the decision of this Critters committee. But the law is not proposed to be changed to make the liquidation also subject to commercial decisions of the creditors. here the biggest problem would be that criticals are created of different classes. 
+
+3:11:35
+There are, you know, category a, let's say, the secured creditors. Then come the employees. Along with category are the Workman as well. Then there are, let's say, remaining claimants as per the device for the fall. Now each of these characters belong to different classes and therefore their stakes in liquidation are different. 
+
+
+## 
+3:11:53
+Operational creators, for example, know that they're going to get nothing, because mostly the waterfall is completely dried by the time we reach to that level. So there interests are not similar. The interests are mutually conflicting. One can think of a collective decision making process when the interest of each of the stakeholders are similar. then you could probably think of let's hear from everyone, but hearing from everyone whether interests are completely diverse and therefore mutually conflicting. 
+
+3:12:24
+Whether that process actually works or not is a question. Now I would say my experience with this is extremely limited, but I would like to hear from you as to how is liquidation working under the ages of the SCC and the CC becomes the statutory controls committee, as proposed? How does it works, sir? 
+
+3:12:48
+The basic difference between a COC and an ACC is that SEC comprises of all creditors, whereas COC comprises mainly of financial creators who have the voting power. This is a major difference which is going to happen. 
+
+
+## 
+3:13:04
+Suppose, for example, if there is a claim of 100 crores from a financial creditor and there is a tax liability of 300 crores from a tax authorities who is having the voting power more in the case of liquidation and none of your resolutions will get passed, for the simple reason being is not going to get anything? Are we going for a Deadlock? 
+
+3:13:28
+That was my point that it's indecision which leads into liquidation, and making liquidation also as creditor's process will extend the dish indecision leading to further indecision. Therefore, where are we if we in this? If we have individual liquidation also, then what next? Because liquidation is the terminal process, nothing further. There's nothing beyond that, and therefore if we have indigen there as well, what do we achieve? That was my perspective too. 
+
+3:13:58
+And the second thing is with regard to asset sale and realization. For example, when we are going to distribute it, we distributed according to the money value which has been given and according to the sharing ratios. Now, necessarily, when you come to sharing of sharing ratios, you have to get the approval of the SEC. At that time. Also, you will have a problem when you will not be able to pass the resolution. 
+
+
+## 
+3:14:26
+Get it voted again. Stumbling blocks everywhere. No, I would extend the point a little further to say that quite often there is a litigation. Let's say the workmen are agitating on a certain matter and, of course, as the Liquidator, you need to defend it. Therefore you need to upon a professional to defend it. that will also be objective too, because you are there are usually conflicting claims here. 
+
+3:14:49
+So how do you expect the workmen to support the appointment of a professional who will be standing in the quote against their claim? So that's where the, I would say, multiplicity of claimants with completely diverse claims, and they are sitting in a common Forum to decide. So this is probably a little over optimistic thought process, but I would also wanted to hear from Mrs if you have any thoughts. 
+
+3:15:15
+Yes, sir, I also go with your this thing only we know, do you rightly pointed out already we have tried with the financial creditors who were in the driver's seat and they could not provide any way forward. hence we are into this liquidation stage right and the stakeholder Committee of course it is already there, but there is no need for us to follow and if there is a deviation, we can file a deviation report. 
+
+
+## 
+3:15:39
+Why we are not following their direction right SEC, if it is actually going to put here what do you call disturbance in the process of liquidation? And again, this is also going back to the same story of not trusting the IP or ipe. Probably probably the IPS should have free hand to do this anyway. Auctioning we will do right and these are all well monitored auctioning. 
+
+3:16:05
+And why do we require a lot many people to decide along with us and to decide the auction winner right and how to distribute. Already it's been defined. so in reality, sir, it's the jlf which fails first. Indecision kills the joint lenders. For glf worked we would not need IBC. So jlf fails because of indigen. We then get into. IBC fails because of indigen. We enter in liquidation. 
+
+3:16:36
+If liquidation, we still have the same belonging and decision. I am not sure where do we then ultimately end up? Mr Ashwini mehra, the law already provides for an oversight from the SEC members and they can if their interests are harmed, they can always go to you know the nclt and ask for a change in case they find that the Liquidator is working against the interest of the stakeholders or even of the company under liquidation. 
+
+
+## 
+3:17:08
+By making these changes actually, as rightly put by all of you, the process of decision making will get even further slowed down without you know much value addition. In fact, it will prolong the process and we will have a situation similar to what we have been facing even in the cirp. 
+
+3:17:27
+Again, there will be lot of indecision or you know will not have conclusive voting on various things and we will be stuck up in the liquidation process, whereas liquidation is something which the anticipation is should get done quickly, followed up with a winding up. 
+
+3:17:46
+However, that doesn't seem to be the changes seem to you know take it away from further away from that foreign by the regulations currently 16 September 2022. now this is supposed to be codified in the law itself, that creditors May, with a certain super majority, vote or replace the Liquidator, and there are, I think. Well, the creditors so want and they are not happy with the Liquidator. It should probably be okay to think of replacing. 
+
+
+## 
+3:18:24
+There is another very important change. This one is extremely important, and I'm sure all of you would appreciate that this is much needed, which is that once the entity is into liquidation, litigation against entity in different other forums, labor Court, Provident funds, income tax, income tax of forces a different story, because that's assessment proceeding, but litigation, for example civil disputes, arbitration matters. All of that will get Consolidated in the nclt itself. 
+
+3:18:52
+This principle was there in companies act 1956, section 446. equivalent Provisions were there in the 2013 act as well. When it came to IBC, the provision was sort of very mildly. They're 33 by four. 
+
+3:19:10
+Five example says prohibit continuation of a shoot, but it did not talk about shifting of all the shoots to adjudicating body, and now probably we are getting to realize that section 446 equivalent is needed in IBC to say that there will be a stay on other proceedings during the liquidation process and once the entity gets done, if, if at all the entity the liquidation succeeds, even a dissolution can be made without waiting for settling all the Civil distance. 
+
+
+## 
+3:19:40
+So the biggest issue is if at all dissolution happens, Liquidators job is done, he goes home. I'm wondering who will be there to continue the litigation. But ideally the way it should have been that litigation, for example Provident fund you. So let's say labor news. Now workers are still free to litigate in, let's say, different labor courts. 
+
+3:20:01
+Those disputes should actually come to company court because the adjudicating body, because that's where a Consolidated decision can be done for all the claims on that. If the claim is of civilization, if the claim is of criminal, Leisure will let it be fought in criminal Forum. 
+
+3:20:15
+Criminal shoots are basically against persons and not against the entity, but civil claims should all be Consolidated so as to be brought before the same adjudicating body to say that the shoots will get stale and will not get resolved and that is not resolving the problem too, and therefore the proposed provision that dissolution will be allowed to proceed even while the Civil claims are still pending. That actually makes the Civil claims completely redundant. 
+
+
+## 
+3:20:43
+So maybe this is something that might require a little re look, but let's hear from others as to what you have to say. Mr. I welcome this move, but with the two problems in hand. one is that nclt is already overwhelmed and they are having huge pileup now right and I don't know how they will handle further number of IAS and the cases like this which is getting transferred. 
+
+3:21:12
+And second one is that the specialized code, like labor court and others they have got will managed system under knowledge to manage those specialized cases right. And how do we expect that specialization comes from here? So these are all the two problems which will enumerate, but however, it's a welcome move. Otherwise we are all running between codes now before getting the stay right. So it's a welcome move, but however, it's very tough to implement it. 
+
+3:21:42
+That's what I could understand foreign. I'm going to say how we deal with that, because the conflict May provide for a settlement of certain dispute through arbitration, so that contract clause may not be overrided through this, unless it is specifically mentioned that even the arbitration cases will come here, so some litigations may still remain outside this. 
+
+
+## 
+3:22:38
+And secondly, as mentioned earlier, like mcld is not a specialized body for dealing different type of commercial matters which are to be decided by either the course or by labor codes or maybe tax authorities. Tax course may be applied, Terminals and so on so forth. So that thing may have to be kept in view. Surely a very well made Point by SG. 
+
+3:23:06
+I think we're coming to the last of the relevant points and I will not spend much time on the service provider. that's not empirically important for all of us in case of secured financing by multiple printers. Number one, relinquishment of security interest will be presumed, and this was already there in the IBC regulations for I think, almost like three years now. 
+
+3:23:28
+But now it's being made a part of the statue that if relinquishment of security interest is not done within 90 days. Within 90 days, the character does not decide to opt for Section 52, then he will be deemed to availing physical security interest. That's part one and part two. 
+
+
+## 
+3:23:44
+If secure Traders holding peripheral security interests decide to stay out of liquidation, that is to stay under Section 52, they need to all decide on a unanimous basis. that's what is proposed, though. The rules under surfacy Etc always talk about section at 67 percent, two thirds, two thirds majority. So the majority rule should be brought here as well. That by majority, say 67, as in case of surface see. 
+
+3:24:11
+The creators will decide to either join liquidation or have decided to stay out of liquidation. The decision of the majority should bind the minority. That's always been the way in case of joint mortgages as well. The majority drives the minority. That's always the principle. 
+
+3:24:26
+So I presume that while this is good, that the interests of other peripheral secure into the shoulders should be born in mind, but the right should actually be given to majority rather than expecting unanimous decision. That was my submission. I'm not sure if anybody wants to add anything further. agree, sir. Right, sir, and I must say to all of you that this was extremely enriching discussion with all of you. 
+
+
+## 
+3:24:55
+Some of you have mentioned on chat. Will the presentation be shared? The presentation we will be very happy to share. We will be sending a copy of the presentation to ICC IPL and the internal can forward the same to all registered participants. 
+
+3:25:10
+We will be also updating that based on the feedback that we receive from all you, all of you, and we'll be forwarding it to ICC IPA for a further action as they might want to take. Before parting, I must wish you all a very happy Republic Day and I must wish you all a very happy Saraswati Puja as well. 
+
+3:25:29
+I know Mr devarajan Sir is wanting to say something, sir, over to you, but from my side, unless there's something for the for me one small thing on the last slide. See this. Unanimity which they have sought in terms of realizing the assets is because a lot of indivisible assets where One Secured creditor is relinquished one is not different and there are a lot of litigation because of that. 
+
+
+## 
+3:25:56
+So possibly to address that this could have been done, but as you write these other issues and that you need to think and deliberate better to understand how to pan out. So the industrial asset is a key issue here where the rights it has gone by majority. 
+
+3:26:10
+But there are issues and the point is that how does the Liquidator take care of the minority interests, because he as a in the liquidation, this is the minority push. The majority person is not in the liquidation estate. So now the question is that many of them are not willing to do a joint auction notice with the liquidator. So the Liquidators is that if I am not involved, how will I take care of this interest? 
+
+3:26:38
+So these issues need to be addressed. That's only small point I made. thanks, Charlie. Thank you very much, and thanks to all of you for extremely enriching discussions today and from my side, that's all that I had to say over to nitin safijaji, sir, thank you very much, thank you, thank you, thank you, thank you, thank you very much, thank you, happy Republic day, sir. Thank you to all the participants. 
+
+
+## 
+3:27:22
+Also thank you for taking your time for the session. We value whatever inputs that we have given and we will pass it on to ibps. Thanks and nothing that this will come to the end of this meeting. thank you very much, thank you, thank you, thank you sir. 

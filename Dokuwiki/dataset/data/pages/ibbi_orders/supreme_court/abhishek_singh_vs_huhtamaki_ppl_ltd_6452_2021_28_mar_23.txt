@@ -1,0 +1,296 @@
+<div>
+	<div>
+		<p>
+			Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.
+		</p>
+	</div>
+	<h2>
+		Supreme Court of India
+	</h2>
+	<h2>
+		Abhishek Singh vs Huhtamaki Ppl Ltd. on 28 March, 2023
+	</h2>
+	<h3>
+		Author: Vikram Nath
+	</h3>
+	<h3>
+		Bench: Vikram Nath, B. R. Gavai
+	</h3>
+	<p>
+		 REPORTABLE IN THE SUPREME COURT OF INDIA CIVIL APPELLATE JURISDICTION CIVIL APPEAL NO(s). OF 2023 (Arising out of SLP (Civil) No.6452 of 2021) ABHISHEK SINGH ...APPELLANT(S) VERSUS HUHTAMAKI PPL LTD. &amp; ANR. ...RESPONDENT(S) JUDGMENT
+	</p>
+	<p title="Issue" data-structure="Issue">
+		VIKRAM NATH, J.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Leave granted.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		2. The appellant, a suspended Director of the Corporate Debtor1: Manpasand Beverages Ltd. (respondent 2), has filed this appeal assailing the correctness of the order dated 13.04.2021 Signature Not Verified Digitally signed by passed by the National Company Law Deepak Singh Date: 2023.03.28 13:51:49 IST Reason: 1 In short &ldquo;CD&rdquo; 1 Tribunal2, Ahmedabad Bench at Ahmedabad in I.A. No.196 of 2021 arising out of C.P.(I.B.) No.503 of 2019 rejecting the application of the appellant under section 12A of Insolvency and Bankruptcy Code, 20163 for withdrawal of the Corporate Insolvency Resolution Process4.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		3. CD is in the business of manufacturing and distribution of fruit beverages. It has approximately 700 employees and a turnover of Rs.984.96 Crores in the Financial Year 2018-2019. The Operational Creditor5 Huhtamaki PPL Ltd. (respondent No.1) used to supply packaging material to the CD.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		4. The OCs filed a petition under section 9 of IBC before the NCLT, stating a total outstanding amount of Rs.1,31,00,825/- against the CD. This was registered as CP (IB) No. 503 of 2019.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		2 In short, &ldquo;NCLT&rdquo; 3 In short, &ldquo;IBC&rdquo; 4 In short, &ldquo;CIRP&rdquo; 5 In short &ldquo;OC&rdquo; 2
+	</p>
+	<p title="Fact" data-structure="Facts">
+		5. The NCLT by order dated 01.03.2021 passed an order admitting the petition and initiating CIRP. Two days thereafter i.e. 03.03.2021, the OCs and the CD entered into a settlement wherein the CD was required to pay an amount of Rs.95.72 lakhs. The above settlement was arrived at even before the Committee of Creditors6 could be constituted.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		6. On 4th March, 2021, the OCs received Rs.50 Lakhs and again on 8th March, 2021, it received the balance amount of Rs.45.72 lakhs. Thus, the total amount to be paid as per the settlement, was paid to the OCs. The Interim Resolution Professional7 on 10th March, 2021 moved an application under Regulation 30A of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 20188 seeking withdrawal of CIRP against the CD. Along with it the application of OCs dated 09.03.2021 was also attached which was moved under 6 In short &ldquo;CoC&rdquo; 7 In short &ldquo;IRP&rdquo; 8 In short &ldquo;IBBI Regulations&rdquo; 3 section 12A of IBC. The application for withdrawal was registered as IA No. 196 of 2021.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		7. In the meantime, an appeal was pferred against the admission order dated 01.03.2021 before the National Company Law Appellate Tribunal9 apparently on the ground that section 9 of IBC petition was not maintainable as there was a p-existing dispute. On 26.03.2021, the appeal was withdrawn before the NCLAT with liberty to apply for revival of the appeal in case the settlement failed. The NCLAT while allowing the withdrawal of the appeal granted stay of formation of CoC. The said order dated 26.03.2021 is reproduced below:
+	</p>
+	<blockquote title="Fact">
+		&ldquo;Mr. Vikram Nankani, Advocate appears for the Appellant. He submits that Respondent No.1 &ndash; Operational Creditor filed CP (IB) No.503/9/NCLT/AHM/2019 before Adjudicating Authority (NCLT Ahmedabad Bench, Court No.1). The Application was filed under section 9 of Insolvency and Bankruptcy Code, 2016 (IBC in short) against the Respondent No.2 M/s.Manpasand Beverages Ltd. the Corporate 9 In short &ldquo;NCLAT&rdquo; 4 Debtor. Appellant is the Director of the Suspended Board of the Corporate Debtor. Respondent No.3 is Interim Resolution Professional.
+	</blockquote>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		2. Learned counsel for the Appellant submits that the Application was admitted by the Impugned Order and Appeal is filed. It is stated that thereafter the Appellant has settled the claim of Operational Creditor and the Operational Creditor has filed Application for withdrawal copy of which is at Page 348 and even the IRP has filed Application before the Adjudicating Authority copy of which is at page 368. The Application for withdrawal under section 12A of IBC has been filed through IRP. Mr. Salil Thakore, Advocate agrees with the Learned Counsel for the Appellant that there has been a settlement and accordingly Application under section 12A of IBC has ben filed. The Learned Counsel for IRP however states that the money has been paid violating moratorium which the IRP has reported to the Adjudicating Authority.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		3. Mr. Hitesh Buch, PCS also agrees that settlement has taken place.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		4. Learned counsel for the Appellant submits that considering these facts, the Appeal may be allowed to be withdrawn with liberty to seek restoration in case the effort with regard to section 12 A of IBC runs into difficulty. The Learned Counsel for IRP 5  accepts that Committee of Creditors (CoC in short) has not been constituted.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		5. The learned counsel for the Appellant submits that he is making request for withdrawal of the Appeal under instructions from the Appellant.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		6. Considering the objects of IBC, we have no reason to doubt that the Adjudicating Authority without standing on technicalities would pass appropriate Orders, if settlement has taken place between the Original Operational Creditor and Corporate Debtor and CoC is not yet constituted. 7(A) For reasons stated above, the Appeal is permitted to be withdrawn with liberty to seek restoration of the Appeal in case at any future time the effort to settle in terms of section 12A of IBC runs into difficulty and does not happen. 7(B) Till the Adjudicating Authority decides Application under section 12 A of IBC which is stated to have already been filed, CoC may not be constituted.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		The Appeal is disposed with observations and directions as above.&rdquo;
+	</p>
+	<p title="Issue" data-structure="Issue">
+		8. NCLT by the impugned judgment and order dated 13.04.2021 rejected the settlement application and fixed the matter for disposal of the application under Regulation 30A of IBBI Regulations after hearing all creditors. 6
+	</p>
+	<p title="Fact" data-structure="Facts">
+		9. Subsequent to the above order of NCLT dated 13.04.2021, the IRP constituted the CoC on 15.04.2021. The appellant pferred the SLP on 19.04.2021. This Court vide order dated 20.04.2021 while issuing notice, directed the parties to maintain status quo.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		10. It would be pertinent to mention here that primary opposition is by the IRP by way of an intervention application. The OC is not opposing the appeal in as much as it had already received the full amount as per the settlement dated 03.03.2021. Further, three other applications for intervention/impleadment have been filed by creditors of the CD, who allegedly had raised their claims before the IRP.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		11. Before proceeding any further, the relevant statutory provisions may be noticed.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		12. Rule 11 of The National Company Law Tribunal Rules, 201610 confer inherent powers on the NCLT to pass 10 In short &ldquo;the NCLT Rules&rdquo; 7 appropriate orders for meeting the ends of justice or to pvent abuse of the process of the Tribunal. The said rule is reproduced hereunder:
+	</p>
+	<blockquote title="Analysis of the law">
+		&ldquo;11. Inherent powers- Nothing in these rules shall be deemed to limit or otherwise affect the inherent powers of the Tribunal to make such orders as may be necessary for meeting the ends of justice or to pvent abuse of the process of the Tribunal.&rdquo;
+	</blockquote>
+	<p title="Analysis of the law" data-structure="Section">
+		13. Section 12A of IBC which was inserted w.e.f. 06.06.2018 permits withdrawal of applications admitted under sections 7, 9 or 10 of IBC, with the approval of 90 percent voting share of the CoC in such manner as may be specified. The said provision is reproduced below:
+	</p>
+	<blockquote title="Analysis of the law">
+		&ldquo;12A. Withdrawal of application admitted under section 7,9 or 10 &ndash; The Adjudicating Authority may allow the withdrawal of application admitted under section 7 or section 9 or section 10, on an application made by the applicant with the approval of ninety per cent voting share of the committee of creditors, in such manner as may be specified.&rdquo;
+	</blockquote>
+	<blockquote title="Analysis of the law">
+		14. Regulation 30A of IBBI Regulations was introduced after insertion of section 12A in IBC. It provided the mechanism of dealing with applications filed for 8 withdrawal. Later on, it was substituted by notification dated 25.07.2019 in IBBI Regulations. According to the said provision, withdrawal under section 12A of IBC could be moved before Adjudicating Authority by the applicant through IRP before constitution of the CoC and in case the CoC has been constituted, then also by the applicant through IRP or the RP. However, the applicant would be required to justify the withdrawal by giving reasons. It further provides the procedure for dealing with such an application. Regulation 30A of IBBI Regulations, as it stands today, is reproduced hereunder:
+	</blockquote>
+	<blockquote title="Analysis of the law">
+		&ldquo;30A. Withdrawal of application. (1) An application for withdrawal under section 12A may be made to the Adjudicating Authority &ndash;
+	</blockquote>
+	<blockquote title="Analysis of the law">
+		(a) before the constitution of the committee, by the applicant through the interim resolution professional;
+	</blockquote>
+	<blockquote title="Analysis of the law">
+		(b) after the constitution of the committee, by the applicant through the interim resolution professional or the resolution professional, as the case may be:
+	</blockquote>
+	<blockquote title="Analysis of the law">
+		Provided that where the application is made under clause (b) after the issue of invitation for expssion of interest under regulation 36A, the applicant shall state the reasons justifying withdrawal after issue of such invitation.
+	</blockquote>
+	 9
+	<blockquote title="Analysis of the law">
+		(2) The application under sub-regulation (1) shall be made in Form-F A of the Schedule accompanied by a bank guarantee-
+	</blockquote>
+	<blockquote title="Analysis of the law">
+		(a) towards estimated expenses incurred on or by the interim resolution professional for purposes of regulation 33, till the date of filing of the application under clause (a) of sub-regulation (1); or
+	</blockquote>
+	<blockquote title="Analysis of the law">
+		(b) towards estimated expenses incurred for purposes of clauses (aa), (ab), (c) and (d) of regulation 31, till the date of filing of the application under clause (b) of sub-regulation (1).
+	</blockquote>
+	<blockquote title="Analysis of the law">
+		(3) Where an application for withdrawal is under clause
+	</blockquote>
+	<blockquote title="Analysis of the law">
+		(a) of sub-regulation (1), the interim resolution professional shall submit the application to the Adjudicating Authority on behalf of the applicant, within three days of its receipt.
+	</blockquote>
+	<blockquote title="Analysis of the law">
+		(4) Where an application for withdrawal is under clause
+	</blockquote>
+	<blockquote title="Analysis of the law">
+		(b) of sub-regulation (1), the committee shall consider the application, within seven days of its receipt. (5) Where the application referred to in sub-regulation (4) is approved by the committee with ninety percent voting share, the resolution professional shall submit such application along with the approval of the committee, to the Adjudicating Authority on behalf of the applicant, within three days of such approval. (6) The Adjudicating Authority may, by order, approve the application submitted under sub-regulation (3) or (5).
+	</blockquote>
+	<blockquote title="Analysis of the law">
+		(7) Where the application is approved under sub-
+	</blockquote>
+	<p title="Analysis of the law" data-structure="Section">
+		regulation (6), the applicant shall deposit an amount, towards the actual expenses incurred for the purposes referred to in clause (a) or clause (b) of sub-regulation (2) till the date of approval by the Adjudicating Authority, as determined by the interim resolution professional or resolution professional, as the case may be, within three days of such approval, in the bank account of the corporate debtor, failing which the bank guarantee received under sub-regulation (2) shall be 10  invoked, without pjudice to any other action permissible against the applicant under the Code. &rdquo;
+	</p>
+	<p title="Issue" data-structure="Issue">
+		15. NCLT, in the impugned order while rejecting I.A.No.196 of 2021 filed by the OCs, recorded the following findings:
+	</p>
+	<blockquote title="Issue">
+		i. The facts relating to the settlement and the fulfilment of the terms of the settlement are not disputed;
+	</blockquote>
+	<blockquote title="Issue">
+		ii. The suspended directors of the CD despite the moratorium having commenced with effect from 01.03.2021 have not only made transactions of deposit but also withdrawal from the account of the CD. They have thus violated the directions contained in the admission order dated 01.03.2021;
+	</blockquote>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		iii. Although the IRP had made submissions that the suspended director having transferred huge amount from the account of the company to his personal account and from there having made the payment to the OC under the settlement but the same was not conclusively proved;
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		 11 iv. The suspended director and their counsel made frivolous arguments before the NCLT which were contrary to record in order to obtain favourable orders; v. As many as 35 claims of creditors both operational and financial have been filed in the meantime. As such withdrawal of the proceedings would adversely affect their rights;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		vi. The proceedings once admitted and IRP having initiated, such proceedings are in rem and all stake holders can participate in the proceedings with their respective claims; and vii. Regulation 30A of IBBI Regulations was not binding upon it and such provision would not be of any help to the CD or its suspended Directors;
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		16. Heard learned counsel for the parties and perused the material on record.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		17. Shri Shyam Divan, learned senior counsel appearing for the appellant referring to statutory provisions like 12 section 12A of IBC, Regulation 30A of IBBI Regulations and also to Rule 11 of the NCLT Rules, 2016 submitted that such provisions clearly permit settlement between the creditor and the debtor and withdrawal of proceedings prior to the constitution of CoC. According to him, once the settlement was arrived at and acted upon prior to the constitution of CoC, the NCLT committed a grave error in not allowing the withdrawal of the proceedings. He has placed reliance on a number of orders/judgments passed by this Court exercising powers under Article 142 of the Constitution allowing withdrawal of such petitions where settlement had been arrived at and also certain orders passed by NCLAT permitting withdrawal before constitution of CoC. Reliance was also placed upon a judgment of this Court in the case of Swiss Ribbons (P) Ltd. V. Union of India11 dated 25.01.2019 whereafter the Central Government vide Notification dated 25th July, 2019 inserted 11 (2019) 4 SCC 17 13 Regulation 30A in IBBI Regulations which permitted withdrawal of petitions before constitution of CoC.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		18. Further submission advanced by Mr.Divan is to the effect that NCLT was swayed by the fact that there were several other creditors who had raised their claims against the CD and as such without hearing such creditors, permission of withdrawal would not be proper. This, according to the learned senior counsel, was an error committed by the NCLT inasmuch as these third party claims could not have been taken into consideration nor they should have weighed with the NCLT in forming its opinion. Once the CoC had not been constituted the claims of other creditors would not come into play to defeat the settlement arrived at between the OC and the CD. In support of the said submission he has placed reliance upon a judgment of this Court in the case of Ashok G. Rajani v. Beacon Trusteeship Ltd.&amp; Ors.12 Reliance is also placed 12 (2022) SCC Online SC 1275.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		 14 upon another order of this Court in the case of Kamal K.Singh v. Dinesh Gupta &amp; Anr., dated 25.08.2021 in Civil Appeal No.4993 of 2021.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		19. The next submission relates to the objection taken by the IRP that the suspended Director had transferred huge amounts from the account of the CD during the period of moratorium i.e. after 1 March, 2021 upto 18 March 2021 into his personal account as also other third parties. Further the amount so transferred in the personal account of the suspended Director was utilized in paying off the amount as per the settlement to the OC. The submission made by learned senior Counsel is to the effect that the NCLT itself recorded a finding that the above objection taken by the IRP was not conclusively established. His submission is that despite the said finding the NCLT was apparently influenced by the objection taken by the IRP.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		20. Lastly, it was submitted by Shri Divan, that the NCLT had no jurisdiction to declare or hold that Regulation 30A 15 of IBBI Regulations was not binding on it; NCLT committed a grave error of law in ignoring the said provision. According to him, it was beyond the power of the NCLT to have discarded a statutory provision.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		21. Based on the above points it was submitted that the appeal deserves to be allowed, the impugned order of the NCLT be set aside and the withdrawal of the proceedings be allowed.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		22. On the other hand, the IRP and other interveners have strongly opposed the appeal. The submissions advanced on their behalf are the same as were raised before the NCLT which had found favour therein resulting into the passing of the impugned order. In effect they supported the findings of the NCLT. Additionally, it has been objected on their behalf that the appellant ought to have availed alternative remedy by filing an appeal before the NCLAT. The IRP has also raised the issue regarding non-clearance of his funds with respect to the expenditure incurred by him. In support 16 of the submissions, reliance is placed upon the following judgments:
+	</p>
+	<blockquote title="Respondent's Argument">
+		(1) P. Mohanraj v. Shah Bros. ISPAT (P) Ltd.13 (2) Swiss Ribbons Private Limited &amp; Anr. v. Union of India &amp; Ors. (supra) (3) Dena Bank (Now Bank of Baroda) v. Shivakumar Reddy &amp; Anr.14 (4) MSTC Limited v. Adhunik Metalliks Ltd. and others15;
+	</blockquote>
+	<blockquote title="Respondent's Argument">
+		(5) Indian Overseas Bank v. Mr. Dinkar T. Venkatsubramaniam, Resolution Professional for Amtek Auto Limited16;
+	</blockquote>
+	<blockquote title="Respondent's Argument">
+		(6) Manoj K. Daga v. ISGEC Heavy Engineering Limited and others17;
+	</blockquote>
+	<blockquote title="Respondent's Argument">
+		(7) Narayanamma and anr. v. Govindappa and Ors.18 (8) Ram Saran Das v. CTO Calcutta &amp; Anr.19 (9) Titaghur Paper Mills Co. Ltd. v. State of Orissa20 13 (2021) 6 SCC 258 14 (2021) 10 SCC 330 15 (2019) SCC Online NCLAT 146 16 (2017) SCC Online NCLAT 584 17 (2020) SCC Online NCLAT 869 18 (2019) 19 SCC 42 19 AIR 1962 SC 1362 20 (1983) 2 SCC 433 17
+	</blockquote>
+	<p title="Fact" data-structure="Facts">
+		23. The facts as stated above are not disputed. The application had been filed prior to the constitution of the CoC. The settlement had been arrived at within two days of the admission order. The payment as per the settlement had been made within the next five days i.e. in a weeks&rsquo; time from the date of admission. The application for withdrawal was filed on the 10th day. The NCLT ought to have immediately taken the decision on the application. Once the parties had settled the dispute even before the CoC had been constituted, the application ought to have been allowed then and there rather than await the other creditors to jump into the fray and allow the IRP to proceed further.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		24. On behalf of the appellant number of orders of this Court have been relied upon wherein the power under Article 142 of the Constitution was exercised to approve the settlement and permit withdrawal of cases wherein CIRP had been initiated. We could have also done the 18 same which would have been an easy way out but considering the order passed by the NCLT rejecting the application for withdrawal and further the IRP and three other OCs having filed intervention applications, we are embarking upon to decide the issues raised and as to what should be the course adopted by NCLT in dealing with withdrawal matters before the constitution of CoC. We take up the issues one by one.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Alternative Remedy
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		25. Plea of alternative remedy is a self-imposed restriction by the superior Courts and is never an absolute bar unless barred by the statute. Further, in the psent case, this Court had entertained the SLP in 2021 itself and had granted an order of status quo on 20.04.2021. Substantial time has passed since then. As such we are not inclined to entertain the said objection relating to availability of alternative remedy of filing the appeal before the NCLT. We may also note here that IBC 19 provides a statutory timeframe for disposal of matters. Further, such matters being commercial in nature keeping these matters pending for long, frustrates the very object of IBC.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Violation of the Moratorium
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		26. The intervenors have vehemently contended that after 01.03.2021, once the NCLT has admitted the petition and had issued restraint order, section 14 of IBC had come into play; the transactions made in the accounts of the CD would be unlawful and illegal as such payment of the settlement amount from the funds of the CD transferred to the account of the suspended Director after 01.03.2021 ought to be rejected and no discretion should be exercised permitting withdrawal of the proceedings. In this respect, it would suffice to state that even the NCLT was not satisfied with the said submission of the IRP and has not approved the same. Secondly, even if there was any transaction from the account of the CD, 20 the same may at best be held to be a wrongful transaction and in any other proceedings where CIRP is initiated the amount so transferred could be recovered under section 66 of IBC by the IRP or the RP subject to establishing that the said transactions would be hit by the said provision.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Multiple claims of OCs
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		27. With respect to the said objection, it only needs to be mentioned that other creditors would have their own right to avail such legal remedies as may be available to them under law with respect to their claims. The rights of the creditors for their respective claims do not get whittled down or adversely affected if the settlement with the OC in the psent case is accepted and the proceedings allowed to be withdrawn.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Claims for expenses for IRP
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		28. Any amount spent by the IRP legally admissible to him could always be recovered in the same proceedings 21 and the NCLT or the Adjudicating Authority would be well within its power to get the same cleared under Clause 7 of Regulation 30A of IBBI Regulations. Judgments relied upon:
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		29. In the facts and circumstances of the psent case and for the discussion made above none of the judgments relied upon by the intervenors are of any help to the intervenors. Briefly the same are discussed hereinafter.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		30. The interveners have relied upon P.Mohanraj (supra), Swiss Ribbons (supra), Dena Bank (supra), MSTC Limited (supra), Indian Overseas Bank (supra) and Manok K. Daga (supra), for the proposition that settlement would be in violation of moratorium as payments have been made after transferring money from the CD account after initiation of CIRP. As already recorded above, we have held that firstly, the NCLT itself was not satisfied that moratorium had been violated and even if it had been violated, at best it would amount to a 22 wrongful trading/transaction and the same, if established, could always be recovered by the IRP or the RP in appropriate proceedings for CIRP by other OCs under section 66 of IBC. However, the psent settlement could not be stalled. Thus, these cases are of no help to the intervenors.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		31. The case of Narayanamma and another (supra) has been relied upon for the proposition that this Court would not put a seal on an illegal act of the suspended Directors of the CD as they have transferred funds out of CD&rsquo;s account after application was admitted. Here also, we may only add that as NCLT itself was not satisfied with such violation, no benefit can be derived by the intervenors.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		32. Lastly, the intervenors have relied upon Ram Saran Das (supra) and Titaghur Paper Mills (supra) for the proposition that the appeal deserves to be dismissed as the appellant did not avail the alternative remedy. This 23 aspect also, for the reasons recorded above, does not benefit the interveners in any way.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Legality of the impugned order:
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		33. Now coming to the legality and the correctness of the impugned order passed by the NCLT in the psent appeal. Majority of the findings recorded in the impugned orders are already covered above. An important issue remains to be considered is the finding recorded by the NCLT that Regulation 30A of IBBI Regulations was not binding upon it and could not be of any help to the CD or its suspended Directors. In this respect, we may first refer to the judgment of this Court in the case of Swiss Ribbons (supra). Section 12A of IBC permitted withdrawal of applications admitted under sections 7, 9 or 10 of IBC. But the said provision envisaged a situation where the withdrawal application would be filed after the CoC has been constituted, as it requires approval of 90 per cent voting shares of CoC. There was no provision 24 which would deal with withdrawal of proceedings before constitution of CoC. Even Regulation 30A, as it existed earlier, did not contemplate of consideration of an application for withdrawal filed before constitution of CoC. This issue was flagged by this Court in the case of Swiss Ribbons (supra) in paragraph 82 thereof which is reproduced hereunder:
+	</p>
+	<blockquote title="Precedent Analysis">
+		&ldquo;82. It is clear that once the Code gets triggered by admission of a creditor&rsquo;s petition under Sections 7 to 9, the proceeding that is before the adjudicating authority, being a collective proceeding, is a proceeding in rem. Being a proceeding in rem, it is necessary that the body which is to oversee the resolution process must be consulted before any individual corporate debtor is allowed to settle its claim. A question arises as to what is to happen before a Committee of Creditors is constituted (as per the timelines that are specified, a Committee of Creditors can be appointed at any time within 30 days from the date of appointment of the interim resolution professional). We make it clear that at any stage where the Committee of Creditors is not yet constituted, a party can approach NCLT directly, which Tribunal may, in exercise of its inherent powers under Rule 11 of NCLT Rules, 2016, allow or disallow an application for withdrawal or settlement. This will be decided after hearing all the parties concerned and considering all relevant factors on the facts of each case.&rdquo; 25  This Court had required the NCLT to invoke its powers under Rule 11 of the NCLT Rules.
+	</blockquote>
+	<p title="Analysis of the law" data-structure="Section">
+		34. It was after the observations made by this Court in the case of Swiss Ribbons (supra), as noted above and also considering the aspect that large number of orders were being passed by this Court invoking Article 142 of the Constitution that IBBI Regulations which were framed by the Insolvency and Bankruptcy Board of India21 exercising powers conferred under sections 5, 7, 9, 14, 15, 17, 18, 21, 24, 25, 29, 30, 196, 208 read with section 240 substituted section 30A vide notification dated 25.07.2019. The Board was conferred with powers to frame regulations for various purposes referred to in section 240 of IBC and the other allied sections. These regulations may be subordinate in character but would still carry a statutory flavor and would be binding on the NCLT. The NCLT committed an error in holding that 21 In short &ldquo;IBBI&rdquo; 26 Regulation 30A would have no binding effect. This would amount to defeating the very purpose of substituting Regulation 30A in IBBI Regulations on 25.07.2019 after the judgment of Swiss Ribbons(supra) which was dated 25.01.2019.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		35. Section 12A of IBC permits withdrawal of applications admitted under sections 7, 9 and 10 of IBC. It permits withdrawal of such applications with approval of 90 percent voting share of CoC in such manner as may be specified. The role of CoC and 90 percent of its voting share approving the said withdrawal would come into play only when CoC has been constituted. Section 12A did not specifically mention withdrawal of such applications where CoC had not been constituted but at the same time it does not debar entertaining applications for withdrawal even before constitution of CoC. Therefore, the application under section 12A for withdrawal cannot be said to be kept pending for 27 constitution of CoC, even where such application was filed before constitution of CoC. The IBBI which had the power to frame Regulations wherever required and in particular section 240 of IBC for the subjects covered therein had accordingly substituted Regulation 30A dealing with the procedure for disposal of application for withdrawal filed under section 12A of IBC. The substituted Regulation 30A of IBC as it stands today clearly provided for withdrawal applications being entertained before constitution of CoC. It does not in any way conflicts or is in violation of section 12A of IBC. There is no inconsistency in the two provisions. It only furthers the cause introduced vide section 12A of IBC. Thus, NCLT fell in error in taking a contrary view.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		36. In Kamal K. Singh (supra), relying upon paragraph 82 of the report in the case of Swiss Ribbons (supra), the Supme Court, which was dealing with a similar situation where the settlement had been arrived before 28 constitution of CoC allowed the proceedings to be withdrawn and held that the applications filed under Rule 11 of the NCLT Rules would be maintainable and the OCs therein was justified in moving such application.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		37. In the case of Ashok G. Rajani (supra), the settlement had been arrived at between the parties on 08.08.2021, after the NCLT had admitted the application under section 7 of IBC vide order dated 03.08.2021. On appeal, the NCLAT vide order dated 18.08.2021 stayed the formation of CoC but declined to exercise its powers under Rule 11 of the NCLAT Rules. The said order was challenged before this Court. This Court in its order in paragraphs 29 and 30 gave reasons as to why the applications for withdrawal cannot be stifled before the constitution of CoC by third parties. The said paragraphs are reproduced below:
+	</p>
+	<blockquote title="Precedent Analysis">
+		&ldquo;29. Considering the investments made by the Corporate Debtor and considering the number of people dependant on the Corporate Debtor for their 29  survival and livelihood, there is no reason why the applicant for the CIRP, should not be allowed to withdraw its application once its disputes have been settled.
+	</blockquote>
+	<blockquote title="Precedent Analysis">
+		30. The settlement cannot be stifled before the constitution of the Committee of Creditors in anticipation of claims against the Corporate Debtor from third persons. The withdrawal of an application for CIRP by the applicant would not pvent any other financial creditor from taking recourse to a proceeding under IBC. The urgency to abide by the timelines for completion of the resolution process is not a reason to stifle the settlement.&rdquo;
+	</blockquote>
+	<blockquote title="Precedent Analysis">
+		38. This Court relying upon the order in the case of Kamal K. Singh (supra) issued directions in paragraph 32 to the NCLT to take up the settlement application and decide the same in the light of observations made therein. The said paragraph is reproduced hereunder:
+	</blockquote>
+	<blockquote title="Precedent Analysis">
+		&ldquo;32. The application for settlement under Section 12A of the IBC is pending before the Adjudicating Authority (NCLT). The NCLAT has stayed the constitution of the Committee of Creditors. The order impugned is only an interim order which does not call for interference. In an appeal under Section 62 of the IBC, there is no question of law which requires determination by this Court. The appeal is, accordingly, dismissed. The NCLT is directed to take up the settlement application and decide the same in the light of the observations made above.&rdquo; 30
+	</blockquote>
+	<blockquote title="Precedent Analysis">
+		39. One more aspect needs to be flagged here. From a perusal of the order of the NCLT it appears that it was annoyed with the conduct of CD and its counsel. NCLT has recorded its displeasure and annoyance at a couple of places referring to the conduct of the CD and its counsel before the NCLAT, and maybe for this reason, the NCLT passed the impugned order ignoring the observation in the NCLAT order dated 26.03.2021 which had specifically expssed that the Adjudicating Authority (NCLT) would pass orders on the withdrawal application without standing on technicalities.
+	</blockquote>
+	<blockquote title="Precedent Analysis">
+		40. Both the parties have relied upon paragraph 82 of the judgment in the case of Swiss Ribbons (supra).
+	</blockquote>
+	<p title="Analysis of the law" data-structure="Section">
+		According to the appellant, the NCLT ought to have exercised its inherent powers under Rule 11 of the NCLT Rules whereas for the intervenors it is submitted that this Court had observed that power under Rule 11 would be exercised after hearing all concerned parties. It may 31 be noted that at the time when the application for withdrawal of the proceedings was filed the CoC was not constituted as such there could not have been any other concerned parties except the OC, CD and IRP. It was only because of the delay caused by the NCLT in disposing of the applications under section 12A of IBC and Regulation 30A of IBBI Regulations that large number of creditors filed their claims. The inherent powers are to be invoked in order to meet the ends of justice which, in our opinion, the NCLT failed to invoke.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		41. Regulation 30A of IBBI Regulations provide a complete mechanism for dealing with the applications filed under such provision. The issue raised by the IRP regarding its claim for expenses is well taken care of under the said provision. Various safeguards have been provided in Regulation 30A of IBBI Regulations to be fulfilled by the OC which apparently have been fulfilled as there is no complaint in that regard either by the IRP 32 nor it is apparent from the impugned order of the NCLT. Thus, the objection raised by the IRP does not merit any consideration in this appeal.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		42. For all the reasons recorded above, the impugned order of the NCLT cannot be sustained. The application filed under Regulation 30A of IBBI Regulations deserves to be allowed.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		43. Accordingly, the appeal is allowed and the impugned order of NCLT is set aside. Further, the Application No. 196 of 2021 also deserves to be allowed along with the application under Regulation 30A of IBBI Regulations. The Application under section 9 of IBC filed by the OCs shall stand withdrawn. It is further provided that any claim for expenses incurred may be dealt with by the NCLT in accordance with law.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		44. We make it clear that any observations made in this judgment will not, in any manner, affect the claim of other creditors of whatever category and they would be 33  free to raise their own independent claims in appropriate proceedings which would be dealt with in accordance with law.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		45. Pending applications, if any, are disposed of.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		&hellip;&hellip;&hellip;&hellip;..........................J. [B. R. GAVAI] .&hellip;&hellip;&hellip;&hellip;.........................J. [VIKRAM NATH] NEW DELHI MARCH 28, 2023.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		 34 
+	</p>
+</div>

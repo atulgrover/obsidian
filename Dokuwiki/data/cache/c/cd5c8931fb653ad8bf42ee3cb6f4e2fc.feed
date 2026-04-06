@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://lexai.co.in/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lexai.co.in/feed.php">
+        <title>RESOLUTION BAZAAR - insolvency_agents:agents:claimant_agents</title>
+        <description>AI AGENTS - INSOLVENCY PROCESSES</description>
+        <link>https://lexai.co.in/</link>
+        <image rdf:resource="https://lexai.co.in/lib/exe/fetch.php/wiki:dokuwiki.svg" />
+       <dc:date>2026-03-14T05:27:39+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:arda?rev=1744448036&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:cvva?rev=1744447644&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:fdaa?rev=1744448339&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:ipna?rev=1744447777&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:praa?rev=1744447711&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:rcra?rev=1744448192&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:scma?rev=1744448408&amp;do=diff"/>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:snsa?rev=1744447962&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lexai.co.in/lib/exe/fetch.php/wiki:dokuwiki.svg">
+        <title>RESOLUTION BAZAAR</title>
+        <link>https://lexai.co.in/</link>
+        <url>https://lexai.co.in/lib/exe/fetch.php/wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:arda?rev=1744448036&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T08:53:56+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>arda</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:arda?rev=1744448036&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Asset Recovery and Distribution Agent (ARDA)&quot;,
+&quot;agentDescription&quot;: &quot;Monitors and tracks the actual realization (sale, recovery) of the corporate debtor&#039;s assets and the subsequent distribution of proceeds to claimants during the insolvency process (liquidation or post-resolution plan approval). Ensures distributions align with the approved resolution plan or the statutory waterfall (IBC Section 53), providing transparency to claimants.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:cvva?rev=1744447644&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T08:47:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cvva</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:cvva?rev=1744447644&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Claim Verification and Validation Agent (CVVA)&quot;,
+&quot;agentDescription&quot;: &quot;Automates the preliminary verification and validation of claims submitted by financial, operational, and other creditors against the corporate debtor&#039;s records. Checks documentation for completeness and basic compliance, flags discrepancies, and assists the Insolvency Professional (IP)/RP/Liquidator team in determining the admissibility of claims according to IBC requirements.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Con…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:fdaa?rev=1744448339&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T08:58:59+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>fdaa</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:fdaa?rev=1744448339&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Financial Data Analysis Agent (FDAA for Claimants)&quot;,
+&quot;agentDescription&quot;: &quot;Analyzes available financial data of the corporate debtor (financial statements, valuation reports) from a claimant&#039;s perspective. Provides simplified summaries, key performance indicators, and context on asset values to help claimants understand the debtor&#039;s financial health and realistically assess potential recovery prospects related to their claims.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: […</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:ipna?rev=1744447777&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T08:49:37+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ipna</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:ipna?rev=1744447777&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Insolvency Process Navigator Agent (IPNA)&quot;,
+&quot;agentDescription&quot;: &quot;Provides claimants (creditors, employees, etc.) with clear guidance, status updates, and access to relevant information throughout the complex corporate insolvency resolution process (CIRP) or liquidation under frameworks like the IBC. Acts as a centralized information portal tailored to the claimant&#039;s perspective.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Demystify the insolvency process for claiman…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:praa?rev=1744447711&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T08:48:31+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>praa</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:praa?rev=1744447711&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Priority and Ranking Analysis Agent (PRAA)&quot;,
+&quot;agentDescription&quot;: &quot;Analyzes the hierarchy of admitted creditor claims based on the Insolvency and Bankruptcy Code (IBC), particularly Section 53 (distribution waterfall in liquidation) and related provisions. Provides claimants and stakeholders with estimated recovery scenarios and clarifies their position within the creditor priority structure under different outcomes (liquidation vs. potential resolution plan). *This agent provides…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:rcra?rev=1744448192&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T08:56:32+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>rcra</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:rcra?rev=1744448192&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Regulatory Compliance and Reporting Agent (RCRA for Claimants)&quot;,
+&quot;agentDescription&quot;: &quot;Assists claimants in understanding and complying with their specific regulatory obligations and deadlines under insolvency frameworks like the IBC. Provides timely information on requirements, helps validate claim submissions for basic compliance, and facilitates awareness of case-related regulatory procedures affecting them. *This agent provides informational support and does not constitute leg…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:scma?rev=1744448408&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T09:00:08+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>scma</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:scma?rev=1744448408&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Stakeholder Communication and Management Agent (SCMA - Claimant Interaction)&quot;,
+&quot;agentDescription&quot;: &quot;Facilitates effective communication from the Insolvency Professional (IP)/RP/Liquidator to claimants and potentially other stakeholders (CoC, NCLT). Manages contact lists, automates the distribution of routine updates, notices, and documents, and ensures claimants are informed about case progress and required actions as per IBC procedures.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;…</description>
+    </item>
+    <item rdf:about="https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:snsa?rev=1744447962&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T08:52:42+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>snsa</title>
+        <link>https://lexai.co.in/doku.php/insolvency_agents:agents:claimant_agents:snsa?rev=1744447962&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Settlement Negotiation Support Agent (SNSA)&quot;,
+&quot;agentDescription&quot;: &quot;Provides analytical support to claimants (creditors) during the negotiation phase of insolvency proceedings. Analyzes proposed resolution plans or settlement offers from the claimant&#039;s perspective, quantifies potential outcomes, compares them against benchmarks (like liquidation value), and generates data-driven arguments to aid in negotiating favorable and acceptable terms.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptu…</description>
+    </item>
+</rdf:RDF>

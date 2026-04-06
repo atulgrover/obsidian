@@ -1,0 +1,62 @@
+<html>
+<div>
+	<h2>
+		National Company Law Appellate Tribunal
+	</h2>
+	<h2>
+		Zapp India Ltd vs Maheshwar Textiles &amp; Anr on 22 September, 2017
+	</h2>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI Comp. App. (AT) (Insolvency) No. 157 of 2017In the matter of:Zapp India Ltd. ...AppellantVs.Maheshwar Textiles &amp; Anr. ...RespondentsPresent: For Appellants: Shri Amol Vyas with Shri Gaurav Sharma, Advocates For Respondent: Shri Saurabh Sharma, Advocate for R-1 Shri Ashok Kriplani, Advocate for IRP ORDER
+	</p>
+	<p title="Fact" data-structure="Facts">
+		22.09.2017 The respondent, Maheshwar Textiles &amp; Anr. (operational creditor) filed an application under section 9 of the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as I&amp;B Code) for initiation of Corporate Insolvency Resolution Process against appellant, Zapp India Ltd. (corporate debtor). The Adjudicating Authority (National Company Law Tribunal), New Delhi Bench by impugned order dated 20th July, 2017 passed in IB No.(IB)-170(ND)/2017 having admitted the application, declaring moratorium and calling for name of Interim Resolution Professional. The psent appeal has been pferred by the appellant-corporate debtor against the said order.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		2. One of the ground taken by the appellant - corporate debtor is that the Adjudicating Authority before admitting the application under section 9 had 2 not issued any notice to the appellant - corporate debtor and impugned order dated 20th July, 2017 was passed in violation of rules of natural justice.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		3. Learned counsel for the respondents disputed the aforesaid stand taken by appellant and submitted that notices were issued twice on appellant one, by order dated 30th June, 2017 and another on 10th July, 2017.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		4. Learned counsel for the appellant next contended that the notice under sub-section (1) of section 8 was not issued by the operational creditor but by the advocate on behalf of the operational creditor.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		5. From the notice dated 29th May 2017, we find that the demand notice was issued not by the operational creditor but on its behalf by one advocate namely, Saurabh Sharma, who claimed to be the counsel for the operational creditor - Maheshwar Textiles &amp; Anr.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		6. Similar issue fell for consideration before this Appellate Tribunal in "Uttam Galva Steels Limited vs. DF Deutsche Forfait AG &amp; Anr." (Company Appeal (AT) (Insolvency) 39 of 2017). This Appellate Tribunal by its Judgement dated 28th July 2017 held as follows:
+	</p>
+	<p title="Analysis of the law">
+		"30. From bare perusal of Form-3 and Form-4, read with sub-rule (1) of Rule 5 and Section 8 of the I&amp;B Code, it is clear that an Operational Creditor can apply himself or through a person authorised to act on behalf of Operational Creditor. The person who is authorised to act on behalf of Operational Creditor is also required to state "his position with or in relation to the Operational Creditor", meaning 3 thereby the person authorised by Operational Creditor must hold position with or in relation to the Operational Creditor and only such person can apply.
+	</p>
+	<p title="Analysis of the law">
+		31. The demand notice/invoice Demanding Payment under the I&amp;B Code is required to be issued in Form-3 or Form-4. Through the said formats, the 'Corporate Debtor' is to be informed of particulars of 'Operational Debt', with a demand of payment, with clear understanding that the 'Operational Debt' (in default) required to pay the debt, as claimed, unconditionally within ten days from the date of receipt of letter failing which the 'Operational Creditor' will initiate a Corporate Insolvency Process in respect of 'Corporate Debtor', as apparent from last paragraph no. 6 of notice contained in Form-3, and quoted above.
+	</p>
+	<p title="Analysis of the law">
+		Only if such notice in Form-3 is served, the 'Corporate Debtor' will understand the serious consequences of non- payment of 'Operational Debt', otherwise like any normal pleader notice/Advocate notice, like notice under Section 80 of C.P.C. or for proceeding under Section 433 of the Companies Act, 1956, the 'Corporate Debtor' may decide to contest the suit/case if filed, distinct Corporate Resolution Process, where such claim otherwise cannot be contested, except where there is an existence of dispute, prior to issue of notice under Section 8.
+	</p>
+	4
+	<p title="Analysis of the law">
+		32. In view of provisions of I&amp;B Code, read with Rules, as referred to above, we hold that an 'Advocate/Lawyer' or 'Chartered Accountant' or 'Company Secretary' in absence of any authority of the Board of Directors, and holding no position with or in relation to the Operational Creditor cannot issue any notice under Section 8 of the I&amp;B Code, which otherwise is a 'lawyer's notice' as distinct from notice to be given by operational creditor in terms of section 8 of the I&amp;B Code."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		7. In the psent case as an advocate/lawyer has given notice and there is nothing on record to suggest that the lawyer has been authorised by 'Board of Directors' of the Respondents - 'Maheshwar Textiles &amp; Anr.' and there is nothing on record to suggest that the lawyer hold any position with or in relation with the Respondents, we hold that the notice issued by the lawyer on behalf of the Respondents cannot be treated as a notice under section 8 of the I&amp;B Code and for that the petition under section 9 at the instance of the Respondents against the Appellant was not maintainable.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		8. For the reasons aforesaid, we set aside the impugned order dated 20th July, 2017 passed by the Adjudicating Authority, New Delhi in IB No. (IB)-170(ND)/2017 and allow the appeal.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		9. In the result, the appointment of Interim Resolution Professional, order declaring moratorium, freezing of account and all other order (s) passed by the Adjudicating Authority pursuant to impugned order(s) and action taken 5 by the Interim Resolution Professional including the advertisement published in the newspaper calling for applications are declared illegal. The appellant is released from the rigour of law and allow the appellant company to function independently through its Board of Directors with immediate effect.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		10. Learned Adjudicating Authority will now determine the fee of Interim Resolution Professional and the appellant will pay the fees of the Interim Resolution Professional for the period he has worked.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		11. The appeal stands disposed of with the aforesaid observation and direction. However, in the facts and circumstances of the case, there shall be no order as to cost. Company Petition is dismissed.
+	</p>
+	<p title="Conclusion">
+		(Justice S.J. Mukhopadhaya) Chairperson(Justice A.I.S. Cheema) (Balvinder Singh)Member (Judicial) Member (Technical)/rs/
+	</p>
+</div>
+</html>

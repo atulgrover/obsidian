@@ -1,0 +1,1024 @@
+# Webinar | Income Tax Quandaries with IBC
+![](https://img.youtube.com/vi/UGfXTgAIQD4/hqdefault.jpg)
+1 year ago (Apr 19, 2023) — 2:07:04
+[https://youtube.com/watch?v=UGfXTgAIQD4](https://youtube.com/watch?v=UGfXTgAIQD4)
+
+
+## Summary
+The webinar discusses various quandaries related to income tax in the context of the Insolvency and Bankruptcy Code (IBC). The first part focuses on the nature of income tax liabilities and the anomaly arising from the Rainbow Papers ruling. The second part covers tax implications of non-resolution, taxation of remission of liability, and tax holidays. The third part discusses tax implications on liquidation and tax certification on voluntary liquidation. The fourth part covers procedural aspects and practical issues faced by Insolvency Professionals (IPS). The discussion is divided into four scenarios: tax liabilities prior to the initiation of insolvency, during the insolvency period, post-approval of resolution plan, and in case of no successful resolution leading to liquidation. The webinar highlights the Supreme Court rulings in Monitor's Path and Rainbow Papers, which have created confusion regarding the treatment of tax dues as secured or unsecured. The speakers, Vinod Kothari and Shikha Bansal, invite participants to share their experiences and views on these issues.
+
+## How to Treat Income Tax Claims
+0:00
+And of course, when you talk about insolvency, talking about liquidation as well is from several viewpoints. First Viewpoint is: while discharging your duties as an insolvency professional, you would be facing questions of how to treat income tax claims. There are variety of ways in which tax officers have started reacting to some of the recent rulings, as they also get more articulated in understanding of the law, particularly the rulings they've started coming in various ways. 
+
+0:33
+For instance, you would find tax officers are now seeking priority at par with secure Traders. They say that we also, and they cite Supreme Court rulings to say that we are also secure creators and therefore our flame ranks at par with secure creators. Obviously enough there is no security interest registered in favor of income tax department. so how to deal with tax claims. 
+
+0:58
+If the tax Officer says I am a secure Trader, you would probably see that there are rulings of Supreme Court. You would see that there are perhaps rulings of ncl80 as well. That's one part, second part. Quite often you would also see during the resolution proceedings when moratorium is already going on. They would be things like, let's say, an appeal process coming. They might probably be a demand coming. 
+
+
+## How to get a refund due to corporate debtor
+1:25
+There might probably be an assessment proceeding coming Etc. So does the moratorium imply? There's a complete stand still as regards income tax proceedings as well. That's another question that insolvency professionals face. 
+
+1:42
+And a third and even a more tricky question is that if you have a refund due to the corporate debtor for a particular year and you have a demand relating to a previous year as a matter of almost an automated process, it's an automated thing. This is nothing that anybody is doing manually. They would probably be an automated process whereby the demand would get adjusted against the refund Duty. 
+
+2:08
+For instance, you have a refund due to you, let's say, for your, let's say, 2021, which is, or let's say 21,22, for that matter, there's a previous demand pertaining to an earlier. The refund would automatically get adjusted because you will not get the refund. You will get a notice saying you're different has been adjusted against an outstanding demand, as in someone see professional. 
+
+
+## What happens to the right back of liabilities?
+2:32
+Our first question there would be if the refund due to a corporate debtor could be adjusted against spending demands. Then what happens to the priorities under section 53? There was one amount which is receivable. There's an amount payable. If the amount payable has been adjusted against amount receivable, then the amount payable has got first priority without even forming a part of the resolution processor for that metal liquidation process. The amount that gets automatically adjust. 
+
+3:02
+So these are substantive questions relating to the rights of tax officers. Then comes the issues pertaining to preparation of resolution plans. Many of us are required to advise and assess resolution applicants as well, and therefore the question comes: what will be the position of the eligibility to claim set off for carried forward losses. therefore there would be a pile of a deferred tax assets there. 
+
+3:38
+The default access is a substantial value and the question is what about those assets? Can the assets still be available to the corporate debtor once the resolution process is complete, that is, can the resolution applicant claim benefit of those brought forward losses from the past? There's even a more tricky question about what happens to the right back of liabilities. Every resolution entails a significant right back. 
+
+
+## Right back in the sense the claims due to financial creditors are written back. Even more steep will
+4:04
+Right back in the sense the claims due to financial creditors are written back. Even more steep will be the right back of claims of operational creditors. These very claims, which are due to operational Predators, would, at some states, have been claimed as expenses. I'm sure you can all relate to it that operational claims essentially arise because there was a debit to an expenditure at some states. 
+
+4:31
+It might be a purchase of goods, it might be a willing of services. There was an expense claim that some states and therefore there was a liability created towards an operational filter when the liability is written back. 
+
+4:43
+Are we inviting the provisions of income tax law which resulted to credits to in income, and income has to be income has to be indeed national income is deemed when you write back a liability which originally arose by claiming an expense, which is what is called trading liability. 
+
+
+## 
+5:07
+Because that brings us to a significant question of what about the taxability of those liabilities, and I'm sure all of you would agree that every single resolution plan entails the right back of operational Traders as well, so the question of taxability of those libraries also comes in. Some of these issues have been resolved by specific provisions of the statute, but that's only for some issues. 
+
+5:33
+Sure enough, not all the issues that arise during the resolution can be handled by specific provinces of Statute, and it would be a long road for Jewish students to develop, because development of jurisprudence would mean there is a decision by the first appeal Authority, then there's a decision by the itat. Then probably the matter might go to High courts and eventually they might be sleeping for tooling. 
+
+5:58
+We're talking about a time frame of nearly about 10 years before matters get settled. So in the meantime, you would probably have done your resolution. The Ari would have hopefully a carried. Whatever resolution was to be carried and sold. So these issues remain unresolved and I don't know whether we have answers to these complicated questions. We have complicated questions, for sure. So what we are doing? 
+
+
+## 
+6:23
+Myself and my colleague shikha will be raising a lot of questions and I'm not sure whether we have answers to the questions. So we'll be. Our success lies in raising questions, not in giving answers. However, for whatever we can do in terms of engaging you all in trying to get answers to nagging questions. That's what we hope to do today. 
+
+6:48
+I can see that we have over 200 participants already, and I think all of you, as I can see several names which are very familiar. All of you are people from practice. You have significant experience yourself, so please do not hesitate giving us the benefit of your wisdom, your expertise on the subject, by letting us all get the benefit of your experience and your views as well. 
+
+7:16
+While we begin the session, and the we will do will be sort of toggling between myself and Michael. We'll keep sharing the presentation as we go. My request to all of you. I think I can see constantly messages coming on chat mode with your registration numbers. I think that's probably serving as a matter of record that you are there. unfortunately we will not be able to take note of the registration numbers for CP hours. 
+
+
+## 
+7:48
+That would be left to ICC IPA to do. But yes, so if I could interrupt for a minute, I would request all the participants to not put their details in the chat box. We will get a list of everybody who has joined and who has registered at the end of the session. There is no need to put the registration number in the chat box. 
+
+8:10
+We will take it into consideration as per your registration details that you filled in while you were registering for this webinar. Maybe there might be negative marking for those who are writing the registration numbers. yeah, but please do. Please do leave the chat board for questions on the session or for use on. The Meta, instead of writing your registration numbers. And thanks for the thanks message discussion. 
+
+8:47
+My request is: you can probably we can intermittently we can have q a sessions. We can probably have time Windows dedicated to discussion with you all. But in the meantime let's first begin and shikha. 
+
+
+## 
+9:01
+Maybe I think you can start by initiating what are the topics we're going to cover today and then we maybe you can start with this one to just give an idea of what all we're going to do and then maybe start on each of the issues as we proceed. So as you already started, we'll be classifying the entire discussion into fourth to five broad Parts. 
+
+9:21
+Number one, we'll discuss about the nature of income tax liabilities and what should be the ideal treatment of those kind of liabilities, plus the anomaly which has recently Arisen because of the rainbow papers ruling as to what how to go about that. What are our two cents on that? 
+
+9:39
+And we would also want to know you know what kind of situations our fellow or peers are also facing, and we would like to hear from them as well. Secondly, what are the tabs, tax implications or non resolution, as in whether the ra would be able to carry forward and set off losses? 
+
+
+## 
+9:56
+What about the taxation of remission of liability happening because of the haircuts undertaken by the creditors, whether it would be applicable on or financial craters and operational Traders as well, or either of them, plus what happens to certain kind of tax holidays which the corporate debtor might have been entitled to? 
+
+10:16
+Then we will talk about tax implications on liquidation, as in when we sell assets either on Standalone basis or say specifically in case of a going concern. That would be more important when we compare a GCS with a resolution and what would be the tax implications in both the cases. That would be quite relevant for us. Then tax certification on voluntary liquidation and distribution to shareholders. 
+
+10:40
+Then there would be certain procedural aspects and certain, you know, practical issues which IPS mostly face. that would that probably we'd also like to hear from rips at that point of time as well. I'll be starting with the status and the nature of income tax claims under IBC. 
+
+
+## 
+10:58
+So as you all understand, IBC has classified the category of crater and two parts financial and operational, but it has not blurred the distinction between secured and unsecured creators as well. So Creator can be operational and secured operational and unsecured financial and secured financial and unsecured right. 
+
+11:18
+There can be any permutation and combination, but when we talk about tax liabilities, it's now perfectly well settled because of all the blrc discussions, the text of the law, as well, as you know, various judicial pronouncements so far that tax liabilities, in fact tax dues, are operational claims as such, the government authorities which are imposing or which are who are of Furnishing claims on account of, or statute or operational traders that Partners more or less settled. 
+
+11:50
+There is no confusion on our net, but the problem has arisen Visa Horizon, with respect to the question whether tax dues are secured or unsecured. Now, before I get into this discussion, let me just think of four possible scenarios, or basically the timings at which these liabilities would have arising. so scenario. One, the tax liability belongs to a period prior to initiation of insolvency period, prior to commencement of insolvency. 
+
+
+## 
+12:24
+Second time is During the period of cirt. Third time is after the approval of resolution plan, say the cirp has become successful and the ra has given a successful resolution plan. As to how would we treat those liabilities under the resolution plan? What happens to those income tax liabilities under that resolution plan? And the fourth thing is there is no successful resolution and the CD ends up in liquidation. So what happens to income tax liabilities? 
+
+12:55
+I'm sorry I can hear some noises around request to please mute. Thank you. So these four scenarios. so when we talk about income tax liabilities, as on the commencement date, as in when the Circ has actually commenced. 
+
+13:15
+There have been rulings in the past, most notable of being is monitor's path, where the Supreme Court clearly said, in fact the highest court of the land clearly see that section 238 of IBC would override any other enactment, including the income tax act. 
+
+
+## 
+13:33
+It relied on other previous rulings of Supreme Court and then our bank, and said that secured dues are private debts and therefore they take precedence over ground deaths in that keeping that in view, it was ruled. There was no confusion and it was rude that the tax dues would come would become subordinated to secured dues. 
+
+13:57
+Plus there were several other rulings, for example in new Edibles, which is an Andhra Pradesh High Court ruling, which also said that tax dues clearly come within the purview of section 531e. That is lower in priority than secured creditors and not being a secure Creator, must necessarily take recalls to distribution. Now why is it saying so? We all understand. In liquidation, secure Traders have two options. 
+
+14:23
+They can either go for you know they can stand in line and liquidation and claim from the common pool of assets, or they can stand out of liquidation and enforce their own preferred asset and realize their dues from that particular asset. But since the code ruled here that the income tax dues are falling under section 53,1e, therefore they don't have that privilege, which is otherwise there with secured printers. 
+
+
+## 
+14:49
+Therefore, income tax authorities should necessarily stand in line under section 53. They don't have any other option. But the table somehow got turned in this recent ruling of state tax officers versus rainbow papers limited. This is also a Supreme Court ruling. 
+
+15:08
+This was in the context of gwat act, where you know, we all know, in case of these kind of tax Acts or Revenue laws, there is generally a section which would give powers to the tax authorities to enforce their dues as first charge over the properties of the SSE. 
+
+15:26
+So similar such provision was there and is there in gwat act basis which the Supreme Court said that this particular section creates a charge and fever of the tax authorities and therefore the tax Authority would become a secured Trader under law and therefore should be treated at par with other secured practice. 
+
+
+## 
+15:45
+Now this ruling actually unsettled the waters because then what happened is the lower courts, including this enclat in this particular ruling principle, this awesome in this particular case, a principal Commissioner of income tax and others versus awesome company in this case in Cloud, held the same principle, although in the context of income tax act. 
+
+16:06
+So the rainbow wave was ruling was in the context of jivat act, but in clat ruling went in favor of income tax authorities. so now the question arises as in what to do in such a case, where so far the idea was pretty clear. 
+
+16:22
+We all knew that income tax dues or whatever tax dues are to be treated as subordinated to secure operators, lower in the priority, as unsecured views, and now suddenly there is a ruling which says that the No, these dues you cannot treat below Securities dues. You have to treat them at par with secured tractors. 
+
+
+## 
+16:45
+We would like to know if our fellow professional members are also receiving certain claims, although in general we see that we do not receive claims from tax authorities even after such. sometimes we receive claims after resolution, but these days it's there's a certain sport in these time type of claims where the tax officers are claiming priorities on the basis of rainbow papers ruling. 
+
+17:08
+So before I get into you know the possible solution or possible arguments, which has IPS, which has eyepiece we can put across. There are certain points to note Visa with this particular rainbow papers ruling, as in what went possibly wrong here humbly speaking. So number one. First we have to look at the definition of security. 
+
+17:33
+Interest whatsoever is provided under law, because when we see the definition of secured credit, I will take you through the provisions just to have a better understanding. It's just imminent. So when we look at the definition of security, are you able to hear? are you able to see the text of the ruling on the screen? I'll share that text also. Is it now visible? Yes, thank you, sir. 
+
+
+## 
+18:34
+So when we look at the definition of secure Creator under IBC, it means a creditor in favor of whom security interest is created. So it is not. It does not necessarily exist, but is created. Now. 
+
+18:47
+When we look at the definition of security interest, it means certain kind of right, title or interest or a claim to property created in favor of or provided it for a secure credit buyer transaction or any other agreement or Arrangement, which means now. When we look at the definition of transaction, it says an agreement or arrangement in writing for the transfer of assets or funds. 
+
+19:12
+Now when we look at these three definitions together secure, Creator, security, interest and transaction it becomes very clear that the idea of law is to provide for transactions or Arrangements which are being entered into by Mutual consent of parties and not those which are, you know, imposed by of Statute plus. 
+
+
+## 
+19:36
+We have also already seen that we have already seen that there are cases like monitor's path and leave Edibles, which have clearly helped that tax dues are not secured use. Now we can also refer to this MCA discussion paper which came in January. It also talks about this particular kind of animal arising out of rainbow paper rulings. 
+
+19:59
+It in fact seeks, calls for a clarification in the law, saying that, irrespective of you know whether a charge is created by a way of Statute or otherwise, government use should not be treated at par with secured creditors and should be treated as unsecured use. So these are our possible arguments, which are already existing, to counter the arguments given in Rainbow papers. 
+
+20:21
+We'll also see that in Rainbow papers there was no mention of all those past rulings or even the blrc discussions. Nothing. So probably the. The Honorable quote was not aware of, or was not made aware of, those rulings. The past, therefore this kind of animal. So now coming to what are the possible solutions which you know, as IPS we have if tax authorities come to us seeking status at par with secure factors. 
+
+
+## 
+20:47
+Now we have seen that security is one in whose favor security interest is created. You know filing one of the preconditions of you know taking a pie in the resolution amount or taking a pie in the liquidation waterfall is that a claimant has to file a claim. Any Trader has to file a claim. So when a secure Trader has fires a claim, he has to prove the existence of security interest. 
+
+21:14
+Now, when we look at various sections in IBC section 38, section 39, section 52 Etc we see that, and plus red with the relevant regulations, including CRP regulations and liquidation regulations, the existence of a security interest can be proved on the basis of three possible sources. Either you go to IU or you go to roc's charge index or you go to registration details with Cersei. now we have to now look at see. 
+
+21:45
+In case of rocs, there is no provision of filing a charge by tax authorities. Are you also so far only financial creators have been finding claims now coming to Cersei? There are enabling Provisions in section 26 B of surfacey act which enable filing of charges, for example attachment orders by government authorities, only to be regarded as secure creators or to be regarded to be given priorities along with other secured creators. 
+
+
+## 
+22:17
+But so that's what we are trying to say that in case the tax authorities want to prove themselves as secure creators, they need to necessarily punish the registration details. Sorry, you can go and check out this somebody's audio. Yes, I'll pause and of course we'll invite questions and discuss. so this wasn't somebody asking questions, somebody talking about the phone. 
+
+22:46
+So so that's what we are coming from, that in order to prove the security interest, they might have to provide necessary evidence, and that can be a possible you know first step or I just pause here just a minute. So can you allow shikar to proceed for next two minutes, and then we can probably have some questions. 
+
+23:15
+Maybe I hope that's okay, because you can just about to finish our I mean response to a potential claim by tax Authority, and then we can probably have some discussion around it. Yes, in fact, in fact we have also seen one Madras at Sea ruling in meta natural. There are also rainbow papers. Limited argument was raised, but then the court, Madras, it's. 
+
+
+## 
+23:41
+You also commented that in case of income tax, in case of income tax, the issue has been already settled by 1786 of income tax act, which actually excludes the applicability of section 178 on IBC cases. So this was regarding the income tax liabilities arising prior to commencement of cirp. 
+
+24:02
+In case we have any questions, and let's maybe start with this, the ruling of the murderer cycle, which refers to section 178 by 6. As you understand 170, it is section dealing with liquidation. So in liquidation, probably one can argue that the income tax act itself has. Maybe you can. She can keep the screen shared instead of beginning window. It makes it very complicated. So let it let's assume that. 
+
+24:32
+So 178x6 talks about liquidation and in liquidation, the income tax act itself has admitted the Primacy of IBC. In 178x6 says that this provision will override other laws accepting IBC. Therefore, the income tax actors admitted that the priority of IBC is over the income tax act when it comes to liquidation. 
+
+
+## 
+24:54
+However, on your point about the meaning of secure theater and security interests, thus the stunts of the Supreme Court and rainbow papers was that creation of a charts, creation of security interest, does not necessarily mean contractual creation can also happen by Statute. So here the statute, in view of the unpaid reduced to the government statutorily, brings a charge which is automatically existing against all assets of. The Entity. 
+
+25:24
+So effectively, the answer to Rainbow papers is the statutory Amendment itself. I am sure that ibbis and saves taken note of that and the concept people clearly says that maybe in those forthcoming session in the parliament hopefully the monsoon cells in this problem may be taken care of by Statute. But in the meant our work is not stopped. We are still carrying resolutions and liquidation. 
+
+25:51
+The question is in the interim if the government puts in a claim. Let's say Gujarat vet has already started sending notices. I'm guessing income tax also will be pursuing saying that I am seeking priority with secure Creator. Therefore you need to set apart money payable to me at par with the money payable to stationery payable to secure filters. 
+
+
+## 
+26:13
+At the same time, the NCLEX has taken a view that a resolution applicant also cannot disregard the use of the income tax and therefore the resolution plan should also provide for proportional payment to income tax at par with the payments due to secured credits. So, looking at these rulings, the issue is: how do we tackle the sure enough no ra? 
+
+26:39
+No resolution applicant is actually wanting to pay at par with secured creditors to the income tax department, for that matter to other tax department. But those tax dues anyway are quite of unsubstantial. Quite often the dues are disputed for long time. Their contingent due to continue remaining contingent till the better gets ultimately resolved, maybe in a trailer of litigation. 
+
+27:01
+So either, since the point that you were referring to referring to the definition of security interest, referring to registration, and you mentioned this point about section 26 B, C, D and E of the surfacey Act was never brought before. The Supreme Court. The unfortunate part is the Supreme Court. 
+
+
+## 
+27:20
+I mean the ruling, the first two only the discussion before the court and the quote was not briefed about the provisions of section 26 b2e of the surface. Yet as you mentioned section 26 C of the surface c26c of 26c of surface, he acted for the benefit of all the participants. This section says that it is possible for the government to register an attachment if the government has made an attachment order the government has. 
+
+27:47
+Merely the fact that there is unpaid due of the government does not mean anything at all. If the government wants to convert its claim into a security interest, the government has to do attachment and attachment order may be registered with Cersei and then 26 e of the surface Yak goes to say that, notwithstanding anything contained at the low for the time being in force, after registration of security interests, that's due to a secured credit shall be paid in priority over all debts and all debts and all revenues, taxes, essays and other rates payable to central government or state government and local Authority. 
+
+28:21
+So 26. He also goes to say that once the security interest has been registered with sir PSI Cersei is the registry Authority Under surface C Act, then the dues of secured creditors will rank above the claims of the government. Now we need to here see two things. Number one are the secured creditors spoiling security interest with sirsa as well. They should be filing. 
+
+
+## 
+28:45
+Sarasai does not have a time limit, unlike Roc, which is 30 days from date of creation. Sunshine does not have a time limit. So even now security credits can do a filing. Then 26 e of the surface yet will come to the rescue and they can claim priority over the central government of State Global claims in view of 26 e of the surface. yet. 
+
+29:09
+I think that's where probably some solution may lie: asking the security traders to do certification. Ensure of the government wouldn't have done that and therefore the government claims may not be. In fact. 26e talks about attachment. I think what we need to understand there's a difference between having a charge and having attachment fasten the security, sorry faster the security interest to specific asset, otherwise having a kind of overhanging charge on all the Assets. 
+
+29:41
+In any case, we'll make the claims subordinated because, as per law, if a charge exists on specific assets versus the charge existing or general assets, any asset, the latter part is called a floating charts and a floating charges, by definition subordinated to fix charges. This is also been held by Supreme Court in case of icsa versus. subsequently the same principle has been are used under IBC cases as well. 
+
+
+## 
+30:07
+So to remind two things: number one, the government claim is still subordinated. We get charge on General assets, not a chart on specific assets. And number two, it's not converted to attachment. In any case, the attachment is not registered under Section 26e and therefore 26e will provide priority to other secured creditors. I think that might probably be the way to deal with it. 
+
+30:30
+If, in case you want to add something or otherwise, participants might want to have some discussion. That's just this point, sir. This 26 e can be of help where the security is actually enforcing the security outside IVC, but when this calculators is inside the liquidation or inside IBC, then probably there can be a gray area still. 
+
+30:51
+But yes, we can always rely on this 26 B and C, where the government and other creators do have the right to register the attachment orders as well, so that at least that requirement can be sought for society. Reading from 2016. It says that's due to a security shall be paid in priority over all the debts. 
+
+
+## 
+31:13
+Yeah, so I think it's nothing, but let's discuss with other participants as well if there are any further thoughts coming up. Yes you know. Rainbow paper main case for the this sales tax officer to the Supreme for this case it is a priority hello, your audible, your audience. We are missing two things: income tax and where is role of law mentioned, and they can recover the money from the turbo data. 
+
+32:32
+So in this case I think there's a supreme court use, the principle of interpretation, of harmonization between the law according to that if there is any problem so we can go to the ncert for the clarification or Way Forward. That is my thank you very much. Thank you very much. 
+
+33:06
+IBC at a schedule where IBC made corresponding changes in lot of other laws that in case of any conflict with a Central Loan state law, the central law shall Prevail IBC Central law and IBC being a central law, IBC itself has a priority over all other state laws. That's the law of the land and therefore we have to wait where the statute brings a resolution to this problem. like an foreign RP or IRP. 
+
+
+## 
+34:58
+How IRP or RP should treat that claim in case of state tax of Gujarat? They are asking to treat them as a security. Nclt has also passed the order to treat their claim as a rainbow judgment. They are not perfect for the security code. You are, you're right, ruling to treat Gujarat government as a part of security. There are only two terms, sorry, FC and OC. Absolutely right, but even an OC can be secured. 
+
+35:35
+Now resolution plan has to pay liquidation value to each creditor. Liquidation value means what liquidation value comes from section 53. So the moment you apply section 53 once again we are talking about secured button, secured. but even if there is a secured operational creditor. If there's a secured operational creditor, no secured operational Creator can be paid a value less than the value of the underlying security. 
+
+36:04
+Interesting, there's a secured operational filter having a charge on specific assets. The value that can be offered to such greater has to be at least the liquidation value, which is why we related to section 53, which is once again based on secured versus unsecured. Secured I've secured unsecured. That's exactly what the discussion is: security interests, because I have as a resolution professional, I have to go by Milo mileage. IBC says there are three security evidence. 
+
+
+## 
+36:49
+Sorry, I'm saying there are three possible evidences. rainbow judgment says that law. The statute of Gujarat itself provides that in case of default in payment of state tax, then creditor the state tax department will become, will have automatic charge on the assets of the company. That is by the operation of law, not by the registration and other thing provision existing Lodge of just about every state is provision. 
+
+37:39
+It was then imitated by all the state governments. So ask them statutory chart. But as an IEP I am, I am entitled to take a charge or to claim a secured claim based on some evidence after line evidence, just because there was a demand existing. I cannot take it as a chance because, as per the process provided by CRP regulations, I have to ask for evidence of security investment by sending evidence. 
+
+38:21
+In fact they could have done subsiders itself provides, itself provides, then there is no question of separate diabetes. In my view, because of this, the Supreme Court has taken the same view because the state law itself provides, so that would be the resolution. Applicant will have to set aside a proportional claim to government. 
+
+
+## 
+38:54
+Is also government news, foreign defined in section 53. One thing, then: there are certain, you know, overriding Decisions by a supreme court in particular. But ultimately you know there is a word creation of security interest, and there are. There are ways and means to create the security interest. 
+
+39:35
+Only thing is that if it is not done by say, income tax department or any other department, if they have not registered their claims with the Cersei or any other such agency which is required, I think as a IEP I can very well take a strength that say the case conditions are different. 
+
+39:55
+When the case goes to a particular court, maybe Supreme Court or some other competent code, I need to go on the basis of the case details with me. If there is no security interest created by any government Department, I will teach that as a it as a waterfall mechanism. That is section 53, one p. I think I think that should be the correct strength because you know what happens. The statute is one thing. 
+
+
+## 
+40:24
+Then there are different quotes or ncerts giving different views based on circumstances of a particular case. But I need to go whatever is available with me and finally whether really security interest is created or not. Then on and it would otherwise, you know, there is another debate of whether first charge order Road second charge holder. Still it remains, I think, unreserved, thank you. And what is the meaning of first charge and second charge? 
+
+40:58
+Always the banking industry. We have been doing it for SARS or paripasu charge or second charge. So there also the question of you know proportionate distribution of the value will come. Thank you, thank you very much, sir. my limited point is. My limited point is that you know we can argue to the extent we can, but unless until the statute is not amended, nothing will happen completely and the only solution is amendment to the statute. 
+
+41:25
+But that will still be some months of a suffix. It will be. We need to wait for some months. My understanding is no plans are getting approved interim. All the plans are pending at the nclt. Because of this rainbow adjustment. I mean my plan. Approval of plans is one part. You might also be acting as Liquidator. In the meantime, you might be getting a demand or claim from the government. 
+
+
+## 
+41:48
+The issue is: how do we tackle it in the meantime? So you are right. That ultimate remedy comes from a statute taking care of its basic intent. but in the meantime life doesn't stop for us. We have to continue moving the process. So if you are getting stuck, then how to address in the meantime while the law is still awaited? That was our submission, but eventual remedy, very rightly, will have to come from the statute. 
+
+42:16
+Would want to add something? Or do you want to move to the next one? No, so let's move to impractical patients during CRP. So these are certain key issues in cirp which will be discussing with your new participation. So number one: whether the benefit of carry forward and set off of accumulated losses will be available to the resolution applicant or the new CD? What kind of treatment would occur to those haircuts taken by creators? 
+
+42:48
+Whether that would be treated as an income in the books of the new CD? What would be the marked implications? What happens to the past tax claims, as in what is the impact of past tax claims on the resolution applicant? Now we also see that in most of the resolution plans we have merger or demerger amalgamations happening. So what would be the tax benefits in such cases? 
+
+
+## 
+43:12
+So coming first to carry forward and set off of losses under Section 79 it provides for ability to carry forward and set off of losses in case there is a change in control. So this particular section 1.90s specifically with a company in which com in which the public are not substantially interested in interested. so in such cases. 
+
+43:35
+It says that in case of a change in control, no carry forward and setup of losses would be available. Now there were amendments in subsection two of this section specifically providing for IBC. It says that nothing contained in subsection once shall apply to a company where a change in shareholding happens in a previous year. Pursue into a resolution plan approved under IBC after affording a reasonable opportunity of being heard to the principal commissioner or commissioner. 
+
+44:06
+Now there is a clause D also, which was which was inserted, which deals with to a company and its subsidiary and the subsidiary of such subsidy. Basically the company and subsidiary and the step down subsidiary where the change in shareholding happens, pursue into a resolution plan under IBC. Then also will you take it forward from here. 
+
+
+## 
+44:31
+So as shika mentioned here, the basic issue is the eligibility of the resolution applicant to claim the benefit of carry forward and set off. Very obviously we're talking about a company with huge pile of carried forward losses. The company, the company goes for resolution and obviously there is a change of control, because resolution itself means ra comes in. The existing promoters go away, the new shareholders come. 
+
+45:02
+That's the change of control and quite often the companies which are going underground resolution are closely held up. They are not. They are companies in which public are not substantially interested in terms of definition of section 2 by 18. They are so called closely held accounts. 
+
+45:19
+So here the provision of the law intended very clearly Amendment meeting 2018 to say that the benefit of carry forward will not be denied in case of change of control happening per Shimmer to resolution plan provided an opportunity of being heard was afforded to the principal commissioner or Commissioner of income tax. Now one is not clear on what exactly is this opportunity of hearing. Who has to provide the opportunity of hearing? 
+
+
+## 
+45:50
+Are we therefore saying that during the nclt hearings, the commission of Interplex is also one of the parties? Well, I think as long as the better is open for a commission of income tax also to appear as an interested party, and the nclt would obviously be open to hear the contentions of the commissioner of income tax as well. the question of affording reasonable opportunity to tax officer has already been taken care of. 
+
+46:18
+But when it comes to the tax losses in subsidiaries, that is where the language of law is not at all clear, because there, if you look at the provisions of section 79 by two clause d that they are, the language becomes quite murky because it says to a company and it's subsidiary and subsidiary of the subsidiary where under Section 242 of the companies actually suddenly makes a reference to section 242 of the company. 
+
+47:06
+Section 242 of companies that I'm sure you are all aware is a section dealing with oppression and mismanagement. Section 23.240 Etc are better dealing with operation. In a case dealing with oppression, the tribunal has power. I mean nclt, not that judicial Authority. in that case the nclt has power to provide for change of management tools. 
+
+
+## 
+47:28
+So therefore I'll be saying that as far as the carry forward benefit of carry forward or losses to a subsidiaries concern, that will be available to a resolution applicant only if the change happened in pursuance of section 242 and not IBC, then the whole purpose of this amendment, because it refers to it, starts with IBC first. So change in sharing of company which has taken place in previous year. 
+
+48:01
+Personal to resolution plan approval tribute thank you. Very clear is referring to resolution plan and that makes a reference to section 212. so it seems very clearly that the reference to section 242 of the companies Act is probably erroneous because resolution plan is not approved in terms of section 242, resolution client is approved under IBC. 
+
+48:29
+So as far as the ability of subsidiaries of the powerful letter is concerned to claim benefit of set off that seems to be doubt. But as regards the corporate letter itself, there seems to be no doubt as to the eligibility of the corporate data to claim benefit of setup and carry forward. That is because there's a continued in the corporate data continues as an entity. The obvious the question is that the CD must be continued. 
+
+
+## 
+48:55
+If the resolution applicant decides to burst the city to some other entity or decides to demerge on taking out or to merge some other entity into the corporate data, then we are talking about the eligibility of carry forward and set off in case of amalgamation Demers Etc. 
+
+49:15
+But if the CDs continued as such, then the right to claim benefit of carry forward instead of seems to be coming very clearly by virtue of the explicit provisions of the law. 
+
+49:28
+Now if the if this, if the resolution applicant decides to move the batter or move the CD, Say by way of a scheme of merger, deberger or say by burjing some other entity into the corporate letter, then the situation will be dependent on whether such scheme of arrangement meets the definition of amalgamation as per Income Tax Act or Mutual definition of Demers per Income Tax Act, and whether the conditions of carry forward or setup of losses under a scheme of amalgamation or demerger are getting satisfied. 
+
+
+## 
+50:07
+So there are three possible scenarios. The corporate data continues as is, that is, without change of corporate personality. In that case section 79 by 2 automatically comes in and therefore the right of claiming set of or carry forward is not desktop. if the CD is burst into some other entity, then we need to see what weather conditions of section 72a pertaining to skins of arrangement are being satisfied. Red with the definition of amalgamation. 
+
+50:38
+Once again, as per the definition of amalgamation as per income tax action, very often you will find the corporate letter is Demers or some of the undertakings are deemers into separate companies. There will once again need to see where the definition of debersia and the conditions of section 72a by 4 are being satisfied for transferring the tax benefits to. The diverged Entity, the transfer utility in case of Demers. 
+
+51:03
+A third scenario can be some other entities merged into the corporate data. quite often the scheme might be that here is a company having brought forward losses, we merge some other profit making entity into the corporate atom. 
+
+
+## 
+51:16
+In that case there is no challenge, because we already saw that change of control which is happening, for she went to resolution plan is already covered in the section 79. Now if because of his merger of some other entity into the corporate debtor, if there is a further change of control that's happening, then the carve out or the protection under Section 79 by 2 that we just noticed that will not be available. 
+
+51:42
+Therefore I'll need to repeat myself that if there is subsequent to the resolution plan that is not coming out of resolution plan but separately that is independent of the resolution plan, we decide to do a merger of some other profit making entity into the corporate debtor and as a result of that shares are shares of the CD our issued to shareholders of those merging entities. 
+
+52:08
+There may be a situation of change of control that is, more than 50. shareholding might change, and if that situation happens, then the ability of the entity posts the change of control to be able to claim the benefit of set off will still be questionable, because we will not have the benefit of the explicit curve out in section 79 by 2, which is available only in case of change of control happening pursuant to resolution plan, so that allows us to summarize situation. 
+
+
+## 
+52:40
+As long as there is no change of or as long as change of control is a part of resolution plan, we will not have an interruption in the ability to claim benefit of setup and carry forward if you do a schema for arrangement which may or may not be part of resolution plan, if scheme of arrangement may or may not be part of CRP, may or may not be a part of resolution plan, because even if the scheme of arrangement is not a part of resolution plan, there are still explicit Provisions that Income Tax Act dealing with schemes offering, so those Provisions will still be applicable. 
+
+53:10
+And if there is some other merger that happens into the corporate data, not as a part of resolution plan, then if there is change of control because of such merger, then there might be a challenge to the ability to claim tax benefits. 
+
+53:24
+So if I can scroll down to the conditions of amalgamation, as we are well aware, the provisions of income tax act Define the scheme of arrangement in terms of section 2,1B of that and there are conditions given in section 2,1 B number one. 
+
+
+## 
+53:42
+All the property of the transfer gets transferred to transferee, all the liabilities also get transferred and shareholders to the extent of at least three fourths in value of the transfer, becomes shareholder of the transferee as a result of the schema for arrangement right. and can I have one question please, so I just want to finish for one minute. Just give me one note for the. This is as far as the definition of evaluation is concerned. 
+
+54:14
+Now for Section 72a comes in for which lays down this conditions subject to which at transferee in a scheme of arrangement will be entitled to claim benefit of set off in the transferee entity and the conditions laid in section 72a. But yeah, there are some conditions laid in the section itself and there are conditions which are coming from the rules. 
+
+54:43
+The primary conditions laid in the section and the rules are basically that the complete question satisfies the definition of an introduction and then it goes to say at least three fourths in value of the assets must continue post the amalgamation as well other conditions about continuation of business and that the amalgamation was for the purpose of Revival or restructuring of the entity, which of course is the case in a resolution plan. 
+
+
+## 
+55:14
+So as long as we are meeting the conditions of amalgamation, that is, if the corporate data gets Amalgamated with some other entity, then there is a question of Shifting of tax benefits to transferring entity. There the conditions of section 72 a by two red, with the relevant rules have to be adhere to. 
+
+55:32
+But it would be, I would say, relatively easier to scheme of us to think of a scheme of dimers, because the conditionality is to be satisfied in the scheme of demerger are relatively easier if you can move to stream of diversion. In a scheme of demerger which is defined in section 2 by 19 double A conditions being, the property should be transferred. First of all, it must be an undertaking. 
+
+55:58
+Remember always that demerger is applicable only when there is more than one undertake. That is, we need to satisfy that the CD was consisting of more than one undertaking and we are shifting one undertaking from the company we are. Transfer of assets can never qualify as transfer of undertaking. if what we are doing is simply transfer of assets and not transfer of undertaking, then the tax neutrality in case of deberger will not be applicable. 
+
+
+## 
+56:25
+So it must be transfer of undertaking, and the word undertaking once again is defined in the section. So it must be transferred of undertaking. Where all property of the detecting is transferred to resulting company, all libraries are also transferred. The transfer of assets and libraries happens at Book value. 
+
+56:40
+The transfer issues shares and shareholders to the extent of at least three fourth in value or in the demons entity becomes shareholders of the resulting company and the transfer of undertaking is carried out as a going concern. If these conditions of section 219 double A are satisfied, then the relevant provision for Shifting the carry forward losses pertaining to the undertaking. that is the moment you talk about debugger. 
+
+57:08
+We are talking about losses pertaining to the undertaking, not losses pertaining to the SSC assesses. The Entity. We will need to identify the losses which pertain to the undertaking and those losses can be shifted to the transferring entity. In terms of section 72a by 4, the conditionality is 72a by 4 are much easier than the conditionalities under 72 about 2, because the undertaking need not be industry Industrial. 
+
+
+## 
+57:42
+72 a by 4 does not require the existence of an industrial taking. Therefore, the conditions are relatively easier if you want to do a shifting of losses to another entity. I am sure you understand that in case of resolution plan that's one of the basic of the basic ideas, not too not to waste the benefit of deferred tax asset. 
+
+58:03
+We're talking about a insolvement and taking there might be substantial extent of level tax asset, and that's quite a value. So in order not to lose that value, we'll have to think of Shifting of the losses to an appropriate place where the losses can be appropriately adjusted. Therefore, the question of either amalgamation or demerger is quite often thought of. Quite often that's a part of resolution plan itself. 
+
+58:27
+But even if amalgamation or demerger are part of resolution plan, still as there is no explicit, I mean carve out from section 72 a to a resolution plan. The shifting of losses will still have to beat with the conditions of section 2 1B or section 290 double A, as the case may be, and 72a by 2 or 72 a by four. 
+
+
+## 
+58:52
+So that is the condition for availing the benefit of setup and carrying forward in CRP matter. Let's maybe have a short discussion around this before we move to slum. Yeah, I have one question: whether this condition is applicable. We can do the rearrangement and while the companies in liquidation foreign anything else about CRP when we'll talk about as far as slum sale is concerned. Slum sale is essentially a EG process for computing capital gains. 
+
+59:48
+Unlike amalgamation or deberger, which are supposed to be text neutral, a slum cell does not have a text neutrality. Slum cell is as much chargeable to capital gains as any other transfer of capital assets. the only advantage of slump still is that instead of computing capital gain with reference to individual assets, we compute capital gain or Capital loss with reference to a undertaking. 
+
+1:00:13
+That is, we do not do asset by asset allocation of the consideration to specific assets we compute the entire capital gain on transfer of undertaking itself. That's only a matter of convenience, and particularly it may be useful only where on some of the asset they might be capital gain or some of that they might be Capital loss. 
+
+
+## 
+1:00:35
+So instead of mutual set off of capital gains or Capital losses, it might be desirable to use the slum sale process to have an easy a process for transferring the undertaking itself. In essence, slump cell is not a text neutrality provision in CRP. also slum cells quite often may be done as a part of resolution plan or maybe during CRP also, it might be desirable to shift or transfer undertaking out. 
+
+1:01:01
+Sometimes the committee of creditors also might desire and undertaking to be completely shifted. So the issue basically is that if you are doing any transfer of assets, a transfer of capital assets during CRP is a part of CRP process itself. They are also capital gains or Capital loss. Implications will still arise if you're doing a transfer of assets, the resulting into a capital gain. There is a capital gain tax implication. 
+
+1:01:28
+So merely the fact that you are undergoing resolution does not absolve the obligation of complying with tax Provisions. if there's a tax implication because of a transfer of capital asset, the implication would still be applicable to an entity under CRP as well. Before we go to the next stage, which is liquidation, there are several issues. During liquidation is say your question. I would like to make it Main. 
+
+
+## 
+1:02:06
+If I remember correctly, it could be long term capital gain if the entity or if the division is there for more than the specified period three years whereas in case of asset sales in business asset sales, except for land, it would be short term capital gains correct. In case of depreciable assets, we apply section 52, under which the depreciable assets are always taken based on block basis. 
+
+1:02:38
+So based on the sale proceeds versus the block of the assets, the resulting gain or loss mostly resulting gain or loss may not arise unless then that block is getting sold. But if at all is again, the gain will be taken as short term capital gain. You're right. That means you're right. If you choose lump sale, then you are. You are not required to compute the block basis sale proceeds versus wdv. 
+
+1:03:01
+You can treat that undertaking a single asset and you can take the net worth of the undertaking and the sale consideration. The difference between the two is taken as long term capital gain or long term Capital loss, depending on for how many years undertaking has existed. you're right. 
+
+
+## 
+1:03:23
+So the provinces of Slum sale have now also been extended to slum Exchange and I think with this we can probably move to liquidation, which I think is having several. Just to quickly mention about continuation of assessment on successful. This is a specific provision which was inserted in section 170 and last finance bill 2023 also has made some changes in section 170 a. Now this basically is a procedural provision. 
+
+1:03:58
+We say that sometimes, while the assessment proceedings are going on, there might be a change of an entity by virtue of a order of quote. The order of quote may be under the amalgamation or a merger or deberger, or the order may also be pursued to resolution plan. 
+
+1:04:16
+That is, if at all there is a change of entity happening during the continuation of assessment proceedings, then the SS assessment proceeding on the predecessor, that is, the entity which was existing before the sport order, will be deemed to be a proceeding against the transferee. 
+
+
+## 
+1:04:34
+This is actually to avoid a difficulty, because earlier there were rulings to say that if the entity itself against which proceeding was existing, as these two exists because of, let's say, let's say, because of a merger. The Entity has been dissolved. So there were rulings to say that because the entity itself is not, there's no question of any proceeding against entity, which is now cease to exist. 
+
+1:04:56
+So section 170 was amended by inserting subsection to a to say that in case of a succession, and succession here includes IBC. Also, the proceedings against the predecessor will be deemed to be proceeding against the successor entry, that is transfer, I mean the virtual entity. The proceeding proceedings against the virtual entity will be deemed to be proceedings against the resulting Equity. 
+
+1:05:23
+So this is basically a clarificatory provision and, like I said, in 2023 Finance act also this the concept of successor and predecessor has been extended to IBC proceedings as well by adding an explanation below section 172 a. This was section 170, but I think we'll have more relevant discussion. When it comes to 156 is separately ability to discuss it a very important provision, but let's talk about liquidation first. then we come to 15.156a. 
+
+
+## 
+1:06:03
+Shikha will also need to talk about the we just mentioned those slides and we need to come back on that number one, the question of taxability of their haircuts. That is, what happens to the haircuts. Do they become taxable? That's one part. Number two, the provisions of match on the right back of liabilities and thirdly, the provisions of section 1562a, that also 156a, that we need to discuss as well in the Meetup. 
+
+1:06:31
+Let's first discuss liquidation. Then we come back and talk about the incidence of tax on account of right back of liabilities. Maybe I think let's discuss liquidation briefly and then we come back on these promises. Chicago, to you sure. 
+
+1:06:45
+So when we talk about tax implications and liquidations, so first of all we all understand in liquidation involves sale of assets that might happen by way of Standalone sale of a particular asset or say a block or parcel of assets, or by way of even a scrum sale or a going concern sale. So most of the concerns would arise in case of a going concern sales. Now first question is generally. 
+
+
+## 
+1:07:13
+First of all we need to understand the difference of a typical going concern sale which would happen in a normal scenario, versus a going concern sale which would happen in liquidation. so the first important difference is that in case of a GCS in liquidation, we are not talking about carrying over the liabilities right unless and until the CEO, the COC or the SCC specifically decide. 
+
+1:07:40
+Now, when we talk about, say, capital gains, sir recently remarked that you know when we talk about sale of assets, say in case of in case of resolution or say, liquidation, if there is a capital gain implication, can the IP avoid payment of those taxes? 
+
+1:07:57
+So we would see that there are certain rulings at the level of nclt where they have said that you know such kind of tax implications which arise due to sale of assets during ccirp or say, during Recreation. 
+
+
+## 
+1:08:12
+Those should be treated as good as income tax liabilities prior to insolvency commencement, that is, they should be paid as per section 53. However, in our view, that would lead to breach of tax Provisions, because we understand in past also there has been a debate around whether Liquidator needs to comply with you know, payment of taxes or related Provisions during the during the entire process. 
+
+1:08:41
+Sir correct me if I am wrong: there is a ruling in the case of Hindustan Urban infrastructure limited where the SC has held that Liquidator is in fact a dealer in terms of a sales tax law and therefore he needs to pay those taxes which arise during that process of when during that process of liquidation itself and not the past liabilities, of course. 
+
+1:09:04
+So going back by that principle or proposition, we are still saying we are of the view that those kind the taxes which arise during the liquidation period should be treated as a liquidation cost, although we'll find that there are certain contrary rulings to that effect. Similarly, when we talk about state and therefore there would be an implication under Section 194 IA, so in that case whether the regulator should deduct TDS. 
+
+
+## 
+1:09:33
+So again there is a contrary ruling and om prakash Agarwal by n clad, where it was seen that such TD deduction of TDs is not warranted because it would fall under section 53 and would be contrary to IBC. But again we have a different view here going by the same ration. So you would want to add here something. 
+
+1:09:56
+I think let's summarize the tax issues arising in the liquidation and then compare this with the tax issues arising out of CRP, the stances resolution. Quite often the corporate data remains in debt. Recovery will just be coming back to itself. The the stance in CRPS resolution. We're trying to resurrect, repair, restore. The Entity and bring it bring it back on its feet. That's the whole stance in resolution. In liquidation, the stances sale of assets. 
+
+1:10:29
+The assets gets sold. Assets may be sold, as shika mentioned, in several ways. Asset may be sold on piecemeal basis. Assets may be sold on slum sale basis. assets may be sold by UEFA. Going concerned going concerned seal becomes a separate issue by itself, and that is where I mean the inter mixture, or bringing the CRP principles during liquidation comes in quite often. 
+
+
+## 
+1:10:52
+There are, there are, there are several impact and CLT rulings now which seem to be equating a GCS sale during liquidation to a CRP Revolution, and that brings very interesting points to which will avert rewards. To briefly, but let's first talk about the tax implication during liquidation. Liquidator is obviously going to sell assets. Liquidator realizes assets by selling them and as you sell assets, questions of compliance with various provisions of law would come. 
+
+1:11:21
+Let's say, you're selling assets and the sale of assets attracts GST. Are we liable to pay GST? Very surely yes. I think it becomes completely no brainer to say that whatever taxes, whatever legal compliances, whatever compliances with applicable laws have to be done by the company as if the company was in existence. So what happens when the companies in liquidation, the company is being administered by the liquidator, they can't be still existing. 
+
+1:11:52
+The company is still continuing until the companies dissolve, the company is still in continuation. There's no doubt on that. This has been I mean consistently the ruling of courts that until dissolved,. The Entity continues Marshals and Supreme Court ruling has been, I mean in operation for several years now. Then the company exists before it's dissolved. 
+
+
+## 
+1:12:12
+So all compliances as are required by the company, which normally are the responsibility of board of directors, become the obligations of Liquidator during liquidation. If it's salic acids and the sale of assets brings in some tax consequences, say GST, say for that matter, stamp Duty. Would it be open for the Liquidator to say that I will not pay GST? I will not pay stamp Duty because I am a liquidator. 
+
+1:12:36
+So to my mind the these are the these are the incidents of the sale transaction itself, like expenses on sale are a necessary part of the sale transaction. similarly GST on the sale, and I would hesit to add that even the capital gain implication, if at all there's a capital gain implication or rising out of sale, the capital gain also becomes a part of the sale process. 
+
+1:13:02
+To say that the capital gain arising because of sale will have to be bet under Section 53, to my mind, sounds a bit strange. There are, I'm aware she can mentioned that there are rulings to say that tax liability will be paid in terms of section 53, which means while we sell assets we incurate tax liability. However, will not pay it because in terms of waterfall there is no not enough money to pay the taxes. 
+
+
+## 
+1:13:27
+That some seems very counterintuitive. however, one must say that while you are in CRP or in liquidation, we must ensure that we are continuously filing returns of income. We're filing tax returns because if you're not filing tax returns then your ability to claim the benefit of set off of losses will be subject to question. 
+
+1:13:51
+So you should continuously be filing returns of income, even though the companies and losses, but the ability to carry forward the benefit of losses also is subject to filing returns of income. so continuously keep filing returns of income such that if there is a potential question of tax, as we were just discussing. 
+
+1:14:11
+In case of depreciable asset other than lead, in most cases the tax incidents on account of sale will result into a short term capital gain and if you have a short term capital gain, you have a business loss also, so you can set off the losses you can set off past carry forward losses against your potential tax Capital gear implication so as to not result into a tax payment. 
+
+
+## 
+1:14:35
+So that's one important C important principle that why that while we are in CRP or liquidation, we must be con you can stay on the slides. we should continuously be filing our returns of income so as not to lose the benefit of set off or carry forward of loss. That's one part. 
+
+1:14:56
+Second part, if, as a part of liquidation, we do a slum sale now there again, there might be question of tax, because you're then Computing the net worth of the undertaking and comparing that with the sale concentration. 
+
+1:15:09
+Usually, though, I'm not ruling out the possibilities of capital gain being there usually the sale realization, at least on us, some of the assets, in fact most of the assets, will be lower than the carrying forward, the carrying value or the wdvs of assets, and therefore the question of any capital gain may not be there. But there might be some assets. 
+
+
+## 
+1:15:32
+For example, if you're only shares, you're holding some asset which is appreciated much in value. There might be a question of significant capital gain on some of that foreign capital gain. Long term Capital loss may be mutually set off, so carry on the benefit. I mean Avail the benefit of set off if you have capital gains in one and capital loss in another. 
+
+1:15:58
+Normal rules of mutual adjustment of set offs will be applicable here as well. There's no specific curve out in case of liquidation. Therefore, if the net result of any sale of assets is a payment of capital gain liability, to my mind this is a part of the sale process itself. 
+
+1:16:17
+To say that it's not defined as liquidation cost or to say that it has to be settled in terms of section 53, to my understanding, is not a correct position of law. Similarly, if there's a question of deduction of accept Source, many payments that we make are reliable to tax reduction at source, for instance, let's say make payment to return once you make payment to Advocates, we have deduction of taxes Source on each of these. 
+
+
+## 
+1:16:40
+So deduction of taxes Source under 194 IE also, if at all applicable, will have to be done so. Therefore, the Liquidator has to comply with all the provisions of law as were applicable on the company if the company was going concerned. We will be talking about GCS, that is growing consumption, sale and liquidation separately. but as of now this is our quick position, or the tax implication during liquidation probably has something to say. 
+
+1:17:10
+Mr Governor, you can speak up your question. If not, then maybe we can move on to going concern. Sir, may I ask a question? Yes, at least support in 2022.23 a liquidation process stars and liquidation process is com going to complete in the year 2020 to 23 only. So in that case, how the Liquidator will file the income tax return, because income tax return he can file only in the next year. 
+
+1:17:52
+So in that case, what will you do? To my recollection, there is a provision of income. This is not just limited to. I mean this arises very often voluntary liquidations, also because quality liquidation is very fast completed and you have to file it. there's a specific to my recollection. I don't know whether sheikha you'll be able to recall. 
+
+
+## 
+1:18:10
+There's a section which says that during the year itself, in case of companies under liquidation, you can file your turn of income. Sir. That that's the problem in income tax return cannot be filed with 2020 to 23 Financial year returned. 
+
+1:18:23
+You cannot file in the 202.23. You have to wait for 223,24. Sir, in a company I am acting as a voluntary Liquidator now and the liquidation process has already been completed, but I could not file income tax return in 202.23. So I had to wait till the completion of the financial year liquidation either. the that we are facing, and I think others also probably facing similar. 
+
+1:18:58
+Irony is that even if you voluntary the better image in nclds four years all together, you might do your job in three months, but then, CL, they will take three years to decide. You are lucky that you could complete it in one year. I must say personally, sir, my problem. 
+
+
+## 
+1:19:12
+My problem is that I am unable to file the income I said I would like to say here that because income tax portal doesn't show the assessment here for 23,24, I know, but I recollect. I'm not sure if shika would be able to find it. 
+
+1:19:33
+There are other colleagues, also of mine, probably might have joined, but there is a provision which I mean I'm recollecting that there's, because this is something which was there earlier as well. 
+
+1:19:43
+Liquidations under IBC apart, they were earlier liquidations under companies act as well, for which there was a specific provision saying that the based on estimate basis the Liquidator May file the return of the year in which the liquidation gets completed, not wait for the assessment year. We always go by a trailing. 
+
+
+## 
+1:20:00
+Concepts are not available itself in which income for assessment Dr 2324 may also be added and that return may be filed accordingly to my recollection is a problem. I'll try to see if so much, but I recollect that there is a provision, sir, in case any estimation becomes wrong. suppose estimation says we calculated income as it says 10 lakhs and later on it discovered as a like 15 lakhs. Then what will happen? 
+
+1:20:39
+We would have completed the process now we how can the income change? Because we have done voluntary distribution. We would have distributed that thing also. Possibility of income changing thereafter is mostly not there. It's just a procedural issue that we will file in FY 2223 as if it was written filed for assessment 22,3 but includes the income of the running year as well. I mean I'm saying I'm distinctly recalling that there's a provision. 
+
+1:21:05
+But I'll try to trace that provision of law. But let's Maybe income tax returns due to because the portal does not allow me in that case. in my opinion, the Liquidator is not liable to file income tax return because IBC 238, what I understand 238 overwrites the income tax return in this case that Income Tax Act in that. In this case, therefore, in my opinion, Liquidator is not required to file income tax return. 
+
+
+## 
+1:21:47
+I don't know practically. When you take the matter to nclt and file for dissolution, then CLD will ask you: have you filed returns of income? Have you paid off all your liabilities? Clearly says that section 238 overrides. But when you take for dissolution, I think the ncld will quite often ask you. 
+
+1:22:13
+They'll specifically ask you to notify the tax department once again, even though you might have given notice department has already been notified, because when we start income liquidation, send a letter to them, but they are they don't respond generally correct now. But earlier the initialities were asking for a no objection certificate also, but now because of ibbi having interfered and that BBC, that is no need to obtain the loc of the tax department. 
+
+1:22:40
+The ncles are not asking for NOC, but the nclt will ask you to affirm that you have complied with all your obligations under Income Tax Act. That's my thinking. Others might probably have a different view, but if you, when you go to NCD, they'll ask you to do a confirmation that you have complied with all the obligations and Income Tax Act. but if anybody else has different experience, you could publish here. 
+
+
+## 
+1:23:06
+Thank you, sir, or anybody else who is experience. So this is can't hear you, sir, if you can. Yeah, foreign. Yeah, I think some people are saying that NOC is not required. I'm completely with you that IBB has now put up a circular that NOC is not correct. Absolutely, NOC is not required. When you go for resolution application. 
+
+1:24:08
+I don't know which nclt are you actually facing, but my limited experience is that nclt is asked you to give an affirmation that you've complied with all the obligations of income tax, including return of income also. So but that's where we leave it. Maybe experience of different anxieties might be different. Maybe you can briefly talk about the GCS going guns on sale. This is another interesting area. 
+
+1:24:41
+We found that the previous year settings are pending okay in CRP or liquidation whether? Oh well, my answer would be yes. I don't know whether you would hate me saying that, but if there are some pending compliances and you come to know that there are pending compliances, you should take the effort, do effort to comply with this. But you see that it was not to say that it was not my button. 
+
+
+## 
+1:25:12
+It was burden of earlier management to say that it was their responsibility. If there are some pending compliances, I think logic demands that we need to complete them pending so what I wouldn't be able to deal with PF returns in this particular session. That's beyond me. but as regards tax returns. But I think saying books of accounts are not in a place we I mean we're talking about very difficult situations here. 
+
+1:25:56
+But to the extent, let me I mean modify myself as by saying that to the extent possible, under given circumstances, only the bank statements we can, the public records, comply with the provision. During our accountancy course we used to have a topic on this. Also preparing financial statements from incomplete records. 
+
+1:26:23
+Yeah, I think we should try to use all our I mean the intelligent intelligence, yeah all our intellectual resources, basically that we need to make the entity compliant. If you keep it non compliant somewhere or the other, it would hit us. I think my submission is that non pending non compliances, no matter whose at some stage will hit you. yes, some say there will be the implication coming on you. 
+
+
+## 
+1:26:49
+There might probably be some notices, some penalty, some something. So instead of facing embarrassment if we try to complete spending non compliances, that I think that was my submission. I know that under circumstances sometimes it may not be possible, but to the extent possible I would suggest we do it. Vikramji would like to say something. 
+
+1:27:11
+So if you permit me, I will just share a quick you know experience in this regard, because in one of my assignments three years books of accounts were not complete. I'll see what the COC was insisting that the cost for maintaining the books of accounts for the prior period prior to cirp is the cost of the promoters, and COC will not bear the cost. 
+
+1:27:31
+So ultimately I filed an application in the nclt came a very clear direction that COC cannot say that the cost has to be won by the promoters. The COC will have to bear the cost and the RP will have to maintain the books of accounts, complete all the compliances up to the CRP date. So this point is very, very clear that all pending compliances has to be done by the RP. 
+
+
+## 
+1:27:57
+Thank you for making us wiser on this. I know we are wiser and sorry, unfortunately, sir, the tales of being an intellectual but the Pains of being an insolvency professional are never ending. I think they are all together in the pain he's only increasing only sex the going concentration. That's very interesting topic, because here we're talking about saying that we are transferring. The Entity itself. in CRP as well. 
+
+1:28:33
+There's a transform of entity, but here we're seeing a transferring, a going concern as a part of liquidation in CRP. What happens if there is a transfer of entity? The liabilities as provided by the resolution plan? The liability is also travel to the acquirer. The acquirer settles the liabilities in the manner, of course, provided by resolution plan, but in a going concern still. 
+
+1:28:57
+The uniqueness is that all liabilities would have already become claims against liquidation estate and the transfer of the entity is done completely clean and a completely clean better. That would be no liabilities. A company, the transfer of assets, because your it's a manner of sin as you sell assets. You are selling assets free of liabilities. 
+
+
+## 
+1:29:18
+Therefore in a GCS sale also trying the trying to sell the undertaking free from all existing liabilities, which also means free from all existing tax libraries. So if there are existing tax liabilities or whatever other liabilities in coincidence, those liabilities become claim and they are settled in terms of priorities of section 53 and that part is clearly understood. 
+
+1:29:41
+Now some acquirers of undertakings under a going concern sale have went have gone to nclt's differentialities: nclt Hyderabad, nclt Mumbai and there are some very interesting rulings of some nclts, particularly the nclt ruling in Mumbai nclt in case of top Works, top work pipes and tunes limited. The citation is there on screen. There's a more recent Tooling in the case of Sterling biotech. 
+
+1:30:11
+These rulings have gone to say that a GCS sale is similar to a sale during CRP and therefore all the benefits which are eligible under CRP will be will be available in case of a going concern sale as well, which goes to actually say that if there is a benefit of carry forward of losses, that will also be available to an acquirer under a GCSE. 
+
+
+## 
+1:30:36
+Now, while this might be little conflicting, because on one hand we say that a sale in liquidation is free from all liabilities, it's almost like I mean new Avatar or New Birth to. The Entity. It's a completely new Avatar and New Birth through the entity which is actually getting a resurrection in in the hands of the acquirer. The acquirer is buying the entity from Liquidator. acquire is not acquiring. 
+
+1:31:02
+The undertaking itself is buying the undertaking from the Liquidator, and therefore it's hard to think as to how the benefits of tax holidays or the benefits of carry forward of losses can be continued. But some anxieties have even gone to say that even at tax holiday which was applicable to. 
+
+1:31:20
+The Entity before liquidation, some are going to go to the extent of saying that appropriate tax reliefs, for example benefit of carry forward, etcetera, also must be available. However, the ncrts have gone also to say that the SSC must approach the tax authorities to Avail such release is going to say that this is not my domain. I cannot help it. You must approach the tax authorities for appropriate release. 
+
+
+## 
+1:31:49
+Sure enough I'm sure the tax Liberties will not be forthcoming. tax authorities will go as per explicit provisions of law. In section 79 there is an explanation provision in the law for gcsl. There is no provision of flow at all, because section 79 is explicitly talking about CRP and therefore there is no explicit provision at all. Therefore, these rulings of nclts, to what extent will they help? I do not know. 
+
+1:32:15
+But there are increasing number of rulings now saying that and GCS sale is akin to a sale in CRP. So that's the position about CRP transfers. We also would like to now discuss the right back of liabilities which is and we before we come to Quality liquidation. So one small point on the GCS sale. Yes, yes, is it possible to you know, give a kind of a plan under the GCS cell as in CRP? 
+
+1:32:47
+To my mind. I think question of plan does not arise here, because it's a sale by liquidator. GCS sale is one of the ways of selling assets, but if they acquire one certain kind of release, how would you obtain those release? 
+
+
+## 
+1:33:01
+Aquarians are making applications through NCL, like I mentioned in cities are giving some release also actually it's I mean to best of my understanding, it's an application filed by the Liquidator, where the acquirer is also becomes a party and the two of them go to nclt and sometimes LCDs have been very generous. One can see the ruling of ncld Mumbai in top words and the more recent rule against Sterling biotech. 
+
+1:33:30
+I'm sure there are other rulings also that I may not be aware of, but the ncertainties have been quite liberal in granting several reliefs. can my reliefs be as a condition to my acquiring as a gcsl, but then the supposing that's really does not Grant the relief. So then the sale becomes contingent. The sale fails. So my basic point is that whatever release I want, can I give those reliefs in writing to the Liquidator? 
+
+1:33:58
+And can those reliefs be a part of the application of the Liquidator to the nclt? Now, if the NC doesn't allow those reliefs, then again you know I'm into a different situation altogether. Right. Liquid data does not put a condition that XYZ release will be available to the bank. Liquid data says I am selling as is, whereas whatever is Basis. This is what I have and this is what I'm transferring. 
+
+
+## 
+1:34:37
+So if we agree to terms and conditions of the sale as per the auction put up by the Liquidator, the buyer agrees with the buyer. Therefore bits for the auction. The buyer succeeds. Once the buyer has succeeded under the auction, it is not open for him to put conditions and say that I would buy it only if the following things are done, because the very process of an auction will be vitiated. 
+
+1:34:59
+If the auction buyer puts condition, there's nothing called conditional bid in an auction. In ambition you can appreciate that in auction is a public sale you're selling through public at large right. Whoever wants to bid can build an auction. Therefore the terms and conditions are open to everyone. no bidder can come and put his own condition because those one are part of the conditions set by the seller in the auction. 
+
+1:35:23
+So to mind the question of putting in the conditionalities in a GCS sale. My perception is: yeah, would like to add a baby, please. Yes, sir, so number one. There cannot be a conditional bid. Yes, of course, but once the bid succeeds, then the success successful bidder can always approach nclt with the help of Liquidator to seek such reliefs. 
+
+
+## 
+1:35:52
+But then again, as we saw in various rulings, even if pencilities are granting reliefs, those are subject to, you know, approvals of competent authorities. So that again that again does not help the successful bitter much. but yes, you know that stamp from the ncit saying that you know the principles of resolution should squarely apply to GCS sales, that those might be certain brownie points to take before the tax authorities. Just that point. 
+
+1:36:21
+So you know, if you permit me, a related question to this point is suppose in cirp I as a resolution applicant, I'm a successful resolution applicant and I seek certain reliefs. Now the order it says you go to the appropriate authorities and seek the release and then Court doesn't grant me those reliefs. So the problem is as a successful array, what is the records available to me now if the department will not give any relief? 
+
+1:36:51
+You know if I go to the Department everything by now. this is the we see several matters where the nclts or ncl80 has increased the amount payable by the registry applicant. I mean I think one can talk about Jet Airways as a famous case where the nclity required the resolution applicant to increase the amount payable itself. I guess better is probably Supreme Court edge of now, but I'm not too sure on that. 
+
+
+## 
+1:37:19
+But the fact that the resolution plan typically says that the resolution applicant adheres to the jurisdiction of the ncld or ncert and therefore whatever orders are given by nclt will be binding on it. I think there probably one would say, but there was really sprayed, for the release were not granted and the array cannot back out saying that because the rates are not granted. therefore my bid is canceled. Now I don't know whether that so. 
+
+1:37:48
+Basically this is adding a lot of uncertainty to the whole process, because the tax liabilities are so humongous and if the department don't give any relief, nclt is also not giving reliefs. So actually, SRA, you know, gets stuck with an approval of the plan, a resolution plan. 
+
+1:38:06
+Well, section 79 is very clear and therefore there is a continuation of tax benefits in a GCS sale, whether the tax liabilities or tax benefits of the undertaking will be available to a buyer. I have grave doubts because section 70 then very clearly does not talk about GCS sale. Ncld saying that the technology is may consider taxes. I think that's wishful thinking. So that is like simply giving a sense of feel good. 
+
+
+## 
+1:38:40
+You can probably feel good. you can probably process with the tax department, but nothing is going to come out of it. In my view, and I think it also seems little logical because this is sale. We're saying there is a sale of an undertaking free from all the past burdens and all the past benefits. So therefore that's my view. Yes, sir, in case of GCS, whether GHP and cam Duty would also be applicable. 
+
+1:39:10
+Sale of undertaking dashes by undertaking the undertaking itself. There is no question of transfer of. There's no question of transfer of assets. It's like sale of a company. Right, if it's a sale of a company, there's no question. My perception once again: there's no question of GST if there's no going concern anyways exempt from GST. Okay, GST law has a exemption CG estate as an exemption. I think it's yeah part of cgs6 itself. 
+
+1:39:39
+The schedule itself has a clear exemption for transfer of a going concern under GST law. Definition of going concern under GST law is a little different. There have been several rulings on what is the going concern sale. But if something qualifies a dcscla liquidation, I am almost sure it will qualify as a going concerned GST laws. So GST. I think the better is resolved by the explicit provisions of the GST law itself. 
+
+
+## 
+1:40:07
+As for stamp Duty stamp Duty, stress is stable. On transfer of undertaking. I'm sorry, transfer of transfer of property conveys. The problem is mostly applicable on inconvenience. So the question would therefore be: if you are transferring in rafter, you are taking itself. does it amount to at sale of an undertake, a sale of a conveyance, now if you apply the principles in unseated by courts? 
+
+1:40:36
+In the matter of Hindustan Unilever, limited before that, Pharmaceuticals, Etc, which are all matters dealing with amalgamation, courts have taken a view that even a consensual transfer of a going concern Also may be liable to stamp Duty. But here I think one could normally take normally the principle of stabilities. 
+
+1:41:00
+The stability is stable by the buyer should probably write in the sale read that if at all stabilities people, it will be the liability of the buyer. Okay, thank you, sir. to my understanding, I mean unless you're transferring a mobile property. People are not adhering to stamp because you don't need to register a transfer of an immobile address and sale. 
+
+
+## 
+1:41:24
+So people are not going ahead and subjecting themselves to stamp Duty implication because tablet itself will be used. Yes, thank you. What about liabilities? So, sir, all libraries become cleans. There's no question of reliability is going to the buyer. Will liabilities have become claims under liquidation estate and those are settled in terms of section 53. There's no question of the buyer being asked to settle the liabilities. Any cellular liquidation is free from liabilities. 
+
+1:42:01
+That is the basic principle, sir, in transfer undergoing concern if there is a major portion is land and building. we will not write amount to be a what you can say stability how, what is device it's going concerned. If all that is there in the day is merely a bunch of assets, then the question will be: is it a going concern at all? Going concern means the concern must be going. 
+
+1:42:30
+That would mean it must be a running business. I think recently only there were some dueling defining what is it going concern? What is the going concern? There must be evidence that the undertaking is still alive. It's not dead, which means see, in CRP there is a presumption that the undertaking is going. That's all meaning of CRP. The undertaking can be revived the moment the undertaking slips into liquidation. By definition it seizes to be going. 
+
+
+## 
+1:42:56
+It becomes a god concern. But Liquidator, if it realizes that the undertaking is going and that the value will be maximized by transferring the retaking is the going concern, then he may make new efforts to keep the undertaking as going concerned so it has to be, I would say, established by the Liquidator that there was activity going on, that the undertaking was preserved, as they're going concern with the view to maximize value realization, and it's because of that what was transferred was not merely a bunch of assets. 
+
+1:43:29
+But was it going that sir, sir, you see, it is simply transfer of shares. I have sold, sold the one corporate debtor as a going concern under liquidation. I just issued access to the buyer and extinguished, extinguished all the present shares. in this way, I have done the liquidation of the company by selling as a coincidence. So when Shares are transferred. Then, sir, where is the question of stamp Duty? Let me just finish. 
+
+1:44:14
+We're not going for registration of transfer of any asset or property. Question of stability comes when you go for resistance registration of a conveyance. We are not doing that here. Therefore, there is no question. Usually there shouldn't be a question of stem Duty, though, Mr Jenna, your practice of is showing or alerting or transferring shares. That's something that I am unable to comment as of now. 
+
+
+## 
+1:44:36
+But well, since it's a case of transfer of undertaking, the normal process would be that the buyer should be able to convert the value that he pays for acquisition of undertaking into shares or liability as per the choice of the bad, whether the amount that it pays is share Capital. The amount that he pays is debt, like in case of resolution plans. Partially it comes by your shares. Partly it comes away of debt. 
+
+1:45:00
+Also, so that option should be available to the buyer of the concern. But your point about issue of shares in consideration of the money that the buyer pays, that is still one of the possible ways. There was somebody else. Mr Manish Jane has been sent. 
+
+1:45:20
+Yes, sir, my question is, it is usually written there in the auction document and in that case, who have said that in this case liability would also have to be transferred to the trend study because the talking questions written in that energy Square basics. If we if we think of a GCS sale in liquidation resulting into shifting of liabilities as well, then section 53 will lose its meaning altogether. 
+
+
+## 
+1:46:11
+Let's not forget that GCS sale is after all sale as a part of liquid. It's a manner of sale mode of selling assets. It comes under the provision of fear, comes under provision of liquidation regulation which deals with sale of assets. Assets can be sold by Liquidator in various ways, including GCSE. So GCS cell is nothing but a sale of assets by the liquidator. 
+
+1:46:34
+If assets are being sold by Liquidator, question of liability is going to buyer does not arise because the buyer has to pay for the liabilities, then section 53 loses this meaning then the then the liability holder has a full priority against the buyer. So the whole concept of section 53 will lose its meaning. In my perception, in that case undertaking one is Basics right. This is means that along with its assets and liabilities also. 
+
+1:47:13
+So that is when at the first impression, that's the impression anyone gets that after all the undertaking itself is going. The libraries will also go like in case of amalgamation book. Yeah, in case of amalgamation, what goes? Assets and liabilities. Both undertaking gets transferred slump still, for example, undertaking along with liabilities. GCS is a unique case where transfer of assets goes. undertaking goes assets go but no liabilities become claims that should be clear. 
+
+
+## 
+1:47:39
+I think during students on a GCS sale is still developing. Rulings are still coming before courts. Matters also before it will be written in the auction document that sale of assets foreign but in case of amalgamation also. 
+
+1:48:13
+For long time people were not paying stamp Duty years back until the rulings of Bombay I got first and then Supreme Court came that even a transfer of Assets in a scheme of amalgamation is also liable to stamp Duty. So maybe at some point of time in future the question of stamp Duty on a GCS sale and liquidation May once again be ripped up. 
+
+1:48:35
+But as a liquidator, you are probably trying to get relief by stating in your sale Deeds that stamp Duty as in when applicable or if at all applicable, along with attendant interest or penalties or whatever shall be the duty of, shall be the liability of the buyer, the promising well, if it is there let the buyer pay if there are any license, and permission will also be transferred to the buyer. 
+
+
+## 
+1:49:07
+That's the whole purpose of a GCS sale, with the whole purpose of GCS sale, as opposed to slum sale is Preservation of contractual rights, of this proper data. Very often the value of a business comes from contractual rights, for example a concession agreement, the license agreement, the lease agreement, any kind of an entitlement. so the whole purpose of a GCS sale is that we are not destroying those soft contractual assets. 
+
+1:49:37
+So to my mind that's the whole purpose and as you're writing in the sale deed along with contracts, intangible assets, Etc. I think one would very clearly Define what is it that you're trying to transfer in GCSE. But my view is that all contractual entitlements, all licenses or contractual entitlements will be preserved in a GCSE. That's all entertainment. We have had a substantial interest from participants. You'll be the final person of this. 
+
+1:50:09
+One of the questions now see under resolution process. Also, there are different units sale available to the RP. So if the company has a 10 different manufacturing unit, I can go and be after the sales fail for the 10 unit. the resolution professional puts up the unit wise sale our project YSL in a real estate company, suppose if I buy a unit under the CRP under the resolution process, so how the transfer will take place. 
+
+
+## 
+1:50:42
+Transfer will take place as a slum sale or as a going concern sale. It may be yeah, so called slum sale or BTA, or is a part of a resolution process and demerger how the things will move. Debugger is also possible now. The IBC will probably contain a provision for split resolution is also partial resolutions as well. 
+
+1:51:03
+That's one of the proposals may be in the forthcoming information amendments in the monsoon session will probably see a concept of a partial resolution without waiting for the entire business to be resolved. different units or different intakes may be resolved before the entire resolution takes place. But until that Amendment comes, it's definitely possible to do some sales. There's no doubt on that slum seal as a part of resolution process is called okay. 
+
+1:51:31
+But then what will the implication under the see? If I go for an entire company, I will get directly issue the shares. If I go for a partial sale or one of the unit cell, I will have to do slum sale in that all the stamp Duty and GST and or all this will come into picture. Stamp Duty will definitely come into picture if not GST in a BTN. 
+
+
+## 
+1:51:54
+Normally the implication is that of somebody GST is not there, because, like I mentioned, GST has an exemption. for a coincidence, however, would be applicable, and stability is the cost of the bias. Normally the buyer has to take care of it. Yeah, emerger is in your advising buyer. It is our cost. While it's possible, but that's not an appropriate remedy because in case of demerger the, the consideration will be payable to the shareholders. 
+
+1:52:26
+That's not our idea. Our idea is not to get the benefits transfer to shareholder ideas, to get the benefit in the company itself so that we can distribute to the creditors. So debugger mostly doesn't work in a CRP. You have seen okay, right. so moving back to the consequence of right back up. 
+
+1:52:45
+This is a very important point and while in section 115 jba or JB there is a Amendment specifically, but in terms of section 41 and in terms of section 28 by 4, there is still not enough clarity. Now there is a right back of Life. There is a what you call haircut or right back of liability. That's invariably part of every resolution. We write back liabilities. 
+
+
+## 
+1:53:08
+We write back the liabilities to financial filters in the context of financial creditors. It's possible to say that the right back of liabilities is not taxable in terms of section 41, because section 41 talks about a trading liability. what can see the word uses in respect of it reading liability, the simple meaning of trading liabilities which were claimed as expensive in the past, liabilities which might have resulted from claiming an expense in the past. 
+
+1:53:40
+Now, sure enough, the borrowings in case of working Capital Loans it's still possible to argue that the borrowing also was at some sales claim their expense, but it's not the Boron which is claimed as an expense. It's an expense which leads to utilization of working capital. There's a difference between claiming the expense and expense and funding the expense by using working capital. 
+
+1:54:01
+So it might be possible to argue that as far as the haircuts to FC's Financial craters are concerned, they are not hit by section 41, as section 41 talks about only a right back of a trading Library, but when it comes to right back of operational creditors, that's a huge amount of which invariably Gets a Haircut in resolution process there it seems that one cannot Escape. 
+
+
+## 
+1:54:29
+Section 41, which is very clearly applicable here or at section 41, does not apply then, by a stretch of argument, even section 28 by 4, which talks about value of any benefit per widget Etc are rising from business or profession that also may be brought in. But I think specifically section 41 might still remain applicable. so as there is no exception under Section 41 towards CRP. 
+
+1:54:58
+The issue basically would be that if at all the tax officer intends to tax the right back of liabilities as an incover the section 41, then the only benefit that we have is the benefit of set off and carry forward. 
+
+1:55:12
+So it's very important and I disappointed I made earlier as well that it's very important to ensure that we have a continued filing of returns of taxes, because if the tons of taxes have not been filed, then the benefit of carry forward and set off will be lost. It might be lost forever. So it would be important to ensure that there is a carry forward benefit. 
+
+
+## 
+1:55:31
+The resolution applicant would try to ensure that there is a valid carry forward right available, because they may very surely be a question of right back of liabilities. In terms of section 41. I'm aware that some resolution applicants are using another device for avoiding section 41 applicability by saying that the liabilities will first be converted to Capital and then they will be reduced by way of production of capital under the same scheme. 
+
+1:56:02
+That is instantly the liabilities become part of share capital and the share Capital automatically gets reduced so that there is no filing required for allotment of shares or for reduction of capital as well. I do not actually understand as to why, as to how this argument of issuing shares to operational creators and writing them off how will that be actually helping? 
+
+1:56:24
+Because it's for it's for sure that it results into a right back of liability, and logically, these were the very libraries which in the past might have been claimed as expenses. So the expenses were claimed in the past. The expenses were not probably fully set off. 
+
+
+## 
+1:56:38
+They're continuing as income as, let's say, continuing as losses, and therefore, appropriately, the acquirer should be aiming that claiming the set of past losses to neutralize any tax liability and account of section 41. So I think that is the only way one can escape any unpleasant sex consequence of a right back of official status. 
+
+1:57:05
+The last point that we have today and I'm aware that we only have exhausted the two hour time that was given to us is the procedural part, section 150 JB. By the way, she has very clearly brought us some section 150 JB, that's the tax on Alternative Minimum alternative tax. And there again, as we write back the library, there might be a credit entering the period of account. 
+
+1:57:28
+You might get a credit entry period of account because you're writing the writing back the liabilities. They are explicitly. Amendment was brought to say that while you're writing back the liabilities, the eligibility to claim the benefit of pass set of past losses will be available by virtue of the specific insertion of Roman 2H in section 115 JB. 
+
+
+## 
+1:57:53
+So this is this part is anyway coming clear that while the right back of liability will not be leading to a benefit, will not be leading to tax on account of book profits, because you can then Avail the password pass brought forward losses. That point has been made clear by 115 JB, but there is no corresponding change in section 41. Now moving to the procedural part of filing of returns of income, Etc. 
+
+1:58:21
+This is at the last procedural part. We can very quickly go through that voluntary liquidation. I guess there are no separate specific issues. Source is applicable TDS or TCS as an IP. We need to still comply with the same. we need to file returns of income because we are now treated as the authorized signatory and the obligation of filing the terms of income is on the IP. 
+
+1:58:54
+All obligations for filing returns and time would still be there. As far as tax audit requirement tax audit requirement is concerned, I think in case of liquidation one can argue that there is no business being carried forward now because the business has stopped. So one might argue that exponent is not applicable. But during crfp even that obligation still continues. So all procedural tax compliances will be application will be applicable. 
+
+
+## 
+1:59:25
+As everyone is aware, section 178 requires the Liquidator to provide notice to tax authorities within three months of initiation of liquidation, and I think that's about it when it comes to the procedural part. I think with this let's maybe open up for any remaining questions from participants, but you all have been so very interactive all through and it's been really very interesting to interact with all of you. But whatever pending questions and management whichever order. 
+
+2:00:04
+Yeah, maybe this is yes actually, but I was reading once assignment regarding Oriental equation, where I have intimated authorities regarding commencement and appointment of Liquidator. However, the income tax Authority has initiated the assessment and TB proceedings before initiation of liquidation. So we have intimated authorities and to requested several times to either to conclude the proceedings forward to give their claims or queries with us. 
+
+2:00:34
+However, we still the period of liquidation has been concluded but still be not. We did not receive any kind of correspondence from it. so I have a question whether I need to obtain can you see from Department regarding the proceeding status still going on and if, because I only left with the repetition of funds and density partitioning. So once the proceedings will be concluded, I can proceed with the repatriation and safety partition. 
+
+
+## 
+2:01:02
+But due to the proceedings, I have to continue the foreign months. This is something that I think everyone who is handling voluntary liquidation will probably be facing. There are some pending tax refunds. Assuming the corporate letter has some pending tax refunds take long, long time to come pending appeals spending the funds spending assessment proceeding this. That's a pain in life. You can't help it. 
+
+2:01:31
+So until the proceedings are completed and the refunds or demands are completed. To my mind, even if you file liquidation dissolution application if the ncld will still ask you to ensure that all proceedings are completed. This is more so in case of pending refund, because their refund might take long time. It might take years to come. 
+
+2:02:01
+Change of the tax officer to see its ibbi cannot help it that GLD can either help, so basically your effective company, something during liquidation. If we go for the restructuring under Section 230 and 232, like a reverse merger or merger, what will be the tax aspect just as well. During liquidation you go for Section to third. 
+
+
+## 
+2:02:46
+However, the tax implications of a merger reverse margin will still be the same as in case of any other valuation. so the provisions of section 72 a read with the definitions of amalgamation or demerger will equally be applicable during liquidation as well. There is no separate this provision dealing with either an amalgamation during CRP or amalgamation as a part of liquidation process. For that mattered demonstration. 
+
+2:03:20
+So same Provisions will be applicable that would be rid of before and set off will be available to the transferring entity only if debunked 72 by 4 one. I have one question: if I have not received the password for the income test for return or that's a corporate debtor in CRP, how do I generate that? Is there any solution to this? Returns? Sorry, I think Chartered Accountants and practice might be able to help. 
+
+2:04:06
+Probably sorry, I don't think we face this issues. I may not have an answer because we have faces from. This is the only problem we are not faced. There are people who have answers and I find that as I made some professional mobile TDS returns after that can be filed after. Thank you, thank you very much for helping us out. I think it's time for us to conclude and the refer back to ICC IPA. 
+
+
+## 
+2:04:55
+For the concluding, my side and I'm sure my colleague shikha will also say the same thing that we have today: 250 participants continuing for last two hours, and that's remarkable think. Thank you very much for so very kindly generously join us today for this very complicated topic. I'm wondering to what extent we've been able to help you, but it was an interesting deliberation for both of us. 
+
+2:05:22
+He emerged a lot articulated, lot, benefited by your interactions, and I will share the same with the participants, and we don't have any information like this. Thank you very much. I please don't have all the participants for joining us and being so active for the last two hours. 
+
+2:06:00
+As said, like almost more than 250 participants were active throughout the session, which rarely happens, and the participation was also quite a lot and sir and shikha, thank you very much for joining us and for taking up this session. I'm sure it was very helpful. 
+
+
+## 
+2:06:25
+All the participants have had great Insight through this session and it's a very complicated topic and I'm sure it wasn't easy to sum it up or all into us, but I'm sure the participants have learned a lot and, as always, it's been a great pleasure having you with us. Thank you so much, sir. thank you, so much, thank you, so much, thank you, thank you. 

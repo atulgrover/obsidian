@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar - insolvency_applicants</title>
+        <description>Digital Agents for IBC Processes</description>
+        <link>https://resolutionbazaar.com/</link>
+        <image rdf:resource="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-04-07T03:05:15+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=insolvency_applicants:agents_for_applicants&amp;rev=1743928346&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://resolutionbazaar.com/</link>
+        <url>https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=insolvency_applicants:agents_for_applicants&amp;rev=1743928346&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T08:32:26+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>agents_for_applicants</title>
+        <link>https://resolutionbazaar.com/doku.php?id=insolvency_applicants:agents_for_applicants&amp;rev=1743928346&amp;do=diff</link>
+        <description>Agents for Applicants
+
+IBC APPLICANTS - Insolvency applicants initiate CIRP by filing an application with the National Company Law Tribunal (NCLT). They can be financial creditors, operational creditors, or even corporate debtors themselves seeking resolution of their financial distress.</description>
+    </item>
+</rdf:RDF>

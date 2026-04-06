@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar - claimants:claim_forms:resolution_process</title>
+        <description>Digital Agents for IBC Processes</description>
+        <link>https://resolutionbazaar.com/</link>
+        <image rdf:resource="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-04-17T06:53:58+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_b&amp;rev=1743925785&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_c&amp;rev=1743925819&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_ca&amp;rev=1743880371&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_d&amp;rev=1743925876&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_e&amp;rev=1743925920&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_f&amp;rev=1743925958&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://resolutionbazaar.com/</link>
+        <url>https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_b&amp;rev=1743925785&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T07:49:45+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_b</title>
+        <link>https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_b&amp;rev=1743925785&amp;do=diff</link>
+        <description>Resolution Process Form B - Proof of Claim by Operational Creditors except Workers &amp; Employees</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_c&amp;rev=1743925819&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T07:50:19+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_c</title>
+        <link>https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_c&amp;rev=1743925819&amp;do=diff</link>
+        <description>Resolution Process Form C - Proof of Claims by Financial Creditors</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_ca&amp;rev=1743880371&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-05T19:12:51+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_ca</title>
+        <link>https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_ca&amp;rev=1743880371&amp;do=diff</link>
+        <description>Resolution Process Form CA</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_d&amp;rev=1743925876&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T07:51:16+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_d</title>
+        <link>https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_d&amp;rev=1743925876&amp;do=diff</link>
+        <description>Resolution Process Form D - Proof of Claim by Workmen or Employees</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_e&amp;rev=1743925920&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T07:52:00+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_e</title>
+        <link>https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_e&amp;rev=1743925920&amp;do=diff</link>
+        <description>Resolution Process Form E - Proof of Claim by Authorised Representative of Workman or Employee</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_f&amp;rev=1743925958&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-06T07:52:38+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_f</title>
+        <link>https://resolutionbazaar.com/doku.php?id=claimants:claim_forms:resolution_process:cirp_form_f&amp;rev=1743925958&amp;do=diff</link>
+        <description>Resolution Process Form F - Proof of Claim by Creditors other than Financial/Operational Creditors</description>
+    </item>
+</rdf:RDF>

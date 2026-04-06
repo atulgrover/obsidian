@@ -1,0 +1,56 @@
+.plugin__filelisting {
+
+    .plugin__filelisting_capiton {
+        border: 1px solid @ini_border;
+        margin-bottom: -1px; //fixed border
+        span {
+            font-weight: bold;
+        }
+    }
+
+    .plugin__filelisting_footer {
+        padding: .3em .5em;
+        border: 1px solid @ini_border;
+
+        //margin for delete button
+        button {
+            margin-right: 2em;
+        }
+    }
+
+    .plugin__filelisting_content {
+
+        .plugin__filelisting_headertable {
+            padding-right: 15px;
+        }
+        .plugin__filelisting_bodytable {
+            display: block;
+            max-height: 200px;
+            overflow-y: scroll;
+
+            //checkbox cell
+            td:first-child {
+                padding: 4px;
+            }
+
+            //icon cells
+            td.plugin__filelisting_cell_icon {
+                padding: 4px;
+
+                //directory icons styling
+                svg {
+                    fill: @ini_text;
+                    vertical-align: middle;
+                    text-align:center;
+                }
+            }
+        }
+
+        table {
+            width: 100%;
+            //reset default dokuwiki margin
+            margin: 0;
+            table-layout: fixed;
+        }
+    }
+}

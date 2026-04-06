@@ -1,0 +1,392 @@
+<html>
+<p>
+	<div>
+		<h1>
+			Whether Section 10A of IBC has a Retrospective applicability and Retroactive Effect &ndash; M/S. Siemens Gamesa Renewable Power Pvt. Ltd. Vs. Ramesh Kymal &ndash; NCLT Chennai
+		</h1>
+		<div>
+			July 26, 2020
+		</div>
+		<p>
+			NCLT held that the Executive in the Promulgation of the Ordinance to meet an extra-ordinary situation and to avoid causing further stress to the already beleaguered businesses due to the prevalence of COVID pandemics throughout the world, including India and also in addition affected by the lock down enforced by the Union as well as the States of the Union, all beyond their control have chosen to suspend filing of any application in relation to defaults arising on or after 25.03.2020 under Section 7, 9 and 10 of Code for a period of six months extendable by a further period not exceeding one year as per the main provision of Section 10A newly inserted and further by virtue of proviso thereunder to the main provision of Section 10A has further qualified the main proviso that in relation to default arising on or after 25.03.2020 (incidentally the date on which the lock down came into force) and during the said period to be correlated with the main provision of Section 10A which for the time being is specified as six months extendable up to a year, no application shall ever be filed thereby both the main provision as well as the proviso making it amply clear that the suspension in filing the application in relation to defaults arising on or after 25.03.2020 is to be made applicable retrospectively from the said date. The Explanation given under Section 10A only reinforces the retrospectivity in the applicability of Section 10A in as much as providing that the defaults which had occurred prior to the date of 25.03.2020.
+		</p>
+	</div>
+</p>
+<div>
+	<div>
+		<div>
+			<p>
+				<div>
+					<div>
+						<p>
+							<strong>
+								I. Case Reference
+							</strong>
+						</p>
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										Case Citation
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										[2020]  52 NCLT
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Case Name
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										M/s. Siemens Gamesa Renewable Power Pvt. Ltd. Vs. Ramesh Kymal
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Applicant
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										M/s. Siemens Gamesa Renewable Power Pvt. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Respondent
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Ramesh Kymal
+									</td>
+								</tr>
+								<tr>
+									<td>
+										C.P. No.
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										IA/395/2020 in IBA/215/2020
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Order Date
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										09-Jul-20
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Court/Bench
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										NCLT Chennai Bench
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Act
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Insolvency &amp; Bankruptcy Code 2016
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Present for Appellant
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Mr. Gopal Jain, Senior Advocate, For Samudra Sarangi, Law Offices of Panang &amp; Babu
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Present for Respondents&nbsp;
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Mr. Arvindh Pandian, Senior Advocate, For Jeevanandharn Rajagopal, S. Aravindan &amp; Varsha Raghavan, Advocates, Fox Mandal &amp; Associates
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Judicial)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										R. Varadharajan
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Technical)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Anil Kumar B
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Case Status
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Upheld this judgment by NCLAT-
+										<strong>
+											&nbsp;(2020)  306 NCLAT
+										</strong>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<p>
+							<strong>
+								II. Brief about the decision
+							</strong>
+						</p>
+						<p>
+							<em>
+								<strong>
+									Facts of the Case
+								</strong>
+							</em>
+						</p>
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										Claim amount
+									</td>
+									<td>
+										Rs. 104.11 crore
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Date of Claim made by Operational Creditor [Form 5 filing date]
+									</td>
+									<td>
+										11.05.2020
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Date of default as per the Form 5
+									</td>
+									<td>
+										30.04.2020
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Date of IBC Amendment Ordinance, 2020 (Sec. 10A)
+									</td>
+									<td>
+										05.06.2020
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Cut off date of default as per the Ordinance
+									</td>
+									<td>
+										25.03.2020
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<p>
+							While the proceedings are pending before the NCLT in relation to the main Company Petition in IBA/215/2020 filed under Section 9 of the Code by the Operational Creditor, namely Mr. Ramesh Kymal against the Corporate Debtor, namely M/S. Siemens Gamesa Renewable Power Pvt. Ltd., this Application in the interregnum has been moved by the Corporate Debtor (referred to hereinafter as &ldquo;the Applicant&rdquo;) provoked by the Promulgation of the IBC (Amendment) Ordinance, 2020.
+						</p>
+						<p>
+							In last hearing on between 26.05.2020 and the next date of hearing&nbsp;fixed thereafter, namely, 15.062020 the Executive of the&nbsp;Union of India chose to promulgate the Ordinance (No.9 of&nbsp;2020) inserting inter alia Section 10A to Code published&nbsp;on 05.06.2020 which already seen in the opening paragraph&nbsp;of the instant order has provoked the Applicant/ Corporate&nbsp;Debtor to file this Application seeking for the main petition in&nbsp;IBA/215/2020 to be dealt with accordingly in terms of the&nbsp;newly inserted provision.
+						</p>
+						<p>
+							Thus, the question effectively posed before this Tribunal&nbsp;is as to whether the Ordinance (No.9 of 2020) will have&nbsp;applicability to the main petition in IBA/215/2020 or&nbsp;otherwise, taking into consideration the fact: and&nbsp;circumstances more fully delineated in the preceding&nbsp;paragraphs.
+						</p>
+						<p>
+							<em>
+								<strong>
+									Decision of the Tribunal
+								</strong>
+							</em>
+						</p>
+						<p>
+							Decision of the Tribunal is as under:
+						</p>
+						<p>
+							<strong>
+								I. Jurisdiction of the Tribunal
+							</strong>
+						</p>
+						<p>
+							NCLT held that this Tribunal is well aware that it cannot be considered&nbsp;as a &lsquo;Civil Court&rsquo;, leave alone a Constitutional Court which&nbsp;alone has the power to judicially review any legislation,&nbsp;irrespective of its nature and in the circumstances the&nbsp;contours are quite clear within which this Tribunal can&nbsp;traverse in relation to the interpretation of Section 10A newly&nbsp;inserted by virtue of the recently promulgated Ordinance with&nbsp;effect from 05.062020, however having a retrospective&nbsp;application which precisely seems to be the bone of&nbsp;contention as between the parties as to its scope as can be&nbsp;deduced from the submissions made ably by the Learned&nbsp;Senior Counsels for the respective parties and culled out as&nbsp;above.
+						</p>
+						<p>
+							<strong>
+								II. Nature of the Ordinance
+							</strong>
+						</p>
+						<p>
+							It is required to be&nbsp;noted which is of great relevance to the case on hand for&nbsp;interpreting the provisions of the Ordinance in relation to its&nbsp;applicability of the newly inserted Section 10A to Code is&nbsp;the compelling circumstance necessitating the Executive to&nbsp;take such immediate action to sub serve the interest of the&nbsp;public arising out of the inability of the Legislature (i.e. the&nbsp;Parliament) to make the law since its not being in session;&nbsp;however in order to meet an emergent situation. Thus the intendment of the Executive in the&nbsp;promulgation of the Ordinance has been explicitly spelt out in&nbsp;clear terms arising out of the prevalent pandemic and the&nbsp;extra ordinary situation it has created in not only seriously&nbsp;affecting the businesses as a whole by creating a stress and&nbsp;also additionally causing disruption due to nationwide lock&nbsp;down to the businesses all of which leading to likely defaults&nbsp;on the part of the corporate persons thereby enabling it to be&nbsp;taken under the relevant provisions of Section 7, 9 and 10 of&nbsp;I&amp;B Code as the case may be and with a view to prevent such&nbsp;a situation from happening and thereby pushing the&nbsp;businesses to the insolvency proceedings, having the said&nbsp;ps suspended for a period of six months in relation to&nbsp;defaults arising on or after 25th March 2020.
+						</p>
+						<p>
+							<strong>
+								I
+							</strong>
+							<strong>
+								II. Interpretation of the Section 10A
+							</strong>
+						</p>
+						<p>
+							The main provision it is seen, opens with a non-obstante&nbsp;clause thereby overriding the provisions of Section 7, 9 and&nbsp;10 initially for a period of six months with a saving for a&nbsp;further extension of the said period not exceeding one year&nbsp;from such date as may be notified in this behalf, in relation to&nbsp;filing of an application seeking for the initiation of CIRP of a&nbsp;corporate debtor in relation to default arising on or after 25th&nbsp;March 2020.
+						</p>
+						<p>
+							In the circumstances, a question arises as to what will happen to those cases where the date of default is anterior to the relevant date as specified in the main provision of Section 10A, namely 25.03.2020. This doubt is sought to be clarified by way of an Explanation provided at the foot of Section 10A itself stating that the provisions of Section 10A shall not apply to the defaults which had arisen in relation to a corporate debtor prior to the relevant date of 25.03.2020 and hence the creditors of such a corporate debtor or the corporate debtor as a corporate applicant are not restrained to move this Tribunal under the relevant provisions, as may be applicable, seeking for the initiation of CIRP under such circumstances as they are not prevented from doing it as compared to the bar which had been put up for the defaults committed on or after the relevant date of 25.03.2020.
+						</p>
+						<p>
+							While the main provision of Section 10A taken together&nbsp;with the Explanation makes it clear that a &lsquo;Lakshman Rekha&rsquo;,&nbsp;so to say, has been demarcated by providing the relevant date of 25.03.2020 in relation to a &lsquo;default&rsquo; and for filing an application for the initiation of CIRP against the corporate&nbsp;persons for the defaults occurring on or thereafter, however it&nbsp;must be noted that the Insolvency and Bankruptcy Code&nbsp;(Amendment) Ordinance,2020 (No.9 of 2020) inserting Section&nbsp;10A was in itself notified only on 05.06.2020 in the Gazette of&nbsp;India, even though, pegging the disability to file an application&nbsp;for initiation of CIRP to the defaults arising on or after 25th&nbsp;March 2020.
+						</p>
+						<p>
+							In the circumstances, a question arises as to what will&nbsp;happen to those cases which had been filed during the&nbsp;interregnum of the relevant date of 25.03.2020 and the date&nbsp;of promulgation of Ordinance (No.9 of 2020) i.e.05.06.2020 as&nbsp;in the present instance, as this Tribunal based on the Office&nbsp;Order/ Notification issued by the Competent Authority had&nbsp;been entertaining urgent applications, both under the&nbsp;provisions of the Companies Act, 2013 as well as under IB Code, 2016, one such application being the petition filed by&nbsp;the respondent herein seeking for listing of IBA215/2020 in&nbsp;order to obtain urgent orders.&nbsp;
+						</p>
+						<p>
+							The proviso to main provision of Section 10A&nbsp;makes it abundantly clear that the hands of the clock&nbsp;were not required to be temporarily frozen for a period of&nbsp;six months or such further period not exceeding one year&nbsp;but are required to be permanently interdicted in relation&nbsp;to defaults occurring on or after 25.03.2020 by the use of&nbsp;the term &lsquo;no application shall ever be filed&rsquo; for&nbsp;initiation of CIRP of a corporate debtor for the said&nbsp;default arising during the said period.
+						</p>
+						<p>
+							The main provision of Section 10A taken in&nbsp;tandem with the proviso thereunder seems to have given&nbsp;scope for differing interpretation as the main provision&nbsp;specifies a restricted period of suspension and uses the&nbsp;term &lsquo;shall be filed&rsquo; whereas the proviso specifies a&nbsp;permanent suspension by the usage of the term &lsquo;shall&nbsp;ever be filed&rsquo; as above noted. However, endeavour of the&nbsp;Ordinance in relation to the main provision seems to&nbsp;define the &lsquo;Lock Down&rsquo; period due to the prevalence of&nbsp;the pandemic, however, uncertain it may be, which came&nbsp;to be enforced on 25.03.2020 as stated in the objects&nbsp;and reasons and which explains the said date being&nbsp;specified as the relevant date for reckoning the exclusion&nbsp;of default. This period of lock down enforced, it must be&nbsp;noted is in itself uncertain as to how long it is going to be&nbsp;in vogue as its curtailment or extension depends upon&nbsp;the status on the ground for the arrest of the pandemic&nbsp;and seems to be also fluid in relation to individual States&nbsp;as well, thereby interrupting business activity for&nbsp;reasons beyond their control, the said term as used in&nbsp;the objects and reasons itself of Ordinance (No.9 of&nbsp;2020). Thus endeavoring to define the relevant period in&nbsp;the main proviso initially for a minimum fixed period of&nbsp;six months commencing from 25.03.2020, the main&nbsp;provision leaves it open to the Executive to either limit it&nbsp;to the six months period ending on 25.09.2020 or cause&nbsp;it to be extended for a further period not exceeding one&nbsp;year i.e. till 25.032021.
+						</p>
+						<p>
+							The proviso on the other hand to Section 10A&nbsp;is in recognition of the doctrine of frustration of a&nbsp;contract or obligation arising out of the pandemic&nbsp;coupled with the Lock Down enforced on and from&nbsp;which makes the performance under the&nbsp;agreement to do an act, namely pay the debt due of&nbsp;which default had arisen, not possible being the&nbsp;presumption of law made and in the circumstances, even&nbsp;though there is a default in terms of either Section 7 or&nbsp;Section 9 of the Code committed on the part of the&nbsp;Corporate Debtor, however should not be allowed to be&nbsp;the ground for the initiation of the CIRP upon filing Of an&nbsp;application forever by a creditor in relation to the period&nbsp;specified in the main provision of Section 10A.
+						</p>
+						<p>
+							Since each and every word used in a piece of&nbsp;legislation is to be presumed as relevant and no part of&nbsp;the statute is required to be considered as superfluous or&nbsp;made without any purpose, the proviso to the main&nbsp;provision of Section 10A as pointed out by the counsels&nbsp;for the parties to canvass for their respective positions is&nbsp;also required to be considered by this Tribunal in order&nbsp;to ascertain the role of the said proviso in the scheme of&nbsp;Section 10A as newly inserted. The role of a proviso to a&nbsp;main p has been generally delineated by the Apex&nbsp;Court in several of its judgments, one being that of&nbsp;
+							<em>
+								Laxminarayan R. Bhattad &amp; Ors. V. State of&nbsp;
+							</em>
+							<em>
+								Maharashtra &amp; Anr.
+							</em>
+							&nbsp;in Civil Appeal No. 6345 of 2001 rendered on 04.04.2003.
+						</p>
+						<p>
+							<strong>
+								IV. On the aspect of Retrospective application of a Statute
+							</strong>
+						</p>
+						<p>
+							In any case, the decision cited by the&nbsp;respondent also recognizes that an Act, by express&nbsp;provision contained therein or by necessary implication&nbsp;or intendment is capable of making the law retrospective&nbsp;in its operation. The decisions cited in this regard by the&nbsp;Applicant, for sake of brevity are not required to be gone&nbsp;into as the case has been cited to canvass support for&nbsp;the above proposition and to establish that the main&nbsp;provision of Section 10A taken together with objects&nbsp;reasons resulting in the promulgation of Ordinance (No.9&nbsp;of 2020) demonstrates that it is to be made applicable&nbsp;retrospectively to the defaults arising on or after 25th&nbsp;March 2020.
+						</p>
+						<p>
+							<strong>
+								V. Whether Section 10A has a Retrospective applicability and Retroactive Effect
+							</strong>
+						</p>
+						<p>
+							Having seen that a legislation can have a&nbsp;retrospective application affecting even in relation to&nbsp;substantive or vested rights accrued, now the question&nbsp;falls for consideration is as to whether Section 10A as&nbsp;newly inserted by the Amendment Ordinance (No.9 of&nbsp;2020) can be applied retrospectively and as to whether&nbsp;there is an express provision or clear implication&nbsp;contained in the legislation itself to this effect or even if&nbsp;the above is not to be found in the legislation (i.e.&nbsp;Ordinance (No.9 of 2020) whether there is an existence&nbsp;of the intention of the Executive to make it apparent as&nbsp;to its retrospective operation by looking into the&nbsp;circumstances attendant in promulgating the Ordinance&nbsp;(No.9 of 2020).
+						</p>
+						<p>
+							From a plain reading of the main provision of&nbsp;Section 10A of Code it is clear that in relation to&nbsp;defaults arising on or after 25th March 2020, no&nbsp;application for initiation of CIRP shall be filed for a&nbsp;period of six months or such further period not&nbsp;exceeding one year as may be notified in this behalf.
+						</p>
+						<p>
+							The duration of suspension in relation to filing of&nbsp;application initially is pegged at six months extendable&nbsp;to a further period not exceeding one year. It is to be&nbsp;noted that in relation to Sections 7, 9 and 10 it is the&nbsp;&lsquo;default&rsquo; on the part of the Corporate Debtor to pay the&nbsp;debt due which can trigger the filing of a petition and not&nbsp;otherwise. Where there is no debt as defined in Section&nbsp;3(11) of the Code which is due and payable and no&nbsp;default as defined under Section 3(12) of the Code which&nbsp;had occasioned in it is payment, there is no question of&nbsp;any cause for a creditor to invoke the provisions of the&nbsp;Code seeking for the initiation of CIRP. Thus, in the&nbsp;normal run of Section 7, 9 and 10 it is a&nbsp;
+							<em>
+								sine qua non
+							</em>
+							&nbsp;for&nbsp;the existence of a debt and its default and if both stand&nbsp;established this Tribunal is required to initiate the CIRP&nbsp;of the corporate debtor. This is evident from the&nbsp;judgements rendered by the Hon&rsquo;ble SC in&nbsp;
+							<em>
+								M/s. Innoventive Industries Ltd. Vs. ICICI Bank &amp; Anr.&nbsp;(2017)  02 SC
+							</em>
+							&nbsp;in&nbsp;relation to a &lsquo;financial debt&rsquo; and its &lsquo;default&rsquo; and in&nbsp;
+							<em>
+								Mobilox Innovations Pvt. Ltd. Vs. Kirusa Software Pvt. Ltd.&nbsp;(2017)  01 SC
+							</em>
+							&nbsp;in relation to an &lsquo;operational&nbsp;Debt&rsquo; and its &lsquo;default&rsquo;. It is worth recalling paragraph 30 of the Hon &lsquo;ble SC from&nbsp;
+							<em>
+								Innoventive Case
+							</em>
+							&nbsp;which sums&nbsp;up it neatly for the purpose of admitting or rejecting an&nbsp;application filed by a creditor in relation to a financial&nbsp;debt and its default under Section 7 of the Code.
+						</p>
+						<p>
+							Both&nbsp;the main provision and the proviso operate in the same&nbsp;field in as much as the aspect of filing an application&nbsp;arising out of a default on the part of Corporate Debtor&nbsp;on and from 25.03.2020, while the former suspends the&nbsp;filing of an application only for a specified period,&nbsp;however, the proviso by the usage of the words &ldquo;
+							<em>
+								no&nbsp;
+							</em>
+							<em>
+								application shall ever be filed
+							</em>
+							&rdquo; thereby providing an&nbsp;exception from all together filing an application in&nbsp;relation to the defaults arising on and from 25.03.2020&nbsp;till the said period as may be specified in the main&nbsp;provision. Thus in the absence of the proviso, the&nbsp;suspension of filing of an application under Section 7, 9&nbsp;and 10 in relation to defaults arising on and from&nbsp;25.03.2020 would have been applicable only for a period&nbsp;of six months i.e. up till 25.09.2020 or at the utmost&nbsp;until a year i.e.25.03.2021 taking into consideration the&nbsp;main provision of Section 10A of the Code as amended.&nbsp;However, the insertion of the Proviso makes the&nbsp;suspension in the filing of an application as envisaged in&nbsp;the main provision in relation to &lsquo;defaults&rsquo; falling within&nbsp;the specified period forever by the use of the term shall&nbsp;ever be filed for initiation of corporate insolvency resolution&nbsp;a corporate debtor.
+						</p>
+						<p>
+							The law of limitation. Similarly going by the objects and&nbsp;reasons as given for the insertion of Section 10A in the&nbsp;Ordinance (No .9 of 2020) because of stress arising due to&nbsp;global pandemic to the businesses beyond their control&nbsp;and consequent lock down from 25.03.2020 and as seen&nbsp;already, recognizes the doctrine of frustration in relation&nbsp;to avoidance of contract in itself, akin to that of the&nbsp;aspect of limitation being a ground for dispute in relation&nbsp;to a suit or arbitration. Hence looking from the said&nbsp;angle also it becomes evident as to why the Ordinance&nbsp;had chosen to provide by way of proviso to Section 10A&nbsp;that no application shall ever be filed for initiation of&nbsp;CIRP of a corporate debtor arising during the said period&nbsp;for the said default with a view to save the precious time&nbsp;of this Tribunal, exercising only a summary jurisdiction&nbsp;and the process in itself being time bound under&nbsp;Code, in going into the question of causes of &lsquo;default&rsquo;&nbsp;occasioned on or after 25.03.2020 as to whether such&nbsp;default arose because of pandemic coupled with the lock&nbsp;down enforced or otherwise and the defence/dispute&nbsp;which can be put forth in this regard by a corporate&nbsp;debtor that the default, if any had occurred only due to&nbsp;the pandemic as well as the attendant lock down&nbsp;imposed thereby frustrating the performance on its part&nbsp;inviting the application of doctrine of frustration.
+						</p>
+						<p>
+							This Tribunal is hence of the view that Section&nbsp;10A relates back to the date of in reckoning&nbsp;the date of default for the reasons above noted, even&nbsp;though the Ordinance got Promulgated only on&nbsp;05.06.2020 and published in the Gazette of India, and in&nbsp;case the &lsquo;default&rsquo; had occurred on or after 25.032020&nbsp;then this Tribunal should desist from entertaining such&nbsp;an application, even though filed between the date of&nbsp;25.03.2020 and 05.06.2020 that too both the dates&nbsp;being within the six month period initially specified&nbsp;under Section 10A and in view of the interdiction&nbsp;imposed by Code itself in relation to filing a Section&nbsp;7,9 and 10 application ever in relation to defaults arising&nbsp;on or after 25.03.2020 for a period of six months&nbsp;therefrom extendable up to a period of one year by virtue&nbsp;of the newly inserted Section 10A in the Code and the&nbsp;words and terms of the statute leave no doubt and&nbsp;expressly provide for the same and there is no ambiguity&nbsp;in this regard.
+						</p>
+						<p>
+							Thus, having&nbsp;Executive to promulgate&nbsp;based on decided case&nbsp;dealt with the power of the&nbsp;laws having retrospective effect&nbsp;laws and also answering the&nbsp;question posed in relation to the retrospectivity of the&nbsp;applicability of Section 10A by relating it back to&nbsp;25.03.2020 being the relevant date to be reckoned in&nbsp;relation to suspension of filing of application seeking for&nbsp;initiation of CIRP in the affirmative, it is only required of&nbsp;this Tribunal to ascertain as to whether the date of&nbsp;default falls within or outside the &lsquo;Lakshman Rekha&rsquo;&nbsp;namely 25.03.202() drawn by the legislation by way of&nbsp;the Ordinance (No.9 of 2020) promulgated on 05.06.2020&nbsp;in the present case.
+						</p>
+						<p>
+							<strong>
+								VI. Whether the date of default falls prior to or on or after 25.03.2020 to determine whether the application is be proceed any further or alternatively this Tribunal is to restrain itself from the exercise of its jurisdiction available to it under p 9 due to the applicability of p 10A
+							</strong>
+						</p>
+						<p>
+							In view of the provisions of Section 10A&nbsp;of the Code, in filing an application there is a&nbsp;bar/interdiction as per the proviso to Section 10A as the&nbsp;phrase &lsquo;shall ever be filed&rsquo; is used in relation to the&nbsp;period specified in the mam provision in relation to the&nbsp;default occurring during the said period. If the&nbsp;averments made in the petition being germane and&nbsp;manifestly point out that the default has occurred&nbsp;during the specified initial period of six months or as&nbsp;may be further specified not exceeding one year&nbsp;commencing on and from 25.032020, this Tribunal is&nbsp;not required to look any further and the counter&nbsp;statement/reply statement and the pleadings contained&nbsp;therein in this regard become wholly irrelevant.&nbsp;
+						</p>
+						<p>
+							It is required to be noted that correlating with&nbsp;the date on which the operational debt fell due and the&nbsp;date of default, both being disclosed as 30.04.2020, the&nbsp;details of transactions on account of which the debt fell&nbsp;due, for sake of brevity not repeated, consistently asserts&nbsp;the said date to be the date of default even according to&nbsp;the averments made by the respondent/ operational&nbsp;creditor germane for the consideration of the present&nbsp;application filed by the applicant/ corporate debtor.
+						</p>
+						<p>
+							Hence the endeavour on the part of the Operational&nbsp;Creditor/ respondent, after the promulgation of the&nbsp;Ordinance fixing the cut off or relevant date as&nbsp;and to portray as if the default had occurred&nbsp;even prior to the relevant date of 25.03.2020 and in the&nbsp;circumstances the petition in should be&nbsp;proceeded with, cannot be accepted as the petitioner&nbsp;who approaches this Tribunal should be consistent in
+						</p>
+						<p>
+							This pleadings and cannot be allowed to resile from it in&nbsp;order to suit his convenience.&nbsp;Taking into consideration the above discussions,&nbsp;we are of the considered view that the Executive in the&nbsp;Promulgation of the Ordinance to meet an extra-ordinary&nbsp;situation and to avoid causing further stress to the already&nbsp;beleaguered businesses due to the prevalence of COVID&nbsp;pandemics throughout the world, including India and also in&nbsp;addition affected by the lock down enforced by the Union as&nbsp;well as the States of the Union, all beyond their control have&nbsp;chosen to suspend filing of any application in relation to&nbsp;defaults arising on or after 25.03.2020 under Section 7, 9&nbsp;and 10 of Code for a period of six months extendable by a&nbsp;further period not exceeding one year as per the main&nbsp;provision of Section 10A newly inserted and further by virtue&nbsp;of proviso thereunder to the main provision of Section 10A&nbsp;has further qualified the main proviso that in relation to&nbsp;default arising on or after 25.03.2020 (incidentally the date on&nbsp;which the lock down came into force) and during the said&nbsp;period to be correlated with the main provision of Section 10A&nbsp;which for the time being is specified as six months extendable&nbsp;up to a year, no application shall ever be filed thereby both&nbsp;the main provision as well as the proviso making it amply&nbsp;clear that the suspension in filing the application in relation&nbsp;to defaults arising on or after 25.03.2020 is to be made&nbsp;applicable retrospectively from the said date. The Explanation&nbsp;given under Section 10A only reinforces the retrospectivity in&nbsp;the applicability of Section 10A in as much as providing that&nbsp;the defaults which had occurred prior to the date of&nbsp;25.03.2020.
+						</p>
+						<p>
+							Section 10A will not apply thereby clearly&nbsp;demarcating defaults arising on or after 25.03.2020 and till&nbsp;such period as may be extended as given in the main&nbsp;provision of Section 10A not exceeding a year, as a class in&nbsp;itself due to the prevalence of the extraordinary situation as&nbsp;stated in the objects and reasons leading to the promulgation&nbsp;of the Ordinance.&nbsp;
+						</p>
+						<p>
+							Thus, as a consequence of the applicability of the&nbsp;newly inserted Section 10A of the I&amp;B Code to the instant&nbsp;case, in view of the alleged default if any, had occurred even&nbsp;according to the own admission of the respondent/operational&nbsp;creditor as to be that of 30.04.20, both in the petition/ main&nbsp;application filed in Form 5 in IBA/215/2020 as well as the&nbsp;demand notice issued prior to it in Form 3, both forms&nbsp;statutorily prescribed under the AAA Rules and as required to&nbsp;be completed and filed by an Operational Creditor while&nbsp;approaching this Tribunal, this Tribunal cannot proceed any&nbsp;further in relation to the petition in IBA/215/2020 due to the&nbsp;bar created by law, namely the newly inserted Section 10A of&nbsp;Code by virtue of The Insolvency and Bankruptcy Code&nbsp;(Amendment) Ordinance, 2020 promulgated by the Executive&nbsp;and published in the Gazette of India on 05.06.2020 coming&nbsp;into force at once and in the circumstances this Tribunal is&nbsp;constrained to allow the instant application viz. IA/ 395/2020&nbsp;and thereby reject the main application viz. IBA/215/ 2020&nbsp;by the respondent/ operational creditor. All the connected&nbsp;applications stands closed. There shall be no order as to&nbsp;costs.
+						</p>
+					</div>
+				</div>
+			</p>
+		</div>
+	</div>
+</div>
+</html>

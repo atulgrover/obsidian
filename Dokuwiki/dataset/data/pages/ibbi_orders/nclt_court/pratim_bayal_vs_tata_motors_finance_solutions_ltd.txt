@@ -1,0 +1,106 @@
+<html>
+<div>
+	<h1>
+		Cheque issued prior to CIRP admission date and enchased during CIRP cannot be termed as preferential transaction or violative of the moratorium u/s 14 of IBC &ndash; Pratim Bayal Vs. Tata Motors Finance Solutions Ltd. &ndash; NCLT Kolkata Bench
+	</h1>
+	<div>
+		August 2, 2023
+	</div>
+	<p>
+		In this case, the Erstwhile management of the Corporate Debtor had issued a cheque dated 08.01.2022. CIRP was admitted against the Corporate Debtor on 12.01.2022. The Cheque dated 08.01.2022 was presented for encashment on 17.02.2022 and was encashed on 18.02.2022 and was appropriated against the outstanding dues towards loans provided. RP application that transaction may be considered as a preferential transaction as the subject encashment is in complete violation of Section 14 of IBC seeking refund thereof along with the interest in the CIRP account. NCLT Kolkata Bench, referring the decision of in the case of K. Saraswathy v. P.S.S. Soma Sundaram Chettiar held that the payments of the cheque released subsequently relates back to the receipt of the cheque which in the instant case appears 08.01.2022 and since the moratorium was declared on 12.01.2022, this transaction in view of the ratio of the Ogale glass works(supra) does not violate the moratorium.
+	</p>
+</div>
+<div>
+	<div>
+		<div>
+			<div>
+				<div>
+					<p>
+						<strong>
+							 I. Case Reference
+						</strong>
+					</p>
+					Case Citation:(2023) 405 NCLTCase Name:Pratim Bayal Vs. Tata Motors Finance Solutions Ltd.Corporate Debtor:Rajprotim Agencies Pvt. Ltd.Application/Appeal No.:IA(IB) No. 1145/KB/2022 In In C.P.(IB) No. 97 /KB/20202Judgment Date:28-Jul-23Court/Bench:NCLT Kolkata BenchMember (Judicial):Shri Rohit KapoorMember (Technical):Shri Balraj JoshiCase Status:Upheld by NCLAT, reported in&nbsp;(2023) 701 NCLAT.
+					<p>
+						<strong>
+							 II. Brief about the decision
+						</strong>
+					</p>
+					<p>
+						<em>
+							<strong>
+								 Facts of the case
+							</strong>
+						</em>
+					</p>
+					<ul>
+						<li>
+							The Erstwhile management of the Corporate Debtor had issued a cheque of Rs. 62,85,652/- dated 08.01.2022 in favour of the Tata Motors Finance Ltd.
+						</li>
+						<li>
+							CIRP was admitted against the Corporate Debtor on 12.01.2022.
+						</li>
+						<li>
+							The Cheque dated 08.01.2022 issued to Tata Motors Finance Limited was presented for encashment on 17.02.2022 and was encashed on 18.02.2022 and was appropriated against the outstanding dues towards loans provided by both the Tata Motors Finance Ltd.
+						</li>
+						<li>
+							The Resolution Professional(Applicant) vide his email dated 18 August, 2022 called upon the Respondent to refund the said sum of Rs. 62,85,652/- which was illegally encashed. However, the Respondent refused to refund the amount and has instead attempted to justify the illegal encashment.
+						</li>
+						<li>
+							Ld. Counsel appearing for the respondent has relied on in the case of
+							<em>
+								 K. Saraswathy v. P.S.S. Soma Sundaram Chettiar (1989) 4 SCC 527
+							</em>
+							 wherein in para 5, it has been held by the Hon&rsquo;ble Apex Court that:
+							<p>
+								<em>
+									 &lsquo;In CIT v. Ogale Glass Works Ltd., Ogale Wadi&rsquo; it was laid down but this Court that payment by cheque realised subsequently on the cheque being honoured and en-cashed relates back to the date of the receipt of the cheque, and in law the date of payment is the date of delivery of the cheque, Payment by cheque is an ordinary incident of present day life, whether commercial or private, and unless it is specifically mentioned that payment must be in cash there is no reason why payment by cheque should not be taken to be due payment if the cheque is subsequently encashed in the ordinary course.&rsquo;
+								</em>
+							</p>
+						</li>
+					</ul>
+					<p>
+						<em>
+							<strong>
+								 Decision of the Adjudicating Authority
+							</strong>
+						</em>
+					</p>
+					<ul>
+						<li>
+							Despite moratorium, the Respondent viz. Tata Motors Finance Ltd. encashed two cheques that were issued by the Corporate Debtor on 18..02.2022 which is well within moratorium period.
+						</li>
+						<li>
+							It is also submitted that these cheques were issued on 08.01.2022, however the same has been presented for encashment to the Bank on 17.02.2022 and encashed on 18.02.2022 i.e. much after commencement of CIRP.
+						</li>
+						<li>
+							Therefore, it is submitted that transaction may be considered as a preferential transaction as the subject encashment is in complete violation of Section 14 of IBC seeking refund thereof along with the interest in the CIRP account.
+						</li>
+						<li>
+							As can be seen from the judgment in
+							<em>
+								 K. Saraswathy v. P.S.S. Soma Sundaram Chettiar (1989) 4 SCC 527
+							</em>
+							 , the payments of the cheque released subsequently relates back to the receipt of the cheque which in the instant case appears 08.01.2022 and since the moratorium was declared on 12.01.2022, this transaction in view of the ratio of the
+							<em>
+								 Ogale glass works(supra)
+							</em>
+							 does not violate the moratorium.
+						</li>
+						<li>
+							Therefore, in our considered opinion, this transaction cannot be termed as preferential or violative of the moratorium and accordingly IA1145/KB/2022 is
+							<strong>
+								 rejected
+							</strong>
+							 . However, since the facts relating to the nature of the payment is not under consideration, hereinabove, the petitioner shall at liberty to seek any other remedy available under any other law.
+							<strong>
+								 (p4-8)
+							</strong>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</html>

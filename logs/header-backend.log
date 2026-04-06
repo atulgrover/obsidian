@@ -1,0 +1,5 @@
+✅ Loaded existing SQLite database from: /Users/atulgrover/Desktop/RAG2/Header/neon-backend/database.sqlite
+✅ Database schema initialized
+🚀 Rezolution Bazar API running on port 4000
+📊 Database: SQLite (/Users/atulgrover/Desktop/RAG2/Header/neon-backend/database.sqlite)
+🌍 Environment: development

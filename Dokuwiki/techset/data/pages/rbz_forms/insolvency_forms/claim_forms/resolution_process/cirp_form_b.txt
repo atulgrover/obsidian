@@ -1,0 +1,5 @@
+{{tag>judicial_process:insolvency_process form_type:claim_forms process_type:resolution_process stakeholder_type:operational_creditor}}
+
+
+===== Resolution Process Form B - Proof of Claim by Operational Creditors except Workers & Employees =====
+{{pdfjs 200em,500px> pdf:resolution_process_form_b.pdf}}

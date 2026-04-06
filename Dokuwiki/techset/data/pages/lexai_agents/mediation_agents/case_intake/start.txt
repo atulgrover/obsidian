@@ -1,0 +1,5 @@
+The Case Intake Agent acts as the first point of contact in a mediation or insolvency-related dispute management workflow. It captures preliminary details such as party names, nature of the dispute, financial exposure, and procedural background (e.g., default, contract breach, or claim admission issue). This ensures that all essential inputs are collected systematically before deeper analysis begins.
+
+Once the data is captured, the agent validates the information for completeness and consistency—cross-checking party identifiers (CIN, PAN, GST) and ensuring compliance with IBC or mediation registration formats. It may also integrate with databases like MCA21 or IBBI to auto-fetch entity details, reducing manual data entry errors.
+
+The agent structures this intake data into standardized case files or forms compatible with dispute management or CIRP platforms. This digitized intake process saves time for Insolvency Professionals and Mediators, enabling them to start each case with clear, verifiable records and ensuring that no critical information is overlooked before proceeding to further evaluation.

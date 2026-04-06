@@ -1,0 +1,34 @@
+<html>
+<div>
+	<h2>
+		National Company Law Appellate Tribunal
+	</h2>
+	<h2>
+		Mitcon Consultancy &amp; Engineering ... vs Vitthal Corporation Ltd on 5 July, 2018
+	</h2>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI Company Appeal (AT) (Insolvency) No. 101 of 2018IN THE MATTER OF:Mitcon Consultancy &amp; EngineeringServices Ltd. ...AppellantVs.Vitthal`` Corporation Ltd. ...RespondentPresent: For Appellant: - Mr. Rajiv S.Roy, Mr. Avrojyoti Chatterjee, Ms. Jayasree Saha and Mr. Abhijit Roy, Advocates For Respondent:-Mr. Nitin, Advocate ORDER
+	</p>
+	<p title="Issue" data-structure="Issue">
+		05.07.2018─ This appeal has been pferred by M/s Mitcon Consultancy &amp; Engineering Services Limited (Operational Creditor) against order dated 15th February 2018 passed by the Adjudicating Authority (National Company Law Tribunal), Mumbai Bench, Mumbai, whereby and where under, the application pferred by appellant under Section 9 of Insolvency and Bankruptcy Code 2016 (hereinafter referred to as 'I &amp; B Code') has been rejected on the ground that the appellant has claimed the legal expenses under Section 8(1) of the 'I &amp; B Code'.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		According to appellant it rendered consultancy services to the (Corporate Debtor) and shown the details of amount due arising out of the consultancy services in Form 5. Application under Section 9 was filed in absence of any dispute to the Demand Notice under Section 8(1) of the 'I &amp; B Code' 2016. The Adjudicating Authority rejected the same on the ground that it included legal claim, which we have already noticed.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		Learned counsel appearing on behalf of the respondent submits that they have disputed the claim in the reply to the Demand Notice under Section 8(1). It is further submitted that there is an existence of dispute in regard to consultancy service rendered by the appellant. When we asked the learned counsel to show from the record that the Respondent has raised any dispute prior to Demand Notice dated 13th September 2017, he rightly replied that there is no record to suggest that the Respondent has disputed the claim prior to the said date. He submits that there were conferences held and telephonically the Respondent has disputed the claim but such submission cannot be accepted in absence of any record relating to existence of dispute.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		In so far as the claim of the respondent is that there is an agreement where arbitration clause is there, we hold that mere mentioning of arbitration clause cannot be taken into consideration to hold that there was an existence of dispute. Any dispute subsequent to issuance of Demand Notice cannot be taken into consideration to reject an application under Section 9 and therefore, we are of the view that the Adjudicating Authority wrongly rejected the application on the ground that the appellant included legal claim.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		For the reasons aforesaid, we set aside the impugned order dated 15th February 2018 passed by the Adjudicating Authority in CP No. 1485 of 2017 and remit the case to the Adjudicating Authority to admit the case and pass order of moratorium and appointment of Interim Resolution Professional.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		The appeal is allowed with the aforesaid observations and directions. There shall be no order as to cost.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		(Justice S.J. Mukhopadhaya) Chairperson (Justice Bansi Lal Bhat) Member(Judicial) sm/uk
+	</p>
+</div>
+</html>

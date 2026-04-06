@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://resolutionbazaar.com/feed.php">
+        <title>RESOLUTION BAZAAR - professionals:process_forms:guarantor_process</title>
+        <description>AI AGENTS - INSOLVENCY PROCESSES</description>
+        <link>https://resolutionbazaar.com/</link>
+        <image rdf:resource="https://resolutionbazaar.com/lib/exe/fetch.php/wiki:dokuwiki.svg" />
+       <dc:date>2025-07-26T15:48:06+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdb_form_a?rev=1745252593&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdb_form_b?rev=1745252607&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdr_form_a?rev=1745252621&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdr_form_b?rev=1745252638&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdr_form_c?rev=1745252654&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://resolutionbazaar.com/lib/exe/fetch.php/wiki:dokuwiki.svg">
+        <title>RESOLUTION BAZAAR</title>
+        <link>https://resolutionbazaar.com/</link>
+        <url>https://resolutionbazaar.com/lib/exe/fetch.php/wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdb_form_a?rev=1745252593&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:23:13+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>pg2cdb_form_a</title>
+        <link>https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdb_form_a?rev=1745252593&amp;do=diff</link>
+        <description>Personal Guarantor to Corporate Debtor (Bankruptcy) Form A</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdb_form_b?rev=1745252607&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:23:27+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>pg2cdb_form_b</title>
+        <link>https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdb_form_b?rev=1745252607&amp;do=diff</link>
+        <description>Personal Guarantor to Corporate Debtor (Bankruptcy) Form B</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdr_form_a?rev=1745252621&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:23:41+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>pg2cdr_form_a</title>
+        <link>https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdr_form_a?rev=1745252621&amp;do=diff</link>
+        <description>Personal Guarantor to Corporate Debtor (Resolution) Form A</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdr_form_b?rev=1745252638&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:23:58+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>pg2cdr_form_b</title>
+        <link>https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdr_form_b?rev=1745252638&amp;do=diff</link>
+        <description>Personal Guarantor to Corporate Debtor (Resolution) Form B</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdr_form_c?rev=1745252654&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:24:14+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>pg2cdr_form_c</title>
+        <link>https://resolutionbazaar.com/doku.php/professionals:process_forms:guarantor_process:pg2cdr_form_c?rev=1745252654&amp;do=diff</link>
+        <description>Personal Guarantor to Corporate Debtor (Resolution) Form C</description>
+    </item>
+</rdf:RDF>

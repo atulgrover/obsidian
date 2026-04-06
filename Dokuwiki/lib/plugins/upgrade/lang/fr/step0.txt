@@ -1,0 +1,7 @@
+Ce greffon met votre DokuWiki à jour automatiquement, en installant la dernière version. Avant d'aller plus loin, vous devriez lire le [[doku>fr:changes|journal des modifications]], afin de voir s'il y a des étapes supplémentaires à réaliser avant ou après la mise à jour.
+
+Pour rendre la mise à jour automatique possible, PHP doit avoir les droits en écriture sur les fichiers de DokuWiki. Ce greffon contrôle les permissions avant le début du processus de mise à jour.
+
+Ce greffon ne met pas à jour les autres thèmes et greffons.
+
+Nous vous recommandons d'effectuer une sauvegarde de votre wiki avant de poursuivre !

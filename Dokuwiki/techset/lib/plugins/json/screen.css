@@ -1,0 +1,7 @@
+.json-tabs:not(.json-hide-tabs) .json-log {
+  height: 302px;
+}
+
+.json-tabs:not(.json-hide-tabs) pre {
+  height: 300px;
+}

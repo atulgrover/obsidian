@@ -1,0 +1,32 @@
+The stage of **Due Diligence**—focused on collecting and verifying company data, financial history, and creditor exposure—is heavily supported by the sources as a primary application area for Artificial Intelligence (AI) and technology-assisted tools in insolvency and restructuring. AI's ability to process vast amounts of complex data quickly and accurately is essential for the Insolvency Professional (IP) to perform this foundational work.
+
+## AI Agents in Due Diligence
+
+### 1. Company Due Diligence Agent (Collect and Verify Company Data and Financial History)
+
+This agent leverages AI to manage large datasets, automate document review, and ensure data integrity during the due diligence process.
+
+*   **Document Management and Processing:** AI-powered tools can efficiently manage and process **large volumes of legal documents, contracts, and financial records**, reducing the time and effort required in document review and analysis.
+*   **Technology Assisted Review (TAR):** Specifically, TAR, which utilizes predictive coding, has particular application to insolvency investigations and due diligence. It automates document review by classifying electronic documents, allowing the software to apply selection criteria to entire document sets, thereby saving time and money.
+*   **Forensic Investigation:** Due diligence often involves investigative work. AI can be used in investigations to establish whether there has been **dissipation of assets**. TAR can search the company's books and records, ranking documents by relevance so humans can focus on the most important evidence. This is more cost-effective and highly accurate than historical means.
+*   **Data Aggregation:** The agent can gather information from multiple public sources, such as **Companies House, the Land Registry, and other public sources**. AI then applies algorithms to this aggregated data to **identify patterns of behaviour** relevant to the company's financial history.
+
+### 2. Creditor Identification Agent (Collect and Verify Creditor Exposure)
+
+This agent is crucial for accurately assessing the company's liabilities and identifying all stakeholders who have exposure to the corporate debtor.
+
+*   **Extraction from Loan Documents:** Intelligent software is used to **extract key information from banks' records**, reading thousands of loan documents in a matter of minutes to identify important credit information, including **borrower details, guarantors, collateral specifics, and more**. This is much faster and highly accurate compared to manual review.
+*   **Claims Collation and Extraction:** During the claims process (a core part of establishing exposure), AI uses **Natural Language Processing (NLP)** to extract claim amounts from various formats, including **scan documents** (via Optical Character Recognition or OCR). This process aggregates all creditor exposure data into a clean, usable format.
+*   **Cross-Verification:** The agent can **cross-verify extracted claim amounts against NCL records** and flag inconsistencies, ensuring the creditor exposure data is reliable.
+
+### 3. Financial Health Diagnostic Agent (Verify Financial History and Health)
+
+This agent leverages AI's analytical capabilities to assess the financial state of the company, providing strategic insights into viability and risk.
+
+*   **Data Analysis and Predictive Modelling:** AI can **analyse vast amounts of financial data to identify patterns and trends**. **Predictive modelling** can help anticipate potential insolvency risks by analyzing historical financial data and market trends.
+*   **Early Detection and Risk Assessment:** AI algorithms can detect **early signs of financial distress or insolvency** by continuously monitoring financial indicators, helping stakeholders take proactive measures. The system uses bespoke algorithms and drawing on millions of data points, overlaying sector and market sentiment to create an **expert system output** that highlights associated risks.
+*   **Inconsistency Detection:** The agent can **analyze financial statements and claim documents** and **point out inconsistencies which a human eye may miss**. This supports the IP in getting quickly to the root of the issue.
+
+## Overall Impact
+
+The use of AI in due diligence is a strategic move that enables the IP to **offload the heavy lifting** to AI, allowing them to spend proportionally **more time on the key strategic aspects of the case and less on the procedural elements**. It strengthens the process by cutting down on manual errors, bringing hidden patterns to light, and moving the output from mere information to **knowledge and wisdom**.

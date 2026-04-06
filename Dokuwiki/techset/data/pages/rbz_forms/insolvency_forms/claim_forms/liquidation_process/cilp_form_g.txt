@@ -1,0 +1,4 @@
+{{tag>judicial_process:insolvency_process form_type:claim_forms process_type:liquidation_process stakeholder_type:other_creditor}}
+
+===== Liquidation Process Form G - Proof of Claim by any Other Stakeholder =====
+{{pdfjs 200em,500px> pdf:liquidation_process_form_g.pdf}}

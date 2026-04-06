@@ -1,0 +1,23 @@
+  * **DocAssemble**
+    * docker run -d -p 80:80 -p 443:443 --restart always --stop-timeout 600 jhpyle/docassemble
+    * https://docassemble.org/docs/installation.html
+    * https://demo.docassemble.org/run/legal/#/1
+    * admin@example.com / password (Admin123)
+  * **Mayan**
+    * curl https://gitlab.com/mayan-edms/mayan-edms/-/raw/master/docker/docker-compose.yml -O
+    * curl https://gitlab.com/mayan-edms/mayan-edms/-/raw/master/docker/env_file -O
+    * curl https://gitlab.com/mayan-edms/mayan-edms/-/raw/master/docker/.env -O
+    * docker-compose --file docker-compose.yml --project-name mayan up --detach
+    * https://github.com/jogetoss/mayan-dms-fileupload
+  * **Tenzu**
+    * curl -L -o quickstart.tar.gz https://github.com/BIRU-Scop/tenzu-docs/releases/download/archive/quickstart.tar.gz
+    * tar -xvzf quickstart.tar.gz / cd quickstart
+    * docker compose run --remove-orphans migrate-job
+    * docker compose run --remove-orphans load-demo-data 
+    * docker compose --profile start up --remove-orphans
+    * 1user / 123123
+    * https://tenzu.net/docs/deployment/docker-compose
+  * **Twenty CRM**
+    * curl -sL https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docker/scripts/install.sh
+    * localhost:3000 atulgroverr@gmail.com / @#Milo@#
+  * **Wren**

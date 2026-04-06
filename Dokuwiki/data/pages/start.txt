@@ -1,0 +1,39 @@
+~~NOTOC~~
+
+====== INSOLVENCY & BANKRUPTCY AGENTS ======
+
+<WRAP group>
+<WRAP column 31%>
+[[communication_mgt:start|{{ agentic_framework:chatbot2.jpg?185 }}]]
+| ** [[communication_mgt:start|COMMUNICATION MANAGEMENT]]** Stakeholders receive answers to their queries regarding their insolvency process.|
+</WRAP>
+
+<WRAP column 31%>
+[[document_mgt:start|{{ wiki:ibc_document.png?225 }}]]
+| **[[document_mgt:start|CLAIMS MANAGEMENT]]** Claimants and investors submit their claims and investment forms online.|  
+</WRAP>
+
+<WRAP column 31%>
+[[timeline_mgt:start|{{ :pasted:20250416-090344.png?223 }}]]
+| **[[timeline_mgt:start|TIMELINE MANAGEMENT]]** IPs can ensure timelime compliances, legal compliances, and enhances effeciencies.|
+</WRAP>
+
+</WRAP>
+
+<WRAP group>
+
+<WRAP column 31%>
+[[agentic_framework:marketing_agents|{{ :pasted:20250505-090655.png?185 }}]]
+| ** [[agentic_framework:marketing_agents|INVESTOR AGENTS]]** A combination of Marketing, Outreach, and RA Contract agents for early Resolution. |
+</WRAP>
+
+
+<WRAP column 31%>
+[[agentic_framework:valuation_agents|{{ :pasted:20250505-085428.png?185 }}]]
+| **[[agentic_framework:valuation_agents|VALUATION AGENTS]]** A combination of Circle Rates and realtime transactions analysis agent for precise valuations.|  
+</WRAP>
+
+<WRAP column 31%>
+[[agentic_framework:forensic_agents|{{ :pasted:20250505-090540.png?185 }}]]
+| **[[agentic_framework:forensic_agents|FORENSIC AGENTS]]** A combination of Financial and Market Analytic agents to dentify PUFE transactions.|
+</WRAP>

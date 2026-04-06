@@ -1,0 +1,309 @@
+<html>
+<div>
+	<h2>
+		National Company Law Appellate Tribunal
+	</h2>
+	<h2>
+		M/S. Annapurna Infrastructure Pvt. ... vs M/S. Soril Infra Resources Ltd on 29 August, 2017
+	</h2>
+	<p>
+		I IN THE NATIONAL COMPANY LAW APPELLATE TRIBUNAL Company Appeal (AT) (Insolvency) No. 32 of 2017 [arising out of Order dated 24th March, 2017 by NCLT, Principal Bench, New Delhi in C.P. No. (IB)-22(PB)/20171 M/s. Annapurna Infrastructure Pvt. Ltd. and anr. Appellants Vs. M/s. SORIL Infra Resources Ltd. Respondent Present: For Appellants - Shri Vijay Nair, Shri Prashant Jam, Ms. Aparna Malhotra and Ms. Sanyogita Jam, Advocates. For Respondent- Shri Chetan Sharma, Shri Abhishek Swaroop and Shri Rudreshwar Singh, Advocates. JUDGMENT
+	</p>
+	<p title="Issue" data-structure="Issue">
+		SUDHANSU JYOTI MUKHOPADHAYA, J.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		This appeal has been pferred by the appellants against order dated 24th March, 2017 passed by the Learned Adjudicating Authority (National Company Law Tribunal), Principal Bench, New Delhi whereby the application pferred by the appellant under Section 9 of Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as 'I &amp; B Code') for initiation the Corporate Insolvency Resolution Process against the 'Corporate Debtor' has been rejected on the ground that there is an existence of dispute pending adjudication between the parties.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		2. In order to decide the controversy in its proper perspective, it will be necessary to notice the material facts.
+	</p>
+	2
+	<p title="Fact" data-structure="Facts">
+		3. Appellants rented the pmises, rent of which was payable by respondent
+	</p>
+	<p title="Fact" data-structure="Facts">
+		- Corporate. Debtor pursuant to Lease Deed dated 23rd November, 2005 but having not paid, the parties invoked arbitratiOn clause. Pursuant to the order passed by the Hon'ble High Court of Delhi, Hon'ble Justice (Dr) Mukundakam Sharma (Retired) was appointed as a Sole Arbitrator to adjudicate all disputes arising out of Lease Deed dated 23rd November, 2005 between the appellants and the respondent.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		4. The Arbitrator passed an award on 9th September, 2016 in favour of the appellants granting the following relief:-
+	</p>
+	<p title="Issue">
+		"a. Rs.2,67,52,283/- on account of rend from 1.4.2008 upto 22.3.2010 along with interest @ 12% per annum w.e.f. 23.3.2010 upto the date of the Award.
+	</p>
+	<p title="Issue">
+		b. Rs. 1,11,56,145/-on account of damages equivalent to rend for a period of 6 months from 22.3.2010.
+	</p>
+	<p title="Issue">
+		C. Future interest @12% per annum on the amounts, as calculated above, from the date of the award till the date of realization."
+	</p>
+	<p title="Issue" data-structure="Issue">
+		5. The respondent then challenged the award under Sec. 34 of the Arbitration and Conciliation Act, 1996 (hereinafter referred to as 'Arbitration Act') with the prayer to set aside the award. The application pferred by respondent under Sec. 34 was dismissed on 19th December, 2016 affirming the award,
+	</p>
+	<p title="Fact" data-structure="Facts">
+		6. As a consequence, the appellants issued a demand notice dated 13th January, 2017 under Sec. 8 of the I &amp; B Code. In response to the demand notice, respondent filed a reply on 27th January, 2017 raising objection on the ground that there is an existence of dispute about 'Operational Debt'. It was also stated that the appeal bearing No. FA(OS)(COMM) 20 of 2017 has been filed under section 37 of the Arbitration Act against the order dated 19th December, 2016 before the Ld. Single Judge. It was also pointed out that an execution proceedings to recover the amount due under the award dated 9th September, 2016 have also been initiated and are pending consideration before the Hon'ble Delhi High Court
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		7. Learned counsel for the appellants submitted that the 1st appellant is to be regarded as an "operational creditor" within the meaning of Sec 9 nw sub- sections (20) and (21) of Section 5 of the I&amp;B Code. A reference has also been invited to the definition of the words 'debt' and 'default' as defined in Section 3(11) and Section 3(12) of the I&amp;B Code.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		8. According to learned counsel for the appellants the award passed by the learned Arbitrator had attained finality as the application under Section 34 of the Arbitration Act has been dismissed on 19th December, 2016 It was further contended that expssion "arbitration proceedings" used in Sec. 8(2)(a) of the I&amp;B Code cannot be deemed to be pending because under Sec 21 of the Arbitration Act, arbitration proceedings commenced on the date on which request for referring such a dispute to arbitration was received by the respondent. The said proceeding came to an end in terms of Sec. 32 on the date of announcing the final award or by an order of the Arbitral Tribunal in accordance with sub-section (2) of Sec 32 of the Arbitration Act According to the learned counsel for the appellants, there is no arbitral proceeding pending and it reached finality and come to an end on 9th September, 2016 4 9 Similar argument was advanced by the learned counsel for the appellant before the learned Adjudicating Authority wherein reliance was placed on decision of one or other High Court's order.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		10. According to the learned counsel for the respondent the petition under Sec. 9 of the I&amp;B Code is not maintainable because the appellants do not owe any 'operational debts' to the Corporate Debtor and thereby the 1st appellant is not an 'operational creditor'. Referring to the definition of 'operational debts' as defined under Section 5(2 1) of the I&amp;B Code, learned counsel for the respondent contended that ipsofacto claim arising out of 'supply of goods' and providing 'services', which may include employment will not amount to operation debt.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Therefore, ipsofacto the 1st appellant does not and cannot qualify to be an 'operational creditors', as there is no 'operational debt'. "Debt" is not arising under the law for the time being inforce as is mandate of sub-section (2 1) of Sec. 5 of the I &amp; B Code and it would be attracted only when the said debt is payable as-per said provision.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		11. It was further contended that Sections 8, 9, 5(20) and 5(2 1) must be construed in accordance with the object of the court as outlined in the long title.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		12. Similar arguments was advanced by the learned counsel for the respondent before the learned Adjudicating Authority wherein a number of decisions of other Courts and Tribunal were also relied upon.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		13. Learned Tribunal at the beginning before deciding the dispUte observed that "it is a classical case where a dispute between the parties has already been subjected to the arbitration proceedings which are yet to attain finality". Thereby, we find that learned Adjudicating Authority before deciding the issue made up their mind that 'a dispute is pending and not attained finality'. 5 We do not appciate such observation, as before discussing the case and claim of the parties and the provision of law, the Adjudicating Authority cannot expss and open its mind. Learned Adjudicating Authority while decided the question as to whether the appellants come within the meaning of 'operational creditor', rejected the submission that the 'arbitration proceedings' stand concluded by virtue of Section 32 of the Arbitration Act.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		14. Learned Adjudicating Authority while held that the application is not maintainable, observed as follows:
+	</p>
+	<p title="Issue">
+		"27. We are further of the view that already proceedings for execution of the award have been initiated. An effective remedy has been availed by the applicant. We have not been able to accept that a party can invoke more than one remedy simultaneously. It is in fact against the fundamental principles of judicial administration to allow a party to avail more than one remedies. Ordinarily only one remedy at one time could be availed as is evident from the fundamental principles laid down in section 10 CPC. It would promote forum shopping which is wholly impermissible in law.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		15. We have heard learned counsel for the parties and perused the record.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		16. The questions arise for determination in this appeal are:-
+	</p>
+	<p title="Issue">
+		(i) Whether there is an 'existence of dispute' between the parties, the award passed by Arbitral Tribunal having affirmed by the Court under Sec. 34 of the Arbitration Act?
+	</p>
+	6
+	<p title="Issue">
+		(ii) Whether pendency of a proceeding for execution of an award or a judgment and decree bar an operational creditor to pfer any petition under the I &amp; B Code?
+	</p>
+	<p title="Issue">
+		(iii) Whether the 1St appellant is an 'operational creditor' within the meaning of Sec. 5(20) nw Sec. 5(2 1) of the I &amp; B Code?
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		17. Before deciding the first and second issue, it is desirable to refer the observations of the Adjudicating Authority to understand the reasons for not entertaining the application under Sec. 9. The Tribunal proceeded on psumption that a dispute is pending in view of the pendency of a case under Sec. 37 of the Arbitration Act as is apparent from the observation and finding quoted below:
+	</p>
+	<p title="Issue">
+		"22. In the instant case an arbitral award has been announced on 9.9.2016 and the application for setting aside the award filed under section 34 of the Arbitration Act has been rejected on 19.12.2016. It has been mentioned by the respondent in its reply dated 27.01.2017 sent under section 8(2) of the Code to the notice issued under section 8(1) of the Code by the applicant that the debt is disputed and appeal under section 37 of the Arbitration Act is pending. The reply dated 27.1.2017 reads as under:-
+	</p>
+	<p title="Issue">
+		"1. At the outset, kindly note that our client is disputing the existence of the 'operational debt' allegedly payable to you by. our client.. Our client is vigorously contesting the Award dated 9.9.2016 (Award) passed by Mr. Justice Mukundakam Sharma (Retd.), Sole Arbitrator, in Arbitration Case No.3 of 2013, before the Hon'ble Delhi High Court.
+	</p>
+	<p title="Issue">
+		2. As you are aware, our client had filed a petition under section 34 of the Arbitration and Conciliation Act, 1996 (Act) bearing No. OMP (Comm.) No. 570 of 2016, before the Hon'ble Delhi High Court vide order dated 19.12.2016. Please note that our client has filed an appeal against the said order under section 37of the Act, bearing No. FAO(OS)(COMM) 20 of2017, for setting aside the order dated 1912.206, and the same is psently pending adjudication before the Hon'ble Court.
+	</p>
+	<p title="Issue">
+		3. In view of the above, please note that no default has occurred in terms of section 8(1) of the Code and, therefore, no process for Corporate Insolvency Resolution can be initiated at this stage Any action in this regard would be at your own cost, risk and consequences.
+	</p>
+	<p title="Issue">
+		Kindly note that this reply is without pjudice to any other rights or remedies available to our client under contract and in law."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		23. A close examination of the aforesaid reply would show that the respondents have disputed the existence of 'Operational Debt' by disclosing that its application under section 34 of the Arbitration Act was dismissed and the appeal under section 37 of the Arbitration Act bearing No. FAO (OS)(COMM) 20 of 2017 was pending adjudication. It is also pertinent to mention that the applicant has filed a caveat for issuance of notice to it before passing any order. Therefore the applicants are contesting the litigation tooth nail before this forum. In this backdrop respondent has claimed no default within the meaning section 8(1) read with section 3(12) of the Code is deemed to have occurred. It is also pertinent to notice that execution proceedings for enforcement of the award have also been initiated and are pending for consideration of the Hon 'ble Delhi High Court on 12.5.2017.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		24. In the face of the aforesaid facts we find that there is complete answer to the claim made by the applicant in terms of section 8(2)(a) read with section 9(1) of the 'Code' which bars initiation of insolvency process It cannot be said that arbitration proceedings have come to an end merely on the dismissal of application under section 34 of the Arbitration Act as sought to be canvassed on behalf of the applicant. The proceedings are yet to attain finality as appeal under section 37 of the Arbitration Act is pending. On behalf of the respondents reliance has rightly been placed on the judgement of the Bombay High Court rendered in the cases of DSL Enterprises Private Ltd (DB) and Rajendra (SB) (Supra)
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		25. We have not been able to persuade ourselves to accept the submission advanced on behalf of the applicant that 'arbitration proceedings' stand concluded by virtue of section 32 of the Arbitration Act The argument is wholly unsustainable once we take into account the provisions of section 33 of the Arbitration Act itself It provides for corrections and interptation of award and even for additional award after the award has been announced. As already observed section 34 and section 37 of the Arbitration Act provide for setting aside of the award and the remedy of appeal The appeal under section 37 of the Arbitration Act is still pending. The judgements of Bombay High Court has been rightly relied upon by the learned counsel for respondents"
+	</p>
+	<p title="Analysis of the law">
+		18. The Adjudicating Authority further proceeded to observe:
+	</p>
+	<p title="Analysis of the law">
+		"27. We are further of the view that already proceedings for execution of the award have been initiated. An effective remedy has been availed by the applicant. We have not been able to accept that a party can invoke more than one remedy simultaneously. It is in fact against the fundamental principles of judicial administration to allow a party to avail more than one remedies. Ordinarily only one remedy at one time could be availed as is evidentfrom the fund amental principles laid down in section 10 CPC. It would promote forum shopping which is wholly imprmissible in law."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		19. To decide the question as to whether the pendency of case under Section 37 of the Arbitration Act amounts to pendency of a dispute before a court of law, it is desirable to refer the relevant provisions of the I &amp; B Code. 10
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		20. Sub-section (6) of Section 5 of the I &amp; B Code defines 'dispute' as follows:
+	</p>
+	<p title="Analysis of the law">
+		"5. In this Part, unless the context otherwise requires,-- (6) "dispute" includes a suit or arbitration proceedings relating to--
+	</p>
+	<p title="Analysis of the law">
+		(a) the existence of the amount of debt; (b) the quality of goods or service; or (c) the breach of a'repsentation or warranty;"
+	</p>
+	<p title="Analysis of the law">
+		21. Clause (a) of sub-section (2) of Sec. 8 relates to an existence of dispute, as quoted herein:
+	</p>
+	<p title="Analysis of the law">
+		"8. (2) The corporate debtor shall, within a period of ten days of the receipt of the demand notice or copy of the invoice mentioned in sub-section (1) bring to the notice of the operational creditor--
+	</p>
+	<p title="Analysis of the law">
+		(a) existence of a dispute, if any, and record of the pendency of the suit or arbitration proceedings filed before the receipt of such notice or invoice in relation to such dispute;
+	</p>
+	<p title="Analysis of the law">
+		(b) the repayment of unpaid operational debt-- (i) by sending an attested copy of the record of electronic
+	</p>
+	<p title="Analysis of the law">
+		transfer of the unpaid amount from the bank account of the corporate debtor; or
+	</p>
+	<p title="Analysis of the law">
+		(ii) by sending an attested copy of record that the operational creditor has encashed a cheque issued by the corporate debtor.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		ii Explanation.-- For the purposes of this section, a "demand notice" means a notice served by an operational creditor to the corporate debtor demanding repayment of the operational debt in respect of which the default has occurred."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		22. From clause (a) of sub-section (2) of Sec. 8, we find that pendency of an arbitration proceedings has been termed to be an 'existence of dispute' and not the pendency of an application under Sec. 34 or Sec. 37 of the Arbitration Act.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		23. Form 5 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016 (hereinafter referred to as the 'Rules, 2016') is the form required to be filled to apply under Sec. 9 of the I&amp;B Code, wherein the order passed by Arbitral Panel has been cited as one of the document, record and evidence of default. This is apparent from Part V of Form 5, as quoted below:
+	</p>
+	<p title="Court's Reasoning">
+		"FORM 5 Part-V PARTICULARS OF OPERATIONAL DEBT [DOCUMENTS, RECORDS AND EVIDENCE OF DEFAULT]'
+	</p>
+	<p title="Court's Reasoning">
+		1. PARTICULARS OF SECURITY HELD, IF ANY, THE DATE OF ITS CREATION, ITS ESTIMATED VALUE AS PER THE CREDITOR. ATTACH A COPY OF A CERTIFICATE OF REGISTRATION OF CHARGE ISSUED BY THE REGISTRAR OF COMPANIES (IF THE CORPORATE DEBTOR IS A COMPANY)
+	</p>
+	<p title="Court's Reasoning">
+		2. DETAILS OF RESERVATION / RETENTION OF TITLE ARRANGEMENTS (IF ANY) IN RESPECT OF GOODS TO WHICH THE OPERATIONAL DEBT REFERS
+	</p>
+	<p title="Court's Reasoning">
+		3. PARTICULARS OF AN ORDER OF A COURT, TRIBUNAL OR ARBITRAL PANEL ADJUDICATING ON THE DEFAULT, IF ANY (ATTACH A COPY OF THE ORDER)
+	</p>
+	<p title="Court's Reasoning">
+		4. RECORD OF DEFAULT WITH THE INFORMATION UTILITY, IF ANYfA7TACH A COPY OF SUCH RECORD) 12
+	</p>
+	<p title="Court's Reasoning">
+		5. DETAILS OF SUCCESSION CERTIFICATE, OR PROBATE OF A WILL, OR LETTER OFADMINISTRATION, OR COURT DECREE (AS MAY BE APPLICABLE), UNDER THE INDIAN SUCCESSION ACT, 1925 (10 OF 1925)JATTACHA COPY)
+	</p>
+	<p title="Court's Reasoning">
+		6. PROVISION OF LAW, CONTRACTOR OTHER DOCUMENT UNDER WHICH OPERATIONAL DEBT HAS BECOME DUE
+	</p>
+	<p title="Court's Reasoning">
+		7. A STATEMENT OF BANK ACCOUNT WHERE DEPOSITS ARE MADE OR CREDITS RECEIVED NORMALLY BY THE OPERATIONAL CREDITOR IN RESPECT OF THE DEBT OF THE CORPORATE DEBTOR (ATTACH A COPY)
+	</p>
+	<p title="Court's Reasoning">
+		8. LIST OF OTHER DOCUMENTS ATTACHED TO THIS APPLICATION IN ORDER TO PROVE THE EXISTENCE OF OPERATIONAL DEBT AND THE AMOUNT IN DEFAULT
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		24. The aforesaid provisions and format of application makes it clear that while pendency of the suit or arbitration proceeding has been termed as existence of dispute, apart from other disputes decree and award of Tribunal has been shown as record of default.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		25. In Kirusa Software Private Ltd. Vs. Mobilox Innovations Private Limited - Company Appeal (AT) (Insolvency) 6 of 2017, this Appellate Tribunal by judgment dated 24th May, 2017 while deciding the meaning of 'dispute'and "existence of dispute' held "32. There may be other cases such as a suit relating to existence of amount of debt stands decided and decree is pending for execution. Similarly, existence of amount of debt or quality of goods or service for which a suit have been filed and decreed;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		an award has been passed by Arbitral Panel, though petition under Section 34 of Arbitration and Reconciliation Act, 1996 may be pending. In such case the question will arise whether a petition under Section 9 will be maintainable particularly when it was a suit or arbitration proceeding is not pending, but stand decided? 13 Though one may argue that Insolvency resolution process cannot be misused for execution of a judgement and decree passed in a suit or award passed by an arbitration Tribunal, but such submission cannot be accepted in view of Form 5 of Insolvency &amp; Bankruptcy (Application to Adjudicating Authority) Rules 2016 wherein a decree in suit and award has been shown to be a debt for the purpose of default on non- payment."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		26. Under Sec. 36 of the Arbitration Act, an arbitral award is executable as decree but it can be enforced only after the time for filing the application under Sec 34 has expired and no application is made or such application having been made has been rejected That means, the arbitral award reaches finality after expiry of enforceable time under Sec. 34 and/or if application under Section 34 is filed and rejected 27 In Vzpul Agarwal vs Atul Kanodza &amp; Co and anr. - [AIR 2004,A11 2051, the Hon'ble Allahabad High Court observed "4 The language of the section clearly indicates that the award can be executed in two situations - one when the time for filing an application for setting aside the award has expired and no application has been filed or where the application has been filed and it has been refused It is not in dispute that an award can be executed as a decree in view of the provisions of Section 36 of the Act The only questionfor consideration in this case is whether the word 'refused' used in Section 36 of the Act means afinal refusal after all the proceedings of appeal etc. up to the Supme Court are over or a refusal by the 14 District Judge is sufficient to make the award executable. If the legislature intended that it is only after the application under Section 34 has been rejected at the appellate stage would the award be enforceable it could have used such words as 'finally refused' in the section. As stated above the first situation referred to in the section when an award becomes executable is where the limitation for filing an application under Section 34 has run out and no application has been filed. The application for setting aside the award in the context necessarily means the application filed before the District Judge as it is the running out of the limit ation for such an application which would make the award executable. It is clear, that the opening part of the section does not refer to the running out of the period of limitation of filing an appeal. Now the second situation when the award becomes executable is when 'such application having been made' has been refused. The words "such application having been made" are significant. The words 'such application' refer to the application contemplated in the first situation which is clear from the use of the expssion 'such' which in the context is used to describe something which has been referred to earlier. On the plain language the refusal contemplated in the section is the refusal by the Court where the application is filed and not by the appellate Court. Section 37(1)(b) of the Act provides for appeal against an order 'setting aside or refusing to set aside an arbitral award under Section 34. The reference in the expssion 'refusing to set aside an arbitral award' is obviously to the order of refusal of the application under Section 34 by the Court of first instance because Section 34 refers to an application made before 15 the Court offirst instance. From the scheme of Sections 34, 36 and 37 it is clear that the refusal of the application referred to in Section 36 for setting aside the award is the application filed under Section 34. An interptation that Section 36 refers to the refusal of the application at the stage of the appeal is not possible without straining the language of Section 36 and adding the word 'finally' as qualifying 'refused'. Such an interptation also does not promote any purpose, which the legislature may have had in mind. The purpose of arbitration is to provide a speedy remedy. If the award cannot be executed until it has successfully borne all challenges even up to the Apex Court it cannot be conceived of as a speedy remedy. While the legislature has used the word 'final' in respect of an award in Section 35 the finality being subject to an appeal under Section 37, no such expssion of finality to the decision of an application under Section 34 has been used in Section 36."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		28. Russell on Arbitration (22nd edition) paragraph 6.001 defines an award to mean: "in principle an award is afinal determination of a particular issue or claim in the arbitration
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		29. The Hon'ble Supme Court in Centrotrade Minerals &amp; Metals Inc. vs. Hindustan Copper Limited [(2017)2 SCC 2281 while dealing with the finality of award under Arbitration and Conciliation Act, 1996 observed and held:
+	</p>
+	<p title="Precedent Analysis">
+		9. The general principle that we have accepted is supported by two passages in Comparative International Commercial Arbitration. In Para 24-3 thereof reference is made to Article 31(1) of the United Nations Commission on International Trade 16 Law (or UNcITRAL) Rules to suggest that while all awards are decisions of the Arbitral Tribunal, all decisions of the Arbitral Tribunal are not awards. Similarly, while a decision is generic, an award is a more specific decision that affects the rights of the parties, has important consequences and can be enforced.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		The distinction between an award and a decision of an Arbitral Tribunal is summarised in Para 24-13. It is observed that an award:
+	</p>
+	<p title="Precedent Analysis">
+		(i) concludes the dispute as to the specific issue determined in the award so that it has res judicata effect between the parties; if it is a final award, it terminates the tribunal's jurisdiction;
+	</p>
+	<p title="Precedent Analysis">
+		(ii) disposes of parties' respective claims;
+	</p>
+	<p title="Precedent Analysis">
+		(iii) may be confirmed by recognition and enforcement;
+	</p>
+	<p title="Precedent Analysis">
+		(iv) may be challenged in the courts of the place of arbitration.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		10. In International Arbitration a similar distinction is drawn between an award and decisions such as procedural orders and directions. It is observed that an award has finality attached to a decision on a substantive issue. Para 9.08 in this context reads as follows:
+	</p>
+	<p title="Precedent Analysis">
+		The term "award" should generally be reserved for decisions that finally determine the substantive issues with which they deal. This involves distinguishing between awards, which are concerned with substantive issues, and procedural orders and directions, which are concerned with the conduct of the arbitration. Procedural orders and directions help to move 17 the arbitration forward; they deal with such matters as the exchange of written evidence, the production of documents, and the arrangements for the conduct of the hearing. They do not have the status of awards and they may perhaps be called into question after the final award has been made (for example as evidence of 'bias', or 'lack of due process')."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		11. In International Commercial Arbitration the general characteristics of an award are stated. In Para 1353 it is stated as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"1 353.--An arbitral award can be defined as a final decision by the arbitrators on all or part of the dispute submitted to them, whether it concerns the merits of the dispute, jurisdiction, or a procedural issue leading them to end the proceedings."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		This is subsequently elucidated through four aspects of an award, namely:
+	</p>
+	<p title="Precedent Analysis">
+		(i) an award is made by the arbitrators;
+	</p>
+	<p title="Precedent Analysis">
+		(ii) an award resolves a dispute;
+	</p>
+	<p title="Precedent Analysis">
+		(iii) an award is a binding decision; and
+	</p>
+	<p title="Precedent Analysis">
+		(iv) an award may be partial.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		12. The arbitration result in the psent case has all the elements and ingredients of an arbitration award. Taking also into consideration the view expssed by the above authors, we have no hesitation in concluding that the "arbitration result" in the first part of Clause 14 of the contract must mean an arbitration award given by the arbitral panel of the Indian Council of Arbitration. To this extent we disagree 18 with -the learned counsel for Centrotrade but agree with the learned counsel for Hindustan Copper Ltd. (hereafter referred to as
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		30. Learned counsel appearing on behalf of the respondent referred to the decision of the Hon'ble Supme Court in Paramjeet Singh Pat heja Vs. ICDS Limited - [ 2006 (13) SCC 322 J wherein interpting Section 9(2)(a) and (b) of the Presidency Towns Insolvency Act, 1909, the Apex Court held an arbitral award is "decree" or "order" for the purpose of insolvency notice under Section 9(2) of the Presidency Towns Insolvency Act, 1909
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		31. The aforesaid decision is not applicable in the psent context, the Presidency Town Insolvency Act, 1909 having superseded by Insolvency and Bankruptcy Code, 2016 and for the purpose of 'dispute' as 'existence of dispute', only the pendency of arbitral proceeding has been accepted as one of the ground of dispute. On the other hand, as apparent from Form 5 of Rules, 2016 for the purpose of I&amp;B Code, and Arbitral Award has been held to be a document of debt and non-payment of awarded amount amounts to 'default' debt. Therefore, the aforesaid decision referred by learned counsel for the respondent is of no help to the respondent 32 What has been held by the learned Adjudicating Authority that a dispute has been pending is not only against the provision of law and rules framed thereunder, as noticed above, but is also against the decision of this Appellate Tribunal in Kirusa Software Pvt. Ltd. as noticed above. In this background, the finding of the Adjudicating Authority that a dispute pending is being against the law cannot be upheld.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		33. 'Insolvency and Bankruptcy is an act to consolidate and amend the laws relating to reorganisation and insolvency resolution of corporate persons in a 19 time bound manner for maximisation of the value of assets of such person and to promote the entrepneurship, availability of credit and balance the interests of all the stakeholders including alteration in the order of priority of payment of the Government dues.' Insolvency resolution process is not a money suit for recovery nor a suit for execution for any decree or award as distinct from Section 35 of the Arbitration Act, which relates to execution of an award For the reasons aforesaid, while we hold that Corporate Insolvency Resolution Process can be initiated for default of debt, as awarded under the Arbitratibn Act, we further hold that the finding of the learned Adjudicating Authority that it is an executable matter is against the essence of the I &amp; B Code. The question of availing any effective remedy or alternative remedy, in case of default of debt for an 'operational creditor', as held by the learned Adjudicatory Authority, is not based on any sound principle of law. For the reasons aforesaid, the impugned order passed by the learned Adjudicating Authority cannot be sustained.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		34. The issues Nos. 1 and 2 as framed and noticed above are, thereby answered in the negative in favour of the appellant - 'Operational Creditor' and against the respondent - 'Corporate Debtor'.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		35. Sub-section (20) of Sec. 5 defines 'Operational Creditor', as follows:
+	</p>
+	<p title="Precedent Analysis">
+		5. 11 In this Part, unless the context otherwise requires,--
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		xxx (20) "operational creditor" means a person to whom an operational debt is owed and includes any person to whom such debt has been legally assigned or transferred;"
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		36. Operational Debt is defined in sub-section (2 1) of Sec. 5 as follows:
+	</p>
+	<p title="Analysis of the law">
+		"(21) "operational debt" means a claim in respect of the provision of goods or services including employment or a debt in respect of 20 the repayment of dues arising under any law for the time being in force and payable to the Central Government, any State Government or any local authority;"
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		37. From the record, it appears that the 1st appellant claimed to be an 'operational creditor' on the basis of lease deed. The respondent in its reply has taken a plea that the Adjudicating Authority has confined its finding to point as dealt with in the impugned order and all other points, though urged and argued, have not been considered.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		38. From the impugned order dated 24th March, 2017, we find that the learned Adjudicating Authority noticed the aforesaid plea at paragraph 6 of the impugned judgment, as quoted below:
+	</p>
+	<p title="Court's Reasoning">
+		"6. In order to buttress his stand that applicant is an 'Operational Creditor' learned counsel has placed reliance on a portion of para 3.2.2 of the report of the Bankruptcy Law Reforms Committee Volume I: Rationale and Design and has argued that the report clearly brings out that the obligation to pay rent is certainly cover by the definition of expssion 'Operational Creditors'. According to the learned counsel the expssion 'Operational Creditor 'used in section 5(20) and 5(2 1) of the Code must be construed to include the obligation to pay rent to the applicant as an 'Operational Creditor'. According to the learned counsel the definition of 'Operational Creditor' as adopted in section 5(20) of the Code is not exhaustive but it is illustrative as it is evident from the use of word 'include'. Mr. Nair has submitted that it is well settledprinciple of law that wherever the 21 expssion 'include' is used to define an expssion then it has room to imply many other things as the definition is not exclusive."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		39. However, we find that the aforesaid issue has not been decided by the learned Adjudicating Authority, having not entertained the application under Sec. 9, on other ground of 'existence of dispute'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		40. For the reason aforesaid, while we hold that the finding of the learned Adjudicating Authority insofar as it relates to 'award', 'default of debt' and the 'alternative remedy', are not based on sound principle and against the provisions of law, we refrain to decide the question as to whether the 1st appellant is an 'operational creditor' or not which is first required to be decided by learned Adjudicating Authority.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		41. For the aforesaid reasons, we set aside the impugned order dated 24th March, 2017 and remit the case to the learned Adjudicating Authority, Principal Bench, New Delhi to decide as to whether the 1st appellant is an 'operational creditor' and if so, whether the application under Sec. 9 pferred by the appellants is complete for admitting and initiation of corporate insolvency resolution process. If the first question relating to status of appellant as 'operational creditor' is decided in affirmative, in favour of the appellant, then learned Adjudicating Authority will decide the issue whether the application is 'complete or not' and if not complete may grant seven days' time to the appellants to complete the record as per the proviso to Sec. 9 of the I&amp;B Code.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		42. The appeal is allowed with aforesaid observations. We make it clear that we have not expssed any opinion in regard to other questions such as whether the 1st appellant is an operational creditor and whether the application pferred under Sec. 9 is complete or not, which is to be decided by the Adjudicating 22 Authority after notice to the parties uninfluenced by any observation made in the impugned order.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		43. In the facts and circumstances, however, there shall be no order as to costs.
+	</p>
+	<p title="Conclusion">
+		[Balvinder Singh ] [Justice S.J. Mukhopadhaya]Member (Technical) ChairpersonNEW DELHI29th August, 2017
+	</p>
+</div>
+</html>

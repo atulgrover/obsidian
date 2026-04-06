@@ -1,0 +1,84 @@
+<html>
+<div>
+	<h1>
+		Service of guarantee invocation notice before filing the application under Section 7 of IBC against a Corporate Guarantor on default by principal borrower &ndash; State Bank of India Vs. Shaliwahan Farms Pvt. Ltd. &ndash; NCLT Mumbai Bench
+	</h1>
+	<div>
+		March 17, 2023
+	</div>
+	<p>
+		In the application u/s 7 of IBC, the Adjudicating Authority sought specific clarification from the Counsel of the Financial Creditor whether any notice has been issued to the Guarantor invoking its guarantee under Deed of Guarantee. The Counsel confirmed that no notice, other than the notice dated 10.04.2019 addressed to the principal borrower, has been sent to the guarantor/Corporate Debtor. The Adjudicating Authority held that the Financial Creditor has not made any demand upon the Guarantor. Mere dispatch of notice addressed to the Corporate Debtor recalling the facility cannot tantamount to a demand upon the Guarantor made by the Bank. Since the Guarantor has not been asked to pay the amount in default of the Principal Borrower, it cannot be said that guarantor is also in default in payment of debt owed to the Financial Creditor by the principal borrower. Since no default has taken place at the end of the guarantor/Corporate Debtor, the basic condition of default contemplated un/s 7 is not satisfied.
+	</p>
+</div>
+<div>
+	<div>
+		<div>
+			<div>
+				<div>
+					<p>
+						<strong>
+							 I. Case Reference
+						</strong>
+					</p>
+					Case Citation:(2023) 104 NCLTCase Name:State Bank of India Vs. Shaliwahan Farms Pvt. Ltd.Financial Creditor:State Bank of IndiaCorporate Debtor:Shaliwahan Farms Pvt. Ltd.Application/Appeal No.:CP(IB)-1280(MB)/2022Judgment Date:03-Mar-23Court/Bench:NCLT Mumbai BenchMember (Judicial):Shri Kishore VemulapalliMember (Technical):Mr. Prabhat Kumar
+					<p>
+						<strong>
+							 II. Brief about the decision
+						</strong>
+					</p>
+					<p>
+						<em>
+							<strong>
+								 Facts of the case
+							</strong>
+						</em>
+					</p>
+					<ul>
+						<li>
+							This is a Company Petition filed under Section 7 of the IBC by State Bank of India (the Financial Creditor) on 22.11.2022 seeking to initiate CIRP against Shaliwahan Farms Private Limited (Corporate Debtor/Guarantor) on the ground that as on 31.07.2022, the Corporate Guarantor is liable to pay ₹26,44,96,625/- to the Financial Creditor as the Principal Borrower defaulted in making repayment of the Loan amount of ₹26,44,96,625/- indebted to this Financial Creditor in relation to the loan facilities availed.
+						</li>
+						<li>
+							A notice dated 10.4.2019 issued u/s 13(2) of SARFAESI was addressed to principal borrower only calling upon to repay the liability arising under the outstanding bill discounted, bank guarantees and letter of credit. A copy of this notice was sent to the Guarantor vide registered post, however, this was not addressed to the guarantor.
+						</li>
+					</ul>
+					<p>
+						<em>
+							<strong>
+								 Decision of the Adjudicating Authority
+							</strong>
+						</em>
+					</p>
+					<p>
+						The Adjudicating Authority sought specific clarification from the Counsel of the Financial Creditor whether any notice has been issued to the Guarantor invoking its guarantee under Deed of Guarantee in view of clause 1 of the deed of guarantee providing that &ldquo;
+						<em>
+							 the guarantors shall forthwith pay unconditionally to the Bank merely on demand by the Bank&rdquo;
+						</em>
+						 . The Counsel confirmed that no notice, other than the notice dated 10.04.2019 addressed to the principal borrower, has been sent to the guarantor/Corporate Debtor.
+					</p>
+					<p>
+						The Adjudicating Authority held that:
+					</p>
+					<p>
+						The Financial Creditor has not made any demand upon the Guarantor. Mere dispatch of notice addressed to the Corporate Debtor recalling the facility cannot tantamount to a demand upon the Guarantor made by the Bank. Since the Guarantor has not been asked to pay the amount in default of the Principal Borrower, it cannot be said that guarantor is also in default in payment of debt owed to the Financial Creditor by the principal borrower. Since no default has taken place at the end of the guarantor/Corporate Debtor, the basic condition of default contemplated un/s 7 is not satisfied. We find support from the decision of Hon&rsquo;ble NCLAT in the case of
+						<em>
+							 Edelweiss Asset Reconstruction Company Limited vs. Orissa Manganese and Minerals Limited and Others&nbsp;(2019) 308 NCLAT
+						</em>
+						 wherein it has held that &ndash;
+					</p>
+					<p>
+						<em>
+							 &ldquo;26. It is also not the case of the Appellant- &lsquo;Edelweiss Asset Reconstruction Limited&rsquo; that it has not received the amount from the &lsquo;Principal Borrower&rsquo; on default and, therefore, it was liable to invoke the Bank Guarantee which it invokes. In this background, the claim having not matured in absence of alleged default on the part of the &lsquo;Principal Borrower&rsquo; and for non-invocation of the Bank Guarantee, the Appellant- &lsquo;Edelweiss Asset Reconstruction Limited&rsquo; claim cannot be accepted the debt payable by the &lsquo;Corporate Debtor&rsquo; as on the date of the admission (initiation of &lsquo;Corporate Insolvency Resolution Process&rsquo;).&rdquo;
+						</em>
+					</p>
+					<p>
+						In view of foregoing, we order that the present petition is not maintainable and dismissed accordingly.
+						<strong>
+							 (p4.2-4.3)
+						</strong>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</html>

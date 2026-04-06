@@ -1,0 +1,1086 @@
+# Webinar | Turnaround of Power Company under IBC
+![](https://img.youtube.com/vi/tR7qjE1AXIk/hqdefault.jpg)
+2 weeks ago (Jun 28, 2024) — 2:20:44
+[https://youtube.com/watch?v=tR7qjE1AXIk](https://youtube.com/watch?v=tR7qjE1AXIk)
+
+
+## Summary
+The webinar focuses on the turnaround of a power company, specifically a thermal power company with a 600 megawatt capacity. The company had been non-operational for 68 months due to a lack of Power Purchase Agreements (PPA), Fuel Supply Agreements (FSA), and financial stress caused by cost overruns. The company's size is 2500 crores and only phase one of the two-phase construction has been completed. The common facilities for both phases have been constructed. The presentation covers a case study of the company's turnaround using a framework by Slater and Barlo, which includes crisis stabilization, new leadership, stakeholder management, strategic focus, critical process improvement, organizational change, and financial restructuring. The presentation also discusses the power sector in India, its growth, and the role of thermal power in the country's electricity generation. The power sector contributes 25% to global greenhouse gas emissions, and India has committed to being net zero by 2070. The presentation also covers common terminologies used in the thermal power sector, such as kilowatt hour, power purchase agreement, plant load factor, fuel supply agreement, pit head power plants, capacity, and ultra-mega power plants.
+
+## IC Institute of insolvency Professionals will share our perspective on turnaround of a power
+0:00
+And thank you IC Institute of insolvency Professionals for having us here to share our perspective on turnaround of a power company, and Raven will then speak about he'll share his legal perspective on the CRP of power companies. So with this we can start the session. So this is the workshop outline the first half would be. We'll be speaking on an overview of the power sector. 
+
+0:36
+Then we'll briefly touch upon the power sector under IBC, how the CP or liquidation of power companies has fed so far, and then we touch upon the or we'll go into details of a case study of a power company, a thermal power company, which was making losses and how the operations of that company were turned around during the CRP period. 
+
+1:07
+So just to give you a brief perspective on the power sector and why it is so important as a sector. India is the third largest producer of electricity globally, after China and USA, with an installed capacity of about 430 gwatt. Our per capita consumption currently stands at about 1 300 kilowatt hour, which is also called the unit. As we know in the common parans. 
+
+
+## Electricity Generation is a rapid Pace in the last 15 years
+1:38
+This has doubled in the last 15 years and but however, it continues to be low as compared to the global average, which is around 3600 units per person. Electricity generation has grown at a rapid Pace in the last 2, three years. However, if we look at the data for the last 15 years, the CAG growth has only been about 4 8%. 
+
+2:03
+However, over the next 5 years 10 years in line with the economic growth and the electrification which is happening in the country, where every household is would be connected to the grid. This number would shoot up massively in terms of capacity. Thermal power continues to be the main state of power generation in our country. It contributes to about 7.5% of the generation, though in terms of the capacity it stands at about 57%. 
+
+2:36
+Thermal power generation and that can be broken down into cool based and gas based. Cool based capacities contribute to about 51%, and 6% is contributed by gas based facilities and then the balance 43%, comprising of hydro, wind, solar and nuclear add up to 43%. however, among this 43% hydro and wind and solar. They are major contributors in terms of the split between the ownership. The private sector contributes to about 50% of the installed capacity. 
+
+
+## State contributes to about 25%, and 25% is by the central sector.
+3:16
+State contributes to about 25%, and 25% is by the central sector. So since 2003, when the electricity Act was enacted and that Consolidated the major acts which were prevailing then, there has been a tremendous growth in the power sector, with lot of capacity additions happening, and the government of India over the last several years has taken several initiatives to further the growth of this sector. 
+
+3:58
+As most of would be aware, this sector comprises of three parts. You can say you can divide it into generation, transmission and distribution. So all these legs are being given an impetus by the policies. certain policies like UD, ipds, nsgm, shaki scheme. They have been undertaken to improve the financial health of the discoms, which are the major consumers, and the health of the generating companies. 
+
+4:28
+It goes without saying that the health of the generating companies would be would continue to be dependent upon the health of the discounts, because if the payments are stuck with the discounts for very long time, then the health of the generating companies gets affected and many of for many of the companies this has been a major reason for the stress. 
+
+
+## Government has stated that if the dues are not cleared
+4:52
+What the government has done is they have stated that if the dues are not cleared Within a particular period of time, that is, after the due date and after giving some grace period of 45 days, then the discoms will not be able to buy power from the exchanges, and this has worked well, and they have cleared vies of about 1,3 to 1,4 lakh cres to the generation companies, increased electrification, rooftops, solar schemes I mentioned that these are these have helped in generating more demand and renewable energy continues now is the focus, given the commitment of India in the earlier cops and the recent cop 28 which was held in Dubai last year. 
+
+5:53
+So, as I mentioned, while over the last 15E period, if you see the electricity consumption as gone up by back has gone up by only 4 8%. However, last year the electricity growth was around 10% and in terms of investment, it is as per the national electricity plan. Investment of around $400 billion a huge number is would be required over the next 8 n years to meet the rising energy needs. 
+
+6:25
+So a lot of investments will go into both fossil fuel and non fossil fuel plants. These things I mentioned that the factors which are leading to increased demand or increased industrial activity and growing population and electrification which is happening. So the next electricity Act, the electricity act 2003, brought in massive changes as compared to the earlier regulations. it is a comprehensive regulation legislation which legislates the power distribution, generation and transmission. 
+
+
+## Electricity Act 2003: A State Subject
+7:18
+As you would be aware, electricity is a concurrent subject in the Constitution. Hence it can be legislated by both the parliament as well as the state legislature. However, distribution continues to be a State subject. What electricity act 2003 assured in is a license free regime, and it increased the competition among the players, allowed entry of private players. 
+
+7:48
+That has resulted in an increased Supply, increased capacity Edition, and India is now, as I mentioned, is the third largest producer and consumer of electricity see. while this sector continues to be one of the key sectors which drives the economy from an environment perspective. It is very essential that the there will be sustainability in the sector and that can be brought in by weaning away or from the fossil fuels and concentrating on the renewable energy. 
+
+8:34
+This sector contributes to about 25%, that is the estimate of the total green Global greenhouse gas emissions. Hence, countries together earlier, through the Paris Accord and through the climate Accords, they have been pushing for a reduction in the greenhouse gas emissions cop 28, which was held last year. They have approved transitioning away from fossil fuels. The a road map has been laid down. however India, given its Economic and Development needs. 
+
+
+## India has committed to being a net zero, but having a net zero position by 2017
+9:10
+They have stated that they do not intend to walk away from the coal generated power in the near future, at least for the next 30 40 years. While India has committed to being a net zero, having a net zero position by 20170. However, capacity additions in the thermal power sector will continue to happen, because coal continues to remain in abundance in our country and cool generated power is a reliable source of power. 
+
+9:47
+Just to touch upon some common terminologies which are used in the thermal power sector, one is what we call the kilowatt hour, or the unit, which is the measurement of electricity consumption. The electricity bill that we get in our households is who has this units? PPA is the power purchase agreement is an agreement between the seller and the buyer, so between the electricity generating company and the buyer. 
+
+10:15
+Most in the most cases it is these are the discoms. Plant load factor is the percentage utilization of the plant. So let's say 60% of plf means that 60% UTI ization of the plant. FSA is on the supply side. Fuel supply agreement, as we call it's a contract for supply of fuel to a power plant, mainly by the coal India and its subsidiaries. 
+
+
+## How to Build a Power Plant for Long Term PPA
+10:46
+So wherever I have a long term PPA, I ideally I should have an FSA in place, because if I have to supply for 15 years or 20 years or 10 years, I need visibility in terms of getting my linkage is in place. pit head power plants are the plants which are located close to the commercial coal mines. 
+
+11:07
+They have the advantage of having lower costs because the source of poal is located close by and there are less. There would be lesser Transportation cost, so the cost of coal overall would be low. Also, shorter distances means that lesser leakages. Capacity is what we Define as the continuous loot carrying ability of the power plant, which is generally expressed in megawatts. When we say 300 megawatt plant, 600 megawatt or 1200 megawatt plant. These are the. 
+
+11:43
+This is the rated capacity. Ultra Mega power plants are the focus. They are plants which have more than 4 000 megawatt or more of capacity. the efficiency of these plants is very high and hence these plants are required and the focus of the government is on setting up of more of these power plants. Now coming to the, we talked about the power sector. Now coming to the thermal sector. 
+
+
+## How much does it cost to set up a new C based plant
+12:17
+The thermal power sector contributes to 57% of the total capacity. However, given that it has a higher EF, it contributes to 75% of the overall generation. In our country, cool based capacity is around 208 gwatt in January 2024. That is expected to almost double by 2040. As I mentioned that India would continue to add more pool capacities, given the growth that it is seeing and the growth needs. 
+
+12:51
+The economic growth has to be supported by a reliable source of power which remains cool. I just mentioned the cost. what? How much does it cost to set up a power plant? Earlier estimates were five, 5 cres per megawatt, 6 cres per megawatt. 
+
+13:10
+These costs have gone up and as Per a recent report by the ministry of power, when they say recent, about a year old, they have said that a new C based plant will cost about 8,34 crores per megawatt. So if I have to set up a th000 megawatt power plant, it would cost me some 8,300 cres, and setting up of power plants has a long gestation period. I mentioned that coold fire power plants. 
+
+
+## Why are we dependent on cool based thermal power plants?
+13:38
+They provide an a reliable source of power. Reliable and constant source of power. Unlike in case of wind, solar and hydro, which is available at certain times or certain days in the year. this a coal based plant can be run continuously and hence the plf would be very high. And now coming to why the dependency on? Why are we dependent on cool based thermal power plants? The reason. 
+
+14:11
+One of the reasons is that India has abundant cool reserves. India ranks fifth in the world in terms of cool reserves and in terms of cool production and consumption, India ranks second in the world. 
+
+14:24
+We produced about a billion dollar billion tons of coal in the last year, which was a 12% increase compared to the earlier year, and for the current year it is expected that 10% that increase would be there and hence we would do about 1,1 billion tons of gold. The target of the government in the next few years is to reduce the dependency upon imported coal. 
+
+
+## Power Plant Al: Why IBC is Stressing Power Plants
+14:49
+Hence coal India is working aggressively towards boosting its output and meeting that Target. Now coming to major reasons for the stress in case of Power Plant Al. So we have seen that many thermal power plants, Hydro power plants, they were under stress. Many of them have been resolved under IBC. There are a few cases still under IBC which are getting resolved. 
+
+15:25
+Like any other Capital intensive project, this setting up of a power plant has a long gestation period and typically because of the delays in getting approvals, getting land clearances, Financial closure, the cost overun would be there. That makes the project unviable. A lot of capacity addition, which happened in our country earlier. That happened without corresponding TI up of PPA with the discounts. So on one hand I have their capacity. 
+
+15:59
+However, there were no takers for that capacity. Also, there was a mass cancellation of the coal blocks due to a Supreme Court verdict. A few years back, some 200 plus coal blocks were cancelled, which led to a situation where the power producing companies which are tied up with these for fuel with these schol blocks they were stranded because they did not have a fuel Arrangement. 
+
+
+## Gas Based Plants for Thermal Plants After Co.
+16:32
+As I mentioned, the last few years the last 15 years number, if you see, there's only been a growth of about 4 8%. However, the capacity additions after the electricity Act of 2003 were massive. So there was a demand and Supply mismatch, also for thermal power plants, while coal is available in abundance. There were two challenges for gas based plants which are dependent upon natural gas. 
+
+17:03
+The plants were set up with the thinking that you would get fuel from the kg Basin. However, given the low output, the domestically produced fuel is not available and hence to rely upon imported fuel is not becoming very viable to operate a gas based plant for thermal plants after Co. 
+
+17:27
+Because of the ukra War which happened and other geopolitical factors, the prices of imported cools went up by two times, three times, four times, and that made them very. That made them unviable for a long period of time. So this table. I have put some of the cases. One of some of the major cases which have been res resolved under IBC. 
+
+
+## Almost 20% recovery for power cases so far
+18:03
+If you see, the average recovery so far has been in the range of 1,75 crores to 2 crores a megawatt. however, in the current market scenario, where the demand is booming, the existing cases which are yet to be resolved, they are seeing an increased realization for the financial creditors. Also, some of these cases there were plants which were not fully complete. 
+
+18:35
+So to say that the realization was very low may not be very correct because they were not operational plants or not complete plant. About 20% recovery has been seen for the power cases so far and about little over 2 and a half years of for the resolution time I have highlighted one interesting case of jaua power which was taken over by ntpc, in this case the lenders. also as a part of the resolution. 
+
+19:10
+They also bought a 50% equity and that has helped them the rich dividends which are being paid out by ntpc. As was reported in the news. That has helped the lenders recover a large part of their recoveries. So this could be a viable model where lenders take an upside into the equity. They take some equity and hence they Shar the upside. 
+
+
+## 2023 cases which are there, if you see them, they have shown higher recoveries
+19:40
+If you also just to highlight the recent, if you see the 2023 cases which are there, they have shown higher recoveries as compared to the earlier years because of the changing demand scenario and the industry scenario. these are some of the major cases which are undergoing a resolution in the CRP ksk mahanadi. About 18800 megawatts in thermal 1350 Coastal energ 1200 lanco conduct 600 SKS Power 600 for postal lanco and SKS. 
+
+20:21
+The resolution plan has been approved by the COC ksk madii was report Ed recently that fresh bits have been invited to start the process on Standalone basis and sner thermal is as the process has started. So these cases it is expected that there would be a good recovery for the lenders, much higher than what was there in the for the earlier cases. One of the other. 
+
+20:57
+One of the additional reasons for this is that many of these are operating companies and operating companies are generating cash and the rfrp normally stipulates that the cash which is there in the company as on the transfer date will go to the financial creditors and that is increasing the recovery for the lenders. 
+
+
+## The thermal power sector, the thermal power sector, how the resolution has happened under IBC for
+21:22
+Having touched upon the power sector, the thermal power sector, overview of that and how the resolution has happened under IBC for the thermal power cases, let us come to the a case study of the turnaround of a power company. So this is a turnaround framework given by Slater, loet and Barlo in 2006 in their book The. These are the seven points which they say are very critical when you want to turn around a company. 
+
+22:07
+So one is a crisis. Stabilization, new leadership, stakeholder management, strategic Focus, critical process, Improvement, organizational change, Financial restructuring. We would. In the coming slides, we would see that all these points have been covered and only when you address most of the these points you'll be able to see a financial turnaround. So about this company? It's a thermal power company with 600 megawatt capacity with a dead size of 2500 cres. 
+
+22:49
+It was early earlier nsas that 1200 megawatts would be constructed in two phases: phase one comprising of 6 megawatt. Phase 2 comprising of 600 megawatt, and each of these phases would consist of two units of 300 megawatt. Each phase one has been constructed. Phase two has not yet been constructed. The common facilities have been constructed for both the faces. 
+
+
+## Why the CRP was shut for 68 months
+23:15
+The reasons of default are the same as I had mentioned, for which are common for most of the thermal power companies, which is the lack of PPA, lack of FSA, the and cost overun the health of the time that puts in stress on your balance sheet. Also, the CRP commenced in April 2022. So it's been a little over 2 years now. So when we took over this plant, the operations were shut. 
+
+24:01
+They were shut for the last 68 months because there was no maintenence and the company was short of working capital, because the company was in NPA the but there was a cut back and banks used to cut back a significant portion, about 1.20% of the overall receipts, and because the margin were not so much as time progressed there was an increased because of these cutbacks. There was an increased pressure on the working capital. 
+
+24:38
+The creditors were mounting, inventories were at a depleted level and hence plant was shut. One of the key reasons for the stress as I had mentioned in this company was that it did not have significant bpas and whatever ppas were there. They were not profitable. 
+
+
+## Power Supply: A Complete Guide to Power Supply
+25:03
+Because of an interim order of the Supreme Court, the company was forced to sell Power at a rate which was nowhere close to the market rate and on top of that it did not have linkage pool. So it was a long term PPA and the company did not have linkage cool, which meant that it had to buy cool in the auction in the market and which was pushing up the cost of generation. 
+
+25:33
+Every unit that the company was selling it was incurring losses. But because there was a supreme court order, then nobody wanted to kind of pull the plug and stop the unit, because that would have meant that you are not obeying the supreme court order. So this was one of the major drains into the, into the profits. also there were several unresolved disputes with the discoms. 
+
+26:05
+One of the major factors for the generating companies going down under is because of the financial health of the discoms. Typically, when you, when the discoms do not have money, they would res. They would resort to calling out some lapses in the supply of power and that would result in disputes. So this company had supplied power, but there were a lot of backlog of receivables with several discounts. There were huge penalties which this was a. 
+
+
+## Power Production Company & Trading Company - A Cycle In Stress
+26:44
+This was a cycle where, because of the huge receivables, you were not able to supply power and because you were not able to Supply Power, huge penalties would be levied because, as for the PPA, you need to Supply Power, keep your unit available and Supply Power for 85% of the contract value. so on one hand you did not have enough ppas. You did not have fsas, which is the linkage C, which was which you need. 
+
+27:22
+Also added to that you had an owner's contract with a Trading Company, so where this power producing company had given exclusive rights to this Trading Company, saying that we will do all short term, long term and medium term PPS through you only and this Trading Company, because of the credibility of the power company. The units were not being operated on a regular basis. 
+
+27:50
+They were not tying up power, so it was very essential for the company to walk out of this owner's contract so that they could enter into contracts with other trading companies or through or directly with other discounts. typically when the company is under stress, you would see that key employees would leave the company. That remains a major challenge for managing any stress company. 
+
+
+## What was the interim Finance requirement for the CP?
+28:25
+In this case, there was no involvement of the promoters or Board of Directors for the last couple of years before CP and hence there was a management vacuum. So the head of the commercial operations, the senior most employee who was taking care of the company, and there was a mass Exodus of key employees because of this and lack of working capital, where your dues used to pile up. 
+
+28:57
+There were frequent issues with the suppliers, there were inter departmental conflicts and hence the moral of the employees was very low. another major issue which we faced was that the financials of the last four years were not finalized due to some management differences, and but that was a key task which was thrusted upon us to complete as a resolution professional. 
+
+29:39
+So these were some of the key issues which we faced and how did we go about turning around the unit? What were the key steps that we took? So, first of all, before we start any unit or because there was a lack of working capital, there was a clear need for interim finance, and so we worked out an interim Finance requirement of about 100 plus cres to start the unit and operate it, and this was an initial requirement. It was a herculan effort to get the interim Finance. 
+
+
+## Finance Fund raised for the unit in the interim
+30:26
+However, the after a lot of discussions, the committee of creditors was very supportive in our case and they granted an interim Finance of 100 plus crores. This would be used towards the essential maintenance of the plant, to pay off the salaries of employees and for buying coal and the required fuel. So basically for working capital purposes. So we raised the interim Finance operated. 
+
+31:01
+The unit started the unit in about 3 months from the insolvency commencement date. However, there was a very strong monitoring of the cash flows and the expenditure that we were incurring. The unit was running into losses for the first 6 months of the operations. However, so we one may argue that Bo concern is a is an underlying principle which should apply for companies under CP, and you shouldn't run the unit at a loss. 
+
+31:42
+However, we could foresee that once we cross a minimum threshold, we would start generating profits, and the lenders reposed faith in us. Also, we had a very good technical partner with us and hence the lenders were assured that whatever costs are being incurred, they are being incurred in the right Manner and they are being put to a very productive use. 
+
+
+## Resolving the Limits of Interum Finance
+32:12
+So we approved the lenders again after a 5 Monon period and requested for another 100 crores of interum finance. And major issue we faced then was that our limits were overdrawn because the any cost that we had anticipated earlier or the losses that we had anticipated earlier they had gone up, and for a lender to sanction a facility when the existing facilities are overdrawn is a challenge. 
+
+32:46
+So we had to work towards resolution of the or bringing back the limits within the acceptable levels, utilization within acceptable levels, and then we were giving an additional sanction. So when we started as a resolution professional we I and my team we did not have. We did not have technical expertise. Of course, we were not expected to have a technical expertise into how a boiler operates or how a turbine operates, how the machiner operate. 
+
+33:28
+So all those these things we did not know. However, it was essential for us to understand it from a commercial perspective, understand the unit economics. Understand where are the linkages, where the coal comes from? What is the conversion? What is the cost per unit of cool? What is the cost at which I'm selling? Where am I selling? Is my? are my reable secured or reliable, or I would run into bad debts. 
+
+
+## What We Needed to Know About Our Personal Finance
+33:56
+So all these things we obtain an in depth understanding through discussions with the employees and our technical Partners. So this helped us identify the key pain points or the critical areas which we needed to address. We there were multiple issues, but we had to focus upon only a few points or a few key issues which would turn the needle comp last time. Whose computer did we use? 
+
+34:31
+Sorry, I guess somebody's then let us useas but is not. Can you please put your mic on mute, please? Oh. What we also did is we had to overhaul the entire organization structure which was there when we took over, especially the finance function, which was a kind of a weak link in the overall organization. we did not have a CFO. 
+
+35:13
+We did not have any of the KMS, in fact, and we had to ensure that we get the right people into the company, either as a retainer or as an employee, and that was a major challenge. We saw we saw at least three head of CFOs roll over in the 2 year period that we are running this entity. 
+
+
+## Appointing a Cash flow monitoring agency would give a lot of comfort
+35:39
+What we thought is appointing a cash flow monitoring agency would give a lot of comfort and would add an additional layer of checks into all the payments that are happening. So we appointed a reputed agency to verify all the payments. These were simultaneously also being verified by the RP and RP team. we a task was Major. 
+
+36:07
+Task was finalization of the accounts for the last four years, and we faed a challenge and obstacle where the directors were not willing. We had to resort to filing an application to nclt. This went to enat and then enat also upheld that the directors have to cooperate and sign the financials. So we were successful in getting an order and since then we have finalized for two years and other two years is underway. 
+
+36:45
+So one of the key things is that you need a credible technical partner. The company did not have the right talent because whatever Talent was there, most of the people had left, so you were left with people who wouldn't find jobs outside. So there was a huge vacuum in that sense. 
+
+
+## Having a credible UNM partner would add to the value of the unit
+37:12
+Hence we thought that it would be very essential to have a credible partner who would do the UNM operations and maintenance for the power plant, and we discussed this with the committee of creditors, and the committee of creditors was also very willing and they understood the perspective that to have a credible UNM partner would add to the value and would also assure the resolution applicants that the unit, once it starts running, is being operated in the right manner. 
+
+37:50
+There are enough spares available, the efficiency of the unit is good. So from that perspect perspective, I think this is one of the key learnings that we got from this. Even if the cost initially, when you do not have funds, your focus is on cutting the cost. but even if the cost seems prohibitive, you should probably get in a good onm partner who? 
+
+38:17
+Or a good technical partner who can assure the assure, give an assurance or give you comfort as the RP give the Comfort to the COC and to the resolution applicants. This part I mentioned that we overhauled the entire organization structure. The policies. The Matrix for approvals fill in the PMP requirements, so all the vacancies we tried filling in and we also appointed a factory occupier. 
+
+
+## What We did for turning around the factory OCC
+38:57
+As for the factory OCC, as for the factories act, it is essential that the unit has a factory occupier who would be responsible for the unit. A resolution professional would find it very difficult to take over this owner responsibility. so we appointed somebody who was based at the plant as the factory occupier, with the approval of the committee of creditors and wherever there were vacancies. 
+
+39:27
+We first tried to look internally if there were some deserving candidates who probably were not so much experienced in terms of the number of years, but however they could do the job. We would Elevate those employees and motivate them to take up additional responsibilities. Of course we the additional responsibilities came with additional pay for them, and we did not try to save our cost there. So what did we do for turning around the unit? 
+
+40:05
+From an operational perspective? It was very important. Three things were very important. One is that we needed to have an assured supply of coal on one hand. second part was that we needed to have our ppas in place, which are profitable. 
+
+
+## If you want to continue with this PPA, you should consider terminating it
+40:29
+So what we did is we had a low profitability PP, as I mention, because of a supreme court order, we were forced to supply on a at a tariff which was almost half of the market rates and we were making losses there or after we got the linkage pool, we were making some amount of profit maybe 1020 PES per unit we were able to make. 
+
+40:59
+A critical decision we had to take is whether to continue with this PPA. This PPA was for a 15E period. Balance period was about 15 17 year, so that, and probably this was the only long term PPA that this company had. so it was a very tough decision on whether we should continue with this PPA or we could look at terminating this PPA. 
+
+41:28
+So initially, when we took over, it was very critical for us to have a PPA, because in a power plant, let's say 300 megawatt power plant, you cannot if I get a 20 megawatt worth of orders or power supply arrangement, I cannot operate the plant I there has to be a technical minimum, as they call it, so it has to run at say 150 megawatt or 160 megawatt capacity in or this. 
+
+
+## Final Decision: Final Decision on Final Decision
+41:58
+So we needed this PPA to achieve the technical minimum. So initially, even if we were making losses or had bare minimum profits in this case, we took a decision that we would continue with this PPA. however, after a year or so, when the operation stabilized and the descom, on the other hand, wanted even lower prices. That is where we took a very tough decision of terminating this vpa. We had to there. 
+
+42:31
+We had to have several rounds of discussions internally, had to build a consensus with the stakeholders, with the COC members, and also because the resolution plan was approved by then. So we also had kept the resolution successful resolution applicant informed on our decision and they were also agreeable with the stand that we had taken, and hence we went ahead and ated this long term PPA. 
+
+43:00
+What it meant for us is that this freed up this capacity of about 100 megawatt, and when the market is very good, you are getting good prices in the exchanges. Also, or by entering into short term contracts, we were able to generate more than double the amount that we would have we would have made had we kept this p PA alive. 
+
+
+## What PPA to enter into short term ppas, medium term ppas
+43:30
+Also, there was a continuous involvement of the rpn RP team, along with the commercial team and ntpc, for deciding on what PPA to enter into so short term ppas, medium term ppas, long term ppas. Typically you would want to avoid because CP period normally about 330 days. That's the stipulated period. so whether you would take a decision of entering into a PPA and binding the incoming investor with this long term contract. 
+
+44:06
+That becomes a very difficult decision, but you have to take a call on considering that an optimal mix kind of you will have to have an optimal mix of short term, long term and medium term PPA in order to run your plant, and going concern Remains the primary underlying in this case. So we entered into several short term ppas which helped us increase our utilization. 
+
+44:39
+The utilization touched 56% in the last year and the current year we expect to do about 75%, so this ensured that the capacity is being utilized efficiently and hence the overheads are spread across the units. A major decision we took was to enter into a new PPA. 
+
+
+## 5 Years PPA: How to Buy Pool at 5 000 rupees, 6 000 rupe
+45:07
+It's a very rare case that a company which is under insolvency, that participates in a tender and then you get you win that bed to Supply power to the discoms for a 5year period. So initially we had discussions we were not very convinced on whether we should go in for a 5year PPA. 
+
+45:30
+However, given the litigation in the resolution process whereby the time period for resolution was elongating, we had a relook at our strategy after 3 months and then we decided to participate in this medium term PPA of 5 years, which also gives us linkage pool, and this PPA has kind of added a lot of value in terms of the revenues, the profitability and hence the overall valuation of the company. 
+
+46:16
+As I mentioned linkage pool for the PPA, where we had to supply at rates much lower than the market cold India had refused giving linkage pool to the company. This was before CRP initiation. When we came in, this was one of the critical things for us to address, because I couldn't be buying pool at 5 000 rupees, 6 000 rupees a ton and selling power at 3 rupees a unit. 
+
+
+## How to get linkage coal from coal ministry
+46:48
+So if my cost of production is 4 rupees, I cannot sell at 3 rupees because that becomes unsustainable in the shortterm. Also so we had as RP. We had this opportunity of interacting with the ministry of power and we impressed upon the them that without getting the linkage F, probably we might have to shut down the unit, and it was essential for the CP as well as it was very important for the country as a whole that the power plant, all the power plants, keep running, and SKS, which had its plant, which was in a condition way which could operate that would need a linkage pool. 
+
+47:39
+So, with the support of the ministry of Power and the coal Ministry, we were able to get the linkage coal and this was a big step in the turnaround of this company I mentioned regarding the capacities being tied up with a power trading company, and there was a lot of distrust and they were. hence they were not willing to negotiate. It was we had couple of meetings with them. 
+
+48:15
+We tried to we negotiate tactfully and then arrived at a common ground that the agreement be terminated without any payouts from either side, and it was so. We arrived at a win situation where they were relieved of the requirement of having to get us short term, medium term, long term contracts and we also got a free hand where we could go to other trading companies. 
+
+
+## How to overhaul the plant in a condition which has least number of breakdowns
+48:44
+We could go directly to the discoms and enter into the ppas. Maintaining the plant in a condition which has least number of breakdowns was very important and to have the adequate levels of spares and was also very critical. So along with the ntpc team, we worked out the requirement of spares. we had a limited budget, so we had to prioritize on what item to buy. 
+
+49:22
+There was a lead time in some of the spare items, so all those things had to be worked out. The plant had did not had not undergone overhauling for a long period. There were two units at a time. We could take one unit under overhauling. That meant an expenditure of in excess of 20 cres. However, we took a decision that over overhauling has to be done, which would improve the efficiency. 
+
+49:53
+Otherwise, the unit was seeing frequent breakdowns. So after the overhauling, the operational parameters of this unit improved significantly. The number of breakdowns also reduced, and now we are going ahead with overhauling the other unit also. Normally you do the overhauling during the lean months of rainy season. this is been planned this year. Also, we have allocated massive budget for the overhauling exercise. 
+
+
+## Power Company litigation & a positive outcome
+50:32
+A key thing in for a power company is, of course, are the underlying commercial contracts, and the company had a lot of litigations ongoing with the discoms with even the banks where Bank guarantee was invoked. The money did not come in understanding. 
+
+50:53
+The litigation was a very important thing, which we, along with our legal councils, took great interest, and we put in a lot of interest, a lot of effort into that, because the stakes were very high. We had a litigation which had an impact of 70 cres, another litigation with impact of 100 cres, another one with 180 cres. So all these litigations put together had a value of in excess of 500 crores. 
+
+51:26
+So we had to ensure that we have a topnotch litigation lawyers who would lead the company's cases in the courts, and we were successful in getting positive outcomes. In most of the cases we have got a positive outcome. However, some of these cases have gone into appeals, but we expect a positive outcome at the Apex level also. So with all this, what has this is the financial impact revenues of this company. 
+
+
+## 202.22 is pre CRP period. We did 570 cres
+52:11
+202.22 is pre CRP period. The company had done 570 cres CRP first year of operations. We did about 516 cres. This was the period where the plant was shut for the first 3 and a half 4 months and hence also there were challenges in terms of the viability or operability of the plant. 
+
+52:37
+Because of the lack of space, we were able to turn around the unit become achieve a break even in about 8 months of operations, and since then we were we have been generating profits, so 2 last Financial year we closed at the highest ever turnover for the company, about 1367 the we. The current year Target is 1 800 cres and now we are on the growth trajectory. 
+
+53:10
+ABA levels which were negative in the pre cp period and also in the first year of CRP. In the second of second year of CRP AA levels are about 25% and we are now at almost at par with the industry in terms of the capacity utilization, the operational parameters which are there, in terms of the coal usage per unit or the auxiliary power consumption and the overall profitability. We would do about 2.30% this year. 
+
+
+## 600 CR kind of movement has happened in India
+53:48
+Also, last year we did about 350 crores of positive ABA, which has resulted in going from U moving from a negative balance of 200 crores plus CRP cost of about 50, so from minus 250 crores. We currently are at a position where we have fixed deposits in the Bank of about 350 crores. so you can say a 600 CR kind of movement has happened. Plf has increased to 56% in the last year. 
+
+54:23
+Current year we are targeting about 7 5%. All India average of plf is around 60 65%. What has that resulted in? For the creditors? So, as they say, the proof of putting is in Eating. After the financial turnaround which has happened, the lenders are seeing the financial crators are seeing 100% recovery of their principal plus interest. 
+
+55:00
+So one of the few cases which will see a 100% recovery for financial craters this has been reported in the press also, and operational creditors would also recover a substantial portion. the initial bids that we got initially were at a level and when we got the revised bids because the unit was operating, we got almost double the value of that. It was a CR kind of a jump which happened. 
+
+
+## CRP cost, intering finance, kex spare purchase
+55:37
+I mentioned regarding the CRP cost and the intering finance, from a negative of 250 cres. We are currently at about 3 350 crores of positive cash balance and the operations are now self sustaining and we have laid down a plan for incurring the regular capex. We are not indulging in penny pinching, we are not splurging. 
+
+56:06
+However, we are ensuring that from a long term perspective, the unit remains in a very good health and hence all necessary kex spare purchase, which is recommended by our technical partner. we are not cutting down on that and we are in the productive cost. Some of the key learnings for us for from handling this project, which we were able to successfully turn around. 
+
+56:47
+First question is: why is turnaround under CRP more difficult than turning around a unit outside of CRP? One of the major reason reasons that I feel is because you don't have a visibility on how long you are there for when your strategy should be for a shortterm, medium term, longterm CRP, maybe for one year, two years, 3 years, and it is like kind of like a moving shift. 
+
+
+## What Does It Mean to Be Flexible with Your Strategy
+57:13
+So taking decisions at different points in time and being very flexible in terms of the decisions that you take is very critical. initially we said no to terminating a PPA, but after 6 months, after one year, our strategy changed. Initially we said no to bidding for a long term PPA, medium term PPA. After 6 months we decide. We decided to go back and change our strategy. We decided to bid for that PPA. 
+
+57:42
+So what does not look good initially may seem very different after some points of time. So you have to be very flexible with your strategy. Contracts Remain the underlying, because they are the Genesis of the cash flows which the company generates. Understanding the contracts, having flexible contracts, not tying yourself down to some contracts which limit your ability to or doesn't give you flexibility. That would be that would sound the death nil for any company. 
+
+58:15
+So under CRP, while you are, you are obligated to honor the past contracts. Also, maybe you would want to relook at some of these contracts, renegotiate the contracts if they are not feasible or they are not commercially viable for the company. There would be any CP company would have say 100 things where you might want to make changes, and it is often very tempting to try to address all these issues. 
+
+
+## How to focus on the key things that would actually move the needle
+58:49
+But you have limited bandwidth and you don't have the technical expert is also you have to depend upon people for that. So you should focus. What we learned is that we should focus our energies on only critical things which would actually move the needle. so the classic principle of 8020 is what we adopted and wherever we saw that there would be high impact, we would focus our energies on that. 
+
+59:19
+Whatever is whatever could be tolerated or was within the acceptable levels. We wouldn't want to go in there and fix those things also initially, as I mentioned, we you need to have flexible strategies, also in terms of the way you operate. So earlier we started with a kind of a control and command approach. Then we went into as the unit stabilized. Initially there was a lot of firefighting where the key Focus was survival after survival. 
+
+59:55
+We went into consolidation. Now we are into growth phase. so when you are into consolidation and growth phase. It became important for us to move away from this control and command model and then be an enabler. So the role of RP as an interim CEO we have shifted from being an enabler in Chief kind of a person working along with stakeholders is very important. 
+
+
+## RP: What is the key stakeholder and all decisions should be taken in consensus with the
+1:00:23
+COC, uh, is the key stakeholder and all decisions should be taken in consensus with the COC. You may not see I to ey on some aspects. However, it is the responsibility of the RP to provide all the underlying data and the rational for whatever decisions you want COC to agree upon. Other than that working with the employees is also very critical under CRP. We are tempted to tell them that compan is under CRP. 
+
+1:00:59
+I will not be able to give any increments this year. First year our increments were delayed, but we were looking at stabilizing the unit and there was mass attration. Hence, unless we operated in line with the industry gave increments, bonuses, promotions, in line with the industry, we wouldn't attract the right Talent. We wouldn't be able to get people to stay with us or get people to join us. 
+
+1:01:28
+So we consciously went in for increments, which were probably a little bit even more than the average and build confidence among the employees. Even when we were incurring losses in the first six months, we ensured that the salary payouts happened in a timely manner. dealing with vendors for your spares or critical equipment for the precip dues was a challenge. However, so we had an equipment where there was an em. 
+
+
+## We needed their support to commission that equipment. They wanted us to pay the pre cp
+1:02:03
+We needed their support to commission that equipment. They wanted us to pay the pre cp dues. The dues were not very significant. We could have probably taken a decision of paying them off, but we did not. We were very conscious of the fact that if we do that, it will open up a Pandora's Box there would be. Overall, we had 600 crores of dues to operational creditors. We did not want to set a wrong precedent. 
+
+1:02:35
+So that meant that we had to sacrifice the profitability in the short run. However, we managed to get other companies to work for us and complete the commissioning of that equipment. 
+
+1:02:51
+So these are some of the key learnings which we gathered over the last two years, and we were very fortunate that we had the support of the regulatory bodies, the ministry of power and the committee of creditors, and this is a classic case where interim Finance can be put to good use and the operations can be turned around and the lenders can see the realization double or can go up more if the unit is operating. 
+
+
+## Ravin kapor talks about the legal aspects of power company
+1:03:28
+A short unit has maybe half the value as an operating unit. So this is all from my side. I would now request Ravin to take over and share his perspective on the legal aspects or the key points which should be looked at when you are handling a CRP of power company. Thank you, Ashish. That was quite insightful. 
+
+1:04:02
+In fact few of the things that you mentioned was something that I felt was quite helpful, and before I start again, I would like to thank icsi to for inviting us and allowing myself and trial to provide this presentation. As few of you may have seen the flyer, I don't quite look like ramakant r because I'm not ramakan R. I'm stepping in on his behalf. 
+
+1:04:29
+I'm Ravin kapor and I'm a council at trial and as my introduction was given earlier, I've had a chance of an exposure of working on multiple Power project related insolvency resolution processes, wherein we have, you know, gained interesting experiences which I'll be happy to share with the participants in this Workshop. 
+
+
+## How to Discuss Power Projects, How to Discuss CP Cost
+1:04:54
+More so Endeavor in this Workshop is to also highlight our practical challenges that we Face from a legal standpoint, and we can share our learnings from that aspect, and I'll be happy to also, you know, take up any queries or questions which the members may have during the course of the presentation, so we can begin with that I'll also ask my colleague to just change to the next slide and just before I start, this is the so called you know lay of the land we have before us where broadly we have segregated the presentation today on these five aspects, the first of them being relating to the classification of CP cost, because that is one element that we feel that specific to power projects, you know, considering how these project documentation is done could be something that we can shed our light on second is. 
+
+1:05:50
+On debt servicing during CRP and the permissibility around it. Third, it inter a priority of secured creditor that you know. Sometimes the these project financing is undertaken in various phases and Inter disputes and challenges arise between the creditors who form part of the committee of creditors. So we'll be touching that in the third segment of our presentation. 
+
+1:06:14
+In the fourth segment, we'll be dealing on Section 29a, which is the section relating to eligibility of resolution applicants, and in the fifth segment we again would like to highlight some judicial pronouncements which are unique to power projects and share our experiences in that regard. 
+
+
+## CRP Cost: What Is It, What Is It?
+1:06:32
+Of course I appreciate that's the end of our presentation and usually towards the end attention is at a premium, but I would urge you know the par to have patients to discuss that aspect, because that I believe could have of interesting insights for the members today. So I start the first that relates to the of CRP cost. So broadly. CRP cost is essentially the cost that is required to run the corporate data as a concern. 
+
+1:07:07
+So as a legal philosophy. The aspect is that once the C starts, while there is certain protectionist measures that are around the corporate data but for other things the company runs as a going and the economic background that to far greater value for a company that is running as a post to a company that is, you know, being sold on a peace meal basis. 
+
+1:07:35
+Rather, I would take a cue from on what Mr RTI had finished his presentation on that. if you were to look at the company how it was at the starting of the CRP process, where the plant was shut, where there was lack of financing, where there certain amount that was required to revive the company as a going concern. 
+
+
+## CRP Costs: How Much Does It Cost to Have a Limited Revival?
+1:07:54
+All of that which was done during the CRP phase, CRP permits us to sort of undertake that limited Revival and you know allow the company to stand on it legs and become a viable asset that can be acquired during the process. So in order to understand that certain costs, of course are required to be paid to have that interm Revival, and these cost typically are considered as CRP cost. 
+
+1:08:28
+Certain examples of CRP cost that we've shared in the slide relate to that. any interim finance that has been raised and the cost Associated for raising such interim Finance would classify as CRP cost any fees that is to be paid to any person, such as, of course, the resolution professional. Its advisers, such as 29a consultant or legal advisor, or, in some cases, an auditor, also is there for such advisor. 
+
+1:08:56
+Such fees also forms part of the CRP cost, any cost that is incurred by the resolution Professionals for running the business of the corporator as a going concern. Now this category could be for in, for instance, if it's a Running Company, then salaries are to be paid to employees. Certain operating cost needs to be incur for purchasing raw material. Certain it is possible. Certain capital expenditure perhaps may also be required to be undertaken. 
+
+
+## CRP Cost: What is the CRP Cost?
+1:09:21
+Rather at this instance, I can give an example that they were ngt judgments which required that there should be a certain manner of expenditure be undertaken for disposal of you know few gas which is disposed during the power production stage and that required production of certain dites. Certain capital expenditure was required to be undertaken. So those sort of things will all fall under CRP cost. 
+
+1:09:52
+Additionally, the fourth category is with respect to any expenses to the government to facilitate the insolvency resolution process. So this can be, for instance, there's a there's a fee now that is provided under the under the CP regulations, known as the IP fee, which needs to be paid if the resolution amount is more than the liquidation value of the corporate data. So that is also part of CRP cost. 
+
+1:10:21
+So yeah, this aspect also sheds certain more light on what would be a CRP cost. In fact, I will direct the participants attention on the last bullet point, because the ones above I broadly discussed any which ways, but the last one is quite critical where it discusses that cost can also be classified as CRP cost if they are approved by the committee of creditors. 
+
+
+## What Cost will be considered as CRP Cost?
+1:10:44
+So in this regard, this is some sort of a residuary provision which empowers the COC to exercise its discretion in accepting and approving certain cost to be CRP cost. Now, while this is a discretionary power, there has to be some commercial Nexus between such cost and the going concern nature of the corporate data. So that is a pertinent aspect that needs to be considered. 
+
+1:11:10
+In fact this is an off litigated issue and that is important, of course, to be to be considered. And as for the next slide, like we mentioned, we have to segregate as to what cost will be considered as CRP cost and only those costs which are considered as CRP cost can have a that classification and why this is critical. 
+
+1:11:35
+Because CRP cost is a priority payment aspect and typically, while other creditors may or may not get 100% payouts, CRP cost is typically paid out at 100%. So therefore it is critical that a classification is done in accordance with law, because it has c commercial lications and the last ASP, like I mentioned, that1 basically discusses that c you know cost that appr by c will be considered as C cost. 
+
+
+## What would not amount to be CRP cost?
+1:12:06
+We go to the next slide, where there cular, which has further sort of you know, provided certain specific exclusions as to what would not amount to be CRP cost and, and like I said, this is an litigated aspect. So I'll just quickly take you through what each bullet point broadly entails. For instance, the first one speaks that any fee or other expense not directly related to the corporate insolvency resolution process. 
+
+1:12:38
+So in certain instances, certain payments or fees which are being paid by the corporate data or otherwise by the RP, which are not linked with the CB, will not amount to crb cost. now that in some instances can be in form of penalties or some sort of levies that one has to pay a levy if in nature of a tax will of course be a CRP cost. 
+
+1:13:03
+But some sort of penalty on of non compliance will not be CP cost. The second bullet point discusses any fee or expense beyond the amount approved by COC where such approval is required. So the regulations provide that only those costs that are incurred by the RP or thep would be considered as CRP cost to the extent ratified by C. 
+
+
+## CRP Cost: Fee, Fee, & TD Deposits
+1:13:26
+So for instance, by example, if for Public Announcement 1 lakh Rupees is ratified by COC and the actual expenditure is 15.000, then that excess amount will not classify as CRP cost and one can argue that is actually a non compliance by the resolution. professional insts. Moving on, there's another bullet point which says that fee or other expense incurred before the commencement of CRP or to be incurred after the completion of CP. This an interesting point. 
+
+1:13:56
+So any expenses that are actually undertaken prior or to the commencement of CP will not be CRP cost, and an interesting example of this could be: for instance, there are there's a pay. There's a Provident fund payment or a TDS deposit that should have been done prior but to CP. But let's say, typically the company that is undergoing crb does that towards the end of a quarter. 
+
+1:14:23
+However, it deducts TD for its employees for each month. so while it is not deposited, so to say one can argue, not paid to the relevant you know tax Authority or Provident fund Authority. Yet it is deducted from the employees, but that payment is not made and that expense should have actually incurred prior to, but it was not done so, given that it's done afterwards will not be considered as a crb cost. 
+
+
+## C Cost: How to consider C Cost after approval of the resolution plan
+1:14:52
+However, there are some judgment around that shed light that certain critical payments in some instances maybe consider C cost, even though they have been inur or they should have been inur. Similarly, the second element of this bullet point discusses cost that to be after completion of the so CRP some de to be completed with approved a resolution plan. 
+
+1:15:16
+But most resolution plans provide for some sort of a buffer period or some sort of you can say, a bridge which between approval of the crb and the resolution applicant coming into place. In fact, I just read a chat box message that requires me to speak a little louder. So I'll do that and let me know if my voice is not loud enough, then I can maybe use certain other devices which perhaps can help me. 
+
+1:15:48
+Maybe I should resort to this. Just give me a moment. Yeah, do let me know if this is better and I'll of course try and speak a little loudly. But just on the point that I was discussing, that there is an interim period after approval of the resolution plan and before the new resolution applicant steps in. 
+
+
+## CRP Costs: How Much Does It Cost during that Monitoring Period?
+1:16:16
+Typically we call it as an interim period or a monitoring period where, for about a period of 3 to 6 months, a monitoring committee typically under undertakes an interim management job. So those costs that are typically incurred by the monitoring committee or during that monitoring period is not part of CRP cost and is usually negotiated between the incoming resolution applicant and the committee of creditors that how would cost during that time be undertaken then? 
+
+1:16:43
+The fourth bullet point is on expenses incurred by creditors, claimants or resolution applicant or promoter or the member of the board of director of the CD in relation to C. 
+
+1:16:54
+Now these expenses can be of the nature like, for example, if someone is filing a proof of claim and for that proof of claim, it has to undertake certain costs and expenses for stamping of certain documents or for you know procuring certain affidavits or for you know procuring documents or not notarial acts, things like that. So those are not part of CRP costs. The fifth bullet point is penalty impos on CD for non compliance. 
+
+
+## CIP fees for COC, CP, CP, CP, CP,
+1:17:20
+This is similar to the first bullet point. I mentioned that if there's any penalty or fee on account of any non compliance applicable law, then this would also not be coming part of CIP cost any expense incurred by any member of coc, including on travel or stay or a professional engaged by the COC. now. 
+
+1:17:37
+This is important so in certain matters, particularly where the asset side is quite heavy, which is Al usually the case with power project CP. COC also has its own legal councils and fees for those legal councils are not part of CRP calls. 
+
+1:17:55
+Again, this distinction is critical because there are a line of cases in this regard and like I mentioned earlier, that while COC has a discretion to approve certain costs to BCP CA, that discretion has to be excise in a manner, that it has to have a Nexus, with the going concern nature of the corporate data, and any legal council, any auditor or any professional adviser or consultant that is appointed by the COC is a cost that the COC has to incur by itself and does not form part of the corporate data CP cost. 
+
+
+## CRP Cost: What is the test to consider
+1:18:31
+Lastly, of course, any expenses incurred by the COC directly. That is also not part of CP cost. So we can Mo to the next slide, where we are broadly given a broad overview as to what is the test to be undertaken to classify whether a certain expense can be classified as CRP cost or not. 
+
+1:18:52
+And three aspects that you can see there says that such cost must be incurred by the RP or the IRP during the CRP period. So like we discussed earlier, that any cost prior or post the CRP period will not form part of CRP cost, even though in that instance there could be an excess to the cop data. 
+
+1:19:11
+But because it is beyond the CRP period it is not CRP cost, then such cost must be incurred by the RP or IRP to keep the cooperator as a going concern. Like I mentioned the Nexus of undertaking such expenditure, or you know, incurring such costs needs to be with Theo concern nature of the corporate dator and thirdly, that any expenses which are directly in relation to CRP and approved by the committee of creditors. 
+
+
+## CRP Cost Falls: What is the CRP Cost?
+1:19:36
+So in this regard. We've also broadly highlighted some instances where, where you know whether these costs were considered CP cost or not. For instance, like I mentioned, a penalty that is pable under a PP or any other agreement during CRP if it does not inherently contribute to the objectives of the insolvency resolution process or is not for maintaining the business of corporate as going concern, then the same shall not be classified as a CRP cause. 
+
+1:20:03
+So again, if there is a penalty that is levied or if there is any cost that is to be incurred which is not having Nexus with a going concern nature, then that cost is not CP cost. again in the case law that you mentioned, Sunil Hightech case that was in fact passed recently by. 
+
+1:20:20
+The Honorable NT last month, where they have upheld the T that classification of CRP cost and also observed that coc's decision regarding determination of a CRP call Cost Falls within coc's exclusive dominant and is not within the perview of tribunal's review. So, like I mentioned, COC also has exclusive powers in its commercial wisdom to classify certain cost as CRP cost. 
+
+
+## CRP Cost: What is the CRP Cost?
+1:20:45
+So that was broadly about the CRP cause and unless of course there are any queries or questions with respect to that, we can we can move to debt servicing during CP and Rin. I'll just interrupt for a bit. So there's a practical challenge that we also face. it's an ongoing matter where, because the plant did not operate initially in the CRP period, after 3 months we were able to restart the plant, an ongoing PPA. 
+
+1:21:15
+For an ongoing PPA, since we had an obligation to Supply Power, we couldn't supply for the first 3 months. There was a penalty levied upon us as a comp ation charges and we have taken the stand that this is not essential. While this judgment has come in later on, we kept maintaining our stance that this is not essential for the going concern of the entity. This has not been approved by the committee of creditors. 
+
+1:21:41
+Hence we cannot classify this as a CRP cost, and I think our stance has been now kind of which been upheld by this judgment. so this is a practical problem power companies face typically when they are not able to supply under their contract. 
+
+
+## What Is the Cost of a PPA?
+1:22:00
+But having said that, if I enter into a PPA now, today, during CRP period, probably I'll not be able to take the same stance that if I'm not supplying for a month or so. I cannot say that this is not essential and I cannot. 
+
+1:22:16
+Hence this will not be a SB cost, because when you are entering into the contract a new contract at that time only you have seen all the Clauses and hence it is presumed that all the cost under the contract will be CRP cost. Yes, as in fact that's a good example that you've highlighted. 
+
+1:22:36
+Rather I would say that if you enter into a PPA agreement or any material agreement during the CRP period, it is also quite possible that the counterparty is mindful of these aspects and specifically has Clauses in buil where that gives indication that this is specific for the going concern nature, rather in fact that also. I would like to also highlight certain other instances like you mentioned. like. 
+
+
+## Income Tax Tax: What Is the Difference Between Tax and Income Tax?
+1:23:00
+I touched upon the EPF matter, but I was also seized with an issue where the income tax authorities, based on certain prior, you know, income tax related entries were which were undertaken, had sort of increased the income of the corate data and levied tax on that. 
+
+1:23:20
+And an argument that was taken and in fact was in fact approved by the NT in that instance, is that while the order seeking additional, you know, income tax came in subsequently, and it is of course not CRP cost, because it is not linked with the current ongoing nature of the datto, but given that it is pertaining to the financial year or the assessment year prior to the CRP, it can actually also be construed in the nature of a of a, of a of a due that is existent prior to the insolvency commencement days. 
+
+1:23:55
+So this aspect was also considered in that regard. and see, this is an interesting bit, and that's where I think these discussions and examples are helpful, because IBC, while has been there for the last seven odd years, it continues to be an evolving area of Law and on account of different, you know, subject matter, specific issues, there are certain concessions. I mean to from the top of my head. 
+
+
+## Aviation Industry: How to improve the aviation sector, how to make it a reality
+1:24:26
+I can give examples of power companies, of course, that we are discussing and that can be unique issues and few of them we are going to be discussing towards the end of the section. I can also give examples of, for instance, the aviation sector where in recently we saw a lot of Aviation. 
+
+1:24:40
+Compan is going under CP, but the way the aviation sector is structured, the it's a very asset light entity and most of the aircrafts are leased. So certain concessions were given for such International lessers of aircrafts and that Amendment came through subsequently. We all are familiar with amendments which came subsequently specifically for home buyers, because the way the real estate sector is structured, so one you know as insolvency professionals. 
+
+1:25:09
+You know, asish, in its presentation, also alluded to subject matter expertise, but the interesting bit is that it continues to evolve and we need to continuously need, to you know, be updated of how these objectives of the IBC are aligned with the with that subject matter of the field, like, for example, the real estate matter that I discussed, or the aviation sector or the power production sector, like ASI very rightly mentioned that a revival time can be considered in a certain manner, that even if that happens post CP but may not be part of the going concern nature and therefore cost incurred due to, not you know, supply of electricity during that time may not be considered as CP cost as well. 
+
+
+## Debt servicing during the CRP: What is the next slide?
+1:25:52
+So yeah, that definitely gives another dimension that how the law is also evolving and you know it may apply differently to different fields. I'll move on unless there are any other questions or discussions on the CP C, but of course happy to jump back to it if someone has any queries subsequently as well. So yeah, can we just move on to the next slide, which is pertaining to debt servicing during the CRP. 
+
+1:26:19
+So why we feel that this is also an interesting element and somewhat unique to the power sector, because project financing documents typically have a trust and retention account related structure, where all payments sort of go through from the TR account. now, when the company is not undergoing CRP. 
+
+1:26:39
+Typically the tr's control is with the lenders, so the you know lenders agent will have control over the TR account and, to a significant degree, influence the payments that are made by the relevant project s PV if the payments of debt servicing is not been under during that time. The Agreements are also in fact drafted in the same fashion. 
+
+
+## CRP kicks in and the terms of the agreement are subservient to the objectives of
+1:27:03
+However, once the CRP kicks in the agreement and the terms of the agreement are deemed to be subservient to the objectives of the code and the moratorium that is imposed. 
+
+1:27:13
+And the moratorium, amongst other things, does not permit the corporate data to make any payments during the tenure of the CRP, because such payment to one or two lenders or certain group of lenders who, let's say, have control over the TR account, will be classified as preferential payment. 
+
+1:27:35
+So, in fact, before I come to the preferential payment aspect, as perhaps already the insolvency professionals here would know that under IBC the payment mechanism has a certain distribution waterfall. so there is some sort of a cue that you need to follow while making these payments and making any preferential payment is construed in various judicial pronouncements to be jumping that ke, and that is not permissible during a CIP period. 
+
+
+## CRP: What is the purpose of the moratorium?
+1:28:01
+So even though there may be TR accounts and there may be instructions to the banks in respect to such TR accounts or contractual constructs around such TR agreement, those are all deemed subservient to the moratorium clause and there is no payment that is permissible during During the period of CRP, and courts have in fact consistently taken a view that the corporator cannot be asked to part away with any money During the period of moratorium. 
+
+1:28:33
+So just to also take you through an example in this regard, for instance, not specifically to power companies, but the Supreme Court has in fact laid down that law in the case of chitra, Sharma and Union of India, where certain home buyers had sought directions from the court to disperse the amount that was deposited in court by J prash associat es iMed, that is, the JP infex holding company, wherein a certain amount was on Supreme Court's directions was deposited as their welfare fund. 
+
+1:29:04
+But still that dispersement was not allowed by the Supreme Court, where the Supreme Court had in fact noted that, as a matter of law, such dispersment will be impermissible since it will amount to preferential payment made to a particular class of financial creditors, whether secured or unsecured. And quot that the purpose of the process Enis in the IBC for evaluation. 
+
+
+## Approval of the resolution plan is to form a composite approach to deal with the financial
+1:29:27
+Approval of the resolution plan is to form a composite approach to deal with the financial situation of the corporate data. I'll just pause here because I would again like to underscore that the composite approach aspect is forent for CRP related issues and it is important that Financial creditors, operational creditors, secured or unsecured creditors, need to be collectively dealt by the corporate data. It cannot be done in a piece meal manner. 
+
+1:29:55
+However, there's an interesting development in this regard, specific to, again real estate projects, where real estate related companies can have CRPS specific to projects and not as a company as a whole. So, for instance, if one of the projects is, you know, not able to sort of make payments and there is default, then a Project Specific CRP can also be undertaken anyways. 
+
+1:30:20
+Moving on to this aspect that we were discussing, that Supreme Court specifically denied any payments being made during the tenure of the CRP to any specific class of creditors and this judgment while came under the powers of article 142 of the Constitution that allows Supreme Court to exercise extraordinary powers. 
+
+
+## Power Projects: How to manage the power project, and how to mitigate it
+1:30:40
+But this judgment in fact has been off cited in other matters as well, including the power project related matters, where you know any payment during the 10 year of the CRP has been deemed to be impermissible. So that was with respect to payments during the tenure of CRP. We can move on. The Intercept priority of creditors. In fact that hes well with the aspect that I was highlighting earlier with respect to composite treatment. 
+
+1:31:10
+So just little background on how typically power projects are financed, which has a significant influence and bearing on this issue that we are highlighting here. So a power project is typically financed as different phases is. 
+
+1:31:24
+Each phase may have one or two units which are unique to that phase, and the commercial assessment undertaken by relevant lenders is undertaken phase wise, while there can be one company, but the assessment or the commercial evaluation done at the time of financing it is done pH well. So a good example, in fact, would be one of the matters that we're dealing and in fact that is also being mitigated in connection with this issue. 
+
+
+## lanco power limit: lanco power limit, lanco power limit,
+1:31:51
+It relates to lanco power limit, where in Lano has three phases, of which one is operational, having two units of 300 megawatt each, and then there is one partly constructed phase which again has two units of approximately 620 megawatt reach, and then there is a third unit also that is yet to be constructed. 
+
+1:32:14
+So, while the phase one lenders were, you know, were different from phase two lenders and they were certain common lenders as well, phase one was itself not a sick entity, not a sick unit. It was in fact a cash flow positive unit, and phase two was actually not completely constructed on account of commencement of insolvency of Blanco's EPC contractor. 
+
+1:32:40
+So what happened was that there was an intered dispute between lenders, wherein lenders which were phase one lenders were of the view that they should have a superior security interest on lanco's Clash flows, because the cash flow are generated on account of the phase that they funded and they are only solely phase one lenders, whereas phase two lenders and other common lenders were taking a view that the CRP is of the corer data as a whole and is not specific to phase aspects. 
+
+
+## Phase One Loans, Creditors, and Financial Planners
+1:33:11
+So this was the background and in this background let me just quickly go through the various bullet points on the on the screen. So, like I mentioned, construction and commissioning of various projects are undertaken in phases or parts, and usually each part has a separate lender with distinct Securities. I'll just pause here. so disting. Security is also an interesting element. 
+
+1:33:34
+Like I mentioned, cash flow generated from phase one is typically, you know, secured in favor of phase one lenders and not for the for all the lenders of the coper data, and these lenders usually have first ranking charge on phase one assets. In this instance, the asset that is currently operational and therefore of course, fetches a higher liquidation value, whereas P two lenders or common lenders are given second priority charge with respect to these assets. 
+
+1:34:06
+So I'll continue. Consequently, the lenders and creditors for one of the phases may not be lender for another phase now CRP commencements for the entirety of the project, irrespective of its different phases, whether commission or not so crucial when one of the phases is operational and profitable. 
+
+
+## SEC creditors have different security interest of corporate data for distribution of resolution proceeds
+1:34:21
+Yes, moving on now, the issue usually Rises that whether there should be any demarcation inter ranking amongst the SEC creditors having different security interest of the corporate data for the purposes of distribution of resolution proceeds bases the charge ranking and value of the security interest. So again I'll pause here and just give you some background as to why this dispute typically even arises. 
+
+1:34:43
+So the power to undertake distribution of recovered amount under the CRP is vested in the hands of the committee of creditors Committee of creditors exercises decision based on their respective voting percentages. Now, these voting percentages is essentially the amount of claim that is admitted over against the overall claim of the corporate data. now again, when you submit a claim, it is not typically linked to the phase. 
+
+1:35:11
+It is linked with the corer data as a whole, so there can be instances where I am, let's say, for instance, of phase two lender, but my lending was of a significant amount. Therefore I may have a superior percentage value in the committee of creditors. 
+
+
+## Phase Two Loans: What Is the Difference?
+1:35:26
+However, my underlying security may not have the same liquidation value because I'm a phase two lender and phase two phase two does not have the same amount of value like phase one. 
+
+1:35:39
+So what usually happens is that on account of me having greater percentage in the finan in the committee of creditors, I can influence the distribution mechanism that I intend to sort of undertake and that has been issue of dispute between these creditors, because you know we'll discuss that the lenders who are, let's say, phas one lenders typically argue a certain line of aspects and then pH lenders also argue in their aspect. 
+
+1:36:08
+So in fact we can move on to that aspect. Yeah, this slide of course deals with the issue which I broadly touched upon and for the benefit of the members, I'll just highlight Section 1,4 of the IC where, if you see the second bullet point on the on the First Column from the left, it says that the manner of distribution proposed which may take into account the order of priority among creditors as laid down in section 531, including the priority and value of the security interest of the secur Creditor. 
+
+
+## The Fundamentals of the Distribution Mechanism Decision
+1:36:43
+So two elements here are relevant. First, is that why you undertaking the distribution mechanism decision, you may take into account the order of priority among creditors and the value and priority of security. 
+
+1:36:57
+So members of the workshop will recollect that I highlighted that typically phase one lenders sometimes have a priority charge or sometimes they the value of their security Interest being an operational unit, has significantly higher value than the value of any other security interest of another phase which is not operational. 
+
+1:37:20
+So what usually happens is that they argue that this may term should be read as shall and may does not confer discretion, whereas typically the argument on behalf of the lenders, who are either common lenders for both phase one and phase two or only phase two lenders, argue that since the legislature has mentioned the word may, it should be read as may only and should not be read as shall. 
+
+
+## How COC has discretion with the term May or is required to mandatorily follow that is
+1:37:45
+So whether COC, while exercising this commercial discretion while undertaking distribution, has discretion with the term May or is required to mandatorily follow that in fact is still up for debate and the way the judgments have progressed this issue has been sort of referred to a larger Supreme Court bench to consider. so moving on. 
+
+1:38:16
+Yeah, this is the question with respect to Waterfall mechanism under Section 531, where it is highlighted that how these payments once received is to be distributed. So first is for the CRP cost and liquidation cost, like I mentioned earlier. Second is respect to certain Workman views specific for 24 months preceding the liquidation commencement date. 
+
+1:38:40
+Then it's for some certain employee wages which are introduced for the 12 month reing the liquidation date and then its Financial debts gold to unsecured creditors. I, of course I didn't mention this, but in section B, if you see, workmen dues are equally placed as secured creditors who have relinquished the security which shall rank equally amongst each other. So this aspect I'll just pause it again. So secured Financial creditors are all equally placed. 
+
+
+## COC needs to consider the value and priority of security
+1:39:08
+Now it is within this category that the COC needs to consider the value and priority of security. So now everyone can be a secured creditor, but what is the value of that? Security is an essential component to be considered. 
+
+1:39:22
+To give you an example ex certain creditors can only, let's say, have pledge over the shares of the corporate dator, so they are secured creditors in the terms of terms of the word, that they have a security. But you will appreciate that the value of equity for an insolvent company is actually almost zero. So having pledge over Equity shares while make you a secured creditor, but your underlying value is absolutely nothing. 
+
+1:39:51
+Therefore, that element needs to be considered and applied while COC is undertaking distribution of proceeds. so this is of course the waterfall mechanism, but I'll just move on to discuss the contentions that is typically taken by an intersect editor issue arises. So I'll just go through these bullet points and elaborate and give additional context as been required. 
+
+
+## CRP cannot completely override differential Bargains made by creditors
+1:40:17
+So, for instance, it TR that the M initiation of CRP cannot completely override the differential Bargains made by the creditors inter and with the corporate data prior to providing Finance or permitting security Creation in favor of new lenders. 
+
+1:40:33
+So with respect to this first bullet point, I briefly touched earlier that because typically in power companies the financing happens phase wise and is not always linked with the company itself, the bargains that are struck during the financing of a particular phase are different from financing of another phase. so. 
+
+1:40:56
+Therefore, it is argued by those lenders, let's say, who have a superior right on an operating phase of a power company, that you cannot do away with those differential Bargains. You cannot do away with you know security that was created at that time, just because CRP has commenced. So that is one of the critical arguments that they take. 
+
+
+## Differential Bargains and Mutual Rights Should be Upheld in Insolvency proceedings
+1:41:18
+Then, moving on to the next bullet point, priorities of claims established by prior to insolvency proceedings under commercial or other applicable laws should be upheld in insolvency proceedings. So this is again the same line of argument that they take. Then differential Bargains amongst creditors are negotiated to provide for Clear Mutual rights and status in a situation of insolvency. So again, I'll pause here. 
+
+1:41:40
+This is an example like I mentioned that if there are two phases and there are bunch of you know there is a Consortium lending, then typically phase one lenders have first ranking charge on phase one assets and second ranking charge on phase two assets, and phase two lenders will have the same in the reverse, where they will have first ranking charge on the phase two assets and second ranking charge on P to assets. 
+
+1:42:03
+So this is how Mutual rights has been distributed at a joint lenders Forum between different, you know, lenders in a Consortium lending situation, which is again very common for power companies. so it is typically argued by those entities that differential Bargains were struck prior to insolvency, and those differential Bargains and mutual rights inter the creditors should not be completely done away with. Because we have commenced with CRP moving on. 
+
+
+## If intercept priority is not given due consideration, then practically no secured creditor would ever choose to
+1:42:32
+If intercept priority is not given due consideration and all secured creditors are made to rank equally for the purposes of distribution under section 53 of the IBC, then practically no secured creditor would ever choose to relinquish Security in the liquidation estate. 
+
+1:42:47
+So essentially the argument again in this regard is that if we reach a liquidation stage, then no one will want to relinquish the security within the liquidation estate, and liquidation process would definitely fail, and everyone will hold on to their own security. if the intercept priority is not given due consideration. 
+
+1:43:07
+Moving on distribution mechanism should be in compliance with 30 subsection 4. Amendment to 30, subsection 4 came into effect on August 2019, which was given a dis which has given a discretion to the COC to take into account the order of PR priority amongst creditors as laid down in section 531, including the priority and value of the security interest and secured creditor. 
+
+
+## May should be treated as shall, and the word may should be done away with
+1:43:32
+The word may used in the provision is urged to be treated as mandatory, by contending that the word may shall not always be construed as a giving discretion. So this is like I mentioned is a critical element. The argument is that may in this regard should be construed as shall, and that discretion that seems to come from the term May should be done away with. 
+
+1:43:53
+In fact, let me just walk back a little bit on the history as to when this amendment came through. So certain members on the workshop will remember that encl, in the SR steel clay case, which was one of the earlier cases resolved under insolvency, had at that stage and cl stage, permitted secured and unsecured creditors to be equally placed, thereby permitting unsecured creditors who, again, like you know, prior to insolvency, had a completely different commercial structure, because, as you would know, unsecured loans are given at a higher rate of interest because there is no security, and whereas secured creditors are at much lower rate of interest because there security and, of course, there is differentials. 
+
+1:44:40
+Commercial analysis and Commercial views taken at the time of providing such loans had allowed them to be placed equally and in order to rectify that position, while Supreme Court had re was that order even the law under Section 30, subsection 4 was amended and there by this aspect of considering the priority and value of security interest was introduced under the distribution mechanism. However, this introduction was like. 
+
+
+## May Aspect: Should IBC be read as a shall?
+1:45:14
+The current position is suffixed with the word May, and the question whether the May aspect is discretionary or is to be read a shall is yet Up For Debate. But before we deal with that aspect, I'll just also highlight as to what are the contention that are typically taken by entities who are in favor of reading me as me and retaining discretion so we can move to the next slide. 
+
+1:45:38
+So they typically say that a demarcated distribution mechanism for each phase is not in compliance with IBC. they argue that since the corporate dater as a whole is undergoing corporate insolvency dision process and it's not that different units of corporate dat are being put up for CP, different units cannot be taken for deciding the claims of creditor since the incorporation, since the incorporation is the CD as one entity and not for each base. 
+
+1:46:06
+So the IVC framework currently does not, in so far as power companies are concerned, consider phase wise insolvency resolution. It considers resolution for corporate data as a whole. They also argue the determination of a distribution mechanism for proceeds of resolution plan Falls within the commercial wisdom of coc and such cannot be talented by dissenting Financial creditor. so in this regard, like I mentioned earlier, because of higher voting percentages. 
+
+
+## Supreme Court Judge Subud Subud vs. India resurgent
+1:46:34
+In some instances, people who are having that higher percentage can influence the commercial decision making of the corporate data and therefore, if there is an interstate dispute and it is pertaining to something you know, like distribution of proceeds, it is typically the lenders who have Superior voting percentage, whose decision of course will prevail, but whether they, the other lenders, will get any sort of legal protection in this regard that needs to be considered because, like I said, that issue is currently referred to a larger Supreme Court bench and the matter is Subud this, but this is one of the issues that is currently quite alive in the insolvency pH. 
+
+1:47:17
+But anyway I'll move on the next bullet point where distribution mechanism should be in compar to 30. Four Supreme Court in the SR steel case and the India resurgent case have held that discretion is given to the committee of crators under subsection 4 of section 30, and the word may makes it clear that this is only a guideline which is set out by the subsection which may be applied by C in arriving at a business decision as to acceptance or rejection of a resolution plan. 
+
+1:47:43
+So again, like I mentioned, current legal position as held in this Sr steel case and India resurgent case is clear that may is only a guideline. It West discretion with the COC and COC in its Collective commercial wisdom can exercise that discretion either which way. 
+
+
+## s Le case and India resurgent case vs. DBS Bank limited
+1:48:01
+But again I'm reminding the members that both s Le case and India resurgent case were considered by the case by DBS Bank limited verus R soya industry by the Supreme Court and Supreme Court, while considering these cases, has referred it to a larger bench, because it was also of the view that perhaps this issue may require reconsideration, so that matter is currently still pending. 
+
+1:48:31
+So moving on the next bullet point highlights that Financial proposal in a resolution plan forms the core of the business decision of the committee of creditor and if all mandatory requirements have been duly complied with and taken care of, the process of judicial review cannot be stretched to carry out quantitative analysis qu a particular creditor or a stakeholder who may carry their own dissatisfaction. 
+
+1:48:52
+Lastly, in fact, this line is directly from the r the India Resurgence case, where Supreme Court has held that in this new IBC, every dissatisfaction does not partake the character of a legal grievance and cannot be taken up as a ground of appeal. 
+
+
+## Supreme Court Observations on Subass of Creditors
+1:49:09
+So that is the position of law as of now, but this aspect still continues to perhaps be litigated, and this may change depending on which way the Supreme Court sort of leans in the matter that is currently being referred. However, we have some views and observations that Supreme Court in the SR steel has observed, where in theyve held the ultimate decision of what to pay and how much to pay each class of creditors. 
+
+1:49:39
+Subass of creditors is with the COC, but the decision of the COC must reflect the fact that it has taken into account maximizing the value of the assets of the corporate dator and the fact that it has adequately balanced the interest of stakeholders, including operation creditors. Section 53 of IBC would be applicable only during liquidation and not at the stage of insolvency. 
+
+1:50:01
+It was also upheld that section 30 subsection 2 b of the code refers to section 53, not in context of priority of payment of creditors, but only to provide for minimum payment to operation creditors. It further held that this does not in any manner limit the commit of creditors from classifying creditors Financial or operational, and or secured or unsecured. 
+
+
+## Supreme Court has commercial wisdom and Commercial wisdom in the exercise while Asing what is the best way
+1:50:19
+I'll just pause here again just to give additional context that Supreme Court has sign in again and of course we dealing with Sr. Ste case examples here, because that was one of the first cases, but this is in fact of repeated by Supreme Court. 
+
+1:50:32
+That Committee of creditors has commercial wisdom and Commercial wisdom in the exercise while Asing what is the best way of value maximization and what is the best way of distribution of proceed intersect editors. Such commercial widom is not justiciable before courts of law. 
+
+1:50:52
+In fact, in this regard, Supreme Court acknowledges that bankers and financial professionals have requisite and one can arue Superior commercial understanding of how things would play out, and they do not want legal experts to enter into the field of doing quantitative analysis of how the commercial wisdom exercised or not. 
+
+
+## 53 is specific to liquidation process, but 53 is only a guidance
+1:51:18
+However, all that it has done that currently the statutory provision is limited to this aspect, that a limited amount of liquidation value due to certain creditors now that can be operational creditors or disting Financial creditors should be provided. Now, while assessing what will be the liquidation value to such creditors, we look at 53, but 53 is specific to liquidation process, so at the insolvency stage, 53 is only a guidance. 
+
+1:51:48
+It is only a deeming provision that you'll have to see what would be the liquidation value due to such creditors and whether that limited liquidation value is being paid or not. Again, in this instance, I can give you a practical example. In some instances, during the CRP, the value of the cooperator can increase. 
+
+1:52:07
+You know, like asish was also mentioning in his presentation, that on account of certain efforts, on account of you know proper interium financing, on account of you know, because moratorium does not allow you to make interest payments, then because certain you know amount May balloon into the fixed deposits and other deposit of corer data, the value of liquidation which is assessed at the insolvency commencement date may be perhaps lesser in some instances than what it is at the time of distribution. 
+
+
+## Up For Debate: Do you do a re evaluation or do you do a
+1:52:36
+Now in this regard, it is also in fact Up For Debate that do you do a re evaluation or do you do a notional evaluation as to what is to be paid to such descending Financial creditors or operation creditors and if at all their liquidation value increases, while mostly for operational creditors, it is usually seen that if such operational creditors are unsecured, then it remains nil, but in some dissenting Financial creditors issue, this can actually increase, so that analysis has to be undertaken at the distribution state as well. 
+
+1:53:10
+Lastly, before moving on to the next Point, the word may used in section 30, subsection 4 gives discretion to COC and is not a direction. Fault cannot be found with COC in case for deciding to distribute Assets in accordance with admitted claims. so like I mentioned, since 30 subsection 4 uses the M, it is not mandatory for COC in all aspects to consider the value and priority of security. 
+
+1:53:36
+In some cases it can have a different mechanism and that mechanism can be simple cter as to distribution of claims by way of admitted claims and not giving much heed in regard to the value and priority of Securities. So we'll move on where we briefly also discuss the India Resurgence case, because the SRC case and India Resurgence case currently hold the law and legal position on this matter. 
+
+
+## India Resurgence case: CC amendment aims to amplify the scope of consideration
+1:54:02
+So a few aspects of the India Resurgence case also. I'll just explore quickly where it says that prior to amendment of section 30 sub 4, the COC was not required to consider the value of security and interest, the value of security interest obtaining in favor of the secured creditor while arriving at a decision in regard to feasibility and viability of a resolution plan. 
+
+1:54:25
+Legislature brought in the amendment to amplify the scope of the considerations which may be taken into consideration by COC while exercising the commercial wisdom and taking the business decision to approve or reject a resolution plan. Such consideration is only aimed at arming the COC with more teeth so as to take an informed decision in regard to viability and feasibility of resolution plan, fairness of distribution among similarly situated creditors being the bottom line. 
+
+1:54:53
+Such business decision taken in exercise of commercial wisdom of CC would not warrant a Judicial intervention unless creditors belonging to a class being similarly situated are not given fair and Equitable treatment. I'll pause again here. I mean in fact this is broadly reputation of a few aspects that I mentioned earlier that this is just an enabling provision. So far that's how it's been interpreted by Supreme Court. 
+
+
+## How to empower COC with ADD additional aspects that it may consider
+1:55:18
+It is it is to empower the COC with ADD additional aspects that it may consider. Right now it is not mandatory to consider, the bottom line being that similarly situated creditors should not be dealt unfairly. 
+
+1:55:34
+So, for instance, if the committee creditors of the view and in its commercial wisdom thinks that they want to distribute the recovery proceeds by way of admitted claims, then all similarly placed creditors should get the payment by way of admitted claims. No one should get Superior right. So the distribution methodology cannot give Superior rights to similarly Place situated creditors. 
+
+1:56:01
+But however, if the requisite votes are cast by the members of coc, it has the power to decide the distribution mechanism. So yeah, I mean subsequent points are also broadly reputation. So I'll just move on to the discussion that actually happened in the suya, which differed from the India Resurgence case and in fact referred the matter to higher bench. 
+
+
+## Court agrees that descending secured creditor cannot guarantee a higher amount of payment
+1:56:28
+So I'll just quickly go through the points where the court noted that agreed that the observation that voting in under Section 30, section 4 is essentially a matter which relates to commercial wisdom of to and that a dissenting secured creditor cannot suggest that a higher amount be paid to it. 
+
+1:56:46
+However, this does not affect the right of a descending secured creditor to get payment equal to the value of the secur prity interest in terms of section 30, section 2 B2 of the ibcs. It is also correct that the legislature has not stipulated that desending Financial creditor shall be entitled to enforce the security interest. 
+
+1:57:05
+However, it is incorrect to state that the desending financial creditor would not be entitled to receive the liquidation value, the amount payable to him. in terms of section 531 of the IBC, descending Financial creditors are entitled to payment not less than amount payable under Section 531 in the event of liquidation of corporate dator. On the approval of the resolution plan, the descending secured creditor must fored the security and is entitled to its liquidation value. 
+
+
+## India Resurgence: What is the position of descending Financial crator?
+1:57:29
+However, it is clarified that section 32 safeguards the descending Financial crator from settling for a lower amount than its entitlement under the liquidation. While it is important to maximize the value of assets of the corporate data and prevent liquidation, the rights of operation creditors or descending final creditors also have to be protected and stipulated in law. 
+
+1:57:47
+Now, in light of a different View and ratio from India resurgent case on interpretation of various of the IBC, the question on position of dissenting Financial creditors has been referred to a larger bench of. The Honorable Supreme Court and the matter is sub judice. 
+
+1:58:00
+So this is how essentially sort of differred with India Resurgence, where it also was of the view that the sending Financial creditors also, you know the right needs to be protected, and because it's a, you know it's a, it's like. India resurgent case was a division bench judgment and ruya case was also being heard by a division bench. The subsequent division bench could not have rendered a different decision from a prior division bench. 
+
+
+## Supreme Court Judges Will Review The Supreme Court's Decision on this matter
+1:58:28
+However, it clearly it was leaning towards that. so in order to assess this issue accurately from a Judicial standpoint. The court had referred the matter to the Chief Justice of India for sort of setting up a special bench and a larger bench. Of course that is. More than two judges will be looking into this matter and a final decision in this regard is awaited, so we can go to the next section. 
+
+1:58:57
+Of course, the issue that we discussed earlier was predominantly intera Financial creditors who form part of the COC, but another important aspect that has come up and again have particular relevance in case of power companies is that in some instances, even operational creditors can be considered as secured operational creditors. 
+
+1:59:20
+Now what this security does in this regard is that the liquidation value to such operational creditors becomes more than n so, like I mentioned earlier, because the way the hierarchy is set out in the under section 53 of the IBC, operational creditors being pretty much in the lower rung of hierarchy, or unsecured crators being the lower rung, they do not get sufficient recovery, and in most cases it is it is nil or almost nil. 
+
+
+## if they become secured operational creditors, they will become secured creditors
+1:59:48
+However, if they become secured operational creditors and for the purpose of section 53, they will become secured creditors. the underlying security that they have will give them certain liquidation value, and that is the reason why various you know statutary authorities, on account of certain statutory provisions of law, have agitated issues before courts, and I would say successfully so I didn't got themselves identified as secured Financial creditors, and this issue also continues to dwell up. 
+
+2:00:21
+In fact, two that you cited above have been passed in the last 2, three months only, wherein on 12th of February, in the case of Greater NOA Industrial Development Authority versus RIT Singh Sony Supreme Court has recognized Development Authority as a secured operational Creator. Similarly, encl in yamuna Express Industrial Development Authority versus JP infex monitoring Committee in May 2024 has identified yamuna express way also the secured operation creator. 
+
+2:00:52
+So in both these cases, the underlying legislation had given them the requisite right to have security charge over their unpaid dues. Now, here again, I'll pause and try and chalk out an interesting distinction between two types of Securities. One is known as a transactional security. 
+
+
+## IBC Security: What is the statutory security that is created, what is it?
+2:01:12
+That is a security created by way of a transaction, for instance, if I raise loan and I create a security on my assets and you know do requisite charge filing and have execute mortgage Deeds, Etc. That creates a security by virtue of that transaction, known as transactional security. 
+
+2:01:30
+However, while not specifically recognized in IBC, but otherwise of course recognized that certain security can also be created by way of Statute, where the underlying statute says that if dues of, let's say, a certain Authority is not paid, then that Authority will have security over the you know, let's requisite, let's say, land which it has leased to you. There's a concession so that land can be used for making payments to that Authority. 
+
+2:01:58
+So that is a statutory security that is created, a statutary charge that is created, and these requisite authorities, since the rainbow paper Judgment of the Supreme Court has tried to identify themselves as secured operational creditors and account of them having that security, they have sort of tried to Avail greater recovery under IBC. 
+
+
+## Supreme Court on whether a security can be created by operation of law
+2:02:25
+But it is also important to note that this element of security being transactional and being statutary was in fact noted in another supreme court judgment and there are currently certain conflicting supreme court judgment on the question of law. 
+
+2:02:41
+So if you see the last bullet point, I'll just quickly read, for the benefit of the members, that there are conflicting judgments of concurrent division benches, the Supreme Court on the question of whether a security can be created by operation of law, that is in state tax office versus rainbow papers limited and pasim anel withut V versus Raman, which restricted rainbow papers to the facts of that. 
+
+2:03:06
+So yeah, just we move to the next point that what is the impact of such classification? I of course briefly touched upon that the impact typically is that all these government dues will essentially become secured dues. And again, just to refresh the memory memories of the insolvency professionals here, the bankruptcy law reforms committee, which was a precursor to IBC, specifically wanted to not have government dues and Crown debts to have Superior rights over Financial creditor. 
+
+
+## What is the impact of a security classification
+2:03:40
+Therefore 53, the distribution waterfall specifically brings them beneath the secured creditors and employment dual. But if you consider them as secured creditors, you essentially bring them back up, and that was expressly not advised by the reforms committee, which was a precursor to the IBC. 
+
+2:04:02
+So, while interpreting the provisional IBC, it is argued that such an interpretation will not be in the interest and objectives of the court, because in that regard most of the payments will actually essentially go to government cers and relevant Financial creditors will not have success ful recovery, which was the objective of the court in the first place. So I quickly run through the bullet points that you know where we have touched upon that. 
+
+2:04:31
+What could be the impact of such classification if we start considering even transa even statutary security AK to transactional security? Categorization of Yuna expressways views as secured operation cror made it at par with other secured Financial creditors, leading to realization of higher percentage of claim. consequently, clad directed that successful resolution applicant to pay additional amounts to yamuna Expressway in line with the ratio of amounts received by other security territor. 
+
+
+## The consequences of holding you know Gujarat.
+2:05:01
+The consequences of holding you know Gujarat. My apologies, not Gujarat holding greater NOA industrial Authority and yamuna express industrial Authority as secured crators may have adverse ramification for approval of resolution plans, since the claim of these entities could be very high and inclusion of such interest in P Penal charges over principal amount. As you know, secured creditors can really bring down the recovery amounts to financial creditors. 
+
+2:05:30
+Such classification may open a Pandora's Box, given that all operation creditors who have a statutory chart may claim to be treated on par with other secured Financial creditors. secured operation. Creditors will be entitled to much higher minimum liquidation value threshold by virtue of security interest, and many other statutary authorities having similar provision may also accordly be treated as secur CR. 
+
+2:05:52
+Now other authorities can be in the nature of, for instance, municipal authorities, so even Municipal laws have underlying Provisions where any Municipal dues can be recovered as security. So that is one aspect which, from a professional standpoint, we feel will not be in line with the objectives of the code and like we highlighted, in this regard also, there are some conflicting Supreme Court decisions and the matter is yet to be finally settled. 
+
+
+## 29a related eligibility criteria for resolution applicants
+2:06:20
+So with this we can move to the next section of our presentation, where we have discussed section 29a relating to eligibility criteria for the resolution applicants. so this is also an often litigated issue wherein certain resolution applicants who fall in any of the ineligibility criteria set out under Section 29 of IBC are not permitted to be resolution appren. So of course the section itself is quite veros. 
+
+2:06:52
+So I'll just quickly touch upon few pertinent aspects like, for example, if the resolution applicant or any of its you know promoters, directors or connected parties are UND discharged insolvent or it's a willful defaulter or, at the time of submission of a resolution plan, already has an account of a corporate dator under his management, where such account has been classified as a non performing assets in accordance with RBI guidelines or the guidelines of any financial sector regulator that can be you know, like, for instance, if there are any sort of sa related, you know, strictures or prohibitions passed against certain entity if they are been convicted for any offense punishable with an imprisonment for two years or more if they are disqualified to act as a director in the company's act if they are prohibited by Securities and Exchange B of India from trading in. 
+
+2:07:48
+Securities or assessing Securities Market, or if a promoter or manage management or control of the coer data in which a preferential transaction or undervalued or an extend extortionate transaction has been undertaken. So these are the few of the aspects that one needs to analyze to assess whether there is any 29a related ineligibility which is falling upon the CET data. 
+
+
+## 29 AC of IBC: Ineligibility aspects can be remedied
+2:08:12
+So we can move to the next part, where you know we've sort of highlighted that certain ineligibility aspects can in fact also be remedied. Not all, but certain can be remedied, like, for example, 29 AC of IBC say that a person shall not be eligible to submit a resolution plan if such person or any person acting jointly or in concert with such person at the time of submission of resolution plan, has an account or an account of the corporate data under his management, where he's a promoter classified as an NP and according to the RBI guidelines, and at least one year has lapsed from the date of such classification till date of commencement of CP. 
+
+2:08:54
+So in this regard, it is perent to note that there is a onee timeline aspect is given because certain, sometimes due to cash flow issues, certain defaults may happen and that may trigger the guideline to CL guidelines, and Banks and financial institution may be required to classify as an NPA, but otherwise, if not for the cash flows issues, they will not have had those aspects. So that period is given. 
+
+2:09:19
+In fact that period is also given as a way for them to rectify this issue, and payments may be made prior to submission of the resolution plan, or maybe even after submission resolution plan, but prior to sort of approval of plan whereby the 29a ineligibility that is casted on them can be resolved and removed. so that is there. 
+
+
+## Supreme Court Decision on IBC: How to reacquire Sr Steel
+2:09:41
+We can move on to the next slide also, these are the dates that you know, in fact I just alluded to. So again we can move on to from this aspect as well. There an interesting Supreme Court decision in this regard. We can deal with that which is on the next slide, where Swiss ribbons the court has sort of given some justification and background. 
+
+2:10:03
+That why there is the what is the legislative intent for such 29a aspect to be introduced? in fact, before I touch on this aspect. The Logical aspect or issue is that IBC should not be a mechanism for such promoters and managers who themselves have not, you know, made payments to their for their assets to lenders and then use IBC as a mechanism to Avail a discounted price for the same asset. 
+
+2:10:35
+In fact, that is how Sr steel and its promoters were trying to reacquire Sr steel, because while they did not, you know, they had undertaken defaults earlier, but during the IBC they were of the Keen view that they can make payments and reacquire the SR steel asset. so in that case as well. 
+
+
+## Justice R says 29a is a see through provision, and one needs to see through that
+2:10:56
+Justice R has said that 29a is in fact a see through provision, and one needs to actually see through that who is the real promoter or who is the real acquirer and check whether any of the disqualifications fall upon such require or not. 
+
+2:11:11
+But yeah, we'll check on the Swiss ribbons aspect as well, where in I just quote from the relevant paragraph, where before noted that a person who cannot service a debt for the opposed period is obviously a person who is healing itself. The saying of Jesus comes to mind where they say that if the blind lead the blind, both shall fall into the ditch. 
+
+2:11:34
+The legislative policy, therefore, is that a person who is unable to service its own debt beyond the grace period referred to above is unfit to be eligible to become a resolution applicant. So this was the logic behind having this as a policy aspect: that someone who himself is a 29a disqualified entity should not be allowed to submit a resolution plan. So that was broadly the legal landscape. 
+
+
+## Power Projects: How courts have aided corporate data in running as a going concern
+2:12:03
+We thought that another aspect that we can you know quickly allude to is certain judicial pronouncement specific to the power projects, where you know the way the power project production chain operates, how courts have stepped in and have sort of aided corporate data in running as a going concern and protected its value. so, in fact, as the schematic diagram sort of indicates, if you put the corporate data and the power producing entity in the center. 
+
+2:12:38
+Technically it has two essential material contracts. One is of the fuel service agreements, that is, you know, for instance, if it's a thermal power plant, then coal and requisite raw material, and the other is the power purchase agreements, where, how these you know, power, that is one generated is to be sort of Taken, and there it is requisite that a PPA is in place. So so there have been judicial judgments in this Regard. in fact. 
+
+2:13:08
+I'll start with the one relating to PPA agreements, where Supreme Court, in the case of Gujarat vikas neum limited versus Amit Gupta, observed that if the PPS to be terminated, the corporate data would not remain a the going concern. Hence, the continuation of EPA is necessary, for the effective completion of CRP and termination will result in the CRP being inconsequential. So I'll just give some background here. So what happened in that case? 
+
+
+## ipso facto Clause relating to initiation of insolvency
+2:13:34
+That there was a special purpose vehicle and the only economic activity that the company was undertaking was producing power, and the power was of course being oft taken through a PPA. now because of the ongoing insolvency, the PPA had what in legal Parliament we say ipso facto Clause where just by the M fact a certain consequence will befall upon the one of the counterparties to an agreement. 
+
+2:14:03
+So in that regard there was ano Factor Clause relating to initiation of insolvency, where the where the contractual agreement said that the Contra, if there is initiation of insolvency, then the PPA will stand terminated. so in this regard. 
+
+2:14:18
+The court sort of looked into this issue and said that ordinarily in an IBC situation, we will not have jurisdiction or to sort of you know, change the terms of the contract, because terms of contract between two parties have a intercept privity and third parties cannot come into the place and change the terms of contract or know circumstances cannot be found based to change the terms of the contract. 
+
+
+## NT Hyderabad terminated fuel service agreement with NT
+2:14:44
+So ordinar Court said we would not have done that. But in this instance this contract, this PPS essentially the go of the corporate data and if you take away the PPA, there is no Financial viability for a power producing company. 
+
+2:14:58
+So the court said that termination of therefore PPA just on account of the fact that the company has under is undergoing insolvency is not permissible, and they stepped in and protected the coper data and did not permit termination of the PPA. The per PPA was held to subsist and be alive and in fact, as you can imagine, that was one of the major reason for the value D deriving value for the relevant entity. 
+
+2:15:27
+In fact, similar argument was also before NT Hyderabad, in fact, in one of our matters, where the fuel service agreement was terminated by Southeastern cold Fields, wherein they said that because of some fast non payments and because the cooperator actually not operating with respect certain phases, we cannot provide requisite coal allocation, and they wanted to terminate the fuel service agreement and they had issued a letter in this Regard. 
+
+
+## Under construction power plant that is expected to be completed
+2:16:01
+In this aspect as well, the court noted that if you terminate the fuel service agreement, then the under construction power plant that is expected to be completed. You know the construction is expected to be completed by the resolution applicant. There will be no incentive for the incoming ra to complete the con construction and revive the corporate data if it does not have a FSA in place. so in that regard as well. 
+
+2:16:28
+The termination of FSA was held to be to be illegal and it was also reinstated. So in fact. These were two examples from our experience we felt that you know, which are very unique to power sector. 
+
+2:16:42
+But the objective and the legal sort of takeaway from this is that, while in ordinary situations, contractual aspects are to be complied with and they cannot be changed, however, in extraordinary situations, where the such a contract is of such significant materiality to the corporate data that the value and survivability of the corporate data is linked to such contracts, then such contracts, even though they may have termination Provisions which can be triggered, are not permitted to be triggered on account, of, you know, letting the corporate dat have in intrinsic value. 
+
+
+## IBC per se Technical Subject, Power Sector in Maharashtra
+2:17:23
+So those were the few things that were we felt we should discuss, and with that we also come to the closure of at least my presentation, and unless there are any questions or concerns or anything that members may want to discuss, as they say in law firms and courts, I arrest my case. So you want to check if there are any questions, we can take those or otherwise we can conclude the session. 
+
+2:18:35
+I must compliment you both Ashish and Rin for a very exhaustive and a complete presentation, and this is a very technical. IBC per se is a technical subject, and power sector in IBC is especially so. so I guess that most of us who are participating we are only overall and very impressed with your depth of knowledge and one can see why you have succeeded, because both of you have worked very hard. 
+
+2:19:05
+I incidentally have got recently a par project in Maharashtra which I'm hoping to work on, so I mean it could be relevant for me to connect with the both of you. I will do so separately, but on behalf of the class, let me congratulate you both of you and say thank you very much. Thanks couple for those kind words. Very encouraging so, and yeah we'll be happy to connect with you in future. 
+
+
+## Ang, Kil G, and Kil G - A Power Case that is very successful
+2:19:39
+Thank you, thank you, Kil G, for the kind words, and we will be happy to share their insights. recent power case that you are handling would like to see that is also very successful, has a very successful outcome. Sure, we do Ang should we can do. You want to go ahead and close the session formally, sir. So thank you very much, sir. 
+
+2:20:17
+Thank you very much, Rin, for taking Tak out your valuable time and giving your thoughts and Sh experience with all the participants. thank you very much. thanks for having us thank you, thanks. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

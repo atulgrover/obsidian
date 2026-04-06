@@ -1,0 +1,887 @@
+# Webinar | Recent Important Orders by NCLAT
+![](https://img.youtube.com/vi/1V6opOICI_0/hqdefault.jpg)
+1 year ago (May 1, 2023) — 2:00:14
+[https://youtube.com/watch?v=1V6opOICI_0](https://youtube.com/watch?v=1V6opOICI_0)
+
+
+## Summary
+The webinar, led by speaker Vikram Kumar, discusses recent important orders by the NCLT. One of the orders from March 2023 involves two appeals regarding the classification of applicants as financial or operational creditors in a case of invoice discounting. The primary issue is whether the applicant who has filed the application for admission of CIRP is a financial creditor or an operational creditor. The facts of the case involve the sale of copper products by Ashoka Creations to TTD Copper, with Minion Ventures running a platform for invoice discounting called Creditx. The financial creditors financed the invoice uploaded by the buyer on the platform and paid 1.75 crores to the seller, Ashok Creations. The corporate debtor, TTD Copper, failed to make the payment to the financers on the due date, leading to a joint application to the NCLT for admission of an application under Section 7. The NCLT held that the applicants are not financial creditors but operational creditors, as they stepped into the shoes of the seller, an operational creditor, by assigning the rights to receive the amount from the buyer. The NCLT relied on the Supreme Court judgment in JP Infratech and a similar NCLT judgment in Cooperative Rubber.
+
+## Foreign. Good afternoon everyone.
+0:09
+Foreign. Good afternoon everyone. I welcome you all to our today's webinar on recent important orders by honorable ncert. To begin with this session, I would first like to introduce our speaker. Mr Vikram Kumar. Sir is a chartered accountant and a qualified company secretary. Sorry, so sorry. And Sir is a chartered accountant and an insolvency professional. He has a vast experience of over 30 years and his qualification includes CMA Australia and CI essay from USA. 
+
+1:44
+Sir has been appointed as resolution professional and IRP in more than 16 assignments. Sir is also a regular speaker in our full day workshop as well as other webinars on our IPA. sir, on the behalf of icsi iip, I would like to welcome you and I would request all the participants to please interact in this session, and it is a humble request to keep your mics on mute. 
+
+2:12
+If there is any query, you may raise the hand or share the same in the chat box. So you may now please take over and I'm so sorry for the wrong qualification. No, no, no, no, you're only adding to my qualification. Yeah, thank you. Thank you very much. Thank you and I warmly you know. Welcome all the participants. 
+
+
+## 7 orders on a very recent date
+2:34
+So we are going to discuss about the recent orders by honorable nclt, and you know we are going to discuss about seven orders. So all these orders are on a very recent date. six out of these, seven orders are of March 2023 and one order is of April 2023. So all these orders are a very recent orders. What we can do? 
+
+2:58
+After every discussion of one order, we can pause and you know we can have an interactive discussion with the participants. Any participants would like to you know, share his or her experience related to the Judgment. I would really welcome you know to share your experience and wherever you would like to you know, add or share any of your experience. We welcome you to you know, share your experience. 
+
+3:24
+So let's start, you know, with the first judgment. So this judgment is of 28 March 2023 and there are two appeals. one is the minions Ventures private limited. That is the Appellate and tdd copper is the corporate data the respondent. This is the first appeal. Second appeal is Mr VR Ashok Rao and 24 other applicants versus tdd copper. 
+
+
+## cirp appeals vs. financial creditor
+3:50
+So basically there are two appeals and through a common Judgment of honorable nclity, they have disposed of both these applications. So the primary issue involved in this case was whether the applicant who has filed the application for admission of cirp is a financial creditor or an operational creditor. That is the primary issue which we are going to discuss. So let's first, you know, discuss about the facts of the case. 
+
+4:19
+Now before you know we get into the facts of the case, let me inform you home that this case pertains to the invoice discounting or the receivable discounting. So the relevant provisions of the code pertaining to invoice discounting is given in Section 5, sub Clause 8, sub Clause a, which I'm just reading. You know so that we are all on the same page. 
+
+4:43
+So Section 5, subclass 8, defines Financial creditor and subclass E says a debt along with interest, if any, which is dispersed against the consideration for a time value of money and includes receivable sold or discounted other than receivable sold on non recourse basis. So if the receivables have been sold on non recourse basis, then it will not be considered as a financial creditor. 
+
+
+## invoice discounting - How to calculate invoice discounting
+5:14
+So the primary condition is that the invoice discounting should have happened on a recourse basis. Now, before we discuss the facts, it is important to discuss. There are two ways of invoice discounting. First is the you know the ordinary invoice discounting and second is the reverse. Invoice is from discounting. So I am sure you know you all are very conversant with what is invoice discounted, but still you know. 
+
+5:40
+For the benefit of the larger participants, I would just spend two minutes and explain you what is invoice discounting and how is reverse invoice discounting different form invoice discounted. So in invoice discounting what actually happens? This seller gets his invoice discounted through a factor and then the factor directly pays to the seller and ultimately the corporate debtor or the buyer has to pay to the financer. 
+
+6:15
+So let me go to these next slide and I will you know through the diagram I would be able to explain you what his invoice is counting. So if you see in the diagram you have a seller, you have a buyer. The first transaction is of the sale of goods by the seller to the buyer. Now in the second Transaction, what happens? The seller gets his invoice discounted. 
+
+
+## invoice discounting: How to get invoice discount
+6:36
+He submits the invoice to one of the factors in this case it is here of income. Now hero fincorp will directly make the payment of the invoice to the seller. So he will discount the invoice and a certain fraction of the discount you know he will deduct, say 100 rupees. is the invoice 75 rupees, for example. 
+
+6:58
+He will pay to the seller now on the due date, the buyer will make the payment of 100 rupees to the financer in case of recourse. I would request all the participants to kindly mute now, since you know it is a recourse basis of financing. So on the if, suppose the buyer fails to pay, then the Creditor will have a recourse to the buyer, to the seller. I hope this is clear to everyone. 
+
+7:32
+What is the basic, you know feature of invoice discounting? And in and in Reverse invoice discounting, it is slightly different. Instead of the seller, can you mute the small of jitendra ma'am? Can you mute everyone, please? Yeah. so in the case of reverse invoice discounting, instead of the seller, you know getting his invoice discounted, the buyer initiates the process of discounting. So if you see in this transaction, the first transaction is same. 
+
+
+## invoice discounting: How to get invoices discounted
+8:21
+The seller is selling the goods to the buyer. Now the second transaction is the buyer is actually initiating the process of invoice discounting. So buyer approves the invoice and informs a platform. So this is the platform where you know the invoices are discounted. So the invoice is actually given by the buyer to the platform for discounting and the seller is also receiving payment directly from the platform. 
+
+8:52
+So there is no direct link between the buyer and seller here in the platform. they are both, you know, basically putting in their invoice and the financer is in turn directly making payment to the seller and on the due date, the buyer will make the payment to the financial. So the transaction is very similar, except in case of invoice discounting, this seller is initiating the process. 
+
+9:18
+In case of reverse invoice discounting, the buyer is initiating the process. That is the basic difference between these two process. So now you know, with this background of invoice discounting, we would discuss the facts of the case. And once you discuss the facts of the case, then you know we would be able to appreciate that no what exactly has been held by. The Honorable Court. 
+
+
+## appeal filed against order dated 11th March 2022
+9:39
+So this is an appeal filed against an order dated 11th March 2022. that is the date of the order passed by. The Honorable nclt, against which the appeals have been filed. So there were 25 applicants claiming to be Financial creditors. 
+
+9:56
+They have filed an application under Section 7 before the adjudicating authority and adjudicating Authority has dismissed the application under Section 7, with the Liberty to them that you can file an application under Section 9, so they are claiming to be Financial creditors. 
+
+10:13
+However, the nclt says you are not a financial creditor, so you cannot file an application under Section 7. You can, however, file an application under section 9, so there's a reason why the applicants are filed an appeal before the nclet, challenging the order of the nclt now. In this case, tdd copper is the buyer and the corporate data against whom the process was cirp was initiated. tdd copper purchased certain Copper products from the buyer. 
+
+
+## Creditx Creditx Creditx Creditx Creditx Creditx Creditx Creditx Creditx Credit
+10:45
+Now the seller is Ashoka Creations private Limited and buyer is TTD copper. The total value of the invoice is 3,42 crores. Now minion Ventures is actually running a very popular platform called creditx. Credx is an online platform which is actually into the invoice discounting and reverse in invoice discounting, which is basically called as a supply chain financing, so these are typically for the working capital financing. 
+
+11:18
+Now this credits has been actually funded by all the you know Marquee private Equity Funds like Sequoia and all these big private Equity Funds, and it's a very popular site for supply chain financing and the promoter of critics is minion Ventures. So if you recall the citation of the Judgment, I'll just go back to the citation. the minion Venture is the first applicant and in the second appeal the financial creditors. 
+
+11:48
+That is, we are Ashok Rao and others are the appearance. So let us say that we are Ashok and 25 others are the financial creditors. Buyer is tdd copper. Seller is Ashok the seller? Yes, I'll repeat the name. The name of the seller is Ashok creations. Right now, the seller and the buyer, both are registered on credits and the finances, that is, 25 people are also registered on the online portal that is credits. 
+
+
+## What happens after the sale transaction?
+12:32
+So what happens after the sale transaction? The buyer uploads the invoices of the seller on the platform, that is, credits and the finances are basically financing the invoice uploaded by the buyer on the platform. So here all the financial creditors claiming to be Financial creditors are the applicants. 
+
+12:56
+So they discount the invoice of 3,42 crores and they actually pay 1,75 crores into the bank account of credits which is maintained with just Bank, and that amount is then limited by credits to the seller, which is Ashok creations. 
+
+13:17
+So the money goes directly from the financial creditor to the seller and as a result, the liability of the corporate debtor that is tdt copper extinguishes with respect to the seller, and similar liability is now of the corporate data to the finance finances that is VR Ashok and 25 other applicants. 
+
+
+## Financial creditors if they have financed the transaction, then they must sign agreements
+13:45
+Now the default happens on part of the corporate data tdt copper, in making the payment to the financers, that is, we are Ashok and 25 other applicants on the due date, as a result of which these financers make a joint application to nclt for admission of an application under Section 7. So I hope these facts are clear. 
+
+14:11
+You would believe they are Financial creditors because they have actually, you know, financed the transaction, and this transaction Prime offici appears to be completely squared covered under Section 5 subclass 8 sub Clause e. So let us further, you know, continue with the facts of the case. Whenever these transactions happen, there are certain agreements to be signed. 
+
+14:39
+So there is an agreement which is called as creation of Rights, wherein the agreement is between the seller financer and the buyer. now what is the agreement here? Now, as per the agreement, the seller has to receive the payment, so the seller has agreed for discounting of the invoice of the customer, because without this agreement the invoice cannot be discounted. 
+
+
+## So sellers agreed for discounting of invoice of customer for creation of the right and invoice in favor
+15:05
+So sellers agreed for discounting of the invoice of the customer for creation of the right and, interestingly, invoice in favor of the financial. That is the basic agreement through which the rights of the seller is shifting from the seller to the financer. Now, as per 5,2 Clause of the said cor agreement, the seller transferred its right to receive the amount from the buyer directly to the financer. 
+
+15:39
+And lastly, class 4C says of the said agreement that the seller has agreed for discounting of the invoice. So that is a nutshell. I am just, you know, giving the basic points of the agreement. So these are the basic facts of the agreement: that the seller is ready to assign the rights to the financial and is also ready to get his invoice discounted and get the payment from the financial. 
+
+16:13
+So I'll just pause here and I would basically, you know, ask the participants: what is your primary facing view? Do you believe it is a financial creditor? The affluence are Financial creditors, or you believe that they are operational creditor? They are operational creators? Because this is a case of assignment, of assignment of views the seller is assigning it is received will write to the finances. 
+
+
+## 7 sex extraction: What is the nature of debt worth as the operational debt
+16:44
+So please, whenever you do the assignment, the nature of that will remain same. okay because for seller the nature of debt worth as the operational debt, because the same thing should continue, to my mind ticket fair enough. So we'll continue and just see the reasons for the disposal of seven sex extraction. Seven application by the nclt. I am given two highlights here there is no dispersal of the amount to the CD by the finances. 
+
+17:18
+So the money has directly gone from the finances to the seller is an operational creditor here. And number two, section 21 subclass 5 is very relevant here. So let me read section 21 subclass 5 which says: where an operational territor has assigned or legally transferred any operational debt to a financial creditor, the assigning of the transferee shall be considered as an operational creditor to the extent of such assignment or legal transfer. 
+
+17:55
+You know very rightly said that who is transferring you know his rights. The seller is assigning the rights to the financer, and seller here is an operational creditor. So technically what is happening is the debtor is only you know, paying the financial against the deaths assigned by the seller. Let us further continue. So what are the issues before the honorable nclet? Let us see what are the issues involved. 
+
+
+## What is Section 5,8 Subclass e applicable or not applicable
+18:28
+The first issue is whether the appealand that is we are Ashok Rao and others 24 others, our financial creditors, as against the corporate data tdt copper, or they have stepped into the shoes of the seller as an operational creditor. That is the first point. Second is whether Section 5 subclass 8 subclass e, is applicable or not applicable. we have already seen. What is Section 5,8, suppose e? 
+
+18:57
+Now the third point is important whether the finances had reverse discounted invoices on recourse basis to the benefit of the corporate debtor, and thus they are the financial creditors. Visa was the corporate data. So what they you know what the appearance or the financial creditors are saying that they have. They have basically discounted the invoice on behalf of the corporate data. 
+
+19:28
+So they are actually paying on behalf of the corporate data for the benefit of the corporate data. So they are Financial relatives. Now the next point which is applicable you know, which is goes before. The Honorable ncelity was that, with a section 2551, a is applicable in the matter or not. So what is the decision of you know? now there are certain decisions. 
+
+
+## Supreme Court judgment in JP infratech versus resolution professional
+20:00
+You know judgments of the Court which has been relied by tdd copper, which is also important to discuss here. The first judgment is of supreme court judgment in JP infratech versus a resolution professional. Now you know what happened here. 
+
+20:18
+The Honorable Supreme Court held that a debt to be Financial creditor dispersal against consideration for time value of money is a prerequisite for declaring the transaction as a financial debt, and the money should come into the account of the corporate data. 
+
+20:35
+And the second judgment has been referred by the gdd copper was in the case of Cooperative rubber w a Singapore Branch versus in similar matter was there where in honorable ncrt held that the applicant was a financial operational creditor. Now what is the decision of the honorable ncrt? 
+
+
+## Honorable nclt held that the transaction basically the money was never dispersed
+21:01
+The Honorable nclt held that the transaction basically the money was never dispersed as a financial debt to the corporate data and by virtue of the invoicing of by virtue of discounting the invoice of the seller of an amount of 3,42 crores. 1,75 crores was paid by the financers to the seller and he stepped into the shoes of the seller, who was an operational creditor. 
+
+21:32
+So section 21 subclass 5 will be applicable and section 5,8 sub cross a is not applicable at all. That is the first point. Second is at no point of time. The amount in question was dispersed to the corporate debtor, as was held by honorable Supreme Court in the JP infra case. 
+
+21:56
+Third point is financers took the invoice of the sellers and discounted and discounted the same and they stepped into the shoes of the operational creditor as operational debt. And lastly, the goods have been supplied by the seller and the sellers have assigned the right and the interest under the invoice to the finances. So. The Honorable ncert of healthy Judgment of nclt and said that the applicant is not a financial creditor but an operational creditor. 
+
+
+## How CD made payment for operational creditors
+22:31
+So, in conclusion, know what I'm trying to basically you know further simplify the whole order, as instead of the CD making the payment to the operational creditor against the goods applied by it, because you know the transaction basically of purchase and sale is an operational transaction and the CD is not making the payment. Has the CD made the payment? it would have been the operational debt instead of CD making the payment. 
+
+22:57
+A payment has been made by a third party who is a financer and the CD is liable to make the payment to the third party. Hence this is a assignment of operational debt to a financial creditor as per section 621, subclause 5, since no amount has been paid by the city for time value of money, the finances are operational creditors. Second is also very important to note in Section 5, subclass 8 e. 
+
+23:32
+Basically it talks about the receivables are sold or discounted. Now what is important is the receivable sold and discounted should have been of the CD, which is under cirp. So you will notice here the receivables are of the seller and not of the city. had those receivers been of the CD, then they probably would have been Financial creditors. So this is the first judgment. 
+
+
+## Right debt okay, which says Five Section 5 subsection 29 says operational debt means a claim in
+24:01
+I'll just pause here and in case you know any participant would like to share any of his experience, I would be you know, very happy to you know hear their experience in the similar matters. Right debt okay, which says Five Section Five subsection 29, which says operational debt means a claim in respect of the provision of goods or services. Correct, this is the bill discounted was only in relation to provision of goods or services. 
+
+24:46
+No, that is fine. That what point you are raising, that's fine. The transaction is an operational transaction that is very visible. The complexity which comes in is because you know you see a financer coming with this picture now. but the claim. Not only what you're saying is right. What you're saying is right. 
+
+25:11
+So actually you know this judgment has a great ramification on the business of factoring, because suppose instead of tdd copper had Ashok Creations went into a cirp. Ashok creation is the seller. If you go if you go to my first slide, okay. So if you see here Ashok Creations is the seller. Now what happened? 
+
+
+## What is Prime impacts? Here's what you know about the next judgment
+25:43
+If suppose Ashok creation would have gone into insolvency and he would have been, he would have got the invoice discounted through the credex platform. Are you getting my point? I mean yes, sir. Yes, sir, that would change the whole scenario. Do you agree with me? yes, sir, so that is the limited point. I'm trying to make that, even though the transaction would be of sale in purchase. 
+
+26:18
+But if those invoices are discounted, buy this seller and a seller goes into cirp, then it becomes a financial debt. So who is going into carp is also important here. Anyone else would like to you know, share his experience, or we can go to the next judgment. Okay, so let's go to the next judgment. 
+
+26:56
+The next judgment is also you know of a very recent date, 31st March 2023. Now, in this judgment, Prime impacts is the Opera is the operational creditor who has actually initiated the process of cirp and shelf, your industries is the corporate data. Deepak Modi happens to be a direct suspended director of the corporate data. so these are the you know persons involved. Prime impacts is the applicant who has filed a section 9 application. 
+
+
+## Self your industries is the corporate data. Deepak Modi is the suspended director of the corporate
+27:28
+Self your industries is the corporate data. Deepak Modi is the suspended director of the corporate editor. Now, what is the issue involved here? The issue involved is that when the operational creditor initiated the process, the city said that the amount is not payable because there is a dispute. 
+
+27:48
+Now, the issue before the quote was whether the dispute is a genuine dispute or it is a frivolous dispute, because in any section 9 application, as you are all aware. The crucial point is that if there is a dispute then the application cannot be admitted, provided it is a genuine distribute. So let us see what is the facts of the case. 
+
+28:13
+So a section 9 application is filed by Prime impacts against selfio Industries, which is a CD, and Deepak Modi, as I told you, is the suspended director of the CD. Now Prime impacts is engaged into the business of marble and granites in the state of Rajasthan they have they have their manufacturing facilities in the state of Rajasthan. 
+
+
+## Corporate Data, Corporate Data, Corporate Data, Corporate Data
+28:34
+The amount of debt default involved is 11,95 lakhs only now the corporate data, that is the Shelf view Industries, is basically a civil contractor and it's engaged into the Contracting with airport. So they are actually into link the granite's flooring at various airports. Now against the sale made by Prime impacts, PDC is the issued by selfio industries. That is the corporate data and those pdcs got Dishonored. 
+
+29:11
+Now sgb infra limited is the principal contractor which has allotted the work to shelf your industries, the corporate data. In this case, and after the goods were supplied, there was some kind of a dispute between the parties and the payment was not made by the corporate data to the operational creditor. 
+
+29:38
+So SGP infra, principal contractor, allotted the work to the corporate data and the copyright editor was required, to you know, complete the flooring at Jaipur International Airport with specified quality. Now, what is a dispute involved here? The dispute is that the grenade slab should be at least of 16 mm to 18 mm, whereas the goods applied here by the OC was 15 mm to 15,5 mm. 
+
+
+## GB infra inspects goods supplied by supplier on 15th December 2019
+30:06
+So there is a difference in the thickness of the material supplied by the operational creditor. that is the main point of dispute in this case. Now let us see what is the details of dispute. So the applicant has supplied six. These supplier has supplied six invoices in total amounting to 1.748 lakhs, and the dates are important here. 
+
+30:33
+The goods have been supplied from 21st September 19 to 5th December 2019. Now an inspection happens by sbl infra, which is the principal contractor, on 15th December 2019. Please note the goods are supplied. Last date of Supply was 5th December 2019 and on 15th December, so about after 10 days the inspection happens of the good supplied. Now what is the as GB infra saying? They are saying that. 
+
+31:10
+The Letter White 16th December 2019 they say to the CDE you are requested to remove the flooring on account of deficiency and quality of the good Supply. so this implies that the grenades were already fixed on the floor and they had to be removed because if you see the language, it says remove the flooring on account of deficiency in the quality of goods supplied. 
+
+
+## OC accuses CD of falsifying delivery slips on behalf of corporate debtor
+31:39
+So the OC is alleged that at the time of unloading of the goods of promises, the CD did not raise any dispute or any complaint with respect to the quality of goods, and one very serious allegation has been imposed by the operational creditor against the corporate debtor. They said that the delivery slips given by the OC or the seller has been forged by the buyer. That is you know this company, selfie Industries. 
+
+32:13
+So Prime Impact says when the goods are supplied. These shelf view industries did not raise any dispute, any complaint. they had accepted the goods and on the delivery slave they have forged the delivery slips. I will show you what forging has been claimed by the osei. So OC, on account of the forging, has actually initiated an application under Section 340 of the criminal procedure Act against Southview Industries. 
+
+32:45
+Now let us say what is the allegation of the OC against the CD for the forgery conducted by the corporate data. So I don't know whether you can read. You know what is highlighted in red triangle, but what I would just read it out for you. So OC has alleged. So if you see here, it basically says that if you carefully see it is saying Mal 14,5 to 15 mm. 
+
+
+## OC claims CDs Force the documents and wrote on the delivery slip that goods are of 1
+33:15
+Hey, and then it says that purana, something of that sort is written here. So what is stated here? OC has alleged that CDs Force the documents and wrote on the delivery slip that goods are of 14,5 mm to 15 mm and the entire Goods will be replaced. This is what is written in this triangle box. 
+
+33:44
+Now we'll take you to the next slide, which is the original delivery slip given by the OC before the honorable nclt. So if you see this is the original strip. You will not find here any comment written on the delivery slip as compared to the that goods are of 14,5 mm to 15 mm and the goods will be replaced. However, OC says it was never written by the OC at the time of delivery. 
+
+34:23
+The slip is blank here. That is the main point of contention in this matter. Now let us see further the facts of the case. so OCS alleged that the goods are supplied by the OC and has been already consumed by the CD. 
+
+
+## OC says the OC should have removed the flooring because they were not of specified quality
+34:40
+As you know, we had seen earlier that the goods have already been placed at Delhi Jaipur International Airport and set goals was asked by the principal contractor to the CDE to remove the flooring because they were not of specified quality. Now what the ncltl ncld said that inspection should have been held at the time of delivery of the goods by the OC. Since the goods have not been. 
+
+35:08
+Since the goods have been consumed by the CD, it is obligatory on part of the CD to pay the operational creditor. So Goods have been already consumed by the Opera by the CD. So it is obligation on part of the city to make payment to the OC. OC has alleged the CD has not properly executed the contract. So what basically this the OC is saying? 
+
+35:33
+The laying of these stones on the floor has not been properly done by the CD, as a result of which SG sgb infra the principal contractors asked the corporate data to remove the floor. So the core issue before the nclt was that is there a plausible dispute in respect to Quality or there is no pre existing dispute? That is a prime ratio. Now what is the decision of the honorable and theology. 
+
+
+## sdu infra asks CD to remove granite slabs without raising dispute or
+36:04
+The Honorable nclt says in the present case it is reflected from the inspection report of sdu infra that the corporate data was asked by the SBA infra to remove the flooring. this fact is in itself enough to draw the inference that CD had accepted the delivery of granite slabs made by the OC without raising any dispute or objection. Otherwise the CD would have rejected the material at the time of unloading. 
+
+36:36
+So that is the first point. Second is it is clear that granite slabs supplied by the OC have been consumed or utilized by the CD and had placed the same at the premises of the Jaipur Airport says there may be plausible reasons for sgb infra to ask CD to remove the flooring, but the fact remains that the CD had accepted the granite slab supplied by the OC without raising any dispute or objection. 
+
+37:07
+On this score itself, we are of the opinion that such plea of the corporate data regarding dispute can be termed as moonshine defense. now the next point is that OC has already filed an application under Section 340 of the crpc in respect of the forgery committed by the CD. Hence the appeal of the appealand was dismissed and the decision of ncrt was upheld that it is a genuine. 
+
+
+## Decision on default amount of one crore
+37:39
+There is no dispute and the payment has to be made by the CD to the OC. So this is the second judgment we have discussed and you know, in case anybody would like to share his or her experience related to some kind of dispute in and section 9 application, you are most welcome. So one last point I will make here. if you notice here, the amount of default is a very small amount of 11,95 lakhs. 
+
+38:12
+Now, as you're all aware that the default amount has been increased to one crore with respect from 24th March 2020. However, in the order you know, it doesn't speak about this default of one crore, so I presume that this application was filed prior to 24th March 2020. Otherwise, this application would have been dismissed without you know any discussion. That is the limited point I want to make now. 
+
+38:38
+I am, you know, happy to have the views of the participants. If anybody would like to share his oral experience, anybody, please, well, I have one point to discuss on this. Yeah, please, Mr, just once. Yeah, the situation is like this. I sold some material to Mr X. Okay, and after that I supposed to receive the proceeds okay as consideration. 
+
+
+## OC: What is the transaction between the parties?
+39:12
+We have several other transaction in between both the parties and instead of returning that my money to me, I asked the person to give it to Mr y as a security of the contract, which we me and the other party was doing so. The OC says you supply the goods I have supplied to the CDE to somebody else third party, as a security. Yes, the proceeds okay. Proceeds the proceeds, yes, okay. 
+
+39:43
+So the transaction now, the cities under the liquidation or the carb. Okay in this matter. Yeah, YFC sir, what the we assume that he supposed to give us the money back. okay and instead of just rooting the transition, I will ask him to keep the money and use for the other purposes. We executed one agreement with them. What is that purpose? 
+
+40:14
+Is he a kind of a loan given by you know, the OC to the third party? Basically, this is kind of Bank advance for the bank guarantee given for a joint project. So my you know, simple Point summation here is, Mr jashwan, that you'll have to see what is the transaction between the OC and the third party. 
+
+
+## Financial Rate, Financial Rate
+40:35
+If, suppose OC is lending money to the third party and against the time value of money, then it will be a financial Rate, Financial rate. Right, answers are saying the same. Thank you, sir. Thank you for your views. Yeah, I have Pastor Sam. I also have an observation here. You know what is happening. 
+
+40:53
+There is a moonshine this book that supply of goods is absolutely not as per the quality mentioned in the order agreed, but I feel here it is the case of recovery of the day aspects of the case name. The point is that you know you are going into a very fundamental issue, but the point is that there is a default. No doubt about it. Yes, they have not been paid. 
+
+41:43
+Eleven point, some nine, five lakh rupees, yeah, and I'm presuming this case for 10 to 24th March 2020, right when the default was one lakh rupees. Right. So there is a default right now. 
+
+
+## Mission means totally Whimsical
+41:55
+Naturally, if the CD has defaulted, the OC will initiate the process of you know a resolution process only because if suppose the city is not in a position to pay, it means the city is financially not sound to you know, carry on the business. But basically, when the city also challenges that they have accepted my material and at that time they didn't raise any question. So it is. 
+
+42:26
+They have already said and you it is evident that you have not raised any question. So I mean instead of writing that this is a moonshine. Mission means totally Whimsical. I mean allegation right, but they are the allegation is frivolous. Actually, is nonsense correct? So it is not a nonsense. Allegation is correct. Point is that the goods were actually not of the specified quality. right. 
+
+42:57
+The point is if you consume the quality goods and then you raise a distribute, that is not a genuine dispute. Now that is the point actually being necessary. I don't have to make a difference. It's genuine. I mean not generalistic and nonsense. Anyway that is you know a person to person can decide. I feel it is a aspect and that NCR we cannot touch. 
+
+
+## OCS are only interested in recovery
+43:26
+So strictly speaking, Mr Pastor, saying yeah, everything is recovery under IBC, even though you know the law is not meant for recovery. But the OCS are only interested in recovery. OCS are not interested in resolution. All the OC applications are technically for Recovery, only because they are not competent enough to go in for a resolution. But sir, you have to you have to see the vehicles I cannot get into. 
+
+43:49
+I cannot get into this point, because the courts will decide whether it is a recovery or it is a resolution. That's my observation. No, I agree, you know we cannot say anything actually foreign any other point anybody would like to say, or we can proceed to the next judgment. So let us proceed. So this is a very latest Judgment of 24th April 2023, and let me explain you what happened here. 
+
+44:32
+You know Praveen Gupta and there are six more parties who are seven applicants, and Puja Vari happens to be the resolution professional of ntl electronics. so certain transactions you know where claim to be fraudulent and preferential in nature, and the RPA filed an application for basically recovery of the preferential transaction,. The Honorable nclt of healthy application of the RPL and these applicants have then challenged the decision of the RP before the nclet. 
+
+
+## judgment on RP: IA 5768, dated 2nd March 2022
+45:09
+So let us see the facts of the case. This is a very important judgment, because some very important points have been raised here all right. So the judgment against which the appearance have gone to nclt is IA 5768, dated 2nd March 2022, wherein you know some professional transactions were claimed by the RP, though CRP date is 27th August 2019. Now let us explain. 
+
+45:50
+Let me explain you very briefly what is the nature of the transaction which has been claimed to be preferential in nature. so all these applicants. Some are related parties to the CD. Some are not related Partners in the CD. They have extended loan to the corporate data, so this is a very normal transaction. In most of the cases, you will see, directors and non related parties have given loan to the CD. Now. 
+
+46:20
+The loan was taken by the CDA for running the business as a going concern and the amount was utilized by the CD for running the business as a going concern. This point I am going to you know stress that loan was taken to run this CD as a going concern and it was also utilized by the CD for running the business. Now the repayment of the set loan happened during the look back period. 
+
+
+## Look Back Period Under Section 43: Two Years for related parties and one year for non related parties
+46:49
+So as you are aware, the look back period under Section 43 is two years for related parties and one year for non related parties. So two years prior to the CRP date for related parties and one year prior to the CRP date for non related parties. So all this repayment happened within the look back period. Now, the application for perfect transaction was filed prior to the filing of application for approval of the resolution plan. 
+
+47:19
+This is the Crux of the whole transaction. So loan has been given to the CD by relatives and non relatives. These are mostly individuals and they have given loan to the city because the CD needed money. 
+
+47:33
+CD was, you know, into a financial strain, and those money has been used for running the business as a going concern by the CD, and the RP says that the payment made to these applicants during the look back period is preferential in nature. So let me pause here. Let me, you know, ask the participants how many of you believe that this transaction looks like a transaction of preferential nature. Yeah, I think so. 
+
+
+## Why you should pay creditors for the CD
+48:09
+I mean it is preferential nature. Because, no, they are giving preference to other creditors by paying them. I mean, okay, the cramps of the agreement may be that it falls under the loopback clear, but there is a preferences given by paying them the money. 
+
+48:27
+So, Mr sen, let me ask you: yeah, the amount has been given for running of the CD as a going concern and it has been utilized also, yeah, for running the city as a going concerned. Right. There is no misutilization of the money right? Does it make a difference? Not really, because ultimately if the city has gone to cierp ticket. So let's hold your thought. 
+
+48:52
+Let me have other views as well, and then you know we will proceed. Anybody else would like to remove. If this is the case, then I don't think so. These are professional transactions. So it is not a professional transaction. Yes, sir, why do you think so? So these are the normal day to day transactions. Yes, transactions in the ordinary course of business. 
+
+
+## DP: Preferential Transactions with Limited Party
+49:13
+Yes, ncds might have paid so many other peoples in the past one year, two years, depending whether they are related or not anybody else. So for preferential transactions with limited party, you know there is a clear, clear line in section for DP that transaction related party would be presumed to be provincial, whether it is for ordering also business or other important. 
+
+49:40
+So with that perspective in mind, at least a translation with the related parties are definitely perfect. Okay, so, Mr varshness, just hold your thoughts, but let me tell you that your views are not correct. I will I once we can conclude on this judgment. You would change your views. So just hold your thoughts here. Okay, yeah. Mr TVs Shiva Prasad. Mr TVs Shiva Prasad, you have raised your hand. I have a view here. 
+
+50:22
+So yeah, Mr Sony, I am Niraj Agarwal. Yeah, yeah, please, to be a preferential transaction, any payment, if made, has to be made you know to a to a creditor existing creditor number one having a credit balance in the books of the city number one, number two. There are other parameters which need to be changed. Is the CD is into ndfc business in lending business? 
+
+
+## What is the Ingredients of Section 43 to consider a preferential transaction
+50:54
+If it is not into lending business and it has given the money to only some sister concerns out of the term, then it is definitely a preferential transaction. So thank you. I'm just taking the views of the audience because you know we will proceed and you know then probably you will change your views. So let us continue. Or somebody would like to further? You know, Express their views here. 
+
+51:20
+I think let us continue the order of somebody was saying something anyways. So let us see what are the ingredients of section 43 would constitute or what transaction would constitute a preferential transaction. So what are the ingredients or what are the relevant questions to be asked and answered to consider a transaction to be preferential? The first thing is there has to be a transfer of property. Now property has a very wide connotation under IBC. 
+
+51:59
+The property is defined at a Section 3 subclass 27, so that you can read: but property is a very wide definition. Now the transfer of that property is for the benefit of a creditor. So that is the first question that transfer should have transfer of benefit. A property should be for the benefit of a creditor or a surety or a guarantor. now the transfer should have on account of antecedent financial debt or operational debt. 
+
+
+## What is the effect of the transfer?
+52:34
+So there has to be an existing financial debt or an operational debt and on account of the existing debt the transfer should have happened now. Lastly, the effects of the transfer. This is a very important point. The effect of that transfer should actually put that creditor or. The Surety in a beneficial position as compared to the distribution of assets under section 53 of the IBC code. 
+
+53:06
+These are the relevant, you know, parameters to be checked to consider transaction to be preferential in nature. Now there is a provision which says that even if the transfer happens, but the transfers will not be considered a Perpetual transaction if the transfer is made in the ordinary course of business or financial affairs of the corporate debtor. now here. I would like to you know make a very important point. 
+
+53:39
+If you read the provisions of the code, section 5343, I have highlighted the word and in board letters here if you see the language in the code, it is actually, or so the language is transfer made in the ordinary course of the business or financial affairs of the CD or the transferee. 
+
+
+## Honorable Supreme Court in the matter of Anu Jain versus Jill, that is
+54:03
+However, the honorable Supreme Court in the matter of Anu Jain versus Jill, that is infra Supreme Court said that the ore should be interpreted as ant. That is why I have written here and here, and has a special significance here, that we will discuss the expression ordinary course of business or financial affairs. Now, please understand here. the transaction which has happened is of loan given by related and non related parties to the CD. 
+
+54:40
+This transaction is of the nature of financial affairs. That was one of the arguments taken by the applicants that financial affairs of the CDA would cover loans taken by related and non related parties of the CD. But the honorable nclity I think some people have kept their mic on. I would request everyone to kindly mute. Yeah so. 
+
+55:10
+The Honorable nclet says that ordinary course of business or financial affairs should be read as use them generous, which basically means of the same kind. So you can't have a meaning of the term ordinary course of business completely separate from financial affairs. So the meaning Miss must be adjust them generous. 
+
+
+## Financial affairs of the CD cannot be given an extended meaning so as to include all Financial transactions done
+55:36
+That is of the same kind, and the expression financial affairs of the CD cannot be given an extended meaning so as to include all Financial transactions done by the CD. I hope you know I have been able to make this point clear to all the participants that what are the primary ingredients of section 43? So let me very quickly repeat: there has to be an antecedent financial debt. 
+
+56:06
+The transfer is for the benefit of a creditor who has an antecedent financial debt or an operational debt and on account of that payment to the creditor within the look back period, the Creditor isn't a beneficial position as compared to if the payment was made under section 53 and the payment should not have been made in the ordinary course of the business. these are the main points to be checked here. 
+
+56:38
+So now let us discuss one by one and what is ordinary course of business, something very important to understand, and the Judgment has very elaborately, you know, explained what is ordinary course of business. So let us see what is the observations and the issues before the honorable ncrt. 
+
+
+## RP had no Authority to pursue avoidance application in view of position of law declared by honor
+56:58
+The first issue is the RP had no Authority to pursue the avoidance application in view of the position of law as declared by honorable Delhi High quote in the matter of Venus recruiters. I am sure you all are aware of what is this judgment of Venus recruiters, wherein the Delhi high court at Health that avoidance application post approval of the resolution plan becomes influxious. 
+
+57:23
+However, the honorable nclity held that the set Judgment of honorable Delhi high court was overruled by the division bench of the on River Delhi high court. So hence that judgment does not hold ground anymore. Kindly mute everyone, please. The second point is resolution plan does not authorize the resolution professional to pursue the application. These are the arguments made by the appellant before the nclet. 
+
+58:00
+Payments to the appearance are less than the amount deposited by the appearance to the CD. So the CDA the appearance had given a loan of 28 crores to the CD and CD has returned less than 28 crores. Mr naresh Malhotra, please kindly note so what they are trying to say that the applicants had given 28 crore to the city. 
+
+
+## Giving of loans to CD by related and non related parties is a business in the ordinary course
+58:29
+However, the return of money by the city to the appointment has been less than 28 crores now. Payments made in favor of the related and non related parties had the effect of putting the Appliance in a more beneficial position as compared to distribution under Section 53, because, had you know the money went distributed under section 53, they would have been unsecured Financial creditors, so they would have got nothing in the process. Now. 
+
+58:59
+The next point is very important. Giving of loans to the CD was part of the ordinary business of the CD and hence it is not a preferential transaction claimed by the appearance. Now this is a factor which has to be considered whether giving loans to the CD by related and non related party is a business in the ordinary course of business or not. I hope there's no queries at this point of time. 
+
+59:32
+We can proceed now. What is ordinary course of business? Let us discuss this point. This is very crucial in our under Section 343. What is ordinary course of business? The Honorable ncrd says ordinary. Mr Satish patodia, kindly mute, please. So the ordinary course of business basically means payments of routine nature. Thank you, Mr patodia. Kindly mute, okay. 
+
+
+## Payments of routine nature, like payment for electricity, telephone, even payment to trade supplies,
+1:00:10
+So payments of routine nature, like payment for electricity, telephone, even payment to trade supplies, are all payments of common ordinary course of business. The second point is want to know the honorable Supreme Court had held in the matter of Anu gen versus JP infra, where Supreme Court said transaction falls in the place as a part of the undisi undistinguished common flow of business done. 
+
+1:00:41
+This is the language used by our Supreme Court undistinguished common flow of business done that is no basically a part of the ordinary course of business. Now this is the most important Point here. Corporate data ntl Electronics was engaged in the business of manufacturing electronics and electronic components, and they had sought financial assistance from some banks and financial institutions. 
+
+1:01:11
+Taking Financial insistence from related and non related parties cannot be held to be ordinary course of business of the competitor. This is the main point of contention in the whole judgment: whether taking loans from related parties and non related parties can be considered as a transaction in the ordinary course of business. Now the next point is in the IBC. 
+
+
+## Preferential Transaction and fraudulent transactions
+1:01:45
+Preferential transaction and fraudulent transactions has been separately defined and the ingredients to prove are different for them. there is no need to prove any fraudulent intent for a preferential transaction. This is under highlight. This is very, very important to note that the intent of a fraudulent transaction is not applicable for a preferential transaction. Whether a transaction is preferential or not, a preferential fraudulent angle is not to be examined. 
+
+1:02:20
+So somebody said that you know the transaction with related parties will definitely constitute a professional transaction is not a correct understanding. Now on the clear of the applant now what is a pre taken by a plant transaction was undertaken due to pressure on behalf of the lenders and therefore the loan transaction was not a voluntary transaction. 
+
+1:02:46
+They are taking a plea that it was not a voluntary transaction because the money was given to the CD by the related parties and non related parties Under Pressure, because otherwise they would have filed an application under Section 138 of the negotiable instruments Act. So what the honorable Court says, that whether the ACT is voluntary or not voluntary is of no relevance in deciding a transaction is preferential or not. 
+
+
+## Suppose you want to file a composite application for 43,45.66 transactions
+1:03:16
+Now the next point is also very important. If you read the Proviso to section 43 subclass 3. I have written here within inverted commas, provided that any transfer made in pursuance of the order of a court shall not preclude that is prohibit such transfer to be deemed as giving a preference by the appropriate data. so please understand. Even the transfer made on the orders of the Court would also be considered as a preferential transaction. 
+
+1:03:51
+So what the honorable nclt says, transactions under any notice, demand or threat, shall not lose its character of preferential transaction merely on the above reason. So further to continue the appliance argued that the now the another Point has been raised by the applicant. This is again flowing from the anujang versus JP infra case. 
+
+1:04:21
+If you remember the anujan's case of Supreme Court, wherein you know what the honorable Supreme Court had held that separate application should be filed for 43,45.66. You should not file a composite application for all the various Buffet transactions, but here the RPA had filed a composite application under 43,45.66, every transaction was being filed through a composite application. 
+
+
+## RP filed composite application and it was not maintainable
+1:04:48
+So what the applicant said appealand said to the court that the RP had filed a composite application and it was not maintainable as per the order of the honorable Supreme Court. So what the honorable nclt held that the RP had dealt with professional transaction undertaken by the CD and undervalued transaction on hetaken by city, as well as fraudulent transactions in different heads. 
+
+1:05:14
+Thus allegations of governments were separate, were separately made and filing of composite application does not lead to any infirmity in the application. So you can also file and composite application, provided you have separate sections for separate reliefs and separate readings for the separate Buffet transactions. Hence the entreparency LT upheld the decision of nclt and dismissed the application filed by the appearance. 
+
+1:05:47
+So the loan entries were considered as preferential in nature and the appearance were directed to refund the amount to the account of the corporate data. So let us pause here and let us discuss, because you know it's very common to see. 
+
+
+## CRP: What is the best loan in Delhi?
+1:06:07
+In most of the CRP cases, loan has been given you know to the CDE and if the business of the city is not in the business of taking loans and giving loans, then taking loans from parties other than Banks and institutions will not be considered as a loan taken in the ordinary course of business. 
+
+1:06:30
+Anybody would like to you know, share his oral experience here respectfully, yeah, could you please repeat the point why and how RP post even was permitted to carry on this case. Okay, as again the earlier Venus thing. Okay, so the Venus judgment. You know, if you remember,. 
+
+1:06:58
+The Honorable Delhi high court in the Venus judgment had held that the avoidance application would become infectious after the plans have been approved, because there is nothing called as an xrp under the code. However, the decision of Venus recruiters have been actually basically you know, reversed by a division range of the same code, so that judgment is no more you know valid or relevant. That is one point. 
+
+
+## Venus Judgment Reversal: What Is It?
+1:07:25
+So your point is that you know if the Venus judgment was relevant, then naturally after the approval of plan you cannot discuss about perfect transaction, but that judgment has been already reversed. That is your point, Rajiv. yeah, I just wanted to cross check that obviously, in case that has been relied upon, then it has not been taken to the level of supreme court or it is not under the consideration. 
+
+1:07:57
+I think that judgment is still pending before Supreme Court. I don't, I'm not sure, but this is, I think you know this is pending before Supreme Court. But what is important is that division bench of Delhi high court has already reversed that judgment said that you cannot rely on the Judgment of Venus recruiters. Sorry, thank you. Yeah. Any other points you know. 
+
+1:08:31
+Somebody would like to share experience, sir, one point which was coming to my mind. Even I faced the same thing in my process. also many times it happens like the banker is having a non funded facilities like Bank guarantee and LCS right and many times the margin money is kept with the respective Bank. Okay, so even after the start of the CRP, we are demanding this. 
+
+
+## Banks Give Loans to ntl Electronics
+1:08:55
+You know the margin money to come into the process, but usually the bank is reluctant to give that money and they say that they will be adjusting that money against their outstanding. So sir, this amount whether it will come under the definition of a preference? No, no, that is completely different. Please understand, the banks have given the money. The business of the bank is to lend money here. You know the case is completely different abhijeet. 
+
+1:09:24
+So what has happened is that the company is into the business of manufacturing electronic components. now they are taken loan from Banks and institutions. That is fine, but they have also taken the loan from related and non related parties. So what the Judgment says? That the company ntl Electronics is not in the business of taking and giving loans number one. 
+
+1:09:53
+So the transaction of giving loan to ntl would not come within the parameter of a ordinary course of business and since the money was repaired to them within the look back period, so it would tend amount to a preferential transaction, because in preferential transaction it is not important that you know it is a related party or a non related party, or a fraudulent transaction or undeveloped transaction. These are not relevant here. 
+
+
+## antecedent Financial rent number one, that is an existing debt
+1:10:21
+All you have to see that there is an antecedent Financial rent number one, that is an existing debt. Is there whether it is an operational debt or on financial debt? 
+
+1:10:33
+Now, the antecedent financial debt is being paid during the look back period and the payment being made is in such a way that the Creditor is into a beneficial position as compared to the distribution of section, which is 53, and the payment should have happened not in the ordinary course of business. 
+
+1:10:57
+These are the four broad requirements to check under 543. If all these criterias are met, then the transaction would come under 43 and legal section of the code will come into play. This is the short points, sir. I agree to the point. what you are saying and the facts. What I am stating are totally unrelated to this case. 
+
+
+## Preferential Transactions: What we discussed but, sir, my limited submission over here
+1:11:22
+What we discussed but, sir, my limited submission over here is like, as you said, the conditions of preferential transactions. Sir, to a reasonable extent these conditions also getting met when we are talking about the margin money which is kept by the banker. Okay, and they are trying to adjust that amount because the crb process is already started. 
+
+1:11:44
+The basic point which is not meeting here is in the ordinary is the in the ordinary course of business, the banks are into the business of Lending right. That is not meeting. No, okay, you have made all the criteria that it the transaction should have happened if the ordinary course of business number one, number two, the margin money is lying with the bank. so how would you classify that as a preferential transaction, sir? 
+
+1:12:12
+This margin money which is there with the bank is also being shown in the balance sheet of the corporate data. That's a fixed replay project, correct? There is a security given by the CD to the bank. Right now, sir, this amount, which is in the form of a liquid asset, right. Normally it is a fixed deposit. Normally it's a fixed deposit. 
+
+
+## CRP: Adjust the amount against outstanding after the start of the CRP process
+1:12:34
+Yes, right now the bank wants to adjust that amount against their outstanding after the start of the CRP process. No, so what I can tell you here. After the start of the process, no adjustment can happen. 
+
+1:12:48
+But I remember there are judgments of the court that this money does not belong to the CD, even though this money, you know, is shown in the balance sheet of the CD and this is the margin money given to the bank. The bank is not applied to return that margin money to the RP or to the Liquidator, because that is not the assets of the city. 
+
+1:13:12
+Because when bank is giving any limits, yeah it also includes the collateral which are given to them. Yeah, now, when we talk about these collaterals, which are good one, I will make one point here. yes, what you can do is you can adjust the amount of security line with the bank while admitting the claim of the Creditor, so you can reduce the claim to the extent of that amount. But you can't get that amount. 
+
+
+## Judgment 20243: How to reduce claim to FDR
+1:13:40
+You know in your position understand that is the only thing you can do, right? That is my understanding. No, very true. It seems logical, more logical. You can, you know, reduce the claim to the extent of FDR and you can admit the balance amount as a claim. Okay, sir, thank you. Thank you. 
+
+1:14:02
+Any other participant would like to share their experience you know in this regard, because this is a very common transaction in most of the CRP cases of loan given loan taken. 
+
+1:14:12
+So I'm sure this decision will have a very wide ramification in cre process and many more applications are going to be filed based on this judgment, which is a very recent Judgment of 24th April 20243. So this judgment, I think you know, would be very relevant for the RPS to quote, while you know treating transactions as a professional transaction. So let us proceed. I hope you know this judgment is now clear to everyone. 
+
+
+## raksha Boolean is the liquidator of Royal Refinery Private Limited
+1:14:46
+The next transaction is also very similar in nature. That is why you know I have put these two transactions together. So this transaction is this cases of 29th March 2023 and the nature of case is also very similar. So let us say in this case, who are the parties involvedi is the liquidator of Royal Refinery private Limited. now Vishal Chaudhary and gaurav are the suspended directors of Royal refinery. 
+
+1:15:25
+Okay and baiju trading is the basically the person to whom loan was given by Royal refinery, so he is a beneficiary of the transaction. Let us you know. First see what is the issue involved. So the issue involved is whether the transaction is fraudulent in nature or not. Let me explain you the facts of the case. 
+
+1:15:49
+So raksha Boolean had filed an application under section 9 against Royal Refinery, which is the corporate data, and raksha Boolean is the OC. Now the case was admitted on 13th November 2019, was appointed as an IRP, later confirmed as an RP. The liquidation order was passed on 16th April 2021 and Mr aryant nanavati was appointed as the liquidator. So Aryan nanavati is the respondent number one here. 
+
+
+## Royal Refinery Loans to baijo Trading Company
+1:16:25
+Now this baijo trading was the applicant in this matter is an nbfc and he has taken loan from the corporate debtor. So corporate data is Royal Refinery. Royal refunding has given loan to baiju Trading Company and similar kind of kind of situation. Again, a loan has been given by the CD to some company. And here what the Liquidator is saying that this transaction is of a fraudulent nature. 
+
+1:16:58
+Why is saying so as compared to a preferential transaction in the other judgment we have just discussed? Because here there is no repayment of loan within the look back period. So he's saying that it is a fraudulent transaction given by the CD 2 by Joe baiju. CD has given loan to buy you. 
+
+1:17:22
+Now R2 R3 as I told you are the suspended directors of so Vishal Chaudhary and gaurav panwar are R2 and R3 is respondent to respondent three suspended directors of Royal refinery. So what is the business of Royal Refinery? They are into the business of exporting importing gold after performing manufacturing activities. So this is an important point that Royal Refinery is not into the business of lending money. They are into the business of importing exporting gold. 
+
+
+## RP files and application under Section 66 claiming the loan given by cd2
+1:17:56
+Now the erstwhile RP files and application under Section 66 claiming the loan given by cd2 by Joe this baijo. What is the company baiju trading? So the loan given by CD to baiju trading has been claimed by the Earth's file rpe as fraudulent in nature, because in section 66 there is no look back period. you can go as number of years back as you feel like. So let us see what are the important facts here. 
+
+1:18:33
+The avoidance application has been filed by the Earth soil rpe for 4.03 crores, because this is the amount of loan given by CD to baiju Trading. Now the CD has been raided by dri. The Department of Revenue, intelligence and. The Business of the CDE has seized with effect from May 2019. Now the next point is important that the loan given by the CD has been written off by the CD in its books of account. 
+
+1:19:10
+So who is the beneficiary here? Beneficiary is baiju trading. Because the loan was given to baiju. Now CD has written it off, so baiju has not to return the amount to the CD back. 
+
+
+## baiju trading argument: RP application covered under Section 661
+1:19:23
+Now our judicating Authority has passed the orders, upheld the application of the RP and said that the application is covered under Section 661. That is fraudulent Trading, and R2 and R3, which are the suspended directors of the corporate debtor, are covered under Section 66,2, which is wrongful Trading, and the applicants were the applicant was directed to refund 4.03 crores into the bank account of the corporate debtor. 
+
+1:19:59
+That is the primary Point here: that the loan given by CD to byju trading has been asked by the honorable nclt to be returned because it was a fraudulent transaction. Now how it is a product transaction. That will examine the next slide. what is the argument made by the apple and let us see what are the arguments of the applicant. First apparent is baiju trading the primary beneficiary of the transaction here number one. 
+
+1:20:26
+He says no forensic audit was conducted by the Hearst Royal RP. So naturally no documentary evidence has been given claiming it to be a forensic, a fraudulent transaction. Now the transaction between the Appellate and the CDE has duly been reflected in the books of accounts of both the CD and the affiliate and there is no intention to defraud the creditors, as claimed by the applicant. 
+
+
+## What is ordinary course of business?
+1:20:55
+The opponent says there is no mollified intention of willful misconduct or there is no collusion between the CD and the appellant and it has not been established also by the Liquidator that there is any collusion between the CD and the appellant. So what the applicant says? There are three tests to be passed to make a transaction as a section 66 case. 
+
+1:21:24
+The first point, he says, is that there should be a clear opinion formed by the Liquidator or the RP. Secondly says there should be a suitable determination. So after opinion it has to be determined. And lastly it says there has to be concrete finding of the fraud or you know of this nature should be a concrete finding. So as per the applant these Milestones have not been met. 
+
+1:21:57
+Lastly, the Upland says that the borrowing is appellant was pertaining to the regular business between the appellant and the corporate data in good faith. So what the appellant is saying? That baijo is saying that the pouring of the appellant was a regular business transaction because it was a nbfc and it was in good faith in the ordinary course of business. Now we have already seen what is ordinary course of business. 
+
+
+## What are the governments made by the Liquidator here?
+1:22:28
+Now what are the governments made by the Liquidator here? Because the application was filed by the air soil RP. However, it was being followed by the Liquidator. So Liquidator says that CD that is you know, the Royal Refinery is into a Boolean business and not in the business of lending money. So this is the important point. 
+
+1:22:51
+The business of the company is a Boolean business export input of gold, not lending money, and in the Boolean business the general practices that no credit facility is offered by a Boolean Trader. Number two, the transaction is long overdue and the last transaction happened on 16th May 2018. So naturally after 16.18 now nothing has happened. 
+
+1:23:27
+The entire money of the appellant owed by the apparent to the corporator has been written off by a simple journal entry by the CD now before the adjudicating authority. The appellant had termed the transaction as a long term borrowing. However, it changes stand before the nclt and had said that transaction is of a regular business transaction. So the appellant had changed the nature of transaction before the EA and NCLEX. 
+
+
+## What are the observations and decisions of the incline here?
+1:24:00
+So what are the observations and decisions of the incline here? As per the normal business of gold business, the transaction of dealing occurs on spot payment basis and there is hardly any scope of lending money. So it is not in the nature of ordinary course of business. 
+
+1:24:21
+Boolean gold business is conducted on thin margins and cash flow of the business is required to be regulated, maintained strictly, in order to sustain the growth of the business by way of purchase of gold on a regular basis. Now the Appellate made contradictory submissions before the AAA and NCLEX, as I had just said. 
+
+1:24:43
+So it does not Aspire confidence among the NCLEX and lastly, it says the very fact that the appellant was an mbfc and the corporate debtor was in the business of Boolean and gold. therefore it cannot be a transaction in the normal course of business. So we have you remember the last judgment we had just discussed. Normal course of business, because the Royal Refinery is not in the business of giving loan. 
+
+
+## Giving Loan cannot be considered as an ordinary course of business. So what the apparent is saying?
+1:25:11
+So giving loan cannot be considered as an ordinary course of business. Argument here that the CD had written off the money appealand had not return all the money. So what the apparent is saying? The CD has returned off the amount, but the appealand has not return on the amount, so he should not be held responsible for it. But the court did not. You know, buy this argument. The respondent number one. That is a liquidator. 
+
+1:25:49
+The liquidator made serious attempts in soliciting information from the appellants and also wrote emails to R1 to R2, R3, that is respondent number two and three, but they did not get any response from them. It is a settled principle of law. The Honorable nclt says, and clad says, that it is a subtle principle that the principal beneficiary of fraud will be presumed to be the party who has to return the money of a product transaction. 
+
+1:26:27
+And Mr pratik, can you mute please can you mute yeah now the contention of the appliance was that no forensic audit has been done. The Honorable NCLEX held then forensic audit is not mandatory. This is an important point to note, and overall what they are and enter held that it was a fraudulent transaction. it upheld the decision of the nclt and it dismissed the appeal. So this is the Judgment we have just discussed. 
+
+
+## What Is the Difference Between Loans and Loans?
+1:27:08
+Its two judgments are of similar nature. Loan given one was the preferential transaction, otherwise the fraudulent transaction, even though both are in the nature of loans. So I keep the floor open. If somebody would like to share his or her experience. You were happy to you know, share the views. Anybody would like to share his experience on some kind of problems? 
+
+1:27:47
+Yes, sir, yes, sir, yes, actually, I was just going through like in one of the matter, when I have identified certain tension as a 66 transaction. We made an application. Unfortunately, the day we applied for this, out of the three directors in company, two were already dead. Yes, they were already died at that time. 
+
+1:28:11
+The moment we have filed it okay and during the course of this process the third data is also won is still going on and we want to take this against the against the legal years of that respondent. Now the thing is, nobody has came forward. We are not aware of over the legal hits under these circumstances. 
+
+
+## Legal ahead: If the Code is No More, it Replaces Limited
+1:28:44
+The coordinates also awaited the application saying: since the responded is no more, they replaces Limited, which is not yet established. No, the point is, I think that you can go against legal ahead, even though I am not very sure, but I understand that there should be no bar on it. number one, number two, the courts have to actually first decide whether the transactions like a transaction, is a product transaction or not. 
+
+1:29:20
+Because if you know you have given conclusive evidence in the application before the court and the code has a well, it took a product transaction. Then I think yeah, but that has not happened yet, sir, because when the transactions are upheld to be prevalent in nature. 
+
+1:29:44
+My question is here is, since the respondent is no more okay, the claims that I have made there is nobody to counter because he's not surviving, so I don't will be is: are the code in a position to give any direction like this? because that should not be that big a challenge. 
+
+
+## forensic audit: Sir, Is it a fraudulent transaction?
+1:30:01
+Because if suppose you get got a foreign that it was a fraudulent transaction, then I don't think you know that, like in this case, there is no forensic audit. Okay, right, so is it here? Sir? Yeah, please, so already, or it was. Then they said it was done. They found out these things and but only issue is the company was inoperative. Director is no more. You know the company is inoperative. 
+
+1:30:33
+A lot of reports I have seen in the forensic reports. The forensic auditor itself is not sure whether you know it is a forensic. It is a. He has not established anything and he writes in the report it may be a fraudulent transaction. Exactly, sir, so exactly maybe yeah, hello, yeah, yeah, may I have shared something? yeah, please. Assets of the company are already in the control of the RP. 
+
+1:31:29
+So you know he's not question of recovering it from the company, from the disease, and there is some liability, and so if you think that is something about that, they have to be pay them. I am not very clear. You know what you are trying to say, but what Mr Abhijit said. 
+
+
+## IBC right application for right order
+1:32:06
+My limited Point here is that if the report is able to establish conclusively that there is a fraud or there is an undervalued or a Perpetual transaction and the it is established Beyond doubt and the courts are convinced that it is a transaction of buffet nature, then the next step comes how the money will be recovered. The first step is that it has to be established. It is a perfect transaction. 
+
+1:32:33
+So, sir, here one interesting point. Was there this company. So the company which I'm talking about. This was under bfr okay and the city themselves has filed the application under 16 okay. So there is one point where it says the Creator feels like the CD feels that they in. Under any circumstance they can revive the company and still they are running the business. So it is a fraudulent thing with this company. 
+
+1:33:12
+They cannot survive with this company because the company wasn't going to behavior. It was already a NP company, okay, he was not eligible to give a plan. Yes, then they filed them to 10. But when the behavior was repealed and on the introduction of this IPC right they moved to IBC right application was filed in 2017. Right ordered was passed in the year 2019 December. that's fine. 
+
+
+## Section 10 Application: What is the difference between the wrongful trading and the insolvency
+1:33:40
+But even though it is a section 10 application, then how do you establish that it is in transaction when it says if the if the promoter knows under any circumstance they cannot keep the company surviving okay because it was at the bi for this instead of filing for carp? No, you are not going in the right track. I think you know you are referring to section 66 or Clause 2: wrongful Trading. 
+
+1:34:14
+So the point is, if you read section 66 at Clause 2, the director must have you know. Basically it says that the director must have done something which you know is not done by a person with common. no common you know understanding and knowledge which should not have been done by person of reasonable understanding because the company was in any way is going to go into insolvency. 
+
+1:34:38
+So I don't think you know we have our case of section 10 has any relevance to this fraudulent application. But you know the facts of the case is not known. So you know it is difficult to you know discuss. Maybe we can discuss offline separately on what is the issue involved. You see here there is something to you rightly refer itself. It talks that before the insolvency commencement date. 
+
+
+## What happens to the nclet and FC?
+1:35:03
+So better or partner new or to have known right that there are no reasonable perspectives, avoiding the commencement of clear right correct and when they are them still moving to carp still they are transacting and targeting with the related party and continue to enter further losses. So you'll have to see now what kind of transaction. These matters are a little complex. 
+
+1:35:23
+You will have to go into the complete facts of the case, otherwise you know if you are don't, if you don't have the complete facts or if you're not drafted your application well, if there is even an iota of Doubt, then NCL will dismiss the application, reason being, sir, because you know you are not established Beyond doubt that it is fraudulent or preferential in nature, as you are saying that the report of the forensic order itself says that it may be a fortunate in nature concrete report they have not given also so that will not, then it will not stand the test of law. 
+
+1:36:06
+I think let us proceed, because you know we have limited time left, so we can discuss offline energy. Yeah, let us see the next judgment here. the judgment is. The Limited point before the nclet was and FC, who has not attended the COC meetings. Can he challenge the CRP process? He is not attending the COC meeting here. Consolidated fing West is a financial creditor. Kundra is the RP for CLC Industries. So basically what happened? 
+
+
+## Consolidated if invest is a financial creditor and he's saying that
+1:36:42
+The financial creditor is challenging the approval of the plan and he's saying that the whole process has not been conducted properly when he has not been attending these COC meetings. This is a limited point before the court, so let us very quickly see what are the facts of the case. As I told you, Consolidated if invest is a financial creditor and the name of the CD is CLC Industries. 
+
+1:37:07
+Rpe approve a preservation plan approved by the COC was challenged by the appellant. however, the such challenge was dismissed by the nclt, but it's order dated 25th January 2023. The appellant challenge the entire process has not legally done and he requested the code to issue the process of eoi fresh. Now the crfp is initiated on in January 2020. Form G is issued in March 2020. This the form G is extended six times. Three. 
+
+1:37:47
+Please note, the RP has extended form G six times and finally, when the resolutionary plan is approved by COC on 5th April 2021, RP files the application for approval on 20th April 2021, the Consolidated finvest challenge the order of approval of coc in the nclt in September 2021. So it's challenging the approval of the plan by the COC, saying that the process has not been properly conducted. 
+
+
+## RP imposed cost on applicant and dismissed application
+1:38:20
+So out of the 16 COC meetings, only in one COC meeting the appellant has attended. So out of 50,16.15 years not attended and one meeting he has attended and he has neither voted nor raised any objection regarding the process. So the nclt imposed the cost of 10 lakh Rupees on the applicant and dismiss the application. Now he has gone into nclt. 
+
+1:38:48
+Challenging the decision of the anxiety of imposing cost and not giving relief to the applicant is saying the financial creditor has been given rights under IBC to take steps for resolution of the CD and financial creditors do not intend and financial creditors who do who does not attend the proceedings cannot be heard in saying that process has wrongly been conducted. 
+
+1:39:17
+So this is an important observation for RPS that if a COC member is not meeting or attending the meetings, he cannot challenge the process. This can be helpful to us in certain circumstances. Second is the appealand say has made several prayers in the application and one of the prayer was to change. The RP has made several prayers in the application and one of the prayer is that appealand may be permitted to file fresh plan. 
+
+
+## ncrt judgment held to be correct and no relief was granted to applicant
+1:39:51
+However, appealand does not filed any plan in response to form G, so the cost imposed by ncrt was upheld and the application for dismissed by the nclet. So the Judgment of nclt was held to be correct and no relief was granted to the applicant. So there is a limited Point here. Let us not you know, waste our time in this judgment. it is a simple case. 
+
+1:40:17
+So I think you know, let us just discuss this judgment. This is important judgment. So this is you know Jagdish Kumar parulkar. This is the Liquidator of Kapil steel here. The facts of the case is little complex, so we would spend about 15 20 minutes in understanding this case. There are six respondents here, so let us see what is the issue involved here, whether the transaction is a perfect transaction or not. 
+
+1:40:43
+Again similar kind of issues involved, and the judgment is of 21st March 2023. It is a recent judgment. So let us understand the facts of the case, because the facts are little complex here. So partly carbides. In short, pcpl acquired a piece of land of 1.000 square meter on lease of 99 years from madhya Pradesh Industrial Development Corporation. that is MP idcl. MP idcl is response respondent number six in this case. 
+
+
+## mpfc auctioned land and Kapil still, madhya Pradesh Financial Corporation
+1:41:18
+Now, to obtain this at land pcpl, that is, partner carbides took a loan from npfc, this madhya Pradesh Financial Corporation. So partly carbide defaulted, and madhya Pradesh Financial Corporation auctioned the land and Kapil still, which is the CD or the corporate debtor in this case acquired the land from mpfc for 60 lakhs. 
+
+1:41:47
+So this is how the line land came into the position of Kapil still and the sale date between the mpfc and Kapil steel was executed on 23rd February 2020. These dates are important: 23rd February 2020. The land was registered by mpfc in name of the CD, which is Kapil stills. Now the next point is very important. CD did not give the least at least deed executed in its favor from MP idcl right. 
+
+1:42:26
+So the land is only one of the requirements that we'll see in the next line. One of the requirement of the deed was that the owner of the land has to get the deed registered in its favor with MP idcl. Now what happened? Kapil still went into insolvency on 10th 28th July 2020. The application was admitted and then it got into Liquidation on first October 2021. Now let us say the further facts of the case. 
+
+
+## Kapil steel sold the land with the Tin Shed
+1:43:01
+Now the copyright data. That is, Kapil steel sold the land with the Tin Shed. There was a small tin shirt constructed on the land. He sold the land on 1st February 2020. Please note CRP date is 28 July 2020. so prior to the CRP date, the land is sold by the CD to a company called PTL Towers limited and PTL happens to be a related party of the city. 
+
+1:43:30
+The total value of sale is 7 lakhs 8.000. So if you remember, the land was purchased for 60 lakhs by Kapil. Still the third line has been sold for 7,81 lakhs who are related party. Now what pgl did? It's in turn sold the land with the Tin Shed to another company called indoor Steel and Alloys private limited is APL on 13th November 2020, that is after the cirp date. 
+
+1:44:08
+So the sale of land between the CD and PTL happens prior to cirp and the registration of sale between PTL and indoor still happens after the Circ. now. The next point is very important. MP idcl after receiving so if you go to the previous slide, I had already stated corporate data did not get the lease deed executed in its favor from MP idcl. 
+
+
+## Right and Industrial has got the land transferred and registered in its favor with MP idc
+1:44:36
+Right and Industrial has got the land transferred and registered in its favor with MP idcl after receiving the transfer charges. Another outstanding dues from indoor steel also transferred the leasehold rights in the subject land to Industry. Now what happened? The liquidation process started, so the indoor steel, which is respondent number one, filed an application in the ncrt stating that their position should not be disturbed during the liquidation process. 
+
+1:45:16
+Now the liquid data filed of application before the nclt says that this is a transaction within Buffet and the transaction of sale should be reversed. right. The nclt passed an order on 5th May 2022 stating that basically dispose of both the application. It said that indoor Steel would retain the ownership of the land and it said that Liquidator will not disturb the ownership and position or inter interfere with the titles of the indoor steel. 
+
+1:45:53
+That is what is the order of nclt so agreed by this order. The Liquidators file this application before the NCLEX. So let us see what are the important provisions of the sale deed. These are very important. You know this has to be seen in the facts of the case. 
+
+
+## MP rules for sale of land, building management, mpitcl
+1:46:11
+There are certain important points in the sale deed between mpfc and Kapil steel and there is an MP rules which is called as the madhya Pradesh State industrial land and building management rules. there are certain important Provisions which has to be seen in the facts of the case. 
+
+1:46:28
+So as per Clause 6 of the sale date, it says that the assignment of Lee's right was conditional and it was obligatory on the CD to get the approval of MP idcl within six months of the transfer. So the sale did had very categorically stated that the buyer of the land must get the land registered in its favor with MP idcl. 
+
+1:46:57
+Because land is actually government land owned by MPI DCL it was given on lease, so it must be registered with mpitcl. now rule 9B of the MP rule says that the transfer of lease All rights would be effective only when MP idcl executes the least deed in favor of the new volatility, and Rule 19c says that if descent transfer is not taking place in six months time, then there is an automatic cancellation of the lease. 
+
+
+## Transfer of Property Act: What is the argument of the Liquidator?
+1:47:34
+Now the last Point important here is section 107 of the transfer of property act, which says that any immobile property which has a rentals exceeding one year needs to be registered. So registration was a compulsory after section 107 of the transfer of property Act. Okay, so what is the argument of the Liquidator? Stating that you know this is a buffet transaction. So what are the arguments that the Liquidator is giving? 
+
+1:48:23
+The first argument is saying is the land was purchased for 60 lakhs in 2010. It has been sold to a related party only for 7,81 lakhs, so it was an undervalued transaction. Second point the Liquidator says is that the land has been sold to Indore steel for 40 lakhs, so PTL has sold the land in turn to Industrial for 40 lakhs. However, CDs sold the land only for 7,81 lakhs to PTL. 
+
+1:48:55
+Now it says the amendment to the lease date records the chain of documents regarding the transfer rights from pcpl, that is partly carbide to CD, to powerage Towers, to Industry. That is the chain. Now the nclt are held that the chain was broken because the lease was never executed by the CD with MP idcl. so the CT had only acquired the ownership rights but not the leasehold rights. 
+
+
+## What are the important observations and issues before the ncrt?
+1:49:33
+Now what are the important observations and issues before the ncrt? The first important issue is whether the transfer of land by MP idcl to in those team has been executed in accordance with law and, if so, whether there is any Merit in the claim of the appealand appellant is the Liquidator that the transaction was not done in good faith and was fraudulent and preferential in nature? 
+
+1:50:01
+The second point is the city, in spite of being aware that it was under an obligation to get the least date executed, did not do so with MPI DCL and for the next 10 years the land remain unregistered with MP idcl and it was finally sold to PTL on 2020 foreign to get the land registered with MPI DCL. 
+
+1:50:40
+Now mpidcl is a wholly owned subsidiary of the government of madhya Pradesh and it is bound by the rules of the government. So there is no error in the findings of the adjudicating authority that MP idcl has fully authorized. It was fully authorized, being owner of the subject land to execute the sale deed in favor of R1 corporate data had only deposited 10,51.59 lakhs with mpidcm. 
+
+
+## Industrial bought land on 13th November 2020 and MPI DCL paid a balance amount
+1:51:12
+It had not paid the balance amount of 20,49 lakhs to transfer the land in its favor. So industrial had purchased the land on 13th November 2020. It had paid a consideration of 11,72 lakhs to PTL and it had also paid 38,09 lakhs to MPI DCL for getting the land registered in its favor. So effectively it is paying almost 50 lakh rupees here. 
+
+1:51:51
+The second Point here is that in those jail had paid the consideration directly to MP idcl and it has not entered into any, and it is further entered into a release date with mpidcm. Now the transaction between Indore steel and PTL related to the purchase of land and the transaction between industrial and mpticl was for leasehold rights. So there are two separate transactions here. 
+
+1:52:18
+One is for sale of land and one is for acquisition of the lease rights. CD never acquired the lease rights and MP idcl has directly transferred the lease rights in favor of indoor Steel. So finally, you know what the code has held. This is the final observation. 
+
+
+## Judge's judgment on Liquidator's ability to record fraudulent transactions
+1:52:41
+It says, the Liquidator, being an officer of the court, has to display high level of professional maturity, fairness and restraint in the conduct of liquidation process and is not expected to be over zealous or overreach in detecting traces of preferential, fraudulent, undervalued transactions in respect of interest in the property owned by a person who has acquired such interest from a Public Authority in good faith and for Value. This is the observation of nclet. 
+
+1:53:15
+Mere possibility of a potential collusion without material record is not sufficient to persuade this bench to record any findings on operational or fraudulent transaction and hence the appeal of the Liquidator was dismissed and Industrial was the rightful owner of the land and position of the said land. That is you know in nutshell, the judgment. so I have even last judgment, but I think you know time is already. 
+
+1:53:48
+We are already 4,30. So you know, if you want, I can cover this judgment or I can skip the assessment. As you know the Institute of company secretaries advice. We have one more judgment left here. If you can wait for 5,10 minutes, we can quickly close it. So you can continue for five, ten minutes if that's okay with everyone. 
+
+
+## judgment on Mr Karthiken, Liquidator of John Freight Systems
+1:54:10
+Okay, yes, sir, this was it okay, fine, so this is a judgment where you have you know one gentleman called Mr karthiken, who is a proprietor and mck msk Lottery booking. he is a member of the stakeholders consultation committee, is the Liquidator of John Freight Systems, that is the CD and GC Logistics is the successful bidder of the company undergoing concern under liquidation process. So respondent what is the liquidator? 
+
+1:54:46
+Respondent number two is the buyer of the company John Freight as a going concern. And Mr karthiken, who is the appealand here is a member of the stakeholders committee. This judgment is again of a recent judgment, 17 March 2023. So let us hear what has happened here that the appeal has been filed against order dated 19 January 2023 and CD John Fred was sold as a going concern to GC Logistics as a going concern. 
+
+1:55:22
+So Happy Land, as Mr Karthik again is the member of the stakeholders committee. so the main contention here is Mr karthika is saying that the principle of value maximization has not been followed. So his pay out under section 53 is getting impacted. So the process has not been held properly. The process has been run erroneously. Basically you know what is happening here. Mr karthikyan is acting as a front for the promoters. 
+
+
+## Promoter offered 170 crores to GC logistics
+1:55:56
+Promoter had given a plan under Section 230 of the company's act and they had offered 170 crores. The promote, the COC or the SEC was not inclined to accept the proposal of the promoter and they sold the company the going concern to GC logistics for only 44 crores, whereas the promoters were offering 170 crowns. 
+
+1:56:18
+So the appealand is saying here that the process is erroneous and you know the payout is not meeting the value maximization principle. so the appellant here made various allegations against the liquidator. Even you know I filed an application for replacement of Liquidator, but all these applications were dismissed by the court. So what are the arguments made by the Liquidator here? 
+
+1:56:49
+The Liquidator says that in the ninth meeting, when the proposal for sale as a going concern was received and put to vote was part of the said stakeholders committee had voted against all the had voted against all the proposals. Now what is the reason he is giving up voting against? He's saying that he is rejecting the proposals because he wants the promoter to take over the company. Because the promoter is offering 170 crores. 
+
+
+## Liquidator accuses promoters of acting as front for company
+1:57:26
+He is insisting that promoters should take over the company. so the Liquidator is alleging that Mr karthikeyan is acting as a front for the promoters. Now the transaction has fully been completed. The sale agreement has been executed. The amount has been received. Amount has been distributed as per section 53. The successful bidder has also retained all the employees of the company, John Freight. 
+
+1:57:56
+Now even you know the Liquidators said that he had carried on a Swiss challenge to sell the company because initially there were two proposals of GCA Logistics and Galaxy Freight, but you know none of the proposal received 66 vote. 
+
+1:58:11
+So he filed an application in the NCL stating that you know he would go for a Swiss Challenge and he would keep the base price as the offer given by GC Logistics, and he will go for a Swiss challenge. and finally, GC Logistics was considered as a successful bidder for 44,64 crores. So the Mr karthikeyan had also filed an application against challenging the Swiss challenge. This was also dismissed by. The Honorable nclt. 
+
+
+## Clan says that before a the appeal, he didn't point out any regular
+1:58:45
+So what are the observations of one representation here? And Clan says that before a the appealand I did not point out any regularity. So a very similar kind of case, where he has not pointed out any regularities during the liquidation process, but subsequently he's pointing fingers towards the Liquidator saying that the process has not been properly held. So he would not. He would be barred from raising these objections on a subsequent date. 
+
+1:59:16
+The appellant has no vested interest in the CD. this is important, and the application has not been filed. And the application has been filed only to disrupt the liquidation process of the corporate data. So the appeal was dismissed and the Judgment of nclt was upheld by. The Honorable and collect. So this brings me to the end of my session. Yeah, thank you very much. 
+
+1:59:39
+So in case there is any question answer, you can, maybe you know, address those question answers. Otherwise you know we can close it. I'm sorry I have exceeded six minutes. Yes, sir, thank you. Thank you very much. A wonderful session. I would request all the participants to please put forward their questions if they have anything. What is the name of the last case law which you, which we discussed? I just repeat: I'll just take you, karthiken, I will share this present. 

@@ -1,0 +1,7 @@
+base   markdowku
+author Julian Fagir, Raphael Wimmer (maintainer)
+email  raphael.wimmer@ur.de
+date   2021-12-04
+name   Markdowku
+desc   Integrates Markdown into Dokuwiki syntax
+url    https://www.dokuwiki.org/plugin:markdowku

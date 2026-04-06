@@ -1,0 +1,668 @@
+# Voluntary Liquidation   Decoding IBC
+![](https://img.youtube.com/vi/DA7sk5KJDos/hqdefault.jpg)
+2 years ago (May 16, 2022) — 1:28:39
+[https://youtube.com/watch?v=DA7sk5KJDos](https://youtube.com/watch?v=DA7sk5KJDos)
+
+
+## Summary
+Umesh Gudelli, presenter of the bi-monthly insolvency webinar, introduces the topic of voluntary liquidation under the Insolvency and Bankruptcy Code (IBC). He mentions that the company secretary and chartered accountant have experience with voluntary liquidation under the Companies Act and now under the IBC. The panelists for this session are Dipti Mehta, Designated Partner, and Vaibhavkumar Rai, Director, from Bobby Parikh Associates. Vaibhav will share his experience with the big group having presence in different countries and going through closure liquidation. Umesh will present a slide deck on decoding voluntary liquidation under the IBC, comparing it with the Companies Act, discussing who can initiate the process, who can be the liquidator, and the procedure of voluntary liquidation. The declaration of solvency, affidavit by majority directors, audited financial statements, records of business operations, and report by the registered valuers are required for the process. The company has to convey a board meeting to discuss and approve resolutions, and a special resolution has to be passed by the members within four weeks of the declaration of solvency.
+
+## voluntary liquidation under ibc
+0:11
+And this is third, I will say third session and first two sessions were on the code of conduct. This we are taking on voluntary liquidation. I like the suggestion from the participants. What you want to do we can discuss on it depends what everyone wants. 
+
+0:40
+But I like to have your suggestion also and we will have this, as I declared earlier, bi monthly, this insolvency webinar regularly and i'll request everyone to share their query online and they can also unmute and raise the question. We at that time only no need to wait to end the webinar and also if you have to share any experience, you are most welcome. It's an informal discussion among friends only. We all are equal. 
+
+1:16
+We learn every day and i'll appreciate that. stating that today's topic is volunteer liquidation under ibc we as a company secretary was also chartered accountant. All that we were dealing with the voluntary liquidation earlier under the companies act and at that time there was no requirement of having the insolvency professional. Even the officer of the company was also allowed to be liquidator, even a director. 
+
+
+## ibc and voluntary liquidation covered under insolvency bankruptcy code
+1:49
+And from that today's situation of ibc and voluntary liquidation is also covered under insolvency bankruptcy code. We have covered entire gamut of it and in that in between we are doing to give you hint on the practical aspect, because i'll say i'll share my experience. There are participants who have gone through the validity regulation who are going through that they can also share that experience as such. So we have with our us. 
+
+2:22
+Our guest, mr baba kumar is the director of, is the director of the bobby, perrick and associates, to give briefing introduction. With over 10 years of experience in tax advisory and consultancy, weibo specializes in transaction specific tax advisory services with specific focus on real estate infrastructure and financial service industries. 
+
+2:51
+Over the years, weibo has advised a number of developers, private equity investor nbfc aif, on diverse aspects, such as evaluation of funding options, strategies for tax optimization, profit repartiation, corporate reorganization, assist and modules and acquisitions. Vypo also has a considerable experience in a wide range of domestic and international tax assignments, covering comprehensive services and solution in conceptualizing, structuring and executing inbound investment and cross border transaction from an indian tax and regulatory perspective. 
+
+
+## Weibo's experience on taxation aspect for participants knowledge
+3:36
+Weibo is a graduate in commerce from university of mumbai and qualified as a charter accountant in 2011. Welcome, mr baiba, and we will like to have a share of your experience on the taxation aspect for participants knowledge. Mr vaibhav is involved in the big group having presence over different countries for that closer liquidation, and that's why his experience will be very what to be known to the participants. 
+
+4:08
+Welcome, mr webb, thank you and if you like to say few words on the topic, i'll request you if you want to share some you on the topic as such. Thank you. So the only experience I mean as we progress on the on the on the slide deck which is which will be presenting. 
+
+4:30
+We will touch upon the relevant points at that level relevant moment, and I'm requesting all the participants, whenever they have any questions from a tax perspective, from a practical aspect, happy to have all those questions. I'll try and answer whatever questions I can answer and if there are any questions which requires some more research, I will come back. I'll share my views with the pn later on we can. 
+
+
+## voluntary liquidation - A final option for company
+4:53
+We can circulate that response to all the participants. Sure, mr west, you can start your presentation please. Thank you, ma'am. Today we are decoding the voluntary liquidation under the ibc. So today we are talking about the voluntary liquidation. So we'll start. So first of all the introduction. Firstly, the liquidation is the last resort for the company. before that the company consider the various aspects to restrict themselves under the authority of law. 
+
+5:34
+So there is a strategy to review if the company fails in strategies so they go into the liquidation. That is a final option available to the company. The concept of this liquidation is introduced in the companies act 1956 under section 484. Thereafter it found itself in the company's act, section 270 of companies act 2013. So in the previous act, the section 304 and 32.325 of the companies act, the detailed provisions of voluntary liquidation, but that provisions are not notified still yet. 
+
+6:16
+Then after the in ibc code into come into effect and it scribbled out the company's act provisions regarding the voluntary liquidation and it come up with the section 59 of the code, along with the voluntary liquidation regulations which come into the effect from first april 2017. These are the basic introduction of the voluntary liquidation before the code and after the introduction of the code. 
+
+
+## ibc Code: provisions for voluntary liquidation
+6:49
+Now the provisions which are dealing with the voluntary liquidation is the ibc code. First of all, there is a one section, section 59, the single section which covers the whole voluntary liquidation process and the ibbi voluntary liquidation process regulations. So in detail, regulations is also there along with the section. So there is a liquidation process under the code. 
+
+7:19
+The section 35 to 53 of the chapter 3 and chapter 7 of code is applicable to the voluntary liquidation as well. So basically this section 35 to 53. These sections are applicable to liquidation under the code. The same sections will applicable to the voluntary liquidation as well, with certain modifications whenever there is required. So these are the basic sections which are applicable now. The companies act. 
+
+7:56
+There is a will do the comparison of the voluntary liquidation under the companies act 1956 and the ibc code. So we'll talk about the more modes of winding up. In companies act there is a differentiate between the members voluntary winding up and the creditors voluntary winding up. So there is an option so members can voluntarily go for the winding up. operators can take initiative and they can go for the voluntary winding up. 
+
+
+## ibc is no such a differentiation. There is a only company.
+8:29
+But in ibc there is no such a differentiation. There is a only a company. We can say the corporate person can move into the voluntary winding up by passing a special resolution and the appointment of liquidator in companies act 1956. There is no such a profession or professional. Only the official liquidator who is under administration of the high court of that state will act as a liquidator for that company. 
+
+9:02
+But in ibc there is a only insolvency professional he can appoint as a liquidator under the voluntary liquidation. So there is eligibility for to be an insolvency professional or to act as a liquidator for the corporate person. So that will cover in next slides. Third part is adjudicating authority. here is in companies that the high court is adjudicating authority will take into the account of the voluntary liquidations. 
+
+9:36
+And in ibc we have a quasi digital that is ncld. So these are the basic differentiation between the companies act 1956 and ibc code am I am I audible to all? Yeah, yeah, okay, thank you. Now who can we initiate the voluntary liquidation process? So the corporate person himself here he can only himself go for the liquidation. So there are certain things which has to take into consideration before moving into the voluntary liquidation. 
+
+
+## Financial debts and operational debts that are not committed by corporate person
+10:20
+The first thing that they have not committed any default of any office debt. That means in we can take as a financial debt and operational debt as well. or there is a no such a debt, or they are able to pay the debt in full of the proceed from the proceeds of the assets which you sold into the liquidation. 
+
+10:42
+So we can say that the corporate person is enough cash rich company or he have enough liquidity to pay his debts. So that is a primary thing to go into the voluntary liquidation. So they can initiate the under section 59. So these are the basic condition and the second now who can be the liquidator. 
+
+11:11
+So the eligibility for appointment of liquidator is the first and primal phase is he must be independent, independent to the corporate person. He is eligible to be appointed as a independent director of that company. So we can say there is a no picnery or any other relationship with the corporate person. the liquidator is must be independent himself and is not a related party to that corporate person. 
+
+
+## Third thing, he should not be an employee or proprietor of that firm
+11:43
+Third thing, he should not be an employee or proprietor of that firm. In previous three financial years, firms like a audit firm, secretary firm, cost audit firm or a legal consulting firm which earns more than the 10 percent of gross turnover of that firm, and the liquidator shall disclose if there is any pecuniary or any personal relationship arise before or after his appointment. That should be informed to the board and the adjudicating authority. 
+
+12:21
+So we can say the liquidator should be independent to the corporate person. Or one thing. we should add here that the if the liquidator, if the insolvency professional is a member of the director or a partner of the entity in which any other resolution professional represent any other any of the person in these corporate person, then he should be implement this to the board and register ncld. Third next is procedure of voluntary liquidation. 
+
+13:06
+So we are covering the detailed procedure for the voluntary liquidation. So first it starts with the declaration of solvency. Declaration of solvency we can say it is the heart of this whole chapter of section 59 of the company's ivc, which is a dually verified by the affidavit by majority of directors. 
+
+
+## affidavit of directors should be verified by majority of directors
+13:32
+So say, if there is a six directors in the company, then a four, at least four directors should be given the declaration of solvency on a stamp paper. If the directors, if any director or a majority of directors, are a foreign country, they are residing in the foreign country, then that should be a notarized and opposite, and that declaration of solvency should be verified by an affidavit stating that they made a full inquiry into the affairs of the company, on the basis of which they are concluding that company has a node it as on date the company has no date, or they are able to pay the debts in the full from the proceeds of the assets which are to be sold in the voluntary limitation. 
+
+14:28
+And the second thing, the company is not being liquidated to defraud any person. So these two things should be a affidavit by the majority directors. So it all starts with the declaration of solvency. So just like I just want to add one point on this slide, which mentioned that there is an affidavit which needs to be provided by the by the majority of directors. 
+
+15:00
+So from a practical standpoint, when company goes into voluntary liquidation, normally what we suggest our client is that if, before a relevant board, resolutions are passed for proceeding ahead with the voluntary liquidation to the extent if debts, if company has any debt or company has any creditors, if to the extent we are able to clean them up, that helps in overall process. 
+
+
+## affidavit of directors to take overall process forward
+15:28
+So practically if we, if there are surplus in the company which can be can be utilized to pay off the debt pay off the creditors in the company, then all these declaration makes is far easier for directors to certify and take the overall process forward. Okay, thank you so much. The affidavit it should be accompanied by the audited financial statements of previous past two years. The companies late latestly, then whichever is later. 
+
+16:11
+Second thing, the records of the business operations, so the records of business operations. What exactly it means does it not defined in the regulations actually? Third thing: report by the registered valuers, if there is any. So third one is optional. So normally it is based on the audited financial statements which shows the enough assets to pay their debts. here when we say the valuer valuation report optional, but as a good practice, to avoid any litigation. 
+
+16:51
+If there is ss better you take valuation because when ip sell it on what ground selling it what is the best price? So that time, even though it is optional, better you take that. 
+
+
+## How to decide if there is an asset, that valuation will help the director to decide on
+17:03
+And also when you know if there is an asset, that valuation will help the director to decide on the worth of the company, that realization of assets, on what basis the director is giving that effort and as we move again, we will give comment on the process. Yeah, okay, ma'am. Now after the declaration almost one minute, there is a question. 
+
+17:38
+Records of business operation means any interpretation as on today they have not mentioned about records of business operations. so we are attaching financial statements only as on today, and the same is accepted. Additional information we are wanting, okay, and I guess there is one question on capital gains just but I thought that you know we have just started the process and the sale of assets reached. So I thought that will happen right. 
+
+18:11
+That's why even that earlier timeline. Let me comment miss priti, when the timeline starts about the question, we'll take it that time. So otherwise it will interrupt our process flow right, yeah, please, okay. So the after the declaration of solvency given by the majority of directors. 
+
+
+## Board Meeting Resolutions: What is the reason for the voluntary winding up company?
+18:34
+The second thing we see in the process is the company have to convey the board meeting to discuss and approve the following resolutions: firstly, the voluntary winding up company that is a subject to the approval of the members by passing a special resolution in next agm or eog. And the second resolution is appointment of liquidator and fixing their remuneration. It is also a subject to the approval by the members. 
+
+19:05
+And third thing is consider and approve the declaration of solvency which is given by the majority of directors and to convey the next general meeting members meeting to fix a date, time, venue and to prepare a notices and agenda, along with the explanatory statement stating the reasons for the moving into the voluntary liquidation. that should be there in the explanatory statement so that these things are to be covered and approved by the board members. 
+
+19:40
+So explanatory statement we can say that the there are certain things for which company move into the voluntary liquidation. First we can say the object of the company is accomplished. So that can be one reason and the second thing, if there is an occurrences of any event in the principal documents of the company and that event is got triggered. So that is also one reason and we can say the competition stiff competition in the market. 
+
+
+## voluntary liquidation: What happens when board members are appointed
+20:12
+So these are things comes under the reasons for the voluntary liquidation. There is a question in the chat box that liquidator will be appointed by board members or from ncft bench member. liquidator will be proposed by the board and will be appointed by the members in the members meeting. Nclt will come in last only at the time of filing dissolution application in volunteer liquidation in voluntary regulation commencement happens with the company and insolvency professional. 
+
+20:47
+The judiciary that is ncld comes adjudicating authority at the end of it. I hope I clear it. Thanks almost what okay now we have done with the board meeting now next is to have a special resolution by passing by the members so as per section 59,3 of the code that should be got within the four weeks of the declaration. 
+
+21:16
+So when we got the declaration of solvency by the majority of directors, then we have to go for a special resolution. the resolution passed by the majority of partners or contributors as a case may be to up first of all to liquidate the company, along with the appointment of insolvency professional to act as a liquidator and fixing his remuneration so that there is no ambiguity. 
+
+
+## The resolution by the partners and members that require a corporate person to be liquidated
+21:44
+The resolution by the partners and members that require a corporate person to be liquidated the result of the expiry of the period of his duration, as we talked earlier. The duration of companies expired or buffet, which is fixed by any constitutional document of that company or occurrences of any event as per their constitutional documents. So these things are covered to trigger into the voluntary winding up and top point as a liquidator ip as a liquidator. 
+
+22:19
+Apart from this, if company have any debt any date means it's financial and as operational data as well. If company has any owes, any date from any person that creators representing two thirds in the value of the debt of that corporate person, that shall be approved by passing a resolution within the seven days of such resolution. So within seven days we have to take the their approval or noc from the creditors. 
+
+22:57
+Now the intimation by the company to the right almost go to earlier slides. Okay, now, if you see there is a question is if shareholder is a listed body corporate, then is it required to pass special resolution myself see in the sense the shareholder, the company which is going for voluntary liquidation, has to pass special resolution the shareholder of a listed body corporate. I am not getting your question. 
+
+
+## 
+23:42
+The special resolution has to be passed by a company which wants to go itself into all industrial position, whether it is listed or unlisted anyway. Okay now, friends, if you see that the and one point will come later, that what is the liquidation commencement date? Volunteer liquidation commencement, that is when the members resolution is passed and from that date insolvency professional is appointed process start. 
+
+24:15
+But if you see that it is subject to the approval of creditors, even the resolution has to say so. Two thousand value of debt. Now practically imagine you pass the resolution within seven days. You go to these creators and if they don't approve how you will do it. there is decided case on that aspect, which you must will take to later on, but I'm putting it at a right place. 
+
+24:44
+So practically as our panelists say, that we always take creditors before you initiate the process, because you will have a board meeting, you will have a general meeting and then you will go to creators. 
+
+
+## 
+24:58
+Then it's going to have a problem, and that's why it is always advisable for take the creators consent or pay them in advance so that you are sure that they are with you and ma'am, yeah we can pay the debt if company wants to. Yeah the same thing if they want it. Please note that sellers also special resolution. 
+
+25:26
+There will be descending orders, but still you can go ahead same way there is a craters who will be descending, but still you can go ahead but you have to pay all creditors. That is clear, okay. So what happens? It is the consent to initiate. That doesn't mean that descending creditors will not be paid as such. Before dissolution you have to pay every greatest. 
+
+25:55
+It's only consent to start the process, so there can be writers who will not give you the consent. So in that scenario, you should answer two third are there unnecessary objection can be avoided. That's why it is suggested there is a clarification. The company which is going for liquidation who has listed body corporate as a shareholder, then that body corporation needs to pass state that body corporate will be done by companies. 
+
+
+## 
+26:26
+How a company give voting power exercises voting power that you will be governed by the section. This liquidation will not be governing that company only. This requirement is for the company which is going for liquidation. 
+
+26:43
+If one of the surrender is company, then they have to act as per company's act, whereby company exercises voting rights by delegating to war, or god give it to some of the representatives with that direction, so that representative will attend the meeting and what foreign it is not. Special resolution for special resolution for voluntary recognition. Okay, thank you. Yeah, now the intimation by the company to the registrar of companies. 
+
+27:20
+As per the code intimation to roc we have to given within the seven days of the approval of liquidation of that company that is subsequent to approval by the two third of the value date of the company. So there is a certain forms which we require to file within the seven days of the voluntary liquidation commencement date. 
+
+
+## 
+27:43
+That first one is the mgd 14 for the resolution that are passed for this voluntary liquidation and appointment of the liquidator. Then the second one is jl2 for the declaration of solvency, along with the affidavit that should be filed with the form jnl2 within the seven days of the approval of the voluntary liquidation by the members. now second one. 
+
+28:08
+We have to intimate to the ibbi in the prescribed form up after the passing the resolution for the liquidation of the company, which is subject to the approval by the two third of the value of the debt of the company. Now the public announcement. Just a minute that as regards affidavit, i'll request friends all be careful and study the balance sheet. The director should be careful. 
+
+28:42
+The company secretary has to ensure that board do not give in you know hurry any resolution they should be able to do because it's a supported by accident. It can be question of misrepresentation and wrong. Many things will come up as an uncompliance. So one has to be very careful. okay and there is a question that if a company has banned into liquid oriented liquidation of the company's 1956 approximately 30 years before, I don't know. 
+
+
+## 
+29:15
+My dear miss silty, can you say that it's a reality? I will put it that way. Just to set aside, I have my own one indian reputation also before under 1956 and even after ibc it comes, it continues under 1956 with liquidator office through liquidator office. Liquidator office represent before the high court and high court give the order. 
+
+29:41
+It will continue under that I myself has completed through voluntary liquidation under the company's act, even after I visited. Okay, thanks, omega. Public announcement after the appointment of the liquidator, the liquidation make a public announcement in prescribed form, that is a form b as per schedule 2 within the 5 days of his appointment. the public announcement. Shah, it is actually a invitation for the stakeholders to submit their claims as on the liquidation commencement date. 
+
+30:19
+So basically this form is for that to file a claims with the liquidator and it provide the certain details in that form, like the sin company name, name of the liquidator, his address, phone number and other things. And if they we provide the last date for submission of claim we shall be the 30 days from the liquidation commencement day. 
+
+
+## 
+30:46
+That announcement is shall be published first of all in one english language and one regional language newspaper. it should be circulated to the regis where the registered office of the company and the principal office, if any company have a principal office of the corporate data and any other location where the opinion of the liquidator that we should be, where the material corporate person conducts the material business operations. 
+
+31:15
+So newspaper advertisement should be there in form b and on the website of the corporate data, if any third one on the website where the board says for this purpose. So this public announcement should be made within the five days of the commencement of the voluntary liquidation. Now the opening of the bank account. the liquidator has to open the bank account almost one minute, just as regards public announcement trends. 
+
+31:49
+If it is observed, it is mentioned, it is to be given ah, almost where it which particular area, we have to say its location of the register office and principal office of the corporate letter where, in the opinion of liquidator, the corporate person conduct material business operation. 
+
+
+## 
+32:07
+So accordingly, please ensure that if there is a material business operation, you give that it is advisable, because you may get later on the claim and you are not knowing that it create an issue. So give the newspaper advertisement wherever it is required. Thank you, even though it is optional. Thank you, squad opening of bank account. 
+
+32:31
+Now the liquidator has to open the bank account in the name of the corporate person, followed by the words involuntary liquidation in a scheduled bank for all the receipts of the money to the corporate debtor which are to be realized by the sell of assets in the liquidation period and all the payments in that period, which are more than 5000 rupees that shall be drawn by check or online banking transactions from that account only. 
+
+33:01
+So save the company come into the voluntary liquidation and the company have some two or three, some, for example, three current accounts. So the payments should not be made from that current account. it should be from the voluntary liquidation account which is opened by the liquidator should become from this account only, and for that accounts we should close it and the surplus amount should be deposited into this account. 
+
+
+## 
+33:29
+All the transactions should be done from voluntary liquidation account which are opened by the liquidator for this specific purpose. Now next is intimations, intimation to the various statutory authorities. 
+
+33:46
+We have to intimidate the authorities of this a voluntary winding up of the company authorities, like a paf esic income tax and gst rbi whatever laws applicable to the corporate person with respect to the income tax and gst the process of applying initially before commencement before 15th november, when the ibbi issued the circular stating that the noc is not required from the income tax authorities. 
+
+34:24
+Before that the practice was made to get the noc from income tax authority, stating that okay, no dues from the corporate person or we have a no objections. Then after the circular was issued by the ibbs, which stated that the noc or ndc that is no objection or no do certificate from the income tax department. 
+
+
+## 
+34:45
+It takes a substantial time and it mitigate the process of the code and defeat the object and the time bound process. So the ibb has said that no objection certificate is no more required from the income tax department. If the income tax authority does not pay the does not file the claim within the 30 days, then their claim will be extinguished as per the code and regulations. 
+
+35:20
+Yeah, actually earlier we used to face lot of issue to get income tax noc because there was no lot of delay obtaining. That said, you know from the income tax offices and the process was delayed, and that's why it is mentioned that this came out further. 
+
+35:47
+If you observe pf esi income tax now wherever the company has register, please incubate them, because practically we are faced the pf office will come to you and they have their issue. So if you are not handling it, maybe travel amount may be travel then there will be problem esi also same thing, though it is not mentioned anywhere, but you have to do this. 
+
+
+## 
+36:15
+So you ask the company wherever you have obtained registration or you have license, including like stop an establishment, because please note that after your liquidation and resolution you have to surrender or license and close the chapter, so at that time you will be questioned. So all the license, all registration, you have to inform, you inform that this is a company by its resolution. This idea volunteer liquidation. 
+
+36:45
+I am appointed and if you have any claim, please find us like everything. Yeah bgft also amita, because if there is an export obligation, you know you don't know. Many times the clients are sharing the details. So you have to ask that whether you were you had important machinery. Is there any export obligation? So you have to write that if there is an import export application or like that way. 
+
+37:13
+Try to bgft also so that it can be worked out. So that's why yeah, yeah, so that is that, and I think mr ashish singh has joined or not. I wanted him to share his recent experience. Meanwhile, if somebody else, with regard to income tax, so yes, prior to 21, when ibc came with a circular where they mentioned that no more. 
+
+
+## 
+37:51
+The liquidator should not be waiting for the noc or should not be asking for the noc. Prior to that income tax had put an obligation on the liquidator to wait for a period of 90 days. 
+
+38:04
+So there is a section 178 of the income tax act, which deals with the obligation on the part of liquidator to intimate the income tax and wait for 90 days post intimation for income tax authorities to provide their if there are any dues or if they want any amount to be set aside for dealing with any litigation. 
+
+38:29
+Then liquidator was under an obligation to wait for the details to come or noc to come from the tax authorities. Just want to add on that prior to 21 also, although section 178 was amended in 2016 to mention that ibc code will override section 178. But income tax authorities, banks all the all these people used to expect noc from income tax before proceeding with payment of surplus cash to the stakeholders. 
+
+
+## 
+39:06
+But this 21.2021 circular from ibc is a welcome one, which at least strengthen the position that ibc code overrides the section 178 and certainly since then it has helped in expediting the process, because it is, in our experience, the maximum time which any authority used to take was the tax authority. 
+
+39:30
+The other point I just want to touch upon at this juncture is, as I mentioned earlier, before we start press the button for proceeding and with the voluntary liquidation, it is always good to ensure that all the tax authorities and all the authorities mentioned on the screen. We should try and see if there are any pending litigation, any pending views, all those get cleared before we commence the process. 
+
+40:00
+Otherwise all those add to the overall complete timeline which we have and although earlier tax authorities used to wait for, wait for the liquidator to approach them for them to get the noc, now tax authorities, in our experience, have been given a mandate that whenever any notice come, they need to respond on time. 
+
+
+## 
+40:26
+Therefore, it is always good to ensure that either there are no litigation or if something is reflecting on the portal of any of the tax authorities, come gst coming to tax or any other authority try and get results, resolve them before you initiate the process. Thank you, yeah, thanks the same. 
+
+40:47
+There was a question that if there is any refund pending as such, you will not able to close the company and complete the process unless all the litigation all appeal. not a single appeal. Even your application. Your appeal will not be pending. You have to withdraw, because once the solution is there, who will appear that so you can leave it pending. So that's any litigation, any appeal, any reform or whatever you say. 
+
+41:14
+Either you wave off or wait. But one thing is that it is practical suggestion and advice. So far possible. Your client should be advised. No litigation, no application, no appeal, no refund. It is better way because if this process is on see, you have intimidated all department. They'll start checking their own record and even though there is nothing, they'll start inquiry, query and all that. 
+
+
+## 
+41:43
+So it's most dangerous you open it for more time, then the process get delayed. so that's why so far possible. There is a question on dd before taking assignment in view of the timeline, because now it is, the timeline is pressure pressurized. So I will just say dd. Otherwise overall also so far possible now recent amendment timelines, which is also included in this ppt. That timeline is reduced so that voluntary liquidation happens faster. 
+
+42:16
+It is saying that timeline is for distribution and closure of voluntary liquidation. It's very limited, very short. So if you say sell of assets, you know very limited time and actually speaking is that sell of assets. What kind of assets? What kind of purchaser? What can be the price? 
+
+42:34
+That all should be studied in advance and anytime before really means you study the balance sheet, the kind of business you have to understand the business of the company, kind of registration, what all we are telling that you know. 
+
+
+## 
+42:49
+We have to do this and we are giving the additional inputs that this should be done first, like you check creditors and if possible better pay rather than waiting for that consent, and you have drafts for volunteer liquidation. Okay, let's see as assets. It should be not that travels once more different variety of assets. Please dispose it off earlier. Then, if there is litigation, don't start the process. It will unnecessarily carry on. 
+
+43:23
+Please attend the litigation. one thing keep in mind: also in litigation if there is a settlement, liquidator has as a legal position as a limited rights. But as a promoter they have been very different right. So please sort this out and then start liquidation. So I always advise my client that way and you also advise your client. 
+
+43:44
+Please don't keep all this pending duty, as such liquidator has limited and a very restricted decided more than part to do disarming action and it increases the cost of the company complications timeline and that's why it is advisable. The major thing is creditors assets litigation. If not, you can achieve your payment. That was the advice of dp or anything for taking assignment before misprinting. That was my suggestion. 
+
+
+## 
+44:17
+Okay and your question has regards timeline, whether it is bound to the liquidation monitor liquidation see voluntary liquidation already started and then you can't comply the timeline anything. It should be always prospective implication. If it is retrospective, then the amendment says it is applicable prospective but so far possible, if you have that flexibility to complete that timeline which is amended when your voluntary liquidation is still going on. 
+
+44:50
+Actually you should try to close the process as early as possible. That's all. So it is prospective, not retrospectively. I hope I have clarified. Yes, my client briefed me for a assignment for the voluntary liquidation that the company is a non operating company from last two years and they said that there are no employees in the company and this volunteer liquidation process was commenced on the fifth august 2020. then after the, I intimated to all these session authorities that this process of the voluntary petition has been commenced and if you have any dues, you can file your claim. 
+
+45:53
+Then I received a letter from the pf department that there are some dues from the pf department and they want to do the audit and investigation of the for the pf. So they asked for various documents and then I contacted the corporate data and I taken all the these documents and submitted with the pf department. 
+
+
+## 
+46:22
+After the long follow up with the pf department of for six months, they issued with the letter that they are giving the noc that they don't have any objection for filing the dissolution application. subject to that their the use of some amount which is spending from last some years is spending and I have to pay that amount. Then I have taken the consent of the suspended directors and I paid that amount from my own pocket. 
+
+46:49
+That become the liquidation expenses and then I get this noc from the pf department. Then there was a. I was I was briefed while taking this assignment that there was some case pending with the punjab and harana high court for the refund of refund of some duty. This is the stp unit. There was a stp. You know they have to claim some refund from the gst department. 
+
+47:18
+This litigation with the high court is spending from last one year, so I asked them to withdraw this application. they said that sir, this amount will come. But after some time I received a letter from the gst department notice that there's some. We had refunded some amount by mistake and they demanded for this five lakh something amount from me that and then they asked for some documents. 
+
+
+## 
+47:49
+Then they again is a then they again issued a letter that they also want to conduct a this investigation, audit and investigation for this gst thing. So I they ask for various documents. Then I believe them that this company is into this dissolution and this is not possible to get all the documents in the last five, six years. 
+
+48:13
+So they cancelled the this no this notice for the audit and then when I asked for the noc from the gst department after the time lag of correspond follow up and everything after one year, they issued me noc saying that they don't have no dues from the company but they are. They are seeking a refund of some five lakh rupees, what they had demanded earlier, and that they are. 
+
+48:45
+They want to find an appeal against this five lakh rupees. But as per me, since that they already issued this no see as per I don't current date. therefore I can file this application dissolution application because as one day there is no use and they are contemplating to file this appeal before the before the authorities and I think I should take my chance with the nclt for the desolation order. This is my ksm. 
+
+
+## 
+49:17
+Thanks, mr asis. Friends, I was telling: see, the kind of complications comes. So the process, mr, pretty, the process is less is good we have to do it and the dd is that all education in this case also if you observe mr asi's advice but client did not withdraw and how it bounces on iip and how it is difficult to handle. 
+
+49:41
+That's why it is to be suggested and this way the particularity they give an annual caveat. now, whether it is I know or not, you can't say so now. This is good thing. That no see, but this I specially asked, mr assist, that you share your experience for the benefit of the participants. Thank you, mr asses. Thank you, thank you, yeah, please go ahead. Thank you. This next thing is a preliminary report. 
+
+50:14
+Sorry, sorry, there is a amitabh. There is a comment from your noc of it is required for closing graduated trust this extend timeline, can you? There was a gratuity fund for the company and I saw that all the trust audited documents are also submitted. I thought it must be a simple process to just get the noc, but it is a long process and still I'm struggling to get the noc and closing the gratuity trust. 
+
+
+## 
+50:46
+That's an issue. so I think you, when you do that, factor some timeline for that start the process early. I think that's it. Thanks on this. Any comment from anyone as you guys legit trust. Okay, okay, go ahead. Income tax circular we stated that the applicability of the filing of the gst or returns during the liquidation period that should be continued by the liquidator. I think we can check from bible study. 
+
+51:30
+Okay fee from our from income tax perspective. Income tax does warrant a written to be filed and in the in the income tax written, there is a special mention of details which is required if for the company which are in liquidation and in this case this is different for our details, which is being provided in income tax, written and like in normal scenario, where you are required to provide asset liabilities, your income and other details, but when companies are under liquidation, the details which is short, is: what are the total proceeds? 
+
+52:09
+What was the opening cash balance? What is the proceeds you had? What is the total payment? All those details are required for the financial aware company in the liquidation. until you are you complete the process of payment of all the assets and liabilities to the stakeholders. So that's on the income tax point. 
+
+
+## 
+52:31
+With regard to gst point, practically what we suggest our client is that once you start the liquidation process, you will not have any operation. However, whenever we intimate the gst department with regard to the commencement of liquidation process, you are required to get the gst license surrender now, from the intimation process, until there are various questioning which happens from the department, various they will be asking for all the records. All the tax returns are filed. 
+
+53:12
+So it does take time from the date you intimate and the time you get the license surrender. although you do not have any business operations, it is always advisable to file the gst returns which will be nil written, because in today's time, if you fail to file any gst return on time, you get a notice of paying a fees for delay. 
+
+53:36
+So it is always advisable to file it on time, showing nil return until your gst license is surrendered. Thank you, thank you. There is a question. Nice regards bank account. Yes, bank account has to be open and it's to be named specifically under voluntary liquidation. There is a question as regards what is the advantage of doing voluntary liquidation rather than ibc. 
+
+
+## 
+54:03
+Please note that voluntary liquidation is under ibc on the influencer bankruptcy code and there is a question. I have filed a final report with nclt. Let's switch to final report please. we are in the process of in between. We are not yet reached the sale of assets. Also, yeah, can a company initiate voluntary liquidation pending civil suit in respect of fixed assets which is not possible to dispose of? 
+
+54:28
+The company has won the suit at the level of trial for but defendant has sell in the bargain in the high court. See there is nowhere it is written when the litigation is pending. Now you can't but the process. What I am telling is that what is the point when you cannot sell it? What is this point? This process will carry on for years and years, so please don't start that process. 
+
+54:53
+No, I will put two way how you decide the cost, because what will happen now? Ip will be appointed. he will be responsible for all the compliances again to also lose the control in the sense decisive power. So if there is some adjustment required, they can't do because I p is not allowed to do. Ip is only doing so far possible. That only. I was mentioning that pending litigation. Please don't initiate any volunteer reputation. 
+
+
+## 
+55:24
+If you have to take any call you can take as a promoter, but if as a liquidator you can't, you are governed by the law, so that's why it is advisable. Okay, yeah, almost go ahead, mama, we have. 
+
+55:37
+I have one question regarding the if the company comes into the voluntary liquidation and the business of the company got seized from the date of voluntary liquidation but the provisions say stated that the company can run the business for the beneficial interest of the stakeholders. So the what will be the tax aspects and if the company runs some three months business, we can say for the beneficial interest of the stakeholders. So it can be. 
+
+56:12
+You know what happens that you will not take new business but there can be commitment. So if there is a completion required for that purpose, you have to complete some activity that you can complete and whatever tax implication you have to pay it and you have to do as our panelist is mentioned, that you have to find a return. you have to comply with all compliance need to be done. 
+
+
+## 
+56:37
+Yes, you might be telling about tds, which is recent judgment, but you will complicate here almost if we added this because you are not allowed bomb to pay tds for the seller that face right. You must right now dependent of tds on this sale of assets. Yeah, ddgs is required on the sale of ss because in liquidation the company will not able to claim the same. That is the one of the decided case of ncmp. 
+
+57:07
+Yeah, but we don't have time in 76 or not. So that's right. Okay, go ahead, okay. The next one is the preliminary report. the preliminary report is the first report which is prepared by the liquidator under the voluntary liquidation and it has to be submitted within 45 days of the commencement of the liquidation to the management of the corporate person. 
+
+57:32
+The content of the report is the basically the capital structure of the company and estimated assets liabilities as on the date of liquidation as per the books of accounts of the company. The third one is he has to write a statement by the liquidator that he has to need any further inquiry into the matters relating to the formation or failure of the corporate data and conduct of the business. 
+
+
+## 
+57:58
+This statement has to be there by the liquidator. and third one is to a proposed plan of action by the liquidator, how he carry the liquidation process and what will be the tentative timeline which has to be followed to carry out this liquidation. And the most important is the estimated liquidation cost. 
+
+58:20
+The liquidator has to mention the estimated cost process cost, because as per section 53,1, that is a distribution, that liquidation cost comes the primary part, then after only the balance amount is to be paid to the stakeholders. There is a question that noc exemption only to income tax department. 
+
+58:49
+It is basically earlier that was required noc from income tax and you know excise and all that, so that they have said that no exemption, sorry, no new certificate. the thing that now please understand, only you have to interpret. Information is required by. 
+
+
+## 
+59:08
+I mentioned that all other authorities, because you are required to cancel your registration if anything pending news are there and if the same is not paid, ip will be question what care you have taken. Like mr asis was asked that you know there was a pending news from pf authority, so if you send them, you come to know. 
+
+59:29
+So now, no noc, but the thing that you have to say that if you have any issue or if you have any claim, please file the same what we write that please find the claim. Then they work out their own books and then say: oh why my views are there around that and we have to pay all news and that's why we have to eat. Thanks. please extortionate create transactions in voluntary liquidation as well. 
+
+59:56
+This aspect is covered the transaction not considered to be an extraordinary trade. Transactions under section 52, subsection 2 that stated that require the corporate person to make expo experiment payments in respect of the credit provided any unconscionable under the principle of law relating to contracts. This is also covered in the voluntary liquidation. 
+
+
+## 
+1:00:20
+The liquidator has to mention whether the transactions are to be happened or not, whether he has a intent to make any such a audit with respect to the this preferential transactions and all that, and next one is a claim to be made to the liquidator. There are types of claim claimants and forms for them. they have to file that claims and with the liquidator, along with the supporting documents. 
+
+1:00:49
+First the operational creditors, financial creators, workman or employee or any other stakeholders so prescribe form forms for there so that they can file with the liquidator and the verification of claims. 
+
+1:01:04
+The liquidator has bound to verify the claims which are submitted within the 30 days from the last date of receipts that may, he may either the admit or reject the claim according to the sub supporting documents which are provided by the claimant has to verify with the books of records of the company and the supporting documents liquid. If creator may appeal to the adjudicating authority against the decision of the liquidator. 
+
+
+## 
+1:01:35
+If liquidator rejects any claim, we have an option to file an appeal with the ncld. next one is a list of stakeholders. The liquidator has to prepare the list of stakeholders on the basis of proofs of claims submitted and accepted as per this regulation, which are covered the amount of the claim admitted and actually we write the amount, how, what amount he has written and what amount is admitted, amount which are rejected, extend to which the debts are secured and unsecured is also covered, and these details of the stakeholders and proof of admission, proof of admission or rejection. 
+
+1:02:20
+So we prepare the list of stakeholders along with this information within the 45 days of the from the list of the last day. in any other case, where the company doesn't have any claimants, who doesn't file the claims with the liquidator, then we have to prepare within the 15 days of the receipts of the claim, so timeline is reduced if there is a no claims. 
+
+1:02:45
+The next one is the minutes of the consultation with the stakeholders. The stakeholder shall extend all the assistance and cooperation to the liquidator to complete the liquidation process and such a consultation is recorded, is monetized and which share with the shareholders after getting the undertaking from them. That no undue gain from this seeker maintain the secrecy of this. Yeah, oh guys, there is a residue, so they are not to file any claim. 
+
+
+## 
+1:03:31
+Amita is already awesome. Thanks. Yeah. Now the next one is the realization of assets in liquidation. in voluntary liquidation. Realization of assets is a throughout the process the liquidator there is no timeline for the realization has to continuously realize the assets. The manner of cell the liquidator may value and sell the assets of the corporate person in a mode approved by the corporate person. 
+
+1:04:01
+So modes are available for the liquidator is to sell through e auctions and private cell is also there. But these are the pro modes of cell available to the liquidator and the recovery of money is due. The liquidator has individual to recover the realize all the assets say example. The trade receivables is also a part in a time bound manner for the maximization the value of the stakeholders in realization of assets. 
+
+1:04:31
+We can say we don't have a right to write off the assets. no such a provision is still there. So liquidator has to try the best to get the assets realized throughout this process, and here we can comment. I request to give comment on gst, please, on sale of assets with a question. You know earlier that what is the mentioned that there is no right available with the liquidator to write off any of the assets. 
+
+
+## 
+1:05:17
+If there are any refunds. We have to expedite that and ensure that all those refunds are either received or cleared in the process. Otherwise it will add up to the overall timeline from commencement of the liquidation process are very limited, which is which the company may have better rights or far other options available to get those different. Those needs to be done prior to you initiating the process. otherwise it will add up timeline. 
+
+1:06:04
+No, there was a question. What is the capital gains treatment when assets are sold in voluntary liquidation and treatment of gst is any exemption is there? So, from a from a tax income tax perspective, whenever assets gets transferred under the liquidation, okay, let me just take it. Let me discuss this. There are under the liquidation process. If there are any assets gets transferred to the to the stakeholders. 
+
+1:06:41
+Okay, company is not liable to pay any tax. It is the stakeholder which is the equity shareholders. They are required to pay tax. The tax could be either capital gains or dividend to the extent company has accumulated profits. Those those gets characterized as dividend, and shareholders are required to pay dividend tax on that. to the extent the amount is paid, not out as of accumulated profits, then that gets taxed as capital gains. 
+
+
+## 
+1:07:15
+If in the process asset is so that's with regard to any surplus, asset gets transferred to the stakeholders. Now if in the process of realization if any asset is paid, then certainly there will be tax element and which you will have to deposit in the form of advance or in the form of advance tax or self assessment. Hope I have answered this question. If there is any additional question, happy to happy to answer that. 
+
+1:07:44
+On the income tax month I will come to gst part separately any question, or we will move to gst now. So if there is a no write off of assets, one of our issue is with the dgft. there is a duty drawback and the asset is not more than 30,4.000 is. Can it be written off? That's a question, because it lo it takes a long for dgft to clear. 
+
+1:08:15
+It may take more than three months now almost, and amount is just 3.000 and percentages, guys, it is hardly zero one percent. That is it possible? Can we write off? Writing off right is not provided specifically. I know I know that's right problem. That's the problem. Yeah, so practically how do we better? You take the direction from nclb then in that case, for such a small amount also, we can't write talk. 
+
+
+## 
+1:08:43
+No, it's a ah, it is the problem. That's why you know I always say that asset is real problem, like you know, selling that liberty. That's only. I was repeatedly telling that liberty we don't have. We have to check each and every guarantee. 
+
+1:08:55
+No, this is just a duty drawback which you come tonight right off the you have to write off duty drawback earlier, like I was telling that you know before, because we ourselves cannot write us our duties to realize on me right, right, understood, I thought i'll just share thanks. Yeah, the same thing I tell, because even I find many appeals and I such refund and all that. 
+
+1:09:21
+So which is not, then that's why I always say then to please withdraw, because see, then we are stuck up. We can't withdraw ourselves. The client has to withdraw before it any appeal for refund or whatever challenge. If there is rejection or they are not taking it years to do it. we have told it. We are stuck up. So you always speaking I put the clan that way. Boss bank economy. That's not very simple. 
+
+
+## 
+1:09:58
+Sometimes this duty drawback is a sudden even yeah, I know something event will come then we are correct. I thought if 3.000, I can just write it off, then it will be just one in ibc in insolvency. This right is given to ip correct involuntary, on sale of asset. There is any gst which we are recovering from the buyer then that needs to be then deposited, deposited with their tax authorities. 
+
+1:10:41
+Okay, fine, okay, thanks, and your answer is shareholder there's more than capital contribution and company will give you dividend tax, will attack and you say yes. so the way it works is that first, whenever any amount is paid to shareholders, what is seen is that whatever amount we have paid, what is if there is any accumulated profit, then to that extent dividend tax gets triggered and beyond. That is what gets characterized for as capital gains. 
+
+1:11:09
+Oh thanks, oh my, we'll finish in another 15 minutes. Friends, I know we have run. We have across the timeline, but another 10,15 minutes. The next one is the distribution. The liquidator has to distribute the whatever he realized during the liquidation period within the 30 days from the receipts of the amount. Prior to the this amendment, it was a six months. Now it is a 30 days. the liquidation cost comes first. 
+
+
+## 
+1:11:41
+As per the distribution stated in the section 53 subsection one of the code, the liquidator may, with the approval of the corporate person, him distribute among the stakeholders an asset that cannot be really all advantageously sold due to its precurence, nature or other circumstances. So these assets can be given to this corporate person. So I just have one comment on the last friend which mentioned. Just be mindful of that whenever we are distributing assets. 
+
+1:12:12
+Okay, if there are any regulatory approvals required, be mindful that if we can have that approach upfront, and especially I am referring to any of assets being distributed to non resident shareholders, please look at the indian exchange regulations that we are not breaching any of those requirements very rightly appointed. now the next one is annual status report. 
+
+1:12:44
+The liquid the liquidation process continue for more than the 12 months, then the liquidator has to hold the meeting within the 15 days from the liquidation commencement date. Okay, if the process is runs more than the 12 months, then only this annual status report is required to be prepared by the liquidator and the meeting has to be hold within the 15 days of the completion of this 12 months. 
+
+
+## 
+1:13:11
+The status report shall indicate the following points. First one is the settlement of list of stakeholders as to mention whether the liquidator has any settlement with the stakeholders. second one is the details of the assets that has remained to be sold or unrealized, distribution made to the stakeholder, distribution of unsold assets to the stakeholders, developments in a material, literations if any there, and the filing off or development of any avoidance transactions, as we covered earlier. 
+
+1:13:41
+So these are things are to be covered in the annual status report. Sorry, there's one comment in the section it says that dividend tax is not applicable. So what I meant was not dividend distribution tax, but the tax rate which will be applicable is of tax which applies on dividend and capital gain tax will be applicable on the portion which will be categorized as capital gain. Okay, thank you. 
+
+1:14:12
+Now the next one is the final report. when to prepare the final report. This is the final one liquidator has to prepare. The liquidator has to indicate to complete the process of the within the timeline. Then only will prepare the final report. 270 days from the liquidation commencement date prior to this is a one year. Actually now it is a 270 days. 
+
+
+## 
+1:14:35
+In any other cases is a 90 days only under this sections has to prepare this final report. That final report consists of the audit accounts of the liquidation showing the receipts and payments. but into the liquidation. 
+
+1:14:48
+From the liquidation commencement and along with the state statement has to be there that the assets of the corporate person has been disposed and the debt of the corporate person discharged in full or the there is no litigation spending or there is a sufficient provisions has made but to make that liquidation, that obligations arising from the pending litigations and one stay cell. 
+
+1:15:13
+Said statement is also there if any cell has made during the liquidation period the details of that cell, that are the realized value, cost of realization, whom to be sold. So this is also to be covered in the final report. Yeah, friends, you can see that you must go to that side. No litigation is spending against corporate person or sufficient provision. 
+
+
+## 
+1:15:39
+The one may ask the question because I said that you will not able to dissolve, but my friends understand this sufficient provision in litigation. How you will ensure this provision? Who will take care that after litigation of which who will represent and whether it is the company is represented properly, whether we fought properly and their provision is sufficient? So this limbo will remain and it's a risky thing. 
+
+1:16:05
+That's why I always suggest that no pendulum okay. Thank you, yeah. The details of cells includes the manner and mode of cell also, and then explanation for the shortfall if any value realized is less than the assigned to the registered valuer. so if the cell value is less than whatever the value is given by the registered value, then we have to explanation given by the liquidators. 
+
+1:16:33
+The person whom sold other relevant details has to be covered in the final report and the final submission of final report. There are three authorities to which the report has been submitted. First one is a registrar of companies through general two form. Second one is the ibbi through courier and email we do both the things. And third one is a nclt authority through physical filing along with the dissolution application and formage. 
+
+
+## 
+1:17:02
+The format is newly introduced in the with effect food in this april. Miss priti has raised the question and we have 270 days. quickly. I mentioned that it will be retro it 70 days, but earlier one year because it is already started. Accordingly you plan your activity. You are okay. It's okay, so you can. 
+
+1:17:30
+You are governed by that, but here after when you will take annual thing, keep in mind that 270 days and try to finish as early, so it can't be retrospective what I said. That so far possible. You try. Yeah, and someone has asked if no creditors whether we can go for that is the best thing. No creditors, okay. The next one is unclaimed proceeds of liquidation in the liquidation. 
+
+1:18:06
+If there is any unclaimed proceeds or undistributed assets, the liquidator has to apply to the adjudicating authority. we have to mention that the company by the order to pay into the company's liquidation account in the, that is the public account of india, if there is a undistributed assets or the proceeds which are not distributed to the stakeholder as per 53, one of the code, then that all amount to be deposited into the company's liquidation account. 
+
+
+## 
+1:18:37
+That account is to be operated by the ibbi, the liquid the liquidation when making the payment furnish the registrar and ah board, the statement stating that in the nature of sums include names and last known address of the stakeholders, amount to which each entitled that should be covered in this unclaimed process application for dissolution. This is the last. this is the first application made to the nclt. 
+
+1:19:06
+When the affairs of the company is the completely wound up and assets are completely liquidated, the liquidator has to make an application to the authority nclt that is to dissolve the company once the nclt is satisfied with the application. That is a petition filed by liquidator on that they order the liquid at the company and that order has to be filed with the roc within the 14 days of the receipt of such order. 
+
+1:19:34
+And the next one is the preservation of records. Here there was a question that somebody has you know filed the final report and for two years no hearing is happen. Yeah, then you can't do you have to wait after that. No responsibility as such, because all the process, provided it depends on that. 
+
+
+## 
+1:19:54
+You have sold all assets, no liability, no pending inquiry, anything and everything is done and then you have filed then you have no nothing to do. Yeah, please go ahead. Preservation of records as stated in the regulations. Sorry, you missed. There is another question. When this will trigger unclaimed process. Unclaimed process means when you distributed within timeline to every stakeholders. But there is some thing which is unclaimed. 
+
+1:20:25
+There are shareholders who are not traceable and are such so that proceed which is not distributed to that surrounder will go to the ibbf, to the government in the sense because we can't keep it. We will take that so that will go to unc. So that is a final distribution when you are doing final distribution. Yeah, the next one is a preservation of records. One of the important thing. 
+
+1:20:53
+The liquidators duty is to preserve the records it has to preserve through physically or an electronic copy of the reports, all the things registers, books of accounts for the period of eight years after the dissolution of the corporate person, either with himself or with the information utility. So this idea starts from the when the liquidator got the dissolution order from the nclt and next one is the liquidation state. 
+
+
+## 
+1:21:22
+The liquidation state is in the domain with the liquidator. The liquid has to form a liquidation state which are the estate is it has to hold in the fiduciary position for the benefit of the all the stakeholders. That shall comprise the following things. I think you can skip this list because it is there because we are running short of time now. yeah, exclusion during that. Okay. 
+
+1:21:48
+The exclusion from the liquidation state is the third party assets which are in the position of the corporate person, assets of the trust, bailment contracts, provident fund, pension fund and gratuity. These are the assets of the employees and the workmans. Third one is the right to use assets. 
+
+1:22:06
+When we have only exclusive right to use the assets, not the ownership rights, personal assets of any stakeholder or any shareholder, assets of the subsidiary assets that subject to the set of any other prescribed by the board. So these are should not included in the. 
+
+
+## 
+1:22:22
+I think we can skip this powers and duties and liquidator and all that, because the content was voluntary liquidation and you can straight away go quickly into minutes, all decided cases in one line. If you can say these are the forms and all that. Okay, friends, you want to continue two, three decided cases for two minutes. If you are permitting, yeah, please go ahead. Yes, go ahead, two, three cases. Just two, three minutes. 
+
+1:22:51
+Okay, yeah, yeah, okay, the first case is in the matter of the central inland water transport corporation limited and the liquidator. This is a basically a company of government company which is a held by the shipping company shipping india. however some basic. 
+
+1:23:10
+The company is in the process of the shipping, building, shipping and repairing of the ships and all that the corporate person has a lot of litigation pending litigations and claims against the debtor, which are exceeds the value of assets when the liabilities are exceeding the assets. The hence the liquidator filed application under section 42 of the code. 
+
+
+## 
+1:23:31
+The liquidator pays for the suspension of this liquidation and conversion it into the section 2 271 of the company's act, that is the compulsory winding up of corporate person. So the nclt judgment is that, to the uncertainty in his judgment passed the suspension of the voluntary liquidation and the second prayer was for 271 was rejected by the incident, stating that there is other option available in section 10 under section 7 or something. 
+
+1:24:02
+Yeah, this is only the first case law and the second one is a disciplinary committee that passed in the matter of the viber media private limited. Actually, in this case what happened? Public announcement should be made within the five days, but in this case is the public announcement made after delay of the 18 months and second one in mgi group india private limited, the same thing happened. 
+
+1:24:28
+The public announcement was made on delayed of approx eight months. So so in mgi india. Another thing is that the liquidator appointed the deloitte and skins, who, however, who are providing the audit service to the city before the commencement of the voluntary liquidation, so as per regulation there is a auditor should not be continue under the voluntary quotation. 
+
+
+## 
+1:24:55
+So ibbi, the disciplinary committee passed the order against the liquidator to file a penalty of the one lakh rupees and after depositing, this should be continued as a liquidator. 
+
+1:25:10
+In another case law where the insolvency professional accepted the assignment as a voluntary liquidator after the 31st december 19 without holding the valid authorization for assignments, the submission made by the ip is that the assignment for voluntary winding up was accepted before the 31st december, as per regulation 7 of the iip regulation. 
+
+1:25:33
+It is clearly mentioned that we should not apply for the assignment which our insolvency profession is undertaking on 31st december 19. He further stated that the appointment and acceptance are two different things, merely subsequent of the approval by the shareholders. as on later dated, which is the 31st decision after the 31st december, it cannot be construed that the assignment was accepted from the shareholders approval. These are the submissions made by the ip. 
+
+
+## 
+1:26:02
+Further, he stated that the acceptance signifying is the consent by the ip to act as a liquidator for the assignment which is proposed and the preliminary work in respect of such things are to be carried out, and he also mentioned that the offer acceptance appointment execution conclusion. these are the two different things. 
+
+1:26:24
+Expert the regulation 7a of the ip regulations, the disciplinary committee in this case there's no spars, any order against him, just disposed of this case. And the last case law is that the ip insolvency professional was appointed as a liquidator in the six companies. 
+
+1:26:50
+If these six companies are under the voluntary liquidation handled by the single ip, the conservation made is the invoices or fees charged by the ip in the firm's name, not exactly in his name. The submission stated by the ips that circular was notified and but they missed to consider this notification. so in this case, ibb. 
+
+
+## 
+1:27:18
+I ordered that pre registration educational course should be go into for the ip and pay the penalty equal to the 10 of the fees, and ip shall not accept new assignment before this completion of this pre registration educational course and the procedure of evidence for the payment of the deposit to the board. These are the certain case laws which are covered under this voluntary liquidation. That's over, yes, now okay. Thank you miss. 
+
+1:27:53
+Sorry, my friends, literally we extended the timeline, but since we had a question queries. I thanks all of you, amita, you for participating, all others, pretty and others who raised the questions and we participated. mr ashish to share this experience and of course, mr webber for your time and valuable inputs on taxation aspect, which we were also very keen to know, and thanks a lot for your time. 
+
+1:28:22
+Thank you for giving me an opportunity to speak. Thank you, thanks, all thanks, everyone, and we'll meet after next 15 days. again thank you, and the notification will be sent to you on everyone. thank you, thanks, bye. 
+

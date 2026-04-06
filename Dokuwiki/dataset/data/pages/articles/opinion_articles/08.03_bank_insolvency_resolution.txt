@@ -1,0 +1,274 @@
+#Banks Insolvency Resolution
+
+## **Timeline of Main Events:**
+
+**2008:** Global Financial Crisis (GFC) prompts countries to develop frameworks for resolving large financial institutions, but a gap remains for smaller banks.  
+**June 7-8, 2021:** UNIDROIT holds a virtual exploratory workshop on "Bank Liquidation" to discuss the need for a global instrument on bank insolvency.  
+**December 2021:** First session of the UNIDROIT Working Group on Bank Insolvency takes place in Rome. The group focuses on definitions, objectives of a bank insolvency regime, institutional models, and procedural aspects.  
+**April 2022:** Second session of the UNIDROIT Working Group on Bank Insolvency focuses on the ranking of claims and safeguarding procedures.  
+**October 2022:** Third session of the UNIDROIT Working Group on Bank Insolvency in Brussels addresses cross-border aspects and proposes a structure for the Guide on Bank Insolvency.  
+**March 29-31, 2023:** Fourth session of the UNIDROIT Working Group on Bank Insolvency held in Basel, Switzerland, delves into specific chapters of the draft guide and discusses various administrative models for bank liquidation.  
+**October 2023:** Fifth session of the UNIDROIT Working Group on Bank Insolvency in Rome. The group reviews the consolidated draft Guide on Bank Insolvency, with discussions focusing on deposit insurance systems and their role in financial stability.  
+**2024:** The UNIDROIT Legislative Guide on Bank Insolvency is scheduled to be adopted.
+
+## **Cast of Characters:**
+
+**Organizations:**
+
+* **UNIDROIT (International Institute for the Unification of Private Law):** Leading the development of the Legislative Guide on Bank Insolvency.  
+* **BIS (Bank for International Settlements):** International financial institution promoting global monetary and financial stability.  
+* **FSB (Financial Stability Board):** International body monitoring and making recommendations about the global financial system.  
+* **IMF (International Monetary Fund):** International organization working to foster global monetary cooperation and financial stability.  
+* **IADI (International Association of Deposit Insurers):** International organization promoting guidance and best practices for deposit insurance systems.
+
+**Individuals:**
+
+* **Vivek Saurav:** Co-author of the excerpt "Bank insolvency resolution.pdf," analyzing bank insolvency resolution, UNIDROIT's role, and the FRDI Bill in India.  
+* **Richa Kashyap:** Co-author of "Bank insolvency resolution.pdf," contributing to the analysis of bank insolvency resolution, the UNIDROIT framework, and India's approach.  
+* **Bhanu Saxena:** Co-author of "Bank insolvency resolution.pdf," providing insights into bank insolvency resolution, the UNIDROIT Legislative Guide, and the FRDI Bill.  
+* **Ulka Bhattacharyya:** Co-author of the cited article "Understanding resolution tools in bank insolvency: UNIDROIT & India," focusing on comparing bank insolvency resolution tools in India and the UNIDROIT framework.  
+* **Riddhi Vyas:** Co-author of the cited article "Understanding resolution tools in bank insolvency: UNIDROIT & India," analyzing bank insolvency resolution tools in India and comparing them with UNIDROIT guidelines.  
+* **Professor Maria Chiara Malaguti:** President of UNIDROIT, delivering the inaugural address at the June 2021 exploratory workshop on bank liquidation.  
+* **Professor Ignacio Tirado:** Secretary-General of UNIDROIT, providing introductory remarks at the June 2021 exploratory workshop.
+
+**Key Concepts:**
+
+* **Bank Insolvency:** When a bank can no longer meet its financial obligations.  
+* **UNIDROIT Legislative Guide on Bank Insolvency:** A soft law instrument under development, aiming to address the lack of a global framework for resolving small and medium-sized bank insolvencies.  
+* **FRDI Bill (Financial Resolution and Deposit Insurance Bill of 2017):** Introduced in India to create a comprehensive resolution framework for financial institutions, including banks. However, it faced criticism and was ultimately withdrawn.  
+* **Bail-in:** A resolution mechanism where shareholders and creditors of a failing bank absorb losses, often through debt-to-equity conversions, to recapitalize the bank internally.  
+* **Bail-out:** A resolution mechanism where external parties, typically the government, provide financial assistance to a failing bank to prevent its collapse.  
+* **Deposit Insurance:** A system where depositors are protected from losing their savings in the event of a bank failure.
+
+This timeline, cast of characters, and explanation of key concepts provide a concise overview of the main events and people involved in the development of the UNIDROIT Legislative Guide on Bank Insolvency, along with the context surrounding its creation.
+
+## **Briefing Doc: Bank Insolvency Resolution and the UNIDROIT Legislative Guide**
+
+This briefing doc reviews key themes and insights from excerpts of the academic paper "Comprehending Bank Insolvency Resolution Vis-a-Vis Analysis of Banking Regulations Under the Umbrella of UNIDROIT Legislative Guide on Bank Insolvency” by Vivek Saurav, Richa Kashyap, and Bhanu Saxena. It also incorporates information from UNIDROIT's meeting summaries regarding the ongoing development of their Legislative Guide on Bank Insolvency.  
+**Main Themes:**
+
+* **Addressing Gaps in International Bank Insolvency Resolution:** The absence of a global framework for resolving small and medium-sized banks (SMBs) poses a significant challenge. Domestic legislation alone governs bank liquidation, leading to inconsistencies across jurisdictions. UNIDROIT aims to bridge this gap with its Legislative Guide on Bank Insolvency, providing a soft law instrument with fundamental elements for effective resolution processes.  
+* **Bail-in as a Resolution Tool:** Bail-in, an internal recapitalization mechanism, is gaining prominence in resolving distressed financial institutions. It promotes market discipline by involving shareholders and creditors in absorbing losses. The paper explores bail-in's principles, including loss absorption, hierarchy of claims, and continuity of essential banking functions. It also analyzes the potential impacts on banks' liability structures and funding costs.  
+* **Deposit Insurance Agencies (DIAs) and Resolution Financing:** The role of DIAs in resolution financing is explored, highlighting the variability in countries' approaches. The paper outlines risks associated with using DIA funds, such as acquiring stakes in troubled institutions and potential depletion of funds. It suggests measures to mitigate these risks, including transparent assessment methodologies and strengthening institutional frameworks.  
+* **UNIDROIT Working Group Discussions:** The paper summarizes key discussions from the UNIDROIT Working Group sessions, focusing on:  
+* Defining "bank" in a technologically evolving landscape.  
+* Objectives of a bank insolvency regime, including value maximization, financial stability, and depositor protection.  
+* Institutional models and procedural aspects, considering administrative vs. court-based systems and creditor involvement.  
+* Safeguards and tools, exploring cross-border cooperation, netting provisions, and asset transfer mechanisms.  
+* Addressing specific issues like stablecoins, secured creditors, related party claims, and treatment of interbank deposits.
+
+**Important Ideas & Facts:**
+
+* **Financial Stability Board’s "Key Attributes" as a benchmark:** The FSB's "Key Attributes of Effective Resolution Regimes for Financial Institutions" serves as an international standard, influencing the development of resolution laws globally.  
+* **Bridge Service Providers/Bridge Banks (BSP/BBs) for continuity:** BSP/BBs play a crucial role in preventing market disruption by temporarily taking over critical functions of failing institutions, allowing time for resolution strategies like acquisition or liquidation.  
+* **Challenges with Bailouts:** While bailouts offer immediate relief, they can create moral hazard and incentivize excessive risk-taking. The paper analyzes the drawbacks observed in past crises, emphasizing the need for balanced approaches.  
+* **Cyprus Bank Failure as a Case Study:** The 2013 Bank of Cyprus failure highlights the challenges and complexities associated with bail-in implementation. The paper dissects issues like data integrity, operational hurdles, and impact on depositor confidence.  
+* **Key Considerations for Statutory Bail-in Frameworks:** The paper emphasizes the importance of clear legal frameworks, jurisdictional cooperation, comprehensive scope, and entity-specific approaches to address group and cross-border complexities.  
+* **Importance of Collaboration and Recognition in Cross-Border Insolvency:** The IMF's framework for enhanced collaboration encourages recognition of bank-resolution measures across jurisdictions, provided they meet core coordination standards, ensuring smoother cross-border resolution.  
+* **Structured Approach to the Legislative Guide:** The UNIDROIT Working Group proposes a structured approach for the Guide, covering chapters on introduction, institutional models, objectives, definitions, banking groups, cross-border aspects, safeguards, tools, and miscellaneous provisions.
+
+**Quotes:**
+
+* "Bail-in is a resolution tool that enables continuity of essential functions of a failing bank, by internal recapitalisation. Conceptually, bail-in promotes market discipline, by reducing claims of shareholders and creditors, who are responsible for monitoring banks and preventing excess risk-taking in the first place."  
+* "The intended recipients of the Guide are lawmakers and policymakers who are interested in improving or enhancing their bank liquidation systems."  
+* "The objective is to synchronize the expenses associated with funding with the level of risks involved and diminish the subsidy given to institutions that are considered too large to fail."  
+* "The success of implementing a legislative bail-in for SIFIs relies on the collaboration of all pertinent jurisdictions, considering that SIFIs frequently operate internationally."
+
+**Conclusion:**  
+The UNIDROIT Legislative Guide on Bank Insolvency is a crucial step towards establishing a globally consistent approach to resolving bank failures, particularly for SMBs. The Guide, informed by expert discussions and case studies, aims to provide a practical framework for lawmakers and policymakers, focusing on core principles like value maximization, financial stability, depositor protection, and effective cross-border cooperation.  
+**Further Research:**
+
+* Continuous monitoring of the UNIDROIT Working Group's progress and publications.  
+* In-depth analysis of specific topics like stablecoins, secured creditors, and related party claims within the context of bank insolvency.  
+* Comparative analysis of existing domestic bank insolvency regimes and their alignment with the proposed UNIDROIT guidelines.
+
+## **A Guide to Bank Insolvency Resolution under the UNIDROIT Legislative Guide**
+
+**Quiz**  
+**Instructions**: Answer the following short-answer questions in 2-3 sentences each.
+
+* What prompted the development of the UNIDROIT Legislative Guide on Bank Insolvency?  
+* Describe the primary objectives of the FRDI Bill in India and explain why it was withdrawn.  
+* What are the key differences between bail-in and bail-out in resolving bank insolvency?  
+* Briefly explain the concept of Bridge Service Providers/Bridge Banks (BSP/BB) and their role in bank resolution.  
+* How does a bail-in mechanism promote market discipline in the banking sector?  
+* Explain the significance of a hierarchical structure of claims in the bail-in process.  
+* What potential issues did the Cyprus bank failure in 2013 highlight regarding bail-in resolution strategies?  
+* What are some of the risks Deposit Insurance Agencies (DIA) face in the context of bail-in procedures?  
+* Briefly outline the structure of the UNIDROIT Working Group and its role in developing the Guide.  
+* What are the three key objectives of a bank liquidation regime as considered by the UNIDROIT Working Group?
+
+**Answer Key**
+
+* The lack of a global framework for resolving small and medium-sized banks, alongside the inconsistencies in bank liquidation regulations across different jurisdictions, led to the development of the UNIDROIT Legislative Guide on Bank Insolvency.  
+* The FRDI Bill aimed to establish a centralized system for monitoring financial institutions, assisting with bankruptcy proceedings, and proactively mitigating risks to their stability, ultimately ensuring the fulfillment of obligations like depositor repayment. However, concerns about the implications of its provisions, particularly the bail-in clause, led to its withdrawal.  
+* Bail-in involves internal recapitalization of a failing bank by writing down or converting debt into equity, imposing losses on shareholders and creditors. In contrast, a bail-out involves external recapitalization using public funds, often leading to taxpayer burden and moral hazard.  
+* BSP/BB are temporary entities that take over ownership/control and critical functions of a failing bank to prevent immediate market disruption and facilitate an eventual resolution. They provide continuity of essential banking services while a long-term solution is sought.  
+* By holding shareholders and creditors accountable for losses, bail-in incentivizes them to monitor bank risk-taking behavior more effectively. This reduces the likelihood of excessive risk-taking and fosters more responsible lending and borrowing practices.  
+* The hierarchical structure ensures that losses are absorbed in a predetermined order, typically starting with shareholders, then moving to unsecured creditors, and finally, if necessary, to secured creditors. This minimizes disruptions and provides clarity for stakeholders involved.  
+* The Cyprus bank failure highlighted the importance of clear communication, adequate preparation, and a robust legal framework for bail-in execution. It also revealed challenges in data integrity for valuation, potential disruptions to banking systems, and difficulties in protecting specific depositor classes.  
+* DIAs face risks of being drawn into resolution financing, potentially acquiring stakes in failing institutions, and depleting their funds. Inaccurate asset valuations can further expose DIAs to multiple rounds of funding appeals, increasing their financial burden.  
+* The UNIDROIT Working Group comprises experts in insolvency law, deposit insurance, and banking crisis management. It aims to develop a soft law instrument to guide lawmakers and policymakers in improving their bank liquidation systems. The group actively debates different models, principles, and safeguards for a comprehensive framework.  
+* The three key objectives are maximizing value from the liquidation process, ensuring financial stability by containing systemic risks and maintaining public confidence, and safeguarding the interests of depositors, who are considered particularly vulnerable stakeholders.
+
+**Essay Questions**
+
+* Analyze the advantages and disadvantages of administrative proceedings versus court-based proceedings in resolving bank insolvency. Consider factors such as efficiency, expertise, transparency, and stakeholder participation.  
+* Discuss the rationale and potential challenges in implementing a bail-in regime as a key resolution tool for distressed banks. Evaluate the impact of such a regime on market discipline, depositor confidence, and the role of government intervention.  
+* Critically examine the role of Deposit Insurance Agencies in ensuring financial stability in the context of bank insolvency resolutions. Analyze the potential risks and benefits of using DIA funds for resolution financing and propose strategies to mitigate these risks.  
+* Explore the complexities of managing cross-border bank insolvency cases. Discuss the importance of international cooperation, legal harmonization, and information sharing among jurisdictions to ensure effective resolution and minimize systemic risks.  
+* Evaluate the UNIDROIT Working Group’s approach to developing a Legislative Guide on Bank Insolvency. Analyze the group’s efforts in addressing key issues such as the scope of bank liquidation regimes, objectives, safeguards, and treatment of different stakeholder claims. Consider the potential impact of the Guide on harmonizing global practices and strengthening the resilience of the financial system.
+
+**Glossary of Key Terms**
+
+* **Bail-in:** A resolution mechanism where shareholders and creditors of a failing bank absorb losses by having their debt written down or converted into equity, thereby recapitalizing the bank internally.  
+* **Bail-out:** The use of public funds to rescue a failing bank, often through direct financial assistance or government guarantees.  
+* **Bridge Service Provider/Bridge Bank (BSP/BB):** A temporary entity established to assume ownership/control and maintain essential functions of a failing bank, providing continuity during the resolution process.  
+* **Deposit Insurance Agency (DIA):** An institution that provides insurance coverage to depositors, protecting their funds up to a specified limit in case of bank failure.  
+* **Financial Resolution and Deposit Insurance Bill (FRDI Bill):** A proposed legislation in India aimed at creating a comprehensive framework for resolving distressed financial institutions, including banks.  
+* **Financial Stability Board (FSB):** An international body that monitors and makes recommendations about the global financial system.  
+* **Key Attributes of Effective Resolution Regimes for Financial Institutions:** A set of principles developed by the FSB outlining essential features of robust resolution frameworks for financial institutions.  
+* **Liquidation:** The process of winding down a failing bank, selling its assets, and distributing proceeds to creditors according to a predetermined hierarchy.  
+* **Resolution:** A set of actions taken to stabilize and restructure a failing bank, aiming to preserve its critical functions and minimize systemic risk.  
+* **Systemically Important Financial Institution (SIFI):** A financial institution whose failure could pose a significant threat to the stability of the financial system.  
+* **UNIDROIT Legislative Guide on Bank Insolvency:** A soft law instrument developed by UNIDROIT to provide guidance on key aspects of bank liquidation proceedings, promoting consistency and best practices across jurisdictions.
+
+## **Navigating Bank Insolvency: A Guide to the UNIDROIT Legislative Guide and Related Issues**
+
+**Source 1: Excerpts from "Bank insolvency resolution.pdf"**  
+**I. Introduction and Background**
+
+* This section provides an abstract of the paper, highlighting the increased concern about bank vulnerabilities in the international financial arena and focusing on the UNIDROIT Legislative Guide on Bank Insolvency as a tool to address these concerns.  
+* It then details the recent banking crises, including the collapse of three major US institutions and the Yes Bank crisis in India, which underscore the need for effective bank resolution mechanisms.
+
+**II. The UNIDROIT Legislative Guide on Bank Insolvency**
+
+* This section outlines the development and purpose of the UNIDROIT Legislative Guide on Bank Insolvency, a soft law instrument aimed at addressing gaps in international legal frameworks, particularly for small and medium-sized banks.  
+* It emphasizes the guide's intended audience \- lawmakers and policymakers \- and its role in enhancing bank liquidation systems globally.
+
+**III. Resolution Tools: An Overview**
+
+* This section explores the range of resolution tools used in bank liquidation globally, emphasizing the variability in approaches across jurisdictions.  
+* It highlights the guide's focus on key tools like bridge service providers (BSPs) and bail-in mechanisms, aligning with international standards such as the Financial Stability Board's Key Attributes.
+
+**IV. Bridge Service Providers/Bridge Banks: An In-Depth Look**
+
+* This section dives into the function of BSPs/BBs as entities that temporarily take over critical functions of failing institutions to prevent market contagion and maintain stability.  
+* It examines the Indian framework for BSPs, particularly as envisioned in the Financial Resolution and Deposit Insurance Bill of 2017, and details their role in resolving failing banks.
+
+**V. Bail-in and Bail-out: Definitions and Distinctions**
+
+* This section provides a detailed definition of bail-in as a resolution tool involving the internal recapitalization of a failing bank by reducing or converting creditor and shareholder claims, contrasting it with bailouts where government funding is used.  
+* It delves into the concept, rationale, and implications of bail-in, highlighting its role in promoting market discipline and minimizing taxpayer burden.
+
+**VI. Bail-in as a Resolution Tool: Principles and Application**
+
+* This section elaborates on the key principles underlying bail-in, including loss absorption, hierarchy of claims, and ensuring the continuity of essential banking functions.  
+* It discusses the International Monetary Fund's perspective on bail-in, emphasizing its importance in resolving systemically important financial institutions and protecting taxpayers.
+
+**VII. Bail-in: Benefits, Challenges, and Considerations**
+
+* This section examines the potential advantages of bail-in, including its ability to address moral hazard concerns and shift risk-bearing to stakeholders.  
+* It acknowledges potential challenges, such as downward pressure on bank ratings and increased funding costs.
+
+**VIII. Bail-in vs. Alternative Resolution Mechanisms**
+
+* This section differentiates bail-in from other resolution mechanisms like purchase and assumption (P\&A) and bridge bank powers, highlighting differences in scope, objectives, and procedural aspects.  
+* It emphasizes that bail-in should be seen as a complementary tool within a comprehensive resolution framework.
+
+**IX. Addressing Group Issues and Cross-Border Challenges with Bail-in**
+
+* This section explores the application of the statutory bail-in framework in addressing complexities arising from banking groups and cross-border operations.  
+* It highlights the crucial factors for successful implementation, including international cooperation, a robust legal framework, and a clear scope of application.
+
+**X. The Cyprus Bank Failure: Lessons Learned**
+
+* This section analyzes the 2013 Bank of Cyprus failure, a case study illustrating the practical application of bail-in and its consequences.  
+* It examines the specific measures taken, including deposit haircuts and share annulment, highlighting the lessons learned about preparedness, data integrity, and communication.
+
+**XI. Deposit Insurance Agencies and Bail-in Resolution Strategies**
+
+* This section explores the role and potential risks faced by Deposit Insurance Agencies (DIAs) in the context of bail-in resolution strategies.  
+* It discusses the potential exposure of DIAs, challenges in using DIA funds for resolution, and precautions that can be taken to mitigate risks.
+
+**XII. The UNIDROIT Working Group: A Collaborative Effort**
+
+* This section details the establishment and work of the UNIDROIT Working Group on Bank Insolvency, formed to address the lack of standardized practices in bank insolvency proceedings, particularly for smaller banks.  
+* It highlights the group's composition, including experts from various fields and observer organizations, and outlines its key objectives.
+
+**XIII. UNIDROIT Working Group Discussions: Key Themes**
+
+* This section summarizes the discussions held by the UNIDROIT Working Group across multiple sessions, covering a range of topics.  
+* Key themes include the definition of a "bank," objectives of a bank insolvency regime, institutional models and procedural aspects, treatment of specific liabilities, financial contracts, safeguards, and tools for liquidation.
+
+**XIV. The Evolving Guide on Bank Insolvency: Structure and Content**
+
+* This section outlines the proposed structure for the UNIDROIT Legislative Guide on Bank Insolvency, providing insights into its future content.  
+* Chapters cover introduction, institutional models, objectives, definitions, banking groups, cross-border aspects, safeguards, tools, and financial contracts, aiming to provide a comprehensive framework for policymakers.
+
+**XV. Key Takeaways and Future Directions**
+
+* This section concludes by emphasizing the importance of the UNIDROIT Guide in addressing the unique challenges of bank insolvency, particularly in the context of globalization and evolving banking practices.  
+* It reiterates the need for international cooperation, robust legal frameworks, and a focus on protecting depositors and maintaining financial stability.
+
+# **FAQ: Bank Insolvency Resolution**
+
+## **What is the UNIDROIT Legislative Guide on Bank Insolvency?**
+
+The UNIDROIT Legislative Guide on Bank Insolvency is a soft law instrument being developed to address the lack of a global framework for resolving small and medium-sized bank insolvencies. It aims to provide guidance to lawmakers and policymakers on creating effective bank liquidation systems, covering various aspects, including institutional models, objectives, definitions, banking groups, cross-border aspects, safeguards, tools, and treatment of liabilities.
+
+## **Why is a specific framework for bank insolvency resolution necessary?**
+
+Banks play a crucial role in the financial system, and their failure can have a significant impact on the economy. Traditional insolvency frameworks may not be well-suited to address bank insolvencies due to their unique characteristics, such as the importance of maintaining financial stability and protecting depositors. A specific framework for bank insolvency resolution allows for specialized tools and procedures that can effectively address the complexities of bank failures.
+
+## **What are the key objectives of a bank insolvency regime?**
+
+The UNIDROIT Working Group has identified three primary objectives for a bank insolvency regime:
+
+* **Value Maximization**: Aiming to recover as much value as possible from the failed bank's assets to satisfy creditors' claims.  
+* **Financial Stability**: Ensuring the smooth functioning of the financial system and preventing the spread of contagion.  
+* **Depositor Protection**: Safeguarding the interests of depositors, who are often considered the most vulnerable creditors.
+
+## **What are the main challenges in resolving cross-border bank insolvencies?**
+
+Cross-border bank insolvencies pose significant challenges due to the involvement of multiple jurisdictions with potentially conflicting legal frameworks and regulatory authorities. These challenges include:
+
+* **Coordination and Cooperation**: Ensuring effective communication and collaboration among different countries' authorities.  
+* **Recognition of Insolvency Proceedings**: Ensuring that insolvency proceedings initiated in one jurisdiction are recognized and enforced in others.  
+* **Differences in Legal Frameworks**: Harmonizing the application of different countries' insolvency laws.
+
+## **How can the statutory bail-in framework address group issues and cross-border challenges?**
+
+A statutory bail-in framework can address group issues and cross-border challenges by incorporating several key elements:
+
+* **Jurisdictional Cooperation**: Promoting collaboration and information sharing among relevant jurisdictions.  
+* **Comprehensive Legal Framework**: Establishing clear legal grounds for the bail-in process and the authority of home country regulators.  
+* **Broad Scope of Application**: Covering all liabilities, including those held abroad and governed by foreign laws.  
+* **Entity-Specific Approach**: Targeting only the failing member of a banking group without harming viable entities.  
+* **Cross-Border Recognition**: Facilitating the recognition and enforcement of bail-in actions across different jurisdictions.
+
+## **What is the difference between bail-in and bail-out?**
+
+* **Bail-in**: Involves imposing losses on the failed bank's shareholders and creditors by writing down or converting their claims into equity to recapitalize the bank internally.  
+* **Bail-out**: Involves using public funds to rescue the failed bank, often by injecting capital or providing guarantees.
+
+## **What are the roles of Deposit Insurance Agencies (DIAs) in bank insolvency resolution?**
+
+DIAs play a vital role in protecting depositors and maintaining confidence in the banking system. Their role in bank insolvency resolution can include:
+
+* **Providing Deposit Insurance Payouts**: Compensating insured depositors up to the coverage limit.  
+* **Contributing to Resolution Financing**: Using DIA funds to support the resolution of a failed bank.  
+* **Participating in the Resolution Process**: Working with resolution authorities to ensure the smooth implementation of resolution measures.
+
+## **What are the main topics covered in the draft chapters of the UNIDROIT Legislative Guide on Bank Insolvency?**
+
+The draft chapters of the UNIDROIT Legislative Guide on Bank Insolvency cover a comprehensive range of topics related to bank liquidation, including:
+
+* **Institutional Models**: Discussing administrative and court-based systems for handling bank insolvencies.  
+* **Objectives**: Defining the key objectives of a bank liquidation regime.  
+* **Definitions**: Clarifying key terms related to bank insolvency.  
+* **Banking Groups**: Addressing the complexities of resolving insolvencies involving banking groups.  
+* **Cross-Border Aspects**: Providing guidance on handling cross-border insolvencies.  
+* **Safeguards**: Establishing protections for creditors and other stakeholders.  
+* **Tools**: Describing the tools available to liquidators, such as asset sales and transfers.  
+* **Treatment of Liabilities**: Providing guidance on the ranking and treatment of different types of liabilities.

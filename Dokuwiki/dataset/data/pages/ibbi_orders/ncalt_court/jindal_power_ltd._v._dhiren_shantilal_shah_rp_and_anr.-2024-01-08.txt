@@ -1,0 +1,292 @@
+<html>
+<div>
+	<h2>
+		Jindal Power Limited vs Dhiren Shantilal Shah &amp; Anr on 8 January, 2024
+	</h2>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL PRINCIPAL BENCH: NEW DELHI Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 (Arising out of the Impugned Order dated 22.08.2023 passed by the 'Adjudicating Authority' (National Company Law Tribunal, Mumbai Bench - IV in IA No. 3699/2023 in C.P.(IB) No. 4164/(MB)/2019 and Order dated 27.07.2023 in I.A. No.3223 of 2023 in C.P.(IB) No. 4164/(MB)/2019] IN THE MATTER OF: Jindal Power Limited Having its registered address at Jindal Power Limited, Tamnar, Chattishgarh - 496107, India ...Appellant Versus 1. Dhiren Shantilal Shah Resolution Professional of Tuticorin Coal Terminal Pvt. Ltd. Having his address at B-102, Bhagirathi Niwas Sir M V Road, Near Natraj Studio, Andheri East, Mumbai - 400069 ...Respondent No.1 2. Committee of Creditors of Tuticorin Coal Terminal Pvt. Ltd Having address at Star House, C- 5, G Block Bandra Kurla Complex, Mumbai - 400051 ...Respondent No.2 Present: For Appellant : Mr. Ramji Srinivasan, Sr. Advocate with Ms. Gauri Rasgotra, Ms. Shruti Chaudhary, Ms. Priyashri Sharma, Mr. Kartik Pandey, Mr. Shivansh Agarwal and Ms. Namrata Saraogi, Advocates. For Respondent : Ms. Arveena Sharma, Ms. Pooja Mahajan and Ms. Shruti Pandey, Advocates for R-1. Mr. Aditya Kumar, Advocate for R-2. Mr. Dhiren S. Shah, Advocate for RP Mr. Deep Bisht, Advocate for Intervenor.Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 1 of 23 JUDGMENT
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(Hybrid Mode) [Per: Arun Baroka, Member (Technical)] Brief facts:
+	</p>
+	<p title="Fact">
+		The psent Appeal has been filed by Jindal Power Limited ("JPL") under Section 61 of the IBC Code 2016, against the Impugned Order dated 22.08.2023 ("First Impugned Order") passed by the National Company Law Tribunal, Mumbai Bench - IV ("Adjudicating Authority") in clarification application being I.A. No. 3699 of 2023, which has held that the Appellant is ineligible to submit a Resolution Plan for the Corporate Debtor.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		2. Further, the Appellant has also challenged the Order dated 27.07.2023 ("Second Impugned Order") passed in I.A. No. 3223 of 2023 to the limited extent that the Adjudicating Authority, while rightly granting the Appellant opportunity to submit its Resolution Plan in order to maximise the value of the assets of the Corporate Debtor has held that this opportunity is subject to compliance of the provisions contained in Regulations 39(1-B) read with 36B(7) of the IBBI (CIRP) Regulations, 2016.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		3. This matter was heard on various dates on 06.09.2023, 21.09.2023, 05.10.2023 and on 20.10.2023 after hearing at length, the orders were reserved. To seek some clarifications, the matter was again posted for seeking clarification on 04.01.2024 and the orders were reserved. Apart from hearing the all the counsels we perused all the documents including written statements submitted by Appellant- JPL, the resolution professional, CoC and also the final PRA- SEAPOL.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 2 of 23
+	</p>
+	<p title="Issue" data-structure="Issue">
+		4. By the Impugned Orders, the Adjudicating Authority has disallowed JPL from submitting a resolution plan for the Corporate Debtor, on account of the statutory bar under Regulation 39(1-B) read with Regulation 36-B(7) of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process of Corporate Persons) Regulations, 2016 ("CIRP Regulations'"), as per which a resolution plan for a Corporate Debtor cannot be received from a person, who does not appear in the final list of prospective resolution applicants published by a resolution professional under Regulation 36-A(12) of the CIRP Regulations, 2016
+	</p>
+	<p title="Fact" data-structure="Facts">
+		5. The factual matrix of the psent appeal is as follows:
+	</p>
+	<p title="Fact">
+		5.1 The Corporate Debtor viz. Tuticorin Coal Terminal Pvt. Ltd. is a company (formed as Special Purpose Vehicle-SPV) engaged in the business of development of North Cargo Berth II for handling bulk cargo at Tuticorin Port on Design, Build, Finance, Operate and Transfer (DBFOT) basis. In the year 2019, proceeding under Section 7 of the Insolvency and Bankruptcy Code, 2016 ("Code") was initiated against the Corporate Debtor by Bank of India, being one of its financial creditors, before the Adjudicating Authority.
+	</p>
+	<p title="Fact">
+		5.2 The Adjudicating Authority in its order dated 20.02.2020 allowed the Section 7 Petition and initiated CIRP proceeding against the Corporate Debtor. The Adjudicating Authority also appointed RP/Respondent No.1 as the Interim Resolution Professional ("IRP"), who was later confirmed as a Resolution Professional ("RP") by the Committee of Creditors ("CoC") on 20.02.2020.
+	</p>
+	<p title="Fact">
+		Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 3 of 23 5.3 On 08.09.2020, the RP/Respondent No.1 issued an "Invitation for Resolution Plan" ("Form G") under Regulation 36-A of the CIRP Regulations.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		On 06.10.2020 timelines for submission of Expssion of Interest ("EoI") and issuance of final list of PRAs was extended to 12.10.2020 and 31.10.2020 respectively.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		5.4 Pursuant to the issuance of Form G, the RP received seven (7) EoIs from Prospective Resolution Applicants ("PRAs") for submission of a resolution plan for the Corporate Debtor. Out of seven (7) EOIs, only six (6) were eligible PRAs. The Final list was issued under Regulation 36-A(12) with six (6) PRAs in the final list. In the year 2021, RP received resolution plans only from two (2) PRAs out of the final list of PRAs. These were psented before the CoC, but were not accepted by the CoC. Thereafter, RP filed an IA No. 836 of 2022 on 20.08.2021 seeking liquidation of the Corporate Debtor. 5.5 During the pendency of the Liquidation Application, another I.A. No. 3593 of 2022 was filed by M/s SEAHAWK (SHAL Group), which was not in the final list of PRAs seeking submission of a resolution plan for the Corporate Debtor.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		5.6 By an order dated 29.11.2022 the Adjudicating Authority allowed this I.A. noting that "This is an application filed by the Resolution Applicant for seeking relief of the Committee of Creditor (COC) to consider the Resolution Plan. The RP is directed to submit the Resolution Plan, submitted by the Proposed Resolution Applicant before the CoC and further, COC is directed to consider the Resolution Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 4 of 23 Plan which is submitted by the Applicant as per Law.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Accordingly, IA No. 3593 of 2022 is allowed and disposed of."
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		[emphasis supplied] 5.7 Accordingly, M/s SEAHAWK was given an opportunity to submit a resolution plan for the Corporate Debtor. Even though, M/s SEAHAWK was given an opportunity to submit a resolution plan, it did not submit any resolution plan for the Corporate Debtor. In the clarificatory hearing on 04.01.2024, RP further reiterated that till date the RP has not received any resolution plan by M/s SEAHAWK and no such resolution plan was placed before the CoC for consideration or approval. Further RP submits that M/s M/s SEAPOL is just an intervenor and his claim that CoC rejected the resolution plan submitted by M/s SEAHAWK due to the fact that it was in contravention and in violation of Regulation 39(1-B) and Regulation 36-B(7) of the CIRP Regulations is factually incorrect and without any basis. He further submits that the intervenor is merely a prospective resolution applicant, who is not privy to the discussions in the meetings of the CoC or has access to information concerning the resolution plans submitted to the RP.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		5.8 Around this time, another Interlocutory Application bearing I.A. No.3535 of 2022 was filed by the M/s SEAPOL, which was one of the PRAs in the final list of PRAs, seeking submission of a resolution plan for the Corporate Debtor. By an order dated 09.01.2023, the Adjudicating Authority allowed the I.A. No.3535 of 2022 with the noting that:
+	</p>
+	<p title="Court's Reasoning">
+		"Learned Counsel for the Applicant submits that they have submitted the proposed resolution plan with the RP. However, the same was not considered and now the Liquidation Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 5 of 23 Application is filed...." And held "This bench directs the RP to withdraw the Liquidation Application and put the proposed Resolution Plan before the CoC for consideration."
+	</p>
+	<p title="Fact" data-structure="Facts">
+		5.9 Accordingly, the Liquidation Application was dismissed as withdrawn and M/s SEAPOL was given an opportunity to submit the resolution plan for the Corporate Debtor. Pursuant to the 09.01.2023 order M/s SEAPOL submitted their resolution plan for the Corporate Debtor on 18.02.2023. 5.10 On 12.07.2023, the Appellant in this Appeal before us, sent an EoI for the Corporate Debtor to the RP showing its interest to participate in the CIRP process of the Corporate Debtor. At that time RP was considering the proposals of M/s SEAPOL and a proposal of M/s VOCPA (which was submitted under the guidelines for dealing with stressed Public Private Partnership Projects (PPP) at Major Ports). However, RP/CoC did not approve the proposal of M/s VOCPA. Further, RP could not suo-moto consider the EoI of the Appellant, since the last date for receipt of EoI had already lapsed. Therefore, on 14.07.2023 the RP placed the EoI before 45th Meeting of CoC. However, considering the restrictions in Regulation 39(1-B) of the CIRP Regulations, the RP suggested the Appellant to take appropriate directions from the Adjudicating Authority. Pursuant to this, on 21.07.2023, the Appellant filed I.A No. 3223 of 2023 with the Adjudicating Authority inter alia seeking permission to submit a Resolution Plan. By the 27.07.2023 order the Adjudicating Authority allowed and disposed of this I.A. passed the following order:
+	</p>
+	<p title="Fact">
+		"In view of these facts, this Bench feels that the Applicant in IA- 3223/2023 be allowed an opportunity to submit the Resolution Plan, considering that the Court intends to maximise the value Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 6 of 23 of Corporate Debtor's assets...However, this opportunity shall be subject to compliance with the provisions contained in Regulation 39(1)(b) r/w 36B(7) of CIRP Regulations, which stipulates that such Applicant should be one of Resolution Applicants in the final list of prospective Resolution Applicants and the RP will extend the time line for submission of Resolution Plan after approval of CoC". (Emphasis Supplied) 5.11 Appellant has also challenged the above Order dated 27.07.2023 passed in I.A. No. 3223 of 2023.
+	</p>
+	<p title="Fact">
+		5.12 Even though the Adjudicating Authority had allowed to submit a resolution plan for the Corporate Debtor, but it was subject to compliance with Regulation 39(1-B) read with Regulation 36-B(7), which stipulates that Appellant should be in the final list of the PRAs.
+	</p>
+	<p title="Fact">
+		Resolution Professional (RP) seeking clarification from AA 5.13 Since there was contradiction in the 27th July order, i.e. on one hand, it allowed submission of resolution plan by JPL for maximisation of the value of the assets of the Corporate Debtor as per pamble of the code, yet on the other hand sought compliance of Regulation 39(1-B) and Regulation 36-B(7) of the CIRP Regulations. Therefore, RP requested JPL to seek clarification of the 27th July order. However, the JPL stated that RP is required to re-issue the RFRP (with the approval of the CoC) in terms of Regulation 36-B(7) of the CIRP Regulations to the PRAs appearing in the final list of PRAs published by the RP, which according to JPL should now include its name also, by virtue of the 27th July order.
+	</p>
+	<p title="Fact">
+		Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 7 of 23 5.14 To avoid any ambiguity, the RP filed a clarification bearing I.A. No.3699 of 2023 seeking clarifications from the Adjudicating Authority with respect to 27th July order on the following:
+	</p>
+	<p title="Fact">
+		"a) Whether Appellant's resolution plan can be considered in the interest of value maximisation, dehors the fact that Appellant is not in the Final List of PRAs; and
+	</p>
+	<p title="Fact">
+		b) Whether the RP/Respondent No.1 is required to re-issue the RFRP and provide time for submission of Resolution Plan to:
+	</p>
+	<p title="Fact">
+		(a) all PRAs in the Final List of the PRAs under Regulation 36B(7) of the CIRP Regulations (b) M/s SEAHAWK that was not in the Final List of PRAs, but who was allowed to submit a resolution plan for the Corporate Debtor by way of the Adjudicating Authority's order dated 29 November 2022."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		5.15 Clarification Application was necessitated because the 27th July order allows Appellant to submit a Resolution Plan but the Appellant was not in the final list of the PRAs published by the RP under Regulation 36A(12) of the CIRP Regulations and therefore, it was not possible to comply with Regulation 36(1B) read with Regulation 36B(7) as directed in the 27th July order. 5.16 On 22.08.2023, the Adjudicating Authority noted on this clarification application and ordered as follows:
+	</p>
+	<p title="Court's Reasoning">
+		"The order dated 27.07.2023 was consciously passed limiting ourselves not indulging into the commercial wisdom of the CoC with rider subject to compliance of provisions contained in Regulation 39(1B) r/w 36B(7) of the CIRP Regulations. Therefore, there is a statutory bar on submission of resolution plan apart from the final list of PRAs, which cannot be circumvent at this juncture."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(Emphasis Supplied) Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 8 of 23 5.17 Thus, by the clarification order the Adjudicating Authority has disallowed the Appellant to submit a resolution plan for the Corporate Debtor on account of the bar under Regulation 39(1-B) read with Regulation 36-B(7) of the CIRP Regulations.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Grounds of Appellant -Jindal Power Limited (JPL)
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		6. The Appellant has challenged both orders of the Adjudicating Authority of 27th July 2023 in I.A. No. 3223 of 2023 and also of 22.08.2023 in I.A. No.3699 of 2023.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		7. The main ground of JPL is that by accepting the resolution plan it will maximise the value of the assets of the Corporate Debtor, which is in line with the primary objective of the Insolvency and Bankruptcy Code, 2023 ("Code"). The order dated 22.08.2023 of the Adjudicating Authority is contrary to the pamble and to the objective of the Code, which is to maximise the value of the assets of the corporate debtor. It also raises the issue that due to change in economic conditions since 31.10.2022, there may be now more participants, who could be interested in participating in the CIRP, including the Appellant which would help in maximising the value of the Corporate Debtor. It also raises the issue that the Adjudicating Authority, vide its order dated 29.11.2022, had allowed M/s SEAHAWK to submit its resolution plan even though it was not in the final list of the PRAs. Further, M/s SEAPOL had initially missed the pscribed period to submit its resolution plan, which was later allowed with the permission of Adjudicating Authority and it finalised its submission, with multiple revisions only on 22.08.2023. Appellant also relies upon following judgments:
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 9 of 23 i. Kalpraj Dharamshi Vs. Kotak Investment Advisors Ltd.
+	</p>
+	<p title="Precedent Analysis">
+		reported in (2021) 10 SCC 401 wherein the Hon'ble Apex Court held that the commercial wisdom of the CoC is paramount and any decision of the CoC before the expiry of the timeline specified under the I&amp;B Code is sacrosanct and ii. Vistra ITCL (India) Ltd. Vs. Torrent Investments Pvt.
+	</p>
+	<p title="Precedent Analysis">
+		Ltd. dated 02.03.2020 in CA(AT) (Ins) No. 132, 133 &amp; 134 of 2023 wherein NCLAT held that the CIRP Regulations cannot be read as a fetter on the power of the CoC to discuss and deliberate and take further steps of negotiations with the resolution applicants.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		iii. Further, NCLAT in Ramneek Goel Vs. Sunil Bajab &amp; Ors. reported in 2023 SCC OnLine NCLAT 515 has also held that any EOI submitted prior to the expiry of 330 days of the CIRP process can be considered by the CoC, if it is in the interest of stakeholders to achieve value maximisation. Further, the Appellant submits that EoI was submitted on 12.07.2023 by the Appellant, which was within 270 days of the CIRP process.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		8. Appellant further argues that Regulations cannot be read as a fetter on the power of the CoC, to discuss and deliberate and take further steps of negotiation with the resolution applicants. He further submits that psently only one plan i.e. of M/s SEAPOL is in consideration, and the revised plan Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 10 of 23 was submitted by M/s SEAPOL as recently as on 22.08.2023. And since RP has stated that with the approval of CoC, it will give an opportunity to M/s SEAPOL also, to revise its resolution plan once again - in the event applicant is granted an opportunity to submit a resolution plan, therefore, the Adjudicating Authority can take a facilitative step towards greater participation to secure maximisation of the value rather than shut the doors to prospective applicants offering better value to the CoC and other stakeholders.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Case of Committee of Creditors (CoC)
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		9. COC decided to support the appeal for allowing JPL to submit the Resolution Plan for maximisation of the value of the Corporate Debtor as per the pamble of the Code.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		10. It further submits that the overarching legislative intent of the Code is resolution of the corporate debtor and simultaneous value maximisation. The aforesaid legal position has been eloquently elucidated in several judgments of the Hon'ble Supme Court; and in this regard, it would be apposite to refer to a judgment rendered by a learned 3 Judge bench of the Honourable Supme Court in the matter of Phoenix ARC (P) Ltd. v. Spade Financial Services Ltd., reported in (2021) 3 SCC 475.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		11. It further submits that at psent the only resolution plan, that is pending consideration before the Committee of Creditors is the plan submitted by SEAPOL. It is pertinent to state that consideration of an additional plan would be in the interest of value maximisation and would afford the Committee of Creditors to choose between the plan that betters Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 11 of 23 subserves the primary consideration of value maximisation of the assets of the corporate debtor.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Case of Resolution Professional (RP)
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		12. The RP in its submissions states as under:
+	</p>
+	<p title="Precedent Analysis">
+		"..a) As on date there is only one resolution plan i.e., the resolution plan submitted by M/s SEAPOL which is under consideration with the CoC. M/s SEAPOL was one of the PRAs in the Final List of PRAs had been given the liberty to file its resolution plan after expiry of relevant timelines pursuant to the order dated 9 January 2023, the Adjudicating Authority.
+	</p>
+	<p title="Precedent Analysis">
+		b) The CoC of the Corporate Debtor in 45th and 46th CoC Meeting has shown its willingness to consider the resolution plan proposed to be submitted by the Appellant, in the interest of competition and value maximization.
+	</p>
+	<p title="Precedent Analysis">
+		c) The 270-day period for concluding the CIRP of the Corporate Debtor ended on 13 September 2023. However, considering the liberty granted in the 7 July Order, coupled with the CoC's decision during the 46th CoC Meeting, the RP/Respondent No. 1 has filed the Exclusion Application before the Adjudicating Authority, requesting the exclusion of 90 days from the CIRP timeline. As on date, the Exclusion Application is pending hearing.
+	</p>
+	<p title="Precedent Analysis">
+		d) On 18 September 2023, the CoC of the Corporate Debtor through the Bank of India (lead member) has submitted its reply to the Appeal supporting the Appeal. In its reply the CoC has submitted that consideration of an additional plan would be in the interest of value maximisation and would afford the CoC, the option to choose bet-ween the plans that better subserves the primary consideration of value maximisation of the asset of the Corporate Debtor
+	</p>
+	<p title="Precedent Analysis">
+		e) Further, to maintain transparency and fairness in the process, the RP/Respondent No. 1 as per the decision taken by COC had duly notified M/s SEAPOL (the sole resolution applicant whose plan is currently being considered by the CoC) regarding the 27 July Order and provided an opportunity to M/s SEAPOL to submit a revised resolution plan (if required). Subsequently, on 22nd August 2023 M/s SEAPOL Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 12 of 23 submitted its revised resolution plan to the RP/ Respondent No. 1 and the same is in safe custody in seal packed cover.
+	</p>
+	<p title="Precedent Analysis">
+		f) Further, in the 46th CoC Meeting, it was resolved that the CoC would wait for the adjudication of the psent Appeal before considering the revised plan submitted by M/S SEAPOL.
+	</p>
+	<p title="Precedent Analysis">
+		g) Further, the RP submits that if Appellant is granted an opportunity to submit a resolution plan for the Corporate Debtor, the RP with approval of COC will also provide an opportunity to M/s SEAPOL to revise its resolution plan once again, ensuring fairness in the process."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Case of Prospective Resolution Applicant (PRA) - M/s SEAPOL
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		13. M/s SEAPOL who is the final PRA, in its Interlocutory Application No.4774 of 2023, has submitted that M/s SEAHAWK was not in the final list and was allowed to submit resolution plan vide its order dated 29.11.2022 of Adjudicating Authority. CoC considered the resolution plan, as submitted by M/s SEAHAWK and rejected due to the fact that it was in contravention and in violation of the Regulation 39(1-B) read with Regulation 36B(7) with the CIRP Regulations.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		14. M/s SEAPOL Ports Pvt. Ltd., also submits that it is the sole resolution applicant, whose name was included in the final list of prospective resolution applicants, issued by the resolution professional on 31.10.2020 and in view of the Regulation 39(1-B) of CIRP Regulations, the CoC is incumbent not to consider the resolution plan of any person, who does not appear in the final list of PRAs.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		15. Since the Adjudicating Authority vide its order dated 22.08.2023 in IA No. 3699 of 2023 has held Jindal Power Limited as ineligible for submitting Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 13 of 23 the resolution plan, therefore the CoC is bound to consider the resolution plan filed by M/s SEAPOL, as its name is reflecting in the final list of PRAs. M/s SEAPOL Pvt. Ltd. also submits that in pursuance to the order dated 09.01.2023 of the Adjudicating Authority, it had submitted its resolution plan with the RP on 18.02.2023. The Resolution Plan of the resolution applicant was discussed in various CoC meetings and upon the request of the CoC, the applicant submitted revised resolution plan on 15.05.2023, 09.06.2023 and 22.08.2023.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		16. M/s SEAPOL further submits that, on the one hand, CoC is negotiating with them and on the other hand exploring other opportunities to bringing in PRA who was not in the final list of PRAs, which is in contravention to the provisions of the Code and Regulations.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		17. It further submits that in the shelter of maximisation of value of assets, it cannot be permitted to take any decision at any point of time in the name of the commercial wisdom which is in contravention to the CIRP Regulations. It also submits that the entire process with respect to the issuance of Form G, RFRP, IR and the final list of PRAs will be futile, if an opportunity is granted to anyone to submit a plan, whose name was not in the final list of PRAs.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		18. It also submits that if the CoC was of the view that the plan of the applicant is not satisfactory then it could have exercised its power under Regulation 36B(7) and could, with the approval of the CoC have re-issued request for resolution plans. However, no such process was adopted by the RP/CoC till date and the plan of the resolution applicant is still under the consideration by the CoC.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 14 of 23
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		19. M/s SEAPOL further submits that (i) Regulation 39(1-B) was inserted by way of Insolvency and Bankruptcy Board of India (IBBI) (Insolvency Resolution Process for Corporate Persons) (Third Amendment) Regulations, 2021. The same is enacted pursuant to the discussion paper circulated by the IBBI on 27.08.2021. The discussion paper dealt with the issue related to the request for RFRP multiple times, and submission of unsolicited plans causing delays in the CIRP process. IBBI discussion paper recognized that there were several reasons for delays in the CIRP, including the repeated requests for expssion of interest, continued extension of time for submission of resolution plans, unsolicited revision of submitted plans, repeated negotiations with the resolution applicants, receipt of unsolicited plans etc. It is clear that the intent behind the insertion of Regulation 39(1- B) in CIRP Regulations was to curtail the delay in the CIR process, by restraining the CoC to consider any resolution plan being received, after the time as specified by the CoC, from a person who does not appear in the final list of PRAs.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		20. Further M/s SEAPOL submits that the judgment titled Vistra Ltd. ITCL (India) Ltd. vs. Torrent Investments Pvt. Ltd. &amp; Ors. CA(AT) (Insolvency) No.132, 133 &amp; 134 of 2023 passed by the Hon'ble NCLAT, New Delhi, being referred by the Appellants counsel during the argument is not relevant in the psent matter as the said judgment deals with Regulation 39(1-A)(b) of CIRP Regulations.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		21. M/s SEAPOL also submits that the earlier proposals of M/s SEAHAWK which was allowed to be considered by the Adjudicating Authority was to consider the proposal as per the law. Accordingly, CoC rejected the resolution Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 15 of 23 plan submitted by M/s SEAHAWK due to the fact that it was in contravention and in violation of Regulation 39(1-B) read with Regulation 36B(7) of the CIRP Regulations. However, in the psent appeal the CoC is taking a contrary stand by stating that CoC is willing to explore other bidders outside the final list of PRAs in order to maximise the value of asset of Corporate Debtor which is not permissible under the Code and Regulations framed there under.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		22. M/s SEAPOL further submits that Insolvency Resolution has to be conducted in a time bound manner and the time has already expired on 13.09.2023 and at this stage, only the plan of the resolution applicant which is feasible and viable, is under the consideration before the CoC and CoC is duty bound to approve or reject the plan of the Applicant instead of extending the CIRP period of the Corporate Debtor. The CoC, instead of concluding the CIRP in a time bound manner, is stretching the revival of Corporate Debtor or pushing the Corporate Debtor into liquidation, which is not the intent of the Code. A very long CIRP period is likely to push the Corporate Debtor towards liquidation by reducing its liquidation value. Issue before the Tribunal
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		23. The issue before this Tribunal is to determine whether the Appellant namely Jindal Power Limited could be allowed to submit a resolution plan for value maximization of the Corporate Debtor under the existing provisions of the Code and the Regulations, particularly Regulation 39(1-B) read with Regulation 36-B(7) of IBBI (CIRP) Regulations, 2016. Findings &amp; Conclusions
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		24. Before proceeding further, it would be appropriate to see the relevant provisions under the CIRP Regulations, which are being questioned. They are quoted as follows:
+	</p>
+	<p title="Analysis of the law">
+		Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 16 of 23 "36B. Request for resolution plans .....
+	</p>
+	<p title="Analysis of the law">
+		(7) The resolution professional may, with the approval of the committee, re-issue request for resolution plans, if the resolution plans received in response to an earlier request are not satisfactory, subject to the condition that the request is made to all prospective resolution applicants in the final list:
+	</p>
+	<p title="Analysis of the law">
+		Provided that provisions of sub-regulation (3) shall not apply for submission of resolution plans under this sub-regulation.
+	</p>
+	<p title="Analysis of the law">
+		39. Approval of resolution plan.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(1B). The Committee shall not consider any resolution plan -
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(a) received after the time as specified by the committee under regulation 36-B; or
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(b) received from a person who does not appear in the final list of prospective resolution applicants; or
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(c) does not comply with the provisions of sub-section (2) of section 30 and sub-regulation (1)...."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[ emphasis supplied]
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		25. It may be noted that the Adjudicating Authority has consistently allowed opportunity to all the resolution applicants as long as they were as per law. In the first case of M/s SEAHAWK, the order clearly states that the CoC is directed to consider the resolution plan, which is submitted by the Applicant as per law in its order in I.A. No. 3593 of 2022 and subsequently when Jindal Power Limited approached the Adjudicating Authority in I.A No. 3223 of 2023, it again acknowledged that an opportunity be given to submit the resolution plan to maximise the value of Corporate Debtor asset. However, this opportunity will be subject to compliance with the provisions contained in Regulation 39(1-B) read with Regulation 36-B(7) IBBI (CIRP) Regulations, 2016. In the first case, even though opportunity was given to M/s SEAHAWK, it is confirmed by the RP that the resolution plan was not submitted. The claim of SRA viz. SEPOL that this resolution plan was rejected by the RP/COC on the same ground that it is not in compliance with the provisions contained Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 17 of 23 in Regulation 39(1-B) read with Regulation 36-B(7) IBBI (CIRP) Regulations, 2016 and now in the case of JPL they have changed their stand and recommending for resolution plan to be considered. We are not adjudicating on the issue of submission or non-submission of the resolution plan, but on the issue of the stand taken by the Adjudicating Authority which has been consistent in both the cases of SEAHAWK and SEAPAL. In fact RP and CoC have taken a stand which is contravention of the Regulation 39(1-B) read with Regulation 36-B(7) IBBI (CIRP) Regulations, 2016. And in the case of M/s SEAPOL Adjudicating Authority clearly ordered that it did not want to indulge into the commercial wisdom of the CoC, with the rider that let it be in compliance with the provisions contained in Regulation 39(1-B) read with Regulation 36B(7) of the CIRP Regulations.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		26. A bare reading of the above provisions, particularly the one underlined, indicate that the Regulations do not permit the proposals to be entertained which are not there in the final list of the PRAs and the Adjudicating Authority has acted as per this provisions.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		27. The resolution plan from the Appellant was received by the RP on 12.07.2023, which was the stage when the RP/COC was in the midst of considering the proposal of M/s SEAPOL, which was in the final list of PRA. The resolution plan was being improved and the resolution plan was finally submitted on 22.08.2023 and the final plan of SEAPOL is in the safe custody of the RP. Jindal Power Limited had filed an I.A. No. 3223 of 2023 before the Adjudicating Authority and sought permission to submit a resolution plan. The Adjudicating Authority gave the opportunity, but it was subject to compliance with the provisions contained in Regulation 39(1-B) read with Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 18 of 23 Regulation 36B(7) of CIRP Regulations. It was submitted that there was a contradiction in the above order, the RP, therefore, sought a clarification through I.A. No.3699 of 2023, in which it sought clarification on the following issues:
+	</p>
+	<p title="Court's Reasoning">
+		"a) Whether Appellant's resolution plan can be considered in the interest of value maximisation, dehors the fact that Appellant is not in the Final List of PRAs; and
+	</p>
+	<p title="Court's Reasoning">
+		b) Whether the RP/Respondent No.1 is required to re-
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		issue the RFRP and provide time for submission of Resolution Plan to: (a) all PRAs in the Final List of the PRAs under Regulation 36B(7) of the CIRP Regulations (b) M/s SEAHAWK that was not in the Final List of PRAs, but who was allowed to submit a resolution plan for the Corporate Debtor by way of the Adjudicating Authority's order dated 29 November 2022."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		28. And the clarification was issued by the Adjudicating Authority on 22.08.2023 in which it clarified as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"The order dated 27.07.2023 was consciously passed limiting ourselves not indulging into the commercial wisdom of the CoC with rider subject to compliance of provisions contained in Regulation 39(1B) r/w 36B(7) of the CIRP Regulations. Therefore, there is a statutory bar on submission of resolution plan apart from the final list of PRAs, which cannot be circumvent at this juncture."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(Emphasis Supplied)
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		29. Thus, by the clarificatory order the adjudicating Authority has disallowed the Appellant to submit a resolution plan for the Corporate Debtor.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		30. The justification of the Appellant, and supported by RP/CoC, that by accepting its resolution plan, it maximises the value of the assets of the Corporate Debtor and it is in alignment of the primary objective of the Insolvency and Bankruptcy Code, 2023 ("Code"), cannot be accepted by giving a go by to the Code and particularly Regulations. Firstly, both AA and the Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 19 of 23 Appellate Authority are bound by the Code and Regulations. Secondly, the Apex Court's judgement relied upon by the Appellant of Kalpraj Dharamshi Vs. Kotak Investment Advisors Ltd. reported in (2021) 10 SCC 401 may not be of any help. This judgement holds that the commercial wisdom of the CoC is paramount and any decision of the CoC before the expiry of the timeline specified under the I&amp;B Code is sacrosanct. And in this case CoC has applied its wisdom and AA has not questioned it as long as the process of resolution plan was not in violation of the Regulations. As and when the RP/CoC recommended in contravention of the Regulations, it was not agreed to by the AA. This is not the commercial wisdom which has been not agreed to by the AA, but the violation of the Regulations. Furthermore, we agree that in the name of the shelter of maximisation of value of assets and commercial wisdom, RP/CoC cannot be permitted to take any decision at any point of time, which is in contravention to the CIRP Regulations.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		31. If unsolicited plans are obtained at any stage it will cause unnecessary avoidable delay in the CIRP process. If resolution plans are allowed to be submitted at any stage, it will make the whole CIRP process unending. To curtail the delay in the CIRP process, it is appropriate to restrain the tendency to consider resolution plans after the time as specified by the CoC and from someone not in the final list of PRAs. This has been the spirit and justification of newly inserted provisions in the Regulations in 2021 and which has been eloquently described in the Discussion Paper of the IBBI, before changes were brought in and which have also been referred to by SRA viz. SEAPOL.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		32. AA is very much aware of the judgement of Kalpraj Dharamshi Vs. Kotak Investment Advisors Ltd. and made serious efforts that the CD doesn't Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 20 of 23 enter into liquidation and resolution plan is worked out for the maximization of the value of the CD. It first reversed the liquidation orders and allowed resolution plans of SEAHAWK to be considered and then later on resolution plans of SEAPOL and then finally that of JPL, but all to be dealt as per law. The Regulations did not allow the case of JPL to be allowed by AA and we do not find anything wrong in the conclusion of the AA.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		33. The judgment titled Vistra Ltd. ITCL (India) Ltd. vs. Torrent Investments Pvt. Ltd. &amp; Ors. CA(AT) (Insolvency) No.132, 133 &amp; 134 of 2023 passed by this Tribunal may not be relevant in the psent matter as the referred judgment deals with Regulation 39(1-A)(b) of CIRP Regulations and we are dealing with Regulation 39(1-B) read with Regulation 36B(7) of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process of Corporate Persons) Regulations, 2016.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		34. The judgement of this Tribunal in Ramneek Goel Vs. Sunil Bajab &amp; Ors. reported in 2023 SCC OnLine NCLAT 515 is also referred to by the Appellant, with relevant paragraphs as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"..13. There can be no dispute to the law laid down by the Hon'ble Supme Court that 330 days is the maximum period provided by the Code for the completion of CIRP. The psent is a case where 300 days were expiring on 15.04.2021 and prior to expiry of the 300 days period, a decision was taken to re-publish Form-G. The CoC has reason to take a decision since they received an email from Respondent No.1 offering higher value. The objective of the IBC is to maximize the value of the Corporate Debtor and decision taken by the CoC to re- publish Form-G cannot be faulted in the facts of the psent case..."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		This would also be not helpful for the Appellant as RP/COC may take it up with the AA once they dispose of the SRA, which is with them and decide Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 21 of 23 as per Regulations and the Code for either accepting it or go back to the stage of re-issuance of EOIs or restart just from the final list of SRAs. Needless to say, that Insolvency Resolution has to be conducted in a time bound manner and at this stage, the plan of the resolution, which is under consideration before the CoC should either be approved or rejected instead of extending the CIRP period of the Corporate Debtor and for this reason also this judgement may not help the Appeal.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		35. No doubt the whole process pscribed in the Code and supported by Regulations aims at maximization of the value for the Corporate Debtor but it cannot give a go by to the existing specific Regulations as discussed above. In the psent case the matter has been reversed from the stage of liquidation and one of the PRA in the final list has been given an opportunity to file its resolution plan and which is to be accepted or rejected by the CoC. Maximisation of the value of the Corporate Debtor can be ensured by other means also, particularly by conducting CIRP in a time-bound manner, simultaneously complying with existing regulations and not bypassing them. The Resolution plans, which enter midway and which were not in the final list of PRAs derail and delay the CIRP proceedings and this has also been noted in the background Discussion paper, before the introduction of new Regulations in 2021.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		36. RP/CoC should finalize the proposal at hand which is in a sealed cover with them and was improved as per their suggestions and if it is not satisfied, as per the provisions of Regulation 36B(7) of the CIRP Regulations it can reject the resolution plan submitted by M/s SEAPOL and proceed as per the Code and Regulations.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 22 of 23
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		37. In the above circumstances, we do not find merit in the psent Appeal, which if allowed would mean contravention and violation of Regulation 39(1- B) read with Regulation 36-B(7) of IBBI (CIRP) Regulations, 2016. The Appeal is, therefore, dismissed. Both the IAs become infructuous. RP and COC should proceed with its CIR proceedings and decide the resolution plan available with them either way.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice Anant Bijay Singh] Member (Judicial) [Arun Baroka] Member (Technical) 8th January, 2024 pks Company Appeal (AT) (Insolvency) No. 1166-1167 of 2023 23 of 23
+	</p>
+</div>
+</html>

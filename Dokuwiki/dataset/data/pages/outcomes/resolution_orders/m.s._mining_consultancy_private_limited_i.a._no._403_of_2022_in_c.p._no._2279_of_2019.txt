@@ -1,0 +1,284 @@
+https://notebooklm.google.com/notebook/fadc3347-6856-497d-831f-f92e499b99a4
+
+The two sources are court orders from the National Company Law Tribunal (NCLT) in Mumbai regarding the insolvency resolution process of M/s. M.S. Mining and Consultancy Private Limited, a corporate debtor in India. The first order approves a resolution plan submitted by M/s. Rudransh Agro & Co., a partnership firm, to revive the corporate debtor. The second order dismisses an application filed by Deepesh Asnani, an unsecured financial creditor of the company, who opposed the approved resolution plan. Both orders focus on the legal requirements for approving resolution plans under the Insolvency and Bankruptcy Code, 2016, and the limited scope of judicial review of the decisions of the Committee of Creditors (CoC) in approving such plans.
+
+### Suggested questions
+
+1. What are the key issues in dispute between M.S. Mining & Consultancy Private Limited and its creditors, and how does the Resolution Plan address them?
+
+2. What are the strengths and weaknesses of the Resolution Plan in terms of its feasibility, viability, and ability to satisfy the interests of all stakeholders?
+
+3. How has the NCLT addressed the legal and procedural challenges raised by creditors in relation to the Resolution Plan, and what are the implications for the future of the case?
+
+---
+
+# Briefing Doc: Resolution Plan for M/s. M. S. Mining and Consultancy Private Limited
+
+## Subject:
+Approval of Resolution Plan for M/s. M. S. Mining and Consultancy Private Limited under the Insolvency and Bankruptcy Code, 2016
+
+### Sources:
+- Order of the National Company Law Tribunal, Court-III, Mumbai Bench in I.A. No. 403 of 2022 in C.P. No. 2279 of 2019
+- Order of the National Company Law Tribunal, Court-III, Mumbai Bench in I.A 459 of 2022 in CP (IB) 2279 of 2019
+
+## Summary:
+The National Company Law Tribunal (NCLT) approved the Resolution Plan for the Corporate Debtor, M/s. M. S. Mining and Consultancy Private Limited ("Corporate Debtor"), submitted by M/s. Rudransh Agro & Co. ("Resolution Applicant"). The Resolution Plan was approved by the Committee of Creditors (CoC) with a 76.56% voting share. One unsecured financial creditor, Mr. Deepesh Asnani ("Applicant"), holding 23.44% voting share, abstained from voting and subsequently filed an application opposing the Resolution Plan. The NCLT dismissed the Applicant's objections and approved the Resolution Plan.
+
+## Key Themes:
+- **Commercial Wisdom of CoC:** The NCLT emphasized the paramount importance of the CoC's commercial wisdom in approving a resolution plan. The court's role is limited to scrutinizing the plan to ensure it meets the requirements of Section 30(2) of the Insolvency and Bankruptcy Code, 2016 ("Code").
+- **Limited Scope of Judicial Review:** The NCLT reiterated the limited scope of judicial review in matters relating to the approval of resolution plans. Courts cannot interfere with the commercial decisions of the CoC unless there are grounds specified in Section 30(2) of the Code.
+- **Treatment of Dissenting Creditors:** While the Code mandates fair treatment of dissenting creditors, the Applicant's abstention from voting did not classify him as a dissenting creditor for the purpose of the Resolution Plan.
+
+## Important Facts & Findings:
+- **Applicant's Claim:** The Applicant claimed Rs. 2,02,77,000 based on a Memorandum of Understanding for the purchase of equity shares in the Corporate Debtor. The NCLT observed that this agreement did not constitute a valid private placement offer under the Companies Act, 2013, and therefore treated it as a simple sale and purchase contract.
+- **Resolution Plan Payments:** The Resolution Plan proposed a total consideration of Rs. 3,45,00,000, payable to creditors in a phased manner. The Applicant was to receive Rs. 5,00,000, significantly lower than his claim. The NCLT found the plan compliant with the Code, noting that the liquidation value payable to the Applicant would be even less.
+- **Applicant's Objections:** The Applicant objected to the Resolution Plan on various grounds, including:
+  - The CIRP process exceeding the statutory timeline.
+  - Non-disclosure of information by the Resolution Professional.
+  - The Resolution Plan being unfair and inequitable.
+- **NCLT's Decision:** The NCLT addressed each objection, finding no merit in any. The court upheld the Resolution Professional's actions, including the timeline extensions granted by the NCLT itself. The court emphasized that:
+  - "The Resolution Plan is in compliance of the Regulation 38 of the Regulations in terms of Section 30(2)(f)."
+  - "The Resolution Plan meets the requirements of Section 30(2) of the Code and Regulations 37, 38, 38(1A) and 39(4) of the IBBI Regulations and is feasible and viable and deserves to be approved."
+
+## Key Quotes:
+- Regarding CoC's commercial wisdom: "Therefore, CoC's commercial or business decisions are not open to judicial review by the Adjudicating Authority or the Appellate Authority."
+- Regarding NCLT's limited scope: "Therefore, with respect to the decision taken by the Committee of Creditors by approving the Resolution Plan in its commercial wisdom with more than sixty-six percent, this Adjudicating Authority has a limited power of judicial review available to adjudicate the decision of the COC members or to intervene the commercial wisdom."
+
+## Conclusion:
+The NCLT's order reinforces the importance of the CoC's role in corporate insolvency resolution processes. The court's limited role in reviewing resolution plans ensures that commercial decisions are respected while safeguarding the interests of stakeholders. The dismissal of the Applicant's objections underscores the need for dissenting creditors to engage actively in the CIRP process and exercise their voting rights to impact the outcome.
+
+---
+
+# Timeline of Events
+
+## 2017:
+- **March 25:** Deepesh Asnani and M. S. Mining and Consultancy Private Limited (Corporate Debtor) sign a Memorandum of Understanding (MOU) for Asnani to invest in the company.
+- **March 27 - April 6:** Asnani pays Rs. 1,10,15,355/- as share application money to the Corporate Debtor, expecting to receive 33% of the company's equity shares in return.
+- **Later in 2017:** Corporate Debtor fails to issue the shares to Asnani despite issuing a cheque (which bounced) and a promissory note for the share application money with accrued interest.
+
+## 2019:
+- **Case filed:** The Standard Scientific Co., an operational creditor, files a case against the Corporate Debtor, leading to the commencement of the Corporate Insolvency Resolution Process (CIRP).
+
+## 2020:
+- **March 17:** The National Company Law Tribunal (NCLT), Mumbai Bench, initiates the CIRP of the Corporate Debtor.
+- **December 3:** The Resolution Professional (RP), Shri Srigini Rajat Naidu, publishes a public notice inviting Expressions of Interest (EOI) to submit a Resolution Plan for the Corporate Debtor.
+
+## 2021:
+- **July 26:** Statutory time limit for the completion of the CIRP is extended to this date.
+- **November 24:** Statutory time limit for CIRP completion, as per oral extension by NCLT.
+- **November 26:** Indian Bank (formerly Allahabad Bank), the secured financial creditor with 76.56% voting share, approves the proposed Resolution Plan. Deepesh Asnani (23.44% voting share) abstains from voting.
+
+## 2022:
+- **February 21:** The Resolution Professional and Indian Bank file replies opposing Asnani's application against the Resolution Plan.
+- **Application filed:** Deepesh Asnani files an Interlocutory Application (IA) with the NCLT opposing the approval of the Resolution Plan, claiming it is unfair and fails to meet legal requirements.
+
+## 2023:
+- **June 5:** NCLT reserves its order on Asnani's application and the Resolution Professional's application for approval of the Resolution Plan.
+- **June 30:** NCLT approves the Resolution Plan submitted by M/s. Rudransh Agro & Co. Asnani's application is dismissed.
+
+# Cast of Characters
+- **M/s. M. S. Mining and Consultancy Private Limited:** The Corporate Debtor, facing insolvency proceedings.
+  
+- **The Standard Scientific Co.:** The Operational Creditor that filed the initial case against the Corporate Debtor, leading to the CIRP.
+
+- **Shri Srigini Rajat Naidu:** The Resolution Professional appointed to oversee the CIRP of the Corporate Debtor. He is also the Chairperson of the monitoring committee for the approved Resolution Plan.
+
+- **Mr. Deepesh Asnani:** An Unsecured Financial Creditor who invested in the Corporate Debtor but did not receive the promised shares. He holds 23.44% voting share in the CoC and opposed the Resolution Plan.
+
+- **Indian Bank (formerly Allahabad Bank):** The Secured Financial Creditor of the Corporate Debtor, holding 76.56% voting share in the CoC. They approved the Resolution Plan.
+
+- **M/s. Rudransh Agro & Co.:** The Successful Resolution Applicant whose plan was approved by the NCLT. It is a partnership firm incorporated in 2020 dealing in manganese oxide and dioxide manufacturing and trading.
+
+### Partners of M/s. Rudransh Agro & Co.:
+- **Miss. Bharti Indal Hukre:** Partner since October 24, 2020. Member of the monitoring committee for the Resolution Plan.
+  
+- **Mr. Kaustubh Kishor Kolhe:** Partner since October 14, 2021.
+  
+- **Mr. Kishor Rambhau Kolhe:** Partner since October 14, 2021. Member of the monitoring committee for the Resolution Plan.
+
+---
+
+# Analysis of Insolvency and Bankruptcy Proceedings for M/s. M. S. Mining and Consultancy Private Limited
+
+## Source 1: Order of the National Company Law Tribunal, Court III, Mumbai Bench in I.A. No. 403 of 2022 IN C.P. No. 2279 of 2019
+
+### I. Case Background and Procedural History
+
+**A. Parties and Subject Matter:**  
+- This section introduces the parties involved: the operational creditor, the corporate debtor (M/s. M. S. Mining and Consultancy Private Limited), and the resolution professional.
+- The purpose of the application is to seek approval of the resolution plan for the corporate debtor.
+
+**B. Timeline of CIRP:**  
+- This section details key dates and events in the Corporate Insolvency Resolution Process (CIRP) for the debtor company, including:
+  - Initiation of the process
+  - Appointment of the resolution professional
+  - Submission of the resolution plan
+
+### II. Resolution Plan Details
+
+**A. Resolution Applicant:**  
+- Identifies the successful resolution applicant (SRA), M/s. Rudransh Agro & Co., outlining its business activities and proposed changes to the management structure of the corporate debtor.
+
+**B. Financial Proposal:**  
+- Outlines the total consideration offered by the SRA (Rs. 3,45,00,000) and provides a breakdown of fund allocation to different categories of creditors, including:
+  - CIRP costs
+  - Operational creditors
+  - Financial creditors
+  - Insolvency professional
+
+**C. Treatment of Liabilities:**  
+- Details the resolution plan's approach to various types of liabilities:
+  1. **Operational Creditors:** Explains payment structure, highlighting limited payment (Rs. 50,000 maximum) to operational creditors with dues related to taxes and statutory obligations.
+  2. **Financial Creditors:** Describes payment plans for secured and unsecured financial creditors.
+  3. **Other Liabilities:** Clarifies treatment of contingent liabilities, legal proceedings, contractual obligations, hidden liabilities, securities, and guarantees, aiming to extinguish most of these liabilities.
+  4. **Claims by the Corporate Debtor:** Asserts that existing and future claims by the corporate debtor against any person will remain unaffected by the resolution plan.
+
+### III. NCLT’s Observations and Approval of the Resolution Plan
+
+**A. Compliance with IBC Code:**  
+- Highlights the NCLT’s assessment of the resolution plan’s compliance with the Insolvency and Bankruptcy Code, 2016 (IBC Code), noting adherence to priority of payments and treatment of dissenting creditors.
+
+**B. Judicial Review of CoC Decisions:**  
+- References relevant Supreme Court judgments emphasizing the limited role of the NCLT in reviewing the commercial decisions of the Committee of Creditors (CoC), particularly when a plan is approved with the requisite voting share.
+
+**C. Final Order:**  
+- Presents the NCLT's final order, approving the resolution plan and outlining conditions for implementation, including:
+  - Effective date of the plan
+  - Cessation of the moratorium
+  - Monitoring of plan execution
+  - Distribution of records to relevant authorities
+
+## Source 2: Order of the National Company Law Tribunal, Court III, Mumbai Bench in I.A 459 of 2022 in CP (IB) 2279 of 2019
+
+### I. Introduction and Applicant’s Objections
+
+**A. Parties and Relief Sought:**  
+- Identifies the applicant, Mr. Deepesh Asnani, a dissenting unsecured financial creditor, and summarizes his objections to the approved resolution plan, which include:
+  - Challenging approval of the plan
+  - Seeking repayment of his investment
+  - Requesting access to case records
+
+**B. Applicant’s Grounds for Objection:**  
+- Elaborates on Mr. Asnani’s main arguments against the resolution plan:
+  1. **Nature of Investment:** Claims entitlement to a full refund of his investment as shares were never issued.
+  2. **Valuation of Assets:** Contends that the resolution plan fails to properly value the corporate debtor’s assets, sufficient to cover his claims.
+  3. **Procedural Concerns:** Alleges irregularities in the CIRP process, including lack of transparency and failure to address potentially fraudulent transactions.
+  4. **Unfair Treatment:** Asserts that the resolution plan unfairly favors Indian Bank at the expense of other creditors.
+
+### II. Responses of the Respondents
+
+**A. Resolution Professional’s Response:**  
+- Argues that the applicant's investment was a contractual agreement for share purchase and does not entitle him to a full refund in insolvency. Refutes allegations of procedural irregularities and highlights compliance with the IBC Code.
+
+**B. Indian Bank’s Response:**  
+- Supports the resolution plan, arguing that the applicant lacks grounds to challenge the CoC's commercially sound decision.
+
+### III. NCLT’s Analysis and Dismissal of the Application
+
+**A. Analysis of Applicant’s Contentions:**  
+- Examines Mr. Asnani’s objections, concluding that his investment was not in the form of a trust and that the asset valuation in the resolution plan is adequate. Finds no merit in allegations of procedural impropriety.
+
+**B. Reaffirmation of CoC’s Commercial Wisdom:**  
+- Reiterates the principle of limited judicial intervention in CoC decisions, relying on established Supreme Court precedents. Highlights that the applicant did not vote on the resolution plan, thus cannot challenge the outcome based on dissenting views.
+
+**C. Final Order:**  
+- Dismisses Mr. Asnani's application, upholding the CoC’s approval of the resolution plan. Finds no basis to interfere with the plan's implementation and reaffirms commitment to protecting the interests of all stakeholders in the insolvency process.
+
+---
+
+===== M.S. Mining and Consultancy Private Limited CIRP Study Guide =====
+
+==== Short-Answer Questions ====
+
+  - **What triggered the initiation of the Corporate Insolvency Resolution Process (CIRP) for M.S. Mining and Consultancy Private Limited?**  
+    An Operational Creditor, The Standard Scientific Co., filed an application against the Corporate Debtor, leading to the initiation of the CIRP by the National Company Law Tribunal (NCLT).
+
+  - **What was the primary objective of the Resolution Professional in the CIRP of M.S. Mining and Consultancy Private Limited?**  
+    The Resolution Professional aimed to find a viable resolution plan that would maximize recovery for the creditors while reviving the Corporate Debtor's business.
+
+  - **Explain the role and composition of the Committee of Creditors (CoC) in the CIRP.**  
+    The CoC comprised all financial creditors of the Corporate Debtor and was responsible for making decisions regarding the CIRP, including the approval of the Resolution Plan. They held voting rights proportional to their claims.
+
+  - **How was the voting conducted for the approval of the Resolution Plan, and what was the outcome?**  
+    Voting was conducted electronically, with the Resolution Plan receiving approval from 76.56% of the CoC members, exceeding the required threshold.
+
+  - **Describe the proposed structure and responsibilities of the monitoring committee for the implementation of the Resolution Plan.**  
+    The monitoring committee would be chaired by the Resolution Professional and include representatives from the CoC and the Resolution Applicant. This committee would oversee the implementation of the Resolution Plan, ensuring compliance and timely payments.
+
+  - **Detail the payment plan for the Financial Creditor (Secured) as per the approved Resolution Plan.**  
+    The Secured Financial Creditor, Indian Bank, would receive a total of Rs. 2,98,00,000/- in three installments, with the initial payment of Rs. 65,00,000/- to be made within 30 days of NCLT's approval of the Resolution Plan.
+
+  - **What is the proposed treatment of Operational Creditor claims in the Resolution Plan?**  
+    The Resolution Plan proposed a capped payment of Rs. 1,00,000/- for the Operational Creditor, excluding workmen, taxes, and statutory dues. Any claims beyond this amount would be extinguished.
+
+  - **Explain the concept of "extinguishment" of claims as related to the Resolution Plan.**  
+    Extinguishment refers to the cancellation or elimination of all claims that are not included in the approved Resolution Plan. This provides a clean slate for the Corporate Debtor under new ownership.
+
+  - **What is the role of the National Company Law Tribunal (NCLT) in the approval of the Resolution Plan?**  
+    The NCLT acts as the Adjudicating Authority, reviewing the Resolution Plan approved by the CoC to ensure it meets the requirements of the Insolvency and Bankruptcy Code (IBC). They have the authority to approve or reject the plan.
+
+  - **What was the main contention of the dissenting creditor, Mr. Deepesh Asnani, in challenging the Resolution Plan?**  
+    Mr. Asnani claimed he was entitled to a full refund of his share application money based on the Memorandum of Understanding, arguing that the proposed payout under the Resolution Plan was inadequate and unjust.
+
+==== Essay Questions ====
+
+  - **Analyze the implications of the NCLT's limited judicial review power in CIRP proceedings, particularly concerning the commercial wisdom of the CoC.**  
+    The NCLT's limited judicial review power is crucial as it reinforces the autonomy of the CoC in making commercial decisions. This deference to the CoC’s judgment encourages informed risk-taking and innovation in resolution plans. However, it may lead to potential inequities among stakeholders if dissenting creditors' concerns are not adequately addressed, as seen in Mr. Asnani's case.
+
+  - **Discuss the ethical considerations surrounding the treatment of Operational Creditors in Resolution Plans, particularly in cases where significant haircuts are applied.**  
+    The ethical treatment of Operational Creditors raises concerns about fairness and justice in insolvency proceedings. When significant haircuts are imposed, it challenges the principle of equitable treatment, often placing undue burdens on smaller creditors. Balancing the interests of all stakeholders while ensuring that operational creditors receive just compensation is a significant ethical dilemma.
+
+  - **Evaluate the effectiveness of the IBC in achieving its objectives of maximizing the value of assets and promoting entrepreneurship while balancing the interests of various stakeholders.**  
+    The IBC has been effective in reviving distressed companies and maximizing asset value through structured resolution processes. However, its effectiveness is sometimes challenged by the diverse interests of stakeholders, leading to conflicts and potential inequities, especially for Operational and Unsecured Creditors. The framework promotes entrepreneurship by providing a clear exit route, though the balance between competing interests remains a critical area for improvement.
+
+  - **Compare and contrast the roles and responsibilities of the Interim Resolution Professional and the Resolution Professional in a CIRP.**  
+    The Interim Resolution Professional is appointed at the onset of the CIRP to manage the initial phase, including taking control of the debtor’s assets and conducting meetings. In contrast, the Resolution Professional oversees the entire CIRP, focusing on formulating and executing the Resolution Plan. While both roles require similar skills, the Resolution Professional typically has broader responsibilities, including monitoring compliance with the approved plan.
+
+  - **Critically examine the concept of "extinguishment" of claims in the context of ensuring a fair and equitable outcome for all stakeholders in a CIRP.**  
+    The extinguishment of claims can provide a fresh start for the Corporate Debtor but raises concerns about fairness, particularly for creditors who may not receive adequate compensation. While it simplifies the resolution process and encourages new ownership, it can disproportionately affect Unsecured and Operational Creditors, leading to calls for more equitable treatment mechanisms within the IBC framework.
+
+==== Glossary of Key Terms ====
+
+  - **CIRP**: Corporate Insolvency Resolution Process, a time-bound process under the IBC to revive financially distressed companies.
+  - **Resolution Professional (RP)**: An insolvency professional appointed to manage the CIRP, collect information, and facilitate the development and approval of a resolution plan.
+  - **Committee of Creditors (CoC)**: A committee consisting of all financial creditors of the Corporate Debtor, responsible for making key decisions during the CIRP, including the approval of the resolution plan.
+  - **Resolution Plan**: A plan proposed by a Resolution Applicant outlining how they intend to revive the Corporate Debtor and repay creditors.
+  - **Resolution Applicant (RA)**: An entity that submits a resolution plan for the Corporate Debtor, proposing to take over the company and implement the plan.
+  - **Operational Creditor**: A creditor who has provided goods or services to the Corporate Debtor and has not received payment.
+  - **Financial Creditor**: A creditor who has provided financial assistance to the Corporate Debtor, such as loans or investments.
+  - **Secured Creditor**: A creditor whose debt is backed by a security interest in the assets of the Corporate Debtor.
+  - **Unsecured Creditor**: A creditor whose debt is not backed by any security interest in the assets of the Corporate Debtor.
+  - **Liquidation Value**: The estimated value of the Corporate Debtor's assets if they were sold in a liquidation scenario.
+  - **Extinguishment**: The cancellation or elimination of all claims that are not included in the approved Resolution Plan.
+  - **National Company Law Tribunal (NCLT)**: A quasi-judicial body in India that adjudicates matters relating to company law, including CIRP proceedings.
+  - **Insolvency and Bankruptcy Code (IBC)**: The Indian legislation governing the insolvency and bankruptcy processes for individuals, partnerships, and companies.
+
+---
+
+# M/s. M. S. Mining and Consultancy Private Limited FAQ
+
+## What is the purpose of the application filed under Section 30(6) and Section 31 of the Insolvency and Bankruptcy Code, 2016?
+The application seeks approval for the Resolution Plan of M/s. M. S. Mining and Consultancy Private Limited ("Corporate Debtor") from the National Company Law Tribunal (NCLT). The Resolution Plan was submitted by Mr. Srigini Rajat Naidu, the Resolution Professional appointed for the Corporate Debtor, and received approval from 76.56% of the Committee of Creditors (CoC).
+
+## What is the proposed Resolution Plan and how will it address the Corporate Debtor's financial distress?
+The Resolution Plan involves a total consideration of Rs. 3,45,00,000/- to be paid over 90 days, primarily funded by partner contributions from M/s. Rudransh Agro & Co., the successful Resolution Applicant (SRA). The plan prioritizes payment of CIRP costs, followed by phased payments to financial and operational creditors. Notably, it proposes a significant haircut for operational creditors, with most receiving a maximum of Rs. 50,000/- regardless of their admitted claims. The plan aims to revive the Corporate Debtor by infusing capital and restructuring its operations under the SRA's management.
+
+## What is the role of the NCLT in approving the Resolution Plan?
+The NCLT's role is to review the Resolution Plan to ensure it complies with the requirements of Section 30(2) of the Insolvency and Bankruptcy Code, 2016. This includes verifying if it provides for payment of insolvency process costs, adheres to the priority of payments, offers dissenting creditors at least the liquidation value, includes a plan for implementation, and doesn't violate any existing laws. The NCLT's review is limited to these aspects, respecting the CoC's commercial wisdom in approving the plan.
+
+## What is the Liquidation Value of the Corporate Debtor, and how does it compare to the payout proposed in the Resolution Plan?
+Although the exact liquidation value isn't stated in the provided excerpts, the Resolution Plan acknowledges that operational creditors would receive a lower amount compared to the liquidation scenario. This is justified due to limited available funds and the plan's goal of reviving the company, which is deemed more beneficial for stakeholders than liquidation.
+
+## Why is Mr. Deepesh Asnani objecting to the Resolution Plan?
+Mr. Asnani, an unsecured financial creditor with a 24.44% voting share in the CoC, objects to the Resolution Plan on several grounds. He argues that the CIRP process was conducted unfairly, information wasn't adequately disclosed, and the valuation of assets was not properly done. Asnani contends that the plan unfairly favors the secured creditor, Indian Bank, leaving him with a significantly reduced payout compared to his original investment.
+
+## What is the basis of Mr. Asnani's claim of Rs. 2,02,77,000/-?
+Asnani claims that he invested Rs. 1,10,15,355/- in the Corporate Debtor under a Memorandum of Understanding, expecting a 33% equity stake in return. However, the shares were never issued. He argues that this investment, along with accrued interest, forms the basis of his claim, which he believes should be treated differently than regular unsecured debt.
+
+## What is the NCLT's decision regarding Mr. Asnani's objections?
+The NCLT dismissed Mr. Asnani's objections, upholding the CoC's decision to approve the Resolution Plan. The tribunal reasoned that the CoC's commercial wisdom should be respected and that its jurisdiction is limited to reviewing the plan's compliance with the legal requirements of the Insolvency and Bankruptcy Code. The NCLT concluded that the plan meets these requirements and, therefore, approved it.
+
+## What are the implications of the NCLT's approval of the Resolution Plan?
+The approval makes the Resolution Plan binding on all stakeholders, including the Corporate Debtor, its employees, creditors, and the government. The moratorium on legal proceedings against the Corporate Debtor is lifted, allowing for the plan's implementation. Any claims not included in the plan are extinguished, providing a clean slate for the revived company under the SRA's management. The Resolution Professional and Monitoring Committee will oversee the plan's execution, reporting periodically to the NCLT.
+
+---

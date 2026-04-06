@@ -1,0 +1,31 @@
+~~NOTOC~~
+
+[[Sanskai]]
+
+<WRAP column 45%>
+==== IBBI Orders ====
+    * [[ibbi_orders:supreme_court:supreme_court_table|Supreme Court]]
+    * [[ibbi_orders:high_court:high_court_table|High Court]]
+    * [[ibbi_orders:nclat_court:nclat_court_table|NCLAT]]
+    * [[ibbi_orders:nclt_court:nclt_court_table|NCLT]]
+    * [[ibbi_orders:drat_court:drat_court_table|DRAT]]
+    * [[ibbi_orders:drt_court:drt_court_table|DRT]]
+    * [[ibbi_orders:ibbi_court:ibbi_court_table|IBBI]]
+    * [[ibbi_orders:iparvo_court:iparvo_court_table|IPA/RVO]]
+    * [[ibbi_orders:other_court:other_court_table|OTHER]]
+</WRAP>
+
+<WRAP column 45%>
+==== Outcomes ====
+  * [[outcomes:resolution_orders|Resolution Orders]]
+  * [[outcomes:liquidation_orders|Liquidation Orders]]
+
+
+==== Miscellaneous ====
+  * [[miscellaneous:ibbi_newsletters|IBBI Newsletters]]
+  * [[miscellaneous:opinion_articles|Opinion Articles]]
+  * [[miscellaneous:landmark_judgements|Landmark Judgements]]
+  * [[miscellaneous:learning_curves|Learning Curves]]
+
+
+</WRAP>

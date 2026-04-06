@@ -1,0 +1,79 @@
+<WRAP group>
+
+<WRAP half column>
+
+Course Outline - Begineers
+
+1 Introduction to Prompt Engineering
+  * What is Prompt Engineering?
+  * Why does it matter?
+  * Quiz: Test your understanding of prompts
+
+2 What Makes a Good Prompt?
+  * Characteristics of effective prompts
+  * Assignment: Create and refine your first prompt
+
+3 Understanding LLMs
+  * How LLMs work, their capabilities, and limitations
+  * Experiment: Use ChatGPT to count tokens
+
+4 Solving Complex Problems
+  * Techniques for tackling intricate challenges with AI
+  * Assignment: Apply advanced strategies to solve a problem
+
+5 Managing Conflicting Outputs
+  * Handling inconsistencies in AI-generated responses
+  * Assignment: Guide AI through a scenario for accurate results
+
+6 Identifying Hallucinations
+  * Recognize and address AI hallucinations
+  * Assignment: Analyze responses for factual accuracy
+
+7 Addressing Bias in AI
+  * Understand how bias manifests in AI outputs
+  * Assignment: Detect and mitigate bias in generated responses
+
+8 Combining Prompting Techniques
+  * Integrate multiple techniques for optimal results
+  * Assignment: Develop a multi-layered prompt
+
+9 Risks and Ethical Concerns
+  * Explore ethical risks and responsibilities in AI use
+  * Quiz: Reflect on best practices for responsible AI interactions
+</WRAP>
+
+<WRAP half column>
+
+Course Outline - Advance
+
+1 In-Context Learning
+  * Basics of Few-Shot Prompting
+  * Factors Influencing Performance in Few-Shot In-Context Learning
+  * Self-Generated In-context Learning Prompting (SG-ICL)
+
+2 Thought Generation Prompting
+  * Basics of Thought Generation Prompting
+  * Chain-of-Thought Prompting (CoT)
+  * Thread-of-Thought Prompting (ThoT)
+  * Contrastive Chain-of-Thought Prompting (CCoT)
+  * Self-Ask Prompting (SA)
+  * Tabular Chain of Thought Prompting (Tab-CoT)
+
+3 Problem Decomposition Prompting
+  * Basics of Problem Decomposition Prompting
+  * Least-to-Most Prompting (LtM)
+  * Plan-and-Solve Prompting (PaS)
+  * Program-of-Thoughts Prompting (PoTh)
+
+4 Self-Criticism Prompting
+  * Basics of Self-Criticism Prompting
+  * Self-Evaluation Prompting (SE)
+  * Self-Refine Prompting (SR)
+  * Chain-of-Verification Prompting (COVE)
+  * System 2 Attention Prompting (S2A)
+  * Rephrase and Respond Prompting (RaR)
+  * Re-reading Prompting (RE2)
+
+</WRAP>
+
+</WRAP>

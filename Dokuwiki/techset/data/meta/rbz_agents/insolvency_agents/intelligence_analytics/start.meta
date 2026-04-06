@@ -1,0 +1,13 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1763049755;s:8:"modified";i:1763049755;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:8:"relation";a:2:{s:10:"references";a:7:{s:107:"rbz_agenbots:insolvency_agents:intelligence_analytics:predictive_intelligence:default_forecasting_agent_dfa";b:0;s:109:"rbz_agenbots:insolvency_agents:intelligence_analytics:predictive_intelligence:fraud_risk_detection_agent_frda";b:0;s:106:"rbz_agenbots:insolvency_agents:intelligence_analytics:predictive_intelligence:recovery_value_predictor_rvp";b:0;s:106:"rbz_agenbots:insolvency_agents:intelligence_analytics:predictive_intelligence:sentiment_analysis_agent_saa";b:0;s:106:"rbz_agenbots:insolvency_agents:intelligence_analytics:strategic_analytics:resolution_success_predictor_rsp";b:0;s:103:"rbz_agenbots:insolvency_agents:intelligence_analytics:strategic_analytics:scenario_simulation_agent_ssa";b:0;s:108:"rbz_agenbots:insolvency_agents:intelligence_analytics:strategic_analytics:performance_benchmarking_agent_pba";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:426:"V. Intelligence & Analytics Division
+Predictive, prescriptive, and sentiment-based analytics agents.
+
+	* Predictive Intelligence Agents
+		* Default Forecasting Agent (DFA)
+		* Fraud Risk Detection Agent (FRDA)
+		* Recovery Value Predictor (RVP)
+		* Sentiment Analysis Agent (SAA)
+
+	* Strategic Analytics Agents
+		* Resolution Success Predictor (RSP)
+		* Scenario Simulation Agent (SSA)
+		* Performance Benchmarking Agent (PBA)";}s:5:"title";N;s:11:"last_change";a:10:{s:4:"date";i:1763049755;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:57:"rbz_agents:insolvency_agents:intelligence_analytics:start";s:4:"user";s:0:"";s:3:"sum";s:23:"created - external edit";s:5:"extra";s:0:"";s:10:"sizechange";i:1157;s:9:"timestamp";i:1763049755;s:4:"mode";s:4:"page";}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1763049755;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:10:{s:4:"date";i:1763049755;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:57:"rbz_agents:insolvency_agents:intelligence_analytics:start";s:4:"user";s:0:"";s:3:"sum";s:23:"created - external edit";s:5:"extra";s:0:"";s:10:"sizechange";i:1157;s:9:"timestamp";i:1763049755;s:4:"mode";s:4:"page";}}}

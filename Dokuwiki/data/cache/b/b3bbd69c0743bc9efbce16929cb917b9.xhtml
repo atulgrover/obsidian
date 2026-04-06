@@ -1,0 +1,133 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Creditor Information Management Agent (CIMA)&quot;,
+&quot;agentDescription&quot;: &quot;Centralizes, manages, validates, and analyzes creditor data and claims throughout the insolvency resolution process (CIRP) or liquidation. Ensures accurate record-keeping, facilitates claim verification, supports Committee of Creditors (CoC) formation, and tracks communications related to claims.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Maintain a comprehensive and accurate database of all potential and actual creditors.&quot;,
+  &quot;Systematically categorize creditors (Financial, Operational, Secured, Unsecured, Employees, Statutory Dues, etc.).&quot;,
+  &quot;Track the submission, verification, and admission/rejection status of all creditor claims.&quot;,
+  &quot;Facilitate the validation of submitted claims against the corporate debtor&#039;s records.&quot;,
+  &quot;Calculate voting shares for financial creditors in the Committee of Creditors (CoC) based on admitted claims.&quot;,
+  &quot;Generate accurate and compliant List of Creditors reports for regulatory filings (e.g., NCLT, IBBI) and CoC meetings.&quot;,
+  &quot;Maintain a log of communications specifically related to individual claims or creditor groups.&quot;,
+  &quot;Provide analytics on creditor composition and claim values.&quot;,
+  &quot;Ensure all known creditors are included in initial notifications and subsequent relevant communications.&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Creditor Database Management: Stores creditor details (name, address, contact info, category, bank details for payment).&quot;,
+  &quot;Claim Intake &amp; Tracking: Records submitted claim forms (e.g., Forms B, C, D, E, F under IBC) and associated documentation.&quot;,
+  &quot;Claim Verification Workflow Support: Allows IPs/RPs or their team to review claims, compare against debtor records, record verification status (admitted amount, rejected amount, pending clarification), and add verification notes.&quot;,
+  &quot;Document Association: Links submitted proof documents (contracts, invoices, etc.) to specific claims.&quot;,
+  &quot;CoC Formation Support: Automatically calculates voting shares based on admitted financial debt as a percentage of the total admitted financial debt.&quot;,
+  &quot;Reporting Engine: Generates List of Creditors, CoC Composition reports, Claim Status summaries in predefined formats.&quot;,
+  &quot;Communication Logging: Allows linking communication records (e.g., emails regarding claim deficiencies) to specific creditor entries or claims (potential integration with SCMA).&quot;,
+  &quot;Duplicate Creditor/Claim Detection: Flags potential duplicate entries for review.&quot;,
+  &quot;Audit Trail: Logs changes made to creditor data and claim statuses.&quot;,
+  &quot;Data Import/Export: Allows bulk import of initial creditor lists and export of data/reports.&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Insolvency Professionals (IPs) / Resolution Professionals (RPs)&quot;,
+  &quot;Liquidators&quot;,
+  &quot;Teams supporting the IP/RP/Liquidator (Claims Verification Team)&quot;,
+  &quot;Legal Counsel advising the IP/RP/Liquidator&quot;,
+  &quot;Members of the CoC (receiving reports)&quot;,
+  &quot;Applicants (Financial/Operational Creditors) initially providing data (potentially via a portal)&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Corporate Debtor&#039;s list of creditors from books of accounts.&quot;,
+  &quot;Submitted Claim Forms from creditors.&quot;,
+  &quot;Evidence/Proof documents submitted with claims.&quot;,
+  &quot;Corporate Debtor&#039;s Financial Records (for verification).&quot;,
+  &quot;Details of Security Interests held by creditors.&quot;,
+  &quot;Contact information for all identified creditors.&quot;,
+  &quot;Verification decisions made by the IP/RP/Liquidator.&quot;,
+  &quot;Communication records related to specific claims.&quot;,
+  &quot;Liquidation Value/Fair Value reports (context for CoC voting shares/recoveries).&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Comprehensive List of Creditors Report (PDF, CSV, XLSX - categorized, with claim status, admitted amounts).&quot;,
+  &quot;Committee of Creditors (CoC) Composition Report with Voting Shares (PDF, XLSX).&quot;,
+  &quot;Individual Claim Verification Summary.&quot;,
+  &quot;Claim Status Dashboard/Report.&quot;,
+  &quot;Data Exports (JSON, CSV) for backup or analysis.&quot;,
+  &quot;Audit logs of claim management activities.&quot;,
+  &quot;Formatted reports suitable for submission to NCLT/IBBI.&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Ensures accuracy and consistency in creditor data and claim amounts.&quot;,
+  &quot;Streamlines the complex and time-consuming process of claim management.&quot;,
+  &quot;Facilitates timely and accurate formation of the CoC.&quot;,
+  &quot;Enhances compliance with statutory requirements for creditor management and reporting.&quot;,
+  &quot;Provides transparency and a clear audit trail for the claim verification process.&quot;,
+  &quot;Reduces administrative burden on the IP/RP/Liquidator.&quot;,
+  &quot;Centralized repository reduces risk of lost information or overlooking creditors.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Data Storage&quot;,
+    &quot;tools&quot;: [
+      &quot;Relational Databases (e.g., PostgreSQL, MySQL, SQL Server - highly suitable for structured creditor/claim data and relationships)&quot;,
+      &quot;Cloud Storage / File System (e.g., S3, Azure Blob - for storing submitted documents/evidence)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Acquisition &amp; Processing&quot;,
+    &quot;tools&quot;: [
+      &quot;Database Connectors (SQL)&quot;,
+      &quot;Spreadsheet Processing Libraries (e.g., Pandas, openpyxl)&quot;,
+      &quot;File Parsers (e.g., for reading claim forms if submitted digitally, PDF text extraction)&quot;,
+      &quot;OCR Tools (Optional, for scanned claim forms/evidence)&quot;,
+      &quot;Data Validation Libraries (e.g., Cerberus, Pydantic)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Backend &amp; Workflow&quot;,
+    &quot;tools&quot;: [
+      &quot;Programming Languages (e.g., Python, Java, C#)&quot;,
+      &quot;Web Frameworks (if UI is needed - Flask, Django, Spring Boot, ASP.NET Core)&quot;,
+      &quot;Workflow Engines (Optional, for managing verification steps - e.g., Camunda, Prefect)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Calculation &amp; Analysis&quot;,
+    &quot;tools&quot;: [
+       &quot;Standard math/decimal libraries for accurate financial calculations (voting shares, total claims)&quot;,
+       &quot;Data analysis libraries (Pandas) for generating insights.&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Reporting &amp; Output&quot;,
+    &quot;tools&quot;: [
+      &quot;PDF Generation Libraries (ReportLab, iTextSharp, FPDF)&quot;,
+      &quot;Spreadsheet Writing Libraries (openpyxl, Apache POI)&quot;,
+      &quot;Data Visualization Libraries (Optional, for dashboards - Plotly, Matplotlib)&quot;
+    ]
+  },
+  {
+     &quot;toolCategory&quot;: &quot;Communication Logging Integration&quot;,
+     &quot;tools&quot;: [
+        &quot;APIs to potentially connect with SCMA or email systems (if logging direct communications)&quot;,
+        &quot;Internal logging mechanisms within the database&quot;
+      ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;User Interface (If applicable)&quot;,
+    &quot;tools&quot;: [
+       &quot;Frontend Frameworks (React, Angular, Vue.js)&quot;
+     ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Security&quot;,
+    &quot;tools&quot;: [
+       &quot;Authentication &amp; Authorization libraries/frameworks&quot;
+    ]
+  }
+]</pre>
+
+<p>
+}
+</p>

@@ -1,0 +1,1356 @@
+#
+# Case Summary
+
+# Case Summary: Mobilox Innovations Pvt. Ltd. v. Kirusa Software Pvt. Ltd.
+
+# Case Details
+
+- Civil Appeal No.: 9405 of 2017
+- Decided on: 21-Sep-17
+- Coram: Mr. Justice R.F. Nariman and Mr. Justice Sanjay Kishan Kaul
+
+# Additional Information
+
+Impugned Order: Kirusa Software Pvt. Ltd. v. Mobilox Innovations Pvt. Ltd. (2017) ibclaw.in 22 NCLAT.
+
+# Brief about the Decision
+
+In this judgment, the Supreme Court determined the role of the Adjudicating Authority in examining an application under Section 9 of IBC filed by Operational Creditors and interpreted the concept of 'dispute', essential timelines during the triggering of CIRP, and other related aspects.
+
+# Facts of the Case
+
+- The appellant was engaged by Star TV for conducting tele-voting for the "Nach Baliye" program.
+- Operational Creditor provided services to the Corporate Debtor and raised monthly invoices between December 2013 and November 2014.
+- A non-disclosure agreement (NDA) was executed between the parties on 26.12.2014.
+- Due to non-payment of dues, a demand notice was sent by Operational Creditor under Section 8 of the Code.
+- The Corporate Debtor responded stating the existence of disputes between the parties.
+
+# Decision of the NCLT and NCLAT
+
+- The NCLT rejected the application under Section 9 of the Code citing a disputed default payment.
+- The NCLAT set aside the NCLT's order and remitted the case for further consideration.
+
+Print Date: June 6, 2024
+---
+#
+
+# Document
+
+# Segment 1: Decision of the Supreme Court
+
+In the present case, the adjudicating authority has acted mechanically and rejected the application under sub-section (5)(ii)(d) of Section 9 without examining and discussing the issue. If the adjudicating authority would have noticed the provisions and what constitutes ‘dispute’ in relation to services provided by operational creditors, then it would have come to a conclusion that the condition of demand notice under sub-section (2) of Section 8 has not been fulfilled by the corporate debtor and defense claiming dispute was not only vague, got up and motivated to evade the liability. NCLAT set aside the order passed by NCLT.
+
+# Decision of the Supreme Court
+
+1. The word “and” occurring in Section 8(2)(a) must be read as “or”
+2. - Hon’ble Supreme Court held that so far as an operational creditor is concerned, a demand notice of an unpaid operational debt or copy of an invoice demanding payment of the amount involved must be delivered in the prescribed form. The corporate debtor is then given a period of 10 days from the receipt of the demand notice or copy of the invoice to bring to the notice of the operational creditor the existence of a dispute, if any. We have also seen the notes on clauses annexed to the Insolvency and Bankruptcy Bill of 2015, in which “the existence of a dispute” alone is mentioned. Even otherwise, the word “and” occurring in Section 8(2)(a) must be read as “or” keeping in mind the legislative intent. (p29)
+
+Author’s Note: After this judgment, the Parliament has substituted the word “and” occurring in Section 8(2)(a) with the word “or” by the Insolvency and Bankruptcy Code (Second Amendment) Act, 2018, w.e.f. 06.06.2018.
+
+# Role of the Adjudicating Authority while examining an Application under Section 9 of IBC
+
+- A demand notice of an unpaid operational debt or copy of an invoice demanding payment of the amount involved must be delivered in the prescribed form. (p29)
+- One of the objects of the Code qua operational debts is to ensure that the amount of such debts, which is usually smaller than that of financial debts, does not enable operational creditors to put the corporate debtor into the insolvency resolution process prematurely or initiate the process for extraneous considerations. It is for this reason that it is enough that a dispute exists between the parties. (p29)
+- The adjudicating authority, when examining an application under Section 9 of the Act will have to determine:
+
+1. Whether there is an “operational debt” as defined exceeding Rs.1 lakh? (See Section 4 of the Act)
+2. Whether the documentary evidence furnished with the application shows that the aforesaid debt is due and payable and has not yet been paid? and
+3. Whether there is existence of a dispute between the parties or the record of the pendency of a suit or arbitration proceeding filed before the receipt of the demand notice of the unpaid operational debt in relation to such dispute?
+
+Print Date: June 6, 2024
+---
+#
+
+# Document
+
+# Segment 1
+
+- If any one of the aforesaid conditions is lacking, the application would have to be rejected.
+- Apart from the above, the adjudicating authority must follow the mandate of Section 9 and in particular the mandate of Section 9(5) of the Act, and admit or reject the application, as the case may be, depending upon the factors mentioned in Section 9(5) of the Act.(p25)
+
+# Segment 2
+
+- Once the operational creditor has filed an application, which is otherwise complete, the adjudicating authority must reject the application under Section 9(5)(2)(d) if notice of dispute has been received by the operational creditor or there is a record of dispute in the information utility. It is clear that such notice must bring to the notice of the operational creditor the “existence” of a dispute or the fact that a suit or arbitration proceeding relating to a dispute is pending between the parties.(p40)
+- All that the adjudicating authority is to see at this stage is whether there is a plausible contention which requires further investigation and that the “dispute” is not a patently feeble legal argument or an assertion of fact unsupported by evidence. It is important to separate the grain from the chaff and to reject a spurious defence which is mere bluster.(p40)
+- However, in doing so, the Court does not need to be satisfied that the defence is likely to succeed. The Court does not at this stage examine the merits of the dispute except to the extent indicated above. So long as a dispute truly exists in fact and is not spurious, hypothetical or illusory, the adjudicating authority has to reject the application.(p40)
+
+# Segment 3
+
+The most quoted paragraph of this judgment in various subsequent judgments is reproduced here:
+
+Copy from below and paste special in your submission:
+
+In Mobilox Innovations Pvt. Ltd. Vs. Kirusa Software Pvt. Ltd. (2017) ibclaw.in 01 SC, Hon’ble Supreme Court held that:
+
+“40. It is clear, therefore, that once the operational creditor has filed an application, which is otherwise complete, the adjudicating authority must reject the application under Section 9(5)(2)(d) if notice of dispute has been received by the operational creditor or there is a record of dispute in the information utility. It is clear that such notice must bring to the notice of the operational creditor the “existence” of a dispute or the fact that a suit or arbitration proceeding relating to a dispute is pending between the parties. Therefore, all that the adjudicating authority is to see at this stage is whether there is a plausible contention which requires further investigation and that the “dispute” is not a patently feeble legal argument or an assertion of fact unsupported by evidence. It is important to separate the grain from the chaff and to reject a spurious defence which is mere bluster. However, in doing so, the Court does not need to be satisfied that the defence is likely to succeed. The Court does not at this stage examine the merits of the dispute except to the extent indicated above. So long as a dispute truly exists in fact and is not spurious, hypothetical or illusory, the adjudicating authority has to reject the application.”
+
+Print Date: June 6, 2024
+---
+#
+
+# IV. What is meaning of ‘dispute’ and what is ‘existence of the dispute’ [Section 5(6) of IBC]
+
+- What is important is that the existence of the dispute and/or the suit or arbitration proceeding must be pre-existing – i.e. it must exist before the receipt of the demand notice or invoice, as the case may be.(p24)
+- It is enough that a dispute exists between the parties.(p29)
+- The definition is an inclusive one, and the word “includes” substituted the word “means” which occurred in the first Insolvency and Bankruptcy Bill. A “dispute” is said to exist, so long as there is a real dispute as to payment between the parties that would fall within the inclusive definition contained in Section 5(6).(p43)
+- A dispute does truly exist in fact between the parties, which may or may not ultimately succeed.(p45)
+
+# V. Timelines within which the CIRP is to be triggered
+
+- Another thing of importance is the timelines within which the insolvency resolution process is to be triggered. The corporate debtor is given 10 days from the date of receipt of demand notice or copy of invoice to either point out that a dispute exists between the parties or that he has since repaid the unpaid operational debt. If neither exists, then an application once filed has to be disposed of by the adjudicating authority within 14 days of its receipt, either by admitting it or rejecting it.
+- An appeal can then be filed to the Appellate Tribunal under Section 61 of the Act within 30 days of the order of the Adjudicating Authority with an extension of 15 further days and no more.
+- Section 64 of the Code mandates that where these timelines are not adhered to, either by the Tribunal or by the Appellate Tribunal, they shall record reasons for not doing so within the period so specified and extend the period so specified for another period not exceeding 10 days.
+- The strict adherence of these timelines is of essence to both the triggering process and the insolvency resolution process.
+- Both the Tribunal and the Appellate Tribunal will do well to keep in mind this principal objective sought to be achieved by the Code and will strictly adhere to the time frame within which they are to decide matters under the Code.(p26-27)
+
+# VI. Certificate from Financial Institution
+
+The confirmation from a financial institution that there is no payment of an unpaid operational debt by the corporate debtor is an important piece of information that needs to be placed before the adjudicating authority, under Section 9 of the Code, but given the fact that the adjudicating authority has not dismissed the application on this ground and that the appellant has raised this ground only at the appellate stage, we are of the view that the application cannot be dismissed at the threshold for want of this certificate alone.(p41)
+
+# VII. Decision on the present case
+
+According to learned counsel for the respondent, the definition of “dispute” would indicate that since the NDA does not fall within any of the three sub-clauses of Section 5(6), no “dispute” is there on the facts of this case. We are afraid that we cannot accede to such a
+---
+#
+
+# Document
+
+# Segment 1
+
+Contention. First and foremost, the definition is an inclusive one, and we have seen that the word “includes” substituted the word “means” which occurred in the first Insolvency and Bankruptcy Bill. Secondly, the present is not a case of a suit or arbitration proceeding filed before receipt of notice – Section 5(6) only deals with suits or arbitration proceedings which must “relate to” one of the three sub-clauses, either directly or indirectly. We have seen that a “dispute” is said to exist, so long as there is a real dispute as to payment between the parties that would fall within the inclusive definition contained in Section 5(6). The correspondence between the parties would show that on 30th January, 2015, the appellant clearly informed the respondent that they had displayed the appellant’s confidential client information and client campaign information on a public platform which constituted a breach of trust and a breach of the NDA between the parties. They were further told that all amounts that were due to them were withheld till the time the matter is resolved. On 10th February, 2015, the respondent referred to the NDA of 26th December, 2014 and denied that there was a breach of the NDA. The respondent went on to state that the appellant’s claim is unfounded and untenable, and that the appellant is trying to avoid its financial obligations, and that a sum of Rs.19,08,202.57 should be paid within one week, failing which the respondent would be forced to explore legal options and initiate legal process for recovery of the said amount. This e-mail was refuted by the appellant by an e-mail dated 26th February, 2015 and the appellant went on to state that it had lost business from various clients as a result of the respondent’s breaches. Curiously, after this date, the respondent remained silent, and thereafter, by an e-mail dated 20th June, 2016, the respondent wished to revive business relations and stated that it would like to follow up for payments which are long stuck up. This was followed by an e-mail dated 25th June, 2016 to finalize the time and place for a meeting. On 28th June, 2016, the appellant wrote to the respondent again to finalize the time and place. Apparently, nothing came of the aforesaid e-mails and the appellant then fired the last shot on 19th September, 2016, reiterating that no payments are due as the NDA was breached.
+
+# Segment 2
+
+Going by the aforesaid test of “existence of a dispute”, it is clear that without going into the merits of the dispute, the appellant has raised a plausible contention requiring further investigation which is not a patently feeble legal argument or an assertion of facts unsupported by evidence. The defense is not spurious, mere bluster, plainly frivolous or vexatious. A dispute does truly exist in fact between the parties, which may or may not ultimately succeed, and the Appellate Tribunal was wholly incorrect in characterizing the defense as vague, got-up and motivated to evade liability.
+
+# Segment 3
+
+Learned counsel for the respondent, however, argued that the breach of the NDA is a claim for unliquidated damages which does not become crystallized until legal proceedings are filed, and none have been filed so far. The period of limitation for filing such proceedings has admittedly not yet elapsed. Further, the appellant has withheld amounts that were due to the respondent under the NDA till the matter is resolved. Admittedly, the matter has never been resolved. Also, the respondent itself has not commenced any legal proceedings after the e-mail dated 30th January, 2015 except for the present insolvency application, which was filed almost 2 years after the said e-mail. All these circumstances go to show that it is right to have the matter tried out in the present case before the axe falls.
+
+# Segment 4
+
+The present appeal is allowed and the judgment of the Appellate Tribunal is set aside. There shall, however, be no order as to costs.
+---
+#
+
+# IBC Laws
+
+# Judgment/Order
+
+# Judgment
+
+R.F. Nariman, J.
+
+# 1. Background
+
+The present appeal raises questions as to the triggering of the Insolvency and Bankruptcy Code, 2016 when it comes to operational debts owed to operational creditors. The appellant was engaged by Star TV for conducting tele-voting for the “Nach Baliye” program on Star TV. The appellant in turn sub-contracted the work to the respondent and issued purchase orders between October and December, 2013 in favour of the respondent. In the “Nach Baliye” program, the successful dancer was to be selected on various bases, including viewers’ votes. For this purpose, the respondent was to provide toll free telephone numbers across India, through which the viewers of the program could cast their votes in favour of one or more participants. For this purpose, a software was customized by the respondent, who then coordinated the results and provided them to the appellant. Since the respondent obtained toll free numbers from telephone operators in terms of the purchase orders, the appellant was liable to make payment of rentals for the toll free numbers, as well as primary rate interface rental to the telecom operators. The respondent provided the requisite services and raised monthly invoices between December, 2013 and November, 2014 – the invoices were payable within 30 days from the date on which they were received. The respondent followed up with the appellant for payment of pending invoices through e-mails sent between April and October, 2014. It is also important to note that a non-disclosure agreement (hereinafter referred to as the NDA) was executed between the parties on 26th December, 2014 with effect from 1st November, 2013.
+
+# 2. Dispute
+
+More than a month after execution of the aforesaid agreement, the appellant, on 30th January, 2015, wrote to the respondent that they were withholding payments against invoices raised by the respondent, as the respondent had disclosed on their webpage that they had worked for the “Nach Baliye” program run by Star TV, and had thus breached the NDA. The correspondence between the parties finally culminated in a notice dated 12th December, 2016 sent under Section 271 of the Companies Act, 2013. Presumably because winding up on the ground of being unable to pay one’s debts was no longer a ground to wind up a company under the said Act, a demand notice dated 23rd December, 2016 was sent for a total of Rs.20,08,202.55 under Section 8 of the new Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as the Code). By an e-mail dated 27th December, 2016, the appellant responded to the aforesaid notice stating that there exists serious and bona fide disputes between the parties, that the notice issued was a pressure tactic, and that nothing was payable inasmuch as the respondent had been told way back on 30th January, 2015 that no amount will be paid to the respondent since it had breached the NDA.
+
+# 3. Application
+
+An application was then filed on 30th December, 2016 before the National Company Law Tribunal under Sections 8 and 9 of the new Code stating that an operational debt of Rs.20,08,202.55 was owed to the respondent.
+
+# 4. Tribunal Decision
+
+On 19th January, 2017, the respondent was orally intimated to remove a defect in the application, in that it did not contain the appellant’s notice of dispute. This was rectified by an affidavit in compliance dated 24th January, 2017, by which various other documents were also supplied by the respondent to the Tribunal. On 27th January, 2017, the Tribunal dismissed the aforesaid application.
+
+Print Date: June 6, 2024
+---
+#
+# Document
+
+# Segment 5
+
+- An appeal was then filed before the National Company Law Appellate Tribunal which was decided on 24th May, 2017. This appeal was allowed in the following terms:
+
+# Group 1
+
+“39. In the present case the adjudicating authority has acted mechanically and rejected the application under sub-section (5)(ii)(d) of Section 9 without examining and discussing the aforesaid issue. If the adjudicating authority would have noticed the provisions as discussed above and what constitutes ‘dispute’ in relation to services provided by operational creditors then it would have come to a conclusion that condition of demand notice under sub-section (2) of Section 8 has not been fulfilled by the corporate debtor and the defence claiming dispute was not only vague, got up and motivated to evade the liability.
+
+40. For the reasons aforesaid we set aside the impugned order dated 27.1.2017 passed by adjudicating authority in CP No.01/I &BP/NCLT/MAH/2017 and remit the case to adjudicating authority for consideration of the application of the appellant for admission if the application is otherwise complete.
+
+41. The appeal is allowed with the aforesaid observations. However, in the facts and circumstances there shall be no order as to cost.”
+
+# Segment 6
+
+Shri Mohta, learned counsel on behalf of the appellant, raised various contentions before us. According to learned counsel, the application should have been dismissed on the ground that the operational creditor did not furnish a copy of the certificate from a financial institution, viz. IDBI in the present case, that maintained accounts of the operational creditor, which confirmed that there is no payment of any unpaid operational debt by the corporate debtor under Section 9(3)(c) of the Code. This being so, the application ought to have been dismissed at the very threshold. Apart from this, the learned counsel took us through various committee reports and the provisions of the Code and argued that under Section 8 of the Code, the moment a corporate debtor, within 10 days of the receipt of a demand notice or copy of invoice, brings to the notice of the operational creditor the existence of a dispute between the parties, the Tribunal is obliged to dismiss the application. According to him, under Section (8)(2)(a), the expression “existence of a dispute, if any, and record of the pendency of the suit or arbitration proceedings filed …” must be read as existence of a dispute “or” record of the pendency of the suit or arbitration proceedings filed, i.e. disjunctively. According to the learned counsel, the definition of “dispute” under Section 5(6) of the Code is an inclusive one and the original draft bill not only had the word “means” instead of the word “includes”, but also the word “bona fide” before the words “suit or arbitral proceedings”, which is missing in the present Code. Therefore, learned counsel argued that the moment there is existence of a dispute, meaning thereby that there is a real dispute to be tried, and not a sham, frivolous or vexatious dispute, the Tribunal is bound to dismiss the application. Learned counsel went on to argue that there is a fundamental difference between applications filed by financial creditors and operational creditors. A financial creditor’s application is dealt with under Section 7 of the Code, in which the adjudicating
+
+Print Date: June 6, 2024
+---
+#
+
+# Segment 7
+
+- Shri Jawaharlal, learned counsel appearing on behalf of the respondent, has argued in reply that the only notice given to rectify the defects by the Tribunal was an oral notice of 19th January, 2017 and that too only to supply the notice of dispute by the appellant. This was done within time and the Tribunal, therefore, dismissed the application only on non-fulfillment of the conditions laid down in Section 9. No plea was ever taken before the Tribunal that the IDBI certificate was not furnished. This plea was taken for the first time only in appeal, and since the Tribunal did not think it fit to dismiss the application on a technical ground, this ground does not avail the appellants. The counsel then submitted that the expression “dispute” under Section 5(6) covers only three things, namely, existence of the amount of debt, quality of goods or services or breach of a representation or warranty and since what was sought to be brought as a defense was that the NDA was breached, it would not come within the definition of “dispute” under Section 5(6). He further went on to state that, at best, the breach of the NDA is a claim for unliquidated damages which does not become crystallized until legal proceedings are filed, and none have been filed so far. Therefore, there is no real dispute on the facts of the present case and the Tribunal was correct in its finding that the dispute was a sham one.
+
+# Segment 8
+
+Before going into the contentions of fact and law argued by both counsel, it is a little important to trace the background Of this path-breaking legislation viz. the Insolvency and Bankruptcy Code, 2016. The starting point is a Resolution of the UN General Assembly, Resolution No.59/40, passed on 2nd December, 2004, by which it was stated:
+
+- “Legislative Guide on Insolvency Law of the United Nations Commission on International Trade Law
+- The General Assembly,
+- Recognizing the importance to all countries of strong, effective and efficient insolvency regimes as a means of encouraging economic development and investment,
+- Noting the growing realization that reorganization regimes are critical to corporate and economic recovery, the development of entrepreneurial activity, the preservation of employment and the availability of finance in the capital market,
+- Noting also the importance of social policy issues to the design of an insolvency regime,
+---
+#
+# Legislative Guide on Insolvency Law
+
+# Legislative Guide on Insolvency Law
+
+# Noting with satisfaction
+
+- Completion and adoption of the Legislative Guide on Insolvency Law of the United Nations Commission on International Trade Law
+- Commission at its thirty-seventh session on 25 June 2004
+
+# Believing
+
+- Legislative Guide includes the text of the Model Law on Cross-Border Insolvency and Guide to Enactment
+- Recommended by the General Assembly in resolution 52/158 of 15 December 1997
+- Contributes significantly to the establishment of a harmonized legal framework for insolvency
+
+# Recognizing
+
+- Need for cooperation and coordination between international organizations in insolvency law reform
+- Ensure consistency and alignment of work
+- Facilitate the development of international standards
+
+# Expresses
+
+- Appreciation to the United Nations Commission on International Trade Law for the completion and adoption of the Legislative Guide on Insolvency Law
+
+# Requests
+
+- Secretary-General to publish the Legislative Guide
+- Make efforts to ensure it becomes generally known and available
+
+# Recommends
+
+- States give due consideration to the Legislative Guide when assessing economic efficiency of insolvency regimes
+- Revising or adopting legislation relevant to insolvency
+- States continue to consider implementation of the Model Law on Cross-Border Insolvency
+
+# Purpose of the Legislative Guide
+
+The purpose of the Legislative Guide on Insolvency Law is to assist the establishment of an efficient and effective legal framework to address the financial difficulty of debtors. It is intended to be used as a reference by national authorities and legislative bodies when preparing new laws and regulations or reviewing the adequacy of existing laws and regulations. The advice provided in the Guide aims at achieving a balance between the need to address the debtor’s financial difficulty as quickly and efficiently as possible and the interests of the various parties directly concerned with that financial difficulty, principally creditors and other parties with a stake in the debtor’s business, as well as with public policy concerns. The Guide discusses issues central to the design of an effective and efficient insolvency law, which, despite numerous differences in policy and legislative treatment, are recognized in many legal systems. It focuses on insolvency proceedings commenced under the insolvency law and conducted in accordance with that law, with an emphasis on reorganization, against a debtor.
+---
+#
+# IBC Laws
+
+# Segment 1: Introduction
+
+Whether a legal or natural person, that is engaged in economic activity. Issues specific to the insolvency of individuals not so engaged, such as consumers, are not addressed.
+
+# Segment 2: Key Objectives of Insolvency Law
+
+- Address collective satisfaction of outstanding claims from debtor's assets
+- Accommodate interests of parties affected by proceedings
+- Strike a balance between stakeholders' interests and relevant social, political, and policy considerations
+
+# Segment 3: Transparency and Predictability
+
+An insolvency law should be transparent and predictable to promote stability in commercial relations, foster lending and investment, and prevent disputes.
+
+# Segment 4: Availability of Information
+
+Insolvency law should ensure adequate information is available regarding the debtor's situation to assess the financial situation and determine the most appropriate solution.
+
+# Segment 5: Commencement of Insolvency Proceedings
+
+The standard for commencement of insolvency proceedings is central to the design of an insolvency law, instrumental in identifying debtors eligible for protective mechanisms.
+---
+#
+
+# Segment 10
+
+On the fixation of time limits and denial of an application to commence proceedings, the Legislative Guide states:
+
+- Where a court is required to make a decision as to commencement, it is desirable that that decision be made in a timely manner to ensure both certainty and predictability of the decision-making and the efficient conduct of the proceedings without delay. This will be particularly important in the case of reorganization to avoid further diminution of the value of assets and to improve the chances of a successful reorganization. Some insolvency laws prescribe set time periods after the application within which the decision to commence must be made. These laws often distinguish between applications by debtors and by creditors, with applications by debtors tending to be determined more quickly. Any additional period for creditor applications is designed to allow prompt notice to be given to the debtor and provide the debtor with an opportunity to respond to the application.
+- Although the approach of fixing time limits may serve the objectives of providing certainty and transparency for both the debtor and creditors, the achievement of those objectives may need to be balanced against possible disadvantages. For example, a fixed time period may be insufficiently flexible to take account of the circumstances of the particular case. More generally, such time periods may be set without regard to the resources available to the body responsible for supervising insolvency proceedings or of the local priorities of that body (especially where insolvency is only one of the matters for which it has responsibility). It may also prove difficult to ensure that the decision-making body adheres to the established limit and to provide appropriate consequences where there is no compliance. The time period between application and the decision to commence proceedings should also reflect the type of proceeding applied for, the application procedure and the consequences of commencement in any particular regime. For example, the extent to which notification of parties in interest and information gathering must be completed prior to commencement will vary between regimes, requiring different periods of time. For these reasons, it is desirable that an insolvency law adopt a flexible approach that emphasizes the advantages of quick decision-making and
+---
+#
+
+# Segment Headers
+
+# Denial of an application to commence proceedings
+
+# Segment Lists
+
+- Examples of improper use
+- Principal grounds for denial of the application for technical reasons
+
+# Segment KeyValuePairs
+
+Emphasis supplied: (Emphasis supplied)
+
+# Group Sections
+
+# Commencement on creditor application (paras.57 and 67)
+
+Recommendation 19 of the Legislative Guide:
+
+The law generally should specify that, where a creditor makes the application for commencement:
+
+- Notice of the application promptly is given to the debtor;
+- The debtor be given the opportunity to respond to the application, by contesting the application, consenting to the application or, where the application
+
+# Segment Paragraphs
+
+The preceding paragraphs refer to a number of instances where it will be desirable, in those cases where the court is required to make the commencement decision, for the court to have the power to deny the application for commencement, either because of questions of improper use of the insolvency law or for technical reasons relating to satisfaction of the commencement standard. The cases referred to include examples of both debtor and creditor applications. Principal among the grounds for denial of the application for technical reasons might be those cases where the debtor is found not to satisfy the commencement standard; where the debt is subject to a legitimate dispute or off-set in an amount equal to or greater than the amount of the debt; where the proceedings will serve no purpose because, for example, secured debt exceeds the value of assets; and where the debtor has insufficient assets to pay for the insolvency administration and the law makes no other provision for funding the administration of such estates.
+
+Examples of improper use might include those cases where the debtor uses an application for insolvency as a means of prevaricating and unjustifiably depriving creditors of prompt payment of debts or of obtaining relief from onerous obligations, such as labour contracts. In the case of a creditor application, it might include those cases where a creditor uses insolvency as an inappropriate substitute for debt enforcement procedures (which may not be well developed); to attempt to force a viable business out of the market place; or to attempt to obtain preferential payments by coercing the debtor (where such preferential payments have been made and the debtor is insolvent, investigation would be a key function of insolvency proceedings).
+
+As noted above, where there is evidence of improper use of the insolvency proceedings by either the debtor or creditors, the insolvency law may provide, in addition to denial of the application, that sanctions can be imposed on the party improperly using the proceedings or that that party should pay costs and possibly damages to the other party for any harm caused. Remedies may also be available under non-insolvency law. Where an application is denied, any provisional measures of relief ordered by the court after the time of the application for commencement should terminate (see chap. II, para. 53).
+
+# Segment Tables
+
+Print Date
+June 6, 2024
+---
+#
+# Document
+
+# Segment 11
+
+The legislative history of legislation relating to indebtedness goes back to the year 1964 when the 24th Law Commission recommended amendments to the Provincial Insolvency Act of 1920. This was followed by the Tiwari Committee of 1981, which introduced the Sick Industrial Companies Act, 1985. Following economic liberalization in the 1990s, two Narsimham Committee reports led to the Recovery of Debts and Bankruptcy Act, 1993 and the SARFAESI Act, 2002. Meanwhile, the Goswami Committee Report, submitted in 1993, condemned the liquidation procedure prescribed by the Companies Act, 1956 as unworkable and being beset with delays at all levels – delaying tactics employed by the management, delays at the level of the Courts, delays in making auction sales etc. This then led to the Eradi Committee Report of 1999, which proposed amendments to the Companies Act and proposed the repeal of SICA. This Committee echoed the findings of the Goswami Committee and recommended an overhaul of the liquidation procedure under the Companies Act.
+
+# Segment 12
+
+It was for the first time, in 2001, that the L.N. Mitra Committee of the RBI proposed a comprehensive Bankruptcy Code. This was followed by the Irani Committee Report, also of the RBI in 2005, which noted that the liquidation procedure in India is costly, inordinately lengthy and results in almost complete erosion of asset value. The Committee also noted that the insolvency framework did not balance stakeholders’ interests adequately. It proposed a number of changes including changes for increased protection of creditors’ rights, maximization of asset value and better management of the company in liquidation. In 2008, the Raghuram Rajan Committee of the Planning Commission proposed improvement to the credit infrastructure in the country, and finally a committee of Financial Sector Legislative Reforms in 2013 submitted a draft Indian Financial Code, which included a “resolution corporation” for resolving distressed financial firms.
+
+# Segment 13
+
+All this then led to the Bankruptcy Law Reforms Committee, set up by the Department of Economic Affairs, Ministry of Finance, under the Chairmanship of Shri T.K. Viswanathan. This Committee submitted an interim report in February 2015 and a final report in November of the same year. It was, as a result of the deliberations of this Committee, that the present Insolvency and Bankruptcy Code of 2016 was finally born.
+
+# Segment 14
+
+The interim report went into the existing law on indebtedness in some detail and discussed the tests laid down in Madhusudan Gordhandas v. Madhu Woollen Industries Ltd (1972) 2 SCR 201, by which a petition presented under the Companies Act on the ground that the company is “unable to pay its debts” can only be dismissed if the debt is bona fide disputed, i.e. that the defense of the debtor is genuine, substantial and is likely to succeed on a point of law. The interim report also adverted to an amendment made in the Companies Act, 2003, by which the threshold requirement of Rs.500 was replaced by Rs.1 lakh.
+
+# Segment 15
+
+The interim report found:
+
+“Once the petitioning creditor has proved the inability of the debtor company to pay debts, van Zwieten states that courts in India have recognised a wide discretion that enabled it to give
+---
+#
+
+# Segment 16
+
+By the final report dated November 2015, the recommendation of the interim report was shelved. The Committee made a distinction between financial contracts and operational contracts. It stated:
+---
+#
+
+# Document
+
+# Information about the liabilities of a solvent entity
+
+- Operational contracts typically involve an exchange of goods and services for cash. For an enterprise, the latter includes payables for purchase of raw-materials, other inputs or services, taxation and statutory liabilities, and wages and benefits to employees.
+
+The Code specifies that if the Adjudicator is able to locate the record of the liability and of default with the registered IUs, a financial creditor needs no other proof to establish that a default has taken place.
+
+The second set of liabilities are operational liabilities, which are more difficult to centrally capture given that the counterparties are a wide and heterogeneous set. In the state of insolvency, the record of all liabilities in the IUs become critical to creditors in assessing the complexity of the resolution required. Various private players, including potential strategic acquirers or distressed asset funds, would constantly monitor entities that are facing stress, and prepare to make proposals to the committee of creditors in the event that an insolvency is triggered. Easy access to this information is vital in ensuring that there is adequate interest by various kinds of financial firms in coming up to the committee of creditors with proposals. It is not easy to set up mandates for the holders of operational liabilities to file the records of their liabilities, unlike the case of financial creditors. However, their incentives to file liabilities are even stronger when the entity approaches insolvency.
+
+# Information about operational creditors
+
+Once the invoice or notice is served, the debtor should be given a certain period of time in which to respond either by disputing it in a court, or pay up the amount of the invoice or notice. The debtor will have the responsibility to file the information about the court case, or the repayment record in response to the invoice or notice within the specified amount of time. If the debtor does not file either response within the specified period, and the creditor files for insolvency resolution, the debtor may be charged a monetary penalty by the Adjudicator. However, if the debtor disputes the claim in court, until the outcome of this case is decided, the creditor may not be able to trigger insolvency on the entity. This process will act as a deterrent for frivolous claims from creditors, as well as act as a barrier for some types of creditors to initiate insolvency resolution.
+
+# Trigger for IRP
+
+- The IRP can be triggered by either the debtor or the creditors by submitting documentation specified in the Code to the adjudicating authority.
+- For the debtor to trigger the IRP, she must be able to submit all the documentation that is defined in the Code, and may be specified by the Regulator above this.
+---
+#
+
+# IBC Laws
+
+# Segment 3
+
+- The Code differentiates two categories of creditors:financial creditors where the liability to the debtor arises from a solely financial transaction, and operational creditors where the liability to the debtor arises in the form of future payments in exchange for goods or services already delivered. In cases where a creditor has both a solely financial transaction as well as an operational transaction with the entity, the creditor will be considered a financial creditor to the extent of the financial debt and an operational creditor to the extent of the operational debt is more than half the full liability it has with the debtor.
+
+# Segment 4
+
+- The Code will require different documentation for a debtor, a financial creditor, and an operational creditor to trigger the IRP. These are listed in Box 5.3 under what the Adjudicator will accept as requirements to trigger the IRP.
+
+# Segment 5.2.1
+
+- Who can trigger the IRP?
+
+Here, the Code differentiates between financial creditors and operational creditors. Financial creditors are those whose relationship with the entity is a pure financial contract, such as a loan or a debt security. Operational creditors are those whose liability from the entity comes from a transaction on operations. Thus, the wholesale vendor of spare parts whose spark plugs are kept in inventory by the car mechanic and who gets paid only after the spark plugs are sold is an operational creditor. Similarly, the lessor that the entity rents out space from is an operational creditor to whom the entity owes monthly rent on a three-year lease. The Code also provides for cases where a creditor has both a solely financial transaction as well as an operational transaction with the entity. In such a case, the creditor can be considered a financial creditor to the extent of the financial debt and an operational creditor to the extent of the operational debt.
+
+# Segment 5.2.2
+
+- How can the IRP be triggered?
+
+An application from a creditor must have a record of the liability and evidence of the entity having defaulted on payments. The Committee recommends different documentation requirements depending upon the type of creditor, either financial or operational. A financial creditor must submit a record of default by the entity as recorded in a registered Information Utility (referred to as the IU) as described in Section 4.3 (or on the basis of other evidence). The default can be to any financial creditor to the entity, and not restricted to the creditor who triggers the IRP. The Code requires that the financial creditor propose a registered Insolvency Professional to manage the IRP. Operational creditors must present an “undisputed bill” which may be filed at a registered information utility as requirement to trigger the IRP. The Code does not require the operational creditor to propose a registered Insolvency Professional to manage the IRP. If a professional is not proposed by the operational creditor, and the IRP is successfully triggered, the Code requires the Adjudicator to approach the Regulator for a registered Insolvency Professional for the case.
+
+When the Adjudicator receives the application, she confirms the validity of the documents before the case can be registered by confirming the documentation in the information utility if applicable. In case the debtor triggers the IRP, the list of
+---
+#
+# IBC Laws
+
+# Segment 1: Insolvency Resolution Process (IRP)
+
+- Documentation provided by the debtor is checked against the required list.
+- Proposal for the RP is forwarded to the Regulator for validation.
+- If documentation and proposed RP are in order within specified time, Adjudicator registers the IRP.
+
+# Segment 2: Verification Process for IRP
+
+- If financial creditor triggers IRP, default is verified from information utility or additional evidence.
+- For operational creditor-triggered IRP, Adjudicator verifies documentation and requests RP from Regulator.
+- If verification steps fail or exceed time limit, Adjudicator rejects application with a reasoned order.
+
+# Segment 3: Unique ID for IRP
+
+Once documents are verified within specified time, Adjudicator triggers IRP and issues an order with a unique ID for the case.
+
+This ID will be used for storing and accessing all reports and records generated during the IRP.
+
+# Segment 4: Insolvency and Bankruptcy Bill, 2015
+
+Section 5(4) defines "dispute" as:
+
+"dispute" means a bona fide suit or arbitration proceeding regarding (a) the existence or the amount of a debt; (b) the quality of a good or service; or (c) the breach of a representation or warranty;
+
+# Sections 8 and 9 in the Bill:
+
+8. Insolvency resolution by operational creditor.
+
+- An operational creditor shall, on default, deliver a demand notice or copy of an invoice to the corporate debtor.
+- Corporate debtor must respond within ten days, mentioning the existence of any dispute and pending legal actions related to the default.
+
+Print Date: June 6, 2024
+---
+#
+
+# IBC Laws
+
+# Segment 1: Repayment of Unpaid Operational Debt
+
+- (b) the repayment of unpaid operational debt- (i) by sending an attested copy of electronic transfer of the unpaid amount from the bank account of the corporate debtor; or (ii) by sending an attested copy of proof that the operational creditor having encashed a cheque issued by the corporate debtor.
+
+Explanation: For the purpose of this section a “demand notice” means a notice served by an operational creditor to the corporate debtor demanding repayment of the debt in respect of which the default has occurred.
+
+# Segment 2: Application for Initiation of Corporate Insolvency Resolution Process by Operational Creditor
+
+1. (1) After the expiry of the period of ten days from the date of delivery of the invoice or notice demanding payment under sub-section (1) of section 8, if the operational creditor does not receive payment from the corporate debtor or notice of the dispute under sub-section (2) of section 8, the operational creditor may file an application with the Adjudicating Authority in the prescribed form for initiating a corporate insolvency resolution process.
+2. (2) The application under sub-section (1) shall be filed in such form and manner and accompanied with such fee as may be prescribed.
+3. (3) The operational creditor shall, along with the application furnish-
+- (a) the invoice demanding payment or notice delivered by the operational creditor to the corporate debtor;
+- (b) affidavit to the effect that there is no notice given by the corporate debtor relating to a dispute of the unpaid operational debt;
+- (c) a confirmation from the financial institutions maintaining accounts of the operational creditor that there is no payment of an unpaid operational debt by the corporate debtor; and
+- (d) such other information or as may be specified.
+4. (4) The Adjudicating Authority shall, within two days of the receipt of the application under sub-section (2), admit the application and communicate such decision to the operational creditor and the corporate debtor if, –
+- (a) the application is complete;
+- (b) there is no repayment of the unpaid operational debt;
+- (c) the invoice or notice for payment to the corporate debtor has been delivered by the operational creditor; and
+- (d) no notice of dispute has been received by the operational creditor or there is no record of dispute in the information utility.
+
+Print Date: June 6, 2024
+---
+#
+
+# Document
+
+# Segment 1:
+
+- Adjudicating Authority shall reject the application if:
+
+1. (a) the application made under this section is incomplete;
+2. (b) there has been repayment of the unpaid operational debt;
+3. (c) the creditor has not delivered the invoice or notice for payment to the corporate debtor; and
+4. (d) notice of dispute has been received by the operational creditor and there is no record of dispute in the information utility.
+
+# Segment 2:
+
+- An operational creditor initiating a corporate insolvency resolution process may propose a resolution professional to act as an interim resolution professional.
+
+# Segment 3:
+
+The corporate insolvency resolution process shall commence from the date of admission of the application under sub-section (4) of this section.
+
+# Segment 4:
+
+Meanwhile, the Insolvency and Bankruptcy Bill that was annexed to the Bankruptcy Law Reforms Committee Report underwent a further change before it was submitted to a Joint Committee of the Lok Sabha. In this Bill, the definition of “dispute” now read as follows:
+
+# Definitions:
+
+Dispute:
+includes a suit or arbitration proceedings relating to—
+(a) the existence or the amount of debt;
+(b) the quality of goods or service; or
+(c) the breach of a representation or warranty;
+
+# Sections 8 and 9:
+
+Insolvency resolution by operational creditor.
+
+1. An operational creditor may, on the occurrence of a default, deliver a demand notice of unpaid operational debt or copy of an invoice demanding payment of the amount involved in the default to the corporate debtor in such form as may be prescribed, through an information utility, wherever applicable, or by registered post or courier or by such electronic mode of communication, as may be specified.
+2. The corporate debtor shall, within a period of ten days of the receipt of the demand notice or copy of the invoice mentioned in sub-section (1), bring to the notice of the operational creditor—
+---
+#
+
+# IBC Laws
+
+# Segment Headers
+
+# Application for initiation of corporate insolvency resolution process by operational creditor
+
+# Segment Lists
+
+- Existence of a dispute and record of pending suit or arbitration proceedings
+- Repayment of unpaid operational debt
+
+# Segment KeyValuePairs
+
+Explanation: A "demand notice" is a notice served by an operational creditor to the corporate debtor demanding repayment of the operational debt.
+
+# Segment Paragraphs
+
+After the expiry of the period of ten days from the date of delivery of the notice or invoice demanding payment under sub-section (1) of section 8, if the operational creditor does not receive payment from the corporate debtor or notice of the dispute under sub-section (2) of section 8, the operational creditor may file an application before the Adjudicating Authority for initiating a corporate insolvency resolution process.
+
+The application under sub-section (1) shall be filed in such form and manner and accompanied with such fee as may be prescribed.
+
+The operational creditor shall, along with the application furnish:
+
+# Group Sections
+
+# Section 1
+
+a) A copy of the invoice demanding payment or demand notice delivered by the operational creditor to the corporate debtor.
+
+b) An affidavit confirming no notice given by the corporate debtor relating to a dispute of the unpaid operational debt.
+
+# Section 2
+
+c) A copy of the certificate from the financial institutions maintaining accounts of the operational creditor confirming no payment of an unpaid operational debt by the corporate debtor.
+
+d) Such other information as may be specified.
+
+An operational creditor initiating a corporate insolvency resolution process under this section may propose a resolution professional to act as an interim resolution professional.
+
+# Segment Tables
+
+|Print Date|June 6, 2024|
+|---|---|
+|Page|20 out of 47|
+---
+#
+
+# Segment 1: IBC Laws® | www.ibclaw.in
+
+# Segment List:
+
+- (i) admit the application and communicate such decision to the operational creditor and the corporate debtor if,—
+- - (a) the application made under sub-section (2) is complete;
+- (b) there is no repayment of the unpaid operational debt;
+- (c) the invoice or notice for payment to the corporate debtor has been delivered by the operational creditor;
+- (d) no notice of dispute has been received by the operational creditor or there is no record of dispute in the information utility; and
+- (e) there is no disciplinary proceeding pending against any resolution professional proposed under sub-section (4), if any.
+
+(ii) reject the application and communicate such decision to the operational creditor and the corporate debtor, if—
+
+# Segment KeyValuePairs:
+
+Provided that Adjudicating Authority, prior to rejecting an application under sub-clause (a) of clause (ii) of this sub-section, shall give a notice to the applicant to rectify the defect in his application within three days of the date of receipt of such notice from the Adjudicating Authority.
+
+# Segment 2: The corporate insolvency resolution process shall commence from the date of admission of the application under sub-section (5).
+
+# Segment 3: The notes on clauses annexed to the Bill are extremely important and read as follows:
+
+# Segment Paragraphs:
+
+Clause 6 provides that where a corporate debtor has defaulted in paying a debt that has become due and payable but not repaid, the corporate insolvency resolution process under Part II may be initiated in respect of such corporate debtor by a financial creditor, an operational creditor or the corporate debtor itself.
+
+Early recognition of financial distress is very important for timely resolution of insolvency.
+---
+#
+# IBC Laws
+
+# Segment 1
+
+- Default based test for entry into the insolvency resolution process permits early intervention such that insolvency resolution proceedings can be initiated at an early stage when the corporate debtor shows early signs of financial distress rather than at the point where it would be difficult to revive it effectively. It also provides a simple test to initiate resolution process.
+
+# Segment 2
+
+- This clause permits any financial creditor to initiate the corporate insolvency resolution process where the corporate debtor has defaulted in paying a debt that has become due and payable but not repaid. Financial creditors are those creditors to whom a financial debt (i.e., a debt where the creditor is compensated for the time value of the money lent) is owed.
+
+# Segment 3
+
+- The Code also permits the corporate debtor itself to initiate the insolvency resolution process once it has defaulted on a debt. Additionally, operational creditors (i.e., creditors to whom a sum of money is owed for the provision of goods or services or the Central/State Government or local authorities in respect of payments due to them) are also permitted to initiate the insolvency resolution process. This will bring the law in line with international practices, which permit unsecured creditors (including employees, suppliers etc. who fall under the definition of operational creditors) to file for the initiation of insolvency resolution proceedings.
+
+# Segment 4
+
+- Clause 7 lays down the procedure for the initiation of the corporate insolvency resolution process by a financial creditor or two or more financial creditors jointly. The financial creditor can file an application before the National Company Law Tribunal along with proof of default and the name of a resolution professional proposed to act as the interim resolution professional in respect of the corporate debtor. The requirement to provide proof of default ensures that financial creditors do not file frivolous applications or applications which prematurely put the corporate debtor into insolvency resolution proceedings for extraneous considerations. The adjudicating authority/ Tribunal can, within fourteen days from the date of receipt of the application, ascertain the existence of a default from the records of a regulated information utility. A default may also be proved in such manner as may be specified by the Insolvency and Bankruptcy Board of India.
+
+# Segment 5
+
+- Once the adjudicating authority/Tribunal is satisfied as to the existence of the default and has ensured that the application is complete and no disciplinary proceedings are pending against the proposed resolution professional, it shall admit the application. The adjudicating authority/Tribunal is not required to look into any other criteria for admission of the application. It is important that parties are not allowed to abuse the legal process by using delaying tactics at the admissions stage.
+
+# Segment 6
+
+- Clause 8 lays down the procedure for the initiation of the corporate insolvency resolution process by an operational creditor. This procedure differs from the procedure applicable to financial creditors as operational debts (such as trade debts, salary or wage claims) tend to be small amounts (in comparison to financial debts) or are recurring in nature and may not be accurately reflected on the records of information utilities at all times. The possibility of disputed debts in relation to operational creditors is also higher in comparison to financial creditors such as banks and financial institutions. Accordingly, the process for initiation of the insolvency resolution process differs for an operational creditor.
+---
+#
+# IBC Laws
+
+# Segment 1: Operational Creditor's Rights
+
+- The operational creditor must send a demand notice or invoice to the corporate debtor for payment of the debt in default.
+- The corporate debtor has ten days to respond, either by acknowledging the debt claim or disputing it.
+- This provision prevents premature initiation of insolvency proceedings by operational creditors.
+
+# Segment 2: Initiation of Insolvency Resolution Process
+
+- If the operational creditor does not receive payment or a dispute notice within ten days, they can apply for insolvency resolution.
+- The creditor must provide proof of default and non-payment, along with an affidavit confirming no dispute notice.
+- If the adjudicating authority is satisfied with the evidence, the application will be admitted without delay tactics.
+
+# Segment 3: Joint Committee Amendments
+
+The Joint Committee made changes to the Code in 2016, including:
+
+- Clarifying the mode of delivery for demand notices.
+- Extending time limits to a uniform period of 7 days.
+
+# Segment 4: Relevant Provisions of the Code
+
+Details of the Code's provisions regarding operational creditors will be outlined in the following sections.
+---
+#
+# IBC Laws
+
+# Segment Headers
+
+# Definitions
+
+# Segment Lists
+
+- Default: non-payment of debt when whole or any part or instalment of the amount of debt has become due and payable and is not repaid by the debtor or the corporate debtor.
+
+# Segment KeyValuePairs
+
+Operational Creditor: a person to whom an operational debt is owed and includes any person to whom such debt has been legally assigned or transferred.
+
+Operational Debt: a claim in respect of the provision of goods or services including employment or a debt in respect of the repayment of dues arising under any law for the time being in force and payable to the Central Government, any State Government or any local authority.
+
+# Group Sections
+
+# Insolvency resolution by operational creditor
+
+An operational creditor may, on the occurrence of a default, deliver a demand notice of unpaid operational debt or copy of an invoice demanding payment of the amount involved in the default to the corporate debtor in such form and manner as may be prescribed.
+
+The corporate debtor shall, within a period of ten days of the receipt of the demand notice or copy of the invoice mentioned in sub-section (1) bring to the notice of the operational creditor:
+
+1. Existence of a dispute, if any, and record of the pendency of the suit or arbitration proceedings filed before the receipt of such notice or invoice in relation to such dispute.
+2. The repayment of unpaid operational debt by sending an attested copy of the record of electronic transfer of the unpaid amount.
+
+# Print Date: June 6, 2024
+---
+#
+
+# Document
+
+# Segment 1: Explanation
+
+For the purposes of this section, a “demand notice” means a notice served by an operational creditor to the corporate debtor demanding repayment of the operational debt in respect of which the default has occurred.
+
+# Segment 2: Application for initiation of corporate insolvency resolution process by operational creditor
+
+After the expiry of the period of ten days from the date of delivery of the notice or invoice demanding payment under sub-section (1) of section 8, if the operational creditor does not receive payment from the corporate debtor or notice of the dispute under sub-section (2) of section 8, the operational creditor may file an application before the Adjudicating Authority for initiating a corporate insolvency resolution process.
+
+# Subsection 1:
+
+- File in prescribed form and manner with accompanying fee.
+
+# Subsection 2:
+
+- Copy of invoice demanding payment or demand notice.
+- An affidavit confirming no notice of dispute by the corporate debtor.
+- Certificate from financial institutions confirming non-payment of debt.
+- Other specified information.
+
+# Subsection 4:
+
+- Operational creditor may propose an interim resolution professional.
+
+# Subsection 5:
+
+- Adjudicating Authority to admit the application within fourteen days if conditions are met.
+
+# Conditions for Admitting Application:
+
+- Complete application.
+- No repayment of debt.
+- Delivery of invoice or notice for payment by operational creditor.
+---
+#
+
+# Document
+
+# Segment Headers
+
+# Section 8(1) of Insolvency and Bankruptcy Code
+
+# Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016
+
+# Segment Lists
+
+- No notice of dispute has been received by the operational creditor
+- No record of dispute in the information utility
+- No disciplinary proceeding pending against any resolution professional
+
+- Reject the application if:
+
+# Segment KeyValuePairs
+
+Adjudicating Authority: Shall give notice to the applicant to rectify the defect in the application within seven days
+
+Commencement of Process: Corporate insolvency resolution process starts from the date of admission of the application
+
+# Group Sections
+
+# Section 5: Demand notice by operational creditor
+
+An operational creditor shall deliver to the corporate debtor the demand notice in Form 3 or a copy of an invoice attached with a notice in Form 4.
+
+The demand notice or the copy of the invoice demanding payment may be delivered to the corporate debtor at the registered office by hand, registered post, or speed post with acknowledgment due, or by electronic mail service to a whole-time director or designated partner or key personnel.
+---
+#
+
+# Document
+
+# Segment Headers
+
+# Managerial Personnel Information
+
+# Segment Lists
+
+- An operational creditor shall file a copy of the demand notice or invoice with an information utility.
+
+# Segment KeyValuePairs
+
+Form 3:
+
+Date: [Date]
+
+To: [Name and address of the registered office of the corporate debtor]
+
+From: [Name and address of the registered office of the operational creditor]
+
+Subject: Demand notice/invoice demanding payment in respect of unpaid operational debt due from [corporate debtor] under the Code.
+
+# Group Sections
+
+# Application by Operational Creditor
+
+An operational creditor must submit an application in Form 5 to initiate the corporate insolvency resolution process against a corporate debtor.
+
+The applicant should send a copy of the application to the Adjudicating Authority and the registered office of the corporate debtor.
+
+# Segment Paragraphs
+
+This letter serves as a demand notice/invoice for the payment of an unpaid operational debt from [name of corporate debtor].
+
+# Segment Tables
+
+|PARTICULARS OF OPERATIONAL DEBT|TOTAL AMOUNT OF DEBT, DETAILS OF TRANSACTIONS ON ACCOUNT OF WHICH DEBT FELL DUE, AND THE DATE FROM WHICH SUCH DEBT FELL DUE|
+|---|---|
+|1| |
+---
+#
+# IBC Laws
+
+# Amount Claimed to be in Default and the Date of Default
+
+- Attach the workings for computation of default in tabular form
+
+# Particulars of Security Held
+
+- Date of creation
+- Estimated value as per the creditor
+
+# Attach a copy of a certificate of registration of charge issued by the Registrar of Companies (if the corporate debtor is a company)
+
+# Details of Retention of Title Arrangements
+
+- In respect of goods to which the operational debt refers
+
+# Record of Default with the Information Utility
+
+- Provision of law, contract, or other document under which debt has become due
+
+# List of Documents Attached to this Application
+
+- In order to prove the existence of operational debt and the amount in default
+
+# If you dispute the existence or amount of unpaid operational debt (in default) please provide the undersigned, within ten days of the receipt of this letter, of the pendency of the suit or arbitration proceedings in relation to such dispute filed before the receipt of this letter/notice.
+
+# If you believe that the debt has been repaid before the receipt of this letter, please demonstrate such repayment by sending to us, within ten days of receipt of this letter, the following:
+
+1. An attested copy of the record of electronic transfer of the unpaid amount from the bank account of the corporate debtor; or
+2. An attested copy of any record that [name of the operational creditor] has received the payment.
+
+# The undersigned, hereby, attaches a certificate from an information utility confirming that no record of a dispute raised in relation to the relevant operational debt has been filed by any person at any information utility. (if applicable)
+
+# The undersigned request you to unconditionally repay the unpaid operational debt (in default) in full within ten days from the receipt of this letter failing which we shall initiate a corporate insolvency resolution process in respect of [name of corporate debtor].
+
+Yours sincerely,
+
+Signature of person authorised to act on behalf of the operational creditor
+
+Name in block letters
+
+Position with or in relation to the operational creditor
+
+Address of person signing
+
+Print Date: June 6, 2024
+---
+#
+
+# IBC Laws
+
+# Instructions
+
+1. Please serve a copy of this form on the corporate debtor, ten days in advance of filing an application under section 9 of the Code.
+2. Please append a copy of such served notice to the application made by the operational creditor to the Adjudicating Authority.
+
+# Form 4
+
+(See clause (b) of sub-rule (1) of rule 5)
+
+FORM OF NOTICE WITH WHICH INVOICE DEMANDING PAYMENT IS TO BE ATTACHED
+
+(Under Rule 5 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016)
+
+[Date]
+
+To,
+
+[Name and address of registered office of the corporate debtor]
+
+From,
+
+[Name and address of the operational creditor]
+
+Subject: Notice attached to invoice demanding payment
+
+Madam/Sir,
+
+[Name of operational creditor], hereby provides notice for repayment of the unpaid amount of INR [insert amount] that is in default as reflected in the invoice attached to this notice.
+
+In the event you do not repay the debt due to us within ten days of receipt of this notice, we may file an application before the Adjudicating Authority for initiating a corporate insolvency resolution process under section 9 of the Code.
+
+Yours sincerely,
+
+Signature of person authorised to act on behalf of the operational creditor
+
+Name in block letters
+
+Position with or in relation to the operational creditor
+
+Address of person signing
+
+# Form 5
+
+(See sub-rule (1) of rule 6)
+
+APPLICATION BY OPERATIONAL CREDITOR TO INITIATE CORPORATE INSOLVENCY RESOLUTION PROCESS UNDER THE CODE.
+
+Print Date: June 6, 2024
+---
+#
+
+# Application for Corporate Insolvency Resolution Process
+
+# Application for Corporate Insolvency Resolution Process
+
+# Part – I
+
+# Particulars of Applicant
+
+- Name of Operational Creditor: [Name of Operational Creditor]
+- Identification Number of Operational Creditor: [Identification Number]
+- Address for Correspondence of the Operational Creditor: [Address]
+
+# Part – II
+
+# Particulars of Corporate Debtor
+
+1. Name of the Corporate Debtor: [Name of Corporate Debtor]
+2. Identification Number of Corporate Debtor: [Identification Number]
+3. Date of Incorporation of Corporate Debtor: [Date of Incorporation]
+4. Nominal Share Capital and the Paid-up Share Capital of the Corporate Debtor and/or Details of Guarantee Clause as per Memorandum of Association (as applicable)
+5. Address of the Registered Office of the Corporate Debtor: [Address]
+6. Name, Address, and Authority of Person Submitting Application on Behalf of Operational Creditor (Enclose Authorization)
+
+Print Date: June 6, 2024
+---
+#
+# IBC Laws
+
+# Part-III
+
+- NAME, ADDRESS, EMAIL ADDRESS AND THE REGISTRATION NUMBER OF THE PROPOSED INSOLVENCY PROFESSIONAL
+
+# Part-IV
+
+PARTICULARS OF OPERATIONAL DEBT
+
+- TOTAL AMOUNT OF DEBT, DETAILS OF TRANSACTIONS ON ACCOUNT OF WHICH DEBT FELL DUE, AND THE DATE FROM WHICH SUCH DEBT FELL DUE
+- AMOUNT CLAIMED TO BE IN DEFAULT AND THE DATE ON WHICH THE DEFAULT OCCURRED (ATTACH THE WORKINGS FOR COMPUTATION OF AMOUNT AND DATES OF DEFAULT IN TABULAR FORM)
+
+# Part-V
+
+PARTICULARS OF OPERATIONAL DEBT [DOCUMENTS, RECORDS AND EVIDENCE OF DEFAULT]
+
+1. PARTICULARS OF SECURITY HELD, IF ANY, THE DATE OF ITS CREATION, ITS ESTIMATED VALUE AS PER THE CREDITOR. ATTACH A COPY OF A CERTIFICATE OF REGISTRATION OF CHARGE ISSUED BY THE REGISTRAR OF COMPANIES (IF THE CORPORATE DEBTOR IS A COMPANY)
+2. IN RESPECT OF GOODS TO WHICH THE OPERATIONAL DEBT REFERS DETAILS OF RESERVATION / RETENTION OF TITLE ARRANGEMENTS (IF ANY)
+3. ADJUDICATING ON THE DEFAULT, IF ANY (ATTACH A COPY OF THE ORDER)PARTICULARS OF AN ORDER OF A COURT, TRIBUNAL OR ARBITRAL PANEL
+4. COPY OF SUCH RECORD)RECORD OF DEFAULT WITH THE INFORMATION UTILITY, IF ANY (ATTACH A
+5. DETAILS OF SUCCESSION CERTIFICATE, OR PROBATE OF A WILL, OR LETTER OF ADMINISTRATION, OR COURT DECREE (AS MAY BE APPLICABLE), UNDER THE INDIAN SUCCESSION ACT, 1925 (10 OF 1925) (ATTACH A COPY)
+6. OPERATIONAL DEBT HAS BECOME DUEPROVISION OF LAW, CONTRACT OR OTHER DOCUMENT UNDER WHICH
+
+Print Date: June 6, 2024
+---
+#
+
+# Statement of Bank Account for Operational Creditor
+
+# Statement of Bank Account Where Deposits are Made or Credits Received
+
+# 1. A Statement of Bank Account Where Deposits are Made or Credits Received Normally by the Operational Creditor in Respect of the Debt of the Corporate Debtor (Attach a Copy)
+
+# 2. List of Other Documents Attached to This Application in Order to Prove the Existence of Operational Debt and the Amount in Default
+
+I, [Name of the operational creditor / person authorised to act on behalf of the operational creditor] hereby certify that, to the best of my knowledge, [name of proposed insolvency professional], is fully qualified and permitted to act as an insolvency professional in accordance with the Code and the rules and regulations made thereunder. [WHERE APPLICABLE]
+
+[Name of the operational creditor] has paid the requisite fee for this application through [state means of payment] on [date].
+
+Yours sincerely,
+
+Signature of person authorised to act on behalf of the operational creditor
+
+Name in block letters
+
+Position with or in relation to the operational creditor
+
+Address of person signing
+
+# Instructions
+
+Please attach the following to this application:
+
+- Annex I Copy of the invoice / demand notice as in Form 3 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016 served on the corporate debtor.
+- Annex II Copies of all documents referred to in this application.
+- Annex III Copy of the relevant accounts from the banks/financial institutions maintaining accounts of the operational creditor confirming that there is no payment of the relevant unpaid operational debt by the operational debtor, if available.
+- Annex IV Affidavit in support of the application in accordance with the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016.
+- Annex V Written communication by the proposed interim resolution professional as set out in Form 2 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016. [WHERE APPLICABLE]
+- Annex VI Proof that the specified application fee has been paid.
+
+Print Date: June 6, 2024
+---
+#
+
+# Segment Headers
+
+# Note:
+
+Where workmen/employees are operational creditors, the application may be made either in an individual capacity or in a joint capacity by one of them who is duly authorised for the purpose.
+
+# Regulation 7 of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016
+
+is also relevant and reads as under:
+
+# Claims by operational creditors:
+
+# 1. A person claiming to be an operational creditor, other than workman or employee of the corporate debtor, shall submit proof of claim to the interim resolution professional in person, by post or by electronic means in Form B of the Schedule:
+
+Provided that such person may submit supplementary documents or clarifications in support of the claim before the constitution of the committee.
+
+# 2. The existence of debt due to the operational creditor under this Regulation may be proved on the basis of-
+
+- (a) the records available with an information utility, if any; or
+- (b) other relevant documents, including –
+
+# FORM B
+
+PROOF OF CLAIM BY OPERATIONAL CREDITORS EXCEPT WORKMEN AND EMPLOYEES
+
+[Under Regulation 7 of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016]
+
+# To
+
+The Interim Resolution Professional / Resolution Professional
+
+[Name of the Insolvency Resolution Professional / Resolution Professional]
+
+[Address as set out in public announcement]
+
+# From
+
+[Name and address of the operational creditor]
+
+Print Date: June 6, 2024
+
+33 | 47
+---
+#
+
+# Subject: Submission of proof of claim
+
+Madam/Sir,
+
+[Name of the operational creditor], hereby submits this proof of claim in respect of the corporate insolvency resolution process in the case of [name of corporate debtor]. The details for the same are set out below:
+
+# PARTICULARS
+
+1. NAME OF OPERATIONAL CREDITOR
+2. IDENTIFICATION NUMBER OF OPERATIONAL CREDITOR (IF AN INCORPORATED BODY PROVIDE IDENTIFICATION NUMBER AND PROOF OF INCORPORATION. IF A PARTNERSHIP OR INDIVIDUAL PROVIDE IDENTIFICATION RECORDS* OF ALL THE PARTNERS OR THE INDIVIDUAL)
+3. ADDRESS AND EMAIL ADDRESS OF OPERATIONAL CREDITOR FOR CORRESPONDENCE
+4. TOTAL AMOUNT OF CLAIM (INCLUDING ANY INTEREST AS AT THE INSOLVENCY COMMENCEMENT DATE)
+5. DETAILS OF DOCUMENTS BY REFERENCE TO WHICH THE DEBT CAN BE SUBSTANTIATED
+6. DETAILS OF ANY DISPUTE AS WELL AS THE RECORD OF PENDENCY OR ORDER OF SUIT OR ARBITRATION PROCEEDINGS
+7. DETAILS OF HOW AND WHEN DEBT INCURRED
+8. DETAILS OF ANY MUTUAL CREDIT, MUTUAL DEBTS, OR OTHER MUTUAL DEALINGS BETWEEN THE CORPORATE DEBTOR AND THE CREDITOR WHICH MAY BE SET-OFF AGAINST THE CLAIM
+9. DETAILS OF ANY RETENTION OF TITLE ARRANGEMENTS IN RESPECT OF GOODS OR PROPERTIES TO WHICH THE CLAIM REFERS
+10. DETAILS OF THE BANK ACCOUNT TO WHICH THE AMOUNT OF THE CLAIM OR ANY PART THEREOF CAN BE TRANSFERRED PURSUANT TO A RESOLUTION PLAN
+11. LIST OF DOCUMENTS ATTACHED TO THIS PROOF OF CLAIM IN ORDER TO PROVE THE EXISTENCE AND NONPAYMENT OF CLAIM DUE TO THE OPERATIONAL CREDITOR
+
+Signature of operational creditor or person authorized to act on his behalf [Please enclose the authority if this is being submitted on behalf of an operational creditor] Name in BLOCK LETTERS Position with or in relation to creditor Address of person signing
+
+*PAN number, passport, AADHAAR Card or the identity card issued by the Election Commission of India.
+
+(Emphasis supplied)
+
+23. In the passage of the Bills which ultimately became the Code, various important changes have taken place. The original definition of “dispute” has now become an inclusive definition, the word “bona fide” before “suit or arbitration proceedings” being deleted. In Section 8(1), the words
+
+Print Date: June 6, 2024
+---
+#
+
+# Document
+
+# Segment 24
+
+The scheme under Sections 8 and 9 of the Code, appears to be that an operational creditor, as defined, may, on the occurrence of a default (i.e., on non-payment of a debt, any part whereof has become due and payable and has not been repaid), deliver a demand notice of such unpaid operational debt or deliver the copy of an invoice demanding payment of such amount to the corporate debtor in the form set out in Rule 5 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016 read with Form 3 or 4, as the case may be (Section 8(1)). Within a period of 10 days of the receipt of such demand notice or copy of invoice, the corporate debtor must bring to the notice of the operational creditor the existence of a dispute and/or the record of the pendency of a suit or arbitration proceeding filed before the receipt of such notice or invoice in relation to such dispute (Section 8(2)(a)). What is important is that the existence of the dispute and/or the suit or arbitration proceeding must be pre-existing – i.e. it must exist before the receipt of the demand notice or invoice, as the case may be. In case the unpaid operational debt has been repaid, the corporate debtor shall within a period of the self-same 10 days send an attested copy of the record of the electronic transfer of the unpaid amount from the bank account of the corporate debtor or send an attested copy of the record that the operational creditor has encashed a cheque or otherwise received payment from the corporate debtor (Section 8(2)(b)). It is only if, after the expiry of the period of the said 10 days, the operational creditor does not either receive payment from the corporate debtor or notice of dispute, that the operational creditor may trigger the insolvency process by filing an application before the adjudicating authority under Sections 9(1) and 9(2). This application is to be filed under Rule 6 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016 in Form 5, accompanied with documents and records that are required under the said form. Under Rule 6(2), the applicant is to dispatch by registered post or speed post, a copy of the application to the registered office of the corporate debtor. Under Section 9(3), along with the application, the statutory requirement is to furnish a copy of the invoice or demand notice, an affidavit to the effect that there is no notice given by the corporate debtor relating to a dispute of the unpaid operational debt and a copy of the certificate from the financial institution maintaining accounts of the operational creditor confirming that there is no payment of an unpaid operational debt by the corporate debtor. Apart from this information, the other information required under Form 5 is also to be given. Once this is done, the adjudicating authority may either admit the application or reject it. If the application made under sub-section (2) is incomplete, the adjudicating authority, under the proviso to sub-section 5, may give a notice to the applicant to rectify defects within 7 days of the receipt of the notice from the adjudicating authority to make the application complete. Once this is done, and the adjudicating authority finds that either there is no repayment of the unpaid operational debt after the invoice (Section 9(5)(i)(b)) or the invoice or notice of payment to the corporate debtor has been delivered by the operational creditor (Section 9(5)(i)(c)), or that no notice of dispute has been received by the operational creditor from the corporate debtor or that there is no record of such dispute in the information utility (Section 9(5)(i)(d)), or that there is no disciplinary proceeding pending against any resolution professional proposed by the operational creditor (Section 9(5)(i)(e)), it shall admit the application within 14 days of the receipt of the
+
+Print Date: June 6, 2024
+---
+#
+# IBC Laws
+
+# Segment 25:
+
+- Whether there is an “operational debt” as defined exceeding Rs.1 lakh? (See Section 4 of the Act)
+- Whether the documentary evidence furnished with the application shows that the aforesaid debt is due and payable and has not yet been paid?
+- Whether there is existence of a dispute between the parties or the record of the pendency of a suit or arbitration proceeding filed before the receipt of the demand notice of the unpaid operational debt in relation to such dispute?
+
+# Segment 26:
+
+Another thing of importance is the timelines within which the insolvency resolution process is to be triggered. The corporate debtor is given 10 days from the date of receipt of demand notice or copy of invoice to either point out that a dispute exists between the parties or that he has since repaid the unpaid operational debt. If neither exists, then an application once filed has to be disposed of by the adjudicating authority within 14 days of its receipt, either by admitting it or rejecting it. An appeal can then be filed to the Appellate Tribunal under Section 61 of the Act within 30 days of the order of the Adjudicating Authority with an extension of 15 further days and no more.
+
+# Segment 27:
+
+Section 64 of the Code mandates that where these timelines are not adhered to, either by the Tribunal or by the Appellate Tribunal, they shall record reasons for not doing so within the period so specified and extend the period so specified for another period not exceeding 10 days. Even in appeals to the Supreme Court from the Appellate Tribunal under Section 62, 45 days time is given from the date of receipt of the order of the Appellate Tribunal in which an appeal to the Supreme Court is to be made, with a further grace period not exceeding 15 days. The strict adherence of these timelines is of essence to both the triggering process and the insolvency resolution process. As we have seen, one of the principal reasons why the Code was enacted was because liquidation
+---
+#
+# Document
+
+# Segment 1
+
+- proceedings went on interminably, thereby damaging the interests of all stakeholders, except a recalcitrant management which would continue to hold on to the company without paying its debts.
+- Both the Tribunal and the Appellate Tribunal will do well to keep in mind this principal objective sought to be achieved by the Code and will strictly adhere to the time frame within which they are to decide matters under the Code.
+
+# Segment 2
+
+- It is now important to construe Section 8 of the Code. The operational creditors are those creditors to whom an operational debt is owed, and an operational debt, in turn, means a claim in respect of the provision of goods or services, including employment, or a debt in respect of repayment of dues arising under any law for the time being in force and payable to the Government or to a local authority.
+- This has to be contrasted with financial debts that may be owed to financial creditors, which was the subject matter of the judgment delivered by this Court on 31.8.2017 in Innoventive Industries Ltd. v. ICICI Bank & Anr. (Civil Appeal Nos.8337-8338 of 2017).
+
+# Segment 3
+
+- The scheme of Section 7 stands in contrast with the scheme under Section 8 where an operational creditor is, on the occurrence of a default, to first deliver a demand notice of the unpaid debt to the operational debtor in the manner provided in Section 8(1) of the Code.
+- Under Section 8(2), the corporate debtor can, within a period of 10 days of receipt of the demand notice or copy of the invoice mentioned in sub-section (1), bring to the notice of the operational creditor the existence of a dispute or the record of the pendency of a suit or arbitration proceedings, which is pre-existing – i.e. before such notice or invoice was received by the corporate debtor.
+
+# Segment 4
+
+- It is, thus, clear that so far as an operational creditor is concerned, a demand notice of an unpaid operational debt or copy of an invoice demanding payment of the amount involved must be delivered in the prescribed form.
+- The corporate debtor is then given a period of 10 days from the receipt of the demand notice or copy of the invoice to bring to the notice of the operational creditor the existence of a dispute, if any.
+---
+#
+
+# Segment 1
+
+arbitration proceedings and not otherwise. This would lead to great hardship; in that a dispute may arise a few days before triggering of the insolvency process, in which case, though a dispute may exist, there is no time to approach either an arbitral tribunal or a court. Further, given the fact that long limitation periods are allowed, where disputes may arise and do not reach an arbitral tribunal or a court for up to three years, such persons would be outside the purview of Section 8(2) leading to bankruptcy proceedings commencing against them. Such an anomaly cannot possibly have been intended by the legislature nor has it so been intended. We have also seen that one of the objects of the Code qua operational debts is to ensure that the amount of such debts, which is usually smaller than that of financial debts, does not enable operational creditors to put the corporate debtor into the insolvency resolution process prematurely or initiate the process for extraneous considerations. It is for this reason that it is enough that a dispute exists between the parties.
+
+# Segment 2
+
+It is settled law that the expression “and” may be read as “or” in order to further the object of the statute and/or to avoid an anomalous situation. Thus, in Samee Khan Bindu Khan (1998) 7 SCC 59 at 64, this Court held:
+
+“14. Since the word “also” can have meanings such as “as well” or “likewise”, cannot those
+meanings be used for understanding the scope of the trio words “and may also”? Those words
+cannot altogether be detached from the other words in the sub-rule. Here again the word
+“and” need not necessarily be understood as denoting a conjunctive sense. In Stroud’s Judicial
+Dictionary, it is stated that the word “and” has generally a cumulative sense, but sometimes it
+is by force of a context read as “or”. Maxwell on Interpretation of Statutes has recognised the
+above use to carry out the interpretation of the legislature. This has been approved by this
+Court in Ishwar Singh Bindra v. State of U.P. [AIR 1968 SC 1450 : 1969 Cri LJ 19]. The
+principle of noscitur a sociis can profitably be used to construct the words “and may also” in
+the sub-rule.”
+
+# Segment 3
+
+In Gujarat Urja Vikas Nigam Ltd. Essar Power Ltd. (2008) 4 SCC 755 at 765, this Court held:
+
+“26. It may be noted that Section 86(1)() of the Act of 2003 is a special provision forf
+adjudication of disputes between the licensee and the generating companies. Such disputes
+can be adjudicated upon either by the State Commission or the person or persons to whom it is
+referred for arbitration. In our opinion the word “and” in Section 86(1)(f) between the words
+“generating companies” and “to refer any dispute for arbitration” means “or”. It is well settled
+that sometimes “and” can mean “or” and sometimes “or” can mean “and” (vide G.P. Singh’s
+Principles of Statutory Interpretation, 9th Edn., 2004, p. 404).
+
+# Segment 4
+
+In a recent judgment in Maharishi Mahesh Yogi Vedic Vishwavidyalaya State of M.P. (2013) 15 SCC 677 at 718, this Court held:
+
+“93. Besides the above two decisions, which discuss about the methodology of interpretation of
+---
+#
+
+# Segment 1
+
+- IBC Laws® | www.ibclaw.in
+
+# Segment 2
+
+In Ishwar Singh Bindra v. State of U.P., AIR 1968 SC 1450 : 1969 Cri LJ 19, the court held in para 11 that the conjunction "and" can sometimes be read as "or" based on the context to carry out the intention of the legislature.
+
+# Segment 3
+
+- Reference to Director of Mines Safety Tandur and Nayandgi Stone Quarries (P) Ltd. [(1987) 3 SCC 208] : (SCC p. 211, para 4)
+
+According to the decision, the word "and" in a specific context should be construed as "or" to fulfill the legislative intent of the Act.
+
+# Segment 4
+
+It is open to the adjudicating authority to determine the existence of a dispute based on the given circumstances.
+
+# Segment 5
+
+Section 255 along with the Eleventh Schedule of the Code has amended Section 271 of the Companies Act, 2013, eliminating the ground of inability to pay debts as a reason for winding up a company.
+
+# Segment 6
+
+The definition of "dispute" in the Insolvency and Bankruptcy Bill has evolved over time, excluding the term "bona fide" in the current version of the law.
+
+# Segment 7
+
+The term "existence" is interpreted as reality or the fact of being, especially in adverse conditions.
+---
+#
+# Document
+
+# Segment 1:
+
+Something that exists; an entity, a being. All that exists. (Page 894 – Oxford English Dictionary)
+
+# Segment 2:
+
+Two extremely instructive judgments, one of the Australian High Court, and the other of the Chancery Division in the UK, throw a great deal of light on the expression “existence of a dispute” contained in Section 8(2)(a) of the Code. The Australian judgment is reported as Spencer Constructions Pty Ltd v. G & M Aldridge Pty Ltd. [1997] FCA 641. The Australian High Court had to construe Section 459H of the Corporations Law.
+
+# Segment 2 - KeyValuePairs:
+
+- Section 459H of the Corporations Law: (1) ... (a) that there is a genuine dispute between the company and the respondent about the existence or amount of a debt to which the demand relates;
+
+# Segment 2 - Paragraphs:
+
+The expression “genuine dispute” was then held to mean the following: Finn J was content to adopt the explanation of “genuine dispute” given by McLelland CJ in Eq in Eyota Pty Ltd v Hanave Pty Ltd (1994) 12 ACSR 785 at 787 where his Honour said: “In my opinion [the] expression connotes a plausible contention requiring investigation, and raises much the same sort of considerations as the ‘serious question to be tried’ criterion which arises on an application for an interlocutory injunction or for the extension or removal of a caveat. This does not mean that the court must accept uncritically as giving rise to a genuine dispute, every statement in an affidavit ‘however equivocal, lacking in precision, inconsistent with undisputed contemporary documents or other statements by the same deponent, or inherently and probable in itself, it may be not having ‘sufficient prima facie plausibility to merit further investigation as to [its] truth’ (cf Eng Mee Yong v Letchumanan [1980] AC 331 at 341), or ‘a patently feeble legal argument or an assertion of facts unsupported by evidence’: cf South Australia v Wall (1980) 24 SASR 189 at 194.”
+
+# Segment 2 - Paragraphs:
+
+His Honour also referred to the judgment of Lindgren J in Rohala Pharmaceutical Pty Ltd (supra) where, at 353, his Honour said: “The provisions [of s 459H(1) and (5)] assume that the dispute and offsetting claim have an ‘objective’ existence the genuineness of which is capable of being assessed. The word ‘genuine’ is included [in ‘genuine dispute’] to sound a note of warning that the propounding of serious disputes and claims is to be expected but must be excluded from consideration”.
+
+# Segment 2 - Paragraphs:
+
+There have been numerous decisions of single judges in this Court and in State Supreme Courts which have analysed, in different ways, the approach a court should take in determining whether there is “a genuine dispute” for the purposes of s 459H of the Corporations Law. What is clear is that in considering applications to set aside a statutory demand, a court will not determine contested issues of fact or law which have a significant or substantial basis. One finds formulations such as:
+
+# Segment 2 - KeyValuePairs:
+
+- Print Date: June 6, 2024
+---
+#
+
+# Legal Dispute Resolution
+
+# Legal Dispute Resolution
+
+# Segment 1
+
+“… at least in most cases, it is not expected that the court will embark upon any extended enquiry in order to determine whether there is a genuine dispute between the parties and certainly will not attempt to weigh the merits of that dispute. All that the legislation requires is that the court conclude that there is a dispute and that it is a genuine dispute”. See Mibor Investments Pty Ltd v Commonwealth Bank of Australia (1993) 11 ACSR 362 at 366- 7, followed by Ryan J in Moyall Investments Services Pty Ltd v White (1993) 12 ACSR 320 at 324.
+
+# Segment 2
+
+Another formulation has been expressed as follows:
+
+“It is clear that what is required in all cases is something between mere assertion and the proof that would be necessary in a court of law. Something more than mere assertion is required because if that were not so then anyone could merely say it did not owe a debt …”
+
+See John Holland Construction and Engineering Pty Ltd v Kilpatrick Green Pty Ltd (1994) 12 ACLC 716 at 718, followed by Northrop J in Aquatown Pty Ltd v Holder Stroud Pty Ltd (Federal Court of Australia, 25 June 1996, unreported).
+
+# Segment 3
+
+In Re Morris Catering (Australia) Pty Ltd (1993) 11 ACSR 601 at 605, Thomas J said:
+
+“There is little doubt that Div 3 is intended to be a complete code which prescribes a formula that requires the court to assess the position between the parties, and preserve demands where it can be seen that there is no genuine dispute and no sufficient genuine offsetting claim. That is not to say that the court will examine the merits or settle the dispute. The specified limits of the court’s examination are the ascertainment of whether there is a ‘genuine dispute’ and whether there is a ‘genuine claim’.
+
+It is often possible to discern the spurious, and to identify mere bluster or assertion. But beyond a perception of genuineness (or the lack of it) the court has no function. It is not helpful to perceive that one party is more likely than the other to succeed, or that the eventual state of the account between the parties is more likely to be one result than another.
+
+The essential task is relatively simple – to identify the genuine level of a claim (not the likely result of it) and to identify the genuine level of an offsetting claim (not the likely result of it).”
+
+# Segment 4
+
+In Scanhill Pty Ltd v Century 21 Australasia Pty Ltd (1993) 12 ACSR 341 at 357 Beazley J said:
+
+“… the test to be applied for the purposes of s 459H is whether the court is satisfied that there is a serious question to be tried that the applicant has an offsetting claim”.
+
+# Segment 5
+
+In Chadwick Industries (South Coast) Pty Ltd v Condensing Vaporisers Pty Ltd (1994) 13 ACSR 37 at 39, Lockhart J said:
+
+“… what appears clearly enough from all the judgments is that a standard of satisfaction which a court requires is not a particularly high one. I am for present purposes content to adopt any of the standards that are referred to in the cases … The highest of the
+---
+#
+
+# Segment 1
+
+- thresholds is probably the test enunciated by Beazley J, though for myself I discern no inconsistency between that test and the statements in the other cases to which I have referred. However, the application of Beazley J’s test will vary according to the circumstances of the case.
+- Certainly the court will not examine the merits of the dispute other than to see if there is in fact a genuine dispute. The notion of a ‘genuine dispute’ in this context suggests to me that the court must be satisfied that there is a dispute that is not plainly vexatious or frivolous. It must be satisfied that there is a claim that may have some substance.
+
+# Segment 2
+
+- In Greenwood Manor Pty Ltd v Woodlock (1994) 48 FCR 229 Northrop J referred to the formulations of Thomas J in Re Morris Catering (Australia) Pty Ltd (1993) 11 ACLC 919, 922 and Hayne J in Mibor Investments Pty Ltd v Commonwealth Bank of Australia (supra), where he noted the dictionary definition of “genuine” as being in this context “not spurious … real or true” and concluded (at 234):
+
+“Although it is true that the Court, on an application under ss 459G and 459H is not entitled to decide a question as to whether a claim will succeed or not, it must be satisfied that there is a genuine dispute between the company and the respondent about the existence of the debt. If it can be shown that the argument in support of the existence of a genuine dispute can have no possible basis whatsoever, in my view, it cannot be said that there is a genuine dispute. This does not involve, in itself, a determination of whether the claim will succeed or not, but it does go to the reality of the dispute, to show that it is real or true and not merely spurious”.
+
+# Segment 3
+
+- In our view a “genuine” dispute requires that:
+
+1. the dispute be bona fide and truly exist in fact;
+2. the grounds for alleging the existence of a dispute are real and not spurious, hypothetical, illusory or misconceived.
+
+We consider that the various formulations referred to above can be helpful in determining whether there is a genuine dispute in a particular case, so long as the formulation used does not become a substitute for the words of the statute.”
+
+# Segment 4
+
+To similar effect is the judgment of the Chancery Division in Hayes Hayes (2014) EWHC 2694 (Ch) under the U.K. Insolvency Rules. The Chancery Division held:
+
+“I do not think it necessary, for the purposes of this appeal, to embark on a survey of the authorities as to precisely what is involved in a genuine and substantial cross-claim. It is clear that on the one hand, the court does not need to be satisfied that there is a good claim or even that it is a claim which is prima facie likely to succeed. In In re Bayoil SA [1999] 1 WLR 147 itself, Nourse LJ referred, at p 153, to what Harman LJ had said in In re LHF Wools Ltd [1970] Ch 27, 36 where Harman LJ, having referred to a previous case, said:
+
+“The majority decided in that case that, shadowy as the cross-claim was and improbable as the events said to support it seemed to be, there was just enough to make the principle work, namely, that it was right to have the matter tried out before the axe fell.”
+---
+#
+
+# Segment 1
+
+On the other hand, the court should be alert to detect wholly spurious claims merely being put forward by an unwilling debtor to raise what has been called “a cloud of objections” as I referred to earlier.
+
+# Segment 2
+
+Interestingly enough in In Re: Portman Provincial Cinemas Ltd. (1999) 1 WLR 157, a sharply divided Court of Appeal had to decide whether a winding up petition should be dismissed on the ground that a cross-claim had to be tried. Lord Denning, the minority Judge put it thus:
+
+“It comes to this: Mr. Hymanson has put forward a most astonishing claim for an indemnity against losses in perpetuity—based on an oral agreement eight years ago—in a railway carriage or a solicitor’s office—with nothing to support it at all: against a man now dead. If there was substance in it fit for the court to consider, he should have condescended to a great deal more particularity. At all events, he should have done so if he wished to convince me. I do not think this cross-claim has any substance at all. I would reject it as an answer to this creditor’s debt and I would allow the appeal accordingly.”
+
+On the other hand, Justice Harman in agreeing with the Chancery Division judgment, held:
+
+“I do not think that on this proceeding we are entitled to adjudicate upon that matter. I do not think we ought to reject out of hand statements on oath by Mr. Hymanson and Mr. Waller which, unsatisfactory as they may be, do yet set up affirmatively this story. There is nobody, of course, to contradict them. I think we must take it that there is at least a chance that the judge will believe that story and will agree that there was such a bargain made, and, moreover, that it was an inherent part of the sale agreement.
+
+# Segment 3
+
+Therefore, I have had grave doubts about this matter but I have come to the conclusion on the whole that it cannot be said that the story was so vague and the likelihood of success so slight that we can say there was no substance in the cross-claim. I think the judge was right to say that the matter ought to go to trial, and therefore according to the modern practice the petition should be dismissed, and I would so hold.”
+
+Similarly, Russell L.J. held:
+
+“Lord Denning M.R. has taken the view that the deponents of the company really have made up this story, so strong are the circumstances which seem to point in the opposite direction. As I have said, I agree it is a most extraordinary story, but I am not prepared, merely on the basis of affidavits and circumstances appearing in the Companies Court, to hold that really not only is their story strange, but palpably untrue.”
+
+# Segment 4
+
+It is clear, therefore, that once the operational creditor has filed an application, which is otherwise complete, the adjudicating authority must reject the application under Section 9(5)(2)(d) if notice of dispute has been received by the operational creditor or there is a record of dispute in the information utility. It is clear that such notice must bring to the notice of the operational creditor the “existence” of a dispute or the fact that a suit or arbitration proceeding relating to a dispute is pending between the parties. Therefore, all that the adjudicating authority is to see at this stage is whether there is a plausible contention which requires further investigation and that the “dispute” is
+
+# Print Date: June 6, 2024
+---
+#
+# Document
+
+# Segment 41
+
+- It is important to separate the grain from the chaff and to reject a spurious defence.
+- The Court does not need to be satisfied that the defence is likely to succeed.
+- The Court does not examine the merits of the dispute at this stage.
+
+# Segment 42
+
+- The argument regarding the certificate by IDBI was not raised in time.
+- The confirmation from a financial institution is crucial under Section 9 of the Code.
+- The application cannot be dismissed solely for lack of this certificate.
+
+# Segment 43
+
+- A dispute exists in the present case.
+- The definition of "dispute" is inclusive.
+- Correspondence between the parties shows a real dispute regarding payment.
+
+# Segment 44
+
+Apparently, nothing came of the emails exchanged between the parties.
+---
+#
+
+# Segment 44:
+
+The demand notice sent by the respondent was disputed in detail by the appellant in its reply dated 27th December, 2016, which set out the e-mail of 30th January, 2015. The appellant then went on to state:
+
+- Sometime during June and September 2016, an officer of your Client, one Mr. Jasmeet Singh wrote to our Client that he wanted to meet and revive business relationship and exploring common interest points to work together. In fact, in his email, he admits that there should be resolution to the impending payments thereby implying that there was (a) a dispute (as defined under the Code) and (b) there was a breach of the NDA which needed to be resolved. Mr. Singh’s emails to our client were sent after 1 year and 6 months had elapsed from the date of our Client’s email of 30 January 2015. This clearly shows that your Client was silent during this period and had not bothered to answer the questions raised by our Client. Hence, once again in September, our Client called upon your Client to explain its breach of the NDA. Your Client instead of explaining its breach of the NDA remained silent for about 3 months and thereafter chooses to issue the Notice as a form of pressure tactic and extort monies from our Client for your Client’s breach of the NDA. All the conduct of your Client explicitly shows laches on its part.
+- Your Clients should note that under the NDA, it has agreed that a breach of the NDA will cause irreparable damage to our Client and our Client is entitled to all remedies under law or equity against your Client for the enforcement of the NDA. Accordingly, given the severity of the breaches of the NDA committed by your Client, the delay and laches committed by your Client and the conduct of your Client, our Client is not liable to make payments to your Client against the breaches of the NDA and the delay and laches committed by your Client. In fact, at this stage, our Client is contemplating initiating necessary legal actions against your Client and its parent company for the breach of the NDA to seek further compensations and damages and other legal and equitable remedies against your Client and its parent company.
+
+# Segment 45:
+
+Going by the aforesaid test of “existence of a dispute”, it is clear that without going into the merits of the dispute, the appellant has raised a plausible contention requiring further investigation which is not a patently feeble legal argument or an assertion of facts unsupported by evidence. The defense is not spurious, mere bluster, plainly frivolous or vexatious. A dispute does truly exist in fact between the parties, which may or may not ultimately succeed, and the Appellate Tribunal was wholly incorrect in characterizing the defense as vague, got-up and motivated to evade liability.
+
+# Segment 46:
+
+Learned counsel for the respondent, however, argued that the breach of the NDA is a claim for unliquidated damages which does not become crystallized until legal proceedings are filed, and none have been filed so far. The period of limitation for filing such proceedings has admittedly not yet elapsed. Further, the appellant has withheld amounts that were due to the respondent under the NDA till the matter is resolved. Admittedly, the matter has never been resolved. Also, the respondent itself has not commenced any legal proceedings after the e-mail dated 30th January, 2015 except for the present insolvency application, which was filed almost 2 years after the said e-mail. All these circumstances go to show that it is right to have the matter tried out in the present case before the axe falls.
+
+# Segment 47:
+
+We, therefore, allow the present appeal and set aside the judgment of the Appellate Tribunal.
+---
+#
+
+# Document
+
+# Segment Headers
+
+# Original judgment copy is available here.
+
+# Segment Lists
+
+- Case Laws Portal
+- Join WhatsApp Channel
+- Subscribe Now Corporate Plan
+- Dashboard/OnePage
+- Case Laws Portal
+- Bare Acts/Legal Contents
+- IBC Commentary
+- Arbitration Portal
+- Case Citation
+- Weekly Bulletins
+- Articles
+
+# Segment KeyValuePairs
+
+Print Date: June 6, 2024

@@ -1,0 +1,7 @@
+2. Conflict Check Agent
+
+The Conflict Check Agent safeguards neutrality by verifying that the proposed mediator, arbitrator, or professional has no conflicts of interest with the parties involved. It runs automated background checks across professional databases, past assignments, and corporate relationships to detect any prior engagements, affiliations, or adverse interests.
+
+The agent reviews shareholding data, directorship records, and client lists to identify potential overlaps that could compromise impartiality. If a conflict or perceived bias is detected, it flags the case and recommends alternate neutral candidates. This ensures adherence to the ethical standards laid down by the IBBI, Mediation Rules, and Arbitration & Conciliation Act.
+
+A detailed conflict verification report is then generated, recording the due diligence process and outcomes. This report becomes part of the official case record, protecting the integrity of the proceedings and mitigating future challenges to the mediator’s neutrality.

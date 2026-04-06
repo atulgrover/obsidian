@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar - atul</title>
+        <description>Digital Agents for IBC Processes</description>
+        <link>https://resolutionbazaar.com/</link>
+        <image rdf:resource="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-04-17T07:54:35+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=atul:research&amp;rev=1744875467&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://resolutionbazaar.com/</link>
+        <url>https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=atul:research&amp;rev=1744875467&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-17T07:37:47+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>research</title>
+        <link>https://resolutionbazaar.com/doku.php?id=atul:research&amp;rev=1744875467&amp;do=diff</link>
+        <description>INTRODUCTION
+
+	* Artificial intelligence (AI) has gained substantial traction in legal fields, including insolvency, particularly in developed nations such as the United States and the European Union. AI-powered tools like Data 61, DataLex AI, and ROSS have demonstrated their effectiveness in advanced analytics, scenario modeling, and financial performance predictions, significantly aiding insolvency law enforcement. For instance, LDM Global’s AI tool “Accelerator” has enhanced efficiency in ins…</description>
+    </item>
+</rdf:RDF>

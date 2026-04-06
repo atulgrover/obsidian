@@ -1,0 +1,349 @@
+
+/* indicate special modes by using a different background and border */
+body.mode_admin {
+	main {
+		& {
+			background-color: @ini_background_alt;
+			border: @ini_text_alt solid 2px;
+			color: @ini_text_alt;
+		}
+		#toc {
+			background-color: @ini_background_alt;
+		}
+		#navYouAreHere {
+			background-color: @ini_background;
+			padding: .25em .25em 0 .25em;
+			border-radius: .25em;
+			border: @ini_text_alt solid 2px;
+		}
+		table th {
+			background-color: @ini_background_neu;
+		}
+	}
+	div.ui-admin {
+	
+		& {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+		}
+		
+		h1.first-child,
+		div.level1	{
+			grid-column: 1 / span 2;
+			margin-bottom: 1em;
+		}
+
+		/* main task grouped in two columns */
+		ul.admin_tasks {
+			grid-column: 2;
+			list-style-type: none;
+			font-size: 1.125em;
+			margin: 0;
+		}
+		ul.admin_tasks:first-of-type {
+			grid-row: 3 / span 4;
+			grid-column: 1;
+		}
+		ul.admin_plugins {
+			grid-row: 6;
+			grid-column: 2;
+		}	
+
+		/* general menu item styling */
+		ul {
+			padding: 0;
+			li {
+				margin: 0 0 1em 0;
+				font-weight: bold;
+				list-style-type: none;
+				white-space: nowrap;
+
+				a {
+					display: flex;
+					span {
+						display: inline-block;
+
+						&.icon {
+							width: 1.5em;
+							min-height: 1.5em;
+							margin: 0 0.5em;
+							vertical-align: top;
+
+							svg {
+								width: 1.5em;
+								height: 1.5em;
+								fill: @ini_link;
+								display: inline-block;
+								path {
+									fill: @ini_link;
+								}
+							}
+						}
+
+						&.prompt {
+							white-space: normal;
+						}
+					}
+				}
+			}
+		}
+
+		/* Security Warning */
+		#security__check {
+			clear: both;
+			grid-row: 7;
+			grid-column: 1 / span 2;
+		}
+
+		/* DokuWiki version */
+		#admin__version {
+			display: block;
+			box-sizing: border-box;
+			width: 100%;
+			max-height: 7em;
+			overflow: auto;
+			color: @ini_text_neu;
+			background: @ini_background_neu url('images/info.svg') .25em .5em no-repeat;
+			background-size: 1em;
+			padding: .25em 0 .25em 1.75em;
+			border: @ini_border 1px solid;
+			border-radius: .25em;
+			box-shadow: inset .5pt .5pt 1pt #00000088;
+			grid-row: 9;
+			grid-column: 1 / span 2;
+		}
+	}
+	
+	/* user manager: */
+	#user__manager {
+		button {
+			& {
+				background-color: @ini_background;
+				border: @ini_text solid 1px;
+				border-radius: .25em;
+				padding: .25em .5em;
+				cursor: pointer;
+			}
+			&#usrmgr__del {
+				background-color: #fcd;
+				color: @ini_text;
+			}
+			&[name="fn[add]"] {
+				background-color: #cdf;
+				color: @ini_text;
+			}
+			&[name="fn[start]"] {
+				border-radius: .5em 0 0 .5em;
+			}
+			&[name="fn[prev]"],
+			&[name="fn[next]"] {
+				border-radius: 0;
+				border-left-width: 0;
+			}
+			&[name="fn[last]"] {
+				border-radius: 0 .5em .5em 0;
+				border-left-width: 0;
+			}
+		}
+	}
+
+	/* extensions manager */
+	#extension__list {
+		ul.extensionList {
+			li {
+				padding: .25em .5em;
+				border: transparent dashed 2pt;
+				border-radius: .25em;
+			}
+			li.update {
+				border-color: @ini_focus_color;
+			}
+		}
+
+		.legend a.info, .legend a.info.close {
+			width: 22px;
+			height: 22px;
+			background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M11 9H13V7H11M12 20C7.59 20 4 16.41 4 12C4 7.59 7.59 4 12 4C16.41 4 20 7.59 20 12C20 16.41 16.41 20 12 20M12 2A10 10 0 0 0 2 12A10 10 0 0 0 12 22A10 10 0 0 0 22 12A10 10 0 0 0 12 2M11 17H13V11H11V17Z' style='fill:%23ADADB3'/%3E%3C/svg%3E") center no-repeat;
+			background-size: 24px;
+			border-radius: 50%;
+			margin-bottom: .5em;
+		}
+	  
+		/* git warnings */
+		.actions {
+			p.permerror {
+				border: #D99C3C solid 1px;;
+				background-color: #FBF0C4;
+				background-position: 1px 1px;
+				border-radius: 2pt;
+				padding: 1.5px 1pt 0 22px;
+			}
+			.available {
+				border: #6EC247 solid 1px;
+				background-color: #C4FEB8;
+				padding: 1pt;
+				border-radius: 2pt;
+			}
+		}
+
+		/* extensions manager */
+		section.extension {
+
+			& {
+				padding: .5rem;
+				border: @ini_border solid 1pt;
+				border-radius: .5rem .25rem .25rem .5rem;
+				border-left: .5rem solid darken(@ini_border, 20%);
+				align-items: start;
+			}
+			&.enabled {
+				border-left-color: #0085F2;
+			}
+			&.disabled {
+				border-left-color: @ini_border;
+			}
+			&.update {
+				border-left-color: #B71C1C;
+			}
+
+			/* elements */
+			h2 {
+				margin: 0; padding: 0;
+			}
+
+			/* notices */
+			& > .notices {
+				li.info {
+					background-image: none;
+				}
+				li.warning {
+					border: #D99C3C solid 1px;;
+					background-color: #FEA;
+					border-radius: 2pt;
+					padding: 0 1pt 2pt 0;
+					margin-bottom: 1.5pt;
+				}
+				li.error {
+					border: #F33 solid 1px;;
+					background-color: #FFDADA;
+					border-radius: 2pt;
+					padding: 0 1pt 2pt 0;
+					margin-bottom: 1.5pt;
+				}
+				span.icon {
+					align-self: flex-start;
+					margin: 1pt 0 0 1pt;
+				}
+			}
+		}
+	}
+	
+}
+
+/* style the extension manager items: */
+body.dokuwiki #extension__manager {
+	form.install { box-sizing: border-box; width: 100%; padding: 1em 2em; background-color: #EEE; }
+	form.install .block { text-align: left; width: 100% }
+	form.install input[name=installurl] {
+		font-family: @ini_mono_fonts;
+		padding: .25em .25em .25em 24px;
+		border-radius: 10px;
+		background: @ini_background_site url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAABdklEQVR4AWMgAVRo1zY3rGk41rC+rqvCBCJWBpPM4WoomLHtdtuv/t9Lfk263TtrQ0t7Oj9cbzZDc/W6s/8T7khD+P+F/8bv29PZlswJVVBu0vPuVZyNYHFZbmAqE1SR0cbjXR6pjGBO58am962Ta3e3ftqy6B5LCcMasOj7gInrm9jBzI4vTX+bfjT/7/4/p/w/zFXybUmt71u4wJzGfxP/t/xvA+KaP2XnQSKVFpWPav/U/6+HKJjz++OVJUDp1n9N/+r+19QyMCz1mPC/8X/X/26Igrn3GiUeL5n/v+F/8//6/9NOMTC0hDUDefP/L4MoOL6ickVeSQ1QqAGooPdBJE/lnloge/fhixBHftFd9bLkR83/+n/1QAXVP8qX1Pyv/L/s/12f/4xQNz8s3Pa/6X/Vvzqgour/5f/r/q//f2fmLy54WP7lfJN74eMSoKIyoNFz/5/+9ar+Px9aZL3Xfjvz7aO3/96+eLvsnSVE7CPhOAYA9nvIX0UoNU8AAAAASUVORK5CYII=') 3px center no-repeat;
+		width: calc(100% - 6em);
+	}
+	form.install input[name=overwrite] { width: auto; margin-left: 2em;}
+	form.install button[type=submit] {
+		border: #CCC solid 1.5pt;
+		padding: .5em .75em;
+		background-color: #cdf;
+	}
+	form.install button[type=submit]::before {
+		content: ' ';
+		display: inline-block;
+		position: relative;
+		top: .1em;
+		width: 1em;
+		height: 1em;
+		background: transparent url('images/editor/edit-save.svg') center bottom no-repeat;
+		margin-right: .25em;
+	}
+}
+
+/* dark mode overrides */
+@media (prefers-color-scheme: dark) {
+	body.darkmode.mode_admin {
+		main {
+			& {
+				background-color: @ini_background_alt_dark;
+				border-color: @ini_text_alt_dark;
+				color: @ini_text_alt_dark;
+			}
+			#toc {
+				background-color: @ini_background_alt_dark;
+				border-left: @ini_text_alt_dark solid .5pt;;
+			}
+			#navYouAreHere {
+				background-color: @ini_background_dark;
+				border-color: @ini_text_alt_dark;
+			}
+		}
+
+		#extension__manager form.install { background-color: #39393D; }
+		#extension__manager form.install button[type=submit] {	
+			color: #CDF;
+			background-color: #346;
+			border-color: #90909B;
+		}
+		#extension__manager form.install button[type=submit]::before { filter: invert(.9); }
+		div.ui-admin #admin__version {
+			color: @ini_text_neu_dark;
+			background-color: @ini_background_neu_dark;
+		}
+	
+		div.ui-admin ul li a span.icon {
+			svg {
+				& { fill: @ini_link_dark; }
+				path { fill: @ini_link_dark; }
+			}
+		}
+
+		/* Extension Manager: */
+		#extension__manager{
+			.panelHeader { background-color: @ini_background_alt_dark; }
+			ul.tabs li a { background-color: @ini_background_dark; border-color: @ini_border_dark; color: @ini_text_dark }
+			ul.tabs li.active a { background-color: @ini_background_alt_dark; border-color: @ini_text_dark; }
+			tr .input, tr.default .input { color: @ini_text_dark; }
+		}
+		#extension__list {
+			ul.extensionList li { color: @ini_text_dark; }
+			.actions {
+				p.permerror {
+					border-color: #86560A;
+					background-color: #4D3F04;
+				}
+				.available {
+					border-color: #4F7A0B;
+					background-color: #333E03;
+				}
+			}
+			section.extension > .notices {
+				li.warning {
+					border-color: #86560A;
+					background-color: #4D3F04;
+				}
+				li.error {
+					border-color: #A62A2A;
+					background-color: #360505;
+				}
+			}
+			ul.extensionList li.update {
+				border-color: @ini_focus_color_dark;
+			}	
+		}
+	}
+}
+
+/* below tablet size */
+@media (max-width: @ini_tablet_width) {
+	body.dokuwiki div.ui-admin { display: block; }
+}

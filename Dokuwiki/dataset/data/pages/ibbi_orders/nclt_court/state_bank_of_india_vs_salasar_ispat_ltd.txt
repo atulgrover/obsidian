@@ -1,0 +1,199 @@
+<html>
+<div>
+	<h1>
+		In case prior proceedings before DRT under SARFAESI Act, 2002 have not ended and are still ongoing, the principle of Section 14 of the Limitation Act will not apply to application under Section 7 of IBC &ndash; State Bank of India Vs. Salasar Ispat Ltd. &ndash; NCLT Kolkata Bench
+	</h1>
+	<div>
+		July 20, 2023
+	</div>
+	<p>
+		In this important judgment, the NCLT Kolkata Bench analyses the conditions need to be fulfilled for the applicability of Section 14 of Limitation Act, 1963.
+	</p>
+</div>
+<div>
+	<div>
+		<div>
+			<div>
+				<div>
+					<p>
+						<strong>
+							 I. Case Reference
+						</strong>
+					</p>
+					Case Citation:(2023) 352 NCLTCase Name:State Bank of India Vs. Salasar Ispat Ltd.Financial Creditor:State Bank of IndiaCorporate Debtor:Salasar Ispat Ltd.Application/Appeal No.:C.P. (IB)224/KB/2021Judgment Date:14-Jul-23Court/Bench:NCLT Kolkata BenchMember (Judicial):Ms.&nbsp;Bidisha BanerjeeMember (Technical):Shri Balraj Joshi
+					<p>
+						<strong>
+							 II. Brief about the decision
+						</strong>
+					</p>
+					<p>
+						<em>
+							<strong>
+								 Facts of the case
+							</strong>
+						</em>
+					</p>
+					<ul>
+						<li>
+							This is a Company Petition under p 7 of the IBC&nbsp;by State Bank of India (Financial Creditor) seeking to initiate CIRP against Salasar Ispat Ltd. (Corporate Debtor).
+						</li>
+						<li>
+							In the instant petition, the Ld. Counsel on behalf of the Financial Creditor has attempted to exclude the time period between the filing of the proceedings before the DRT under the SARFAESI Act, 2002 and the filing of the instant petition in light of p 14 of the Limitation Act, 1963.&nbsp;In support of his arguments, the Ld. Counsel has relied on the decision taken by the Hon&rsquo;ble Supreme Court in the matter of
+							<em>
+								 Sesh Nath Singh Vs. Baidyabati Sheoraphuli Cooperative Bank Ltd&nbsp;(2021) 49 SC
+							</em>
+							 .
+						</li>
+					</ul>
+					<p>
+						<em>
+							<strong>
+								 Decision of the Adjudicating Authority
+							</strong>
+						</em>
+					</p>
+					<p>
+						<strong>
+							 1. For the&nbsp;applicability of Section 14 of Limitation Act, 1963, the conditions need to be fulfilled
+						</strong>
+					</p>
+					<ul>
+						<li>
+							In the
+							<em>
+								 Sesh Nath Singh Vs. Baidyabati Sheoraphuli Cooperative Bank Ltd&nbsp;(2021) 49 SC
+							</em>
+							 . judgment, the Apex Court has dealt with in detail the applicability of Section 14 as well as the condonation of delay under p (5) of the Limitation Act and has deliberated on the finer points of the consequence of pursuing a petition before a wrong forum.&nbsp;In light of
+							<em>
+								 Sesh Nath Singh (Supra)
+							</em>
+							 for the&nbsp;applicability of Section 14, the following conditions need to be fulfilled:
+						</li>
+						<li>
+							<ul>
+								<li>
+									a) prosecuting
+									<em>
+										<strong>
+											 civil proceedings
+										</strong>
+									</em>
+									 with due diligence;
+								</li>
+								<li>
+									b) the former proceeding was being prosecuted in good faith in a Court which, from
+									<em>
+										<strong>
+											 defect of jurisdiction or other cause of like nature
+										</strong>
+									</em>
+									 , is unable to entertain it, (as such the prior forum should be a wrongone);
+								</li>
+								<li>
+									c) earlier proceedings relate to the same mater in issue or are for the
+									<em>
+										<strong>
+											 same relief.
+										</strong>
+									</em>
+								</li>
+							</ul>
+						</li>
+					</ul>
+					<p>
+						<strong>
+							 1.1 &ldquo;Civil proceedings&rdquo;
+						</strong>
+					</p>
+					<ul>
+						<li>
+							The proceedings before the DRT under the provisions of the SARFAESI Act 2002 will indeed be deemed to be civil proceedings.
+							<strong>
+								 (p8.11)
+							</strong>
+						</li>
+					</ul>
+					<p>
+						<strong>
+							 1.2 &ldquo;Defect of jurisdiction or other cause of like nature&rdquo;
+						</strong>
+					</p>
+					<ul>
+						<li>
+							Coming to the next condition however, it can be seen from the DRT orders that the DRT has not refused to entertain the said proceedings at all. Rather, the proceedings have been admitted and are pending adjudication. The same would signify that the DRT proceedings have not been aborted due to want of jurisdiction, which is an essential under p 14.
+							<strong>
+								 (p8.12)
+							</strong>
+						</li>
+						<li>
+							In the instant matter, not only have the prior proceedings not been dismissed on technical ground, rather they have been admitted. As such, the second condition for the applicability of p 14 of the Limitation Act has not been fulfilled.
+							<strong>
+								 (p8.13)
+							</strong>
+						</li>
+					</ul>
+					<p>
+						<strong>
+							 1.3 &ldquo;Same relief&rdquo;
+							<em>
+								 &ndash;
+							</em>
+							 Whether for the purpose of applicability of p 14 of the Limitation Act, the relief offered by the IBC and SARFAESI Act 2002 are the same
+						</strong>
+					</p>
+					<ul>
+						<li>
+							The last condition is that both the proceedings must be in pursuance of the same relief. It is an accepted assertion that the IBC is not a recovery forum whereas the SARFAESI is so. However, it cannot be denied that there is actually an overlap between the two, since at the end of the day the IBC is also a mechanism for release of the stuck money into the credit market through a process of resolution, whereas SARFAESI adopts a more direct route of recovery. The question that needs determination is whether for the purpose of applicability of p 14 of the Limitation Act, the relief offered by the IBC and SARFAESI Act 2002 are the same.
+							<strong>
+								 (p8.14)
+							</strong>
+						</li>
+						<li>
+							In this regard, we would like to refer to the decision taken in the matter of
+							<em>
+								 Niyogi Offset Printing Press Limited vs. Doctor Morepen Limited
+							</em>
+							 wherein the Hon&rsquo;ble High Court of Delhi held that a company petition for winding up in which ultimately the petitioner may get the amount due to him or some amount on pro rata basis, does not necessarily mean that the matter in issue will be the same as in a suit for recovery of amount, had it been filed.
+							<strong>
+								 (p8.15)
+							</strong>
+						</li>
+						<li>
+							While making comparisons between SARFAESI proceedings and the proceedings under IBC, it is clear to us that in the process of CIRP, recovery is merely a byproduct. The object of IBC and SARFAESI Act 2002 are not the same and as such, both the reliefs offered by both cannot be deemed the &lsquo;same relief&rsquo; for the purpose of applicability of p 14 of the Limitation Act.
+							<strong>
+								 (p8.16)
+							</strong>
+						</li>
+					</ul>
+					<p>
+						<strong>
+							 2. Conclusion
+						</strong>
+					</p>
+					<ul>
+						<li>
+							<strong>
+								 In the instant matter, the prior proceedings have not ended and are still&nbsp;ongoing. As such, the principle of p 14 of the Limitation Act will not apply to the instant petition.(p8.18)
+							</strong>
+						</li>
+						<li>
+							Since the facts of the case do not meet the basic requirements for the applicability of p 14 of the Limitation Act, the exclusion of time period sought by the Financial Creditor cannot be provided. As such, the instant petition filed on 30.07.2021 is barred by limitation and ought to be
+							<strong>
+								 rejected
+							</strong>
+							 . Consequently, C.P.(IB) No. 224/KB/2021 shall stand
+							<strong>
+								 dismissed
+							</strong>
+							 .
+							<strong>
+								 (p8.19-8.20)
+							</strong>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</html>

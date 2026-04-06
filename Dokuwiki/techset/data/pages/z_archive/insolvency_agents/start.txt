@@ -1,0 +1,116 @@
+### **I. Core Insolvency Agents**
+
+Responsible for the end-to-end insolvency process.
+
+* **Insolvency Agents**
+
+  * Insolvency Professionals
+  * Insolvency Applicants
+  * Corporate Debtors
+  * Personal Guarantors
+  * Committee Creditors
+  * Claimant Creditors
+  * Stakeholder Agents
+  * CoC Formation
+
+---
+
+### **II. Process Management Agents**
+
+Orchestrate and monitor insolvency workflow phases.
+
+* **Pre-Initiation Agents**
+
+  * Pre-Initiation / Pre-initiation
+  * Due Diligence
+  * 29A Verification
+  * Mediation & Negotiation
+* **Plan Management Agents**
+
+  * Plan Preparation
+  * Plan Evaluation
+  * Plan Analysis
+  * Plan Implementation
+  * Plan Management
+* **Post-Closure Agents**
+
+  * Closure Management
+  * Distribution & Repayment
+  * Repayment & Settlement
+  * Enforcement & Discharge
+  * Monitoring & Audit
+
+---
+
+### **III. Asset Management Agents**
+
+Handle discovery, valuation, marketing, and disposal of assets.
+
+* **Asset Lifecycle Agents**
+
+  * Asset Discovery
+  * Asset Valuation
+  * Asset Management (Asset_Mgt)
+* **Asset Realization Agents**
+
+  * Asset Marketing
+  * Auction Management / Auction_Mgt
+  * Quotation Request
+
+---
+
+### **IV. Compliance & Legal Agents**
+
+Ensure legal adherence and statutory compliance.
+
+* **Compliance Agents**
+
+  * Compliance Management (Compliance_Mgt)
+  * Compliance Reporting
+  * Legal Compliance
+
+---
+
+### **V. Financial & Analytical Agents**
+
+AI/data-driven support for valuation, decision-making, and fraud detection.
+
+* **Analytical Agents**
+
+  * Decision Support
+  * Adaptive Analytics
+  * Recovery Analytics
+  * Reporting Analytics
+  * Sentiment Analysis
+* **Financial Evaluation Agents**
+
+  * Financial Assessment
+  * Fraud Detection
+  * Risk & Fraud Detection
+
+---
+
+### **VI. Information & Acquisition Agents**
+
+Assist in document flow, data management, and investor engagement.
+
+* **Acquisition Agents**
+
+  * Acquisition Agents
+  * Investor Search
+  * Investor Applicants
+* **Information Agents**
+
+  * Document Management (Document_Mgt)
+  * Claims Management / Claims_Mgt
+
+---
+
+### **VII. Expert & Specialist Agents**
+
+Provide professional and technical expertise.
+
+* **Specialist Agents**
+
+  * Forensic Auditors
+  * Registered Valuers

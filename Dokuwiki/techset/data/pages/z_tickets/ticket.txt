@@ -1,0 +1,28 @@
+~~NOTOC~~
+====== @@ticketid@@ - @@subject@@ ======
+{{tag>Ticket @@priority@@ %Y %B}}
+----
+<block float-right>
+{{tag-button>closed:error|Mark as Closed}}
+{{tag-button>solved:success|Mark as Solved}}
+{{tag-button>archived|Archive}}
+</block>
+===== Ticket Information =====
+|  <barcode type="UPCA" scale="4" size="64px" value="@@ticketid@@" />  ||||
+^ ID | @@ticketid@@ ^ Created | @@created@@ |
+^ Priority | @@priority|@@ ||
+
+===== Contact Information =====
+^ Name | @@full_name|@@ |
+^ Email | [[@@email|@@]] |
+^ Phone Number | @@phone|@@ |
+
+===== Gallery =====
+{{gallery>.}}
+
+===== Issue =====
+<block box>
+@@description|@@
+</block>
+
+~~DISCUSSION|Notes~~

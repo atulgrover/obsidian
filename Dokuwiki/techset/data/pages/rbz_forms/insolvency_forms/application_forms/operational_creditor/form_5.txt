@@ -1,0 +1,7 @@
+{{tag>judicial_process:insolvency_process form_type:application_forms process_type:insolvency_initiation stakeholder_type:corporate_lawyer}}
+
+====== APPLICATION BY OPERATIONAL CREDITOR TO INITIATE CIRP ======
+
+Insolvency Initiation - Application Form 5 - {{pdf:insolvency_application_form5.pdf}}
+
+{{pdfjs 200em,500px> pdf:insolvency_application_form5.pdf}}

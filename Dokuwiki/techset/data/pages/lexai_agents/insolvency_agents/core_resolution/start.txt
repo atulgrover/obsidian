@@ -1,0 +1,19 @@
+{{tagfilter>Agentic Store=store:.*=store:insolvency_agents|Division=division:.*=division:core_resolution|Cluster=cluster:.*|Agent=agent:.*}}
+
+
+**I. Core Resolution Division**
+Agents handling the lifecycle of insolvency, restructuring, and liquidation.
+
+  * Case Initiation Agents
+    * [[rbz_agenbots:insolvency_agents:core_resolution:case_initiation_agents:Debtor Discovery Agent (DDA)]]
+    * [[rbz_agenbots:insolvency_agents:core_resolution:case_initiation_agents:Insolvency Petition Drafting Agent (IPDA)]]
+    * [[rbz_agenbots:insolvency_agents:core_resolution:case_initiation_agents:Legal Filing Automation Agent (LFAA)]]
+    * [[rbz_agenbots:insolvency_agents:core_resolution:case_initiation_agents:Jurisdiction Validator Agent (JVA)]]
+  * Process Navigation Agents
+    * [[rbz_agenbots:insolvency_agents:core_resolution:process_navigation_agents:Insolvency Process Navigator Agent (IPNA)]]
+    * [[rbz_agenbots:insolvency_agents:core_resolution:process_navigation_agents:Resolution Timeline Tracker (RTT)]]
+    * [[rbz_agenbots:insolvency_agents:core_resolution:process_navigation_agents:Procedural Compliance Auditor (PCA)]]
+  * Closure & Liquidation Agents
+    * [[rbz_agenbots:insolvency_agents:core_resolution:closure_liquidation_agents:Liquidation Distribution Planner (LDP)]]
+    * [[rbz_agenbots:insolvency_agents:core_resolution:closure_liquidation_agents:Recovery Monitoring Agent (RMA)]]
+    * [[rbz_agenbots:insolvency_agents:core_resolution:closure_liquidation_agents:Post-Closure Review Agent (PCRA)]]

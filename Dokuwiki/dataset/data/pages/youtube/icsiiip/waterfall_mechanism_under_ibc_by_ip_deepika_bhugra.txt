@@ -1,0 +1,829 @@
+# "Waterfall Mechanism under IBC" by IP Deepika Bhugra
+![](https://img.youtube.com/vi/hj7-0ilhS6s/hqdefault.jpg)
+2 years ago (Dec 21, 2022) — 1:50:32
+[https://youtube.com/watch?v=hj7-0ilhS6s](https://youtube.com/watch?v=hj7-0ilhS6s)
+
+
+## Summary
+Deepika V Prasad, a qualified cost and management accountant and insolvency professional, discusses the waterfall mechanism under the Insolvency and Bankruptcy Code (IBC) 2016. The waterfall mechanism is a sequential list of stakeholders indicating the priority in getting payments from the liquidation of a company's assets. The discussion covers the historical perspective of this mechanism, the distribution of assets under section 53 of the IBC code, and the priority of payments. The session also covers the insolvency resolution process costs, liquidation costs, workman's dues, debts to secured and unsecured creditors, financial debts, and the role of the Liquidator. The waterfall mechanism is crucial for determining the order of distribution of assets among creditors during the liquidation of a company.
+
+## Topic of waterfall mechanism under IPC and to con to deliver the session on the same.
+0:00
+Topic of waterfall mechanism under IPC and to con to deliver the session on the same. We have with us Deepika V Prasad Nam on the behalf of icsi iip. I welcome you, ma'am, for this session and I would like to introduce you. Ma'am is a qualified cost and management accountant and a insolvency professional. Ma'am is currently associated with triple in solvency professional LLP, appointed as a designated partner. 
+
+0:30
+She has a vast experience of over 24 years in management, consulting, Financial modeling, business restructuring and costing assignments with India's real organizations. Ms also been a regular speaker in various forums as well as in our Institute as well. Ma'am, I would like to request you now to begin with the session. Thank you so much. Thank you for giving me this opportunity. Good afternoon to all the members. 
+
+0:59
+I think we can today now start this discussion on waterfall mechanism under IBC. So I, and in at the outset I would just like to just say that I have a little bad throat today, but I'll try my best to just do justice to this session and we'll just start with this waterfall mechanism under IBC. So insolvency. I'll just introduce a bit of this session that IBC code. 
+
+
+## IBC Code 2016: The waterfall mechanism for the distribution of assets under liquidation
+1:27
+It came into existence to govern the easy exit of businesses and it has been witnessed from time to time that India has been lacking the legal framework for the companies whose businesses have been hindered and they want to exit the market. also, it had also been a matter of concern to determine the order of distribution of assets at the time of liquidation of the company. 
+
+1:47
+So previously there were no specific Provisions to go on the distribution of assets amongst the creditors. But in the present era, section 53 of the IBC code 2016 deals with the mechanism for the distribution of assets under liquidation. Now we all understand here the IBC code and we all understand how the things are worked out. But now we will go into the nitty gritties of this waterfall mechanism under IBC. 
+
+2:16
+So this mechanism has been laid down under the code and it is termed as the waterfall mechanism. In general sense the waterfall mechanism. They put the list of stakeholders in a sequential manner to indicate the priority in getting the payments from the liquidation. however, there are no Express Provisions in the code that clearly defines the priority of Interstate secured creditors who have relinquished their security interest. 
+
+
+## IBC regime: Priority in the interstate ranking among creditors
+2:41
+We'll just go a bit into the historical perspective of this. So at the time of insolvency proceedings, the interstate ranking amongst creditors plays an important role, as it dictates the arrangement and determines the priority in which the financial offerings by the resolution applicant shall be distributed to the secured creditors. Now, the status of determining the priority was different in the pre ibc regime and post IBC regime. We'll just go a bit into it. 
+
+3:11
+In the pre ibc regime. The Supreme Court of India in the case of ICICI Bank versus Citco leather is limited, and others address the issue of priority under sections 529 and 529a of the companies act 1956, which govern the ranking of creditors claims in a company in liquidation, which is similar to section 53,1B of the IBC code 2016. In this instance, the Supreme Court interpreted the meaning and scope of section 48 of the transfer of property at 1882. We'll go into the details of each aspect of this and the first charge holders claims would persuade over the second charge holders. 
+
+3:51
+This also we will come to in a detailed discussion in the forthcoming slides. So to begin with we'll just quickly have a look at the section 53, which is the distribution of Assets. 
+
+
+## 53.1: wages, dues, debts, and more
+4:04
+Now, section 53.1 says that, notwithstanding anything to the contrary contained in any law enacted by the parliament or any state legislature for the time being in force, the proceeds from the sale of the liquidation assets shall be distributed in the following order of priority and within such period and in such manner as may be specified, namely number one. 
+
+4:25
+Is this the insolvency resolution process costs and the liquidation costs Paid in Full: the following: debts, which shall rank equally between and among the following: the workman's dues for the period of 24 months preceding the liquidation commencement date. 
+
+4:43
+And debts owed to a secured creditor in the event such secured creditor has relinquished Security in the manner set out in section 52. this is a 53,1 a and then B, and these are the parts of 53.1 B, and then we come to 53.1C, which is wages and any unpaid dues owed to employees other than workmen for the period of 12 months preceding the liquidation commencement date. We'll just. 
+
+
+## IRP costs and liquidation costs paid in full
+5:13
+We'll just come to a little bit of it again. This is the IRP costs and the liquidation costs paid in full. So this is paid in full. This is something we need to remember for the rest of our presentation. The next thing is the debts which shall rank equally between and among. So this is these are the two priorities which are there. 
+
+5:35
+And then wages and unpaid dues owed to employees other than workmen for the period of 12 months preceding the liquidation commencement date. Then Financial debts owed to unsecured creditors, that is D, then e is the following news shall rank equally between and among the following: any amount due to the central government and the state government, including the amount to be received on account of the Consolidated fund of India and the Consolidated fund of a state, if any, in respect of the whole or any part of the period of two years preceding the liquidation commencement date. 
+
+6:08
+And then the debts owed to a secured creditor for any amount unpaid following the enforcement of security interest. And then e is f is any remaining debts and things. Now we'll go into the details of each aspect of these. after this is the G part, which is the preference shareholders, if any, and then H is equity shareholders or Partners, as the case may be. 
+
+
+## 5.2 gives a writing provision which says: any contractual Arrangements between recipients under subsection
+6:31
+Then the 5.2 gives a writing provision which says: any contractual Arrangements between recipients under subsection what with equal ranking, if disrupting the order of priority under that subsection, shall be disregarded by the Liquidator. Please give me one. I'm sorry about this time, please excuse me. 
+
+7:37
+So any contractors now this is a riding provision, a writing Clause: any contractual Arrangements between recipients under subsection one with equal ranking, if disrupting the order of priority under that subsection, shall be disregarded by the Liquidator. then 5.3 says: the fees payable to the Liquidator shall be inducted proportionately from the proceeds payable to each class of recipients under subsection 1, and the proceeds to the relevant recipient shall be distributed after such deduction. 
+
+8:06
+Now let's just so further. There is an explanation for the purposes of this section. It says that it is held by clarified that at each stage of the distribution of precedes in respect of a class of recipients that rank equally, each of the debts will be either paid in pull or will be paid in equal proportion within the same class of recipients if the proceeds are insufficient to meet the debts in full. 
+
+
+## 53,1A: Liquidation costs, liquidation costs paid in full
+8:42
+Now this is very important. like I just said that we can go to the 53,1A, which says that the insolvency resolution process costs and the liquidation costs paid in full. So this is the first thing which needs to be paid out of the proceeds under liquidation, which is the insolvency resolution process cost and the liquidation costs which need to be paid in full. 
+
+9:04
+Further, the next provision, which is it says that at each stage of the distribution of proceeds in respect of a class of recipients that rank equally, each of the debts will either be paid in full or will be paid in equal proportion within the same class of recipients if seeds are insufficient to meet the dead Cell full. 
+
+9:23
+Now this is where the whole mechanism comes into play, because the 53 one says that the liquidation costs and the cirp costs will be paid in full as per 5.1A. The rest of them will be paid as per the available proceeds and they have to be paid in equal proportion within the same class of recipients. 
+
+
+## Waterfall Mechanism Under IVC: What is it?
+9:48
+Now this is where the discussion and the problems emerge, and this is where the decision of the Liquidator and the decision under the waterfall mechanism will have its plane. So we'll now come into the detailed discussion of this topic and further the term workman's dues shall have the same meaning as assigned to it in section 326 of the companies Act 2013. Now, what is this waterfall mechanism? under IVC. 
+
+10:12
+The waterfall mechanism lays down that at the time of the company's liquidation and while Distributing the assets of the company, the secured Financial creditors shall be given the priority and the amount belonging to them shall be paid fully according to their admitted claim before initiating any distribution to the unsecured Financial creditors. Now this is a waterfall, which is, you know, as per the entire section 53. Here we need to understand two more issues. 
+
+10:42
+One is the liquidation State and one is section 30, where the resolution plan details are also given up. Now if you come to the liquidation, we need to understand the liquidation State here, because we are talking about here the distribution of the funds which are derived from the liquidation State. 
+
+
+## Liquidator Assets & Assets in Liquidation State
+11:00
+Now this liquidation is State, as per section 36 comprises of the Liquidator shall form in a state of the assets mentioned in section 3.3, which shall be called the liquidation estate in relation to the corporate debtor. Liquidator shall hold the liquidation State as a fiduciary for the benefit of all the creditors. 
+
+11:17
+Now crrp costs due from secured creditors who realize their security interests in the manner provided in this section shall be deducted from the proceeds of any realization by such secured creditors and they shall transfer such amounts to the Liquidator to be included in the liquidation state. So now this is again included in the liquidation State. Now what is included in the liquidation is data sets under the IBC. 
+
+11:45
+Subject to section 36,4, the liquidation State shall comprise all liquidation status, which shall include the following: any assets over which the corporate editor has ownership rights, including All rights and interests therein, as evidenced in the balance sheet of the CD or an information utility or records in the registry or any depository recording. 
+
+
+## Securities of the city or by any other means as may be specified by the board, including shares
+12:04
+Securities of the city or by any other means as may be specified by the board, including shares held in any subsidiary of the corporate debtor. Further assets that may or may not be in possession of the CD, including but not limited to incumbent assets. Tangible assets, whether movable or immovable, then intangible assets, including but not limiting to intellectual property. Securities, including the including shares held in a subsidiary of the CD and financial instruments. Insurance policies. 
+
+12:35
+Contractual rights. A set, subject to the determination of ownership by the quarter Authority. Any assets or their value recovered through proceedings for avoidance of transactions in accordance with this chapter. Any a set of the CD in respect of which a secured creditor has relinquished his security interest. Any other property belonging to or vested in the CD or at the insolvency commencement date. And all proceeds of liquidation as and when they are realized. 
+
+13:02
+Further, what is not included in the liquidation Estates. There are a few items which are not covered under the liquidation status data sets. The following shall not be included and shall not be used for Recovery in the liquidation: one is the assets owned by a third party which are in possession of the corporate editor, including assets held in trust for any third party bailman contracts. all sums due to any workmen or employee from. 
+
+
+## Provident fund, pension fund or gratuity fund
+13:26
+The Provident fund, pension fund or gratuity fund. Now this aspect is once again very important, as it has also been brought about in the matter of some reshmaat versus ABG Shipyard. This will come to a brief discussion of in the coming slides. 
+
+13:42
+Then further, any other contractual Arrangements which do not stipulate transfer of title but only use of these sets and such other assets which may be notified by the central government in consultation with any financial sector regulator. now. 
+
+13:56
+This is this is why this issue to understand the liquidation state is important is because, while we are building up the sets to be sold out and the assets to be transferred and assets which are part of balance sheet, we also need to understand what all we can include and what all we can exclude, so as to come to the distribution mechanism also in the as per section 53. Further, the Assets in security collateral held by Financial Services providers subjective netting and set off in multilateral trading or clearing transactions. 
+
+
+## Security Interest of a secured creditor
+14:33
+Personal assets of any shareholder or partner of a CD, as may be provided such assets are not held on account of avoidance transactions that may be avoided under this chapter. 
+
+14:42
+A sets of any Indian or foreign subsidiary of the CD or any other assets as may be specified by the board, including assets which could be subject to set off on account of mutual dealings between the CD and any other creditor foreign which is talking of the presumption of security interest. 
+
+15:05
+It says that a security a secured creditor shall inform the Liquidator of its decision we relinquish its security interest to the liquidation estate or realize its security interest, as the case may be inform C or form D of schedule. two, provided that where a secured creditor does not intimate its decision within 30 days from the liquidation commencement date, the assets covered under the security interest shall be presumed to be part of the liquidation state. 
+
+
+## Where a secured creditor proceeds to realize its security interest
+15:31
+Where a secured creditor proceeds to realize its security interest, which shall pay as much towards the amount payable under Clause a and subclass 1 of clause B of subsection 1 of section 53, as would have as it would have shared in case it had relinquished the security interest. We come to the options of secured creditors in liquidation proceedings. 
+
+15:56
+The options that the secured creditors have in liquidation proceedings are: relinquishes its interest security interest to the liquidation estate and receive proceeds from the sale of assets by the Liquidator in the manner as specified in section 53. Or realize its security interest under Section 5.1B. 
+
+16:15
+Or realize its security interest under surfacy or recovery of deaths and bankruptcy act 1993. Now, through a further complete understanding why we are discussing this whole thing is because the whole distribution and the waterfall mechanism will be put into place, or rather its analysis would depend upon what is going to be the rights subsisting between various stakeholders, most of it comprising of the secured creditors and the inter say creditors Arrangement within the secured creditors. 
+
+
+## Section 30 of the submission of the resolution plan
+16:49
+So for this purpose, we need to understand further sections 30, which talks of the submission of the resolution plan. Now why we discussed this section 30. We will only discuss the issues which are right now related to the photofall mechanism here now, as per section 31, a resolution applicant May submit a resolution plan along with an affidavit static stating that he's eligible under Section 29a to the RP prepared on the basis of the information memorandum. 
+
+17:19
+The resolution professional shall examine each resolution plan received by him to confirm that each resolution plan provides for the payment of the IRP costs in a manner specified by the board, in priority to the payments of other debts of the CD, or provides for the payment of debts or for operational creditors as may be specified by the board, which shall not be less than the amount to be paid to such creditors in the event of a of a liquidation of the corporate debtor under section 53, or the amount that would have been paid to such creditors if the amount to be distributed under the resolution plan had been distributed in accordance with the order of priority in subsection 1 of section 53. now, while we are talking about the resolution plan again, the section 53 is coming into play for the amounts which would have been due to the secured creditors, as well as the amounts which have been which would have been due to the operational creditors, so the amount that would have been paid to them if the amount distributed under the resolution plan had been distributed in accordance with the order of priority in subsection 1 of section 53. so, in case there are operational creditors, then either the minimum that they must receive is the amount which would have been really distributable to them as per section 53, whichever is higher and provides for the payment of debts of financial creditors who do not vote in favor of the resolution plan in such manner as may be specified by the board, which shall not be less than the amount to be paid to such creditors in accordance with subsection 1 of section 53. In the event of a liquidation of the CD for the removal of doubts, it is clarified that a distribution in gardens with provisions of this Clause shall be fair and Equitable to such creditors. 
+
+19:38
+Laughs foreign at hand as far as this is concerned, where the resolution plan has not been approved or rejected by. The adjudicating Authority when an appeal has been preferred under Section 61 or section 62, or such an appeal is not time barred under any provision of law for the time, meaning force or where illegal proceeding has been initiated in any court against the decision of the adjudicating authority in respect of a resolution plan, foreign plan has to have all these requirements. 
+
+
+## Committee of creditors May approve resolution plans
+20:24
+We go to the next slide, which says that this section, the resolution professionals are present to the committee of creditors for its approval such resolution plans which confirm the conditions referred to in subsection 2. the committee of creditors May approve a resolution plan by a vote of not less than 66 percent of voting share of the financial creditors, after considering its feasibility and viability, the manner of distribution proposed, which may take into account the order of priority amongst creditors as laid down in subsection 1 of section 53, including the priority and value of the security interest of a secured creditor, and such are the requirements as may be specified by the board. 
+
+21:07
+We'll just briefly discuss this issue before I go to the Future further slides. Now the section 53 gives a ranking wherein the cirp costs and the liquidation costs, that is number one and number two. it talks about the secured creditors following paripasu, along with the work spins dues for 24 months preceding the liquidation commencement date. 
+
+21:36
+And further, it gives an exploration which says that the interc, or rather any other Arrangement, any contractual or relevant, would not be given any priority. Now the question which comes in the most important. 
+
+
+## Inter say creditors Arrangement: How to pay secured creditors as per voting rights
+21:50
+Which question which comes in is that while we talk of the inter say creditors Arrangement, the security interest of the secured creditor has not been really brought about anywhere under Section 53. the code has been silent on it, and our major issue which comes while the distribution is being done under section 53 is that how the payments to a secured creditor must be made, whether the secured creditors should be paid as per the security interest of each secured creditor or they all would rank equally once they relinquish their claims to their to their sets and such, and then the distribution should be made as per their voting rights or as per their admitting claims, which are dependent again once again upon the voting rights which are dependent upon the admitted claims. 
+
+22:45
+The reference to this has been made in this section 30, subsection four, while it says that the committee of creditors May approve a resolution plan with not less than 66 percent, after considering its feasibility and viability, the manner of distribution proposed, which may take into account the order of priority amongst the creditors as laid down in Section 1, including the priority and value of the security interest of a secured creditor and such other requirements as may be specified by the board. 
+
+23:16
+Now there are. There have been minimal references to this issue in the code, and then further there is the ilc report we'll just come to it which talks of the security interest of a secured creditor. while we are talking. There has been a case also we'll just come to it also wherein. The nclt. Honorable nclt had given a decision saying that the distribution to the secured creditors should be made as per the security interest of each secured creditor. 
+
+
+## Technology Board of India versus Anil goel
+23:45
+This is technology Board of India versus Anil goel, and this was taken up with n clat the it was filed. An appeal was filed against this to honorable ncl80, wherein the nclity had held that the inter say arrangement, or rather the inter save priority, would not be given any ingredients, and that all the distribution should be made as per the admitted claims and the ratio that each is having each creditor is having. 
+
+24:17
+The same matter has now further gone to Supreme Court and is still under still sub Judas. no decision has been taken on it. We have to understand the pros and cons of this issue as far as the motor fall mechanism is concerned, and we are trying to look at it with sections and which Provisions govern this is this particular issue of the intersect creditors priority. 
+
+24:41
+So one of the is this section 30, subsection 4. Further, we can move on to the next issue. This is all about the resolution plan talking about the section 29a, where the resolution applicant shall be allowed by this Committee of creditors not exceeding 30 days to make payment to forward you amounts in accordance with provision to cross sea of section 29a. 
+
+
+## Section 53 of the insolvency law committee is discussing subordination agreements in liquidation waterfall
+25:16
+This is again in reference to the resolution plan, which does not have much of this with section 53. so we'll come to now the insolvency law committee remote report, which is Clause 21, which is once again talking of this issue of the treatment of subordination agreements within the liquidation waterfall. We'll just come to a brief discussion of it. 
+
+25:42
+Section 53 of the code provides the order of priority to be followed for payment of dues pursuant to liquidation of a corporate debtor. Under the code, it was stated to the committee that it was not clear whether the inter creditor or subordination agreements entered into between creditors will be respected in the payment waterfall provided in section 53 of the court in the event a secured creditor relinquishes its security and chooses to receive proceeds from sale of assets under liquidation. This is section 5.1B. 
+
+26:11
+It states, like the following: debts, which rank equally shall between and among the following works when dues for the period of 24 months preceding the LCD and the debt so to a secured creditor in the event such secured creditor has relinquished Security in the manner set out in section 52. However, it was stated to the committee that in practice, subordination agreements intersect creditors were respected in Winding up proceedings. 
+
+
+## Subordination agreements between secured creditors in USA
+26:38
+This was also stated to be the position in other developed countries. Specifically, it was also brought to the committee's attention that in USA the bankruptcy court states that in case of liquidation, a subordination agreement is enforceable in K in a case under this title to the same extent that such agreement is and only to the extent to the same extent that such agreement is. 
+
+27:04
+However, it was stated to the committee that in practice, subordination agreements Interstate creditors were respected in. I'm sorry, I think this is just double. Yeah, such agreement is enforceable under the applicable non bankruptcy law. 
+
+27:25
+It was held in this case that only because of the dues of the workmen, and dues and debts due to the secured creditors are treated with each other and the Same by itself, in our considered view, would not lead to the conclusion that the concept of Interstate priorities amongst the secured creditors had thereby been intended to be given a total go by. this is. 
+
+
+## Right to Property was a constitutional right, and right to recover money lend by enfor
+27:46
+The certain other relevant principles that emerge from this case are: right to property was a constitutional right, and right to recover money lent by enforcing a mortgage was also a right to enforce an interest in the property. Had the parliament intended to take away such a valuable right of the first charge holder, there was no reason for it to not say so explicitly now. 
+
+28:07
+The insolvency law committee also has considered it that in case the insolvency, in case the code or the parliament would have considered to overlook the aspect of the security interest of each creditor, they would have actually done it by explicitly mentioning that aspect. 
+
+28:28
+The fact that it has been not mentioned explicitly and we are taking we are also trying to look at the other codes also in the transfer of property act, and also a constitutional right which says that right to recover money lend by enforcing a mortgage was also a right to enforce an interest in the property. 
+
+
+## Section 48 of the transfer of property act does not explicitly mean that the first charge holder shall
+28:51
+Now, since it has not been mentioned so explicitly, it is assumed that this right was not allowed to be taken away from the first charge holder. Further, the insolventions insolvency law committee states that section 48 of the transfer of property act clearly provides that the claim of a first charge holder shall Prevail over the claim of a second charge holder. merely because the relevant section did not specifically provide the rights of priorities. 
+
+29:21
+It would not mean that the provisions of section 48 of the transfer of property Act shall stand obliterated in relation to a company that has undergone liquidation. Deprivation of a legal right existing in favor of a person cannot be presumed in construing a statute, and it is in fact the other way around, and thus a contrary presumption shall have to be raised. 
+
+29:43
+Now, this is what has been mentioned by the insolvency law committee.companies act may be a special statute, but if the special statute does not contain any provisions dealing with contractual and other statutory rights between different secured creditors, the specific Provisions contained in the general statute shall Prevail. 
+
+
+## ICICI vs. unsecured creators: Where are the respective rights of secured
+30:00
+Now this is very important that if special stat if there are no specific Provisions contained in the otherwise mentioned foreign statutory rights between different secured creators, this the general statute shall Prevail further. We go to understanding that section 5.529 1C it used the phrase the respective rights of secured and unsecured creditors. This was to be interpreted as rights of secured creditors. Visible is unsecured creators. It does not envisage respective rights among secured creditors. 
+
+30:34
+So the committee felt that the principal stated above that emerge from the ICICI case are also applicable to the issue at hand under section 53 of the code. Moreover, although this was a case where Predators had not relinquished their security, the principles hold good under the code, even when creditors have relinquished their security, as the code, unlike the ca 1956, expressly recognizes secured creditors who have relinquished their security as a separate category in section 5.1b2 and distinguishes them from unsecured creditors. 
+
+31:09
+The code, in a bid to encourage relinquishment, also specifically places secured creditors who have relinquished security interest security higher than the unsecured creditors. Lastly, it was also deliberated whether inter creditor agreements, if not disregarded for the liquidation waterfall in section 53 of the Court, may result in secured creditors, especially those holding a first charge, to the preferred liquidation. Over resolution it was suggested to the committee. 
+
+
+## Insolvency Law Committee Discussion: Inter Creditor Agreements Hold Good for the Distribution of proceeds
+31:49
+It was suggested to the committee to clarify whether inter creditor agreements hold good for the distribution of proceeds or liquidation under section 53, in order to promote resolution over liquidation. The committee, as discussed in the context of the ICICI case above, noted that it may not be prudent to take away a valuable property right wasted with the Prejudice. The committee felt that generally all secured Financial craters were the first charge or secondary charge. 
+
+32:15
+Holders are sophisticated entities which Grant loans after exercising due diligence and are presumed to be able to evaluate their interests and risks sufficiently. We'll just try and understand what the insolvency law committee report is trying to say. what is coming out from this whole discussion, as mentioned in the insolvency law committee report, is that in case the inters say creditors Arrangement visible is the security interests created with each creditor is overlooked. 
+
+32:48
+The whole financial under market May undergo a chaos, because we all understand, as it is mentioned here also that you know it says that generally that it that all these creditors are sophisticated entities which Grant loans after exercising due diligence and are presumed to be able to evaluate their risks and interests efficiently. 
+
+
+## Insolvency Law Committee Report Does Not Know How to Give Loans Without Security Interest
+33:15
+Now, in case the creditors would have thought it appropriate to give the loans or Grant the loans without a security interest, they would do it like that only. They have done their due diligence and they would give their loans based upon the insecurity interest or without it, after doing their due diligence. 
+
+33:37
+So in case this whole aspect of looking at the rights of the secured creditors as far as their secured interest is concerned is overlooked, the whole Market would undergo a chaos and the creditors would not be able to envisage whether they would be able to the loans. The Justice would be able to be given to them if the corporate data goes under liquidation. 
+
+34:00
+So considering that even the insolvency law committee has upheld this inter creditor agreements as far as the security interest of each is concerned. moreover, this may negatively see. This is what the insolvency law committee report is saying. 
+
+
+## Section 5.1B Does not mention priority Interstate secured creditors
+34:19
+This may negatively impact the credit market and discourage Banks and other Financial predators to Grant big loans, which are more often than not granted against property or other valuable collateral, as they shall have no protection in case the corporate data becomes insolvent. Accordingly, the committee disregarded this suggestion. 
+
+34:37
+To conclude, the committee was of the opinion that it is sufficiently clear from a plain reading of section 5.1B that it intended to rank workman's dues equally with debts owed to secured creditors who have relinquished their security. Section 5.1B does not talk about priority Interstate secured creditors. Thus, valid inter creditor subordination agreements would continue to govern their relationship. I'll take a small example. 
+
+35:04
+If there are five secured creditors and two of them have their security interest, which is at a much higher level, as compared to the other three, who have at a much lower level in case they are just given the in case the distribution in these as per section 53 is made as per the admitted claims, only then there would be. 
+
+
+## What is the security interest aspect of the Liquidator?
+35:29
+The security interest aspect would not really have any meaning in the long run and anybody who would be granting loan would not be able to assess you know to what extent they should Grant a loan and whether, in future, the security interest that is being created and the mortgage which is being offered by the CD, whether they would be able to make use of it, or whether they would be able to really, at the time of in case the corporate debtor goes into liquidation, whether the Justice would be done to them. 
+
+35:59
+So this is how the committee concluded it that since section 5.1B does not talk about the priority Interstate secured creditors, therefore the subordination agreements so continue to govern their relationship further. subsection 2 of section 53 must also be interpreted accordingly. For instance, applying section 5.2 in the context of section 5.1B, any agreements between workmen and secured creators which disrupts their party bus rights will be disregarded by the Liquidator. 
+
+36:29
+Now this is referring to the section 5.1. This is referring to section 5.2, where it is said that all contractual Arrangements which disrupts the their Pari passive rights will be disregarded. So this is only in case the workman's use and the secured security and the dues for the secured creditors if any relationship between them or any ratio between them is Disturbed because of Any agreements that should be disregarded by the Liquidator. 
+
+
+## Inter Creditor Relationships: What is the Difference Between Secure Creators?
+37:10
+But it does not mention about the inter creditor relationship. as far as the security interest is concerned. However, agreements interesting secure creators do not disturb the equal rankings ought to be provided by section 5.1B and therefore do not fall within the Ambit of section 5.2. The committee felt that there was no requirement for an amendment to the court required, since a plain reading of section 53 was sufficient to establish that valid inter creditor and subordination Provisions are required to be respected in the liquidation waterfall under section 53 of the call. 
+
+37:43
+The Appellate Authority in its recent Landmark judgment in the case of Technology development board versus Anil goyal, Liquidator of Gujarat oliochemical limited made it specifically held that whether the secured creditor holds a first charge or second charge as material, only if the secured creditor elects to realize its security interest. 
+
+38:01
+However, once a secured creditor opts to relinquish its security interest, the distribution of assets would be governed by section 5.1b2, which states that all secured creators who have renowned security interests rank equally. Now this is the Judgment given by honorable and Glatt, wherein the interstate security interests have been overload. However, now this case is pending with the honorable Supreme Court and its decision is still about to come. 
+
+
+## What Is the Order of Priority for Sale of Liquidation Assets?
+38:34
+I am sure the things would fall in Planes, one we have once we have a judgment from. The Honorable Supreme Court. Do we have any questions still here? Anybody would like to say anything or any observations, any questions? Okay, we'll just proceed further. We go to the statutory provisions. 
+
+39:05
+The statutory provision which sets out the order of priority for the distribution of sale proceeds from the sale of liquidation assets is categorically mentioned under section 53 of the IBC code. According to section 53,1B, the following: debts will be ranked equally between and among them workman's use for a period of 24 months and that's owed to a secured creditor in the event such secure creator has relinquished security. 
+
+39:30
+According to section 53,2 of the core, the Liquidator will Overlook any contractual Arrangements between receivers under subsection 1 with equal ranking if they disturb the sequence of priority under subsection one. This is just a summer summarization of what we have just discussed in detail. now if we, if we now go into the detail of each Clause of section 53, a secured creditor is one in whose favor security interest has been created by the CD. 
+
+
+## Section 52 of the Code provides the secured creditors with two options
+39:59
+Section 52 of the code provides the secured creditors with two options. First is either to realize its security interest or give away its security interest to the liquidation estate. It is the duty of each secured creditor to communicate to the Liquidator about his decision to either relinquish a security interest or to realize its security interest. 
+
+40:21
+If the secured creditor fails to inform the Liquidator of its intention within 30 days from the commencement of the liquidation process, the security interest held by the such secured creditor is deemed to be relinquished. in case a secured creditor chooses to relinquish its security interest and it has to stake its claim to the liquidation estate. We come to a brief discussion of the distributive justice under this code. 
+
+40:47
+Different stages under the code, which talk about the insolvency resolution process, the resolution plan must be taken into consideration priority laid down under section 53. This is section 32 B and section 30, subsection 4. We with which we have just discussed that the resolution plan must also consider priority laid down under Section 53. Then the haircut may be faced by creditors. However, priority must be maintained by the resolution plan. 
+
+
+## Fundamentals of the Liquidation Process
+41:21
+This is also Amendment introduced on the basis of vulnerable Supreme Court in Sr Steel versus Satish Kumar Gupta and others. The Crux of the liquidation process is Distribution on the basis of priorities. deficit in realization makes it necessary to have priorities a certain with Clarity to ensure distributive justice. So here why we are talking about is the to ensuring distributive justice. It is very important that the that the priorities are taken into consideration. 
+
+41:51
+However, any further arrangements to re allocate the funds may not be should not be accepted by the Liquidator and it is not allowed under the code under any circumstances. As far as voluntary liquidation is concerned, the in case the sets are greater than liabilities, all creditors shall be paid in full. However, by virtue of priority based on sequence, section 53 must be followed. You know, excuse me now, in case of liquidation as a going concern. 
+
+42:31
+Also there are different forms of going concerned trans transfers, which could be transfer of the corporate debtor or the transfer of the business of the corporate editor. As far as the scheme of arrangement under Section 230 as a part of liquidation process is concerned, if the scheme of arrangement is sanctioned by the shareholders, creditors and the nclt, the matter comes out of liquidation and it becomes a debtor creditor contract. 
+
+
+## Companies Act priorities are there under the company act
+42:59
+Further, is it relevant in case of winding up under the companies act priorities are there under the company's act though the priorities are shared different. so in companies act. It is a little different relevance of priority in resolution plans enshrined in section 32, subsection B. 
+
+43:19
+OCS must receive a minimum of the liquidation value or amount, and a resolution plan, if distributed as per section 53, whichever is higher dissenting Financial craters under Section 32, must also be paid minimum liquidation value. 
+
+43:34
+Section 30, subsection 4 provides that COC May approve a resolution plan after considering its feasibility and viability, which may take into account the order of priority amongst the creditors under subsection under Section 5.3, subsection 1, also upheld by honorable scene Sr Steele vs Satish Kumar Gupta. 
+
+
+## Decision of COC on resolution plan
+43:56
+What is left to the majority decision of the COC is the feasibility and viability of a resolution plan, which obviously takes into account all aspects of the plan, including the manner of distribution funds or funds among the various classes of stakeholders. 
+
+44:15
+Foreign further provision to section 30, subsection 2 says that, for removal of doubt, it is hereby clarify that a distribution in accordance with the provisions of this Clause shall be fair and Equitable to such Predators. 
+
+44:41
+Why we are going to all these sections is to explain that how the code has looked at the angle and at the angle of distribution of proceeds, whether it is a resolution plan or if it is a distribution under section 53 pursuant to a liquidation of a CD. in any. Under all the cases. 
+
+
+## 3.3B: How to determine the resolution plan
+45:02
+The code has referred to certain binding Provisions only, According to which the distribution should be made under whether it is a resolution plan under Section 30 or it is a liquidation distribution under Section 53 can a regulation 3.3B requires the resolution plan to be to be feasible and viable, and section 34 of the code includes taking into account order of distribution while determining priority foreign resolution plans. 
+
+46:08
+Horizontal Equity is all creditors of equal ranking must be placed in the same ranking. Examples of fair and equitable distribution plans. A secured creditor cannot become unsecured creditor or vice versa. A senior creditor cannot become Junior creditor or vice versa. Rights against third parties cannot be obliterated, which is very clear. 
+
+46:29
+You know the horizontal Equity is there that the creditors who are falling in one rank ranking equally must be placed in the same ranking and only, let me, except when secured creditor the foregos is security. Then for his balance portion of realization he will become unsecured absolutely. That will come to it that will go that will fall under 5.1e, the part which is not paid one is of course the who has not relinquished his security. 
+
+
+## Equitable Treatment of Creditors: Equal versus Equitable
+47:02
+He will not fall under. He will no more be a part of the 5.1A and his ranking will go much lower. Apart from that, all the creditors who are falling in the of equal ranking, they have to be placed in the same ranking. further the treatment of the creditors: equal versus Equitable, whether prioritization disturbs or distorts equitability code posits a fair and Equitable treatment of creditors does not mean that all creditors can be treated equally. 
+
+47:39
+Further, we have examples in Swiss ribbons versus Union of India and Sr steel India versus Satish Kumar Gupta. As per the principles for Effective insolvency and creditor debtor creditor regimes by World Bank insolvency law system should provide for Equitable treatment of similarly situated creditors. Foreign ization also encourages equitability. 
+
+48:06
+This unique trial legislative guide states that the objective of Equitable treatment is based on the notion that in Collective proceedings, creditors with similar legal rights should be treated fairly, receiving a distribution on their claim in accordance with their relative ranking and interests. further. The American jurisprudence also brings about. The bankruptcy system is designed to distribute in a state as equally as possible among similarly situated creditors. 
+
+
+## waterfall mechanism, priorities under section 53
+48:31
+Thus, creditors of equal status must be treated equally and equitably. So our entire waterfall mechanism is trying to bring about the issue of these security interests and section 53 visit with section 53 and that the rankings as given as per section 53 must be respected.completely and absolutely agree, and there can be no exceptions to that. But in this one small doubt, where does this acute creditor related party? 
+
+49:03
+Why would they go and stand, though they are like a related party. They are a secured lender. Where do they go on set, Madam on the water flow? no the secured creditor in as far as their security is concerned, they will fall under the same ranking. It is they cannot participate in the voting or restaurant. They will start in the same path. Yes, they will all stand in the same pattern. 
+
+49:32
+In case they have a security interest, their right would be that they're on that security interest. But as far as the voting rights are concerned, they would not have any voting rights. Fair enough, yeah. The waterfall mechanism, priorities under section 53, one of IBC. Now this is once again we come to the priority as given under Section 5.1, insolvency resolution process costs and liquidation costs in full. now we come to a. 
+
+
+## Pari parcel between workman's dues for 24 months prior to LCD and secured creditors
+50:04
+Now that we've done so much of discussion, we once again come to it that these two costs have to be paid in full and then there has to be a ranking and then the Pari parcel between workman's dues for 24 months prior to LCD and secured creditors. Then employees use other than workmen for 12 months prior to LCD. 
+
+50:23
+Then Financial debts owed to unsecured creators, then statutory reduced for 24 months prior to LCD and remaining amount towards secure creditors. Now in case these secured creditors have a certain amount which is left over after distribution as per the security interest, then that would fall under this, which is remaining amount towards secured credit editors. further the remaining debts induced preference shares and then equal Equity shareholders, the priorities under the company's act. Party passing payments. 
+
+51:01
+Now the companies acted also given up this mechanism for distribution, which was party passive payments to the workman's due's debts due to secured creditors. All revenues, taxes, sesses and rates due from the company to the central or state government or to a local Authority. All wages are salaries in respective services rendered to the company and due for a period not exceeding four months within the 12 months prior to a commencement of liquidation. 
+
+
+## All accrued holiday remuneration becoming payable to any employee
+51:28
+All accrued holiday remuneration becoming payable to any employee. Foreign respect of contributions payable during the 12 months next before the relevant date by the company as the employer of any person under the ESI act 1948, except in case of voluntary liquidation or Arrangement. all amounts due in respect of contributions payable by the company as the employer of any persons under the workman's compensation act 1923, except in case of voluntary liquidation or Arrangement. 
+
+52:00
+All sums due to any employee from Provident fund, a pension fund, a gratuity fund or any other fund for the welfare of the employees. The expenses of any investigation held in pursuance of section 235 or 237, insofar as they are payable by the company. Now, if you look at the companies act also, they had given a sufficiently Fair provision as far as the payments are, as far as the distribution in times of liquidation was there. 
+
+52:27
+The workman's dues were respected, the security interests, the secured creditors interests were respected equally, and these state governments and the central governments, tax assessors, Etc. Also were there. but then section 53 has come up, as even you know, a more refined section as far as the IBC is concerned. Thank you, where a lot of clarity has been given and a very concrete mechanism has been given as far as the distribution of proceeds is concerned. 
+
+
+## Companies Act 2013 gives same Provisions as similar Provisions
+53:01
+But of course the companies act has the basis based on which this whole thing has been devised. The companies act 2013 is also giving the same Provisions as far as similar Provisions as far as the distribution is concerned. So the historical perspective has always been for a fair and equal equitable distribution to all these stakeholders. The Pari passive payments to our workman's deals debts due to secured creditors. 
+
+53:28
+So much of the debts due to such secured creditor as could not be realized by him or the amount of workman's proportion in the security, whichever is less. All revenues, taxes, stresses and rates due from the company to the central government or a state government or to a local Authority up to 12 months prior to relevant day. 
+
+53:48
+All wages are salaries due for a period not exceeding four months within the 12 months immediately before the relevant date, all accrued holiday remuneration becoming payable to any employees. 
+
+
+## What is the Liquidation Estate? What is the Contours of the Company?
+53:57
+So this was as per the company's Act 2013. all amounts due in respect of contributions payable during the 12 months next before the relevant date by the company as the employer of any persons under the ESI act, like we had just discussed, except in the case of voluntary liquidation and Arrangement, all amongst you in respect of contributions favored by the company as the employer of any persons under the workman's compensation act 1923, except in the case of voluntary liquidational Arrangement, all sums due to any employee from. 
+
+54:28
+The Provident fund, the pension fund, the Gratitude fund or any other fund for the welfare of the employees maintained by the company. The expenses of any investigation held in pursuance of sections 2013 and 216 and so far as they are payable by the company. once again, if we come to the Contours of the requisition State, what is to be distributed is the liquidation. It says estate itself. 
+
+54:53
+Hence it is important to understand what will not be part of liquidation estate. All these monies are not impressed with the color of liquidation estate. What is falling outside the liquidation? The domain of the Liquidator is money held in trust, for example security deposit held by the company. If, again, specific property or obligation, it is typically not a part of the funds of the company. 
+
+
+## Provident Fund, Pension Fund and Gratuity Fund
+55:16
+The usual rule is setting aside of a fund for the payment to creditors creates a trust. We have an example in Baroda spinning and weaving Mills. Further, the billment of assets amount in Provident fund, pension fund and gratuity fund. these are some of the further questions as far as the funds are concerned. 
+
+55:48
+So in case there is any fund which is a Provident fund or a pension fund or a gratuity fund, then that will only be attribute. That will only be distributable to the workers. 
+
+56:00
+In case there is no fund, then again the waterfall mechanism will prevail, which is the liquidation estate will be distributed as per section 53,1A and a, b, c, d, e, f, g and then in case there is any fund, then it will be only distributable to that particular. Workers priorities under section 53,1 of IBC Clause a. Now what constitutes cir? 
+
+
+## Cirp costs - What is the difference between cirp and approval
+56:31
+Because if we go into further the details of how the distribution should be made and to what all areas the distributions can be made, we come to 53.1A. Cirp costs includes the amount due to suppliers of essential goods and services. Fee payable to AR of class of creditors, including the out of pocket expenses of RP for discharger functions. 
+
+56:53
+Amounts due to persons whose rights are prejudicially affected due to moratorium, expenses incurred on and by the RB. Other costs directly related to cirp and approval and approved by COC. Now, where the expenses incurred towards or by IRP are not ratified by the COC, the applicant must bear the expenses. That is anything which can form part of the cirp costs is only after the ratification by the COC. 
+
+57:22
+In case there is no ratification by the COC, then it cannot form part of the cirb costs. Only expenses which are ratified shall form part of cirp costs, then the interim financing and cost thereof as per section 513, not forming part of cirp costs. Any fee, other or other expense beyond the amount approved by COC. 
+
+
+## Any expense incurred before the commencement of cirp
+57:46
+Any expense incurred by your creditor, claimant resolution, applicant, promoter or member of the board of directors of the CD in relation to the cirp. Any fewer other expense incurred before the commencement of cirp or to be incurred after the completion of CRP. 
+
+58:01
+So in case it is any expense which is prior to the commencement of the cirp or after the completion of the cirp that will not form part of the cirp cost, or any expense which is done by the Creditor, the claimant resolution applicant promoter, member of the board of directors of the CD in relation to the cirp will not form part of the cirp cost. further it is held. 
+
+58:25
+In view of the above and for the reason stated above, it is held that the wages salaries of the workmen employees of the corporate debtor for the period during cirp can be included in the CRP costs, provided it is established and proved that the IRP or the RP manage the operations of the cirp of the corporate director is a going concern during the cirp and that the concern workmen and employees of the CD actually work during the cirp. 
+
+
+## sundaresh Bhatt versus ABG Shipyard: What will be
+58:51
+Now this is as per the case of sundaresh Bhatt versus ABG Shipyard, wherein further detailing was given as to what will form part of the cirp costs as far as the Workman dues are concerned. If we go into a further explanation of this, we can, we can come out very clearly. Can we? can we take a five minutes break? Yeah, we'll just take a five minutes break. 
+
+59:29
+We'll come back, which is yeah, hello, yeah, yes, yes, I can hear you there was breaks in between coming. Is it only in my laptop or a connection where everybody was facing it? I don't know. Please let me know. Maybe others can. I said also okay, so that means my connection is bad. Okay, thank you. Okay, I hope the others are able to hear and see without any breaks. 
+
+1:00:04
+Yes, so we'll just come back after a five minute break. Yeah, thank you, foreign. So I think we can start children. Yeah, okay, yeah, sure. so while we were just discussing this. 
+
+
+## cirp costs: wages and salaries of workmen employees of the corporate debtor
+1:05:54
+In view of the above and for the reason stated above, it is held as under that the wages and salaries of the workmen employees of the corporate debtor for the period during cirp can be included in the cirp costs, provided it is established and proved that the IRP or the Erp managed and the operations of the CD as a going concerned during the cirp and that the concerned workmen or employees of this CD actually work during the cirp and in such an eventuality, the wages and salaries of those workmen or employees who actually work during the cirp period when the resolution professional manage the operations of the CD as a growing concerned shall be paid, treating it and or considering it as part of the CRP costs and the shame shall be payable in full first as per section 53,1A of the IB code. 
+
+1:06:41
+I'll go slightly into the discussion of the case of sundaresh but versus ABG Shipyard, wherein you know the decision was taken by while you are calculating the cirt costs, because the section 5.1A very clearly says the cirp costs and the liquidation costs paid in full. 
+
+1:07:03
+Now, while we are discussing about the cirp costs whether the cost payable to the Workman will form of the will form part of the cirp costs and would be paid in full or they would fall apart. 
+
+
+## RP's 5.1A Workmen's salaries will be paid in full as
+1:07:15
+They will fall under section 53,1B and C for this on the case or the Supreme honorable Supreme Court has held in sundaresh but versus ABG Shipyard that the wages and salaries of the workmen or the employees who have actually contributed towards working in the while the operations were kept as a going concern by the RP in as a going concern. 
+
+1:07:44
+Only that aspect, only that particular part of the workmen and salaries of the workmen will form part of this section 5.1A and will be paid in full as they would be included and be part of the cirp costs any workmen who have not actually worked and the company was not kept as a going concern during cirp. 
+
+1:08:07
+Under those circumstances, the wages and salaries of the workmen and employees will form part of 53,1B and c and they will not be paid in full. They will again once again rank Pari pursu along with the secured creditors. So we come to we come to a the final: the verdict given by. 
+
+
+## Honorable Supreme Court that only if proved that it is the company has been kept a
+1:08:28
+The Honorable Supreme Court that only if it is proved that it is the company has been kept a going concern and that the specific workers have actually contributed while it was going concerned. They will form part of 53,1A of the IB code. 
+
+1:08:45
+Considering section 3.4 of the IB code and when the Provident fund gradually fund and pension fund are kept out of the liquidation State assets, the share of the Workman dues shall be kept outside the liquidation process and the concerned workmen on employees shall have to be paid the same amount out of such prominent fund, graduate fund and pension fund, if any available, and the Liquidator shall not have any claim over such funds. 
+
+1:09:07
+This is also the part of the Judgment which was delivered by honorable Supreme Court in the case of Sunrise birth versus ABG Shipyard, wherein it was held that any funds which are available with the corporate data, which include the Provident fund, gratuity fund and pension fund, shall not form part of the liquidation estate and the Liquidator shall have no claim over such funds, and such funds would be kept completely and categorically for only the workmen and employees and only this amount can be payable to the workmen employees. 
+
+
+## cirp cost: critical supplies versus essential goods
+1:09:39
+Apart from that, any other use of the Workman and employee shall will shall be governed by section 53,1 B and C. We come to critical supplies versus essential Goods which were forms part of cirp cost. the essential supplies are, which forms part of this eirp costs under regulation 31a of cirp Regulation. Now this is again cirp cost which can be paid in full, which is as per section 53,1A. 
+
+1:10:11
+The essential goods and services shall mean electricity, water, telecommunication services and information technology services, to the extent these are not a direct input to the output produced or supplied by the corporate data. Now this is an important line to the extent that these are not a direct input to the output producer supplied by the copyright editor. 
+
+1:10:33
+If we talk of the electricity produced, or rather if we talk of the electricity bill of a company, of a corporate debtor, tell from part of the essential goods and services. 
+
+
+## Corporate Data Should Pay Dues for the Corporate Data
+1:10:43
+But in case the company is a power company and it is into actually production of electricity, in that case any input or output which is utilized by the corporate editor is and it is a direct input or output input to the output and is a part of the raw material. That will not be an essential service that will be forming part of scdaw material. 
+
+1:11:07
+Further the critical supplies, which is not an explicit part of the IR, because section 1.2A, inserted by Amendment of 2020 critical to protect and preserve the value of the corporate debtor and manage the operations of such corporate enter as a growing concern as what the IRP or the RP considers to be critical. 
+
+1:11:28
+The supply of such goods and services shall not be terminated, suspended or interrupted During the period of moratorium, except where such corporate data is not Paid. Dues arising from such Supply during the moratorium period or in such circumstances as may be specified now, this does not mean that everybody will just have, to you know, continue with the essential or critical Services. The corporate data must also pay the dues relevant to that particular period. 
+
+
+## Circ Cost: Dues for the Circ Period, if they are relevant, can
+1:11:56
+The dues which are relevant, which are rather prior to the insolvency commencement date, can form part. They can put up their claims for those dues. But as far as the dues for the cirp period are concerned, they need to be paid by the IRP or the Erp, as the case may be, and they will form part of the Circ cost not now. 
+
+1:12:18
+In case any electricity bill is pending, which is prior to the cirp commencement date, that can only a claim can be filed for the same. But then if it is for the period of the cirp time, then it must be paid and then it cannot be disconnected. It will be it'll be under the moratorium then past you. Still it's always a commencement date. 
+
+1:12:40
+They can also be, you know, paid as a part of the resolution plan in case it is going in for a resolution. Priorities under section 5.1 of IBC Clause a. This is again the same thing: the liquidation costs. Until now we have discussed the cirp cost. Now we come to the liquidation costs. I, if the Institute will permit me, I have with me Mr chandan for me, since I'm having a very bad throat. 
+
+
+## IBC Clause CI RP and liquidation cost
+1:13:07
+Yeah yeah, Mr chandan, are you there? Yes, you read this part please. Thank you. So the priority is under 53 section a, section one of IBC Clause a CI RP and liquidation cost. The liquidation cost under regulation to E and A include the fee of the Liquidator, the remuneration paid by the Liquidator for Professional Services. 
+
+1:13:33
+The costs which are incurred for verification of the claim for protection of assets of the CD, for carrying on the CD as going concern interest on the interim Finance. All these costs are part of the priorities under 53.53 won. Sorry, next slide. 
+
+1:13:59
+So the fee of the Liquidator in terms of Regulation 4 includes a per can either be percentage based or can be decided as by the C of C interest on interim Finance for the period lower of either 12 months or LCD pay till repayment of the interim Finance and contribution under regulation two way of liquidation regulations read with regulation 39b of cirp regulations can include entitled to interests at bank rate or any cost incurred by the by the Liquidator in relation to the scheme of compromise or Arrangement which does not form the part of the liquidation costs shall be paid by the applicant. 
+
+
+## Liquidator Liquidator Liquidator Liquidator Liquid
+1:14:42
+Thank you, thank you, so I'll continue now. This is the liquidation costs which we are talking about here. this. This will include all these costs and also, once again the costs which are mentioned here, which is the fee of the Liquidator and the interest of on interim Finance, which is either 12 months or till the liquidation commencement date. 
+
+1:15:07
+Then the contribution under regulation to a, which includes any cost incurred by the Liquidator in relation to a scheme of compromise or arrangement, does not form part of the liquidation cost, shall be paid by the applicant. 
+
+1:15:22
+I'm sure we all are aware of this particular provision, which says that during the time of the liquidation, during the time of a scheme of compromise or Arrangement, that particular cost will not be paid by the Liquidator and shall not form part of the Liquidators liquidation cost, and that needs to be paid by the applicant who in who Could Be the promoter himself and if he is 29a compliant or could be any other person who is coming as a part of scheme of compromise and arrangement to buy the company. 
+
+
+## IBC Clause B, secured creditors and Workman dues
+1:15:56
+Now we come to the priorities under section 53, one of IBC Clause B, secured creditors and Workman dues. Now this is what we've already discussed: distribution towards Workman deals and secured creditors. Workman deals towards dues up to 24 months prior to LCD and secured creditors. where the security interest is relinquished. 
+
+1:16:18
+Workman is defined under the industrial disputes act, meaning of workman dues as per section 326 of the companies act, as per which Workman deals mean aggregate of all salary or wages, crude holiday remuneration, all amount due in respect of any compensation or liability for compensation in respect of death or disability, disablement of any Workman sums due to words PF pension and gratitude outside the scope of section 53, read with Section 364 A3 now this is which are falling outside the scope of section 53. Now PF pension and gratuity, which are the funds in case the funds are available. 
+
+1:16:59
+In that case the funds will be payable only to these workmen. in case the funds are not available, then as per section 53 only. We have this example of SBI versus Union, wherein secured creditors claim is covered to the external value of security and not the total sub due and the recommendations of the second ilc. 
+
+
+## What is included in wages?
+1:17:19
+We have just discussed the ilc report in detail, so also the aspect of the workman's dues that we have just covered, as per the Judgment delivered by honorable Supreme Court in the sundaresh but versus APG. Shipyard chandan, can I request you further once more. Thank you sure. Wide Cup coverage of the expression I E wages. There have been lots of rulings defining what all is included in wages. 
+
+1:17:53
+Rulings under the winding up regime of the 1956 act should all remain relevant. this may include the following: sorry, the following have been included in definition of wages, which includes dearness allowance, bonus, unawield leave, composition for termination is clearly covered by explanation B below section 32.2 of the companies at the things which are not included under the wages are the extra payment next slide. The secured creditors are evidently the largest claimants and resolution liquidation proceedings. 
+
+1:18:32
+The points which are important to understand here are: is the person a creditor or a secured creditor? What's what is defined under Section 330 or SEC and section 331 seem generally broad. An example here is an owner of an asset taken on financial lease is not a creditor. Then the question here is the security interest registered under Section 7.3 of the company's act? Unregistered charges not to be taken cognizance off? 
+
+
+## Has the Creditor relinquished security interests or are deeming Provisions applicable?
+1:19:05
+Has the Creditor relinquished security interests or are deeming Provisions applicable? Thank you, thank you all continue so determining the security interest. Certain email assets are on a certain mineral assets. We will just. We will just come to a discussion on this. Is the security interest registered? We'll just discuss it a little in detail. Determining the security interest is certain level assets or unacceptable assets. 
+
+1:19:32
+Determining the ranking the following are not security interests: a mere obligation to pay, not being an obligation attached to property, a negative lien or negative pledge, a covenant requiring maintenance of a set cover and Etc may be a financial governance but not a security interest. Also, it is important to note that in section 53,1B it is important to Define secured creditor and not Financial creditor. 
+
+1:19:58
+There may be secured creditor who is not a financial creditor, partly secured creditor or fully secured creditor. Now this is very important. We need to understand the differences. It is not important that a financial creditor May essentially be a secured creditor or it is not. It is not important that a secured creditor May essentially be a financial crater. Even a non financial creditor can be a secured creditor. 
+
+
+## Security Interests of Each Creditor Before Distribution Chart
+1:20:23
+So we need to look into the security interests of each creditor before the distribution chart, or rather the distribution details, are prepared. This is very important. Secured creditors and the value of the security interest. Second ilc report, para 7,1 to 7,4 has an important discussion on this issue. Repayment to secure creditors covers value of security interest relinquished. this provision intends to replicate the benefits of Security even where it has been relinquished. 
+
+1:20:53
+That's very important provision intends to replicate the benefits of Security even where it has been relinquished. However, any anyhow, they will only have a priority for the amount of security interest, not the entire sum due, so as, as it has been brought about, that in certain, you know, even about by honorable and clatt in this technology development Board of India versus Anil goel, that the security interest would not have any bearing while the distribution is being done, and it has been. Now the order has been stayed by. 
+
+1:21:27
+The Honorable Supreme Court and the matter is subjudish. now the issue which is brought about by the issue at hand has been clarified in the ilc report, where it says that the benefits of security has to be there even when it has been relinquished. However, it will only be till the amount of the security interested, not the entire sum deal. 
+
+
+## Security Interest: What is the intent of the creditors?
+1:21:47
+That means if there is a total admitted claim of about 100 crores and then you know the security interest is only the original security interest is only 50 crores. Then the priority will have only till we will only be till the security interest, not the entire sum due. So secured creditor would be considered only till the extent of security. 
+
+1:22:07
+Therefore, priority of repayment over their entire debt, regardless of the extent of the security interest, is not the intent. So it's very clear. the intent is to protect the security interest and not that if one creditor is a secured creditor, then he's a dire debt is protected. That is not the case. 
+
+1:22:27
+Similar Provisions in section 110,3B and 123,2B subordination agreements within the liquidation waterfall the first ilc report clarify that valid the creditors subordinate Nation agreements would continue to govern their relationships. Agreements enter say secured creators do not disturb. The equal ranking sought to be provided by section 5.1B and therefore do not fall within the amount of section 53,2. Once again a mention is you know? 
+
+
+## IBC Class C and D: Priorities under Section 53
+1:22:56
+It's very important to understand that section 53,2 says that the interc Creditor Arrangement will not be given any priority. Now it does not say that inter say secured creditor will not be. you know, will not be considered. So in case, like we have just discussed in the earlier slides. In case the intent of the law would have been it would have actually brought that about explicitly and not left it on, you know, unattended. 
+
+1:23:25
+However, the ilc report has clarified that the agreements interest is secured. Creditors do not disturb the equal ranking as per section 5.1B and therefore they do not fall within the amount of section 53 too. So we can continue to respect them. Chandan, please can you just speak. Thank you sure. priorities under Section 53. One of the IBC Class C and D include the Cross. 
+
+1:23:56
+C is the wages and employees due wages and any unpaid dues owed by employees other than workmen for a period of 12 months preceding the liquidation commencement date. And Clause D under the unsecured Financial creditors, unsecured Financial debts have been placed prior to government dues which have been ranked first in the priority list under the companies act 1956. Next slide priorities under 53. One of IBC Clause e states that the statute statutory use include dues to the central government, to the state government and includes the amount to be received on account of the Consolidated funds of India. 
+
+
+## Here secured creditors mean those who had his realized outside of liquidation process.
+1:24:37
+Here secured creditors mean those who had his realized outside of liquidation process. Thanks, I'll continue. thank you. So here, when we talk about the this particular 53,1 C and D here we are talking about the wages and salaries due to the employees who are not workmen, and for them it is a period of 12 months prior to the LCD and the unsecured Financial craters, whose debts have been placed prior to the government use, which have been ranked first in the priority list. 
+
+1:25:16
+So unsecured Financial creditors are placed prior to the next step is e, which is the statutory use which are the dues to the central government induced to the state government. 
+
+1:25:29
+So this is the party passive distribution towards the statutory news and the remaining sums of the secured creditors for the statutory reduce for a period of two years prior to LCD and for the remaining sums of the secured craters where, after the realization or relinquishment, part of claim is spending results chandan, please read the rest. Sure priorities, that is, section 53,1 of IBC Clause fgnh include for Clause F the residual dues. 
+
+
+## Realisation versus Relinquishment by the secured creditor
+1:26:04
+These are the deaths and dues other than those mentioned in the foregoing Clauses, for example, operational debts owed by O2. Unsecured creditors may fall in this category under Clause G preference shareholders. preference. Shareholders by Nature receive priority in distribution of dividend and Assets. 
+
+1:26:23
+In the event of liquidation of companies and under Clause G of equity shareholders, the residual byte of the assets of the corporate debtor shall go to the equity shareholders or Partners in case of llps next slide. Yeah, thank you now. 
+
+1:26:47
+Decision of the secured creditors: realization versus relinquishment now realization by the secured creditor, which is outside liquidation process as per section 52 and under the liquidation process under Section 53. now in if we have already discussed it that the secured creditor May relinquish his security interest under section 53 and his particular interest would form part of the liquidation estate, or the secured creditor may choose not to relinquish the security interest and then it would form part under Section 52 that this would be realization outside liquidation. 
+
+
+## Further the realization outside liquidation process, regulation 21A says in the communication of decision within 30
+1:27:31
+Further the realization outside liquidation process, regulation 21A says in the communication of decision within 30 days of LCD informed C operational crater or formed the fragile creditors. Step two is proportional contribution towards liquidation costs and Workman dues and then within 90 days of the liquidation commencement date. Step 3 is excessive realized amount over submitted claim to be submitted to the liquidation estate within 180 days of the LCD. 
+
+1:28:00
+If we come to the realization outside the liquidation process, regulation 37 governs it. the secured creditor must intimate the Liquidator the realizable price at which she proposes to realize the asset within 20 days of such intimation. The Liquidator shell of a person willing to buy the asset before the expiry of 30 days of intimation and at a higher price than intimated by the security creditor. 
+
+1:28:21
+Then the secured creditor shall sell the asset to such a person and bear the cost incurred by the Liquidator for identification of such a person. Further relinquishment by the secured creators include encumbered assets which do not form part of the liquidation estate unless security interest is relinquished. Regulation 21A of liquidation regulations requires security creditors must inform decision on non relinquishment within 30 days of LCD. Failing such communication, it will be a deemed relinquishment. 
+
+
+## The General Rules of Priority, the Fixed versus floating charges
+1:28:54
+A set will form part of the liquidation estate where not relinquished, assessed must be sold within 180 days of the liquidation commencement date. In case it is not sold, then it will fall back into the liquidation estate. We come to a brief on the general rules of priority. 
+
+1:29:20
+This is the fixed versus floating charges, the priority, several of several specific charges on the same properties determined by the general rules relating to the priority of charges, we can go through the state of Andhra Pradesh versus rajaram, janard and Krishna. Further reference to section 48 of the transfer of property Act 1882, where a person purports to create by transport at different times, writes it or over the same removable property and such rights. 
+
+1:29:50
+Yeah, foreign number and page number. you are referring to the transfer of property at all, the Andhra Pradesh versus. Yeah, I'll have to look through that and I'll definitely give it. Yes, I'll look through it. Numbers, yeah, welcome. Now, where a person number and page number, yes, I'll write down and I'll send them to you. 
+
+
+## How to create rights in or over the same immovable property
+1:30:30
+Yeah, where a person proposed to create, by transfer at different times, rights in or over the same immovable property, and such rights cannot all exist to be exercised to their full extent together. Each later created right shall, in the absence of a special contract or reservation binding the earlier transferees be subject to the rights previously created. Now this is very important. 
+
+1:30:51
+Since there has been no mention to such things or such issues in the IBC code. we are relying on the other codes which will be there already. Section 48 of the transfer of property act 1882. In case the statute or in case the intent of the parliament would have been to exclude such Provisions, they would have mentioned it explicitly. 
+
+1:31:13
+Since it has not been mentioned, we can refer back to these acts, one of these being section 48 of the transfer property Act 1882, whereby it is very clearly mentioned that in case on the same immovable property there are two Rights created, then the right created ladder in the latter time shall be subject to the right created previously. So such cannot. Such rights cannot all coexist, cannot exist to be exercised in the full extent. 
+
+
+## Fixed versus floating charges if there is a special
+1:31:40
+So each later created right shall in the absence of a special. In case there's a special contract, then we would make a reference to the special contract. In case there is no such special contract or reservation in binding the earlier drought series it could be, it would be subject to the rights which were previously created. This is the general rules of priority fixed versus floating charges. 
+
+1:32:03
+Further, section 70 of the transfer of property Act 1882 says: if, after the date of a mortgage, any accession is made to the mortgage property, the mortgagee in the absence of a contract to the contrary shelf, for the purposes of the security, be entitled to such accession. 
+
+1:32:21
+Now if there is any accession to the mortgage property, then the mortgagee, in the absence of in case there is a contract which is contrary to the provisions here, unless there is such a contract, the he will be entitled to such accession or over the property. Fixed charges were Prevail will always Prevail over the floating charges. Where specific charges created on immovable property, a floating charge cannot have a priority. 
+
+
+## a registered floating charge without a restrictive Clause
+1:32:49
+Also, the specific charge which is the first end point of time takes priority over the second. This is again the same case: state of Andhra Pradesh versus Raja, RAM, janard and Krishna. Further, a registered floating charge without a restrictive Clause lags after a prior or subsequent specific chart which is due to register in case we have, you know, two charges. 
+
+1:33:18
+One of them is a subsequent specific charge which is registered versus a registered floating charge without a restrictive Clause, then the subsequent specific charge will have a priority. We have another case: Hamilton's Windsor Iron Works. Further, in the absence of stipulation to qualify the elasticity of the flooring charge, it leaves the company at Liberty to create specific mortgages or charges in priority to itself. 
+
+1:33:45
+In case for any in case there is a floating charge and in the absence of any stipulation to that floating charge, the company is always at a Liberty to create any specific charges or mortgages in priority to itself. 
+
+
+## ilc report: Liberty should always create specific mortgages or charges
+1:34:01
+Now again we go back to the same you know contention brother, which has been given by the ilc report, wherein you know it has been mentioned that the that the parties, or rather the banks or the companies or whatever organizations, are actually lending loans, we consider them to be in a good position, or rather we assume that they have done their bit of the due diligence and they would extend those loans only after doing their due diligence and taking a calculated, defined decision as to whether they would want to do it based on some security interest or without the security interest. 
+
+1:34:35
+In case they have done it without the security interest, then it is their decision which must be respected and because of such a decision, the interests created by the other creditors who have a valid security interest should not be overlooked. So that is why you know once again it is said that the absence of a stipulation to qualify the elasticity of the floating charge it leaves the company at a Liberty to create any specific mortgages. 
+
+1:34:59
+So a person who has learned with has been a lender has not taken any security interest, then the company will always be added Liberty to create specific mortgages or charges and priority to itself. We come to the general rules of priority for registration. 
+
+
+## Registered charges depend for validity and registration, but they take priority from the date of registration
+1:35:16
+Registered charges depend for the validity and registration, but they take priority from the date of the creation through constructive notice arises from the date of registration, though constructive notice rises from the rate of registration. Now the date of registration is also important. 
+
+1:35:31
+So in case the registration depends on their validity on registration but the date becomes, the constructive notice may be displaced by an estopper or some Equitable consideration, or when the latter charges a legal charge without actual or constructive notice or has a better equity. Maybe in some cases if the latter charge which has been created is a legal charge, then you know it is displaced by a stopper or some Equitable consideration. 
+
+1:35:57
+Then it may have a priority. however, the right which the plane's plaintiff has to enforce its mortgage against the property of the company is dependent. And then can you just speak this slide yeah sure, oh the right which the plaintiff has to enforce its mortgage against the property of the company is dependent not only on upon the registration, but also on the terms of the mortgage itself and as per the terms of the right which they had. As such, a second charge does not become a first charge merely because of Prior registration. 
+
+
+## Charge created by the company in favor of the second creditor and registered with the registrar
+1:36:34
+Charge created by the company in favor of the second creditor and registered with the registrar is valid and an exclusive charge in respect of immovable properties of the company and gets priority and prevails over the unregistered charge in favor of the first creditor. this is explained via the escorts Finance limited versus the Fidelity Industries limited interaction and that Deepika can talk more about. Thank you, thank you, so this is a very important part. 
+
+1:37:02
+Again that a second charge does not become a first charge, mainly because of Prior registration. So in case you know our second charge was registered created prior to the first charge, then the second charge would only remain a second charge, irrespective of the timing of its creation, even if it was created, you know, prior to the first chart. 
+
+1:38:13
+So this is this has been clearly you know, given by this case of a Scots Finance limited versus Fidelity Industries foreign charge versus the second charge treatment of Interstate classifications. first charge holder has the primary interest security interest over in a set second charge holder over the remaining asset after settling claim of the first charge holder. Rights are sequential and not proportional. This is very important. 
+
+
+## Can the first charge and the second charge Arrangements be disregarded by the liquidator?
+1:38:42
+The rights are sequential and not proportional as far as the first and the second charge is concerned. Section 53 two of the Court states that any contractual Arrangements between recipients with equal ranking if disrupting the order of priority shall be disregarded by the liquidator. Further, we have a few questions, as in the can the first charge and the second charge Arrangements another interesting classifications be ignored? The liquidation proceedings must ensure parity and proportionality. 
+
+1:39:11
+Idea of proportionality is only as far as the claims of similar ranking are concerned. Now the parity has to be maintained always. that means whatever the charges are there, whatever may be the decisions, oh whatever may be the charges or whatever may be the waterfall, as per falling, as per section 53, that must be respected and the proportionality again has to be taken care of. It is only as far as the similar ranking are concerned. 
+
+1:39:46
+Please excuse me, I have to just. Their first charge holder does not relinquish interest. Will the first second charge second ranking remain? Yes, where the first charge holder does not relinquish the interest, will the second ranking remain? Yes, it will remain, even if it is relinquished or it is not relinquished, the charge will remain as it is. 
+
+
+## Registered versus the unregistered claims
+1:40:35
+We'll come to a little bit of discussion on registered versus the unregistered claims, whether registered with Roc under the companies act, whether registered with Cersei and whether registered with information utility in case a particular charge is registered will all with all the three that is under Roc under the companies Act registered with Cersei under the surfacey act and whether registered with the information utility, then all rights are protected under the companies act in solve NC code and surfacey act. 
+
+1:41:06
+In case there is a particular charge which has been registered under the ROC under the companies act and registered with Cersei under the surface yet but not registered with the information's utility. Still all rights are protected under the companies ACT insolvency code. surfacey act, though mandatory to furnish financial information to IU foreign charge is registered with the ROC under the companies act? 
+
+1:41:35
+Yes, if not registered with Cersei and not registered with the information utility, in case the rights are predicted under the company's act, since it is registered and under the insolvency ACT, also it is protected since it is registered with the ROC but not protected under the. 
+
+
+## Security Interest Under Surface: How to enforce security interest under surface
+1:41:58
+In case it is not registered with the ROC but it is registered with Cersei and registered with the information utility, then cannot claim secured status until the companies act on the insolvency court. However, it can enforce security interest under surface. Further, in case a particular charge is not registered with the ROC, not registered with Cersei but yes registered with information utility, then it will not be considered as a secured status. 
+
+1:42:26
+It cannot enforce any security further if a particular charge is not registered with any of these, then again it is the same thing. It is not enforceable. So if we come to a bit of a conclusion that the prevailing approach towards the security creditors priority rights established at the time of lending supposedly provides them with a security net in the event that the firm defaults and insolvency procedures are initiated even after the IBC was enacted, there is nothing in the IBC that specifically addresses this issue. Furthermore, section 5.2 of the IBC only prohibits agreements that disrupt the waterfall mechanisms sequence of Precedence. 
+
+1:43:20
+The problem of priority of Interstate secured creditors who have renounced their security interest is left unanswered as a result. It is clear that there is still lacking legal certainty on this topic. we all understand this very clearly. 
+
+
+## NCLEX: Interstate secured security interests will not be given priority
+1:43:34
+You know, since the since the case of Technology Board of India versus Anil goel this particular case, you know, since it had the honorable nclt had upheld the decision based upon the ilc report and the secured creditors and their secured rankings and their Interstate security interests were protected. However, the honorable NCLEX gave a decision that the interstate secured security interest would not be given any priority. 
+
+1:44:03
+The case again has gone to vulnerable and in Supreme Court and the stay has been granted on the order given by honorable and glad so. The matter is still subjudious and since there is not much Clarity, we have taken such a long discussion on the references made to this issue under the Clauses of the ilc report, as well as under the Clauses of the IBC code, especially sections 30, subsection 4, which clearly says that even under a resolution plan, when the distribution will be made to all these stakeholders, it will consider the security interests. 
+
+1:44:34
+So a reference has completely been made and we also come to a conclusion that since you know it has been mentioned in many such cases and many different statutes also, that in case you know a specific thing which has been laid in the earlier statutes needs to be excluded, the present statute would make a special exclusion to that. you know, an explicit exclusion would be made. 
+
+
+## Inter say secured creditors rankings must be respected
+1:44:59
+In case a specific exclusion is not made and it is not explicitly defined, then we would consider it. We would consider the other acts which have already been prevailing in the country. 
+
+1:45:11
+So considering that whole discussion, we would rather say that the inter say secured creditors rankings based upon the security interests who have renounced their security interests in favor of the liquidation state must be respected and it cannot be challenged unless a decision contrary to that and a judgment contrary to that is delivered by honorable secretary Supreme Court and the matter is still pending in subjudice. 
+
+1:45:39
+Further, the intrinsic ambiguity in the topic, as well as the lack of a clear legal precedent, leaves no answer to the difficulty, since there is no legal precedent to it. you know, no case has been up till date decided on this particular thing. 
+
+
+## ibc liquidation waterfall: legislators should give equal weightage to the interests of
+1:45:51
+It is conceivable, however, that any priority rights connected to a security interest State tied to the security interest and that when the security interest is abandoned, the priority rights associated with the security interest has expire as well. Although it appears that lawmakers consider all issues when establishing the ibc's liquidation waterfall, which favored secure creditors, legislators should give equal weightage to the interests of other stakeholders in order to fulfill the ibc's goals. 
+
+1:46:18
+Now you know it is just saying that you know the rather it is. it is it will be a good this thing in case the lawmakers would give the other stakeholders also the you know, equal weightage, whether it is the operational creditors or any such things, in order to ensure that the justice is rather. You know, the distribution distributive justice prevails. 
+
+1:46:49
+However, the historical perspective that we've seen throughout the presentation and throughout the laws that have been governing our country, whether it is the transfer of property act or whether it is the company's act initial one or whether it is the amended companies act 2013. We all look at these specific Provisions which have been given under all cases wherein the justice has been tried to be delivered. 
+
+
+## Section 53: What Happens, What Happens, What Happens, What Happens After
+1:47:15
+So we rely on section 53 to be sacrosanct, and it is zero something to be relied upon under all cases and the matter of this interstate security which is still bending with honorable security Supreme Court. We look forward to the decision and let's see what happens, you know, and what is delivered after that and how it is to be preceded. So thank you all I mean so I'm extremely sorry. 
+
+1:47:38
+I have kind of you know, because of this bad throat, I have rather done some I maybe we could have gone even into more discussion, but I somehow developed this throughout just recently and I just thought: let me just discuss whatever it's okay exactly chat with us the PowerPoint presentation so that we will. If we want to disturb, we'll distribute later on. no problem, sir. 
+
+1:48:08
+I in fact in fact anybody who has any question right now or any observations or any discussion. We can definitely do that. I welcome you in case you have any questions or any observations or any further analysis or any further piece of information which can help us all. I welcome that. If Mr Kanti doesn't have anything and I don't have anything, you can close down. All the others are silent Spectators. Thank you, sir. 
+
+
+## Thank you all for being present at the moment
+1:48:46
+I'm sure all of the, I'm sure, have been able to explain the concept clearly and I'm sure we all have been able to understand it. In case there are any questions even further, I'll share the presentation and you can contact me anytime. Yeah, thank you so much. Thank you over to you, ma'am. Thank you so much, ma'am. 
+
+1:49:09
+You are ready to take the session today, so thanks a lot for sharing your knowledge with all the participants, and we will invite you for other session as well to future. But at the moment you please take care of yourself and thank you so much for being present here today. Thank you all, thank you all for being here. Thank you so much. I look forward to your questions or to your observations. Thank you, thank you, thank you. thanks to already thanks. Remember we taking a short break? or yeah, please do that. okay, thank you. 

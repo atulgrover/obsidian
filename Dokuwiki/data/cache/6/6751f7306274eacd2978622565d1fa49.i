@@ -1,0 +1,116 @@
+a:9:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:0;}i:2;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"{";}i:2;i:1;}i:3;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2;}i:4;a:3:{i:0;s:12:"preformatted";i:1;a:1:{i:0;s:6364:""agentName": "Default Detection and Verification Agent (DDVA)",
+"agentDescription": "Analyzes financial data, payment records, and contractual obligations to detect potential and actual defaults by debtors. Automates the process of gathering, verifying, and organizing evidence required to support insolvency applications filed by creditors or corporate debtors.",
+"version": "1.0",
+"status": "Conceptual",
+"goals": [
+  "Continuously monitor debtor accounts receivable/payable schedules against contractual terms.",
+  "Accurately detect payment defaults based on predefined rules (e.g., exceeding grace period) or ML patterns.",
+  "Identify potential defaults based on predictive indicators (e.g., deteriorating payment behavior - using ML).",
+  "Automate the collection of prima facie evidence of debt and default (e.g., contracts, invoices, non-payment proof).",
+  "Verify the defaulted amount, due date, and date of default.",
+  "Flag potential disputes or discrepancies identified during verification.",
+  "Compile a structured evidence package to support an insolvency application.",
+  "Reduce the time and manual effort required for default verification and evidence gathering."
+],
+"keyCapabilities": [
+  "Data Integration: Connects to accounting systems, bank feeds, loan management systems, and contract repositories.",
+  "Payment Monitoring: Tracks payment due dates, amounts received, and outstanding balances.",
+  "Rule-Based Default Detection: Flags accounts when payments are overdue beyond specified thresholds.",
+  "Machine Learning Analysis (Optional/Advanced): Identifies unusual payment patterns, predicts likelihood of near-term default based on historical behavior or debtor financial health indicators (requires linkage to FHAA type data).",
+  "Evidence Retrieval: Automatically pulls relevant documents like invoices, purchase orders, contracts, proof of delivery, demand notices.",
+  "Communication Analysis (NLP): Scans emails or communication logs for relevant information like acknowledgements of debt, payment promises, or dispute notifications.",
+  "Data Extraction: Uses OCR and NLP to extract key details (amounts, dates, parties) from unstructured documents.",
+  "Verification Engine: Cross-references data from multiple sources (e.g., invoice amount vs. contract terms vs. payment received).",
+  "Evidence Packaging: Organizes verified evidence into a structured format suitable for legal review and application submission (e.g., linking specific invoices to non-payment proof).",
+  "Reporting: Generates a detailed Default Verification Report summarizing findings and listing supporting evidence."
+],
+"targetUsers": [
+  "Financial Creditors (Banks, NBFCs, Funds)",
+  "Operational Creditors (Suppliers, Service Providers)",
+  "Corporate Debtors (considering self-filing for CIRP)",
+  "Legal Teams supporting Applicants",
+  "Credit/Collections Departments"
+],
+"inputDataRequirements": [
+  "Access to Creditor's Accounts Receivable System / Debtor's Accounts Payable System.",
+  "Loan Agreements / Contracts / Purchase Orders / Service Level Agreements.",
+  "Invoices / Bills / Demand Notices issued.",
+  "Bank Statements / Payment Gateway Records (showing payments received or not received).",
+  "Correspondence History (Emails, Letters related to the debt, payment reminders, dispute communication).",
+  "Debtor Information (Legal Name, Identification Numbers).",
+  "Internal thresholds defining 'default' (e.g., number of days past due)."
+],
+"outputFormats": [
+  "Default Alert Notifications.",
+  "Default Verification Report (PDF, HTML) - detailing debt, default specifics, verification status.",
+  "Structured Evidence Package (e.g., Zipped folder with indexed documents, manifest file).",
+  "JSON/CSV/XML data output containing verified default details.",
+  "Potential Dispute Flags Report.",
+  "Audit Trail of verification steps."
+],
+"potentialBenefits": [
+  "Faster identification and confirmation of defaults.",
+  "Reduced manual workload and cost associated with evidence gathering.",
+  "Improved accuracy and completeness of information in insolvency applications.",
+  "Stronger supporting evidence for claims, potentially reducing delays or disputes at NCLT.",
+  "Standardized approach to default management and verification.",
+  "Early warning of potential defaults (if using ML capabilities)."
+],
+"requiredTools": [
+  {
+    "toolCategory": "Data Acquisition",
+    "tools": [
+      "Database Connectors (SQL, specific connectors for accounting software APIs like SAP, Oracle Financials, Tally, QuickBooks if available)",
+      "Bank Feed Aggregation APIs (e.g., Plaid - subject to permissions and regulations)",
+      "Email Client APIs (IMAP/POP3, Microsoft Graph API for Outlook)",
+      "File System Access Libraries",
+      "Spreadsheet Processing Libraries (e.g., Pandas)"
+    ]
+  },
+  {
+    "toolCategory": "Data Processing & Analysis",
+    "tools": [
+      "Data Manipulation Libraries (e.g., Pandas, NumPy)",
+      "Rule Engines (Custom code, or libraries like PyKnow)",
+      "Machine Learning Libraries (Optional: Scikit-learn, TensorFlow, PyTorch for predictive analysis)",
+      "Date/Time Libraries"
+    ]
+  },
+  {
+    "toolCategory": "Document Processing (OCR & NLP)",
+    "tools": [
+      "OCR Engines (e.g., Tesseract, AWS Textract, Google Vision AI)",
+      "NLP Libraries (e.g., spaCy, NLTK, Transformers - for entity extraction, classification)",
+      "Regular Expression Libraries"
+    ]
+  },
+  {
+    "toolCategory": "Data Storage",
+    "tools": [
+      "Relational Databases (e.g., PostgreSQL, MySQL - for storing structured default data, verification status)",
+      "Document Stores / File Systems / Cloud Storage (e.g., S3, Azure Blob - for storing evidence documents)"
+    ]
+  },
+  {
+    "toolCategory": "Reporting & Output",
+    "tools": [
+      "PDF Generation Libraries (e.g., ReportLab, FPDF)",
+      "Spreadsheet Writing Libraries (e.g., openpyxl)",
+      "Standard Libraries for JSON/CSV/XML"
+    ]
+  },
+  {
+    "toolCategory": "Workflow & Automation",
+    "tools": [
+      "Task Scheduling Libraries/Tools (e.g., Celery, Cron)",
+      "Workflow Orchestration Tools (Optional: Airflow, Prefect)"
+    ]
+  },
+  {
+    "toolCategory": "Alerting & Notification",
+    "tools": [
+      "Email Service APIs (e.g., SendGrid, SES)",
+      "Messaging APIs (Optional: Slack, SMS gateways)"
+    ]
+  }
+]";}i:2;i:2;}i:5;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2;}i:6;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"}";}i:2;i:6600;}i:7;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:6600;}i:8;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:6600;}}

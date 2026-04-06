@@ -1,0 +1,700 @@
+# Webinar on Proposed changes in IBC Code 2016 Part1  CS Jasveen Bindra Partner at Mehta & Mehta
+![](https://img.youtube.com/vi/bSptybMUDKY/hqdefault.jpg)
+1 year ago (Apr 2, 2023) — 1:28:57
+[https://youtube.com/watch?v=bSptybMUDKY](https://youtube.com/watch?v=bSptybMUDKY)
+
+
+## Summary
+The webinar, led by Jasveen Bindra and Amit Gupta, discusses the proposed changes in the IBC code. Amit Gupta, a fellow member of ICS Institute, IP, and a corporate law expert, highlights the key areas of amendments including the use of technology, admission of CIRP applications, streamlining the insolvency resolution process, recasting the liquidation process, and the role of service providers. Gupta shares his views on the proposed amendments and expresses his concerns about the increasing number of changes, which may affect the stability and basic essence of resolution. The discussion also covers the mandatory use of information utilities by financial and operational creditors during the admission process, the role of NCLT, and the impact of these changes on the insolvency ecosystem.
+
+## Amit Gupta, CS and IP participant with icsa
+0:00
+Good evening everyone and Welcome to our next episode of webinar on IBC and thanks for your time. And this time again we have Amit Gupta, my good friend who is CS and IP, both and known to everyone. 
+
+0:19
+And to brief, the topic is only the proposed changes in IBC code, though the suggestion date is over, but at least we can discuss what is proposed changes, so we can say little bit late in discussing, but still we, since these changes are coming, we should know the thing. So today we have one of the very well known and knowledgeable, you know, my friend and IP and participant with us, Amit Gupta. 
+
+0:54
+And to introduce Amit Gupta. His profile is stupid, but just to say that he is a fellow member of icsa, our Institute, and also is IP, and he's in practice for last 22 years in corporate and Allied law and is a regular speaker. He's a science and law graduate and diploma holder in 1995. Finance from icfi is a position he hold with icsi. Member of North India Regional council. 
+
+
+## ICC icsi Task Force member of ICC icsi Task Force
+1:27
+Ex official member of managing Committee of Lucknow chapter and Lucknow chapter of nirc managing committee. Chairman of research publication of nirc. Member of secretary standard board. Member of auditing standard board. Member of core group of vision 22 of ICC icsi Task Force. Member of task supports of corporate law force in 2015.18 chairman of core group on corporate law publication. So many are there, Amit. 
+
+1:58
+I am not telling that too much because member of corporate land corporate governance committee PhD chamber, member of National Council of so chairman merger acquisition, member of law Justice Commission pH member and he has contributed in publication of icsa premier on company law volunteer liquidation handbook on it. Friends, volunteer, his book is really Master Blaster. 
+
+2:23
+One should refer that handbook on interim resolution professional affect you on Section 8 companies guidance dot or secretary referencer on pre certification or C form background or a national company Lottery. He was rather contributed in Vision new icsi 22 compliance management audit configurator new syllabus of our executive professional program study material for the same. 
+
+
+## Amit's book on voluntary liquidation
+2:53
+These are visiting and guest faculty of various management professional institutes and regular speaker at msopdp seminars conference organized by icsi awn Chamber of Commerce University and management Institution. So, friends, such a long profile of Amit very well word, very well read and very educated. So, Amit, one thing or that our book on voluntary liquidation. 
+
+3:23
+I think, with the new amendment I already suggested to icsi IPA, that it should be again published yeah and that will be really helpful to all IPS because that's the only Complete Book of voluntary liquidation available. Yeah, that was first and the only complete. I think there is no other publication available from right s neither sector not public sector. It's a time when a lot of cases studies are also there. 
+
+3:52
+I think we should definitely and we may even plan one particular session on voluntary liquidation itself, because there are a lot of case studies which had evolved in the past six years of evolution of insolvency. I think that's a very good topic to do with. Let us. We should work it out and also I have of course everyone will agree. 
+
+
+## There should be secretary standard for the COC, though it is drafted, but at least
+4:19
+There should be secretary standard for the COC, though it is drafted, but at least not in a voting rights or anything but administrative behavior, and all that can be there will be there absolutely. We had been to the extent possible. We have been following also, but to make it binding Force. I think suggestion is valid. 
+
+4:40
+I am in sync with the same, though it may require certain tweaking in the application of secretary standard, as it is to modify suitably. Adopt for that now we have to modify, we have to cover. Okay with now, Amit, you can say a few words on the topic and then Jasmine can start the presentation. No, I think we will go other way. Let us have a hearing to jaswin. She has done a wonderful job. 
+
+5:13
+I was just glancing through the presentation, so we'll have a brief overview and by that time we'll also consume. There will be some discussion point and let us then open the floor for discussion. Me and you will try to understand what all are the in the kitties of the insolvency law, though the changes are very loudable. I'll say this much. I personally don't agree with many of the changes. 
+
+
+## What have been proposed amendments to IBC pursue into the MCA notice data January 1.202
+5:45
+I'll share My Views also because too many changes are in a way though law is dynamic and should be dynamic initially in the, in the time where we are, but too much changes are destroying the basic essence of resolution and everybody is now feeling like there has to be some stability in terms of basic framework in which we have to operate and this new changes, what have been proposed are again making many u turns. 
+
+6:22
+I don't know where we will lead to, but anyways we will discuss. I think you'll just dive into the amendments directly, since, like so said, they are very Dynamic and extensive in nature. So the proposed amendments to IBC pursue into the MCA notice data January 1.2023. the proposed amendments have five major areas of amendments that have been reposed. First is in the area of use of technology in the IBC ecosystem. 
+
+7:02
+Second relates to admission of cirt applications. Third is streamlining the insolvency resolution process. Of fourth is in the area of recasting the liquidation process and the last relates to role of service providers and other stakeholders. There are multiple amendments proposed, amendments in each of these topics, which we shall discuss here. 
+
+
+## IBC ecosystem: How to improve integration, if you want to rethink it
+7:26
+On first use of Technology, the IBC ecosystem, so as on date we have separate technological platforms for MCA and CLT, is ibpi, information utilities and other service providers, and of the basic pillars of IBC. with these proposed amendments, they wish to improve the integration between these technological platforms and which would lead to transparency, maximize maximizing the output and minimizing the delays cost in the process, and to facilitate an effective decision making. 
+
+8:02
+Secondly, also intend to provide an e platform for case management system, automated processes to file applications with the adjudicating authorities, delivery of notices enabling interaction and integration with the entire ecosystem, wherein the IP will interact with the stakeholders which can be the creditors, government authorities, Etc storage of records of the corporate data in a centralized system and to incentivize participation of other Market participants, Market layers in the IBC domain. 
+
+8:38
+This is to consolidate all the information and simplify the process. Second is in the area of admission of pirp applications. the first is to increase the Reliance on the record submitted with information utility during the admission process, as indeed the only financial creditors are obligated to compulsorily or submit the information financial information with information utilities. It is voluntary for operational creditors as of now. 
+
+
+## Amendments to Section 215: How to respond to corporate data in cirp
+9:11
+However, what they propose is to amend section 215 to provide that the operational creditor that intends to apply to the adjudicating Authority for initiating cirp against corporate data would be obligated and required to file the information of relevant financial information with the information utility prior to submission of such application. 
+
+9:35
+They've also provided that there would be a reasonable opportunity given to the confederator to respond to such information that is being submitted by the operation creditor, and this information would be treated to be authenticated if the corporate data does not respond to the same within a stipulated time period. That would be provided by law. 
+
+9:56
+The intention behind this is to save judicial time or the time spent by the adjudicating authority to determine the test of default, as well as to increase the role and responsibility on of the information utilities. other set of amendments relating to information utilities is the adjudicating authority would rely only on the record of default that is available with the information utility and it shall be treated to be a conclusive proof of occurrence of default. 
+
+
+## Information Utility: How to Create Financial craters in the information utility
+10:27
+Only limited number of cases the adjudicating authority, on genuine grounds and reasons that are proven, may consider other evidence, so this automatically increases or Reliance on the information utility and the data available with them. inputs on this. 
+
+10:51
+Yeah just been, if I, if I can just interject on this particular point, so to say, whether it is going to be proving anyway useful or not useful because we have already seen that in case of the financial creditor, this particular provision has already been there and, if I recall correctly, in May 2020 the nclt president came out with the circular also saying that now record of default from the information utility shall be mandatory for the admission of financial crater cases. 
+
+11:37
+Right, however, because there was no legal backup, because the insolvency and bankruptcy code, as well as rules made there under were not having any mandatory requirement. so the president has to ultimately withdraw that notification and it was again made optional, though section 215 was very categoric and is very categoric in the nature that the financial craters are under an obligation that they have to create this information in the information utility. 
+
+
+## State Bank of India releases credit facility of rupees 100 crore to ABC Limited
+12:18
+There is no option available, and good part is that although initially it was not there initially the law was like the financial creditor will send the information to the information utility and as and when the corporate debtor will be confirming to the same. The record will be taken by the information utility and similar situation was provided for the default cases also. 
+
+12:48
+So today, let us say, the State Bank of India is releasing a credit facility of rupees 100 crore to ABC limited. So State Bank of India was obligated to send this information of lending, along with the required data inputs, whatever this IU provides ask for and the information utility that is. 
+
+13:16
+The National e governance Services Limited will in turn ask the corporate debtor to verify the genuineness of the information what has been submitted by the State Bank of India. So one reminder will be sent, second reminder will be sent, third reminder will be sent. Now. Law is that if, after even third reminder, the corporate data does not respond, then it is considered as a deemed acceptance. 
+
+
+## ABC limited defaults if it goes into default
+13:45
+So that means the National e governance Services will record that as a lending of the credit facility without any confusion. Same thing happens now with the default. Also now, if ABC limited goes into default, what will happen? ABC State Bank of India will again initiate the process and will inform to the National League governance Services Limited that ABC limited has defaulted in the payment of so and so installment. 
+
+14:17
+Again very naturally, when the information will pass on from any National e governance Services Limited to the respective concerned corporate debtor. That is ABC limited. Again, ABC limited is not going to accept it readily. In majority of the cases that default has occurred, they will try to dispute so or maybe they will not respond at all. That is the safest thing. 
+
+14:42
+So again, the law was amended way back in 2018 itself, where the provision was made that again three intimations will be sent with a particular time Gap. And even if after these intubations the response is not coming, then it will be again a deemed acceptance. So the deemed default, the team default, will be recorded in the information utility and that record of default will be considered as evidence before that adjudicating Authority. 
+
+
+## What is the law that makes it mandatory for the financial crater to be initiated
+15:15
+So this provision is already there in existence. Maybe it is not yet mandatory, I don't know, means it is yet to test the water, because in the cases even where the record of default has been there from the information utility. The judicating Authority is not placing much of the Reliance on these record of default and the matter is still continuing before the judicating authority. 
+
+15:44
+Now the real problem, because this is the situation as on date in respect of the financial crater. I believe the change that is likely to happen in case of the financial crater is only one that law will make made it mandatory that this record of default will become NOW essential component of each and every application filed by the financial crater. 
+
+16:06
+So this will become mandatory in application whatever the financial crater is filing for initiating the cirp process. That is one change that I am expecting now. Second change, which is rather larger in respect of the operational crater, because for operational Creator presently this law is optional, it is not mandatory that you have to initiate the process of informing to the your information utility in respect of either supply of goods or services or default thereof. 
+
+
+## Right now intention is very loudable.
+16:41
+Right now intention is very loudable. I'll not say intention is not very loudable, because the primary problem of this entire insolvency law, as I understand, is that the adjudicating authorities are overburdened. 
+
+17:00
+They are not having sufficient bandwidth to deal with the number of cases, what are being filed in the respective of the adjudicating authorities, and reason is because number of cases, number of the multiple jurisdictions with regard to the company law matter, with regard to the insolvency matter, with regard to the other matters, also, so that multiplicates the problem. 
+
+17:26
+So, instead of finding out a right solution, perhaps what government is trying to do is trying to create another Forum of litigation. Because what will happen now? now if I am saying that government is relying more on the information utility in terms of burdening them with the responsibility that now you will you will be information collecting agency as well as the primary Agency for deciding whether the default has happened or not right. 
+
+
+## Creating a Record of default in the corporate debtor
+18:00
+So they will be even doing a correspondences with the corporate debtor and the operational Creator in terms of establishing the requirement of further evidences and the documents to establish whether the default has taken place or not. A they are not judicial Authority B I don't know their competency also in terms of understanding this entire process of establishment of default. So I'm having my own doubts with regard to any success. 
+
+18:34
+Coming particularly from this brother, I see that lot of litigation will increase at the first stage itself, where the operational creditor decides to move towards filing the cirp. Because what the law says? If today, let us say, I had supplied Goods of one crore Rupees to the corporate debtor right today, I have not supplied with the intention that tomorrow I will not be getting the money back. 
+
+19:03
+I have supplied with all fair intentions that in due course I am getting past five years payment. I will get this payment also now, two years later, or maybe one year later, when I had used all my resources and the payment is not coming forward. then if I intend to initiate the cirp, law says that then in that case, before initiating cirp, you will be obligated to create a record of default in the information utility. 
+
+
+## How to wait for the period in information utility
+19:37
+So first of all, I have to wait for the period. Rather, it is not mandatory that I have to wait, but any sane person will not go for creating the record in the information utility unless and until it is obligatory on his part. Right, even potential creators are not doing right now. In many of the cases, though, it is mandatory because utility is not there. So information utility how many operational crater will use? 
+
+20:04
+That itself is a big question mark. And I am saying tomorrow when the default, when I am on the verge of filing the application. so what I'll do first. Should I shoot the demand notice first or should I go to information utility to create a record? The moment I create a record moment I go to create a record. In the information you need utility. The message will go from information utility to the corporate data. 
+
+20:32
+He is going to get a alert that something wrong is going to happen against me. He will initially whatever. He has not done up till now. That is the opportunity to create the dispute because your dispute has to be prior to the Divine notice. You have not issued the demand notice till date and you have triggered the master with the information utility. 
+
+
+## How I Supply Goods rupees one crore and when I receive payment, I immediately informed
+20:57
+So you are giving an opportunity to the corporate debtor to have one more opportunity where he can raise the distribute the moment he raises the dispute. Then you are gone where, whether you have a case of default or not, before the information utility. Ultimately, at least I, as a reasonable professional, I am not able to understand how the sequencing will happen. 
+
+21:24
+Unless and until today I Supply the goods of one crore and the moment I Supply the goods, I immediately inform to the information utility that on the credit of 30 days I have supplied Goods rupees one crore and the moment I receive the payment, I again informed to the information utility either the chapter is closed or the default has occurred right then. 
+
+21:47
+So it makes sense, but if I am triggering this event or I am differing this event till the time of making a decision of going to the insolvency process, I am having my own doubt that it will lead to any success. It will lead only to litigation and maybe I we can have the view of the theme am also, but my personal view is that I it will. 
+
+
+## OC OCR is a banker in India
+22:12
+It will add to lot of litigation and it will be maybe proving adverse against the interest of the operational creator. Also what I think that first of all we have to create awareness among osino that there is a information utility and this kind of facility is available in India. How many OC are knowing this person? That is the main area of concern. 
+
+22:44
+Forget about next stage, because first of all we should make aware this kind of facility available, the process available, Advantage available, if you understand the new system, like mutual fund investment, how much Savvy has marketed and see today they have reached so FC being a banker majority and they are in a very systematic regulated market. The implementation still it took time. So when we say OC OCR scattered all over India and also out of India. 
+
+23:20
+Now, if we make this prerequisite, then the knowledge of the same and doing the same and the process, everything should be known to each and every participant of this process, because OC can be anywhere in the world for initiating insolvency in India. So again in cross border in solvency and all that, we have to again check on that. so that is another point we have to keep in mind and, of course, very important point. 
+
+
+## How to Create the Awareness for the OC's Market
+23:51
+Just to add one very small Point, the point that you have raised, that creating the awareness. I believe yes, it is very important, but the challenge I believe in creating the awareness is also the cost involved. The government has to come forward and maybe either minimize the fees or maybe for the operational crater. It should be either free of cost, because you are just creating the information right. You are. You are you. 
+
+24:22
+You are not supposed to create a financial model for your own Survival, for survival. I think Financial greater lending institution are already there. So now if operational creator has to Bear some money, even if I am say aware today that I have this facility, when I know if I am supplying Goods to ABC limited and ABC has a reasonable, good track record, my money will come, why at all I should be bothered to register with an ESL? 
+
+24:52
+I am not going to be interested unless and until it is going to be a damn cheap price as far as the money is concerned, considering the huge volume, as you are saying, the OC's Market is multi time more than what the financial crater Market is right. So if you, if you rationalize the cost, I think there is a possibility, what you are saying, that lot of awareness will be created and people will. 
+
+
+## Insolvency bankruptcy board: What is the benefit of adjudicating authority?
+25:19
+This benefit will come, as again I am repeating, the benefit will come only on the moment you supply the goods or the transaction has created. You are registering with the information utility. If you, if you take it or if you defer it to the later stage, you are gone. My view is that you are not going to be successful in your insolvency process. 
+
+25:43
+You may have a challenges with regard to the likely possibility of triggering dispute, as we have seen that we have many cases where, for the last four years, five years, we are still fighting before the adjudicating authority on the ground of dispute itself. So objective, I can say so. I'll just take a minute more. the objective of the insolvency bankruptcy board by giving this paper and giving this considering. 
+
+26:15
+This suggestion was only that perhaps they can reduce the burden of adjudicating authority by at least becoming a collating agency of all kind of records, at least in the information utility, so they can have the all record and they can call the information utility to produce all these records before that judicating Authority, so that they are not struggling with the documents at the time when the adjudicating authority wants to decide the matter. 
+
+
+## What Is the Limiting Objective?
+26:44
+I think that is the limited objective. They are also aware perhaps that how many success stories will be converted from this particular change. But yes, the if objective is limited to that. yes to some extent, but the fundamental question that I raised the in the beginning as to the timing, another thing that again needs to be addressed, or at least we need to understand. At least I need to understand, please. 
+
+27:11
+I think the more is good that they want to reduce the dispute. Only think the implementation, and I think government must have also thought, and they will also come out. They also. So let's see every new change has a dating problem. Yeah, please go ahead. Thank you. Thank you sir. 
+
+27:27
+I'll just go ahead with the next Amendment mandated to admit an application under Section 7 where occurrence of default is established sections as of as on date. Section 7, subsection 5 states that the education adjudicating Authority May admit an application if it is satisfied that there is occurrence of default, and the Supreme Court, honorable Supreme Court in the Judgment of vidharba Industries power limited versus axis Bank limited has integrated this word, the use of the word May, and has held that the adjudicating authority has a discretion to admit or reject the application despite the existence of default to overrule this decision. 
+
+
+## Section 7: How to clarify default procedures
+28:11
+It is being proposed that section 7 should clarify that the adjudicating authorities only required to be satisfied about the occurrence of default and the procedure requirements and is not required to investigate further into anything else. And where a default is established, it will be mandatory for the adjudicating authority to then admit the application and initiate cirp in a section 7 application. 
+
+28:40
+Photo of section 7, subsection 4 provides that an adjudicating authority shall have the time period of 14 days to a certain the existence of default. However, they have proposed to change this to mention that the time period of 14 days will be provided to the adjudicating authority to decide whether or not to admit or reject the application, and not just for asserting the default. 
+
+29:04
+This is to align the provisions with the original intention of the legislature. So just, I think the move is laudable and is a counter reaction to the with judgment, which was unsettling the position that got settled over the period of last five and a half year of insolvency law evolution. So I think a move in a right direction. 
+
+
+## vidarba judgment vs. vidarba judgment vs. vidarba
+29:35
+Whatever disturbance was created or deviation, rather was created by vidarba judgment or attempted to be created because maybe in that particular matter there were a peculiar circumstances. But quoting and quoting that particular judgment. 
+
+29:54
+We have seen lot of litigation coming up before the adjudicating authorities since the Inception of that judgment and every now and then applications are being filed with regard to the various extraneous reasons and the factors due to which the cirp admission was deferred or was not to be considered by the adjudicating authority, and adjudicating authorities were also right because of the vedarba Judgment that they were bound to consider the other factors also right. 
+
+30:28
+So I think, as far as the first part is concerned, where they are giving this clarification, sort of that this will be on a par with the operational crater section, that is section 9, where the word shell was used instead of word may, as is used in section seven. 
+
+
+## Announcing the IRP for the corporate applicant
+30:52
+So now they will be putting the both of the provisions at a path and it will be mandatory on the part of the adjudicating authority, once the default is established, to admit the application for the carp process. Now the second part, which is very interesting is in some of the arguments it was taken that 14 days time has been only for the purpose of deciding whether the default has been there or not. 
+
+31:23
+It is not for admitting. So the regulator has thought to remove that discrepancy. also that 14 days timeline spirit is that this timeline is for admission or rejection of the application. So accordingly, this amendment will also so we appreciate the initiative of government that they have tried to bridge both of the gaps wherever the possible litigation was increasing day by day on account of vidarbha and on account of this particular interpretation also. 
+
+31:57
+So welcome move indeed right. Thank you, sir. Restricting the right of the promoters to propose an IRP under Section 10, where the corporate debtor itself initiates CRP it is there is a provision that stayed through the corporate applicant. Charles proposed the professional to be appointed as the IRP. Now they have proposed to amend this provision to delete the right and move it the right of the corporate letter to propose an IRP. 
+
+
+## IRP shall be appointed by adjudicating Authority
+32:25
+In such cases, IRP shall be appointed by. The adjudicating Authority from the panel by the as maintained as provided by the ibbi. This is to ensure independent or an independent professional and a person is appointed and there is no scope of connivance between the IRP and the corporate data and its management. You want me to comment? Should I sure please go ahead? I don't know. 
+
+32:56
+Means the clarification, although I don't have any reservation as far as the proposal is concerned, they want to take away the right of the corporate data to propose the IRP. That's their choice, but the rational that they have given. Perhaps I am not very happy with the wordings. 
+
+33:17
+What had been mentioned in the justification, and it looks like the people who are appointed as a interim resolution professional or proposed as a IRP, or acting in a connivance with the corporate debtor, or maybe if the matter is for financial crater. 
+
+
+## Financial crater is proposing IRP name for IRP
+33:37
+So in that case also, if some Financial crater is filing an application in is proposing the name of a particular IRP, so he is acting in connivance with the financial crater, it looks little bad in the taste. I don't appreciate the taste in which this amendment is being proposed, that the independence is not there, which is because just because there are certain bad fishes in the market, you can't blame the community at a large right. 
+
+34:09
+So I personally feel that such kind of statements or such kind of Logics should be avoided in the discussion paper, particularly when we are trying to give the impression that Independence to maintain the independence. 
+
+34:30
+So it looks like that government is trying to say that when somebody is proposing the name of IRP, then the independence is not there, whereas the basic on which this entire insolvency process is established and IRP is considered to be one of the pillar of the one of the four pillars on which the insolvency law is based on. And I am saying that no, this pillar is little weak because this might not be independent. 
+
+
+## FC cases: CD can be in canarance with the IRP
+34:58
+I think we are doing Injustice not only with the entire process, because the larger processes in respect of the financial crater, and in that case I'm saying no, because there is the possibility that there may be a connivance. So what about the FC cases? If CD can be in canarance with the IRP, then what about the financial crater? 
+
+35:23
+Is he not or can he not be in canarance with the IRP, as the law maker want to make the law? I don't have any problem, because in case of OC there is a option whether you want to propose or not, and in case of CD they want that the in these cases the right to appoint the IRP should be vested with the adjudicating authority, which is again a matter of discussion and debate. 
+
+35:51
+In many of the cases, the success stories or the past experiences suggest this has not been very congenial and very good move as far as this option of appointing IRP through the ibbi or the adjudicating authority process is concerned. But I am not commenting on that because that's a choice available to the lawmakers to do so. I'm okay with that they take away the right of CD but justification. 
+
+
+## empowering adjudicating authority to impose penalties is a violation
+36:24
+I'm little not very happy with the justification box. please go ahead, or maybe the team am. If has something. No, you go ahead. Okay, empowering the adjudicating authority to impose penalties is a violation. 
+
+36:42
+So section 235a provides punishment where no specific penalty or punishment is being provided under the court, wherein it states that a Punisher the such an offense can be punishable with a fine of not less than one lakh rupees and may extend to two crores. So that is the position of law as on date. 
+
+36:59
+Now they have proposed to empower the adjudicating authority to impose these penalties under section 235a, and the proceeding shall be carried out on an application made by ibbi or any other person authorized. In this regard. they've proposed that the minimum penalty imposed by. 
+
+
+## 235a penalties for non cooperation by promoters
+37:18
+The adjudicating Authority should be not less than rupees one lakh per day and it may extend to three times of the loss cost or the unlawful gain that is derived by the person, whichever is higher. This is to link the amount of penalty with the law loss caused or the gain that has been made. 
+
+37:37
+They've also said in the paper that in the notice that the non cooperation by promoters can also be penalized under Section 235a, and not only that 235 is one part. Non cooperation can also be a bar under 29a. We're just coming to that zone. We're just coming to that in the next slide. 
+
+38:01
+That is another Danger 35 a I personally feel is the welcome move, with only one suggestion which I have given to ibbi also when the due date, I think 7th of February, was there. Now my view is that as far as the decriminalization process is concerned, and in decriminalization process, because presently let us understand what is the process the 235a will require the filing of case before the special code right constituted under the company's actor right. 
+
+
+## Criminal Procedure: How to Decriminalize Criminal Procedures
+38:38
+So it's the criminal process and you will be tried before the court of law by following the CIA crpc process. Evidences will be there and your witnesses will be there, and after that you will be either excluded or convicted or you will be set free right. so government is saying no, if the offense is not very heinous, then when we are committed that we will decriminalize all these offenses which are not very serious in nature. 
+
+39:10
+So we are decriminalizing this particular provision also, and all these offenses which are less heinous in nature, they will be civil offense and adjudicating Authority will have a power to Levy penalty. My only suggestion or request is that this minimum amount of 1 lakh per day seems to be little. on the higher side. 
+
+39:33
+It is not justifiable because we have seen the provision or the harshness of these Provisions, particularly in section 42 of the companies, that where the adjudicating authority, which is the Registrar of companies in many of the jurisdictions, have levied a penalty to the tune of one crore, 1,5 crore. On the premise that I don't have a power to reduce the Quantum of penalty. 
+
+
+## 1 lakh rupees fine for adjudicating authority
+40:01
+So either adjudicating authorities should be vested with the power to decide the amount on case. On case basis, 1 lakh rupees may be the quantum up to which they can Levy the amount, and the discretion is given to the adjudicating authority to decide the quantum. 
+
+40:18
+If quantum is not decided by the adjudicating authority and it is decided by the law that it will be minimum one lakh rupees, then I think it is going to be little harsh because the process, what is being followed in the criminal trial, is not being followed here in the Civil Trial. 
+
+40:38
+In the adjudicating process, we are only doing a summary proceeding and in summary proceeding, you may, you may not be doing the witnessing or you may not be doing the evidences right. Without that you are living the penalty and saying that previous also the fine was 1 lakh rupees. On the same line, I am just proposing taking away the imprisonment or the other Pilates provision. I am now equating it with the penalty. 
+
+
+## Judiciary Authority will Levy penalty up to rupees of rupees
+41:07
+So the criminality part will go away and the adjudicating authority will Levy the penalty up to rupees of rupees, minimum one lakh rupees. So discretion should come. That's my only suggestion. Otherwise the my thought is that it may it may be little harsh to the professionals as well as to the other people. Maybe if a fraud case is there you Levy one crore also per day is okay. I don't mind. 
+
+41:36
+But in those cases where the adjudicating authority also agrees that yes default is or grievance is little less. But I am Bound by the law. I cannot help you have to go to the higher Court only for the purpose of reducing the amount of penalty, as we have been seeing in the case of Rd orders in the appeal matter. we are reducing getting the reduced penalty, but otherwise we don't have option further. 
+
+42:03
+We have said that the. The adjudicating Authority would now be empowered to impose penalty in case of any frivolous application. This was only limited to admission proceedings, as on date now they want to which desire to extend it to any application then as a rightly said, they wish to empower the adjudicating authority to Bar promoters from being resolution applicants in cirp based on their conduct of the promoter during the Circ. 
+
+
+## In contravention is committed by them. This is again to prevent non cooperation by the management.
+42:33
+In contravention is committed by them. This is again to prevent non cooperation by the management. Yeah, I would like view of the theme am on this 29a actually had 29 Empire to Bar promoter from Main resolution applicant and CD based on conduct of promoter during CRP. one more condition. They will add in 29a they will say that operating Authority has barred you from being a resolution applicant. Then you are bad. No, I know. 
+
+43:09
+And that they are telling section 19 non cooperation and all that now. In that case, section 19 application should be decided first so that they become inaliable with for filing resolutions. That will be the situation. Yeah, correct, now see the situation if I say that not only ma'am in one matter, let us say I am a. 
+
+43:33
+I'm a CDE in respect of one of the company and I am a promoter of that CD which is undergoing the cirp process right and in that matter maybe there was a non cooperation. So I'll be bad for the other entities also from becoming a resolution applicant. it is not that I am barred from this entity. Let me put the perspective with which I want to make a discussion. 
+
+
+## 29a is a micro small medium Enterprise, which is why it is not bad for resolution
+44:03
+See originally, 29a was not there in the blrc recommendation, 29a got inserted through a parachute entry when the government thought that either maybe the provisions are being misused or the insolvency mechanism is being misused or there is a possibility of being misused. This was an impression that there has to be some eligibility criteria basis that 29a was landed in the insolvency law. Now there is. This is one part. 
+
+44:37
+There are certain entities entity special cadder which are called micro small medium Enterprises. Part of the barings or limitations under the 29a have been carved out against them and they are not considered ineligible, the majority one being the NPA account provision and the guarantee provision right, which are more dangerous, most dangerous. Those Provisions have been kept out now the this is second set of company, now third set of company, which we are now saying that. 
+
+45:16
+And then there is the pirp model where the if you are a micro, small, medium Enterprises, then again you are not bad in participating these processes. Again right, and we have seen the increasing number of resolution, increasing number of liquidation matters in comparison to resolution over a period of time, and we understand the challenges also in backdrop in which the companies are going consistently to the liquidation instead of resolution. 
+
+
+## Insolvency Law: How to balance business with XYZ
+45:57
+There are many factors, but I am saying yes, this is also one of the factor because the person who promoted. The Entity he himself is not getting opportunity to revive that entity. I am not in favor of the fraudulent people who are taking away the money and ciphering and running out and they are again trying to buy back the asset at all. that's our cost. I am not in favor. I am not advocating for them. 
+
+46:22
+I am only trying to place a picture that we need to balance the law in a manner that it is conducive to the growth, and the objective for which the insolvency law was initiated was the insolvency law created to create such kind of bearings to do the business or to see. The fundamental premise on which the law was evolved was that no business should be shuttered down only because there is a cash flow problem. 
+
+46:57
+Insolvency is the cash flow problem that my entity business entity is not able to generate the cash today, and maybe due to inefficiency in the management, maybe due to business technology failure, maybe due to any XYZ reason. So maybe the new management may come. all the other Solutions may come and the business should continue. 
+
+
+## If business continuance is hampered on big on account of 29a Bahrain, I think
+47:20
+Now, if business continuance is hampered on big on account of 29a Bahrain, I think we need to reconsider that whether such kind of parings should be there or not. Having said so, I am again repeating that I am not in favor of the peoples who are protesters, who are, who have done siphoning of the money. So we need, in insolvency law somewhere create a fine distinction between the fraud and the business risk. 
+
+47:53
+Wherever there is the fraud, of course 100 barring should be. There is no second thought on that, and those people should be completely be ineligible for coming into business again through this particular entry. now, if a person is not a protester, if I have just taken a business risk and I have failed in the business, why at all I should be disallowed? Because in India it is largely 90 percent businesses are family owned. 
+
+48:26
+90 businesses are clustered, which where only one family or two families are in God and they are. They are promoter driven businesses. So in majority of the cases you will lack the systems. You will lack the processes. There are no standard templates available. If a person X is not sitting on the table, you cannot move an inch in the organization. 
+
+
+## Why there are no buyers of these particular assets and the companies when they crumble
+48:49
+So that's the reason that there are no buyers of these particular assets and the companies when they crumble. They are no buyers available in the market. So that's my limited point. 
+
+49:03
+I'm not against this particular new category of people, but I am only worried that tomorrow this new breed may be created to misuse the system against these particular people that look you are not on protect that if you, if you don't cooperate me, then you will be barred permanently from being a resolution applicant. This maybe on one hand only to threaten to some extent. 
+
+49:34
+I am okay, but as ma'am was rightly mentioning, for this 19.2 application has to be decided. I don't know whether it is only 19.2 or on what basis that judicating Authority will the understanding? I am not very sure. But yes, one trigger. Yeah, it is one trigger. and if you say that conduct of promoter during CRP and contravention committee. 
+
+
+## Judiciary Authority: How to Keep Liberty insolvency resolution
+49:59
+So I think what they are trying to see that if during the process it is understood that the promoter was subject to and has carried out so many contravention and his conduct, I think they are keeping Liberty. It's not that blindly they are doing. It will be subjective if they find that it is not the right person and all that what you are talking about, fraud and all that kind of thing in addition to fraud. 
+
+50:32
+Also, because many time it is not fraud. You can't establish that as a fraud. Then it become difficult. So they want to keep some option open to adjudicating Authority where they feel that this person are not fit to do the business they should be demand. I think it can be seen. It's a right way that there some Leverage is given to the adjudicating authority. 
+
+50:56
+Those subjective, but it will help them to wear this kind of cases established. They can do this, but it will be subjective as you write this right. Yeah, just work. The second category is streamlining the insolvency resolution process. I'll just go a little faster due to the time constraint, but feel free to interject me. So whenever you give your inputs, read the rethinking the fast track in solvency as of now. 
+
+
+## Fast Track and solvency: A proper application for approval of the plan should be fired before adj
+51:25
+There is only a subtle difference between the timelines between Fast Track and solvency and cirp, and there is a proper application that has to be fired before the adjudicating Authority for initiating the fast track insolvency. 
+
+51:37
+Now they propose to make fast track insolvency a more informal and out of court process, where they have stated that the unrelated Financial creditors shall be given the option to approve a resolution plan and thereafter for the final approval, it should be placed before the adjudicating authority. 
+
+51:56
+They've proposed to introduce certain checks and balances to be included, wherein they state that the application for approval of the plan should be approved by 66 of the unrelated Financial creditors. Thereafter, they've stated that the financial creditors shall be the one that will be responsible for overseeing the process and to appoint an insolvency profession to manage the fast track insolvency. 
+
+
+## How Many Fast Track Insolvency Process Have Been undergoing or have completed
+52:21
+Further, they have approved they've provided an option to the financial creditors to approach the adjudicating authority to seek moratorium in case of Fast Track insolvency. this is to ensure that the fast track insolvency actually becomes a very fast process and an informal, and out of what kind of a process? Ary, have you any data with regard to how many Fast Track insolvency processes have been undergoing or have completed? 
+
+52:51
+None to my duties, so as for my knowledge, none of them. That is why I was saying I don't know where we are putting our energy. We are putting so much of energy in the areas where perhaps we don't require any intervention, even if we do unsettling the things. What are going on? I per se, I don't think that there is a need of Fast Track insolvency process at all. I'll tell many reasons why. 
+
+53:36
+Because the person who is a operational Creator or the financial Creator, at the time of filing application should make a demarcation that this entity qualifies in the parameter fixed by section 5.2 of the IBC code. Right then they have to categorize that this will be a fast track insolvency resolution process. Then only you are given the advantage too. Otherwise you are not given that benefit of Fast Track insolvency process right now. 
+
+
+## Shifting the application from Fast Track to normal cirp process
+54:09
+Another danger that you initiated the application under Fast Track. Later on it was discovered that the value of asset is beyond the limit prescribed under 55 too. Now what will happen? You will move the application for Shifting the application from Fast Track to the normal cirp process. Right. so all this is going to add a litigation only or delay the entire process, rather than completing the process. 
+
+54:37
+We know how server is squeezing, we are able to do, but still we are not able to complete the process in 330 days. Here we are saying the process will be completed in 90 days of time. 
+
+54:50
+Now, even if you are leaving it to the discretion of the adjudicating Authority or to the financial crater to decide whether the moratorium has to be there or not to be there, I think the some of the Financial creditor who have a majority stake they may misuse this provision to the best of their advantage, that they may not invoke the moratorium and they may continue the surfacing proceeding. 
+
+
+## How to Expand the Applicability of Prepackaged and Solvability
+55:18
+They may continue the other realization, proceeding to the disadvantage to the other Creator. I my point is that let us keep the law straight and simple, with least number of deviations or permutation and combination. There was no. I still feel that there is no need with the having a fast track process at all, because I have not seen. Maybe I am ignorant, but I have tried to find out the cases. 
+
+55:49
+There are few cases, two, three cases. I have found after this discussion paper only just Euros. Out of curiosity I have tried to search, but I've not seen what the result has concluded, whether they have concluded as a or they have been withdrawn. So but look on less important things. We are putting more attention. It looks like right. Thank you, sir. next is expanding the applicability of prepackaged and solvency. 
+
+56:19
+Prepackaged and solvency, as you all know, is applicable only for corporate debtors that are classified as msmes. Now they intend to expand the scope of prepackaged and solve with the to prescribe categories of corporate debtors in addition to msme's as well. We shall provide relevant Tools in that regard if this fails through. 
+
+
+## How to simplify the pre packaged insolvency
+56:40
+They have tried to simplify or suggest ways in which the pre packaged in solvency can be simplified, wherein the threshold or for the approval of financial creditors for initiating pre packaged insolvency is proposed to be lowered from 66 to 51 percent. They've also suggested that the requirement of Declaration being given by the management of the corporate data regarding avoidance transaction and fraudulent transactions is can be eliminated with. 
+
+57:12
+Further they have, they're proposing to omit the provisions related to change in their management pursuing to section 54g in case of fraud or conversion of ppirp to cirp or liquidation. This is the reason for that is so that the management does not have the fear of changing the change in a change of hands of the management further. 
+
+57:35
+We've also stated as a safeguard of the COC shall always have a discretion to terminate the pre packaged insolvency process at any stage where the Discover of fraud or an irregular activity by the management. Now here is another deviation point to be the takeaway that we want to in respect of 29a I wanted to create. This is another deviation. So if I am opting for ppirp up till now it was equal to msmes. 
+
+
+## Exempted category from 29a requirement
+58:05
+Now it is going to be extended to the other corporates also, and I believe the way ppap was designed. The 29a restrictions are not applicable on these particular cases. Also now, in this particular case also, these category of peoples will again be in Exempted category from 29a requirement. 
+
+58:28
+So this again, if this is just a side point, I just wanted to flash, because we had a just now discussion welcome move that we are trying to extend the ppirp model to the other model. This I have been advocating right from the 2021 when this provision was brought into Force. After this Kobe pandemic. 
+
+58:55
+Though this law has this particular scheme has not taken any success story so far, primarily because of, I believe, 56,54 C3, which was regarding the obligation on the CD to Furniture declaration regarding the regarding the avoidance transaction and the fraudulent transaction. Nobody was ready to take that risk tomorrow. God forbid, if some transaction is detected, because you know when you do business, you may have errored and something wrong might had happened. 
+
+
+## ppirp is a good option for a cirp settlement
+59:34
+So nobody was coming forward in giving such kind of Declaration so welcome move that they have now woken up and removed that requirement. and as far as the possibility of converting ppirp into cirp and to liquidation that has also been removed from the law books. So that also will give a comfort that by ppirp is just a option which you want to test. If it is successful, then the resolution will happen. 
+
+1:00:09
+If it is not successful, at least there is no harm or no risk which is going to come forward. So it is an option as a option. If I see so it is definitely, I'll say, a good option available to the market. how Market will reactor will depend which all categories we are trying to add in addition to msmes, because alone msmes were not very interested in coming forward to this particular settlement, for two reasons. 
+
+1:00:43
+One, if I am if I am a banker and you are a corporate debtor, if me and you if where multiple peoples are not there. Let us understand. Ppirp was to be successful in those cases where there are multiple Financial crater. Right, only one Financial crater is not able to arrive at a resolution. 
+
+
+## If I am having only single Financial crater with whom I have to make a scheme
+1:01:04
+If I am having only single Financial crater with whom I have to make a scheme, why at all I need a ppirp model to make it successful. I'll go to bank, I'll just make a OTF and I will sign the document and I'm done. 
+
+1:01:19
+I need not follow this cumbersome process where there are multiple people involved, multiple Financial crater involved now good that they have reduced the event limit also from 66 percent to 51 percent to arrive at a consensus, which is a again I believe, a good move, if at all we want to press. But how the interest of the minority stakeholder in the FC voting will be protected. That needs to be looked into. 
+
+1:01:46
+But Prime of SC it looks very promising. Only challenge that I can see is the in those cases where you have a single creditor. I don't see any incentive coming forward to those people just by getting the scheme recognized and registered by. The adjudicating Authority. How much Advantage they are getting. Unless and until stakeholder are many. I don't see that there will be many takers right improving outcomes in real estate cases. 
+
+
+## Corporate Debtors dealing in real estate sector cirp
+1:02:23
+The most discussed topic after this notice had come had become public. There is no separate procedure as on date for corporate debtors dealing in real estate sector. So what this notice proposes to men is if an application is filed to initiate cirp against a corporate Edo that is dealing in real estate and the default pertains to one or more real estate project of that corporator, then the adjudicating authority shall have a discretion to apply for the cirt only in respect of those particular projects which have defaulted. However, by making while making this such decision,. 
+
+1:03:04
+The adjudicating Authority shall consider the concerns of all the stakeholders and the defaults made by the corporate data before coming to such a conclusion. the justification for this is the peculiarity in the real estate sector as regards and they do not want the not Predator to be affected as a whole just due to a default in a particular project. 
+
+1:03:26
+Further, we had stated that section of 28 may be amended to allow the resolution professional to transfer ownership and possession of the plot, apartment or building, as the case may be to the real estate. A lot is with the prior approval of the committee of creditors. It has been seen that the alot is real estate authorities have been categorized as Financial creditors. 
+
+
+## Amendment to Real Estate Acts & Policies
+1:03:49
+However, their interest is not in the repayment but in taking possession and ownership of these plot, department or buildings that they had that they had been allotted. So which is why we have proposed this amendment. so my views on the real estate sector are very, very different. 
+
+1:04:13
+I am not in favor of real estate companies to be in the radar of insolvency at all, when there was a separate law which was enacted in the name of rera. Why not government is giving enough teeth to the rera to deal with the problems of the real estate and the home buyers? 
+
+1:04:38
+Why insolvency law was amended to categorize the peoples who are not Financial crater as a financial crater in the gap of you can say the reason that there was no other appropriate Forum from where these disputes could be sorted out right. 
+
+
+## How to solve the reverse insolvency in Vogue
+1:04:59
+It is inefficiency of one particular regulator or the government that this particular forum is being burdened with the real estate cases, and that is the reason if you see the number of cases which are undergoing through the insolvency, I believe not more, not less than 40 percent of the cases are belonging to the real estate, absolutely so if you declutter the insolvency with the real estate cases, I think 60 70 percent of your problem of cluttering of insolvency of your adjudicating Authority will automatically be over. 
+
+1:05:43
+So you can solve this problem, but I believe we are trying to create more problem. With the reverse in solvency being in Vogue. I think we have already three cases. 2020 was the first case when the reverse insolvency was admitted. I don't know how it has taken a shape, but I believe the government has the intent and willingness. 
+
+1:06:12
+That's how the adjudicating authority, rather a plate Authority, has recognized the concept of reverse insolvency way back in 2020 and as late as in the answer API matter, again they have affirmed the decision and now it is coming up in the shape of a discussion paper where they have intended to recognize it as a law. That reverse insolvency is going to be a law. So my view. If somebody asks, then I'll say per sale. 
+
+
+## Reversal Insolvency: What is the law, what is it?
+1:06:43
+See we are just lowered by one factor and one particular aspect what we have witnessed in one particular case or in two particular cases. Right. There may be many more varieties which are going to come on the table. 
+
+1:06:57
+I am not disputing that reverse insolvency is certainly a very good option in a case of for Real Estate right, but the amount of challenges you are going to witness, because today law is not there of reverse insolvency. It is only on the appeal of the adjudicating authority. The ncl80 has been recognizing the concept of reverse insolvency. 
+
+1:07:24
+The moment it will become the part of your law books, every now and then the applications will be moved for the reverse insolvency only. and what kind of misutilization of resources would be done, because in case of reverse insolvency, what the law is. 
+
+
+## Ansel has got 10 projects and only in respect of one project somebody has done a default
+1:07:44
+So let us say Ansel has got some 10 projects and only in respect of one project somebody has done a default and group of investors of that particular project May initiate insolvency against that very project only now it is. It is not a separate legal entity. The project is not a separate legal entity. 
+
+1:08:09
+Project is just a project just because of the fact that Vera recognizes that all money in a real estate project for a particular project will come and will be allocated in a separate bank account, right RB saying that all corporates are maintaining those Chinese wall to do all those expenses and maintain those accounts. the possibilities of defaults and the possibilities of fraud may be multiple increased. 
+
+1:08:41
+So my view, if somebody asked, I am not in favor of reverse insolvency at all, and my view is that real estate, all entire cases of real estate should be out and raila should be strengthened to take care of the real estate home buyer cases. 
+
+
+## Misfit Case: We are only trying to do a patchwork by way of order of
+1:09:02
+This is Misfit case and we are only trying to do a patchwork by way of order of honorable Supreme Court involving nbcc to come forward and bail out JP or maybe amrapali or maybe these kind of things will not work in all cases. Maybe I don't think that there is a solution on these lines. We need to put the things in a right perspective. So we have a solution. 
+
+1:09:31
+We are going perhaps in a wrong direction. that is my view. Please, maybe the teamam has something. If no, I think you have commented enough again. We have time consent. So we have to complete already. We are running short of time. Yeah, go ahead. Okay, reimagining the consideration of resolution plan and the manner of distribution of proceeds from the same during the Circ process. So there are five sets of amendments under this. 
+
+1:10:02
+First is the approval of multiple resolution plan in respect of the same corporate data. Right now we can just have one resolution plan that resolves, buys all the assets and also resolves the corporate data. They propose now to enable the committee of creditors to approve one or more resolution plans. However, at least one plan shall provide for insolvency resolution of the Court Predator as a going concern. 
+
+
+## Resolution Plan Review: How to Apply for Resolution Plan
+1:10:30
+Further, they have stated that as and when the COC approves the resolution plan, it can be placed before the adjudicating Authority for approval and the same can be implemented upon a post approval by the adjudicating authority. They've also stated that on approval of the resolution plans in respect of all the assets of the corporator as well as the insolvency resolution of the corporate data is going concern. 
+
+1:10:54
+Only then the Circ shall be terminated, and the main reason that they had given for the same is it is very difficult to find only one resolution applicant willing to take over all the assets and the corporate data in entirety. So this will help in value maximization. So in one line I think a good concept to evaluate further. I am sure government will come out with detailed guidelines and the regulation. 
+
+1:11:21
+Then only we will be able to make further comment. But as a concept of Welcome concept, I will say yes, we have been facing difficulty in respect of certain large cases where you are not having single prospective resolution applicant for coming forward as a resolution applicant. So good option right segregation of resolution plan and distribution of protest. The as on date resolution plan itself provides a distribution. 
+
+
+## Resolution Plan for Distribution of Proceeds: How to segregate the concept of resolution plan from
+1:11:52
+Just to enter after 15 minutes you will complete what we will do. We will have a second session next time. Okay, there are so many slides right there also 6,30. We will close. Sure, so as only the resolution plan itself should provide for distribution of proceeds. However, it was highly. the matter of distribution of proceed itself is highly litigated, due to which the approval of the plan would be pending. 
+
+1:12:19
+Therefore, they have intended now to propose an amendment for segregating the concept of resolution plan from that of manner of distribution. So they say that the resolution plan should deal only with the inflow of funds and the insolvency resolution and the scheme of distribution shall be prepared to distribute the funds pursuant to the resolution plans among the stakeholders. 
+
+1:12:40
+Both the resolution plan as well as the scheme of distribution would be required to be approved by the committee of creditors as well as the adjudicating authority. Second, they have gone ahead to state that an equitable scheme of distribution of proceeds would be adopted in case of cirp as well through a waterfall mechanism, and what they have proposed is that up to the liquidation value, the priority of payment would be asked for section 53, which is the waterfall mechanism, and any surplus over that would be divided in the ratio of the unsatisfied claim of each creditor, if there is anything remaining even after that would be distributed among the shareholders or the partners of the corporator, as the case. 
+
+
+## How to consider the liquidation value of your resolution plan
+1:13:25
+Maybe. So my inputs. I think as far as the first part is concerned, it's a good option. Only challenge that I can see well. I'm not able to digest it fully or agree with it fully to the extent it says that your resolution plan will also provide a waterfall for distribution right when it goes on to saying that up to the liquidation value, the priority provided in section 53 for the purpose of cirp distribution. 
+
+1:14:07
+Also, you will consider the liquidation value right up to the liquidation value you will get, as per section 53, right for remaining thing whatever are being proposed. So there can be situations where the financial crater finds that his liquidation value is more so if company goes into liquidation because he'll be sitting at a, let's say, layer 2, where he'll be only doing a compromise with the Workman at a second layer, he'll be getting more value. 
+
+1:14:46
+Why at all he will be proposing or approving a resolution plan. He may be thinking that if I reject the resolution plan and the liquidation happens in that case, because my value is going to be more, because my liquidation value is more, maybe the carp value is less in total and I will be getting only part of that in proportion right. So maybe it is disadvantageous to me why at all I will be favoring. 
+
+
+## How to Avoid Equitable Situations When Approving Resolution Plan
+1:15:16
+That is the only catch which I am able to see. Otherwise they have tried to make it Equitable. All right, but we'll have to think over, or the regulator has to think over how to avoid such kind of situations, also so that the financial crater or the committee of Creator does not create any such kind of biases while approving the resolution plan. 
+
+1:15:40
+That's my fear that when I read the law between the lines, I can envisage such type of situations where such kind of biases can be there while approving the resolution plan. Yes, thank you, sir. 
+
+1:15:54
+Moving on mandating the users challenge mechanism, they proposed a mechanism wherein these COC should be mandated to transparently consider competing plans while we are carrying out the approval or process or consideration process for the resolution plan through an appropriately designed challenge mechanism. This is to avoid delays when the plan is approved by the COC in place before the adjudicating authority, to avoid litigation during that time. They have introduced they've proposed this amendment. 
+
+
+## Decision Making Committee of creditors to approve resolution plan
+1:16:25
+I think it's a welcome change monetary implementation of their plan as, on date, once the plan is approved, the COC becomes contest official. however, now they propose to make an amendment into section 30 to state that the committee of creditors May provide for constitution of a monitoring committee to Monitor and supervise the implementation of the resolution plan Post Its approval by. The adjudicating Authority. 
+
+1:16:53
+This had already been into practice, but now they're giving a more legal shape to the same. This is okay adjudicating authority to provide an opportunity to cure defects in case of resolution plans. Section 31, as on date, states that if the adjudicating authority is not satisfied with the resolution plan conforming with the requirements, then it has it may reject the plan. 
+
+1:17:21
+However, now they wish to clarify, by way of an amendment under section 31, that the adjudicating authority can send back the resolution plan to the committee of creditors for curing defects that are curable in nature. It is just a clarification and it gives an opportunity to the COC to rectified effects. Yeah, welcome, yeah, this is already been practiced. This is just giving a legal shape to the absolutely yes reinstating cirp. 
+
+
+## Reintroduce cirp once liquidation order has been passed
+1:17:53
+There is no legal provision as on date to reinstate cirp once liquidation order has been passed. There is only a provision to allow sale of the corporate editor as a going concern during liquidation. However, now they propose to enable the reinstatement of cirp during the liquidation process if the Liquidator carries on the process of the business of the corporate editor as a going concern. plus there is a possibility to revive the corporate data. 
+
+1:18:22
+In the opinion of the committee of creditors for the if the liquidation has been initiated only due to non implementation of the resolution plan or rejection of resolution plan, then the COC would again be empowered to apply to the adjudicating Authority for reinstating the Circ process wherever it believes that it is beneficial to do so. 
+
+1:18:45
+This is in line with the intention of the court to first try and revive the company as much as it can instead of pushing it into liquidation. I could not understand much as to means what will happen to the timelines. if I believe the liquidation order was passed, so 330 days must have already been passed. After that again I am saying we want to explore the possibility of Revival, so cirp will again commence. 
+
+
+## What will happen to timelines? Are we saying the fresh timeline will start or they are planning
+1:19:14
+What will happen to timelines? Are we saying the fresh timeline will start or they are planning to give another extension to the 330 days? Timeline? I don't know means still it is not very clear from the paper, at least unless something more is revealed. It is a mystery to me. 
+
+1:19:34
+I am not able to understand it fully as to what would be the what purpose would be served, though intention may be laudable, but there can always be such kind of debate in every matter that we may make one more try somewhere. We have to put an end. that is what the purpose of time bound resolution was right? 
+
+1:19:53
+We are saying that no, no, again there will be a process which will be again restating the cirp process during liquidation. What are the reasons? What are the circumstances? What are the timelines in which this will end up? I think after that only I'll be able to comment right. We have to wait for more clarification. Yeah, yes, sorry, sir. So I'm saying I'm saying he will have to wait for Amendment. 
+
+
+## cirp amendment: Interlinked Assets of the Guarantor
+1:20:31
+But I'm saying by the time it will be implemented the amendment will be implemented right interestingly, to the corporate data and the guarantor. so the what they propose in this amendment is where the asset of the guarantor are closely and inseparably linked to the asset of the corporate data, such as they've given an example, where the building belongs to the court Predator but the land on which it is constructed belongs to the guarantor. 
+
+1:21:04
+So if it is interlinked in that manner, then it is said that such as the guarantor shall also be included in the General Pool of assets available for cirp to ensure an effective resolution. Further, they have stated that in case the secured creditors have taken possession of the secured assets of the guarantor, it may have an option to sell the assets through a special window created under the Circ process. 
+
+1:21:37
+Yeah, all right, I think interlinked assets have been issue, but I don't know whether this is a solution which is workable or how it will work out, because it may work both ways, but anyways we have moved forward at least in a way that law will be enabling and there will always be a possibilities that we can take advantage and disadvantage both ways in certain circumstances. 
+
+
+## Mammoth Changes: What Government Has Meand
+1:22:06
+So TK, we will see more finer details are out right. I think Jesse and we should stop here now and I think we should take maybe in our session after another 15 days, as usual, and I think we can conclude here because we maximum half an hour Summit. I think I will check with you after 15 days. You are available to continue this. So thanks a lot. thanks a lot, Amit, my pleasure. Thanks, yeah, please. 
+
+1:22:46
+So I'm saying these are Mammoth changes and the government is trying today in one line, if I have to conclude. You were asking in the beginning as to what is your thought on the changes. So my thought, if I can sum up, are that government has done certain laudable amendments which we were proposing from very long time. 
+
+1:23:11
+One thing which government has been missing, I think time and again I have been repeating these two various Forum. We met to Mr mittal also some time back and Year back when he joined this as a head of the institution, also and previously to Mr sahu also the entire problem of the insolvency ecosystem. although this is an excellent law, I think the timan will agree and Eco with me. 
+
+
+## What Happened, When Happened, Why Happened?
+1:23:39
+When, in 2016, this law was implemented until 2018 2019, the biggest Advantage was through the change in the behavior of the corporate data, through the change in the behavior of a promoter, the change in the behavior of the director or management right. That was the biggest change. 
+
+1:24:02
+Now, all of sudden, there are certain we are not going into the traces as to what happened, when happened, why happened, but yes, something happened, that the law has been diluted for many reasons. B the result that Financial crater was expecting that a quicker delivery and quicker realization of value. He was not able to do so. 
+
+1:24:30
+When the financial crater initiated the cirp process, he was in a hope that though there will be a haircut, but he'll be able to realize the money in a quicker manner in process. Practically he has seen that the matters, on an average, had been there before the adjudicating Authority for 100 220 days. That is the average. Maybe even in many cases it is more even. 
+
+
+## How to reduce the timelines of financial craters
+1:24:57
+I am having many cases where the last four year Financial crater cases, section 7 application has not been admitted. So there are frustrations at the level of the financial craters also, so why I am raising all these points. government should have understood as to what are the challenges in the implementation of insolvency, how to reduce these timelines, although the attempt is being made. 
+
+1:25:27
+But I think instead of wasting the energy to the other areas which require less attention, we should have focused only on the areas on which we should have more attention. That is the implementation part, how the success story of behavior science should have been continued. That was the one point how the timeline should have been reduced so that the interest of the financial crater, who is the Paramount in the entire interest of insolvency, should continue. 
+
+1:25:57
+Number two, number three, how the mismatch of assets or the information asymmetry should be cured. that is the biggest problem, because I am having 10 mandates today of buying a particular kind of asset and at the same time dipti ma'am is having 10 different kind of assets for sale but we are not able to meet because there is no common platform. 
+
+
+## Mismatch: What Is the Best Way to Make a Match?
+1:26:29
+We need a platform kind of shadi com, where you are able to make a match unless and until you create that kind of, and that is possible only through the regulator. Maybe I am not capable. Deepti mam is not capable or anyone else is not capable, because no one else has a data. No one else has the capability that. 
+
+1:26:53
+If I want the my new detail that in Lucknow I want API unit of size of investment 25 crore, I should be able to search at a click of mouse. the moment it will happen, you will immediately start getting the buyers also buyer investors are not a problem today. Resolutions are not happening because not because that nobody is interested. 
+
+1:27:17
+Many people are not knowing they when then when they come to know by that time, as it is either in liquidation or it has already been scrapped or it has been sold off right. So mismatch is the biggest problem. I think government should have made the attempt to create the overcoming of this mismatch so that the problem could be sorted. That's my firm view. 
+
+
+## 3 suggestions that I still continue with
+1:27:39
+These three suggestions I still continue with and I have been vocal on this particular subject with all forums wherever I am there. so I request that regulator should focus only on these while doing the implementation still, because the law is still in a drafting stage only. So if these are taken care. I think this is a very good law in solvency is a base of any business right. 
+
+1:28:07
+Wherever there is a business, there will be a business risk. So if business risk is there, stress will be there and stress debusters in form of the insolvency will always be. Why. So the professionals like insolvency professionals will continuously be there to provide the services provided the right ecosystem is being created. I think we can do wonders in terms of insolvency resolution. This is just a beginning. We have deviated in between. 
+
+1:28:35
+I think we are taking a correctivity course. thank you, thank you and thanks all the participants, and we'll meet again after 15 days. Thanks a lot for the same session to complete. thanks a lot. thank you, thank you. thank you so much. 

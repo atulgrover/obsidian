@@ -1,0 +1,1 @@
+Our system adheres to strict legal and data privacy regulations (GDPR, HIPAA), with multi-layered authentication protocols (OAuth 2.0, role-based access control) to ensure that only authorized users can access and manipulate data.

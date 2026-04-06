@@ -1,0 +1,445 @@
+# Payment of PF and Gratuity under IBC, 2016 Regime
+![](https://img.youtube.com/vi/krSd7bESc8M/hqdefault.jpg)
+1 year ago (Feb 28, 2023) — 1:02:10
+[https://youtube.com/watch?v=krSd7bESc8M](https://youtube.com/watch?v=krSd7bESc8M)
+
+
+## Summary
+Today's webinar focuses on the concept of Provident Fund (PF) and Gratuity, relevant sections, and judicial pronouncements. PF is a structural liability governed by the EPF employees Provident funds and miscellaneous Provisions act, with the employer's contribution calculated as a percentage of basic wages. Gratuity is a statutory liability payable to an employee on termination of employment after five years of continuous service. The webinar discusses categorizations such as workmen and employees contribution towards PF, dues in respect of employers contribution for PF, and pension and gratuity funds at the time of commencement of liquidation. The obligations on the resolution plan and under liquidation are explained, along with the interpretation of IBC section 53 and 36, which state that PF, pension, and gratuity funds are not part of the liquidation estate. The Precision Fasteners limited versus epfo September 2018 nclt Mumbai judgment is also discussed, which highlights the interwoven nature of workmen's PF dues with the right to life.
+
+## 
+0:00
+So good morning everyone and welcome back to our weekly webinar series. Today's topic is an interesting one, something that is that has been talked about in the past many times: Provident fund and gratuity and the interface of these two acts and rather requirements under labor code or under the under the labor Provisions with IBC, and let's go through the presentation and let's understand what are the updated way, updated and latest judgments on this issue, and try and differentiate and rather declutter this space, and he will share the presentation that has been made by us. 
+
+0:59
+I am presently attending an industrial association meeting, so I have just come out of that meeting to continue with our tradition of giving these webinars every Saturday 11 am. So this is our 46th episode and the subject which is very important nowadays. there are a lot of controversies which we can see out of the Provident fund and gratuity, and many resistant applicants are trying to understand their options. 
+
+1:31
+Many resolution professionals are trying to understand what are their obligations and many lawyers are also trying to understand and if any Bankers, many lenders are trying to understand whether they have any priority or whether they can avoid this liability of problem fund and gravity because of the Supreme Court judgments. So what we are going? 
+
+
+## 
+1:54
+What is the flow of this webinar today would be: first of all, there are conflicting judgments from ncl80 and CLT and you see, the most important judgment would be the sovereign super English pension fund. then it is not the obligation of the Liquidator or the RP to build funds into those funds, to bring funds into those funds. 
+
+2:39
+So there are two separate issues that we are handling, like what are the obligations under resolution plan and what are the obligations under liquidation. So then, finally, we will conclude that what exactly would be the requirements and what should be the kind of way forward, so you can start with the judgments, which are in favor, as it comes like so we are see when we are starting from the kind of date wise which judgment came before and then what happened and then what happened. And now what is the latest judgment, which is the Jet Airways. 
+
+3:23
+So this is the way the webinar will be flowing today. yes over to Europe. Great. So let me share the screen and start so a quick review of what we are looking at. We're looking at the concept of PF and gradually the relevant sections and the judicial pronouncement. The first two we will try to do quickly, because I believe that many of us would already know PF cragity. 
+
+
+## 
+3:46
+But yes, a quick preview of what is to what is in store in these two acts and these two Provisions. What is the background? We'll talk about that PF Provident fund. We all know anyone who has been an employee in his life knows that yes, there is a contribution, which is the employees contribution. There is an employer's contribution. Both contribute half of equal amounts. 
+
+4:09
+Employees can contribute more and these this contribution goes into what is called a prevalent fund. Provident fund is maintained by the epfo, which the central government. There is also a provision for companies to go to the epfo and say that we will maintain our own fund. And there the epfo gives that mandate. 
+
+4:31
+And we have rather in our chartered accountancy firm, done some audits of PF funds maintained by institutions privately, not with the government PF Department. There the idea can be that somebody can say that oh we will. We feel more secure to have a fund of our own. Somebody can say that we will make better returns out of the Investments that we want to make and so on. So there can be always a private fund. 
+
+
+## 
+4:58
+This money gets deposited in the PF account. It is managed by the government. as I said, it can also be an EF account or a PF fund which is not managed by the government, then the amount is tax free. Of course this has changed in the later years. 
+
+5:13
+In the recent finance bill there have been proposals to tax a part of the PF contribution which might be over a threshold limit, so that the Richer can be so that the Richer will have to pay more tax. The contribution towards the employees Provident fund is a structural liability. 
+
+5:31
+It is governed by the EPF employees Provident funds and miscellaneous Provisions act and under basically the idea is then that section 1.2 of the EPF provides at any amount due from an employer, whether in respective employees contribution or employees. contribution shall be deemed to be the first charge on the assets and in and paid in priority to all debts. 
+
+
+## 
+5:53
+Similar to how the income tax department or ID act or the GST act, or attacks have talked about how there is can be a charge over the assets of an employer if the liability is not paid. 
+
+6:06
+Clause 2.3 of the EPF scheme states that the employer's contribution towards Provident fund or for a Workman or an employee covered in the EPF scheme is calculated as the prescribed and applicable percentage of basic wages donors allowance actually drawn during the whole month, whether paid or on daily, weekly, Fortnight, to a monthly basis. So it is clear that PF becomes due or it becomes payable only on the actual payment of the salary. 
+
+6:33
+This is also something that is clear from Clause 29,3 of the EPF scheme coming to gratuity. So gratuity comes from the word graduate gratitude and it prior to 1972 it was paid Ankit. I would like to add certain things. So in this class 29 and subclass 3 we have seen that the Provident fund is due only on the disbursement of salary and wages. Now we have seen in various cases the employee Provident fund organization. 
+
+
+## 
+7:12
+They are issuing notices assuming that the salaries have been paid because you see, because the employee, the employer has not filed the returns, the company has gone into insolvency. 
+
+7:24
+There are non compliances and I have seen that the notices are coming for all these years when the returns are not five, without even knowing whether the employees are still working or not, without even knowing whether the company is still is going to be continuing as a going concern or not. So what I am trying to say here, that every note is from epf4 is not a statutory liability we all should mention in our rfrp. 
+
+7:55
+We should all mention into our rfrp that the resolution applicant, resolution applicant will only be liable to pay the problem fund which is finally crystallized under the employee Provident fund and miscellaneous Provisions Act, not simply biography notice. So any notice which comes that doesn't mean it is payable. because if many notices are not exactly payable, because those are the notices are being made on estimates and guesstimates. Yes, and if you can go so. 
+
+
+## 
+8:38
+With respect to gradually 1972 it was paid as a form of gratitude to employees with the employer for being loyal to the company at the time of their retirement and post 1972 it has become mandatory and the gradually payment act tragedy is paid to employees at the time of retirement by the employer and it can be also paid earlier under certain conditions. Payment of gratitude is a statutory liability. 
+
+9:01
+Then section 4 of the ACT providers that gradually is payable to an employee on termination of his employment after he has rendered continuous service for not less than five years on his superannuation or retirement or resignation or death of death or disablement due to accident or disease. 
+
+9:19
+And the first revise of section 4 of course talks about certain exceptions where the completion of five years is not mandatory or not required for payment of gratuity in case the employee, in case the termination of the employment happens due to death of the employee or disabled, maintain any way. 
+
+
+## 
+9:36
+So that is an exception that gratitude will be table for a shorter period also in case there is these are the two causes where the employment has ended because of that. so this is how the gratuity act talks about. So one gratitis payable after five years of employment in a normal course. 
+
+9:54
+Gradually, provision is created in the balance sheet on account on accrual basis as per as per accounting standard 15 and as per the retirement benefits in days. The idea is to capture the expense as you go along after resuming and after getting an Actuarial certificate. This is how larger companies would provide for gratuity in their books of accounts. However, this liability is a provision. 
+
+10:21
+It becomes payable or it becomes due to be paid only after the employee has you know the employment has been terminated and these conditions are fulfilled. So, for example, in case an employee is with the company only for three years and the company has provided for gratuity or provided for gratuity expense in its books of accounts for those three years and these terminated at the end of those three years, statutory does not become payable and that provision needs to be reversed. So that's an example of how the gratuity works. 
+
+
+## 
+10:52
+PF pension and gratitude use can be category broadly categorized right, so this categorization is very important. So let us understand what all are these categorizations. The first categorization is that the workmen and employees contribution towards PF deducted from salary but not deposited by the employer, with employees Provident fund organization Exempted PF trust NPS. 
+
+11:14
+So we're talking about employees contribution which was deducted when the payment of salary was made to the employee, and that amount has not been deposited with the trust. The second is news in respect of employers contribution. The first one was employees contribution, where the deduction was made from the salary and then the deposit was made. The second one is different. Now we're talking about the employer's contribution. 
+
+11:39
+The third one is dues in respect of employers contribution for PF pension in respect of unpaid salaries. So the first two are with respect to paid salaries. The third is with respect to unpaid salaries. So say we are assuming we say that there are certain salaries that are that have been not paid for the past 11 months. 
+
+
+## 
+11:58
+Now there can be PF dues which are also accruing along with the salary which is required to be paid. So one, the employees basic salary or the salary will be required to be paid that is in liability. Also, the employer's contribution will be added to that liability, assuming that the employees contribution is part of a salary itself. So dues in respect of employers contribution for gratuity Fund in respect of both paid and unpaid salaries. 
+
+12:23
+So in many cases in many companies the gratuity is not kept as a liability in the books of accounts. Gratuity fund is created through LIC or other agencies, various other agencies, which say that we will keep the funds in custody, the funds that will be used by the company to pay its scratchity liability, and these are con. that is the contribution that we're talking about. 
+
+12:48
+So on an annual basis, they actually would say that okay, this is the fund balance you would need to meet your graduate liability as on the balance sheet date, and the deficit is what the fund will ask the company to pay to the fund. So this is how the contribution to gratuity fund is computed in this case. 
+
+
+## 
+13:07
+So wherever the contribution or a graduate fund is created there the there is no requirement for a liability to be created in the book of accounts of the company or the liabilities credit, only to the extent to which the gratuity fund is in deficit to the gratuity liability then the balance outstanding. Provident fund pension fund and gratuity fund at the time of commencement of liquidation. so here we are talking about paf pension and gratuity. 
+
+13:33
+These are terminal benefits and they are basically employees dues under statutory provisions, and these are basically these are these are incurred out of this. These funds that are created for PFC contributions are placed with epfo or with the Exempted PF trust. So, as I said, there's a possibility that the liability is not in the company's books and the liabilities already transferred, or rather the funds have already been transferred to the funds. 
+
+14:00
+The Graduate fund or the PF fund, or so on. So these are the basic categorizations that we are looking at here I have I think the question is not relevant in this life. Yeah, we can also add my experience over it. now let us understand the obligations on the resolution plan and obligations under liquidation. 
+
+
+## 
+14:25
+Now when we talk about the in employees contribution which is deducted from his salary, that is very clearly can be considered as the amount kept with the company on trust which is supposed to be deported in pf4, along with the contribution from the employer side. So that is something which is not part of the liquidation estate in any amount which is which is balance outstanding in. 
+
+14:54
+The Provident fund, pension fund and gracity fund is maintained by the company. but then I understand that if any fund which is maintained by the company and which is managed by the company and that cannot somehow appear in the books of account of the company. But that has to be a separate fund and I don't understand any situation where these funds are maintained in the books of the company. 
+
+15:18
+But yes, in case there are some funds, some balances are there or those funds are not owned by the company, as per section 36 of the IBC. Now, as far as this Provident fund deals for the dispersed, this first sell. These are concerned that is considered as we were induced and as far as the in problems are concerned, it's for the non dispersonality, so for the Undisputed salaries. 
+
+
+## 
+15:50
+This is something which can be part of the workmanship. now in case of liquidation it can be a separate treatment and in the case of resolution it can be established treatment. I think we can go ahead with some of the divisional pronouncements and then we finally will continue what presently all the judicial pronouncements are suggesting us to do. Yes, please go ahead. So I am proceeding forward and so I don't see any. 
+
+16:24
+Yeah, so this is the relevant provision in IBC. Important to understand section 53 that it has a non op stand Clause before it starts saying that notwithstanding anything in the contrary to the quantity explained in any law enacted by the parliament or any state legislature for the time being in force. 
+
+16:43
+This talks about how workmen used for immediately preceding 24 months and the employee dues for immediate preceding 12 months appear in priority over many other dues and how the remaining parts of these amounts are then part of the other workmen dues which fall in the Clause F, and this is how basically the prioritization for embarkment dues will be as per the section 53, and therefore it is understood that the provisions of IBC because of the none of strand Clause would override the EPF act by virtue of section 53 as well as section 238. Some people can say that the rainbow people judgment would disturb this, but then I think we understand that with the with the proposed amendments, as well as other understandings, that I would say would only be a temporary view. 
+
+
+## 
+17:36
+The long term view would be to have section 53 as a distribution clause which overrides other acts. Of course there might be an amendment based on the, based on the, based on the discussion paper released that the all dues will be captured under one view. But there again Workman deals are kept separately. Then we need to understand the Workman due definition. So the definition. 
+
+18:07
+The IBC refers to companies act to understand workmen use the company's act talks about all wages or salaries, including salaries earned by way of commission or any compensation. Then all include holidays, all amount due in respect of any compensation or liability for compensation, all sums due to any workmen from the work Provident fund, pension fund, gratuity fund or any other fund, and so on. 
+
+18:34
+So this is how the we talked about the various explanations and how we can talk about the all the parts of a Workman do coming to the relevant part of liquidation estate. So section 6,36 of IBC says that liquidation state does not include the sums due to any workmen or employee from Provident fund, the pension fund or the gradually fund. 
+
+
+## 
+19:03
+So our interpretation here is that these funds Provident fund pension from the gratuity fund would not be available or not would not be performing part of the liquidation estate. So the creditors would not have access to these funds for the purpose of getting their money back during the liquidation process. so judicial pronouncement. This one is talking about leading to the PF. 
+
+19:30
+So the this is called the term right to life that has been used in the Judiciary, and this one is Precision Fasteners limited versus epfo September 2018. Nclt Mumbai judgment, which talks about the right of all creators over the assets of the company, is a property right, whereas workmen use more specifically PF dues of workmen are interwoven with right to life. 
+
+19:58
+So this is how this judgment talks about or differentiates the rights of workmen against the company. The the workmen all through their life save some portion of hard earnings, and this is how it talks about how this is hard earned money of the workers. 
+
+
+## 
+20:14
+The amount due to work when employees from PF pension or gradually will not be included within the purview of liquidation asset and same is to be excluded from the liquidation estate so as to enable the Workman employees to realize their savings. Liquidators shall pay off the schedules before comprising the liquidation estate. So observation of. The Honorable tribunal was that person to section 238 of the IBC. 
+
+20:38
+It will override anything inconsistent with the code including EPF act and that the workmen use as people in the EPA fact will be not be considered in priority to priority or payment under section 53 of the act. So this is how this regimen talked about. This is the second judgment, which is basically karpagam Spinners private limited. Again, this was a this was so this is this is that judgment. 
+
+21:03
+Let me come to the next one: India. This is an nclt judgment. The tribunal here uphill the Judgment in case of precision Fasteners further held. The Liquidator cannot avoid the liability to pay gratitude reduced to the employees on premise that no separate fund was created by the CD. So the Liquidator has to ensure that the funds are created and distributed to workmen outside section 53 waterfall. 
+
+
+## 
+21:31
+So the Liquidator must provide these funds even if there are no dive. There was no diversion of such funds by the CD. So at the NCLEX level this order was confirmed. So this is how this judgment then came in, which extended the liability to the funds of the CD. This is a case where the funds were not available. 
+
+21:53
+There was no fund available and the liability of the gradual dues were not taken into account, or rather not they were they were. It was said that these not these will not form part of section 53 waterfall and these need to be taken care of differently. This is an enclared judgment. February 2020. Here the facts were so on. 
+
+22:27
+So the facts were the disappeal emanates from the order pass by the double a whereby the W directed. The liquidated to pay gratitude to employees and the Liquidator could not avoid the liability to pay gratuity to the employees on the ground that the corporate data did not have separate funds for the payment of gradually double A. Further directed. The Liquidator to provide sufficient provision for payment of gratuity according to eligibility of the employees. 
+
+
+## 
+22:49
+So by the impact order doubly rejected the incontention of the Liquidator that the payment of gradually cannot be treated as part of liquidation estate. The applicant contended that, as per requirement of payment of graduity act and section 364 A3 of the code, the charge will remain in force against the assets of the corporate debtor until the Gratitude have been paid off before making any payment to any entity falling under waterfall mechanism devised on the section 53 of the code. 
+
+23:14
+So they kind of use the charge that was part of the PF code, PF act to kind of give priority to the these this, this side, this payment or this due whether liquidity can be directed to make payment of gradually to employees of the company in case no fund is created by a company in violation of statutory provisions of payment of gratuity Act 1972. So decision that in case where no fund is created by a company in violation of statutory provisions of sections four of the payment of gradually act, then in that situation also the Liquidator cannot be directed to make the payment of gradually to the employees, because the Liquidator has no domain to deal with the properties of the corporate data which are part of the liquidation state. 
+
+23:57
+So it is further held at about. In the above case, section 5.1b1 of the code regarding distribution of assets relating to workmen's Duos are confined to a period of 24 months preceding the liquidation commencement date and this question was already been decided by the graduity fund does not form part of the liquidation estate. 
+
+
+## 
+24:18
+So, however, the double A has given direction to the Liquidator that the Liquidator cannot avoid the liability to pay gratuity to the employees on the ground that the corporate debtor did not maintain separate funds, even if there was no fund maintained by the Liquidator. So the enclared Judgment reversed the nclt judgment. So this is how this judgment was concluded. 
+
+24:40
+The Honorable Supreme Court then decided on, or rather deliberated, the matter of the Moser beer case, and this was a 7th February 2023 judgment. Pretty recent, and here we talk about how the case, the facts of the case that nclt initiated this case against mosabir 2.2018. The Honorable tribunal audit for liquidation and accordingly the Workman of mosabear stood discharge on the section 3.7 of the IBC. 
+
+25:12
+The Liquidator, by an email category, denied the payment of the gradually fund, the PF and the pension fund preferentially and included the same for payments under the waterfall mechanism under 1653 of the IBC and in 2019. the moserve karamchari union filed an application with a prayer the with the directions to be issued to the Liquidator to exclude the amount due to them towards PF pension fund gradually trust fund from the waterfall mechanism and therefore the appeal was filed regarding the same. 
+
+
+## 
+25:44
+So the question here is that whether PF pension front and gratuity fund can come within the meaning of assets of the corporate debtor for distribution under section 53 of the code. 
+
+25:54
+So to the decision was that in two Civil Appeals include involving issues with respect to payment of gratuity and Provident fund prior to disbursement under section 53 of the code in liquidation process, the division bench of BR govai and Mr Vikram Nath squashed and set aside the entire order passed in Southern and restored the order passed by nclt that the Provident divorce, Provident fund, Duos, pension fund and gratuity fund dues are not treated as part of the liquidation estate and would not therefore be recovered by section 53 of the IBC, which provides for waterfall mechanism that in case where no fund is created by a company in violation of the strategy provisions of section 4 of payment velocity act in that situation also, the Liquidator cannot be directed to make payment of gradually to the employees because the Liquidator has no domain to deal with. 
+
+26:54
+The properties of the corporate debtor which are not part of the liquidation state is an ignorance of its earlier order dated 19th August 2019, which was affirmed by civil appeal 258 of 2020. Thus, the court cost and set aside the entire order and restored order passed by the ncrt. 
+
+
+## 
+27:11
+Thus, pfdus pension dues and gratitude use are not treated as part of the liquidation State and would not therefore be recovered by section 53 of the IBC code, which provides a waterfall mechanism. So difference between the two cases. Let us try and understand what happened in the lanco infratic case. What happened in the Moser beer case. so in lanco infratecase. 
+
+27:36
+The nclt directed that the Liquidator should pay gratitude use to the employees, even when the CD was not created, has not created separate graduate funds and held the gradually fund do not form part of the liquidation estate, even when no specific fund were created by the CD. 
+
+27:51
+In the moserver case nclt by order held at pftos pension fund Duos graduate fund used, do not form part of liquidation estate and cannot be part of section 53 dues hiring. 
+
+
+## 
+28:07
+The appeal held that where there are no specific funds created for gratuity, the Liquidators should not have been directed to make the payment of gradually as per the work workers entitlement in Mozambique is include upheld the strand of the nclt specifically held that it is not the liability of the Liquidator if no separate funds were created by the CD, and thus there is a contradiction from the Moser beer judgment, nclad and moserver and clad. 
+
+28:38
+In this judgment held, the Liquidator cannot avoid the liability to pay gradually use to the employees on the premise that no separate fund was created by the CD. So to summarize this, maybe I will request maybe like I would now chip in a little. So there are two cases. both are in liquidation. Both are in liquidation and in both cases right from the nclt the. 
+
+29:07
+It has been the opinion of the bench that the Provident fund pension fund and the grechty fund are to be paid to the Workman in priority and will not be considered as assets for distribution under section 53. So that means the Workman use which actually falls in party passing along with the secured creditors. that particular Clause is not applicable on. 
+
+
+## 
+29:35
+The Provident fund part of and gratitude part of it and this the criteria of 12 months and 24 months, which is mentioned in section 53, is also not applicable to these Provident fund part of it and the graffiti part of it and in land for in fact, in fact, the ncl80, the Apple criminal, held differently, however, in modern wear anquad, also held like the steel decrease of mother bear. 
+
+30:06
+This judgment was given by Justice and in the case of polento in protect this judgment was given by Justice VPC. so both differ from each other and however the Supreme Court finally helped that in liquidation,. The Provident fund used and the previous would not be considered as distribution of asset under section 53 and. 
+
+30:31
+The Decorator would have to provide for this recruiter would have to provide for these from these assets of the company and whatever remains that will go to section 53 distribution. So this is something which is very clear now. But but the Liquidators must understand that every demand is not a varied demand. Every problem fund demand is not a valid problems on demand. 
+
+
+## 
+31:02
+It is the beauty of the Liquidator to understand whether the Gratitude claims are correct, whether the problem fund department is asking for a correct claim. so when we say first part, the first part of the category of the problem called use are the amount, the problem conduced on the salary which is dispersed. 
+
+31:24
+So that is something which is the has to be paid, because that is the amount deducted from this salary and in the future that is also payable. However, when we talk about the third part, which is the prevalent fund deals on this salary which is not dispersed, so whatever finally gets dispersed, whatever finally gets disbursed under section 53, the problem fund is stable only on that month now. 
+
+31:59
+In case in section 53 the workmen are getting 12 months wages or 24 months wages and on those wages whatever party person, along with the secured Financial creditor, in case they are getting, say, 30 percent of their total wages. so the problem fund would be payable on this 30 percent and not on the hundred percent, because the program fund used becomes due only on disbursement and not on accruals. 
+
+
+## 
+32:29
+So similarly the gratuity, the gratuity, is of course it has to be payable. Even my personal opinion is that anyone who is working for 30 years in a company and some once how the company goes into insolvency and the liquidation, that gracity cannot be eaten away. Nobody can eat away that gratitude. That's something which is a social pillar of our organization, where the economic stability of a human is involved. 
+
+32:55
+Gratuity is a kind of a contribution to the economic stability of a human. So therefore gravity has to be provided for the city has been paid, even in the liquidation or in the designation class. so I think we have concluded as far as the liquidation part is concerned, and now I will say Ankit to go ahead, and there are other segments also which we will take off, so let us understand this one. 
+
+33:18
+This is sikandar Singh januwal versus others. Here the background is that in this case an appeal was filed by an ex employee of respondent number three corporate debtor, challenging the order dated 2 4 2019 passed by the double A approving the resolution plan. Grievance of the apparent was that they have not made full made the full payment of. The Provident fund due to the corporate debtor. 
+
+
+## 
+33:40
+On other ground due by the corporate data and other grounds of challenge were also raised. so here. The observation was that the tribunal considered the appeal and based on the provisions of section 53, and Reliance was placed on the Judgment of Tourism Finance Corporation of India versus rainbow peoples, and it should following directions that the respondent number two successful resolution applicant should release full prevalent fund Duos in terms of provisions of the employee Provident fund and miscellaneous Provident fund act immediately by releasing the balance amount. 
+
+34:12
+So the impact order approving the resolution plan stands modified to the extent and above. This is how they pass this order and cry and basically said that the resolution plan would have this additional requirement to be fulfilled. so against the above Judgment of this tribunal. 
+
+34:27
+Civil appeal was filed before honorable Supreme Court, which has been dismissed on in September 2020, though the Supreme Court has also accepted the same idea that if the Provident fund use, they should have been paid in full. Based on this judgment, as the resolution plan is getting modified without the consent of the Revolution applicants, yeah, now the resolution application can further say that it is not viable for him that he also plays. 
+
+
+## 
+35:04
+The Proven fund superannuation fund and the university fund and also pay to the creditors whatever he has committed. So modification of resolution plant by the Supreme Court or buy and plaid is being done. In this case it has been done, and in the case of that Airways also it has been done. so what I am trying to now say. 
+
+35:27
+Once the Supreme Court says yes, we can modify the resolution plan and then it may trigger it may trigger into various such issues which the nclt might even start saying that this is some kind of modification which is required and that modifications we are making and these resolution applicant will accept it will have to accept it. That kind of scenario may start now, because these are the two judgments where the resolution plan has been modified. 
+
+36:06
+Additional amount has been directed,. The ra has been directed to Shell out different amount, a higher amount as compared to what we finally one we what you read the research. so these two judgments will actually somehow, I think that will give power to nclp to modify the resolution plan, which is somehow not really very, not very acceptable. So this will further deteriorate the market and will discourage the resolution applicants to come in with admission process. 
+
+
+## 
+36:41
+Rather they will prefer to go into the liquidation process. This one is Sunil Kumar Jain and others versus sundaresh Bhatt, and this is a supreme court of India judgment dated 19th April 2022. Here we're talking about how in car dismissed an appeal preferred by the Workman employees of EBG Shipyard against the nclt also and clt's Order denying relief to the Workman employees with regard to the claim leading to salary including PF and gradually for the period involving CRP and the prior period there too agreed by the said order. 
+
+37:15
+Workman employees preferred a peer against honorable Supreme Court before. The Supreme Court. The issue was that the what with respect to wages, salaries or development during the CRP period and the amount due and payable to the respective Workman employees towards pension fund, graduate fund and Provident fund. 
+
+37:32
+So the applicants contended that the salary, wages and the dues payable to them during CRP period were not will be qualified as CRP cost and are liable to be disbursed even prior to the amount distributed under section 53 of the IBC. It was further submitted to. The Provident fund. Graduate and pension fund amounts remain outstanding the liquidity mean outside the liquidation under section 3.4 of the IPC. 
+
+
+## 
+37:57
+On the other hand, the respondent contended that the wages and salary is claimed by the applicants who have done work during CRP period and have not in assisted this resolution professionally curator during the CRP would not fall within the parameters of CRP costs within the definition of section 513c of the IBC. Precision of. 
+
+38:20
+The Honorable Supreme Court was that they said that while considering the claims of the concerned Workman employees towards various salaries people during CRP, first of all it has to be established and proved that during CRP the corporate data was a going concern and the concern Workman employees actually worked while corporate debtor was a going concern. 
+
+38:38
+Therefore, two step formula have been evolved and inclusion has also been evolved wherein the wages and salaries of All European employees of the corporate debtor during CRP, who actually have not worked or perform their duties when the corporate data was a going concerned, shall not be included automatically in this year, because further the various and salaries which are included in the CRP cost shall have the first priority in terms of 53.1e of the IPC and other wages. 
+
+
+## 
+39:05
+Salaries which are not included in CRP cost shall have to be governed by 53.1B and 53,1C. So on the issue Provident, primarily it worked primarily on the salaries and wages payable or not vvcirp. so it was very, very clearly held that one, the salary generated would be payable under the foreign concern. Number two, that employee and the Workman is working for the company and that too assisting the resolution professional in the operation. 
+
+39:47
+Number three: these the committee of predictor has approved. The committee of predictor has approved the salary and wages of those employees. So if all these three conditions are fulfilled, then those particular people will get their salary as this area because and others will not and others will not. As far as the approach is concerned, they will file their claim. They will file their claim for the program fund. 
+
+40:09
+They will file their plane for the gradually, they will file their plan for the super Innovation fund, so those will be treated separately. however, during cirp, whether it is stable or not. That will depend upon whether they are still working, whether the company continuing whether the COC as approved or not. So these are as far as this part is concerned. Regarding the Provident fund. 
+
+
+## 
+40:29
+Regarding the superannuation fund and gracity fund, this particular judgment only discussed in one paragraph and simply said that yes, any money lying in these funds would not be considered as an asset of the liquidation estate. So I think this was particular. This government was not focused on the priority of. The Provident fund and the and the gratitis. So yes, I think that's the right conclusion for this judgment. also further. 
+
+41:04
+We are talking about here that the Supreme Court of course has talked about how the funds will continue to be outside the liquidation state, then coming to be parameshwara RP of or soon PF.commissioner, this is enclared Judgment from Chennai 2.922. Here the facts were that the order the CRP was initiated in 2020. The IRP came across orders of attachment issued by epfo. 
+
+41:39
+SP responded to the ep4 stating that in terms of section 18 F of IBC, the RP has ownership over all assets. The issues were whether the RP is Duty bound to make adequate Provisions or PF, even though the corporate data did not have separate PF account, and whether the AWA can direct RP to make Provisions for PF without receiving claims for the Same by concerned Authority. so the decision of. The Honorable court. 
+
+
+## 
+42:03
+Let us understand the major observations here. It was observed that the amount deducted by PF purely belongs to an employee and is not an asset of the corporate debtor. The PF amount cannot be touched by IRP, RP or Liquidator. The PF is to be an establishment fund kept separately by the company and then only this provision will be applicable. 
+
+42:22
+And if even wrongly and in violation of the laws of the land, the company fails to establish that provided fund, then the interim resolution professional RP Liquidator is not expected to provide for same, except under section 53 of the code. so. 
+
+42:35
+This judgment then talked about how, if the fund is not available, then the fund is not required to be created by the RP or the Liquidator jet aircraft maintenance Engineers Welfare Association versus this is something the no this is something which is slightly different and blood generally. Primarily. Primarily, this particular judgment was saying that the epfo has got no right to attach the assets of the company. 
+
+
+## 
+43:06
+They have to release the Assets in favor of the RP and they have to file their claim and the RP will consider what the resolution applicant will consider their claims or the Liquidator will consider their brand. However, they cannot continue to continue with their attachment. 
+
+43:22
+So I think we should only consider this part of the treadmill and the other part of the statement, the other part of this judgment, that it will be considered in section 53. That is not something which is super import as families. The Supreme Court has said in two, in fact two liquidation cases that section 53 would not be applicable to these three funds in resolution plans. 
+
+43:46
+This supreme court has said that the RL have been great for the problem, fundamentally gracity Fund. In fact, there are two judgments also in Supreme Court where the ra has to pay additional funds for PF and capacity and superannuation, and one we have already discussed, and the one is the last statement, which is the jet Air Base which is now coming forward. 
+
+
+## 
+44:06
+Yes in jtvs this matter of where will the association had a case against Ashish travaria and this was the nuclear judgment October 22. Here the issue was whether the Workman employees are entitled to receive the payment of Provident fund gradually, another entitlement, benefits and full, since they are not part of the liquidation estate, whether the Workman employees are entitled to receive their dues from the corporate data as per provision of the code, the minimum liquidation value and we charged under 32b by referring to Waterfall mechanism. 
+
+44:42
+So the contention here was that of course the CD, the console lead, that the applicant or the Workman employees are entitled to the PF gratuity and other workmen benefits and the retirement benefits and the submissions were supported by section 36,4 of the code. then, of course, does the sums due to any work, even from the above all these, all these contentions are similar. 
+
+45:09
+I think we can move on, so let's try to the finest, yeah, and understand the observations here. The workmen were entitled to issuing appropriate direction to successful resolution applicant to make payment to the workmans of the PF and gradually use up to the date of insolvency commencement date less the amount already received under the resolution plan and the gratuity and the corporate data having not deposited the statute use of the EPA for the said statutory liability has to be discharged by the SRA. 
+
+
+## 
+45:38
+When we the observations further said that when we look into the explanation of section 18, the assets comprising of Provident fund, graduate funds or a pension fund and belonging to be maintained by corporate, or assets on which employees and workmen have right, although assets are in possession and control of the corporate data. So the above mentioned assets, those are not to be taken control by the IRP after initiation of CRP change. 
+
+46:03
+The send funds were maintained by the have to be utilized for the payment of Provident fund, pension and gratuity fund and thus assets cannot be included in the information memorandum as assets of the CD. So the Workman employees are entitled for full payment of covarian fund and gradually till the date of commencement of insolvency, which amount is to be paid by SRA. consequently approval of the resolution plan in addition to the 24 month Workman dues. 
+
+46:30
+So this is how the observations were closed here. CD vijayalakshmi versus Sri Kumar Rajan enclared judgment Chennai 8 February 2023. So quick facts. It's a PSU Hindustan newsprint limited, which is a wholly substantive subsidy, wholly owned subsidiary of Hindustan people Corporation limited and basically the corporate data has admitted to CRP in 2019 and there was an basically Kerala industrial infrastructure Philippine corporation submitted a plan and was approved by the COC. 
+
+
+## 
+47:08
+The institution plan to pose that the secured Financial Creator would be paid 45 of the total principal amount. The pfdus and gratuity claims of all employees are also paid at 35 percent of the admitted dues, at par with secured Financial creditors and workmen. thereafter. 
+
+47:23
+The adjudicating Authority, while it's order dated 21, approved the resolution plan of the SRA and the employees and the workmen of the corporate data filed appeals before nclad challenging the order of the resolution plan. The question was whether the dues have to be paid in full. 
+
+47:38
+Same question decision of the NCLEX and basically they said that workmen and employees are entitled for payment of full amount of Grudge of Provident fund and gratuity till the CRP commencement date. So this is how this expenditure, or this due was also said to be in supposition of the other dues. 
+
+
+## 
+47:59
+So such amount is people by SRA after the approval of the resolution plan in accordance in addition to this 24 months Workman dues and the bench directed. The SRA to make payment of unpaid Provident fund gradually fund and pending dues development till the date of CRP after deducting the amount already paid. So same decision again. So to summarize, I believe that yes, I think there are so many judgments now that we have gone through where. 
+
+48:25
+Yes, we understand that the Supreme Court and other and the tribunals have repeatedly said that the PF deals have to be paid in full and that's the Judgment here. But then, as we said that there might be difficult scenarios, as this case where we talked about how the successful resolution applicant has been asked to pay the dues in full. so it will became the it will make the plan unviable and maybe difficult for implementation. 
+
+48:56
+If others are not getting anything and the PF and the employee dues will be paid in full. This is not going to be a very large amount. Why I'm saying so? Because, see the problem, front views are only able in case the salary is dispersed, so that would be small amount. However, the grad City can be very high in some cases, so the grad city has to be paid. 
+
+
+## 
+49:25
+That's what is my understanding and that's what is my feeling that we these solvency law has got it. I don't think that can be the intent of the legislature. That even the gratuity can be eaten Away by the creditors. That cannot be the intent of the legislature. so the graffiti is something which is the life saving of the environment or an employee working for 30 years for a company. 
+
+49:47
+So that has to be provided for in the resolution plan. That has to be paid by the Liquidator in liquidation process fund is stable only against the only against me. I think you can stop sharing the screen. You cannot afford to be contacted. Some questions and conclude afterwards on what the various dues can be categorized. Yes, so that's why I just shared this. So this is something which is important. This is something which is important. 
+
+50:24
+So now what we are trying to say. What we are trying to say is that the Provident fund, for which the demand has come from epfos that actually dealt with by the RPS very strongly. it should not be admitted just on the face of it should be. It should be admitted only to the extent these salaries have been dispersed. 
+
+
+## 
+50:48
+For the other part of the Provident fund, demand should be should be put on a test whether these are the real demand or not. Now my second opinion is that in case of the interest and in case of the damages delayed payment, damages, that is the amount which doesn't go to work man, that amount goes to the epfo and that should be segregated. 
+
+51:14
+That should be considered as this statutory liabilities under the under section 53 and should be considered as an operational predictor, because this permanent funding should be restricted to the Dual which goes into the account of the employee, not in not in the account of the epfo. Like the interest for delay agreement damages because they have section 7 capital A. 
+
+51:38
+Any amount which is clever under Section 7 capital A should not be considered as the problem for those. So these kind of categorization has to be made by the RP. The incorrect demand notices should be, should be kind of appealed against or should be should be challenged. That's what my understanding. So the resolution professional. They will consider the PF notices very carefully. they will admit only the part which is likely to be admitted. 
+
+
+## 
+52:09
+Let the prevalent fund Department goes to the nclt that is dedicated. What part will go to, what part will go to which category and what part will go to which category. Let that be decided for now onwards, because once we have now seen that there are now three judgments from Supreme Court, that we are. They have said that the problem, the gravity, has been paid. 
+
+52:29
+So I don't think there is going to be any change in this, because even the government doesn't want the gratification should be written Away by the insolvency process. So I think we can take up some questions depending on the time available. What is the time available? we have about five minutes, so there are many questions, so let me try and take up take them up one by one. 
+

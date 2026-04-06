@@ -1,0 +1,72 @@
+<html>
+<p>
+	<p>
+		<p>
+			Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.
+		</p>
+	</p>
+	<h2>
+		National Company Law Appellate Tribunal
+	</h2>
+	<h2>
+		Velamur Varadan Anand vs Union Bank Of India &amp; Anr on 16 May, 2018
+	</h2>
+	<p>
+		 NATIONAL COMPANY LAW APPELLATE TRIBUNAL NEW DELHI Company Appeal (AT) (Insolvency) No. 161 of 2018IN THE MATTER OF:Velamur Varadan Anand ...AppellantVersusUnion Bank of India &amp; Anr. ...RespondentsPresent:For Appellant : Ms. Varsha Banerjee and Mr. Tarun Mehta, AdvocatesFor 1st Respondent: Mr. Kamal Satija, Advocate ORDER
+	</p>
+	<p title="Issue" data-structure="Issue">
+		16.05.2018 On 26th April, 2018 when the case was taken up, the following order was passed :
+	</p>
+	<p title="Issue">
+		"The question arises for consideration in this appeal is as to how the period of 180 days is to be counted for Corporate Insolvency Resolution Process i.e. from the date of admission, as per the provisions of the Code or from the date of knowledge of the Resolution Professional? If there is a gap between knowledge of Resolution Professional and the actual date of admission, then how such period is to be treated? Whether such period should be excluded for the purpose of counting the period of 180 days or additional time is to be allowed beyond 180 days for completing the Resolution Process?"
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		2. Similar issue was fell for consideration in "Quinn Logistics India Pvt. Ltd. vs. Mack Soft Tech Pvt. Ltd. and others in Company Appeal (AT) (Insolvency) No. 185 of 2018" wherein after taking into consideration all the relevant provisions of the Insolvency and Bankruptcy Code, 2016, this Appellate Tribunal by judgment dated 8th May, 2018 observed as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"9. From the decisions aforesaid, it is clear that if an application is filed by the 'Resolution Professional' or the 'Committee of Creditors' or 'any aggrieved person' for justified reasons, it is always open to the Adjudicating Authority/Appellate Tribunal to 'exclude certain period' for the purpose of counting the total period of 270 days, if the facts and circumstances justify exclusion, in unforeseen circumstances.
+	</p>
+	<p title="Precedent Analysis">
+		10. For example, for following good grounds and unforeseen circumstances, the intervening period can be excluded for counting of the total period of 270 days of resolution process:-
+	</p>
+	<p title="Precedent Analysis">
+		(i) If the corporate insolvency resolution process is stayed by 'a court of law or the Adjudicating Authority or the Appellate Tribunal or the Hon'ble Supme Court.
+	</p>
+	<p title="Precedent Analysis">
+		(ii) If no 'Resolution Professional' is functioning for one or other reason during the corporate insolvency resolution process, such as removal.
+	</p>
+	<p title="Precedent Analysis">
+		 2 Company Appeal (AT) (Insolvency) No. 161 of 2018
+	</p>
+	<p title="Precedent Analysis">
+		(iii) The period between the date of order of admission/moratorium is passed and the actual date on which the 'Resolution Professional' takes charge for completing the corporate insolvency resolution process.
+	</p>
+	<p title="Precedent Analysis">
+		(iv) On hearing a case, if order is reserved by the Adjudicating Authority or the Appellate Tribunal or the Hon'ble Supme Court and finally pass order enabling the 'Resolution Professional' to complete the corporate insolvency resolution process.
+	</p>
+	<p title="Precedent Analysis">
+		(v) If the corporate insolvency resolution process is set aside by the Appellate Tribunal or order of the Appellate Tribunal is reversed by the Hon'ble Supme Court and corporate insolvency resolution process is restored.
+	</p>
+	<p title="Precedent Analysis">
+		(vi) Any other circumstances which justifies exclusion of certain period.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		However, after exclusion of the period, if further period is allowed the total number of days cannot exceed 270 days which is the maximum time limit pscribed under the Code."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		3. In the psent case, we find that after admission of the application the 'Resolution Professional' was informed who took over the charge after 30 days of admission. In fact the case was admitted on 16th August, 2017 and on receipt the intimation, he took charge on 14th September, 2017. 3 Company Appeal (AT) (Insolvency) No. 161 of 2018
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		4. Having heard the learned counsel for the parties following the decision in "Quinn Logistics India Pvt. Ltd.' (Supra), we direct the Adjudicating Authority to exclude 30 days for the purpose of counting the period of 'corporate insolvency resolution process' and thereby allow the 'Resolution Professional' to complete the 'corporate insolvency resolution process' by 15th June, 2018.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		5. The impugned order dated 16th March, 2018 passed by the Adjudicating Authority, Mumbai Bench in M.A. No. 131/2018 in C.P. (IB) - 1197(MB)/2017 stands modified to the extent above. The observation made by the Adjudicating Authority against the 'Resolution Professional' is expunged and is set aside.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		6. The appeal stands disposed of with the aforesaid observations.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice S.J. Mukhopadhaya] Chairperson [ Justice Bansi Lal Bhat ] Member (Judicial) 4 Company Appeal (AT) (Insolvency) No. 161 of 2018
+	</p>
+</p>
+</html>

@@ -1,0 +1,7 @@
+**Performance Analytics Agent**
+
+The Performance Analytics Agent evaluates the efficiency, effectiveness, and fairness of resolution or settlement outcomes. It tracks key performance indicators (KPIs) such as recovery percentage, process duration, cost efficiency, and stakeholder satisfaction. This data-driven insight helps insolvency professionals measure and improve the quality of case outcomes.
+
+It aggregates data across multiple assignments to identify patterns—such as sectors with high recovery rates or recurring procedural bottlenecks. Visual dashboards and reports provide clarity for regulatory submissions and performance reviews.
+
+Additionally, the agent can benchmark individual cases or mediators against industry averages, supporting performance audits and continuous improvement within the insolvency ecosystem.

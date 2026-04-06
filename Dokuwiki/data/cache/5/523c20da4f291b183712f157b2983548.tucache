@@ -1,0 +1,14 @@
+
+<script type="text/javascript">/*<![CDATA[*/ var tagfilter_container = {}; /*!]]>*/</script>
+<form id="tagdd_1" data-idx="1" data-plugin="tagfilter" data-tags="[[],[]]" method="post" action="" accept-charset="utf-8"><div class="no">
+<input type="hidden" name="sectok" value="7c1e87578b328ce86cff7c9a77099357" /><fieldset style="text-align:left;width:99%" id="__tagfilter_1"><legend>Tagfilter</legend>
+<label class="tagfilter"><span>Status</span> <select id="" name="Status" onChange="tagfilter_submit(1,&quot;&quot;,[[&quot;nouser&quot;,&quot;nodate&quot;,&quot;multi&quot;],{&quot;multi&quot;:true,&quot;chosen&quot;:false,&quot;tagimage&quot;:false,&quot;pagesearch&quot;:false,&quot;pagesearchlabel&quot;:&quot;Seiten&quot;,&quot;cache&quot;:false,&quot;rsort&quot;:false,&quot;labels&quot;:true,&quot;noneonclear&quot;:false,&quot;tagimagecolumn&quot;:[],&quot;excludeNs&quot;:[],&quot;withTags&quot;:[],&quot;excludeTags&quot;:[],&quot;images&quot;:false,&quot;count&quot;:false,&quot;tagintersect&quot;:false,&quot;sortbypageid&quot;:false,&quot;include&quot;:[]}])" class="tagdd_select tagfilter tagdd_select_1" data-placeholder="Status selection" data-label="status" multiple="multiple" size="5">
+<option></option>
+</select></label>
+<label class="tagfilter"><span>Version</span> <select id="" name="Version" onChange="tagfilter_submit(1,&quot;&quot;,[[&quot;nouser&quot;,&quot;nodate&quot;,&quot;multi&quot;],{&quot;multi&quot;:true,&quot;chosen&quot;:false,&quot;tagimage&quot;:false,&quot;pagesearch&quot;:false,&quot;pagesearchlabel&quot;:&quot;Seiten&quot;,&quot;cache&quot;:false,&quot;rsort&quot;:false,&quot;labels&quot;:true,&quot;noneonclear&quot;:false,&quot;tagimagecolumn&quot;:[],&quot;excludeNs&quot;:[],&quot;withTags&quot;:[],&quot;excludeTags&quot;:[],&quot;images&quot;:false,&quot;count&quot;:false,&quot;tagintersect&quot;:false,&quot;sortbypageid&quot;:false,&quot;include&quot;:[]}])" class="tagdd_select tagfilter tagdd_select_1" data-placeholder="Version selection" data-label="version" multiple="multiple" size="5">
+<option></option>
+</select></label>
+<button type="button" onclick="tagfilter_cleanform(1,true)">Reset filter</button>
+</fieldset>
+</div></form>
+<div id='tagfilter_ergebnis_1' class='tagfilter'></div>

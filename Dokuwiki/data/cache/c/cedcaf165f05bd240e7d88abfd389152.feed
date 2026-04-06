@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar - talk:applicants</title>
+        <description>Digital Agents for IBC Processes</description>
+        <link>https://resolutionbazaar.com/</link>
+        <image rdf:resource="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-04-17T05:52:16+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=talk:applicants:applicant_agents&amp;rev=1743698743&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://resolutionbazaar.com/</link>
+        <url>https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=talk:applicants:applicant_agents&amp;rev=1743698743&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T16:45:43+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>applicant_agents</title>
+        <link>https://resolutionbazaar.com/doku.php?id=talk:applicants:applicant_agents&amp;rev=1743698743&amp;do=diff</link>
+        <description>Games Insolvency Applicants Play
+
+Insolvency applicants—typically financial or operational creditors—may sometimes misuse the insolvency resolution process to pressure or coerce the corporate debtor rather than pursue legitimate debt recovery. Here are some of the tactics they might employ to exploit the process, along with the possible motivations and the effects on the corporate debtor:
+Filing Frivolous Insolvency Applications</description>
+    </item>
+</rdf:RDF>

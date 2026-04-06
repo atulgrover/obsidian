@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://www.resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar</title>
+        <description>Digital Agents for IBC Processes</description>
+        <link>https://www.resolutionbazaar.com/</link>
+        <image rdf:resource="https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-04-29T05:21:23+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=start&amp;rev=1745733593&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=agentic_framework:process_agents&amp;rev=1745655370&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=stakeholders:claimant_creditors&amp;rev=1745655149&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=stakeholders:committee_creditors&amp;rev=1745655140&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=stakeholders:corporate_debtors&amp;rev=1745655131&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=stakeholders:forensic_auditors&amp;rev=1745655121&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=stakeholders:insolvency_applicants&amp;rev=1745655112&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=stakeholders:investor_applicants&amp;rev=1745655103&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=stakeholders:registered_valuers&amp;rev=1745655094&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=stakeholders:personal_guarantors&amp;rev=1745655083&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=stakeholders:stakeholder_support&amp;rev=1745639141&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=about_us:our_professionals&amp;rev=1745638288&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:directory_map&amp;rev=1745638288&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=agentic_framework:communication_agents&amp;rev=1745574981&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:case_management_system&amp;rev=1745573818&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_case_management&amp;rev=1745573804&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=about_us:advisory_board&amp;rev=1745566540&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:fast_track_process:ciftp_form_g&amp;rev=1745563291&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=stakeholders:stakeholder_support_services&amp;rev=1745562766&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=stakeholders:stakeholder_services&amp;rev=1745562738&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://www.resolutionbazaar.com/</link>
+        <url>https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=start&amp;rev=1745733593&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-27T05:59:53+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>start</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=start&amp;rev=1745733593&amp;do=diff</link>
+        <description>Agents for Insolvency &amp; Bankruptcy (IBC2016)
+
+----------
+
+communication_agents
+  COMMUNICATION AGENTS  Generative chatbots serve as a communication platform where stakeholders can seek answers to their queries regarding the insolvency process. These chatbots provide instant responses, helping to manage stakeholder expectations and reduce the workload of IPs by addressing routine inquiries.</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=agentic_framework:process_agents&amp;rev=1745655370&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T08:16:10+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>process_agents</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=agentic_framework:process_agents&amp;rev=1745655370&amp;do=diff</link>
+        <description>Process Agents
+
+Process agents can be categorized into distinct groups based on their roles and functionalities, offering specialized capabilities to enhance efficiency, accuracy, and decision-making in insolvency processes. These categories include Legal Agents, Process Agents, Planning Agents, Marketing Agents, Fraud Detection Agents, and Prediction Agents. Each type of agent addresses specific challenges within the insolvency framework, streamlining operations and improving outcomes. Process …</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=stakeholders:claimant_creditors&amp;rev=1745655149&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T08:12:29+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>claimant_creditors</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=stakeholders:claimant_creditors&amp;rev=1745655149&amp;do=diff</link>
+        <description>Agentic Services for Claimants
+
+CLAIMANTS - Creditor claimants are individuals or entities with financial claims against the corporate debtor. They include financial creditors, operational creditors, and secured creditors, each with distinct rights under the IBC framework. Their claims are verified and prioritized during CIRP to ensure equitable distribution of recovered assets. Claimants play a pivotal role in guiding creditors through the claim submission, verification, and status tracking pro…</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=stakeholders:committee_creditors&amp;rev=1745655140&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T08:12:20+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>committee_creditors</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=stakeholders:committee_creditors&amp;rev=1745655140&amp;do=diff</link>
+        <description>Agentic Services for Committee of Creditors
+
+CREDITOR COMMITTEES - The Committee of Creditors (CoC) is formed by financial creditors and plays a pivotal role in CIRP. It evaluates resolution plans, monitors the insolvency professional’s actions, and ensures decisions align with value maximization and fairness. The CoC serves as the final authority on accepting or rejecting resolution plans. Committee of Creditors plays a central role in the insolvency resolution process, and AI-driven agents can…</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=stakeholders:corporate_debtors&amp;rev=1745655131&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T08:12:11+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>corporate_debtors</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=stakeholders:corporate_debtors&amp;rev=1745655131&amp;do=diff</link>
+        <description>Agentic Services for Debtors
+
+CORPORATE DEBTORS - Corporate debtors are entities that have defaulted on their financial obligations, triggering insolvency proceedings under the IBC. They are central to the resolution process, as their assets and operations are managed to maximize value for creditors. During the Corporate Insolvency Resolution Process (CIRP), control shifts from the corporate debtor&#039;s management to insolvency professionals. Corporate Debtors can benefit significantly from special…</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=stakeholders:forensic_auditors&amp;rev=1745655121&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T08:12:01+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>forensic_auditors</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=stakeholders:forensic_auditors&amp;rev=1745655121&amp;do=diff</link>
+        <description>Agentic Services for Auditors
+
+FORENSIC AUDITORS - Forensic auditors investigate financial irregularities and fraudulent transactions within the corporate debtor’s accounts. Their findings help insolvency professionals and creditor committees identify potential recoverable assets and assess compliance with legal norms. Forensic Auditors Forensic Auditors play a critical role in insolvency proceedings by automating the extraction and analysis of financial data from company records. Their primary …</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=stakeholders:insolvency_applicants&amp;rev=1745655112&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T08:11:52+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>insolvency_applicants</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=stakeholders:insolvency_applicants&amp;rev=1745655112&amp;do=diff</link>
+        <description>Agentic Services for Applicants
+
+IBC APPLICANTS - Insolvency applicants initiate CIRP by filing an application with the National Company Law Tribunal (NCLT). They can be financial creditors, operational creditors, or even corporate debtors themselves seeking resolution of their financial distress.</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=stakeholders:investor_applicants&amp;rev=1745655103&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T08:11:43+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>investor_applicants</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=stakeholders:investor_applicants&amp;rev=1745655103&amp;do=diff</link>
+        <description>Agentic Services for Investors
+
+RESOLUTION APPLICANTS - Resolution applicants propose plans for reviving or restructuring the corporate debtor’s operations. Their plans are evaluated by the CoC for feasibility, compliance with legal norms, and alignment with creditor interests. Insolvency Applicants can benefit from specialized AI agents designed to assist them in navigating the complexities of submitting resolution plans. These agents help applicants understand eligibility criteria and guide th…</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=stakeholders:registered_valuers&amp;rev=1745655094&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T08:11:34+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>registered_valuers</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=stakeholders:registered_valuers&amp;rev=1745655094&amp;do=diff</link>
+        <description>Agentic Services for Valuers
+
+REGISTERED VALUERS - Registered valuers assess the fair market value of a corporate debtor’s assets during CIRP. Their valuations guide resolution plans and liquidation strategies to ensure transparency and accountability in asset disposition. Registered Valuers Registered Valuers play a critical role in the insolvency process by providing accurate valuations of distressed assets, ensuring transparency and informed decision-making. By leveraging AI-driven solutions,…</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=stakeholders:personal_guarantors&amp;rev=1745655083&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T08:11:23+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>personal_guarantors</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=stakeholders:personal_guarantors&amp;rev=1745655083&amp;do=diff</link>
+        <description>Agentic Services for Personal Guarantors
+
+PERSONAL GUARANTORS - Personal guarantors are individuals who have provided guarantees for debts owed by corporate debtors. Under IBC, they can be held liable for repayment in case of default, making them integral to recovering dues during insolvency processes. Personal Guarantors play a significant role in the insolvency process, and AI-driven agents can assist in tracing these individuals, guiding them on their liabilities, and facilitating their repre…</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=stakeholders:stakeholder_support&amp;rev=1745639141&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T03:45:41+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>stakeholder_support - removed</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=stakeholders:stakeholder_support&amp;rev=1745639141&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=about_us:our_professionals&amp;rev=1745638288&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T03:31:28+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>our_professionals - ↷ Page moved and renamed from about_us:our_professionals to professionals:directory_map</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=about_us:our_professionals&amp;rev=1745638288&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:directory_map&amp;rev=1745638288&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T03:31:28+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>directory_map - ↷ Page moved and renamed from about_us:our_professionals to professionals:directory_map</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:directory_map&amp;rev=1745638288&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=agentic_framework:communication_agents&amp;rev=1745574981&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T09:56:21+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>communication_agents</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=agentic_framework:communication_agents&amp;rev=1745574981&amp;do=diff</link>
+        <description>Communication Agents
+
+
+
+Generative Search &amp; Conversations
+
+	*  Summarization
+	*  Question Answering
+	*  Insolvency Research
+	*  Professional Selection
+	*  Schedule Appointments
+	*  Caselaws &amp; Statutes</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:case_management_system&amp;rev=1745573818&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T09:36:58+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>case_management_system</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:case_management_system&amp;rev=1745573818&amp;do=diff</link>
+        <description>CASE MANAGEMENT SYSTEM
+
+
+
+
+
+
+PROCESS WORKFLOWS
+
+	*  Leads Management
+	*  Compliance Management
+	*  Claim Management</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_case_management&amp;rev=1745573804&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T09:36:44+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>process_case_management - ↷ Page name changed from professionals:process_case_management to professionals:case_management_system</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_case_management&amp;rev=1745573804&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=about_us:advisory_board&amp;rev=1745566540&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T07:35:40+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>advisory_board</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=about_us:advisory_board&amp;rev=1745566540&amp;do=diff</link>
+        <description>Advisors
+
+
+
+
+	*  Mr. Atul Grover
+	*  &lt;atulgroverr@gmail.com&gt;
+	*  98140-40900
+
+
+
+
+	*  Mr. Anil Katia
+	*  &lt;ip.anilkatia@gmail.com&gt;
+	*  93160-15274
+
+
+
+
+Team Members
+
+
+
+
+	*  Ansh Kesharwani
+	*  &lt;ansklaw@gmail.com&gt;
+	*  87075-25715</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:fast_track_process:ciftp_form_g&amp;rev=1745563291&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T06:41:31+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>ciftp_form_g</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:process_forms:fast_track_process:ciftp_form_g&amp;rev=1745563291&amp;do=diff</link>
+        <description>Corporate Insolvency FAST TRACK (Resolution) Form G</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=stakeholders:stakeholder_support_services&amp;rev=1745562766&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T06:32:46+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>stakeholder_support_services - ↷ Page name changed from stakeholders:stakeholder_support_services to stakeholders:stakeholder_support</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=stakeholders:stakeholder_support_services&amp;rev=1745562766&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=stakeholders:stakeholder_services&amp;rev=1745562738&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T06:32:18+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>stakeholder_services - ↷ Page name changed from stakeholders:stakeholder_services to stakeholders:stakeholder_support_services</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=stakeholders:stakeholder_services&amp;rev=1745562738&amp;do=diff</link>
+        <description></description>
+    </item>
+</rdf:RDF>

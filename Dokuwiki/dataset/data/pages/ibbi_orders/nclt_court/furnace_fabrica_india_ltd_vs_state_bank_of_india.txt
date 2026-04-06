@@ -1,0 +1,218 @@
+<html>
+<div>
+	<h1>
+		Whether the interim moratorium under Section 96 of IBC pertaining to personal insolvency proceedings will bar the proceedings under Section 7 against Corporate Debtor(Principal Borrower) &ndash; Furnace Fabrica (India) Ltd. Vs. State Bank of India &ndash; NCLT Kochi Bench
+	</h1>
+	<div>
+		November 7, 2023
+	</div>
+	<p>
+		In this case, application filed by Corporate Debtor to stay CIRP proceedings u/s 7 of IBC, in view of the interim moratorium continuing in the matter of personal insolvency resolution of the guarantors of the Corporate Debtor. NCLT Kochi Bench held that: (i) Moratorium u/s 96 will only affect the debts of the personal guarantor. (ii) The cause of action for p 7 is the default in loan repayment by CD whereas the cause of action of p 95 is the non-payment of debt on invocation of guarantee. Both are separate contracts governed under the contract act and remedy under one contract shall not extinguish the other in law. (iii) The word &ldquo;in relation to&rdquo; and &ldquo;any&rdquo; in Section 96 which is the primary contention of the applicant cannot be stretched to mean that the debt of guarantor which are also debts of the CD in first instance, and all the proceedings which arise out of these debts come under moratorium. (iv) Any action against the particular guarantor/debtor pertaining to these debts shall be in moratorium. It does not curtail the right of cause of action from separate contractual arrangements. (v) The moratorium under p 96 is having larger scope than moratorium under p 14 but the liability falls from different persons in the eye of law. (vi) The FC has the right to move against either or both the CD and personal guarantor simultaneously, independently or jointly. Any other interpretation of the word &lsquo;moratorium&rsquo; will defeat the purpose envisaged in IBC. (vii) The moratorium under p 96 and 101 of the Code cannot be meant to prohibit the right to action under p 7 or 9 or 10 of IBC which lie against a company or body corporate and not against an individual as under PIRP.
+	</p>
+</div>
+<div>
+	<div>
+		<div>
+			<div>
+				<div>
+					<p>
+						<strong>
+							 I. Case Reference
+						</strong>
+					</p>
+					Case Citation:(2023) 803 NCLTCase Name:Furnace Fabrica (India) Ltd. Vs. State Bank of IndiaCorporate Debtor:Furnace Fabrica (India) Ltd.Application/Appeal No.:IA (IBC)/339/KOB/2023 in CP(IBC)/14/KOB/2023Judgment Date:01-Nov-23Court/Bench:NCLT Kochi BenchMember (Judicial):Smt. Justice (Retd.) T. KrishnavalliMember (Technical):Shri Shyam Babu Gautam
+					<p>
+						<strong>
+							 II. Brief about the decision
+						</strong>
+					</p>
+					<p>
+						<em>
+							<strong>
+								 Facts of the case
+							</strong>
+						</em>
+					</p>
+					<ul>
+						<li>
+							The State Bank of India filed p 7 application against the Corporate Debtor (CD) on 23.05.2023 on the default of credit facilities sanctioned and granted by consortium of banks namely, SBI as the lead bank, EXIM Bank, Axis Bank and Standard Chartered Bank to the Corporate Debtor.
+						</li>
+						<li>
+							One of the creditors&rsquo;, Standard Chartered Bank has initiated p 95 proceedings against one of the persona guarantors, Mr. Abdul Rehman Basheeruddin in CP(IBC)/12/KOB/2023 on 11.05.2023 and the petition is allowed and an RP has been appointed for his report and the interim moratorium under p 96(1)(a) of the code commences in relation to all debts of the personal guarantor.
+						</li>
+						<li>
+							This Application is filed under Section 60(5) of the IBC, 2016 by Furnace Fabrica (India)Limited, the Corporate Debtor, against State Bank of India, the Financial Creditor to stay the proceedings in CP(IBC)/14/KOB/2023, initiated under p 7, in view of the interim moratorium continuing in the matter of personal insolvency resolution of the guarantors of the Corporate Debtor.
+						</li>
+					</ul>
+					<p>
+						<em>
+							<strong>
+								 The issue before the Adjudicating Authority
+							</strong>
+						</em>
+					</p>
+					<p>
+						The point fell for consideration is whether the interim moratorium under p 96 pertaining to personal insolvency proceedings will bar the proceedings under p 7.
+					</p>
+					<p>
+						<em>
+							<strong>
+								 Decision of the Adjudicating Authority
+							</strong>
+						</em>
+					</p>
+					<p>
+						<strong>
+							 A. Interpretation of Section 96 of IBC
+						</strong>
+					</p>
+					<ul>
+						<li>
+							By the plain language of the p 96 of IBC, the moratorium shall be in existence w.r.t to all debts, which is any liability or obligation in respect of a claim due from the debtor, in this case, the personal guarantor, and also, any legal proceedings which are pending with respect to such debt is deemed to be stayed and no further action shall lie.
+						</li>
+						<li>
+							Hence it is clear that the moratorium will only affect the debts of the personal guarantor. But here the debts of personal guarantor are not exclusively the debt of guarantor but arising out of the debts of the CD.
+						</li>
+						<li>
+							As per p 128 of the Indian contract act, the liability of the surety or the guarantor is co extensive, meaning guarantor is liable as much and in equal terms as the principal is liable.
+							<strong>
+								 But it does not mean that one cause of action will extinguish the other cause of action.
+							</strong>
+							 The cause of action for p 7 is the default in loan repayment by CD whereas the cause of action of p 95 is the non-payment of debt on invocation of guarantee. Both are separate contracts governed under the contract act and remedy under one contract shall not extinguish the other in law.
+						</li>
+						<li>
+							The word &ldquo;
+							<em>
+								 in relation to
+							</em>
+							 &rdquo; and &ldquo;
+							<em>
+								 any
+							</em>
+							 &rdquo; which is the primary contention of the applicant cannot be stretched to mean that the debt of guarantor which are also debts of the CD in first instance, and all the proceedings which arise out of these debts come under moratorium.
+							<strong>
+								 All it means is that any action against the particular guarantor/debtor pertaining to these debts shall be in moratorium.
+							</strong>
+							<strong>
+								 It does not curtail the right of cause of action from separate contractual arrangements. Admittedly the moratorium under
+							</strong>
+							<strong>
+								 p 96 is having larger scope than moratorium under p
+							</strong>
+							<strong>
+								 14 but the liability falls from different persons in the eye of law.(p4)
+							</strong>
+						</li>
+					</ul>
+					<p>
+						<strong>
+							 B. Moratorium under Section 14 vs. Moratorium under Section 96 or 101
+						</strong>
+					</p>
+					<ul>
+						<li>
+							On going through the IBC, it is seen that nowhere in the code, it is mentioned that the moratorium in p 96 shall affect the proceedings under p 7 or 9 or 10.
+						</li>
+						<li>
+							Infact there are 2 moratoriums one which comes after admission under p 7 or 9 or 10 and another which comes on initiation of personal insolvency process. Both are governed by separate parts in IBC and hence the legislature has provided separate action for different situations.
+						</li>
+						<li>
+							The structure of the IBC is such that moratorium under p 14 comes out of the primary debt of CD and the moratorium under p 96 or 101 comes out of the secondary debt i,e default of guarantee.
+						</li>
+						<li>
+							Section 14 also does not put a bar on proceedings under p 95 against the personal guarantor.
+						</li>
+						<li>
+							The code is complete and as per rule of harmonious construction, it should be read as a whole and construed harmoniously.
+						</li>
+						<li>
+							If p 96 is read to having a moratorium effect on other cause of action, it will defeat the purpose of IBC and even the contract of guarantee itself.
+						</li>
+						<li>
+							The resolution process of CD and personal guarantor are separate process and that is resolution of CD through a resolution plan does not absolve the liability of a guarantor by any chance.
+						</li>
+						<li>
+							The liability exists long until the debt is&nbsp;fully paid by CD or by personal guarantor or both. Hence,
+							<strong>
+								 the FC
+							</strong>
+							<strong>
+								 has the right to move against either or both the CD and personal
+							</strong>
+							<strong>
+								 guarantor simultaneously, independently or jointly. Any other
+							</strong>
+							<strong>
+								 interpretation of the word &lsquo;moratorium&rsquo; will defeat the purpose
+							</strong>
+							<strong>
+								 envisaged in IBC.(p4)
+							</strong>
+						</li>
+					</ul>
+					<p>
+						<strong>
+							 C. Case laws referred
+						</strong>
+					</p>
+					<ul>
+						<li>
+							<em>
+								 Laxmi Pat Surana vs. Union Bank of India &amp; Anr.&nbsp;(2021) 53 SC
+							</em>
+						</li>
+						<li>
+							<em>
+								 Axis Trustee Services Limited vs Brij Bhushan Singh and Ors&nbsp;(2022) 239 HC
+							</em>
+						</li>
+						<li>
+							<em>
+								 Bhavesh Gandhi vs Central Bank of India&nbsp;(2023) 112 NCLAT
+							</em>
+						</li>
+						<li>
+							<em>
+								 Ashok Mahindru and Ors. Vs Vivek Parti&nbsp;(2022) 967 NCLAT
+							</em>
+						</li>
+					</ul>
+					<p>
+						<strong>
+							 D. Conclusion
+						</strong>
+					</p>
+					<ul>
+						<li>
+							On the conjoint reading of the provisions of the code, in line with the judgements referred above, we are of opinion that
+							<strong>
+								 the moratorium under p 96 and 101 of the Code cannot be meant to prohibit the right to action under p 7 or 9 or 10 of IBC which lie against a company or body corporate and not against an individual as under PIRP.
+							</strong>
+						</li>
+						<li>
+							It is our view that the word &lsquo;
+							<em>
+								 in relation to debt
+							</em>
+							 &rsquo; should be read in harmony with the other parts of the Code and after giving due importance to the purpose and terms of a contract of guarantee and loan agreements.
+							<strong>
+								 (p6)
+							</strong>
+						</li>
+						<li>
+							Hence, we deem it fit that no stay can be granted in this matter.&nbsp;In result, IA (IBC)/339/KOB/2023 is, therefore,
+							<strong>
+								 dismissed
+							</strong>
+							 and&nbsp;disposed of, accordingly.
+							<strong>
+								 (p6-7)
+							</strong>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</html>

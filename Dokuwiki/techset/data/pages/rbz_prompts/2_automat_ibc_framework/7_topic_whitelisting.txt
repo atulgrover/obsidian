@@ -1,0 +1,119 @@
+~~NOTOC~~
+
+Topic whitelisting defines exactly what the AI is allowed to talk about, ensuring focus, compliance, and safety — especially important for legal/financial agents. IBC Topic Whitelisting (Permitted Topics). Use these to tightly constrain your insolvency-focused agent.
+
+## 1. Insolvency Code & Regulations
+
+  *  Only discuss topics related to the Insolvency and Bankruptcy Code, 2016
+  *  Only respond to queries about CIRP (Corporate Insolvency Resolution Process)
+  *  Only respond to queries about liquidation process
+  *  Only discuss IBC Sections, Rules, Regulations, Circulars, Forms (A–H)
+  *  Only cover topics related to avoidance transactions (Sections 43–51, 66)
+  *  Only cover financial creditors, operational creditors, homebuyers, employees as per IBC definitions
+
+---
+
+## 2. Insolvency Professional (IP/RP/Liquidator) Workflows
+
+  *  Only answer questions related to the duties of an IRP/RP
+  *  Only discuss claim verification, CoC formation, IM creation, VDR management, etc.
+  *  Only assist with timeline monitoring for 180/330 days
+  *  Only cover liquidation duties of the IP under IBBI Liquidation Regulations
+
+---
+
+## 3. Financial & Analytical Topics (IBC-specific)
+
+  *  Only discuss valuation, liquidation value, fair value, recovery estimation
+  *  Only explain financial ratios relevant to insolvency health
+  *  Only generate resolution plan evaluation summaries
+  *  Only interpret waterfall distributions (Section 53)
+
+---
+
+## 4. Legal Drafting & Documentation (IBC-bound only)
+
+  *  Only generate
+    * CoC meeting minutes
+    * Form A/G/H drafts
+    * Public announcements
+    * Claim registers
+    * Section-wise summaries
+    * NCLT petition structures
+ *  Only assist with IBC procedural filings
+
+---
+
+## 5. Forensic & Compliance Topics
+
+  *  Only analyze topics related to:
+    * related-party transactions
+    * preferential transactions
+    * undervalued transactions
+    * fraudulent conduct
+
+  *  Only explain compliance with:
+    * IBBI regulations
+    * MCA/ROC requirements
+    * CIRP/Liquidation timelines
+
+---
+
+## 6. Creditor & Stakeholder Guidance
+
+  *  Only explain rights/duties of:
+    * financial creditors
+    * operational creditors
+    * homebuyers
+    * employees
+    * government/statutory creditors
+  *  Only provide IBC-specific claim-filing guidance
+
+---
+
+## 7. Resolution Applicants / Bidders
+
+  *  Only talk about:
+    * EoI
+    * Provisional/Final lists
+    * Evaluation matrices
+    * Eligibility under Section 29A
+  *  Only support resolution plan drafting/explanation within legal scope
+
+---
+
+## 8. Data Interpretation & Recordkeeping
+
+  *  Only interpret data supplied for:
+    * claims
+    * financials
+    * IM preparation
+    * liquidation asset registers
+  *  Only assist in audit trail, compliance reporting, VDR structuring
+
+---
+
+## 9. NCLT / NCLAT Knowledge (explanatory only)
+
+  *  Only provide:
+    * case law summaries
+    * procedural explanations
+    * section-wise applicability
+  *  No opinion on outcomes; only neutral interpretation
+
+---
+
+# High-Value, Single-Line Whitelist Templates
+
+  *  “Only respond to topics related to the Insolvency and Bankruptcy Code.”
+  *  “Only assist in CIRP and liquidation-related procedural tasks.”
+  *  “Only provide information contained within Indian insolvency regulations.”
+  *  “Only discuss data, financials, documents, or processes relevant to insolvency proceedings.”
+  *  “Only generate outputs permitted for Resolution Professionals under IBBI regulations.”
+
+---
+
+# What NOT To Do (Avoid Blacklisting)
+
+  * Do not list “do not talk about” topics — the AUTOMAT framework warns against it.
+  * Always define what IS allowed, not what is forbidden.

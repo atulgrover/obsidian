@@ -1,0 +1,105 @@
+<html>
+<p>
+	<p>
+		<p>
+			Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.
+		</p>
+	</p>
+	<h2>
+		National Company Law Appellate Tribunal
+	</h2>
+	<h2>
+		Punjab National Bank vs Carnation Auto India Pvt. Ltd. &amp; Anr on 7 May, 2019
+	</h2>
+	<p>
+		 NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI Company Appeal (AT) (Insolvency) No. 139 of 2019IN THE MATTER OF:Punjab National Bank ....AppellantVs.Carnation Auto India Pvt. Ltd. &amp; Anr. ....RespondentsPresent:For Appellant: Mr. Sartaj Singh, Advocate for PNBFor Respondents: Mr. Alok Dhir, Ms. Varsha Banerjee, Mr. Milan Singh Negi and Mr. Kunal Godhwani, Advocates. ORDER
+	</p>
+	<p title="Fact" data-structure="Facts">
+		07.05.2019: 'Corporate Insolvency Resolution Process' under Section 7 of the Insolvency and Bankruptcy Code, 2016 ("I&amp;B Code" for short) was initiated against 'Carnation Auto India Pvt. Ltd.' ('Corporate Debtor'). During the pendency of the said proceedings, the Appellant- 'Punjab National Bank' moved application under Section 60(2) of the 'I&amp;B Code' for initiation of 'Insolvency and Bankruptcy Proceedings' against 'Mr. Jagdish Khattar', the 'Personal Guarantor of the Corporate Debtor'. The Adjudicating Authority (National Company Law Tribunal), New Delhi by impugned order dated 2nd January, 2019 rejected the application being not maintainable against an inpidual.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		2. Learned counsel appearing on behalf of Appellant submits that for initiation of 'Insolvency and Bankruptcy Proceedings' against 'Personal Guarantor of the Corporate Debtor', Part III of the 'I&amp;B Code' which relates to 2 inpidual or a firm is not applicable. No proceeding against 'Personal Guarantor of the Corporate Debtor' can be filed before the 'Debt Recovery Tribunal'. For initiation of 'Insolvency and Bankruptcy Proceedings' against 'Personal Guarantor of the Corporate Debtor', the application to be filed before 'National Company Law Tribunal' under Section 60(2) and not before the 'Debt Recovery Tribunal'.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		3. The question arises for consideration in this appeal is whether the application for initiation of 'Insolvency Resolution Process' against the 'Personal Guarantor of the Corporate Debtor' can be entertained by the National Company Law Tribunal?
+	</p>
+	<p title="Issue" data-structure="Issue">
+		4. There may two types of 'Personal Guarantor' namely:-
+	</p>
+	<p title="Issue">
+		i. 'Personal Guarantor' of a 'Corporate Debtor' and ii. 'Personal Guarantor' of a partnership firms or 'Personal Guarantor' of an inpidual
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		5. Section 5(22) defines "personal guarantor", means:-
+	</p>
+	<p title="Analysis of the law">
+		"5. Definition.─ (22) "personal guarantor" means an inpidual who is the surety in a contract of guarantee to a corporate debtor."
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insol.) No. 139 of 2019 3
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		6. Section 5 is part of Part II of the 'I&amp;B Code' which relates to 'Insolvency Resolution and Liquidation for Corporate Persons' which has been notified and is dealt with by the National Company Law Tribunal (Adjudicating Authority).
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		7. Section 60 deals with 'Adjudicating Authority for corporate persons'. Sub-section (2) thereof relate to filing of an application to the insolvency resolution or bankruptcy of a 'Personal Guarantor' of the 'Corporate Debtor', which is to be filed before the National Company Law Tribunal where 'Insolvency Resolution Process' and 'Liquidation Proceeding' of a 'Corporate Debtor' is pending. Sub-section (3) of Section 60 also relates to an 'Insolvency Resolution Process' or 'Bankruptcy Proceeding' of a 'Personal Guarantor' of the 'Corporate Debtor', as quoted below:
+	</p>
+	<p title="Analysis of the law">
+		"60. Adjudicating Authority for corporate persons.- (1) The Adjudicating Authority, in relation to insolvency resolution and liquidation for corporate persons including corporate debtors and personal guarantors thereof shall be the National Company Law Tribunal having territorial jurisdiction over the place where the registered office of the corporate person in located.
+	</p>
+	<p title="Analysis of the law">
+		(2) Without pjudice to sub-section (1) and notwithstanding anything to the contrary contained in Company Appeal (AT) (Insol.) No. 139 of 2019 4 this Code, where a corporate insolvency resolution process or liquidation proceeding of a corporate debtor is pending before a National Company Law Tribunal, an application relating to the insolvency resolution or bankruptcy of a personal guarantor of such corporate debtor shall be filed before such National Company Law Tribunal.
+	</p>
+	<p title="Analysis of the law">
+		(3) An insolvency resolution process or bankruptcy proceeding of a personal guarantor of the corporate debtor pending in any court or tribunal shall stand transferred to the Adjudicating Authority dealing with insolvency resolution process or liquidation proceeding of such corporate debtor.
+	</p>
+	<p title="Analysis of the law">
+		(4) The National Company Law Tribunal shall be vested with all the powers of the Debt Recovery Tribunal as contemplated under Part III in of this Code for the purpose of sub-section (2).
+	</p>
+	<p title="Analysis of the law">
+		(5) Notwithstanding anything to the contrary contained in any other law for the time being in force, the National Company Law Tribunal shall have jurisdiction to entertain or dispose of -
+	</p>
+	<p title="Analysis of the law">
+		(a) any application or proceeding by or against the corporate debtor or corporate person;
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Company Appeal (AT) (Insol.) No. 139 of 2019 5
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(b) any claim made by or against the corporate debtor or corporate person, including claims by or against any of its subsidiaries situated in India; and
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(c) any question of priorities or any question of law or facts, arising out of or in relation to the insolvency resolution or liquidation proceedings of the corporate debtor or corporate person under this Code.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		6. Notwithstanding anything contained in the Limitation Act, 1963 (36 of 1963) or in any other law for the time being in force, in computing the period of limitation specified for any suit or application by or against a corporate debtor for which an order fo moratorium has been made under this Part, the period during which such moratorium is in place shall be excluded."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		8. Part III is applicable for 'Insolvency and Bankruptcy' against 'inpidual' and 'firm'. Till today, Part III having not notified, no application for initiation of 'Insolvency and Bankruptcy' against a 'Personal Guarantor' of the 'partnership firm' or a 'Personal Guarantor' of an 'inpidual'. It is only after bringing in force and giving effect to Part III of the 'I&amp;B Code', the 'Insolvency and Company Appeal (AT) (Insol.) No. 139 of 2019 6 Bankruptcy' against a 'Personal Guarantor of the partnership firm' or 'Personal Guarantor of an inpidual' can be filed before the 'Debt Recovery Tribunal' and not before the 'National Company Law Tribunal'.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		9. Sub-section (2) of Section 60 is non-obstantive clause which makes it clear that notwithstanding anything to the contrary contained in the 'I&amp;B Code', which also includes Part III of the 'I&amp;B Code', the application relating to 'Insolvency Resolution' or 'Bankruptcy' of a 'Personal Guarantor of the Corporate Debtor' can be filed before the 'National Company Law Tribunal'.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		10. Thus, it is clear that even if Part III of the 'I&amp;B Code' is given the force the application against 'Personal Guarantor of the Corporate Debtor' cannot be filed before the 'Debt Recovery Tribunal' but before the National Company Law Tribunal. Hence, it is clear that sub-section (2) of Section 60 is not dependent on giving effect to Part III of the 'I&amp;B Code', which relates to 'Personal Guarantor of a partnership firm' or 'Personal Guarantor of an inpidual'.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		11. Although we have expssed our opinion but still no relief can be granted in the psent case in view of the decision of the Hon'ble Supme Court in "State Bank of India v. Ramakrishnan &amp; Anr.─(2018) SCC OnLine SC 963" disposed of on 14th August, 2018, wherein the Hon'ble Supme Court observed and held:
+	</p>
+	<p title="Conclusion">
+		Company Appeal (AT) (Insol.) No. 139 of 2019 7 "21. We are afraid that such arguments have to be turned down on a careful reading of the Sections relied upon.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Section 60 of the Code, in sub-section (1) thereof, refers to insolvency resolution and liquidation for both corporate debtors and personal guarantors, the Adjudicating Authority for which shall be the National Company Law Tribunal, having territorial jurisdiction over the place where the registered office of the corporate person is located. This sub-section is only important in that it locates the Tribunal which has territorial jurisdiction in insolvency resolution processes against corporate debtors. So far as personal guarantors are concerned, we have seen that Part III has not been brought into force, and neither has Section 243, which repeals the Presidency-Town Insolvency Act, 1909 and the Provincial Insolvency Act, 1920. The net result of this is that so far as inpidual personal guarantors are concerned, they will continue to be under the Code. Indeed, by a Press Release dated 28.08.2017, the Government of India, through the Ministry of Finance, cautioned that Section 243 of the Code, which provides for the repeal of said enactments, has not been notified till date, and further, that the provisions relating to insolvency Company Appeal (AT) (Insol.) No. 139 of 2019 8 resolution and bankruptcy for inpiduals and partnerships as contained in Part III of the Code are yet to be notified. Hence, it was advised that stakeholders who intend to pursue their insolvency cases may approach the appropriate authority/court under the existing enactments, instead of approaching the Debt Recovery Tribunals." (emphasis added)
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		12. We appciate the arguments advanced on behalf of the Appellant and therefore, we have expssed our opinion but the order of the Hon'ble Supme Court being binding, no relief can be granted.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		The appeal is accordingly dismissed. No costs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice S.J. Mukhopadhaya] Chairperson [Justice A.I.S Cheema] Member (Judicial) Sa/ar/gc Company Appeal (AT) (Insol.) No. 139 of 2019
+	</p>
+</p>
+</html>

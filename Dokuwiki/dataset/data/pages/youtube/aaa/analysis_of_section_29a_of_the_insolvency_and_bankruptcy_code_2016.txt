@@ -1,0 +1,497 @@
+# Analysis of Section 29A of the Insolvency and Bankruptcy Code, 2016
+
+## Summary
+This webinar discusses Section 29A of the Insolvency and Bankruptcy Code, which determines the eligibility of resolution applicants for submitting a resolution plan in the Corporate Insolvency Resolution Process (CIRP). The section was inserted after the IBC's promulgation to prevent defaulting promoters from taking over their own companies. The section is a multi-layered and comprehensive standard of disqualification, with 10 clauses defining the eligibility of resolution applicants. The importance of Section 29A in CIRP and liquidation processes, as well as the verification process and relevant judgments, are discussed in detail. The section has four layers of ineligibility, applicable to the resolution applicant, connected persons, related parties, and those acting jointly with ineligible parties. The webinar also covers the verification process for each clause, including undischarged insolvents and willful defaulters, and the use of public domain information and software for verification.
+
+## Introduction
+0:00
+Namaste. Good morning, welcome to this 49th episode of AAA webinar series, which is done every Saturday at 11 am, and for the 49th week we are continuously doing this. Thank you very much for joining and thank you very much for encouraging us. Every time we conduct a webinar, we see that the participation is increasing. 
+
+0:39
+Today we have our subject, which is very important, and also some judicial pronouncements have been done on this section 29, capital A of the insolvency and bankruptcy code, which was inserted later on and it was not the original section in the court, but then it was inserted later on. 
+
+1:00
+So I still recall the kind of feedback which was going to comment that the there may be criticism or there may be opposition from the politically oppositional parties that this law actually can be considered as a very big scam. 
+
+1:22
+In case we say that the company has been taken over by somebody else and the promoters the company like scenario like for example any company, large company, in case it is, it becomes a news item that the creditors have accepted the resolution plan with a haircut of 50 percent and the company has been given to the same promoters for running. 
+
+1:56
+Now, in this case, in case the balance 50 percent is recovered from the promoters, then the promoters will be proceeded against. That will be a kind of complete contravention and a complete Clash of Interest. one side, we are trusting the same promoters for running the company, managing the company and kind of free paying the dues of the creditors. 
+
+2:22
+And same way, in the same breath, we are saying that we are proceeding against the promoters, maybe under the insolvency law, individual insolvency law, or under any other section, including the Criminal part of it. So therefore it was immediately decided by the government that it has to be a very kind of a uncontroversial law, so that it doesn't go to the same promoters. So therefore, the section 29a was promulgated. It was inserted in the act. 
+
+2:55
+So Ankit, welcome. In fact I just started it and I'm sorry I got a little late. 
+
+
+## Webinars
+3:00
+So anyways we can we can continue. Yes, it's very important today. I think you are also busy in one session on a webinar that you were doing. Yes, and today. In fact, for you and for me both of us, this today is very busy. 
+
+3:19
+I have another participation as a speaker webinar which is organized by Institute of company sectors of India. Then this Kerala Bar Association has also invited me as a speaker at 3 pm, and then Gujarat National Law university has also invited me as a speaker, all on a video platform, and right from now till evening 5.30, I would be continuously on the webinars and you have just finished one Ankit. What was that? 
+
+
+## Recent Updates
+3:59
+This was with respect to the impact on the recent changes and the proposed changes on registered values. so basically that was the idea to share the recent updates and be there are a few disciplinary orders that have now come against registered values as well from ibbi. So that's something that we were all discussing about all this. 
+
+
+## Sharing Screen
+4:23
+So I think we could start with our with sharing our screen, and we are still not sure whether this will become part one. Whether we'll be able to finish in part one or part two all depends upon the questions which we would like to answer. So please keep seeing the questions in case you come across a question, so we'll start taking the questions. 
+
+
+## Section 29A
+4:51
+We will do that. 
+
+4:52
+So the section 29a is primarily a section which is considered to be an eligibility for a resolution applicant. under a resolution process, resolution applicant is a person who actually is can submit a resolution plan for taking over the company and resolving the stress of the company. Section 29a was in fact inserted later on after the it was inserted almost about one year after the promulgation of IPC in India. 
+
+5:28
+So we will cover these three main parts: importance of section 29, capital A in cirp and liquidation process of verification under Section 29a, which Ankit activity will deal in detail, because Ankit is also doing a verification under Section 29a for various insolvency professionals independently, and also the relevant judgments on this would also be discussed and deliberated today. 
+
+
+## Importance
+5:59
+So first of all, the importance of section 29 a is basically: it is a key provision in determining the eligibility of resolution applicants for submitting a resolution plan in the cirp or corporate insolvency resolution process of a corporate director. So it is basically a multi layered and comprehensive standard of disqualification where there are total 10 Clauses and all the crosses are in fact very important, and it defines the eligibility of resolution applicant and the. 
+
+6:39
+This is where we, the government of India, wanted that the promoters should actually not come and take over the company. Although there was a big discussion in the matter of Swiss ribbon by the Supreme Court and it was argued. 
+
+6:59
+The Constitutional validity of this section 29 capital A was also argued and it was argued basis that there should be some difference between the tinted promoters, prevalent promoters or all those promoters who have suffered the market conditions and have incurred losses. So the finary Supreme Court rejected this argument and the 29a capital A was implemented. 
+
+7:28
+It was held as constitutionally valid and it was held that the company cannot be given back to the same promoters, even if they are involved into the production transactions or not involved. In fact, originally this section was not there. 
+
+7:46
+So in before this insertion of this section 29 capital A, every individual or a body, corporate, every promoter, every director, every shareholder could have submitted a resolution plan for taking your their own company, which in fact was into stress and for the same company, they were not able to run properly for the same company, they were not able to pay the dues of the creditors and therefore they defaulted and the IBC law. 
+
+8:16
+When it was promulgated on 1st of December 2016, there was no such Provisions that the promoters are debarred from taking over their own companies. So this was something which was in Laguna. It was very quickly. it was observed by government based on various feedback. 
+
+8:33
+So finally it was it was it was inserted by we of an ordinance on 23rd of November 2017,23rd of November 2017, so it was almost 11 months after the promulgation of the IBC. This was inserted. So this then the it was considered to be a very fatal loophole in the law allowing the back door entry to the defaulting promoters first. 
+
+9:03
+Originally the ordinance was issued and later on it was made as an amendment act 2018 and the amendment Act was passed on 19th January 2018. However, the effectiveness of this particular provision, section 29a, was from 23rd of November 2017, so the First Amendment, the ordinance, as I said it was effective from 23rd of August 2017 and the there was in fact some more amendments were done. the definition of resolution applicant was also changed. 
+
+9:38
+Originally, the resolution applicant was only any person who submits a resolution plan to a resolution professional. But when the amendment took place then the doors were opened for even a individually submitting or joint submission of a resolution plan. That was amended, and it was also amended that the reservation plan would be submitted. Resolution plan would be submitted post invitation post and imitation under section 25 Clause at subsection two. 
+
+10:12
+So originally, as section 25 to H was simply invite prospective lenders, investors and other persons to put forward a resolution a plan. But after this amendment, the it was. 
+
+10:26
+Section 25 subsection 2, Clause H was also amended and it was substituted, as the insolvency professional will only invite those resolution applicants who submit a plan who fulfill certain criteria laid down by him, with the approval of the committee of creditors and other conditions which may be specified by the insolvency and bankruptcy code. So why I brought this section 25 subsection 2, Clause H to this particular webinar today, because see when this particular Amendment came. 
+
+10:58
+So there were two eligibility criterias which is supposed to be specified by the committee of creditors in consultation with the resolution professional. one that eligibility criteria about that may be the specific eligibility criteria which can be considered, which can be framed considering the value of the company, considering the size of the company, considering the kind of investor required, kind of resolution applicant required for such companies. 
+
+11:31
+So that is the basis that there are two kinds of Eligibility. Eligibility tests. Now one test is that regarding the committee of creditor will create some tests and that can be some networks criteria. That can be some criteria for having a disposable liquid funds. The criteria can be having some kind of similar experience. The criteria can be having some kind of credit rating. 
+
+11:58
+The criteria can be some kind of experience in resolving or kind of Reviving companies under stress. so these are many kind of Eligibility criterias that can be stipulated by Committee of creditors, considering the total overall status of the company, the expected value to be realized, the kind of person, the kind of group. It is required for Revival. So and the second eligibility criteria would be as provided in section 29 capital A. 
+
+12:33
+So there are two eligibility criterias now and it has been held. It has been held that a resolution professional is having the first responsibility to verify the eligibility criterias as approved by Committee of creditors and also the eligibility criteria under Section 29 capital A. The primary duty to verify lies with the resolution professional. However, the committee of creditor will also approve a resolution plan if the resolution plan complies with the eligibility criteria. 
+
+13:10
+So the responsibilities almost joint. however, the primary responsibility of the resolution professional has already been held as primary, and the committee of creditors cannot absorb themselves by just saying that the RP verified. However, they also have to verify. They also have to see whether that kind of authentic verification has been done or not. This is what I could understand from some of the words used in the some of the judicial pronouncements. 
+
+13:42
+So going forward, we actually can say the. 
+
+
+## Four Layers of Ineligibility
+13:47
+The section 29, capital A was inserted. We could see there are four layers of ineligibility, four layers of inner legibility, because there are 10 Clauses, Clause a to J. There are 10 Clauses in section 29a and the all the 10 Clauses are applicable to number one first layer. Ineligibility with the resolution applicant itself is ineligible. 
+
+14:12
+Any of the Clause between a to J is applicable to resolution applicant itself, second layer, the connected person to resolution applicant is ineligible. So there are some Clauses which are not applicable to Connected persons. There are some Clauses which are applicable to Connected persons also. 
+
+14:28
+So there is a third layer, third layer is that is the and the related party of the connected persons of the resolution applicant also has to be qualified eligible then fourth layer is where a person is acting jointly in concert with a person suffering from first layer, second layer, third layer, ineligibilities. 
+
+14:49
+So if there are some people who are working jointly and they their related parties, their connected persons, all of them, all of them, has to be eligible under Section 29a. that's a very complicated section, but it is something which can be understood like when we go forward. 
+
+
+## Eligibility Criteria
+15:15
+We can definitely say what are these Clauses and how it is applicable. 
+
+15:20
+Now the when we see this section 29, capital A, it starts with A person shall not be eligible to submit a resolution plan if such person or any other person acting jointly or in concert with such person, any other person acting jointly or in concert no acting jointly can be seen. However, in concert means it has to be somehow some order may be required. 
+
+15:51
+These are these are the people they are actually acting in concert with someone. So then the eligibility criteria is applicable to the person and the joint applicant and also to the person who is working in concert with the person or the joint person. now coming to the first clause coming to the first Clause of section 29a. 
+
+16:15
+Like the this person, the ra, ra or the connected person, ra or the connected person or the related parties should it is, if it is if it should be an undischarged insolvent. If it is an undischarging solvent, then it becomes ineligible. Now, undisarged in solvent can be if a company is under cirp. 
+
+16:41
+That means they that company would not be eligible if any individual, if any individual is not, but if any individual is the is not on discharge in insolvent under the companies that are under the earlier presidential law or the other insolvency law regarding individuals, that also would be not eligible. 
+
+17:11
+So, Ankit, would you like to say anything about the undischarging solvents any so with respect to the with respect to the undischarged insolvents, the what happens is that in case of a company, the details are available on the ibbi website, whether that company in is in any way an understudied insolvent or not, because you can simply search on IBB website and try and find out if the company is in solvent. 
+
+17:36
+The second source of information for an ongoing insolvency for a company which is available today is the MCA data, because when we file Inc 28, the status of the master letter changes to undersirp. So these are two stages through which we are able to get information on whether companies and undischarged insolvent or not. 
+
+17:59
+However, with respect to a person, then we are mostly relying on a public search on Google or a search on the nclt or the DRT database. But there again it is sometimes difficult to find out if somebody is an undischarged insolvent in their personal capacity, although practically, of course, the whole PG insolvency or the individual insolvency process is going through a difficult time, but still that information is not centrally available some place today. 
+
+
+## Willful Defaulter
+18:35
+So for each Clause, you actually will guide the our viewers like: how would you verify such a clause for the, for the array, for their relatives, for their connected persons, for their subsidy companies, for their holding companies and their associate companies? So this is all that for every Clause that you will do this exercise and how would you verify? how would you use the information available on the public domain? 
+
+19:11
+How would you use this software that we are using? So the second, the Clause B is that the a resolution applicant or the connected person or the relative should not be a willful defaulter. Under the guidelines of the Reserve Bank of India. I should enter the banking regulation act. Now there is a master circular and Ankit. You can tell me better regarding the willful defaulter. 
+
+19:35
+So with respect to the willful defaulters, what happens here is that there is there are lists of willful defaulters which are published or, you know, rather notified through circulars, various circulars by RBI. so we have. 
+
+19:48
+What we have done internally is we have made a compendium, or rather a common document of what is available on rba's website, which becomes a searchable document then, and we simply search the name of the person who is the either the ra or in any way relative or a connected person, and when we search for that person and there is no result, we then kind of document that yes, this is how we've tried and find out, found out, in case that person is a willful defaulter. 
+
+20:18
+So willful defaulter is a process which actually is Guided by the RBI circulars under the banking regulation act. So any person in case the bank is trying to declare him as willful defaulter, the bank will have to go through a process, and that process would be completely defined in the RBA circular, and it is also said that if finally the personal, the individual who actually is likely to become who is proceeded for willful default or status, will have a personal hearing at least before the event executive, not less than executive director, and if anyone has actually been adjusted as declared as willful defaulted without going through this process, there is a remedy available and immediately stay would be available from the courts. 
+
+21:11
+So the process the for the bank, it is very important to complete the process and for the willful defaulter it should not be accepted in case they will, in case the process has not been completed by the bank officials as defined in the RBA Surplus. 
+
+
+## At the Time of Submission
+21:31
+Moving on to the third part, which is the Clause C and C and which is say that at the time of submission of the resolution plan. 
+
+21:40
+Now this is also going to dispute at what point of time the person should not be a NPA now the at the time of submission of a resolution plan, and it was substituted again. 
+
+21:52
+Second amendment in 2018, the at the time of a resolution plan, the has an account or because it is starting with the same language that the ra or the connected person or the relatives at the time of submission of a resolution plan has an account or an account of the copy data under the management or control of such person or of whom such person is a promoter is classified as NPA in accordance with the guidance of the RPA under the banking regulation Act or the guidelines of a financial sector regulator issued under any other law. 
+
+22:38
+For the time being in force and at least a period of one year has left from the date of such classification till the date of commencement of the corporate insolvency resolution process of the corporate data. there are disputes and there are judicial pronouncements on this particular Clause. 
+
+22:59
+One judicial pronouncement is that at the entry status, whether that status is there or not, that has to be seen at the time of submission of the resolution plan, not before and not later. 
+
+23:12
+So in case at the time of submission of residential plan there is no account which is and create, then the person will become eligible and in some cases, in some cases Insurgency in the asset steel also it was seen that the applicant is in. It was seen that the applicant is having that account which is NPA. 
+
+23:33
+Then it was actually held by the Supreme Court that in case we are giving a chance to the a resolution applicant, that the resolution applicant can make the payment of Overdose amount, convert that account into a standard account and then submit a resolution plan again, so then it will be eligible. 
+
+23:56
+So the Supreme Court in fact took that linear view that, rather than rejecting a resolution plan, provided an opportunity, and that's what is the very famous case. So therefore the at the time of resolution submission of resolution plan it should not be NPA and at least one year has been left. 
+
+24:16
+Now there are some Provisions to this clause and which say that the provided that the person shall be eligible to submit a resolution plan if such person makes the payment of all over to his amount within trust their own and charges relating to non performing assets account before submission of the resolution plan. 
+
+24:32
+So that's also very clear that in case the before submission of resolution plan that account is settled, then this early in ineligibility under this Clause would not be there. So there is a further. There is a further Proviso which says that nothing in this Clause shall apply to a resolution applicant which is of where such applicant is a financial entity and is not a related party to the corporate data. 
+
+24:56
+Now there are situations that the banks or financial institutions, or npfcs, or they can actually finance a particular project in such a manner that actually can be converted into Equity later on or in case of default, it can be converted into debentures or it can be converted into again some kind of preference shares. 
+
+25:24
+So in all those cases it is not applicable to a financial entity if it is not a related party to the corporate data. I'm coming to these other Clauses which says that there has to be a conversion of the debt. 
+
+25:39
+Now, in case we Analyze This clause, which is Clause C of the section 29a, then we can analyze in such a manner that at the time observation of resolution plan under Section 29a, the bars a person or persons acting jointly or in concert with such person who has a classified account as an who has an account classified as NPS? Secondly, is a promoter of a company? 
+
+26:06
+Is it promoter of a company, the account of which company has actually been classified as NPA? Third, is in the management of the corporate data, the account of which has been classified as the mpa. That means that he's a director. When we call it a promoter, that means that the substantial shareholder is in control of a copy data, the account of which has been classified as NPA. 
+
+26:29
+So these are the where this is a sub subsections subsection means these are the subdivision of that section. Is the Clause C. Again one segregation in case of one slicing can be done and that the at least one year should have elapsed from the date of amplit in the insolvent sequence mandate. 
+
+26:52
+Therefore, any company, including the promoters person in the management of the control of the company, which has a its account classified as NPA for at least one year, will not be able to file a resolution plan. However, the code provides for a car out that such person shall be eligible to submit resolution, makes payment of all the overdue amounts. 
+
+
+## Acceleration
+27:17
+and then coming to the explanations, then we come. 
+
+27:21
+When we come to the acceleration, then these explanations are primarily that financial sector Regulators anything which is converted into a substitution of debt into the equity shares or instruments convertible into Equity shares. That we can understand that if any Bank converts its debts into Equity, that doesn't make that bank as a related party, because the banks will have a different kind of scenario. 
+
+27:46
+So these are the explanations and the and the other part which is important is that this exploration 2 acquisition 2 says that for the product of this Clause where a resolution applicant has an account or an account of the cooperator under the management of control classified as NP, and such account was acquired pursuant to the resolution plan. 
+
+28:13
+So in case in case, like for example with Android, with antha takes over a company, with antha takes over a company under insolvency and starts the implementation. Now if anyone will see that vedanta has a company which was NPA and therefore that particular thing is also excluded. However, that is restricted to three years. 
+
+28:39
+In case the company which is taken over by vedanta continues to be a NPA for next three years, then with Anta would not be eligible under Section 29a. 
+
+
+## NPA
+28:52
+Before I move on to the D, how do you verify such things while you give a report on 29a eligibility? 
+
+29:04
+So with respect to the NPA, the largest, what we can sometimes ask for is the Civil report from the resolution applicant, and we then also sometimes ask for the civil report of the promoters of the resolution applicant. The other sources of this information are because it's NPA database. There is no one database. 
+
+29:32
+To kind of find out that if there are any npas, then we rely on these public databases, that is karza and Troop 42, to understand if there is any litigation ongoing between the person and any Bank, or is there any other such matter which might indicate that there might be an NPA? That is the way we are able to understand this, but there is no Central database for an MBA which is available to us publicly. 
+
+30:09
+The only source that is available then is Sybil, where banks have of course a gateway to check it, but we will have to then rely on the symbols shared by the by the ra itself. Sometimes we do. Sometimes we do also get credit ratings on Google credit ratings and can show a default rating. 
+
+30:37
+Sometimes that is something which is available publicly, so we can always enter the name of the person along with the credit, along with the word credit rating, and find out if there is any credit rating publicly available for that entity, because all credit trading agencies are required to publish online publicly the ratings that they have given for various entities and also Ankit like. 
+
+31:04
+We advise all our professional colleagues in solvency professionals that whenever they take documents from any prospective resolution, applicant or prospective bidder and there should be a format for information that would be provided by the applicants and that would include a declaration of their names of their collected persons, names of their connected companies, names of the their relatives and all that should be as an information, also as affidavit, and then we actually indeed in the detailed rfrp or in the detailed e option document we have also built in process that in case in case the Declaration which has been given on an affidavit by the applicant or by the bidder, in case that turns out to be incorrect, then their earnest money deposit would be forfeited. 
+
+32:04
+Then their understanding deposit would be forfeited. so these are the Clauses that we have built in our rfrp and also in the detailed e auction document. So therefore the information will come. Authentic information will come from the resolution applicant and the bidders. 
+
+
+## Clause D
+32:27
+Okay now moving on to Clause D, because we have to complete 10 such Clauses and then there are about more than 10 a very important judicial pronouncements from Supreme Court and from and clad and in. We are not even sure that we will be able to do it in one part, because we want to just discuss in dance, because at this particular time there may be some queries. So we can take some question answers here. 
+
+
+## Questions
+32:57
+There are about 12 questions, so let me ask the ones that seem to be relevant. So the first question is from Mr venkat. he's saying that can the promoter of corporate debtors submit a resolution plan if the corporate editor is an NPA of less than one year? So the answer to that should be yes. The answer to that should be yes. The promoters can submit if the NPA is less than one year old. 
+
+33:29
+Then we have to put the yes they can submit. Then the question from Heyman. G is a shareholder holding two person shares in a listed company now delisted. Can he be considered as ineligible under Section 29a? The 29a means it on discharge insolvent undistarched. It's a. It's a shareholder, like they see. They are saying that he's a shareholder of two percent of a company and that particular company is NPA. 
+
+34:03
+You know, I don't think he doesn't become a related party because the two percent is along with two percent. He should be a directory related party. Then we actually go to section 20, Section 5, subsection 24. That is the definition of related parties. So he has to be a promoter or a director. It can't be because he owns two percent shareholding right. 
+
+34:27
+Yes, then he has to be promoter and director, and that means promoter and director. In case two percent shareholding, then he should also have a directorship. Is saying, or rather commenting, that Financial creditors Banks would trigger IBC can give the willful defaulters details, as they have data. So I think the willful detail, willful default to detail, is available publicly. So therefore, passing this responsibility to the banks is something that we feel is not required. 
+
+34:58
+Rather NPA point of view. They can always help and check internally, but then there again they would only have data with respect to their own bank. They won't have data with respect to other Banks. NPA, that would be. The problem is asking: can we ask for a credit rating report from the individuals? In my opinion, yes. If it is required for 29a verification, we can always ask for credit rating reports. What is your opinion? 
+
+35:27
+Yeah, I don't think there is any credit Trading Company in India which is actually giving a rating on the individuals. I think he means Crystal civil repeat civil rating. He messaged credit rating symbolism is not a credit rating. Yeah, I got your point, but then I think it is about he's asking about civil report. 
+
+35:48
+Perhaps it is available, but the credit rating is not available with others which can impact the credit score of a particular person. Credit score is a different thing. Credit trading is different. Then anikeji is asking please elaborate on the sections and case references where promoters can submit resolution plans where the cases in NP NPA and but they are still in msme. 
+
+
+## Exemptions from Section 29A
+36:44
+Yes, in msme they can submit a resolution plan because for msme, Clause C and Clause H are Exempted. But still, in case they are not eligible under any other Clauses of section 29, capital A, then the promoters of section promoters of msme also would not be eligible under Section 29a because the exemption which has been given to msme is only for Clause C and Clause h of 29a. 
+
+37:09
+Clause C talks about the NPA status of the account and Clause H talks about the guarantee given by the by the applicant, and that guarantee has been invoked and it remains unpaid. So in most of the msme units, you would see that the guarantees have been given and the grantees also have been invoked, but it remains unpaid. So therefore, these two Clauses are Exempted for msme promoters. 
+
+37:41
+I think the next question is, in case the promoter shareholder is not a director in either a PG for debt available by the company, whether the promoter shareholder be ineligible under Section 29a, in case the company's classified as an NPA, and maybe when the company was incorporated. Maybe when he represented before the banks while taking the loan. 
+
+38:16
+Maybe when the company was being run by the promoter and also now, also now the Declaration that who all our promoters is also part of the balance sheets. Because this was an amendment that happened about two years back, where they realized that the disclosure that what is the shareholding of the promoter and what is the you know relationship of the promoter was missing. 
+
+38:38
+So that has been inserted now in all the MCA forms in the balance sheet formats, so that the company, when it is preparing the financial statements, is actually sharing that who all are the promoters. So it's already also part of the financial statements. 
+
+
+## Can a JV Partner
+38:55
+So okay so and what any next question? 
+
+38:59
+So if there is a Consortium of Banks and they have declared CD as NPA on different points of time from when period of one year is recommended, the earliest period, earliest period earlier this period should be the answer to that question. Can a JV partner there is a judgment on this? That the date when the bank declared the account as NPA, that is the date not the effective. 
+
+39:24
+Because if there are cases where the bank declares the particular account later, yeah, but it was actually yeah, but it was not being serviced as per the RBI Norms. It was earlier. So that is what you're saying. Effective is much earlier. So the effective date is not really important. The date on which it is declared as classified as unreal. That is important. that is that is the date as per as per annual Journey. 
+
+39:51
+So can a JV partner who was an independent company did projects in the past is ineligible under Section 29a JV partner. So the so in case there is an entity or a JV which is not an NPA but there is the but the entity with which. The Entity partners with for the JV, that entity becomes an NPA, in that case there shouldn't be any 29a compliance issue here. 
+
+
+## Can a JV Partner be NPA
+40:22
+You see, how come the JV if the JV is not an NPR. That if the JV is NPA then certainly there is a non. There is a 29 issue. Yeah, then it will be ineligible. yeah, but if the entity with which one is a JV partner is defaulting independently but the JV is still okay, then there shouldn't be any issue. 
+
+40:44
+Yes, I believe so, but I don't think that in case a company is NPA and if a company can create joint ventures and those joint ventures would not be considered as tainted or as a standard because NPA company promoting a joint venture that also will be considered as ineligible. As far as this section 29a is considered. Yes, so okay, past director who was on the boat 10 years back whether he's ineligible? I don't think so. 
+
+41:28
+You can't go back to 10 years and say that somebody was a director then when the company was healthy and therefore there is a 29a compliance. I think the NPA has to happen. yes. So I think we can continue and there will be other questions which we can take up later. 
+
+
+## Conviction under 12th Schedule
+41:48
+Okay, so we move on to cross d where the in case this resolution applicant or other collected persons, relatives, but that's what is the Clause say that has been convicted for any offense punishable with imprisonment for two years or more under any app specified under the 12th schedule. 
+
+42:10
+So this 12th schedule is a is given and it's a lot of act which are covered under this schedule, like this money laundering, pmla means Foreign Exchange Management act, Pollution Control Norms, tax income tax and decoration Securities Exchange Market. 
+
+42:30
+So these are all the I the acts of schedule 12 and there are many more acts where the conviction can happen for seven years or more for seven years or more under any law for the time being in force. So this is also very this is also something which is can be, which can be a very kind of diet, because how do you get the information about the conviction? 
+
+43:04
+Ankit conviction is again something which is we're relying on those databases only Kaza and Google search, because there is no other way where you can find out if there is any punishment or any criminal act going on. the only sources, these electronic databases like karza, which give us information on the active cases in this district courts, civil courts, as well as any other nclt or DRT with respect to that person. 
+
+43:42
+But there again the next once we find out that there is a case showing up there, we have to go and check that exact case, to find reference, to find reference whether that person was the exact person against whom this case was going on. Because even there is no matching of the pan or matching of any other unique number. 
+
+44:04
+So where the name matches, then we get a hint that there is a match in the name. But then the rest we will have to do you know otherwise. 
+
+
+## Special Provisions
+44:13
+so I think the two year conviction is specified in the under all those acts which are covered in 12th schedule and for seven years and more under any other law for the time being. But there is a special provision. 
+
+44:27
+There is a special Proviso that once this person is released from the imprisonment after two years, then this Clause will not be applicable. So this is not forever. This is for only two years from the date when he's released from the imprisonment. And also there is a Proviso which says that this particular Clause shall not apply in relation to a connected person. So this is not actually the. 
+
+44:56
+This is not something which will be applicable to the connected person, because there can be many relatives, there can be many other people who actually can be convicted. so this is also one of the very important Clause now going forward. Going forward, this is the Clause e, where the resolution applicant or the in this particular clause also is disqualified to act as a director under the company's Act. 
+
+45:28
+The Proviso says that this Clause shall not apply in relation to the connected persons referred to in clause three of acquisition one. So the connected person with this particular disqualification. In case there is a disqualification that will not be applicable because there may be many people who are disqualified under the company that even for smaller defense of not filing their compliances you know the companies. 
+
+45:53
+That in fact defines what is a what is the disqualification and what is who is a director who is disqualified, and there can be many such. there can be many such reasons, like one can be the directories of unsound mind. 
+
+46:09
+Director is insolvent or his case or his case is pending before the court on insolvency or unsound mind of unsound of mind, and then he shall have been sentenced for six months of imprisonment for an offense involving moral turpitude. An order has been passed by the court tribunal declaring him disqualified. He does not pay. He does not pay his calls on shares. He has been convicted of offenses dealing with the related party transactions. 
+
+46:45
+Under Section 188 of the companies Act, he is prohibited from acquiring director identification number. So these are some of the disqualification. These are some of the reasons for disqualification, Ankita. I think there are some more reasons for disqualification. That if a person is not finding if a company is not filing their returns for continuously three years, yeah, the characters of that company also will become disqualified under Section 188 of the companies Act. Is that correct? 
+
+47:15
+Yes, that is correct. So that is again something which is how would you verify this? So this is again something which is available on the MCA database. So one the connected person. What they have done now is that they've connected the dens with the pans. So all the din database search can be done using the pan number as well as the bin num din director identification number. 
+
+47:45
+So one practice that we follow is that we ask the resolution applicant to also share the din wherever it is available for the persons which are connected persons and the CD and all that. So based on the din search, you are able to find the status of the directors. Then if the din says it is active and compliant, then we are good. 
+
+48:07
+But if the din says that din search sees that the character is disqualified, then that then we can flag and kind of capture. Okay. So normally we are able to get this kind of information. Yeah, so then. 
+
+48:22
+But then the question here is that if somebody does not mention the din or somebody says that I don't have this person's pan number, in that case then it is only possible through a search of the name and not through this process. So that is a difficult process wherever the DIN and the pan are not available. 
+
+48:43
+So that means when we take the information from resolution applicants or bidders, we should ask for the names and the pan number also. Yeah, so one of the formats that we have. We say that whoever are the connected persons we need. We don't need the copy of the pan card for all the people we in it, but we need the din number and the pan number. 
+
+49:02
+And if K is in case you're not providing it, then maybe a decoration that the people for whom the DIN and the pan are not being provided do not have the dinner plan okay, great. 
+
+
+## Clause F
+49:14
+So moving forward to Clause f, that particular array or the connected person should not be prohibited by sebi Securities election board of India from trading in Securities or accessing the Securities Market. 
+
+49:29
+So there are regulations three and four of sebi prohibition of fraudulent and unfair Trade Practices relating to Securities Market regulations 2003. And when we see these regulations three and four, there are many such scenarios where the CB can prohibited person under these regulations from trading in Securities or accessing the Securities market. And you would probably see that there is a list of people like this. Every person is prohibited to buy. 
+
+50:06
+So this is the a clause where Ankit, how would you verify this clause? So again a little difficult. But then one has to make this database based on CB orders that are available on CB website. And then there is this vac database which kind of talks about this updated list of debug entities. 
+
+50:33
+So now this is on BSC website and one can download this file which lists down, gives you an Excel, the complete list of the bad entities by CB. 
+
+
+## Clause G
+50:47
+Okay, so that's also done. 
+
+50:49
+So we move on to Clause G, which is a clause which says that has been a promoter or like has been a promoter, or I would say director means the management or control of corporate data in which so if he has been a promoter or a director in which preferential transactions under Section 43 of IBC, undervalued transactions under section 45 or 49 of the IBC, extortionate credit transactions under Section 50 of the IBC, fraudulent transactions under Section 66 of the IBC has taken place and in respect of which an order has been made by their judicating Authority Under the code, it is only adjudicating Authority if that particular order is on in appeal. 
+
+51:36
+Still that person, that person will become ineligible to. that person will become ineligible to take over a company. And that's what is very clear here, and there is a Proviso that this Clause shall not apply if transaction has taken place prior to the acquisition of the cooperator by the resolution applicant. So this is what applicant. 
+
+51:59
+This is not applicable to those promoters who have taken over a company who have acquired a company through a resolution process under insolvency. So this is the another. this is something which we actually have to verify from the various companies which are under various companies where that particular resolution applicant or a connected person would have would have been a director or shareholder. 
+
+52:28
+And if any of those companies are under insolvency, then the third thing that we will verify is that, in case in any of these companies, any order has been passed under Section 43,45.49,50 or 66 by adjudicating Authority. So these are the kind of verification which is required for the Clause G. moving on to Clause h. 
+
+
+## Clause H
+52:55
+This is this particular Clause is also Exempted for msme corporate debtors in case the a resolution applicant or connected persons or relatives has executed a guarantee, has executed a guarantee in favor of a creditor and in respect of the corporate data against which an application for IBC insolvency resolution made by such creditor has been admitted under this code and such grantee has been invoked by the Creditor and remains unpaid in full or part. 
+
+53:32
+So there is some certain Clarity that I'm going to give that in case there is a grantee and then the grantee has been executed, the guarantee has been invoked and it still remains unpaid, but the company is not under IBC. Technically this Clause is not applicable in those cases. it is only applicable to those cases where that particular company is under IBC in cirp or in liquidation. 
+
+54:07
+So this Clause where it is Exempted to IB the in the msme. So there is a judgment also in this case rbl Bank limited versus MBL infrastructure limited, relevant to this clause h of section 29a. So this also we will take up when we go to the judicial pronouncements. So then we have this Clause I from we have seen a, b, c, d, e, f, g, h i. 
+
+54:46
+So this I is basically a applicability of all the Clauses from a to H and that those Clauses are as subject to any disability corresponding to Clauses a to H under any law in a jurisdiction outside India. 
+
+55:03
+So this particular, this particular Clause says that all the disabilities which are mentioned in Clauses a to H and any kind of jurisdiction is not important, even if these disabilities are in India or these disabilities are under any jurisdiction outside India. The Clause I actually makes that person as disqualified under Section 29a. 
+
+55:37
+Even if he is debarred from a regulator marketing regulating the Securities Market overseas, then it will be again ineligible in case he's been convicted for a for a for a sentence of two years or seven years. Again he would be ineligible. It doesn't matter whether this particular Clause, this particular, offenses in India or outside India. And then we are now coming to the connected person, which is the most controversial part of this section. connected person. 
+
+56:20
+The Clause J says: has a conducted person not eligible under Clauses a to I, has a conducted person not eligible under a to I, a person who is connected to the persons defined under the accumulation shall be disqualified if the other person suffers disability under Clauses a to I of section 29a. Now the connected persons has been defined. Connected person has been defined by view of an explanation. 
+
+56:48
+Clause 3 of the acceleration says that the for the purpose of this Clause, the expression connected person means any person who is the promoter or, in the management or control of the resolution applicant, any person who is the promoter or director I would say any person who is the promoter or director of the ra is a connected person. so first of all, let's say the connect a. 
+
+57:19
+The array is a, so the promoter of a and the directors of a is also connected person then going forward, any person who shall be the promoter or in the management of control of the company after the implementation. During the implementation, like whenever we've submitted resolution plan, we always see that who would be the director in the company and who would hold these shares in the company. 
+
+57:44
+So, therefore, when we approve a resolution plan, we always insist that we need to understand who would be the director and who would be the shareholders of this company during implementation of the reservation plan. So, but then this Clause is not applicable. once the implementation is complete, therefore, the any proposed director or the proposed shareholder, they also should be eligible under Section 29a. 
+
+58:15
+Then the third is the holding company, subsidy company, associate company or a related party of a person referred to in Clause 1 and 2. Now this is something which is the most important part, most important part of me. This is most crucial where, in fact, the when we say that related party now like the resolution applicant. For example, the resolution applicant is Mukesh Ambani and Mukesh money has a relative who is Anil Ambani. 
+
+58:52
+Until the money is not eligible under section under Clause C of section 29a also would not become eligible to take over any company. Mukesh Ambani will also not be eligible to take over any company under the IBC. however, however, the Supreme Court has held in the case of Swiss ribbon that in case in case a relative is not eligible under Section 29a, but they are not doing business with the ra, then they are eligible. 
+
+59:33
+So that means if the under the Bunny and the Mukesh Ambani are not doing business together, then they are eligible. In case they are doing business together, then they are not eligible. So Ankit, what is the now scenario? 
+
+59:47
+Because since we have now gone through the provisions of the law and the Clauses are still further, we have to Define, but we can see in case there are questions or let me the definition like as I said that we have already analyzed this definition, so we actually can say that let's understand about the questions that we have now. 
+
+1:00:12
+So the question Ravi is asking a question is saying that nclt is also rejecting plan, even if puff filed and not yet adjudicated on the ground, the 29a compliance is not there for the resolution plan resolution applicant. So I think you can share this order. 
+
+1:00:30
+Maybe this is a one off order that has done this, but I don't think the interpretation of 29 is that any under adjudication avoidance transaction will also cause the cause, the failure of the 29a compliance or resolution applicant. I guess you're right. Yes, you're right, because see what some any such order doesn't make the law. 
+
+1:00:58
+The law is very clear that it has to be ineligible only after then after an order is passed by their dedicating Authority. then if there's a question from RP Gupta ji, he says he is asking if these CD is not registered as msme before the commencement of CRP, whether RP May register the CD as MSM. You know that's not something that is appreciated to anyone. Yeah, it is. No, I think this okay. 
+
+1:01:26
+There are people in case the promoter is registering the company as msme because the promoter doesn't have any Authority after the circumvents. So there was a case where motor register itself as you register the company without even giving any information to the Erp. Oh for motor was authorized to do this, so that was rejected. 
+
+1:01:48
+However, if the RP registers it as then it will definitely have the benefit of exemption which is provided in the law under Section 240 capital A, where Clause C and Clause H are Exempted to msme corporate debtors. So this is a important that the RP can. 
+
+1:02:12
+RP can register the company during cirp, because if the RP cannot do something which is unauthorized because the Hindi, in case the company is eligible to be registered as msme, it can be registered. That's only a compliance. It has to be done. 
+
+1:02:28
+Yeah, another question is that if the promoter of an of a CD which is an msme company, if that promoter loses or is a disqualified director, will there be an exemption because there is he's an msme? The company is an msme. no, sorry, can you come again. If the promoter of a company is a disqualified director, he can't be a director because he's disqualified as a director but he is a promoter of that CD. 
+
+1:02:53
+So in that process, if the CD is an msme, then the question is that will that msme based exemption be available for disqualified directors? I don't think right. That's yeah. So I think I think there are a few questions on the mukesha money and the other money connection. I think we can deal with it next time. We are already five minutes up and we can take other questions in the next session as well. 
+
+1:03:27
+So we'll take down these questions and we will take up. so what we are now going to do that there are this is a lot more substantial information is available, like how to verify the 29 verification and all kind of the judicial pronouncements that will come as part two of these same subject, because we wanted to deal with this subject very carefully. So it is very important. There are a lot of confusions. 
+
+1:03:55
+So, along with the judicial pronouncements, along with the verification processes that we follow, so that all may follow, this is important that we should not hurry up. So therefore we decide to do it in two parts and the in the next part, we will do the other, the judicial pronouncements and the process of verification. 
+
+1:04:19
+I hope this webinar would have been useful to all of you and we are definitely again excited about the increasing number of participation in our webinars. Some kids should be concluded. yep, yep, thank you, thank you, thank you everyone. 

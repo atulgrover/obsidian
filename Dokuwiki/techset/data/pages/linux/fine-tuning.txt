@@ -1,0 +1,3 @@
+^Fine Tuning   ^ USA         ^ China ^ India ^ 
+|Embedding     | Nomic Embed |       |       | 
+|Small Language| Mistral 7B  |       |       |

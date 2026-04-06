@@ -1,0 +1,35 @@
+====== Open a Ticket ======
+
+<form>
+Labels .:labels
+
+action template :tickets:ticket :tickets:@@ticketid@@
+
+Action mail atulgroverr@gmail.com @@email@@
+Usemailtemplate .:mail
+Subject "Ticket - @@ticketid@@ - @@priority@@ - @@subject@@"
+Thanks "Thank you, We have successfully received your ticket. Our support team will review the issue and get back to you as soon as possible."
+
+Fieldset "Contact Information"
+Textbox  full_name
+Textbox  email
+Textbox  phone
+
+Fieldset "Issue"
+Select priority "Low|Normal|High|Critical"
+Textbox  subject
+Textarea  description
+Yesno attachments
+
+Fieldset "Upload Images" attachments
+File file1 ..: !
+File file2 ..: !
+File file3 ..: !
+File file4 ..: !
+File file5 ..: !
+
+Fieldset "Create your Ticket"
+Hiddenautoinc ticketid
+Hidden created "=%Y-%m-%d %H:%M"
+Submit open
+</form>

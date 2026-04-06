@@ -1,0 +1,18 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1762049748;s:8:"modified";i:1762049748;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:10:{s:4:"date";i:1762049748;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:13:"tickets:start";s:4:"user";s:0:"";s:3:"sum";s:23:"created - external edit";s:5:"extra";s:0:"";s:10:"sizechange";i:1122;s:9:"timestamp";i:1762049748;s:4:"mode";s:4:"page";}s:12:"plugin_const";a:1:{s:10:"invalidate";b:0;}s:5:"title";s:7:"Tickets";s:11:"description";a:2:{s:15:"tableofcontents";a:7:{i:0;a:4:{s:3:"hid";s:7:"tickets";s:5:"title";s:7:"Tickets";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:15:"oldest_ticket_s";s:5:"title";s:16:"Oldest Ticket(s)";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:17:"critical_ticket_s";s:5:"title";s:18:"Critical Ticket(s)";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:13:"open_ticket_s";s:5:"title";s:14:"Open Ticket(s)";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:15:"solved_ticket_s";s:5:"title";s:16:"Solved Ticket(s)";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:5;a:4:{s:3:"hid";s:15:"closed_ticket_s";s:5:"title";s:16:"Closed Ticket(s)";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:6;a:4:{s:3:"hid";s:17:"archived_ticket_s";s:5:"title";s:18:"Archived Ticket(s)";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:150:"Tickets
+
+New Ticket
+Template
+Mail
+Labels
+
+Oldest Ticket(s)
+
+Critical Ticket(s)
+
+Open Ticket(s)
+
+Solved Ticket(s)
+
+Closed Ticket(s)
+
+Archived Ticket(s)";}s:8:"relation";a:2:{s:10:"references";a:4:{s:11:"tickets:new";b:1;s:14:"tickets:ticket";b:1;s:12:"tickets:mail";b:1;s:14:"tickets:labels";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:0;s:3:"toc";b:0;}}s:10:"persistent";a:5:{s:4:"date";a:1:{s:7:"created";i:1762049748;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:10:{s:4:"date";i:1762049748;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"C";s:2:"id";s:13:"tickets:start";s:4:"user";s:0:"";s:3:"sum";s:23:"created - external edit";s:5:"extra";s:0:"";s:10:"sizechange";i:1122;s:9:"timestamp";i:1762049748;s:4:"mode";s:4:"page";}s:12:"plugin_const";a:1:{s:10:"invalidate";b:0;}}}

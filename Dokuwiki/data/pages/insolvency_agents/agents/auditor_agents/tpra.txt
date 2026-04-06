@@ -1,0 +1,113 @@
+{
+  "agentName": "Transaction Pattern Recognition Agent (TPRA)",
+  "agentDescription": "Analyzes large volumes of financial transaction data using machine learning and rule-based systems to detect patterns indicative of potential Preferential, Undervalued, Fraudulent, or Extortionate (PUFE) transactions, as relevant under insolvency laws (e.g., IBC Sections 43, 45, 50, 66). Flags suspicious activities for detailed investigation by forensic auditors.",
+  "version": "1.0",
+  "status": "Conceptual",
+  "goals": [
+    "Efficiently process and analyze large datasets of financial transactions (bank statements, ledger entries).",
+    "Identify known patterns associated with PUFE transactions (e.g., transactions near the insolvency commencement date, transfers to related parties, unusual timing or amounts, transactions without apparent economic rationale).",
+    "Detect anomalous transactions or sequences that deviate significantly from the debtor's normal financial behavior.",
+    "Highlight potential round-tripping, layering, or other complex transaction structures.",
+    "Reduce manual effort in preliminary transaction screening.",
+    "Generate a prioritized list of transactions/patterns requiring further forensic investigation.",
+    "Identify potential dissipation of assets or diversion of funds."
+  ],
+  "keyCapabilities": [
+    "Data Ingestion & Integration: Connects to diverse data sources (bank statement exports, ERP systems, accounting software).",
+    "Data Cleansing & Standardization: Prepares raw transaction data for analysis (handling missing values, standardizing descriptions).",
+    "Feature Engineering: Creates relevant features from transactions (e.g., time proximity to insolvency date, relation to known parties, transaction frequency/velocity, deviation from historical norms).",
+    "Rule-Based Filtering: Applies predefined rules based on statutory definitions and common red flags for PUFE transactions.",
+    "Machine Learning Anomaly Detection: Uses algorithms (e.g., Isolation Forest, One-Class SVM, Clustering, Autoencoders) to identify transactions statistically different from the norm.",
+    "Supervised Learning (Optional): If trained on labelled historical data, classifies transactions based on learned PUFE characteristics.",
+    "Related Party Transaction Identification: Flags transactions involving known related parties (requires input list).",
+    "Network Analysis (Optional/Advanced): Visualizes fund flows between accounts/entities to detect complex schemes.",
+    "Risk Scoring: Assigns risk scores to flagged transactions based on the severity and number of red flags detected.",
+    "Explainable AI (XAI): Provides reasons/factors contributing to why a specific transaction or pattern was flagged."
+  ],
+  "targetUsers": [
+    "Forensic Auditors",
+    "Insolvency Professionals (IPs) / Resolution Professionals (RPs)",
+    "Liquidators",
+    "Legal Teams handling avoidance applications"
+  ],
+  "inputDataRequirements": [
+    "Detailed Bank Statements (all relevant accounts, preferably electronic format).",
+    "General Ledger and Sub-ledger transaction data.",
+    "Accounts Payable / Accounts Receivable records.",
+    "List of known Related Parties (as per Companies Act / Accounting Standards).",
+    "Relevant Dates (Insolvency Commencement Date, start of look-back periods defined by law).",
+    "Debtor's historical financial statements (for establishing norms).",
+    "Asset Registers / Loan details (contextual information)."
+  ],
+  "outputFormats": [
+    "List of Flagged Transactions/Patterns (CSV, XLSX, JSON) - including transaction details, detected pattern/anomaly type, risk score, explanation.",
+    "Suspicious Activity Report (PDF, HTML) summarizing key findings.",
+    "Data Visualization Dashboards showing trends, outliers, and potentially network graphs.",
+    "Prioritized worklist for forensic auditors.",
+    "Audit trail of analysis performed."
+  ],
+  "potentialBenefits": [
+    "Significantly accelerates the review of vast amounts of transaction data.",
+    "Increases the likelihood of detecting sophisticated or hidden PUFE transactions.",
+    "Allows auditors to focus investigative efforts on the highest-risk areas.",
+    "Provides objective, data-driven basis for further inquiry.",
+    "Supports the identification and quantification of recoverable assets.",
+    "Enhances consistency in the preliminary review process."
+  ],
+  "requiredTools": [
+    {
+      "toolCategory": "Data Acquisition & Integration",
+      "tools": [
+        "Database Connectors (SQL, specific ERP connectors if possible)",
+        "File Parsers (CSV, Excel, fixed-width, potentially specific bank formats like MT940)",
+        "Optical Character Recognition (OCR) tools (if dealing with scanned statements)",
+        "ETL (Extract, Transform, Load) tools (e.g., Talend, Informatica, or custom scripts using Pandas/Spark)"
+      ]
+    },
+    {
+      "toolCategory": "Data Processing & Analysis",
+      "tools": [
+        "Data Manipulation Libraries (Pandas, Dask, Apache Spark - for scalability)",
+        "Numerical Computation Libraries (NumPy)"
+      ]
+    },
+    {
+      "toolCategory": "Machine Learning & AI",
+      "tools": [
+        "Core ML Frameworks (Scikit-learn - essential for anomaly detection, clustering, classification)",
+        "Deep Learning Frameworks (Optional - TensorFlow, PyTorch for Autoencoders)",
+        "Explainable AI (XAI) Libraries (SHAP, LIME)",
+        "Statistical Libraries (SciPy, StatsModels)"
+      ]
+    },
+    {
+      "toolCategory": "Network/Graph Analysis (Optional)",
+      "tools": [
+        "Graph Libraries (NetworkX)",
+        "Graph Databases (Neo4j, TigerGraph - for storing and querying relationships)",
+        "Graph Visualization Tools (Gephi, Cytoscape.js)"
+      ]
+    },
+    {
+      "toolCategory": "Data Storage",
+      "tools": [
+        "Relational Databases (PostgreSQL, MySQL - for structured transaction data, results)",
+        "Data Warehouses / Data Lakes (Snowflake, Redshift, S3 - for large volumes)"
+      ]
+    },
+    {
+      "toolCategory": "Reporting & Visualization",
+      "tools": [
+        "Data Visualization Libraries (Matplotlib, Seaborn, Plotly, Bokeh)",
+        "Business Intelligence Tools (Tableau, Power BI, Qlik Sense)",
+        "Reporting Libraries (ReportLab for PDFs)"
+      ]
+    },
+    {
+      "toolCategory": "Workflow Orchestration",
+      "tools": [
+        "Workflow Management Tools (Airflow, Prefect, Dagster)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+====== Types of prompts ======
+
+There are various types of prompts used in AI, each serving a specific purpose.
+
+===== Direct prompts (Zero-shot) =====
+Zero-shot prompting involves providing the model with a direct instruction or question without any additional context or examples.
+
+An example of this is idea generation, where the model is prompted to generate creative ideas or brainstorming solutions. Another example is summarization or translation, where the model is asked to summarize or translate a piece of content.
+
+===== One-, few- and multi-shot prompts =====
+This method involves providing the model with one or more examples of the desired input-output pairs before presenting the actual prompt. This helps the model better understand the task and generate more accurate responses.
+
+===== Chain of Thought Prompts =====
+Chain-of-thought (CoT) prompting encourages the model to break down complex reasoning into a series of intermediate steps, leading to a more comprehensive and well-structured final output.
+
+===== Zero-shot CoT Prompts =====
+Zero-shot CoT combines chain-of-thought prompting with zero-shot prompting by asking the model to perform reasoning steps, which often produces better output.
+
+===== Use cases and examples of prompt engineering =====
+==== Language and Text Generation ====
+|Creative Writing|Craft prompts that specify genre tone style and plot points to guide the AI|Write a short story about a young woman who discovers a magical portal in her attic|
+|Summarization|Provide the AI with text and instruct it to generate concise summaries that capture key information|Summarize the main points of the following news article on climate change|
+|Translation|Specify the source and target languages to enable accurate translation|Translate the following text from English to Spanish- The quick brown fox jumps over the lazy dog|
+|Dialogue|Design prompts that simulate conversations and maintain context|You are a friendly chatbot helping users troubleshoot problems. Respond to- My computer wont turn on|
+
+==== Question Answering ====
+|Open Ended Questions|Encourage comprehensive and informative answers based on the AI knowledge|Explain quantum computing and its impact on future technology|
+|Specific Questions|Target specific information precisely|What is the capital of France? What are the main causes of deforestation?|
+|Multiple Choice|Present options and prompt selection of the correct one|Who wrote Harry Potter? A Tolkien B Rowling C King|
+|Hypothetical Questions|Explore hypothetical situations and reason through possible outcomes|What would happen if humans could travel at the speed of light?|
+|Opinion Based Questions|Ask for the AI perspective with justification|Will AI surpass human intelligence? Why or why not?|
+
+==== Code Generation ====
+|Code Completion|Provide partial code and ask the AI to complete it|Write a Python function to calculate factorial|
+|Code Translation|Translate code from one language to another|Translate Python to JavaScript- def greet name print Hello name|
+|Code Optimization|Ask AI to optimize code for speed readability or efficiency|Optimize this Python code to reduce execution time|
+|Code Debugging|Provide buggy code and ask AI to identify the issue|Debug this Java code and explain the NullPointerException|
+
+==== Image Generation ====
+|Photorealistic Images|Describe desired objects scenery lighting and style|A photorealistic sunset over the ocean with palm trees silhouetted|
+|Artistic Images|Specify art styles techniques or moods|An impressionist painting of a city street with umbrellas in the rain|
+|Abstract Images|Use shapes colors and textures to evoke concepts or emotions|An abstract image representing hope using bright colors and flowing shapes|
+|Image Editing|Provide an image and describe modifications|Replace the background with a starry night sky and add a full moon. Remove the person and add a cat|

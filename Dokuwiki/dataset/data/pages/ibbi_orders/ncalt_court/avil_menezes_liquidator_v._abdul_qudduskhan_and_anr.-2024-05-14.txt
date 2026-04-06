@@ -1,0 +1,433 @@
+<html>
+<div>
+	<h2>
+		Avil Menezes vs Abdul Qudduskhan And Anr on 14 May, 2024
+	</h2>
+	<h3>
+		Author: Ashok Bhushan
+	</h3>
+	<h3>
+		Bench: Ashok Bhushan
+	</h3>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL PRINCIPAL BENCH: NEW DELHI Company Appeal (AT) (Insolvency) No. 263 of 2024 (Arising out of the Impugned Order dated 21st November, 2023 passed by the 'Adjudicating Authority' (National Company Law Tribunal, Mumbai Bench in IA/535/2022 in C.P. (IB) No.2295/NCLT/MB/2018]IN THE MATTER OF:Avil MenezesLiquidator of Sunil Hitechand Engineers LimitedHaving office at:106, 1st Floor, Kanakia Atrium 2,Cross Road A, Behind Courtyard Marriott,Chakala, Andheri East,Mumbai City, Maharashtra - 400093 ...AppellantVersus1. Abdul Qudduskhan Having office at: Proprietor, M/s RBM Enterprises Islamour, Po - Tulati PS - Korel, Dist - Jajpur ...Respondent No.12. Ashish Arjunkumar Rathi Erstwhile Resolution Professional of Sunil Hitech Engineers Ltd. Having office at: 19/503, N R I Complex, Sector 54, 56, 58, Seawood, Nerul, Navi Mumbai, Maharashtra - 400706 ...Respondent No.2Present:For Appellant : Mr. Dhrupad Vaghani, Mr. J. Rajesh, Mr. J.S. Khurana and Mr. Aniket Mookerjee, Advocates.For Respondent : Mr. Anukul Raj, Ms. Nikita Raj, Mr. Amit Tungare, Mr. Shashwat Anand, Mr. Prabhat Ranjan, Mr. Tushar Bhalla, Mr. Prateek Sharma and Mr. Shashwat Parihar Advocates.Company Appeal (AT) (Insolvency) No. 263 of 2024 1 of 27 JUDGMENT
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(Hybrid Mode) [Per: Arun Baroka, Member (Technical)] The Appellant is the Liquidator of the Corporate Debtor i.e., Sunil Hitech Engineering Ltd. (SHEL) and the psent appeal under Section 61 of the Code is against the Impugned Order dated 21st November 2023 passed in IA/535(MB)/2022 in CP (IB) 2295/NCLT/MB/2018, by the Adjudicating Authority, Mumbai Bench, allowing the claims during the CIRP to be treated as CIRP costs.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Brief Background of the case:
+	</p>
+	<p title="Issue">
+		2. On November 18, 2014, National Thermal Power Corporation Limited (NTPC) issued a Letter of Award to the Corporate Debtor (SHEL) to construct CW Systems and MUW Systems Civil Works for the Darlipali Super Thermal Power Project, Odisha. On February 27, 2018, the Corporate Debtor (SHEL) entered into a sub-contract with Respondent No. 1/ M/s RBM Enterprises, appointing it to fabricate and erect CW ducts at the NTPC project site at Darlipali, Odisha. The work order was issued in favor of Respondent No. 1 and was a sub-contract under the main contract executed between the Corporate Debtor and National Thermal Power Corporation Limited ("NTPC") on back-to-back basis. In September 2018, the Adjudicating Authority initiated the Corporate Insolvency Resolution Process (CIRP) against the Corporate Debtor and appointed Mr. Harshad Deshpande as the Interim Resolution Professional (IRP). Following this, a public announcement was made inviting claims from creditors. Subsequently, Mr. Ashish Rathi was Company Appeal (AT) (Insolvency) No. 263 of 2024 2 of 27 appointed as the Resolution Professional (RP), and later on an Interlocutory Application for liquidation of the Corporate Debtor was filed and admitted in June 2019.
+	</p>
+	<p title="Issue">
+		3. As per the Liquidation Order, Mr. Avil Menezes, the Appellant, was appointed as the liquidator. Upon his appointment, the Appellant invited claims from creditors, and Respondent No. 1 submitted a claim for an amount of INR 1,36,41,854/-, relating to fabrication and erection works at the Darlipali project site. The Appellant, after a meeting with Respondent No. 1 and other secured creditors, determined that the claimed amount did not qualify as CIRP cost. Respondent No. 2, the former Resolution Professional, also confirmed this stance during the meeting, stating that only running costs during the CIRP period were considered as CIRP costs. Respondent No. 1 disputed this decision and demanded immediate payment, claiming that its dues were indeed CIRP costs. The Appellant responded, reiterating that the claim did not meet the criteria for CIRP costs and would be processed under Section 53 of the Insolvency and Bankruptcy Code (IBC).
+	</p>
+	<p title="Issue">
+		4. Thereafter, Respondent No. 1/subcontractor then filed an Interlocutory Application No. 162 of 2021 seeking direction for its claim to be treated as CIRP cost. Following the Adjudicating Authority's direction to process the claim on merits, the Appellant reviewed the claim but maintained that it did not qualify as CIRP cost, citing the decision of the Committee of Creditors (CoC) and relevant provisions of the IBC and regulations.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) No. 263 of 2024 3 of 27
+	</p>
+	<p title="Issue" data-structure="Issue">
+		5. Respondent No. 1, dissatisfied with this decision, filed another Interlocutory Application No. 535 of 2022 before the Adjudicating Authority, seeking classification of its claim as CIRP cost. The Appellant- Liquidator contested this, arguing that the claim did not meet the requirements outlined in the IBC, Regulations, and CoC decisions. The Adjudicating Authority, however, directed the Appellant to admit the dues of Respondent No. 1/subcontractor as CIRP cost, prompting the Appellant to file the psent appeal.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		6. The Appellant has urged this Tribunal to overturn the Adjudicating Authority's order and classify the claimed amount as non-CIRP cost, aligning with CoC decisions, regulatory provisions, and contractual terms.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		7. Heard the counsels of both sides and also perused the records. Submissions of the Appellant/Liquidator and Respondent No.2/ erstwhile Resolution Professional (RP)
+	</p>
+	<p title="Fact" data-structure="Facts">
+		8. As noted earlier, the Resolution Professional ("RP") of the Corporate Debtor, filed an Interlocutory Application under Section 33 of the Code for the liquidation of the Corporate Debtor. It was admitted by the Adjudicating Authority vide order dated 25.06.2019 ("Liquidation Order") and Mr. Avil Menezes, the Appellant herein was appointed the liquidator of the Corporate Debtor. The Appellant as liquidator in turn invited claims by publishing the Public Announcement as required by Regulation 12 of the Liquidation Regulations, 2016.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) No. 263 of 2024 4 of 27
+	</p>
+	<p title="Issue" data-structure="Issue">
+		9. The Appellant- liquidator received a claim dated 26.07.2019 filed by Respondent No. 1 claiming an amount of INR 1,36,41,854/- (Indian Rupees One Crore Thirty-Six Lakhs Forty One Thousand Eight Hundred and Fifty Four Only) out of which, Rs. 1,25,84,249/- (Indian Rupees One Crore Twenty- Five Lacs Eighty-Four Thousand Two Hundred and Forty-Nine Only) was for work completed by Respondent No.1 during the CIRP Period and Rs.10,57,605/- (Rupees Ten Lakhs Fifty Seven Thousand Six Hundred and Five only) was for work before CIRP period. This claim pertains to the execution of fabrication and erection works of CW ducts at the project site at Darlipali.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		10. Pursuant to the Liquidation Commencement, Respondent No. 2, i.e., the erstwhile Resolution Professional of the Corporate Debtor had provided the Appellant with an estimated overall CIRP Costs incurred during the CIRP. However, there was a significant difference in the estimated CIRP cost provided by Respondent No. 2/ Resolution Professional and the cost recorded in the books of the Corporate Debtor. It was therefore, decided by the Appellant and Secured Creditor that a meeting should be held between the Appellant, Respondent No. 2 and the top four secured creditors to discuss the above said issue. Accordingly, a meeting was held with Respondent No. 2 and the top four secured creditors of the Corporate Debtor on 19.11.2019.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		11. In the meeting mentioned above, Respondent No. 2/ Resolution Professional said that as per his understanding and based on the legal advice received from his legal advisor, only the running cost shall be considered as Company Appeal (AT) (Insolvency) No. 263 of 2024 5 of 27 the CIRP costs and not otherwise. He further stated that those projects running during the CIRP period were only considered for CIRP Costs. Further, as per Respondent No. 2/ Resolution Professional, the Darlipali Plant of the Corporate Debtor was terminated during the CIRP Period. Therefore, the works undertaken by Respondent No.1/subcontractor did not maintain the Corporate Debtor as a "going concern". And for this reason Respondent No. 2/ Resolution Professional did not consider the cost incurred by Respondent No.1/subcontractor as part of the CIRP Cost. Further, the issue regarding the inclusion of vendor payments in CIRP Cost was earlier discussed with the Committee of Creditors of the Corporate Debtor in the 5th and 10th CoC meetings held on 11.01.2019 and 03.06.2019 respectively, wherein it was decided that payments to vendors working at a particular project would be made from the cash flow received from the customers for such tasks.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		12. The Appellant submits that after the meeting held on 19.11.2019, the Appellant vide email dated 04.02.2020, informed Respondent No.1/subcontractor that an amount of INR 1,18,49,261/- (Indian Rupees One Crore Eighteen Lakhs Forty Nine Thousand Two Hundred and Sixty-One only) had been admitted, which shall be paid in the liquidation process as per the provisions of Section 53 of the Code.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		13. After receiving the above-mentioned email, the Respondent No.1 issued a legal notice to the Appellant demanding immediate payment of its dues on the ground that the cost incurred by the Appellant was part of the CIRP cost. The Appellant, vide email dated 07.10.2020, responded to the above legal Company Appeal (AT) (Insolvency) No. 263 of 2024 6 of 27 notice wherein the Appellant clearly stated that the dues of Respondent No.1 were not classified as CIRP costs by Respondent No. 2 and, therefore, the Appellant cannot treat the claim of Respondent No. 1 as a CIRP cost. And the same would be distributed following Section 53 of the Code.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		14. Being aggrieved, Respondent No. 1 filed an Interlocutory Application No. 162 of 2021 before the Hon'ble Adjudicating Authority. Vide Order dated 14.12.2021, Adjudicating Authority directed the Respondent No.1 to submit his claim to the Appellant, and the Appellant was directed to process the amount claimed on merits as per Rules and Regulations of the Code. After due consideration of the submitted claim and in compliance with the Order of the AA dated 14.12.2021, the Appellant informed Respondent No. 1 that its claim cannot be considered or treated as CIRP Cost as the same is not considered as CIRP Cost by Respondent No. 2 and will be paid as per Section 53 of the Code.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		15. Being aggrieved by the decision of the Appellant, Respondent No. 1/subcontractor once again pferred the captioned Interlocutory Application No. 535 of 2022 under Section 42 and Section 53 of the Code before the Adjudicating Authority, which in turn allowed the claims to be treated as CIRP costs.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		16. The Appellant is aggrieved by the direction in the Impugned Order to admit the dues of the Respondent as CIRP Cost. It is submitted that the Impugned Order incorrectly observed that Respondent No. 1's dues must be Company Appeal (AT) (Insolvency) No. 263 of 2024 7 of 27 classified as CIRP cost. This interptation is contrary to the (a) the decision of the CoC and (b) contrary to the interptation of CIRP cost under Section 5(13) of the Code and Regulation 31 of the CIRP Regulations and also (c) payment terms under the contract dated 27.02.2018.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		17. The Appellant submits that Respondent No. 2, i.e., the erstwhile Resolution Professional, did not consider the claim amount of Respondent No.1 as CIRP Cost as the project at the Darlipali site was terminated during the CIRP Period and, therefore, it was not maintaining the Corporate Debtor as a "going concern". This fact was also pleaded by Respondent No. 2 in its Affidavit in Reply, wherein it has been stated that the Darliparli Plant was an inactive construction site, which did not further the cause of maintaining the Corporate Debtor as a "going concern". As per Section 5(13)(c) of the Code r/w Regulation 31(e) of the Liquidation Regulation 2016 and Clause 8(a) of the IBBI Circular, any expense would form part of the CIRP Cost if such cost/expense is incurred towards maintaining the Corporate Debtor as "going concern" and also approved by the committee of creditors. Adjudicating Authority failed to consider that it was the decision of the CoC to exclude the cost incurred from the terminated projects which is not maintaining the Corporate Debtor "as going concern". This can also be confirmed from the Minutes of Meeting for discussion on unpaid CIRP cost held on 19.11.2019.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		18. The Appellant submits that in similar applications, i.e. I.A. No. 1810 of 2021, I.A. No. 1812 of 2021, I.A. 2583 of 2021 and I.A. No. 2587 of 2021, in the captioned company petition, the Adjudicating Authority has considered Company Appeal (AT) (Insolvency) No. 263 of 2024 8 of 27 that the dues can only be classified as CIRP costs if the CoC confirms them during the CIRP period. The Adjudicating Authority in the captioned Application has taken an opposite view. Following is the operative part of the Order dated 21.01.2022 passed in I.A. No. 1810 of 2021, I.A. No.1812 of 2021, I.A. 2583 of 2021 and I.A. No. 2587 of 2021:-
+	</p>
+	<p title="Conclusion">
+		"We observe that there is no relationship of these expenses as per the list ppared by the RP and confirmed by the CoC. Further, this was also not considered as a part of the CIRP cost when Liquidator convened another meeting of the Creditors. Hence, the Applications is liable to be rejected. Accordingly, this IAs are dismissed as rejected".
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		19. The Appellant submits that the Adjudicating Authority was bound by the doctrine of stare decisis, which forbids the tribunal/courts from taking any view opposite to its earlier decisions. Issues in the captioned Application have already been adjudicated by the Adjudicating Authority in I.A. No. 162 of 2021 filed by Respondent No. 1. Therefore, the captioned Application was barred by principles of res judicata. The Appellant submits that the Adjudicating Authority was bound by the principles of res judicata.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		20. The Applicant submits that it is evident from the Application filed by Respondent No.1 that dues up to INR 10,57,605/- (Rupees Ten Lakhs Fifty Seven Thousand Six Hundred and Five only) are for works before the CIRP Period. Therefore, the same cannot be classified as the CIRP Period.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		21. The interptation of CIRP cost by the Adjudicating Authority ignores the various qualifications in Section 5(13) and Regulation 31 of the CIRP Regulations. In respect of the work done by a subcontractor during the CIRP Company Appeal (AT) (Insolvency) No. 263 of 2024 9 of 27 period, the applicable provisions are sub-clause (c) and (e) of Section 5(13) of the Code and Regulation 31(a) and 31(e) of the CIRP Regulations.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		22. From the provisions it is clear that the mere fact that the dues have arisen during the CIRP period would not be determinative of the fact that the dues must be classified as CIRP cost. Interpting Section 5(13)(c) of the Code in this manner would render the words "in running the business of the Corporate Debtor as a going concern" otiose. Further, it is clear from Regulation 31 that unless the CoC has approved the dues and they directly relate to the CIRP, the dues cannot be classified as CIRP cost.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		23. Therefore, the test for costs to be classified as CIRP costs is if the Resolution Professional incurred the costs during the CIRP period (a) to keep the Corporate Debtor a going concern, (b) towards suppliers of essential goods and services, and (c) directly in relation to the CIRP and approved by the CoC.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		24. As the Corporate Debtor is a contractor, it can only make payments as a going concern if the employer, such as NTPC, first releases the payments. Even as per Clause 5 of the commercial conditions in the back-to-back contract dated 17.02.2018 with Respondent No. 1, payment will be made to Respondent No. 1 "on receipt of payment from NTPC." Therefore, even outside CIRP, as a going concern, the payment to Respondent No. 1 was not due till NTPC paid the Corporate Debtor. Hence the cost incurred towards Respondent No. 1 could not be said to have been incurred to keep the Corporate Debtor a going concern till the time payments are released from Company Appeal (AT) (Insolvency) No. 263 of 2024 10 of 27 NTPC. NTPC did not make the payments after the insolvency commencement date, i.e., 10.09.2018. It also invoked the Bank Guarantee on 06.10.2018 and ultimately terminated the contract on 05.08.2020. The Appellant demanded payment from NTPC to the vendors vide a letter dated 19.08.2020. However, these payments were not received from NTPC.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		25. It is also submitted that the claim of Respondent No. 1 has not been approved by the CoC. In fact, the CoC had recorded in the 5th and the 10th CoC meetings that dues of the vendors/subcontracts for projects, where the payments have not been received from the employer should not be treated as CIRP cost. Therefore, the CoC decided that payments would be made from the cashflows of each project, and where payments were not received, those dues would be treated as having not been incurred to keep the Corporate Debtor as a going concern. Accordingly, the resolution professional and the Appellant herein followed the decision of the CoC and did not treat Respondent No. 1's claim as CIRP cost.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		26. The Appellant relies on this Tribunal's judgment in Bharat Hotels Ltd. v Tapan Chakraborty Company Appeal (AT) (Insolvency) No. 1074 of 2022 where it was held that "Question of cost and its approval lays in the domain of the CoC. The CoC may ratify, modify or set aside the cost claimed. These issued may be decided in the meeting of the CoC and are not to be examined by the Adjudicating Authority even before the CoC takes a decision. It shall be always open for the appellant to raise issue regarding the cost in the meeting of the Committee of Creditors." This position was also restated in Company Appeal (AT) (Insolvency) No. 263 of 2024 11 of 27 Mehul Parekh and Ors. v. Unimark Remedies and Ors. Company Appeal (AT) (Ins) No. 839 of 2023. It is clear from the Judgements that the AA erred by entering the field of the CoC's commercial decision.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		27. Further, as the CoC had taken a policy decision regarding the cash flows from each project for the Corporate Debtor, therefore the Adjudicating Authority could not have, in a piecemeal manner, directed the Appellant to treat the claim of Respondent No. 1 as CIRP cost. At best, the Adjudicating Authority could have directed the creditors to reconsider whether the claim of Respondent No. 1 was CIRP cost.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		28. The Liquidator pleads the Appellate Tribunal to overturn the Adjudicating Authority's order and classify the cost as non-CIRP cost. Submissions of Respondent No. 1/ subcontractor of the Corporate Debtor
+	</p>
+	<p title="Fact" data-structure="Facts">
+		29. The Corporate Debtor was admitted into CIRP on 10.09.2018. During the CIRP period also, the Respondent No.1/Sub-Contractor continued to carry out the work and raised invoices between September, 2018 to January, 2019. NTPC made direct payments to the sub-contractor at the request of the Corporate Debtor. The Appellant itself also paid the Respondent No.1 various amounts over a period of time between September, 2018 when CIRP was initiated up till end of January, 2019. The Respondent No.1 received total payment of Rs.1,36,41,854/- against the work it had done for the Corporate Debtor. A total sum of Rs.1,36,41,854/- was paid by NTPC and a sum of Rs.1,25,84,250/- was still pending to be paid to the sub-contractor. Company Appeal (AT) (Insolvency) No. 263 of 2024 12 of 27
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		30. The defense raised by the Liquidator today is that because the contract was completed during the CIRP period, the cost attributable to the Respondent cannot be considered as CIRP cost.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		31. The Appellant Liquidator admits to the fact that Respondent No. 1/ subcontractor of the Corporate Debtor has undertaken the work during the CIRP period by incurring expenses at the instance of Respondent No. 2/ Resolution Professional and is unable to accept the claim as CIRP cost, since Respondent No. 2/ Resolution Professional has not considered it as CIRP Cost. The said reason given by the Liquidator is totally unfounded, since during the CIRP period between 10th September 2018 to April 2019, the Corporate Debtor under the control of the then Resolution Professional had approved certain invoices in favor of the Respondent No 1 and had in fact provided the Ledger of the same. The above entries in the books of the Corporate Debtor make it clear that the Resolution Professional, during the ongoing CIRP of the Corporate Debtor, has specifically approved the invoices and has made the comment "work done" for specific months during the CIRP Period. This is sufficient proof of the fact that the Respondent had, on the basis of specific directions of the Resolution Professional, continued to provide services to the Corporate Debtor, and the Resolution Professional has approved the said invoices of the Respondent during the CIRP of the Corporate Debtor. Corporate Debtor, has specifically handed over a Confirmation of Account dated April 2019, which is signed and confirmed by the senior executives of the Corporate Debtor, i.e., Engineering Project, Company Appeal (AT) (Insolvency) No. 263 of 2024 13 of 27 Deputy General Manager Accounts under the control of RP. Resolution Professional, have confirmed the outstanding payable to the Respondent of Rs. 1,25,84,249/- for the work done by the Respondent during the CIRP period. Under such circumstances, it is totally false upon the Appellant to state that since the project was completed during the CIRP period, the same cannot be attributed as CIRP cost.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		32. Further as per Section 5(13)(c), "any costs incurred by the resolution professional in running the business of the corporate debtor as going concern"
+	</p>
+	<p title="Analysis of the law">
+		shall be classified as CIRP cost and hence the claim of the Respondent No. 1 was within the ambit of the said provision.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		33. The Liquidator has relied his case on the minutes of the meeting dated 19.11.2019 held in respect of the unpaid CIRP costs. The Liquidator has stated that in the said meeting, the Resolution Professional was apprised about the difference between the CIRP costs provided by the Resolution Professional and the costs recorded in the books of accounts of the Corporate Debtor. The Liquidator has failed to apply his mind to the documents available on record, which clearly show that the Respondent had undertaken the work during the CIRP of the Corporate Debtor, and the invoices raised by the Respondent were approved by the Corporate Debtor under the direction and control of the Resolution Professional. The Liquidator is duty bound to admit or reject the claims on the basis of the proof of claims submitted as per Regulation 17 of the IBBI Liquidation Process Regulations. The Respondent No. 1 therefore states that the impugned order, which he has quoted Company Appeal (AT) (Insolvency) No. 263 of 2024 14 of 27 extensively, needs no further adjudication, and the Hon'ble NCLAT may dispose of the same.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Appraisal:
+	</p>
+	<p title="Precedent Analysis">
+		34. The issue before us is whether the costs incurred for the work done during the CIRP by Respondent No 1/subcontractor, can be considered as CIRP Cost or not by the Liquidator.
+	</p>
+	<p title="Precedent Analysis">
+		35. The Corporate Debtor had over 25 projects spad across India. When the Corporate Debtor entered into CIRP, only 7-8 projects were ongoing, and rest all were stalled due to various reasons. The issue surrounding the inclusion of vendor payments in CIRP Costs underwent thorough deliberation during the 5th and 10th Committee of Creditors (CoC) meetings convened on 11th January 2019 and 3rd June 2019, respectively. To maintain the company as a going concern, a decision was taken by the CoC/RP to run these projects on the basis of the cash generation from the respective projects and deploy the funds in the same project from where it was received.
+	</p>
+	<p title="Precedent Analysis">
+		36. The relevant extract of the Minutes of 5th CoC meeting of 11th January 2019 are as under:
+	</p>
+	<p title="Precedent Analysis">
+		"The RP then informed the members that a common issue which is being faced at all the sites is that the customers are concerned that whether money paid for the project will be deployed back in the project or not. The RP also added that letters have been written to all the customers stating that best efforts would be put in by RP and his team to provide all the assistance and deploy back the funds at the earliest convenience depending on the availability of funds.
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) No. 263 of 2024 15 of 27 The CoC members stated that the Company officials and the RP should ensure certain cut back to meet other costs of the Corporate Debtor and to take care of the CIRP costs"
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		37. Further, the CIRP expenses were also discussed in the 10th CoC meeting held on June 03, 2019 and the relevant extract of minutes are as under:
+	</p>
+	<p title="Court's Reasoning">
+		"Agenda Item No. 4 - To take note of the Corporate Insolvency Resolution Process ("CIRP") expenses.
+	</p>
+	<p title="Court's Reasoning">
+		The RP then psented the CIRP costs till date to the members and stated these are approximate numbers, and that the costs required to be incurred till final orders are passed u/s 31 or u/s 33 would also be CIRP cost. The RP also added that costs relating to sites which are inactive or have been terminated earlier/during the CIRP may not form a part of CIRP cost, as the CoC had authorized payments for the sites out of the cash flows being received from such sites, and as per the Code, the test was whether the costs are required to be incurred for the organization to function as a going concern. The RP then also psented the breakup of amounts. The members noted the same."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		38. From the extracts of the minutes of the CoC, it is clear that a conscious decision was taken that payments to vendors engaged in specific projects would be sourced from the cash flow generated by those projects' customers. The Darlipali Plant of the Corporate Debtor ceased operations during the CIRP Period. Consequently, the activities undertaken by Respondent No. 1, acting as a subcontractor, did not contribute to the Corporate Debtor's viability as a "going concern." This pivotal factor led Respondent No. 2, in its capacity as the Resolution Professional, to exclude the costs incurred by Respondent No. 1 from the ambit of CIRP Costs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No. 263 of 2024 16 of 27
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		39. Apart from the CoC proceedings, we may also look into the specific provisions under the Code which help to decide, whether it is within the commercial wisdom of the COC/RP to exclude a cost as CIRP cost or not. Section 5(13) of the Insolvency and Bankruptcy Code, 2016 defines CIRP costs as those which are incurred by the Resolution Professional in running the business of the Corporate Debtor as a going concern and is extracted as follows:
+	</p>
+	<p title="Analysis of the law">
+		"(13) insolvency resolution process costs means--
+	</p>
+	<p title="Analysis of the law">
+		(a) the amount of any interim finance and the costs incurred in raising such finance;
+	</p>
+	<p title="Analysis of the law">
+		(b) the fees payable to any person acting as a resolution professional;
+	</p>
+	<p title="Analysis of the law">
+		(c) any costs incurred by the resolution professional in running the business of the corporate debtor as a going concern;
+	</p>
+	<p title="Analysis of the law">
+		(d) any costs incurred at the expense of the Government to facilitate the insolvency resolution process; and
+	</p>
+	<p title="Analysis of the law">
+		(e) any other costs as may be specified by the Board;.."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		40. And the relevant Regulation governing CIRP costs is the Regulation 31 of IBBI (Insolvency Resolution Process for Corporate Persons) Regulations, 2016, which is extracted as follows:
+	</p>
+	<p title="Analysis of the law">
+		"Regulation 31: Insolvency resolution process costs.
+	</p>
+	<p title="Analysis of the law">
+		31. "Insolvency resolution process costs" under Section 5(13)(e) shall mean-
+	</p>
+	<p title="Analysis of the law">
+		(a) amounts due to suppliers of essential goods and services under Regulation 32;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		2[(aa) fee payable to authorised repsentative under 3[sub- regulation (8)] of regulation 16A;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(ab) out of pocket expenses of authorised repsentative for discharge of his functions under 4[section 25A];]
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(b) amounts due to a person whose rights are pjudicially affected on account of the moratorium imposed under section 14(1)(d);
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		5[(ba) fee payable to the Board under regulation 31A;] Company Appeal (AT) (Insolvency) No. 263 of 2024 17 of 27
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(c) expenses incurred on or by the interim resolution professional to the extent ratified under Regulation 33;
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(d) expenses incurred on or by the resolution professional fixed under Regulation 34; and
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(e) other costs directly relating to the corporate insolvency resolution process and approved by the committee."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Emphasis Supplied] It would be apparent from the highlighted portion of the Regulation that costs would be CIRP costs if they are directly related to the Corporate Insolvency Resolution Process and also approved by the Committee of Creditors (CoC). And in this case CoC had not approved for it to the treated as CIRP costs.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		41. Another dimension which is peculiar to the facts of the case, is the contractual condition, specifically clause 5 which relates to back-to-back contract. The RP had classified the projects into different categories as follows and was treating them differently for CIRP costs-
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		1) Active Projects - where work is still going on, or the project is near completion date or certain payments are due.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		2) Stalled during the CIRP period -Projects where work was stalled during the CIRP process was going on.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		3) Inactive Projects- Projects which were stalled before commencement of CIRP process. project subcontracted at a percentage of the revenue from that project.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		4) Back-to-back contracts- Entire project subcontracted at a percentage of the revenue from the project.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		The contract in psent case was a back-to back contract and is apparent from the material on record. The copy of the introductory part of the work order dated 27.02.2018, which clearly mentions it as on "back-to-back basis", the relevant portion is extracted below:
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) No. 263 of 2024 18 of 27 "Ref. No. SHEL/NGP/DSTPP/2017-18/1539-A Date: 27.02.2018 To, M/s. RBM Enterprises At-Islampur, PO-Tulati PS-Korai, Distt. Jalpur Odisha-755022 Sub: Work Order for execution of Fabrication &amp; Erection Works of CW system on Back to Back basis At NTPC DARLIPALI 2X800 STPP, ST-I, Odisha, Reg.
+	</p>
+	<p title="Precedent Analysis">
+		Ref. 1. Discussions and negotiations through mail on 21.02.2018
+	</p>
+	<p title="Precedent Analysis">
+		2. Your final order dated 23.02.2018"
+	</p>
+	<p title="Precedent Analysis">
+		This work order also has payment mechanism in clause 5 which clearly mentions that it is a back to back contract, which is extracted as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"5. COMMERCIAL CONDITIONS: -
+	</p>
+	<p title="Precedent Analysis">
+		1) Contract Value of M/s RBM Enterprises is Rs.
+	</p>
+	<p title="Precedent Analysis">
+		2,73,20,814.00 (Rupees Two crore seventy three lakhs twenty thousand eight hundred &amp; fourteen only) as per Annexure-A. However, the payment shall be done as per the actual works executed at site.
+	</p>
+	<p title="Precedent Analysis">
+		2) During the currency of contract and extensions thereof, prices are firm and no escalation is admissible.
+	</p>
+	<p title="Precedent Analysis">
+		3) All the due certified payments from SHEL will be credited to M/s RBM Enterprises within 07 working day on receipt of payment from NTPC.
+	</p>
+	<p title="Precedent Analysis">
+		4) 95% of bill amount shall be released as per rates specified in BOQ. Contractor shall submit RA bill once in month till 25th of each month for actual quantities of completed work during the month.
+	</p>
+	<p title="Precedent Analysis">
+		5) Balance 5% shall be treated as retention and released along with final bill.
+	</p>
+	<p title="Precedent Analysis">
+		6) All the contractual deductions made by NTPC shall be deducted from RA Bills of M/s RBM Enterprises.
+	</p>
+	<p title="Precedent Analysis">
+		7) Any other deductions not specifically mentioned herewith on account of any reason attributable to M/s RBM Enterprises will be deducted from his account."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		[Emphasis supplied]
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		42. RP/CoC in their 5th and the 10th meeting had decided that payments to vendors engaged in specific projects would be sourced from the cash flow generated by those projects' customers. The Darlipali Plant of the Corporate Company Appeal (AT) (Insolvency) No. 263 of 2024 19 of 27 Debtor ceased operations during the CIRP Period. Consequently, the activities undertaken by Respondent No. 1, acting as a subcontractor, did not contribute to the Corporate Debtor's viability as a "going concern." Given that the Corporate Debtor was functioning as a contractor, its ability to fulfil financial obligations hinges upon the receipt of payments from NTPC. This dependency is also underscored by Clause 5 of the commercial terms outlined in the back-to-back contract executed on 17th February 2018 with Respondent No. 1, stipulating that payments to Respondent No. 1 are contingent upon NTPC's disbursement. Consequently, both within and outside the purview of the Corporate Insolvency Resolution Process (CIRP), the Corporate Debtor remains bound by the contractual obligation to remunerate Respondent No. 1 solely upon the receipt of funds from NTPC. Until such time, the obligation to compensate Respondent No. 1 does not crystallize, emphasizing that the costs incurred in relation to Respondent No.1 cannot be construed as necessary for pserving the Corporate Debtor's status as a going concern. In essence, the Corporate Debtor's financial health and ability to honor its commitments are intricately linked to the timely receipt of payments from NTPC. Therefore, any expenses related to Respondent No. 1 cannot be deemed essential for maintaining the Corporate Debtor's status as a going concern until the requisite payments are realized from NTPC.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No. 263 of 2024 20 of 27
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		43. Now we see as to how the Adjudicating Authority has arrived at the conclusion of treating this as CIRP costs. The relevant portion paragraph 4.3, which needs our consideration, is extracted as below:
+	</p>
+	<p title="Precedent Analysis">
+		"4.3. From the perusal of these minutes, we find that the Liquidator rejected the claim of the Applicant to be considered as CIRP cost on sole ground that the Resolution Professional has not considered the same to be so. There appears to be no dispute that these costs came to be incurred during the CIRP process for completion of unfinished work at the behest of the Resolution Professional, accordingly merely because this contract stood completed during the CIRP period cannot take it away from the scope of CIRP costs on the ground that the completed projects do not contribute to the going concern status of the Corporate Debtor. On the contrary, we are in agreement with the legal opinion quoted in the minutes that Corporate Debtor as a whole needs to be considered as going concern and not parts of the Corporate Debtor. Accordingly, applying this principle to the psent facts of the case, and the decision passed by this Bench in the case of Southern Engineers Vs Innoventive Industries Limited (MA 441/2018 in CP (IB)- 01(MB)/2016) holding that the amount due on account of supply of goods made by the creditor to the Corporate Debtor company during CIRP, in compliance of the order given by the Resolution Professional to keep the Corporate Debtor company as a going concern shall form part of the CIRP costs as defined u/s 5(13) of the Code, we do not hesitate to hold that the charges attributable to work carried out by the Applicant during the CIRP period shall form part of the CIRP costs, irrespective of the fact that such contract, in relation to which work was carried out, were completed during the CIRP period. Accordingly, we direct the Liquidator to ascertain these facts and admit the claim of the Applicant after applying the aforesaid principle."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[emphasis supplied]
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		44. Adjudicating Authority has returned a finding that the Corporate Debtor as a whole need to be considered as going concern and not parts of the Corporate Debtor. Applying this in psent case, all the costs pertaining Company Appeal (AT) (Insolvency) No. 263 of 2024 21 of 27 to all the sites will have to be taken as CIRP costs, which may lead to an absurd situation that the vendors of these sites would get priority over the payments in waterfall mechanism under section 53 of the Code, even in a situation when there are no cash inflows from that particular project, and that might encroach upon the rights of the other stakeholders who would otherwise have priority in the waterfall mechanism.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		45. Such a finding also goes against the existing legal provisions and pcedents and the facts of the case as noted in the subsequent paragraphs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		46. Moreover, such decisions need the approval of the CoC as is clear from the Section 5(13) of the Insolvency and Bankruptcy Code, 2016 and also Regulation 31 of IBBI (Insolvency Resolution Process for Corporate Persons) Regulations, 2016 which says that "Insolvency resolution process costs"
+	</p>
+	<p title="Conclusion">
+		under Section 5(13)(e) shall mean ".. other costs directly relating to the corporate insolvency resolution process and approved by the committee."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		47. The Appellant has tried to rely on other similarly situated claims for payment as CIRP cost in which the Adjudicating Authority vide order dated 21.01.2022 in IA 1810, 1812, 2583 and 25987 has taken opposite view and has held that "We observe that there is no relationship of these expenses as per the list ppared by the RP and confirmed by the CoC. Further, this was also not considered as a part of the CIRP cost when Liquidator convened another meeting of the creditors." Even though the facts may be slightly different but Adjudicating Authority has considered that the dues can only be classified as CIRP costs if Company Appeal (AT) (Insolvency) No. 263 of 2024 22 of 27 the CoC confirms them during the CIRP period. We may not rely upon this case but this shows the primacy of CoC in determination of CIRP costs.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		48. Appellant has also pointed out the guidance for insolvency professionals (IP) in clause 8(a) and other sections in the Circular No. IBBI/IP013/2018 dated 12.06.2018. It directs IPs to ensure that the fee or other expenses incurred by them are directly related to and necessary for the CIRP and also approval of the Committee of Creditors (CoC) for the fee or other expense is obtained, wherever approval is required. It is also clarified that the IRPC shall not include any fee or other expense not directly related to CIRP. The relevant provisions are extracted herein:
+	</p>
+	<p title="Analysis of the law">
+		"..6. Keeping the above in view, the IP is directed to ensure that:-
+	</p>
+	<p title="Analysis of the law">
+		(a) the fee payable to him, fee payable to an Insolvency Professional Entity, and fee payable to Registered Valuers and other Professionals, and other expenses incurred by him during the CIRP are reasonable;
+	</p>
+	<p title="Analysis of the law">
+		(b) the fee or other expenses incurred by him are directly related to and necessary for the CIRP;
+	</p>
+	<p title="Analysis of the law">
+		(c) the fee or other expenses are determined by him on an arms' length basis, in consonance with the requirements of integrity and independence;
+	</p>
+	<p title="Analysis of the law">
+		(d) written contemporaneous records for incurring or agreeing to incur any fee or other expense are maintained;
+	</p>
+	<p title="Analysis of the law">
+		(e) supporting records of fee and other expenses incurred are maintained at least for three years from the completion of the CIRP;
+	</p>
+	<p title="Analysis of the law">
+		(f) approval of the Committee of Creditors (CoC) for the fee or other expense is obtained, wherever approval is required; and
+	</p>
+	<p title="Analysis of the law">
+		(g) all CIRP related fee and other expenses are paid through banking channel.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		7. The Code read with regulations made thereunder specify what is included in the insolvency resolution process cost (IRPC). The IP is directed to ensure that:-
+	</p>
+	<p title="Conclusion">
+		Company Appeal (AT) (Insolvency) No. 263 of 2024 23 of 27
+	</p>
+	<p title="Conclusion">
+		(a) no fee or expense other than what is permitted under the Code read with regulations made thereunder is included in the IRPC;
+	</p>
+	<p title="Conclusion">
+		(b) no fee or expense other than the IRPC incurred by the IP is borne by the corporate debtor; and
+	</p>
+	<p title="Conclusion">
+		(c) only the IRPC, to the extent not paid during the CIRP from the internal sources of the Corporate Debtor, shall be met in the manner provided in section 30 or section 53, as the case may be.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		8. It is clarified that the IRPC shall not include:
+	</p>
+	<p title="Conclusion">
+		(a) any fee or other expense not directly related to CIRP;
+	</p>
+	<p title="Conclusion">
+		(b) any fee or other expense beyond the amount approved by CoC, where such approval is required;
+	</p>
+	<p title="Conclusion">
+		(c) any fee or other expense incurred before the commencement of CIRP or to be incurred after the completion of the CIRP;
+	</p>
+	<p title="Conclusion">
+		(d) any expense incurred by a creditor, claimant, resolution applicant, promoter or member of the Board of Directors of the corporate debtor in relation to the CIRP;
+	</p>
+	<p title="Conclusion">
+		(e) any penalty imposed on the corporate debtor for non-
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		compliance with applicable laws during the CIRP; [Reference:
+	</p>
+	<p title="Conclusion">
+		Section 17 (2) (e) of the Code read with circular No. IP/002/2018 dated 3rd January, 2018.]
+	</p>
+	<p title="Conclusion">
+		(f) any expense incurred by a member of CoC or a professional engaged by the CoC;
+	</p>
+	<p title="Conclusion">
+		(g) any expense incurred on travel and stay of a member of CoC; and
+	</p>
+	<p title="Conclusion">
+		(h) any expense incurred by the CoC directly; [Explanation:
+	</p>
+	<p title="Conclusion">
+		Legal opinion is required on a matter. If that matter is relevant for the CIRP, the IP shall obtain it. If the CoC requires a legal opinion in addition to or in lieu of the opinion obtained or being obtained by the IP, the expense of such opinion shall not be included in IRPC.]
+	</p>
+	<p title="Conclusion">
+		(i) any expense beyond the amount approved by the CoC, wherever such approval is required; and
+	</p>
+	<p title="Conclusion">
+		(j) any expense not related to CIRP..."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Based on the above guidance of IBBI we cannot find fault in the course of action followed by both Resolution Professional and the liquidator while dealing with the claims of the sub- contractor in this particular case. Company Appeal (AT) (Insolvency) No. 263 of 2024 24 of 27
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		49. We are, therefore, inclined to agree that mere fact that the dues have arisen during the CIRP period would not be determinative of it to be classified as CIRP cost. Interpting Section 5(13)(c) of the Code in this manner would render the words "in running the business of the corporate debtor as a going concern" otiose. Further, it is clear from Regulation 31 and the guidance provided by IBBI vide the above-mentioned circular that unless the CoC has approved the dues and they directly relate to the CIRP, the dues cannot be classified as CIRP cost. And the CoC decided to exclude the cost incurred from the terminated projects, which is not maintaining the Corporate Debtor as "a going concern".
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		50. In conclusion, the following criteria determine whether a cost incurred by the Resolution Professional during CIRP qualifies as CIRP cost: (a) maintaining the Corporate Debtor as a going concern, (b) payment to suppliers of essential goods and services, and (c) direct relation to CIRP with approval from the Committee of Creditors (CoC). Applying these criteria to this case, the claim fails to meet the definition of CIRP cost.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		51. This has also been held so in various decisions of this Tribunal also. In Bharat Hotels Ltd. v Tapan Chakraborty Company Appeal (AT) (Insolvency) No. 1074 of 2022 it was held that:
+	</p>
+	<p title="Precedent Analysis">
+		"5. In the psent case, the CIRP had commenced on 19.12.2019 and after more than two years, resolution was passed on 28.06.2022 for liquidation. The Application which was filed by the Appellant on the very next day of passing of the resolution was indirectly for challenging the liquidation. The Appellant who is a minority shareholder in the CoC cannot resist the passing of the resolution. The Adjudicating Authority has rightly rejected the Company Appeal (AT) (Insolvency) No. 263 of 2024 25 of 27 application filed under Section 18 of Code and Regulation 34A, which was not to be entertained. The Appellant asked Resolution Professional to disclose item wise insolvency resolution process costs in such manner as required by the Board (IBBI). Question of cost and its approval lays in the domain of the CoC. The CoC may ratify, modify or set aside the cost claimed. These issued may be decided in the meeting of the CoC and are not to be examined by the Adjudicating Authority even before the CoC takes a decision. It shall be always open for the appellant to raise issue regarding the cost in the meeting of the Committee of Creditors. With reference to the grievance of the Appellant with regard to obtaining valuation report, it is always open to the Appellant to request the Liquidator to obtain a valuation report, if not already obtained. With these observations, the Appeal is dismissed."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		52. This position was also restated in Mehul Parekh and Ors. v. Unimark Remedies and Ors. Company Appeal (AT) (Ins) No. 839 of 2023 where it has been noted that "...The direction to CoC to redetermine the CIRP cost after approval of the Resolution Plan by the CoC is unsustainable..." It is clear from these Judgements that the Adjudicating Authority erred by entering the field of the CoC's commercial decision.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		53. Based on the arguments psented, the Liquidator has a strong case for successfully appealing the Adjudicating Authority's (AA) decision for the following reasons:
+	</p>
+	<p title="Precedent Analysis">
+		o The Respondent's claim lacks the crucial approvals from both the Resolution Professional (RP) / Committee of Creditors (CoC), a clear requirement for CIRP cost classification.
+	</p>
+	<p title="Precedent Analysis">
+		o The work performed by Respondent No. 1 on the terminated Darlipali project did not contribute to maintaining the Debtor as a "going concern," another essential element of CIRP costs. o The contract between the Debtor and Respondent No. 1 being back to back basis was tied to receiving funds from NTPC, which didn't happen. Company Appeal (AT) (Insolvency) No. 263 of 2024 26 of 27 The Liquidator couldn't have incurred this cost without NTPC's fulfilment.
+	</p>
+	<p title="Precedent Analysis">
+		o The AA's decision contradicts established pcedents from both this Tribunal ("Bharat Hotels" and "Mehul Parekh" cases) and rulings on similar claims within this Debtor's CIRP process.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		54. Therefore, the Respondent's claim should be classified as non-CIRP cost, falling under Section 53 of the Code for distribution during liquidation. Conclusion The Respondent's claim doesn't meet the CIRP cost definition. It lacks CoC approval, doesn't support the "going concern" objective, and is subject to unrealized payments from NTPC. The AA's decision contradicts CoC's authority, pvious rulings, and commercial realities and is therefore set aside. Accordingly, the Respondent's claim should not be treated as CIRP cost. No orders as to costs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice Ashok Bhushan] Chairperson [Arun Baroka] Member (Technical) New Delhi.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		14th May, 2024 pks Company Appeal (AT) (Insolvency) No. 263 of 2024 27 of 27
+	</p>
+</div>
+</html>

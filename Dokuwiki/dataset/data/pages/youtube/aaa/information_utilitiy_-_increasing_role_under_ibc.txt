@@ -1,0 +1,614 @@
+# Information Utilitiy (IU) - Increasing Role under IBC
+![](https://img.youtube.com/vi/nHtbPDhqShg/hqdefault.jpg)
+1 year ago (Mar 6, 2023) — 1:10:00
+[https://youtube.com/watch?v=nHtbPDhqShg](https://youtube.com/watch?v=nHtbPDhqShg)
+
+
+## Summary
+The video discusses the role and utility of Information Utilities (IUs) in the Indian insolvency process, as outlined in the proposed amendments to the Insolvency and Bankruptcy Code (IBC). The speaker, Deba Jyoti Ray Chaudhary, Managing Director of National E-Governance Services Limited (NESL), the only company currently handling IU in India, explains the unique features of IUs, including the option for data providers to accept, dispute, or ignore submitted information, and the use of push notifications at various life cycle events in the insolvency resolution process. The presentation also covers the benefits of IUs for financial creditors, operational creditors, and professionals such as resolution professionals and liquidators. The proposed amendments include making it mandatory for both financial and operational creditors to submit information of debt and default on the IU. The speaker notes that there is currently no penalty for financial creditors who do not comply with this section of the IBC, but suggests that the Reserve Bank of India (RBI) could potentially take action against financial institutions such as banks, NBFCs, and ARCs for non-compliance.
+
+## 
+0:01
+So Namaste, good morning. As usual, it has become our habit now to come and be connected with all of you. Today we are conducting our 47th episode of AAA webinar series and subject that this time that we have chosen is the information utilities. 
+
+0:24
+As we understand in the proposed amendments which was on the public domain on 18th of January 2023 and in that notice from Ministry of cooperative air, we also could understand that the role of information utilities are going to be increased. The record of default that would be used from IU only and only in very special circumstances. The adjudicating Authority will go for other records. 
+
+1:00
+So with this kind of objective, the use of information utility by various professionals insolvency professionals, Chartered Accountants, lawyers all this is increasing. Now the liabilities and assets all can be verified from the information utilities and our today's webinar. We have also the pleasure that Mr deba Jyoti Ray Chaudhary, the managing director of nesl, the national e governance Services Limited, the only company which is handling information utility in India. 
+
+
+## 
+1:48
+Presently there is only one IU in India, and that's what is being managed by nesl, and Mr Chaudhary is the managing director of this company. This is a company which is fully owned by Banks and government. So before we even go and before we start on our PPT, I will ask Mr Chaudhary to give opening remarks. 
+
+2:15
+Then we will go through the contents of the PPT and then we will discuss the future perspective, the proposed changes and how the insolvency professionals can use. Are you on regular basis? Mr Audrey, thank you very much for joining this Triple A web series and we welcome you to this series. 
+
+2:41
+The Endeavor is today to make our participants to understand IU more and more, and so that they could, they could start it now, before even the amendment is live. What would you like to say to our audience? Yeah, thank you, Anil G, and good morning to everyone of you. Good morning. 
+
+
+## 
+3:04
+First of all, I would like to thank you know ji and AAA and so on, and see for having this having me here at this webinar. I think these are very useful series of webinars in early years. To attend it. I somehow lost touch after joining an ESL, but remember is to attend this very regularly when it was initially started. So I'm happy that this session was on information utility. 
+
+3:31
+In fact only last week I was there in international research conference, where Also I spoke about information unity and how this is a very unique Indian innovation, and I would also like to quote a honorable prime minister, Narendra Modi ji, who has said that this is Amrit Khal, and in Amrit Khal, India will give directions to the world. 
+
+3:53
+So like UPI information utility is another unique Indian Innovation, and yesterday also I was in I am Bangalore and we had a representative from Germany and he was very interested and very curious to know that how this information is retrieval. So there is something which is very unique to India and the way it has been conceptualized it can play a very important role in the resolution process. 
+
+
+## 
+4:21
+So I'll just take a couple of minutes and tell you what is so unique about this. So the most unique thing about the insolving or about the information utility is that the way the information is stored in the information. Beautifully. So the moment a bank or any Financial Credit operational Creator submits information to the IU, this information is presented to the data. So the data has three options. you can accept it. He can dispute it. 
+
+4:49
+He can of course choose to ignore it, and this last segment is likely to be addressed in the amendments to the court which Mr goel referred to earlier. But even before it's addressed, Mr Goyle is also in. 
+
+5:02
+This presentation is dealt with an important case law of vipul versus Deco industry, where the AAA said that if our debtor does not choose to respond to the invitation to authenticate offer information utility, then he cannot dispute the existence of a debt. So IU is a Equitable institution. It gives an opportunity for the debtor to give his views. He can accept it. 
+
+
+## 
+5:28
+He can dispute it, but if he chooses to ignore it so he may not be able to deny the existence of the debt at a later date. so that is the first unique part of the information Duty, the second unique part of it, and there Mr Goyle also talked about how this could be useful to the IPS, and I'll dwell partly on that and I'll be there later on also. 
+
+5:49
+So information actually gives you push notification at various life cycle events in the insane resolution process. First notification goes when there is a default by a debtor to one Creator, so all creators come to know after the IU has done the authentication and verification. 
+
+6:08
+The second notification goes when an application pen solvency has been filed by one creditor, so other characters come to know that insolvency application has been filed and so they can take steps to protect the interest. 
+
+
+## 
+6:21
+And finally, the third notification goes when there is initialization of insolvency and public announcement is made by an IP, ibbi passes the information to us and we advise all creators who are registered on a platform that Public Announcement has been made. Please do file your claims with the Insurgency professional. So there's a second unique feature. Third unique feature is that this is the only credit repository in India which has details of operational creators also. 
+
+6:55
+So these are the three unique features of the information User TD. It is the Indian Innovation. It is also a tool which the IPS can use to help him in the Insurgency resolution process. We have a software which provides end to end case management. We have a virtual data room. So all these tools are there, but I would not. I'd like to stop here and I'll be there throughout this presentation. 
+
+7:19
+I'll be happy to chip in whenever I am required to do so. I'm passing it down to Mr goel, to you know. Continue the proceedings. Thank you, Mr Chaudhary. I also would like you to later on to provide some information how the homewards can take benefit out of this information utility. 
+
+
+## 
+7:37
+So because since there is a requirement that at least 100 homebas are required, so in case they simply file form C on the farm Pharmacy of IU regulations and if they file it online and would that help, rather than calculating all the 100 or more than 100 people and taking their documents. 
+
+8:05
+That's something that I feel that's a very, very tardy process, that more than 100 home bars are required for the commencement of an insolvency of a real estate developer. But in case the IU can help them, in case each home buyer provide information to IU information of default, so then I believe more than 100 defaults can be accumulated and the application can be filed simply based on the IU records. Is it possible? Mr Chaudhary? 
+
+8:36
+Yeah, it should be possible. We will work out the details offline. Prediction will possible great, so I will share my PPT. In this case. Ankit will also keep noting the questions in between. We will take some questions also maybe there are two sessions and anywhere ankiti would like to chip in. 
+
+
+## 
+8:56
+Please the chip in, because I think you also would be having so we will start like the as we regularly start, but then in this particular session, since we have to finish it in one hour, we only would say that this is the we are. 
+
+9:17
+These are the topics that we are going to cover in today's webinar: preview of IU and IBC process to register a debt under IBC and its validation, relevant Provisions under the insolvency and bankruptcy code and proposed amendments and case laws. That is the total subject that we would like to take as ready preview is concerned. I think the it is, as Mr Chaudhary says, that this is a It's A New Concept. 
+
+9:47
+It's a in purely Indian concept and it basically is. It basically has been established with few objectives like the. it is the data repositories for financial information it receives, authenticate and maintain and delivers financial information pertaining to a debtor. 
+
+
+## 
+10:07
+So even Section 3, subsection 21 of insolvency and Bankruptcy Court defines information utility as per section 210. So in fact the IBC, when it was promulgated in 2016, it actually carries all the sections regarding information utility and the regulations kept on adding later on as per the requirements. So when we when we see this, the when the ecosystem of the insolvency law. It provides the four pillars and the. This is one of the pillar. 
+
+10:44
+The IU is one of the pillar of the IBC. The first class is the insolvency professionals and the second is the new institution that has been created out of IBC is the information utility. then third is the adjudicating authority affiliate Authority, nclt or DRT, and the fourth is the regulator that is the ibbi. So within these four pillars which has been created, IU is one part of it. 
+
+11:10
+So this actually provides Undisputed information for commencing any insolvency process. It helps filing an application for default. Then it actually can provide you a very speedier a resolution or a speedier admittance of your application in case we have the record of default on IU. So the they see. Like I will not spend much time on all these the various things like here, I would like to give again Indulgence to Mr Chaudhary on this particular slide. 
+
+
+## 
+11:47
+Like when we see the advantages of information utility for financial creditors, for operational creditors and for the professionals like us, like the resolution, professional or the Liquidators. So because see you have been speaking on this particular subject very often, so you would actually be able to convey it in a very simple and quick manner. Mr Chaudhary, please, yeah, thank you. So it's been very well productive inside itself. 
+
+12:16
+Financial creditors advantages, of course it is the authenticated information. Well, you know a very important point was made in the previous slide. Are you provide the two way communication and that again it's that's why it's so distinct from that any other great repository. so here and I also worked use the word equitable, so the data getter gets an opportunity to disagree with any terms and conditions of the debt or the date itself. 
+
+12:45
+Why it is useful for financial craters. So when the debt is standard, that point itself. If he has opinion of the debtor on any Clauses which are not agreeable to him interest rate not equipping Quantum not agreeable so it is helpful for him to rectify the same, because when the default happens, the debtor is unlikely to cooperate. 
+
+
+## 
+13:09
+But if you submit the information when it is standard and you get a period of the debtor, then you have an opportunity to rectify the same before the account shows some stress. so. That is why it's very useful from the financial Creator point of view and in case the letter chooses not to respond to it at a later date, as we saw in the Judgment, he cannot dispute the existence of the debt. 
+
+13:35
+So that's why, for financial crater, it's very important and it's also a kind of balanced confirmation. All Financial creditors, banks, have to take a kind of balanced information. The information presented also has the balance, so it is also a confirmation of the balance used. But again it is extremely important and we found in a few very high profile cases it has helped small operational creditors to recover their dues. 
+
+14:05
+I know objective of IBC is not recovery. By the same time, msmes faced a huge challenge in recovery of their dues. remember the way the eye works is if a default is reported by a small creditor against a large corporate after IU does the process of authentication and verification from the debtor, a default notification goes to all creditors. 
+
+
+## 
+14:34
+Now such a notification is usually enough to bring the large corporate data to settle with the small msne supplier. So in fact we are already working with the ministry of msme to bring msme suppliers to use this facility of IU and to ensure that there is timely payment and it helps the entire ecosystem. 
+
+14:56
+The third column is: how does it benefit resolution profession now, at various points of time where we have some judgments and there could be legal issues where a particular claim is not considered. now you do a public announcement, so a creator has not filed this claim. Later on, when the resolution plan is approved, then you find various creators, especially government departments, going to court and saying that our claims have not been taken care of. 
+
+15:26
+And of course you may be right, but this leads so unnecessary litigation and delay in the process. Now, if you are using the IU for claim verification, you will get to know that how many creditors have submitted or have debt in respect of that debtor have provided trade to the debtors. So based on that, you are aware that there are so many. There could be so many claimings against the debtor. 
+
+
+## 
+15:55
+If you find that any of this creators have not filed their claims, you can approach them that please file your claims, since you already have a since you already lent to the debtor. So it helps to avoid unnecessary litigation. And of course storage information is already mentioned. The IU is a regulated institution. 
+
+16:20
+If you are storing the facilities you are, you have that comfort that it is safe, because you have in many cases personal information of creators. So if this create, if this information comes out, you could be you could have personal liability in such cases. So that is why it is helpful to have your records stored in a safe place, like in the IU. 
+
+16:44
+It's also mentioned about this end to end CRP solution, right from the time of giving the notice on the operational Creator to the time of liquidation under auction under liquidation. This entire end to end processes can be done through IU. 
+
+
+## 
+17:00
+Similarly, regulatory submissions to COC, IPA, ibbi, the CRP forms, can all be generated through the case management system, so you don't have to prepare it manually and of course, as I said earlier, it is an end to end process. Even the auction platform. 
+
+17:20
+Auction on the liquidation can also be done through this and most important when you are dealing with the IU is you are dealing with the regulated installation, so you'll be complying with all the provisions of the code, and we know that it is a time bound process. for every event there is a Time provided in the CRP regulations, so our system is fully compliant with that. 
+
+17:42
+It gives you reminders if a event which has to be completed by a certain time frame is not completed. So all in all, it is a very, very useful and helpful tool for the it as well. Thank you, thank you, Mr Charlie. I think we'll take it forward. So the information utility is under the insolvency and Bankruptcy Court. 
+
+
+## 
+18:01
+It is regulated by ibbie and this is these are the compliances that we are supposed to do with the ibbi and the information utility regulations 2017, and it is Guided by ibbi information utility technical standards. so like. In case we see these are the section 209 to 216, which are pertaining to IU in the IBC, and when we see this section wise, I don't think then we'll spend little more time. 
+
+18:30
+But the only one wanted to tell our audience that the information utility all these sections, in fact it basically these sections are under IBC and the regulations are also being made by ibbi. So these are all regarding the who can become insolven's information utility. What are the registration formalities for information utility? Then the appeal also can be the affiliate Authority for any dispute regarding information utilities. Again the NCLEX governing board is to be made. 
+
+19:03
+Core Services is also defined. Obligations of IU is also defined under Section 214 procedure for submission. procedure for submission is very important. Now when we see the section 215 and then we see sub section 2, it says that the financial Predator shall submit financial information and information relating to Assets in relation to which any security interest has been created in such form and manner as may be specified by the regulations. 
+
+
+## 
+19:33
+Second, the third is an operational creditor May submit financial information to the information utilities such form and manner as may be specified. So this is where the proposed amendment is happening. This subsection 3 instead of May submit it also will have shell submit. So it will be mandatory for the financial predictors, as well as operational predictors, to submit information of debt and default on the information utility. I need to ask one question to Mr Chaudhary. 
+
+20:05
+In case a financial creditor does not submit the information, is there any penalty? Is there any RBA action on the financial institutions like the banks nbfcs, arcs? I just want to understand like how the financial creditors are supposed to comply with this section of 215 in case there is no penalty in case RBI is not imposing any plurality in. So what is your like? I thought about it. 
+
+20:35
+Yeah, so RBI has issued instructions in 2017, Then followed up with do letters in 2019 and recently of so they haven't if they have issued instructions to Banks, but as of now it is there's no penalty provision. But there is an RBI SSM stationed in large Banks and as part of the supervisory review mechanism of banks. so this suspect is also looked at. So it is right now no penalty provision. 
+
+
+## 
+21:04
+But in general we find that at least for scheduled Banks, there's a fairly High degree of compliance and recently now Cooperative Banks which have come under the regulatory regimen of RBI so even Cooperative banks have started submitting information to the information relating. So there's the Fairly High degree of compliance and so far, no, there are no parental provisions and so far since the compliance has been fairly good. 
+
+21:35
+So there's been no requirement to take resort to such measures. So how would? How do we compare with the central registry under surfacey and IU under IBC? How do you compare between these two? 
+
+21:51
+And the financial creditors are under obligation under Section 26, capital E of surface e, they are supposed to they are supposed to file and in case they don't file, their information at their security interest can be can be subservient and in case this file this information under Section 26 capital E of surface e, then nobody can have a better charge. Better Liam, than the secured Financial creditor like. Is there any such law regarding IU? 
+
+
+## 
+22:25
+Also that in case the security interest is informed and registered with IU, then it becomes a lion which is the best kind of layer on the asset? Yes, please, yeah. So I agree we do. there's a bit of overlap between the functions of the sirsi and the IU, but Sessa is only for secured debt, whereas iuf is for all kinds of net, whether it's secured and secured. So it's all kinds of debt. 
+
+22:57
+So from that point of view there's not much of defense, and as of now I does not really perform this function of determining who has tried it with that, but IU does maintain the history of all submissions which have happened and that can be used to determine priority update. Now just to pose this question. So I would just like to expand this to the digital document execution. 
+
+23:23
+As you know, this is becoming very popular and just give the background behind this. If you see, IU is one repository where submission for documents is also provided for. again. In fact, I did not say this in the beginning, because I thought I'll You Know cover this during the course of the presentation. 
+
+
+## 
+23:41
+If you see the form C, which is used for submission and permission, there is a provision for submission of documents also, so that again is a distinguishing feature in the IU, and that would, I would say, is another difference between the CSI and the IU. IUS provision for submission of documents has only Provisions for submission of details. 
+
+24:05
+Now, if you talk of documents initially stand copy of documents were being submitted, but we had a certain amount of discomfort with it, because scan documents we cannot verify the authenticity. So IU has now launched a digital document execution and more than 15 lakh documents have been executed on this platform. 
+
+24:26
+So the idea here is that you will not just have the information of debt or you will also have the evidence of debt by means of a digital document execution, and this is a digitally signed field and tamper proof way of evidence of debt. 
+
+
+## 
+24:46
+So that is a further extension of the services of the eye and that's a very good facility that you are offering to the borrowers and lenders that they can execute the documentation on the IU. So like the one. So it's one thing. 
+
+25:02
+So one thing to add here: in the recent budget there is a Amendment, proposed amendment in the GST act, which talks about how, if the if the service provider and the service recipient or the goods Goods, the supplier and the recipient they both agree, then that data of invoices and the entire Supply data can be shared with a third party and if I imagine that can be the IU, that can be other agencies which can then provide this data of actual transactions happening between two parties to various agencies like of course it can be a proof that yes, the supply happened and this there is no dispute there. 
+
+25:43
+The Goods the received in good quality. All that can be recorded there also, then it can open the doors to transaction based financing. so I believe all that is something that IU will also facilitate in the due course of time. Yes, of course this opens up a lot of other possibilities. But incidentally, you know government is also an operational creditor. 
+
+
+## 
+26:06
+So, and in recent past we have seen in the various cases governments have you know, government deals have not been filed and then they have not been recognized that there have been. You know they have taken it up after approval resolution plan. So when Biryani cements also there was a very famous case. I think it was GST deals. So now we're also taking after the government also to file dues in the information utility. 
+
+26:31
+So their Claims can also be taken up at the beginning Itself by the it when it's comparing the records of the eye. so I think the IU can also become that third party as per the proposed Finance. Yes, I think that also can be done. Yeah. So what is the you see like? In case I just take Banks right, what is the percentage of registrations as compared to their total numbers of loan cases? 
+
+27:08
+Actually, we take debt under three segments, in the goutwood segment and the OC segment and the personal segment. Okay, so if you see the corporate segment by our estimates, I think almost entire this corporate segment is there, and one reason is that a major motivation for banks to submit in the corporate segment is that its IBC has been notified only in the corporate segment. 
+
+
+## 
+27:33
+Yeah, of course what we tell the banks and which is true also even in the other segments. Also the benefits of submission to the IU, like this default notification, this rot certificate. So all those benefits are still there. So that's why, if you see the data infected, we have a slide here and we find that even in the personal segment and the other corporate Enterprise segment, which are basically partnership and proprietorship firm. 
+
+27:59
+They are also aware of Fairly large amount of data which has been submitted by Banks and they are getting the benefits of submission, like this default broadcast which warmed them up in Spain, stress in the data. Thank you, Mr chaudry. So going ahead. Section 216 deals with the rights and obligations of the person submitting financial information. now we deal with the other sections of IBC where the information utility is referred. Number section seven. 
+
+28:27
+It is very well provided there that the Furnishing a copy of record of default, which is called rod if it's a lot of default, is submitted with an IU, and that's what it is there. However, as far as the present scenario is concerned or any other document. 
+
+
+## 
+28:45
+So in case presently, in case the rod record of default is not available on IU than any other record can be presented in section 9 also Furnishing a copy of any record with IU confirming that there is no payment of an unpaid operational debt. This is also presently available in section 9, but it is also other options are also available, so it's not much in use. 
+
+29:14
+Similarly, Section 5, Rule 5, sub rule three of the ibbi application to your dedicating Authority rules 2016 requires that a copy of demand notice or invoice demanding payment by an operational character shall be filed with an IU, if any so. These are the provisions where the IBC has already have information utility as a role. 
+
+29:39
+However, in the proposed amendment, this role is actually getting almost mandatory and only very few situations where they are judicating Authority will look at other reports if the IU records are not available or IU is not capable of taking those kind of Records. Similarly, the cirp regulations actually enables to access the records and also the records of that company on IU. 
+
+
+## 
+30:08
+Regulation 7 to 21 of the CIP regulation also enables creditor to prove the existence of debt based on the records available with an IU and in liquidation also, the liquidation state will have all the assets where the ownership is evidenced from an IU. Now what it can be, it can be like in case there are debtors, in case there are debtors and that information is available on IU. 
+
+30:39
+If it is not available in the balance sheet, but it is available in IU, that has to be considered as part of the liquidation estate accessing the information on IU that also, and also for claim verification between regulation 17 to 20, it actually can use the IU in individual insolvency. 
+
+30:59
+Also with the debt for which your application has been filed by a creditor registered with an IU, the data shall not be entitled to dispute the validity of such debt. This is also provided in the individual insolvency resolution process. So now these are the proposed changes. As I said, the delivery in 1823 as per the notice issued by Ministry of corporate Affair. 
+
+
+## 
+31:24
+The proposed changes are: the proposed changes are increasing Reliance on the records submitted with the IU during the admission process, so the section 215 and subsection two. It is only directory requirement. As for the operational is concerned, now it is actually being made as the mandatory requirement. So as section 7 and 9 provides that in addition to the record of default available with the IU, other evidences can also be. These are the present structure. 
+
+31:56
+Now what is proposed is in section 215, which is which will be amended in case the after the public comments. In case the Monastery thinks, then it will be amended and it should be the where the operational creditor intends to apply 200 to decating authority to initiate cirp against a CD, it shall also be required to file the relevant financial information with the IU in advance. 
+
+32:25
+So therefore this 215 is being amended and to provide a reasonable opportunity to this CD or the debtor to respond to the financial information submitted concerning them. To prevent all that like sleepy kind of debtors, from causing delays at this stage, the financial information will be considered authenticated in case the CD or the data does not respond within the stipulated period. 
+
+
+## 
+32:52
+So this particular part we will understand from Mr Chaudhary later on in the later slides, like in case somebody doesn't respond, then what are the options available and how that yellow part of the debt confirmation would be handled by the adjudicating authority. So section 9 and 7 also would be amended, where the IUD record will almost be mandatory and for only for a very a different kind of situation. The other reports would be admitted. 
+
+33:22
+So the now we actually can go to procedure to register a debt with an information utility. As we said, any SL is the first and the only IU in India which is approved by ibbie and the. This nesl is the first one. it was incorporated on 24th June 2016 and the leading public institutions, like State Bank of India, life insurance Canada, the icic bank, HDFC Bank access bank are there shareholders. 
+
+33:54
+So this nesl is working towards time bound resolution and the default intimation to the creditors, mitigation of information, asymmetry between the parties to the debt, Superior Court, credit monitoring by creditors and an agreed statement of outstanding balance between the parties, and this facilitate the stakeholders of the IBC ecosystem by leveraging information technology to achieve objectives of the code. Now let us understand who can register a transaction with IU as per IBC financial and operational data. 
+
+
+## 
+34:30
+They can both can be registered. Both can register a transaction with IU. They are they. There is a process. there is a fee for a registration of a transaction. So what is the fee nowadays for registering one transaction? Mr told me yeah. So just to clarify: first there is a registration process. Registration is free of cost. There is no charge for registration and for submission of documents there is the fee and it prefer one transaction. 
+
+35:04
+If it's operation Creator it's it is rupee 60 and if it's for Financial craters it is 300 rupees. And if you have multiple records there's a scale wise charges which are there on the website. Okay, the more number of Records you submit, the Lesser it comes down, the lesser the per record cost. So this I think this cost is very, very reasonable for a financial institution, for one transaction, 300 rupees. 
+
+35:32
+For an operational calendar that it is 60 rupees. and if there are multiple transactions, like the for the banks, if somebody is uploading say 1000 transactions, that may be a different scale for the bulk transaction uploading and I believe on the IU platform there is a separate process for uploading bulk transactions. Yes, it is a seamless process. 
+
+
+## 
+35:54
+No manual intervention is required to see it happens through file transfer process and for if you want to submit one record, then there's a screen based way of submitting and there's a payment Gateway also, so you can pay for whatever record you want to submit and accordingly submit the data. 
+
+36:12
+So the process, as I understand, is: first of all the user of the nesl services will register themselves with the nesl and as you said, there is no. There is no fee for registration. 
+
+36:25
+They have a form which will be the form will be filled up, its online form which will be filled up and the basic information and the identification document, kyc documents would be required and the but then it is written that they pay the requisite fee prescribed by the Annie SL in advance or may be agreed to. So what is this fee in the registration process? Yeah, registration is absolutely free of cost. 
+
+
+## 
+36:48
+No cost registration, only the fees at the time of submission of documents. So then you a lot. Actually a unique identifier number to each user. Is that right? See the way it happens is we give something called a unique debt identifier, a unique debt amplifier has is comprised of the pan number of the debtor along with the account number. So okay. 
+
+37:16
+So the way it happens is now when a bank submits information, so it will submit information, the pan number of the data and the account number, so both combined becomes the Udi. Then when the information is sub is presented to the debtor so he is able to identify which account based on the Udi. So from the pan he'll identify: yes, it's mine and the whole account number. 
+
+37:42
+He identifies account number accordingly, he'll compare the details and he'll accept or dispute. So from this simple reading I could understand that for a user also there is an identifier number. Yes, for a user there is a unique identified number and then for a transaction also there is a number. Yeah, no, and let me just clarify it once more. so user is identified by way of his parent s if he is a company hit. 
+
+
+## 
+38:13
+The identifier of the user is a span. If it's a, I mean it's fine. It's for everyone. In fact everybody has a pen. So it's a company, it's an individual, it's a partnership firm. The identifier for the user is always the parent. But besides that, because a user perhaps multiple debts debt accounts, so all those debt accounts will have different Udi. 
+
+38:42
+This Udi will comprise of the pan number, which is constant, and the account number, which will be different for each debt account. So that is how the debtor will identify his account name. You'll see this file number. Yes, this plan is mine. you see the account number and see that it's his and based on that he can authenticate the information. Okay, so account means bank account. 
+
+39:06
+Yes, there may not be a bank account, but there may be a thing separate identifying transaction. Yeah, so it's basically the contract number, something unique which the operational creator gives whatever the operational gives will part of the ODI. So when it is presented to the debtor, so the data is able to identify it. 
+
+
+## 
+39:24
+So like this was the registration process, registration of a user with the pan number, registration of a transaction with a unique identifier number, and then you're saying that even for separate accounts, there is a separate numbers which are being generated. yes, so now when this when the information is being submitted by the users, like the financial information as defined in Section 3 subsection 13 of the IBC right. 
+
+39:53
+So there are methods which I nesl has prescribed for submission of information, like form C is provided in regulation 20, and that is for a single transaction or for a multiple transaction which can be a file multiple, that including defaults. So in the in the, when we talk about other party, a section in form C, now the other party is. 
+
+40:17
+The one is the user who is submitting the information and the other party is the party with whom the production has taken place. Yes, he's a debtor and similarly there could be co applicants. There could be guarantors. So for each party, a separate form is building. yes, okay, and the and the security details like the any kind of encumbrance on the asset that also is provided there. 
+
+
+## 
+40:49
+Yes, and it is to be signed digitally with the digital signature. Yes, so that's very clear. I think the simple process of submission of financial information, which can be multiple files, multiple transactions with one file uploading multiple forms also, and the unique identifier number will be allocated pair number is the number of user. Now the insolvency professional registration, but see if this would like to understand at the insolvency professional registration. 
+
+41:20
+What exactly is this why the insolvency professionals should register and what information they will get out of the registration with IU perfect. Thank you, Mr goelk, for giving me this opportunity to explain to this. so information professional for registration purposes. Only thing we require is registration number with iddi but or getting access to the debtor in which he has been assigned. 
+
+41:50
+If he has taken up assignment as IRP and RP, then we need the copy of the order in which his assignment has happened. So with this assignment he can have access to all the debt records of the debtor of that company. So that's it was see. If are you? This issue of privacy and comprehension is very important. 
+
+
+## 
+42:17
+So that is why we asked for the copy of assignment and he will get access only to that debtor, so he will be able to see one all the credit records, all the credit details which have been piled by various creditors, whether it's Financial creators, operational creators, and very important provision here is he will also be able to see in any date if the corporate debt is earlier disputed such claims. 
+
+42:46
+So when he is verifying those claims, they need to be alerted that this has been disputed. So this claim have to be extra cautious and as I stated earlier, suppose somebody has no has missed filing his claims from this record he can see his any kind of approach. Maybe he's not Duty born, but it will help because it will help avoid unnecessary litigation. then another case. He will also sign the effect. 
+
+43:13
+There is a practical case. You will find that many cases the claims which are filed are much in excess of what are the claims in the are you so he can then be alerted. He can question the creditors that look these are the claims. So it will help him verify the claims. He can question the creators that this is what you have filed with the IU and so and so date. So what happened after that? 
+
+
+## 
+43:43
+When insolvency is initiated? Why are you know increased your claims? They will, they may be genuine. They may be genuine, but it gives in gives IPA an effective tool to verify the correctness of the team. so that means any kind of assignment if any insolvency professional is getting. I think the first issued registered with the idea absolutely know more about the corporate data. Absolutely yeah. And then there is no fee for such a registration. Perfect. 
+
+44:13
+I forgot to say that before that you said thank you so much. It is absolutely free service. Oh great. So I think this is probably is being missed out by most of my professional cliques and since Mr Chaudhary, because I normally in our webinars, there would be more than 200 people who would be participating and then it will go to YouTube and I have seen within about months time more than 1000 people will further see the video. 
+
+44:43
+So I think this we need to spread around this part that the all the insolvency Professionals in each of their assignment they should register and they should get the information about the corporate data. Whatever information is available with IU, and it's free, and by even if somebody is not using the facility of PDA, which is a paid facility. This facility is free and it is almost mandatory. You can say that everyone should use it. 
+
+
+## 
+45:09
+Is that right? I am not something absolutely, in fact. One more thing I would also say is that this also gives you the kind of security which lenders have given. So one is a certain for yourself which lenders are secured? What are the assets of the company? has, to you know, take charge of the assets of the company, so all the assets there is there any assets I have missed out on taking charge. 
+
+45:34
+So then there is a process for verification of the information submitted. Financial information whatever is submitted to IU. The IU has their own system of handling it, rejecting it or confirming it, or even found missing in where it expired. So there are various processes, error marking processes also defined there. I'm not going into the detail then I you also issued an acknowledgment for each transaction submitted. 
+
+45:59
+And then comes is the authentication and the verification of the information, which is again a very, very important part of the discussions today, one that it has to be submitted with digital registration to that the other party. The other party also should confirm again by fixing the digital signatures. 
+
+
+## 
+46:17
+In case the other party does not respond, the IU will give them three reminders and in case none of the three reminders are reported, then again will be considered as deemed admitted, deemed accepted scenario. So this is where we would need your Indulgence. What exactly is the authentication and verification process? because this is very long and I would like to be a little brief on this part, because we have many important parts still coming. Yeah. 
+
+46:47
+So first of all, let me just verify there's a different process procedure involved for Standard Loans and default loans. In Standard Loans, our reminder is sent and if the borrower he can still accept on dispute, he can choose if he choose to ignore the record will stay say as it is, but in case where default is reported, information or default is reported. 
+
+47:14
+So in that case this issue of team, which Anil kulji mentioned that will come in, but that also in the recent amendment in June 2022 if it's a bank under schedule 2 of RBI act. So the concept of deem has been removed. 
+
+
+## 
+47:29
+So in that case, if the IU gives a request to authenticate to the debtor, followed up with three remanders with a gap of three days each, and at the end of it if the debtor does not respond, then it will be treated as authenticated, which is green color. So let me just repeat: for banks in schedule 2 and if it's information of default, there are only two color codes, which is green and red. 
+
+47:55
+So if the corporate data does not respond, could the authentication request followed by three reminders or three days each. Then it will be treated as a authenticated with a green color code and of course anytime within those three reminders if he comes forward and Records his dispute, then it will be treated as a disputed record with a color code of red. 
+
+48:19
+One more issue I would like to bring it to the notice is that when we send the mails, a proper tracing is done on the mail is sent only to the MCA registered mail order mail registered by the Creditor, and this sequence is provided in the regulations. So this is to ensure that it later did. A data cannot say that this mail ID is not mine. 
+
+
+## 
+48:44
+So that precaution is taken and also the tracking of the mail takes place. Whether what happened to that meal then what is it done? What was it open? So all those are tracked and becomes a part of the credit history of the debtors. So this slide shows the various statuses of the financial information submitted to IU. One is the not presented means that it is not being. 
+
+49:07
+It is not yet presented to the third party, although it is instant. So you would not find any such status in the IU pending means it is yet to be authenticated. Failed authentication means that the specified time limit of 15 is exceeded and the it has expired. Authenticated means that it has been verified from both the parties with the digital signature. 
+
+49:28
+Disputed means the other party has disputed or disagrees to a part of the entire information and deemed to be authenticated is, as Mr Chaudhary said, that after three reminders it would be deemed to be this. so this is a this is a kind of status that we have for information debtor confirm the information of default authenticated green that it disputes the information of default. 
+
+
+## 
+49:54
+This is disputed means red that it does not respond even after three. Reminder, this is seem to be authenticated yellow, but this part is not fair where the second schedule of the Reserve Bank of India it is. It is not applicable to the banks. There is only green and red one is the data confirms the information of default that does not respond. This is all green and the data disputes the information of default. 
+
+50:17
+It is red. Exactly what Mr Chaudhary says is also presented here. So information of default. so as he said that there is a different process for standard information where the default is not there and there is a different process of authentication for information of default and it's almost the same as already informed, because the debtors confirm the default. It is green, that it disputes the default. It is red and that is does not respond. 
+
+50:45
+It's basically the yellow. So one is the basic information and the other is the information of default. Now I think let us understand the importance of this particular information utility record of default Rod. So we actually can see the case which is Whipple himmatlal Shah versus Techo industries. 
+
+
+## 
+51:10
+That is the Judgment which came in May 22 from the Appellate Authority and cl80. so in this case, the in this case, the in this case is the directors of the company. They are the applicant, so they actually have disputed that the information utility record have been accepted by their judicating Authority, and that is what they were disputing and they are saying. They are saying that the emails of the of the directors were used. 
+
+51:39
+Email of the vipul and the Tulsi that was used, but the email of the corporate debtor was not used for sending the information for getting the confirmation. However, the directors did not disputed the fact of receiving the emails, that they received the emails in the name of the directors and not in the name of the corporate letter, and they also they also chose not to reply and send an email and not to forward them to the appropriate address. That's what the background is so in this case. 
+
+52:10
+The observation of the Appellate Authority was that regulation 21, sub regulation 3 of the information utility regulation provides that it data does not respond even after three reminders. The information of default would be deemed to be authenticated. 
+
+
+## 
+52:24
+The corporate data or its authorized representative did not take any action under the grievance redressal policy under regulation 12 of the ibbi IU regulations to set the record straight in case it found to be incorrect on the on the Basel. 
+
+52:40
+These are the analysis we could inclined to hold that the corporate data cannot deny the existence of financial debt as defined in Section 5, subsection 8 of IBC, as present in the records of the information utility and that particular application. What was fired by the directors was rejected and the records of the informational utility was accepted. The commencement of cirp was validated. 
+
+53:07
+So this is a very big success that even if the email has gone to the directors, the Appellate Authority says that it was not shifted, it was not forwarded to the correct and it was not even now. What is this, Mr Chaudhary? What is this grievance redressal policy under Revelation 12 of the ibbi IU regulations? Okay, so we have agreement studies policy. 
+
+
+## 
+53:32
+There's a portal which you can Lodge your grievance if you have any grievance, you can Lodge on this. In this case, he did not use the facility, but incidentally, besides its previous capacity, and he could have also used the important provision of Simply you know, registering and disputing it so that provision. He had two options to him. 
+
+53:51
+He could have used the given State drizzle, but very importantly, he could have also, you know, registered on a platform and simply disputed it, and we'll give one very important provision. I'll use this you know Forum to bring to notice for everyone. This judgment was in a case of affection filed by operational creditors, so information Duty can be extremely, extremely useful for official Creator, which this judgment has proved oh good, so good, so quickly. 
+
+54:23
+It takes up some questions, I think, because they're related to this discussion. So when we, when we say that the dispute can be raised, can the dispute also be raised after those three reminders or after that? There is only an option to raise the grievance. After that, there is only option to raise the. you can always raise it within the three days and understood this. Every law. You know clarity. 
+
+
+## 
+54:48
+That's the confirmation I thought I would say. Then withheld is asking that if a creditor who has filed a claim wants to edit the claim, is it possible to edit this claim? Always it is, you have to file a fresh claim. Then you have to fill a fresh information and that information itself will be taken into cognition, because see the debt record is unique if a bank is using the pan number account number. 
+
+55:18
+So the moment you file a fresh record, so that will take into recognition. but I think I think here he wants to say: let's say the bank filed a claim, or rather declarative, filed a claim with respect to an invoice number or let's say an account number, and later he found that his the filing that he made had some error. Maybe the error was with respect to the amount, with some other respect. 
+
+55:39
+So there is there any process to edit that claim or he will. Yeah, I'll tell you so there is a process for error marking. So credit check and error marking that is one part and if the Creator does not do it, the data can dispute it and give a revised amount. 
+
+
+## 
+55:54
+So in case the see say, let's say I file a claim and say that XYZ owes some money to me and I file a claim expires, it gets that claim and instead of making it maybe he doesn't dispute online. Now he says that okay, you correct this. Yeah, and I want to correct it. So once I correct it, then it will be again going the corrected amount. 
+
+56:18
+You'll be going to the other person for approval then. Right, that is how it will work exactly. Okay, and how do we extend these services to now? This is a question from yeah, he's asking that how do you extend this to companies outside India? Let's say where there are the debtors of the CD are located outside India? 
+
+56:37
+Is there any facility for those people to register where they may not have a pan because they are not operating in India or they don't have a registration in India? So if you do not have a plan, the technical science provide for a you know for the iu2 a lot of but foreign to give the benefits of these Provisions. But then he can get in touch with us offline. We can, we can. 
+
+
+## 
+57:09
+We can help him in that process. There are certain Banks, like exim Bank, who are filing information. Their debtors are overseas, so we've devised a mechanism for them. So we try to help out if any creator has any specific issue, because it would be a bit difficult. 
+
+57:24
+You got it, and if the nclt or this is a question from Abdul jayanti, that is, the nclad refuses to recognize a deemed authentication report by IU, then I think there is no alternative but to go to the higher quotes. It's not happened so far. So far, yeah. Please let's continue here like we almost the time is also finished, but then we can extend it by 10 minutes. 
+
+57:51
+If there is any question from the participants, they may ask. Now I in the meantime, I am reading the other law, which is il and Fs infrastructure that fund versus McLeod Russell's India limited. 
+
+
+## 
+58:03
+This is again a very decent judgment from nclt Kolkata and it is dated 10th of February 2023. very recent now in this case also, it was section 7 application which was actually filed by the ilfs and the cirp was to be initiated against McLeod Russell India limited. 
+
+58:23
+That was that the date of default have been stated as 9th of July 2019. Financial creditor recorded the debt with the information literally and the copy data has been recorded as the data therein. 
+
+58:36
+So in its report dated 8th of February 2020, the IU being nesa in response to the filing by the FC in Pharmacy, recorded the default of the corporate data and because since they were not responding so it was assigned the color of yellow in the in the IU portal. 
+
+
+## 
+58:52
+So the further that was deemed to be, as the IU had issued three reminders emailed to the corporator and the corporator failed to issue any response to any of these emails. This is a background and the submission. The submissions were made by the applicant, like the at the existence of. 
+
+59:09
+That is their occurrence of default is there and the information related document is you see like this is what is the company saying back load that the information utility document is not a verified claim the applicants relies on this document is inconclusive. As a proof of that, the record of IU is itself subject to verification and cannot be sufficient to establish relationship. 
+
+59:31
+IU regulations, in particular regulation 20 and 21, make it clear that on receipt of information of default and I usual expeditiously undertake the process of authentication and verification, so there is a stringent requirement of such regulation. This process was not complied. All these allegations on IU was basically thrown by the. So what are the observations of the nclt? 
+
+
+## 
+59:56
+Nclt says that section 7 of the code Envy says is that the adjudicating authority has to ascertain the existence of a default from the records of an IU or on the busy of the other, evidence is furnished by the financial creditor, even if the IU record was not appropriate. at that time there was speed, the post nated checks were also issued by the corporate data and that, in the end, the information on IU. 
+
+1:00:20
+So therefore the debt is established and the fact that the borrower failed to respond is not a ground. Therefore their dedicating authorities satisfied that the default has occurred. This was also another success. So now we come to this part: IU for insolvency professionals and submission of information. Now the as for the first part is concerned, the Creditor confirming and the data confirming and then solicit that information. That's what we already discussed. 
+
+1:00:49
+That what actually the informal seat professional by registration. What they would get now? Coming to this? The existing Services of the nesl as IU would be credit repository, as we've already known. online registration of the users, information submission, financial information submission and information authentication. Then the reports like authentication status authentication Behavior 360 degree report about a particular data record of default statement of default online registration module registration that we've already discussed. 
+
+
+## 
+1:01:27
+The online registration linking with the debtors and accessing information. What exactly is this part? This is I couldn't understand linking with the and accessing information. Yeah, so IPS has to give the copy of his assignment. So based on that we link his first because iPhones registered including his registration number right. 
+
+1:01:51
+Then once he gets an assignment, so he has to give, upload the copy of that assignment and then we look into the copper data and you'll get all the records in potential copper data. So this is the storing information and retrieval. this is again another service. 
+
+1:02:08
+So I think you can talk about this service of PDA and the and the services that you are providing to the insolvency professionals, and in the meantime I can stop sharing my mppt. We also have some more questions that we can take up. So is asking that is there any mechanism to verify the dispute raised by the CD or is it taken on its face value? 
+
+
+## 
+1:02:37
+So this is a very important question, which I think is will be on everyone's mind. X Files are claim against b, y and then y disputes it. So excess files certain documents. Why has it filed some counter documents? Now? How is this dealt with at nesl? So you know any Excel is not you know in a has authority to educate, adjudicate on any date. 
+
+1:03:03
+So the way it happens is if there's any dispute, so it has to be settled outside the nesl system. So if once the dispute is recorded, it has to be settled outside the IU system and then a fresh information is submitted if the dispute is settled, if the dispute is not settled, of course it has to be decided only by the a. 
+
+1:03:25
+It was a, you know the initial cannot take on the role of the if there is in dispute, if it cannot be settled between the two parties, of course if the a has to take even the idea here. Yeah. So I think, therefore you keep saying that it is very important for the operational creators, other creators, to find the file. These file their dues when the when the relationship is good. Because so that issue. 
+
+
+## 
+1:03:56
+Yes, that is precisely the point. So you have to establish your credit history. So if you file you know information when the going is good, then you ensure in a supplier, for example, as a supplier, if I make you have supplier to a debtor. So I first I make pencil. It makes a supplier. I before I make further supplies. I can request him please authenticate the debt and I'll make further supplies. Yes, very important. 
+
+1:04:27
+You're creating a trade history and even assuming he does not, so you then have a credit history that I have supplied to you. I have submitted information for three months and then when I am presenting a default and then you're disputing. If you build up and of course dispute cases cannot settle, it'll go to the a. but if you are able to build up this great history, then you can have a good case before the. 
+
+1:05:02
+So the credit history has to be built up. It has to be kind of it has to go into you, the finance department of the companies, and so that they start building up the credit history, they start submitting the information. Financial information to IU is not very expensive. 
+
+
+## 
+1:05:20
+I think the monthly information of supplies can be submitted to IU, monthly information or Supply, and that can be a bulk file and that may not be very expensive. so we have seen today that in case this amendment becomes the law which is proposed as of now, the role of IU is going to be increased and then of course, the operational predators and financial creditors. 
+
+1:05:47
+They would be all very keen to register their financial information with IU and Ankit. Is there any other question or should we close? I am seeing the other questions, but I think that we have mostly discussed that. So one question is that if there is a settlement that happens after the default data was uploaded on nesl, then how will that deal with? 
+
+1:06:08
+I think it's okay that the idea is that if the settlement is on record in a court order, then you can't use the same information again to your benefit. so the yeah, I would advise in such cases where the settlement is a good, way is to clean your record in the IU. If your settlement is better, the debtor can insist on the Creator that please file a claim. 
+
+
+## 
+1:06:28
+File a fresh claim, recording the settlement and the revised amount so that can be part of the settlement process. Yes, so that the credit history is clean, so that the credit history is cleared. Yeah, nice. So whether data is to be submitted to IU for all accounts, healthy NPA accounts. That is what we are exactly talking about. It should be done for all. 
+
+1:06:47
+With respect to the so Atul ji is giving a feedback which is very saying that nclad is not willing to see IU report. they want the applicant to First establish that he is an FC and only then they are then dealing with this matter that he has at his hand. 
+
+1:07:05
+So I believe establishing somebody establishing yourself as an FC and establishing that there is a default in the IU report at different issues, they should both be done simultaneously to my opinion application under Section 7. So the first thing that they are dedicating Authority or the Apple Authority needs to see is whether the person is a financial predictor or not. The information utility comes later. 
+
+
+## 
+1:07:30
+First of all, you have to cross the threshold of financial creditor or operational creditor. Yeah, I think we are all on the same page there. So this makes sense. That's about it. I think those are the questions that we could take up and do, which are the important ones, anything that you would like to add, Mr Chaudhary, further to this opportunity that we have today regarding the other services. 
+
+1:07:58
+So so one is of course, like I said, this IP service is free of cost. Then the storage is also comes at a very nominal cost. I think it spoke briefly earlier, and it gives you a lot of Peace of Mind that if you store you are there, you are storing your records. It will be safe. It is with a regulated entity. 
+
+1:08:19
+It will give you enormous peace of mind, even after you can do it on an ongoing basis. you can, you know, whenever the records are there, you can push it there and you can be safe. That it is. You can you. It is. It's a safe place. You are, you will not have any liability on account of it falling into the wrong hands. And of course we have this case management system. 
+
+
+## 
+1:08:41
+It provides the end to end solution right from the time of giving the notice by the operation Creator to the time of auction. So do use the services and also you pay only for the months you use it. That's all I think. Huh, thank you so much. So thank you very much and thank you very much, Mr Chaudhary. 
+
+1:09:00
+So I think it's a wonderful session that we've had with our audience today and we are happy that at the last moment we thought about it and this thought came in the morning at about 9.30, and then I immediately called you and you in fact nice enough to accept this invitation immediately. So you have added a lot of value to this webinar. 
+
+1:09:25
+Thank you very much, Mr Chaudhary, and thank you all the participants for remain connected with us. So we are continuing our efforts. So we have a kind of thought process that every week we will be presenting a new subject and we are not going to repeat any subject any week. thank you, thank you. Okay, thank you, thank you all participants, thank you, energy, thank you, thank you, Mr Chaudhary, for joining us. Thank you all the participants. thank you, you thank you. 
+
+

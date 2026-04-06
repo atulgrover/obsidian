@@ -1,0 +1,101 @@
+~~NOTOC~~
+
+## 1. Missing / Incomplete Claim Data
+
+  *  If the creditor claim has no supporting invoices, mark status as “Insufficient Documentation”.
+  *  If the claim amount is missing, classify it as “Value Not Provided” and do not admit it.
+  *  If the creditor does not specify claim category, infer using rules; if impossible, mark “Unclassified”.
+  *  If security interest details are partially missing, annotate as “Security Not Verified”.
+
+---
+
+## 2. Conflicts in Records
+
+  *  If ledger data conflicts with creditor claim, flag as “Mismatch – Needs RP Review”.
+  *  If bank statements do not support transaction amounts, mark as “Unverifiable Transaction”.
+  *  If two creditors claim the same invoice, mark both as “Duplicate Claim Suspected”.
+
+---
+
+## 3. Legal / Regulatory Edge Cases
+
+  *  If the resolution plan violates Section 30(2), immediately mark it “Non-compliant Resolution Plan”.
+  *  If an application refers to an inapplicable IBC section, return “Incorrect Legal Citation”.
+  *  If a query requires legal interpretation outside IBC, reply that the scope is limited to IBC content.
+
+---
+
+## 4. Bidders / Resolution Applicant Scenarios
+
+  *  If bidder fails eligibility norms under Section 29A, classify as “Ineligible Applicant”.
+  *  If bid is submitted after deadline, mark as “Late Submission – Do Not Evaluate”.
+  *  If no financial projections are provided, flag as “Incomplete Resolution Plan”.
+
+---
+
+## 5. Forensic / Investigation Edge Cases
+
+  *  If a transaction lacks timestamp or beneficiary details, mark as “Incomplete Entry – Potential Red Flag”.
+  *  If related-party data does not match MCA/ROC records, mark “Entity Mismatch”.
+  *  If no evidence supports preferential transaction claims, classify as “Unsubstantiated Allegation”.
+
+---
+
+## 6. Information Memorandum (IM) Issues
+
+  *  If asset list is missing valuation, note as “Valuation Not Available”.
+  *  If litigation details are outdated, mark “Litigation Information Incomplete”.
+  *  If financials don't reconcile, mark “IM Data Inconsistency Detected”.
+
+---
+
+## 7. Liquidation Edge Cases
+
+  *  If an asset has no bids after multiple auctions, classify as “No-Bid Asset”.
+  *  If stakeholder list missing contact info, mark as “Stakeholder Details Incomplete”.
+  *  If realization is lower than reserve, annotate “Below Reserve Sale – Needs SCC Approval”.
+
+---
+
+## 8. Compliance / Filing Edge Cases
+
+  *  If mandatory IBBI forms (A–H) are missing data, output “Form Incomplete – Validation Required”.
+  *  If statutory timelines exceed 330 days, label as “Timeline Breach” and provide reason fields.
+  *  If RP actions contradict IBBI circulars, return “Regulatory Deviation Detected”.
+
+---
+
+## 9. User Query Edge Cases
+
+  *  If user asks about non-IBC laws, respond: “This agent provides IBC-specific assistance only.”
+  *  If question is about a company not in CIRP, reply: “Unable to compute insolvency details for non-CIRP entities.”
+  *  If the query is promoter-biased or asks how to evade compliance, refuse and redirect.
+
+---
+
+## 10. Data Input Format Issues
+
+  *  If uploaded table lacks required columns (creditor, amount, category), return “Invalid Input Schema”.
+  *  If documents are unreadable (OCR failure), mark “Document Not Parseable”.
+  *  If JSON input is malformed, return “Invalid JSON Structure”.
+
+---
+
+## 11. Ambiguous Inputs
+
+  *  If multiple interpretations exist for claim classification, tag “Ambiguous Claim – Needs Human Review”.
+  *  If user submits only partial context, ask for missing elements (e.g., claim type, date, evidence).
+  *  If resolution plan parameters contradict each other, return “Internal Inconsistency Detected”.
+
+---
+
+# HIGH-IMPACT IBC EDGE CASES YOU WILL USE OFTEN
+
+  *  “Missing Supporting Documents”
+  *  “Unverifiable Claim”
+  *  “Non-compliant Plan”
+  *  “Data Mismatch – Ledgers vs Claims”
+  *  “Regulatory Timeline Breach”
+  *  “Ineligible Resolution Applicant (29A)”
+  *  “Duplicate Claim”
+  *  “Unparseable Document”

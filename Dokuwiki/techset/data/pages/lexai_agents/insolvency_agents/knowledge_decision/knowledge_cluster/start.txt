@@ -1,0 +1,12 @@
+**V. Intelligence & Analytics Division**
+Predictive, prescriptive, and sentiment-based analytics agents.
+
+  * Predictive Intelligence Agents
+    * Default Forecasting Agent (DFA)
+    * Fraud Risk Detection Agent (FRDA)
+    * Recovery Value Predictor (RVP)
+    * Sentiment Analysis Agent (SAA)
+  * Strategic Analytics Agents
+    * Resolution Success Predictor (RSP)
+    * Scenario Simulation Agent (SSA)
+    * Performance Benchmarking Agent (PBA)

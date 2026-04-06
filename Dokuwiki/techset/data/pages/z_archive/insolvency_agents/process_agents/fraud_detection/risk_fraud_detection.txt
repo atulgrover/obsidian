@@ -1,0 +1,29 @@
+The integration of Artificial Intelligence (AI) into **Risk Fraud Detection** is robustly supported by the sources as a critical application that strengthens the integrity and efficiency of the insolvency process. This function moves beyond basic data handling to investigative and predictive capabilities, helping to "bring hidden patterns to light".
+
+## 1. Anomaly Detection Agent (Manipulation or Concealment of Assets)
+
+This agent focuses on using deep analysis of company data and transaction records to detect unusual or irregular activity, which may indicate asset manipulation or concealment.
+
+*   **Forensic and Investigative Support:** AI is applied to **insolvency investigations** where Insolvency Practitioners (IPs) need to establish whether there has been **dissipation of assets**.
+*   **Technology Assisted Review (TAR):** Specialized software automates document review by classifying electronic documents, saving time and money. If predictive coding is employed, TAR can search the company's books and records for leads, ranking documents by relevance to help humans find necessary information quickly. This process involves identifying relevancies and **anomalies**.
+*   **Basic Audit Functionality:** AI provides **basic audit functionality**. It can analyze financial statements and claim documents and **point out inconsistencies which a human eye may miss**. This capability is used to identify **anomalies** during the mandatory **look-back period** (e.g., for Section 66 filings related to avoidance transactions).
+*   **Flagging Suspicious Claims:** During the claims process, AI can detect duplicate claims or spot signs of **fabrication**, providing the IP with a dashboard that shows which claims are clean and which **might be fraudulent**.
+*   **Data Scraping:** AI can scrape **large sweeps of data within fractions of seconds**, which is an extremely powerful tool for identifying suspicious patterns where "human supervision alone falls short".
+
+## 2. Fraud Risk Predictor (Early Warning Signs)
+
+This agent focuses on predictive modeling and continuous financial monitoring to identify companies at risk and forecast potential fraud, helping stakeholders take proactive measures.
+
+*   **Early Detection of Distress:** AI algorithms are capable of detecting **early signs of financial distress or insolvency** by continuously monitoring financial indicators. This allows stakeholders to take **proactive measures**.
+*   **Predictive Modeling:** AI utilizes **predictive modeling** to anticipate potential insolvency risks by analyzing historical financial data and market trends.
+*   **Pattern Recognition for Fraud:** Globally, regulators have run pilots using AI to detect sophisticated schemes like **phoenixing** (where directors shut down a company and restart under a new name to avoid debts). AI is used to scan corporate registries and detect **suspicious patterns of behavior**. AI is generally "great at spotting patterns" in data.
+*   **Risk Assessment:** Tools gather information from public sources and apply algorithms to **identify patterns of behaviour that might suggest that a company is in financial difficulty**. This process draws on millions of data points and overlays sector and market sentiment to provide **intelligent insight into the associated risks of insolvency**.
+*   **Long-Term Goals:** The long-term roadmap for AI integration in India includes **AI assisted avoidance analytics** running continuously on transaction data to **flag fraud**.
+
+## Accountability and Accuracy
+
+While AI enhances detection, its outputs must meet strict criteria to be usable in a legal and professional context:
+
+*   **Accuracy and Verification:** AI can sometimes hallucinate or be wrong. Therefore, AI outputs must always be **reviewed and certified by a human professional** to ensure data integrity and logic.
+*   **Accountability:** The liability for any AI mistake **rests with the professional who used it**.
+*   **Audit Trails:** To be trusted by creditors and courts, any AI tool used to flag transactions must offer **audit trails**, explaining not just the flag, but the **chain of reasoning** behind it. This is essential for judicial acceptance.

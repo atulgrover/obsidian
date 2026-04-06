@@ -1,0 +1,426 @@
+# A Deep Dive into IBBI's New Discussion Paper dated 10.06.2024
+![](https://img.youtube.com/vi/aJWLyQW6epw/hqdefault.jpg)
+3 weeks ago (Jun 18, 2024) — 53:32
+[https://youtube.com/watch?v=aJWLyQW6epw](https://youtube.com/watch?v=aJWLyQW6epw)
+
+## Summary
+In this discussion paper released by IBBI, they propose to reduce the compliance burden on Insolvency Professionals (IPs) by merging multiple forms into one and requiring them to be submitted on a single date, the 10th of every month. This change aims to streamline the process and make it more efficient for IPs, who have been facing pressure due to the large number of forms and varying timelines required by regulation 40 of the CIRP regulations. The existing legal framework includes forms like CP1, CP2, CP3, CP4, CP5, CP6, and CP7, but under the proposed changes, these would be merged into six forms: CP1, CP2, CP3A, CP3B, CP4, and CP5. The most significant change is the shift from date-specific timelines to a monthly compliance framework, with all information due on the 10th of every month. There is no proposal to change the penalty regulations for not filing forms by the prescribed date.
+
+
+## 114th episode of triaa weekly webinar series
+0:04
+So good morning everyone and welcome back to our weekly webinar series over to anela. Thank you, anit. So welcome to 114th episode of triaa weekly webinar series. As usual subject today is the very recent discussion paper released by ibbi. First we thought that we will analyze the rights of operational creditors under resolution plan and we started our study on that. 
+
+0:38
+But in between we saw that this study paper was in fact a discussion paper was released on 10th of June 2024 and then we thought that it would be better that we do this time and the next 115th webinar we will do on the rights of operational creditors under a resolution plan. So this discussion paper released by ibbi and we are all supposed to give our views and suggestions on this. 
+
+1:12
+In fact, this discussion paper is also based on a lot of feedback which has gone to ibbi regarding the regulation 40 capital B. Regulation 40 capital B of cirp regulations in fact introduced the forms like I P 1 cp1 to CP 6. These forms were introduced on 27th of November 2019 and then later on cp7 form was also introduced on 15th of March 21 and then after that in July, on July 14th 21 cp8 was also introduced that was regarding a reporting on the P transactions. 
+
+
+## cp7 - What is the best form for cp7?
+2:00
+However, the cp7, which was introduced on 15th of March 21, in fact was is a form which is required to be filled many times a month. so because very wherever any of the activity, any of the event which has not happened or delayed or still not happening, that form has to be filled. So in total there are not many forms which were in fact required to be submitted. 
+
+2:33
+The feedback was that the dates were also varied the in a in a in a case where a insolvency professional is doing say five cases of cirp, there would be a possibility that maybe 20 forms are required to be submitted in a month and in case some CPS are somehow pending before any court maybe stayed or maybe the resolution plan is not approved, then also the form has to continue that some something is pending and every month these forms has to be submitted. 
+
+3:14
+So these the feedback had gone to ibbi and ibbi was also working very kind of eagerly to resolve this and technically a different portal was being developed. How all this information can be collated, how the autop population, autop populated data can also be used. That was also being done so in fact the there was a meeting of the Financial stability and Development Council. 
+
+
+## IPS reforms to reduce compliance burden on IPS
+3:53
+A meeting was held on 8th of May 23 and it was advised that. The Regulators should adopt a focused approach to reduce the compliance burden on the members or on the FR Trey as where the regulator is regulating. Then, like the Indian Institute of insolvency Professionals of icii trip II also kind of constituted a committee on the instance of ibbi and how to remove the duplicacy and redundency in the compliances by IPS. 
+
+4:34
+So that report was also submitted and ultimately, when we see the objective of this discussion paper, this reform is to reduce the reducing the amount of information and data that the IPS currently need to submit and the kind of number of times it is required to be submitted at times to IPA and also add times to ibbi then the deadlines for compliances. 
+
+5:09
+That actually is generating lot of pressure, which is impacting the otherwise efficiency of the insolvency professionals, because see their more focus is on whether this additional fee, which is Lev under regulation 40 capital B subregulation four of CP regulations like which is 500 rupees for even one day delay and from one day to 30 days delay. 
+
+
+## How to rationalize the filing fee for cirp cost
+5:39
+It is 500 Rupees is the late filing fee and if the delay is more than a month, then is 500 rupees multiplied by the number of months. That is the filing fee, and this filing fee is the amount which the insolvency professional has to make payment from his own resource sources and cannot become cirb cost. 
+
+6:03
+So therefore, the attention of the insolvency professionals were in fact more on the compliances like cirp forms and also looking into the timelines, so that was also noted that it is impacting the efficiency because of the pressures and also like there are some informations regarding the fee of professional regarding the cirp cost regarding the like relationship with the CD. 
+
+6:36
+So all this information was also going to IPA and was also going to ibbi, so that was also a kind of requirement of kind of rationalizing all this. Therefore, on 10th of June 2024, ibbi released a discussion paper and where all this is proposed to be regulated, it is the kind of rationalized and the burden on the insolvency professional is likely to be reduced in a significant manner. 
+
+
+## Insolvency Professionals are trying to get rid of security interest
+7:11
+Now the scenario which is presently what we are supposed to do as an insolvency professional during cirp cases. That, like the ip1, is a form that we are supposed to submit whenever the IP is accepting an assignment, mean the accepting means whenever the consent is given, when the consent is given. At that time, the terms of Engagement, the terms of consent is also supposed to be given. 
+
+7:40
+But what we have seen in many cases that we have given the consent, but the banks and the financial institutions have decided not to go for the filing of an application under Section 7. so those consents are just filing up and the banks are banks have conducted their process of selecting a IP, but the process have not moved forward because the bank have started chasing the other options available, like onetime settlement, like assignment to arc's, like assignment naril, so like, even like it even enforcement of security interest. 
+
+8:22
+So therefore the nowadays the banks and financial institutions, they are in fact trying to trying to use all the options, so they are also keeping the option of insolvency and while they're also pursuing the possibilities of assignment to arc's and also enforcement of security interest. 
+
+
+## CP cp1 form merged with CP cp1
+8:47
+So this ip1 form is presently it is proposed to be dispensed with, so it is not required and the kind of information which was sought by ibbi in this form is now merged in the one form which is now called CP cp1. That has been merged with the cp1, so the information, some of the information has been merged into cp1. Now, when we see the existing legal framework, we also have C cp1. This is the all the information till issue of the Public Announcement, then cp2. it basically is from the public announcement till the confirmation or replacement of the RP or the IRP, then CP3 from the appointment of rp2, the issue of information memorandum to the members of the COC. 
+
+9:47
+Then cp4 is from the issue of the information memorandum till the RF issue of the rfrp. Then the CP 5 is the basically is issue of rfrp till completion of CP and CP 6 is for the event specific. 
+
+10:04
+But the event specific is whenever there is any buet transaction, whenever any interim finances based, whenever any commencement of insolvency resolution process of grunters is done: extension of CP period, premature closure of CP period, request for liquidation before completion of CP, non implementation of the resolution plan. 
+
+
+## CP 6 is supposed to be filed and cp7 is also supposed to be filed
+10:28
+So these are various events where the CP 6 is supposed to be filed and then the cp7 is also supposed to be filed, and in case in case the Public Announcement is delayed, then we have to file cp7 and mentioning the reasons. 
+
+10:46
+In case the appointment of RP is not made within 30 days, then in case the information memorandum is not released on time, rfrp is not released on time, then the cirp is not completed within 180 days. So then the CP 7 is to be filed again and again for all the events. in case these events are not completed. 
+
+11:10
+So for each event form has to be filed every month in case the this kind of Event specific date in case this event is not completed, then is the form cp8, which is regarding the pet transactions. Now, what exactly has been done? What exactly has been done is the one the proposed. 
+
+
+## ibbi proposal merging farms with cp1
+11:43
+One very important and very significant change that the I, the ibbi, have proposed is the merging all these farms and one date in a month. One date in a month will become an important date and on that one date all these forms are required to be submitted. 
+
+12:07
+Now the cp1. first of all ip1 when we give a consent that is proposed to be dropped and the relevant details are submitted in the assignment portal so that actually would be assignment submitted in the assignment portal and other compliances. 
+
+12:25
+Then CP 1 and two that is merged with cp1 a single form can be filled after constitution of coc, so the COC Constitution and after that one form can be filled and then the CP 3 and four is merged with c cp2 and that is a single form which is to be can be filled after issue of rfrp. So these four forms are merged into two forms. Four forms are merged into two form. 
+
+
+## CP file for approval of resolution plan
+12:55
+Then is the CP file. Now the P 5 actually have been divided into two parts. It is become CP3 a and CP3 B. CP3 a is the when the resolution plan is approved by the COC and is submitted to adjudicating Authority, then we have to file CP3 a and CP 3B will capture all the details when the order for approval of the resolution plan is issued by the adjudicating authority. So 3A and 3B. 
+
+13:36
+Basically the 3A would be about the resolution plan and the 3B would be about the entire process of approval of the resolution plan and the cp6. As we have explained. That is now merged in CP 5, so that is dropped and the information which was required in CRP form 6 is now being captured in some other forms. 
+
+14:05
+Now CP 7 is revamp Into the cp5. Now the cp5 is the it to be submitted at the end of month and it will provide the status of the C. The most important is the status of the CP reasons for delay. If any an update on the minutes meetings held during the months, then is the as this cp8, which was the event kind of reporting which was on pu. 
+
+
+## CP 8 revamped into cp4
+14:37
+So CP 8 is now revamped into cp4. So there's cp1, that is the almost beginning of the CP. Cp2, which is a mid level which is the issue of rfrp. CP 3A is the approval of the resolution plan from COC, CP 3B is the approval of the adjudicating Authority on the resolution plan and cp4 is the avoidance transaction. Cp4 is the avoidance transaction and cp5 is the status of cirp status of CP. 
+
+15:15
+So in case we see, presently we have nine forms and now, which is revamped into six forms. Why I'm am saying six? Because the cp1, cp2, CP3 a, CP3 B, cp4, cp5. So there are six forms now, as against nine there are six forms. However, the most important change that we can see is the timelines. Timelines, you see the. 
+
+15:42
+Presently every different CP would have different timelines, because in each CP the date of commencement of the CP is different. So therefore all the timelines under regulation 40 capital A would be different. So that means that in case an IP is handling five cases, so all the timelines provided in regulation 40 capital A that would be different. 
+
+
+## Dates, Due Dates, etc. for filing from cp1 to CP
+16:13
+So if that timeline would be different, so all the dates, all the due dates for filing from cp1 to CP 8 would be different. So there may be a possibility that the insolvency professional is filing at least one or two forms every day in case that particular IP is handling five cases or six cases. Now, what this streamlining has been done is very important. So all these due dates are not important. 
+
+16:40
+What is important is one important date, that is the 10th of every month. 10th of every month is the date where all the information as up to all the information up to the end of the last month, like in case we are today. maybe if today is the 10th of June, then we are supposed to provide all the information to ibbi regarding that particular case up to 31st of May. So that is the forms. 
+
+17:13
+That is the most important convenience that has been that is proposed to be given to the insolvency professionals, so that there is one date in a month, which is a compliance date. Everyone can put it on under, everyone can fill all the information and most of the information will be autop populated because the ibbi actually. 
+
+
+## Monthly Compliance Reporting Framework
+17:38
+Probably ibbi is trying to connect the portal with the portal of MCA and maybe some other portals also, where the information will be populated automatically and it will be also editable. so when I saw the forms the although the information is populated automatically regarding the name of the IP, the registration number, the address, the contact details, the email ID, the email ID of the CD, the directors, the address of the CD. 
+
+18:14
+All this is autop populated because of the integration of the ibbi website, IPA website, MCA website. So this actually is become very important. So what exactly is some monthly compliance reporting framework, that's called monthly compliance reporting? The status and the progress will have to be submitted on 10th of every following month and the only exception is CP 3B, because the CP 3B is the order of the adjudicating authority approving the resolution plan. 
+
+18:52
+That is something which is date specific and all others are now not date specific. All other forms are the monthly compliance framework. the monthly compliance framework is in fact the most important relief that we can actually see anit see. Before I go to the detailed information which is required in these forms, would you like to add so? One only one question that has come in from Mr Hari Prasad. 
+
+
+## No proposal to remove penalty regulation 40 capital B
+19:25
+He says what about the penalties for not filing the forms by prescribed date? Are they waved or they will continue? That's the question that he has. No, there is no proposal to there is no proposal to change that regulation 40b, sub regulation 4, which provides for the penalty of 500 rupees for a delay up to one month and for another month another five month, 500 and for another month other 500. so in case the delay is 10 months, then 5 000 rupees and if the delay is between 1 day to 30 days, it is 500 rupees. 
+
+20:01
+Then the regulation 40 capital B, sub regulation 5 also says that the action by ibbi action by ibbi will also be taken. That can be issue of scn or that can be even non Rel issue of the AFA authorization for assignment that also can be held because of various non compliances under regulation 40 capital B. So there is no proposal as of today to remove that penalty regulation right. So I think that's about it. 
+
+20:46
+We should kind of course this is, you know, a little simplification because everyone was talking about how this compliance is very rigid and rather it is, you know, too demanding. so I think this is a reig with respect to all that and I also understand that this is part of the preparation for the digitization of the entire framework. 
+
+
+## ibbi cp1 Forms & Documents for V3 Compliance
+21:06
+So as we know that ibbi is working on a platform, a digital platform, where they will be able to, you know, kind of automate a lot of compliances through that portal, also have an integral system with nclt and so on. So that framework will also perhaps use these forms or these documents. We have seen similar changes or similar revamp happening in MCA whenever you know the digitization happened or when the V3 compliance came in. 
+
+21:31
+So it also seems to be preparation on that account. so I think let us see this form cp1, because I believe in case we share this screen, because see like in case we are discussing the forms, it is better that our audience also should see the forms. So this is the cp1 form and you also will kind of see that most of the information in the cp1 is auto populated and also editable. 
+
+22:07
+That is very important. That means name of the corporate data is auto autop populated. That actually shows that the ibbi has a kind of Auto. What normally you see this like. It is connected to the MCA website also, so whatever information is available on MCA website that also comes automatically in these forms, automatically filled out: the sin number, the pan number, now the pan number and all that. 
+
+
+## MC's Pan Number on MCA website
+22:37
+I think it that actually means that because I have never seen the pan number on MCA website. Have you seen that pan number on MCA website? For any CD? It's not necessarily linked with the MCA website. It is also sometimes linked with some kind of Master data. So whenever we creating a new corporate data, we are punching in some information with respect to that I that. So I believe that is the idea. 
+
+23:00
+So in case a pan is available in some database, that is Master database for that CD, then it will autop populate here. Otherwise it will not. But then the master data is not supposed to be populated by IP. It maybe Master data is created. Master data will normally be updated based on various filings done by anyone. 
+
+23:23
+So let's say that you punch and you fill it up a cp1 and there is a you update it and you kind of you know, edit it and you then file it. So idly, whenever you file this form, the software has a provision to update these the these databases with the default databases that you have just entered. So it is not necessary that it is being picked up from MC. 
+
+
+## Industry sector is linked with cp1
+23:46
+It is it can also be picked up from past filings. So like since the cp1 is the first form. So it is the first time IP is filling this form. So before this there is no other form which is supposed to be filled up. So I'm sure that this is even the industry sector. Autop populated means that it is something some information is coming. 
+
+24:13
+Industry sector is linked with the sin number of the company and also with the. You know it is available with MCA U and the only thing that you said, the pan number. Maybe it is coming from some other source, not the MCU. 
+
+24:26
+So again, this like address, registered email, name of the promoters, has to be filled in whether it's a going concern or not whether the proceedings are bending against whether it was a CA company or not, whether there was any application under the company's act regarding the winding up that pending or not. 
+
+
+## Date of filing of application before adjudicating authority
+24:44
+Then regarding the insolvency, professional like all this information would be, probably it would be autop populated and also editable admission of the application by the IAA. So we are also supposed to file that the date of filing of the I application. that is something that we don't get from any Source. Date of filing of the application before adjudicating Authority, maybe under Section 7 or maybe under section 9. That is very difficult to find. 
+
+25:12
+Of course, the bench applicant address of the applicant. All this can be found. However, at times the address of the applicant is also not because see the order doesn't have that and the copy of the petition is not available to the insolvency professional. 
+
+25:27
+So this information, how this information, will be filled, if any of our audience can also add how this like my understanding is not complete regarding how the pan will come, how the date of filing of the application before the adjudicating authority, how that would be available with the insolvency professional. if any of the participants today can show some light, he can raise hand specifically to answer these doubts. 
+
+
+## cp1 vs cp2 vs. cp2
+26:02
+Specifically to answer these doubts regarding the even address of the applicant is not mentioned in the order. so like date of admission, date of order, date of receipt of the order everything is okay. And then the Public Announcement, the reason for delay, then the class of creditors. 
+
+26:23
+All this information will be fed, and this is the form where cp1 then cp2 is again to be again 10th of every month, and that will be like in case the date of issue of the rfrp and by the end. 
+
+26:42
+In case we are taking the same example, that in case we are filling the information up to 31st of May, assuming today is 10th June, then in case we have issued rfrp to COC before 31st of May, then cp2 is required to be submitted. In case the within the month of May rfrp is not issued, then 10th of June cp2 would not be issued. 
+
+
+## CP3 CP3 CP3 CP3 CP3 CP3
+27:16
+Rather it would be issued subsequent month in case the rfrp is issued the month of June. So various details of evaluation valers, appointment information memorandum, information memorandum, the Pras and the rfrp, all these documents are also supposed to be attached. So this again is some. 
+
+27:43
+Today is the day when anit we actually have to seek the opinion from all our audience like, according to them, what are the difficulties that we should collectively report to ibbi as a feedback on discussion p papers? 
+
+27:59
+So if they can, after we finish in another 5 minutes time we will take the kind of views of everyone should come up, so that collectively we should submit our suggestions to ibp again this CP3 a it is again to be submitted by 10th of every month and this will be the approval of the resolution plan by the committee of creditors and all these dates. 
+
+
+## CP 3A, CP 3A, CP, CP, CP,
+28:27
+All this information probably is available with the IP and whatever is being offered is also available, and so this is the sections available, like the information related to the in case in case this particular CP 3A is also applicable, in case the resolution plan is approv and section two is for resolution plan, section three, in case the liquidation resolution is approved. so these are the two kind of like. 
+
+29:02
+In case the resolution plan is approved, then section three is not applicable and section four is applicable regarding the closure of the CP for any other reason. So 3A is actually important for three, four reasons: one, when the resolution plan is approved and submitted to adjudicating Authority. Two, when the liquidation decision has been taken by the COC and the application is filed. Three, whenever there is a premature closure of the cirp. Maybe 12 a cases. 
+
+29:31
+So these are all the three. These are different sections and that is something. Section five is of the regarding the common information which is applicable to every three scenarios. avoidance transaction is also mentioned here, but I'm sure when the 12a is the case, in the case of 12a, avoidance transaction would not be applicable. 
+
+
+## 
+29:55
+And then of course this is for the first time the information is being sought number of employees at the beginning of the CP, and this information is very important when we try to understand the Provident fund dues, gratuity dues. So these informations are very important. Going to three CP 3B is the date of approval of the resolution plan or the liquidation application or the process closer or any other. 
+
+30:23
+So these are different section resolution plan, liquidation Clos. So this 3A whatever we have filled in 3A that will also get autop populated in 3B, and this form also is okay. so cp4 is also like kind of every month, as we said that every form that we have to file is on 10th of every month. 
+
+30:47
+But other than this, the approval of the resolution plan, which is CP 3B that has to be submitted, CP3 B has to be submitted within 7 Days of the approval of the resolution plan or the liquidation order or the process closure. That is 7 Days from the. So otherwise every is 10th of every month. 
+
+
+## 
+31:12
+Now cp4, as we see this, buet transactions, so tp4, we every detail about the buet transaction and that to even transaction wise that is something which is to be submitted and then we have cp5 is the again 10th of every month and this as be the. this is regarding the cp5 is regarding the stage of the cirp, at what stage this form is and every month capturing the status of the CP. 
+
+31:51
+As on the last date of the previous month. If an IP dimits the office AG, in case any IP demits the office, he will only inform up to the last date that he was controlling the company. He was an IP on the company and probably this form is required to be submitted every month and because this is the form which actually gives the status. So then we actually move on to the form. 
+
+32:25
+So these are all the form that we have, form six anit. Now we can actually try to seek the various questions or anyone who would like to say what should be the suggestions, what should be the suggestions? that's what I just want to see. So let me, you know, take up all the comments on the chat box first quickly. 
+
+
+## 
+32:48
+We can do that and we I think we can answer only those queries which are related to relating to these form filings and kind of you know, maybe skip the other so that we can have a more thorough discussion on this topic. So question is that is there any date for form 3B? That's the question seven days from the date of the order. 
+
+33:09
+Maybe the order for approval of the resolution plan, maybe the order for the approval of the liquidation or maybe the order for withdrawal of the process. All right, then we have Mr Hari Prasad saying puff transactions are normally not adjudicated within the closure of CRP period. they are pursued by resolution applicant FC and RP becomes so if it is not, if it is, then that doesn't that event does not arise. 
+
+33:33
+So therefore, that's something we can't address. This is a practical issue which cannot be addressed in the forms tp46, additional fields to be updated by IP when application is adjudicated upon aduc adjudicated by daa, so additional roles to be added on each filing by RP. So this is what is a comment. And now this is a suggestion that can improve this form. 
+
+
+## 
+33:58
+But I'm sure that when it becomes a digital form, additional rows should be allowed, even if they're not proposed in. The additional rows are allowed in various, but this each form is for each corporate dator. The insolvency professional cannot file one cp1 for all the companies. one form is for one assignment. So then Mr cooker is asking what is the name of the website on which these forms will be submitted? 
+
+34:26
+Assets assess cess will be access will be provided to values also or not, so values don't need to submit these form. These are required to be submitt by IPS. Yes, and these are always IPS know that these are available on ibbi website after they log into their portal. 
+
+34:40
+Hari Prasad G says: sir 3A CP 3A, section 2, date of submission of form Edge compliance certificate, as per regulation 394 of CRP regulations form it shall be submitted to daa along with the resolution plan. As the date of submission of resolution plan to the daa is already furnished in the form, this may be redundant. 
+
+
+## 
+35:01
+He's saying that this additional filing perhaps is redundant because the date of submission of resolution plan to daa is already furnished in the form so 3A is the form which is required to be filled in for submission of resolution plan for approval of adjudicating authority. So he's trying to say that there's some kind of application there that information is already available in some other way with the ibbi. What is that other way? 
+
+35:34
+Because see, like ibbi is also trying to say that there are some information which is for the sake of creating a database and that will be autop populated. So we need to. We need to maybe understand from har Prasad G that where do you feel that there is a redundancy or there's a duplicacy of process? We not able to understand that. 
+
+35:55
+Then CP 3A details of admitted claims principal interest are to be shown separately to collect and disate correct information. Dation of principal interest may be made by adding sub Columns of principal interest in the following areas: column claim displayed on CD Master data and ibba website. An extra three list of claims submitted online to IBB RP and form C claim form submitted by FC's. 
+
+
+## 
+36:22
+So like see interest is a sort separately, I think for various reasons. The ibbi is trying to make a database like what is the haircut based on the principal amount and what is the haircut based on the total. So IBI is trying to create a database specifically in those old cases where the outstanding is, say, 100 and the claim is for 500 only because of the number of years. 
+
+37:01
+There's also a lot of criticism with respect to liquidation, the claim value versus the realized value. So if, once the interest comes out separately, there'll be data to say that yes, this percentage of the prin principal has been received and this percentage of Interest might not have been received. I think that's the idea then ashini G is saying I think ibbi will capture many Master data including pan while we create assignment. 
+
+37:26
+Yeah, so it will come from some Source U. I think we will understand that as things progress, then any form in which the disputed claims are not admitted or partially admitted can be put in. So any disclosure in forms with respect to disputed claims is what he's saying. so disputed claims are anyways. You know, at the claim stage in CRP one is not required to adjudicate the disputes and all that. 
+
+
+## 
+37:49
+So I understand that is AD regulations. The IPS are supposed to provide information to all clment in case their claims are not admitted, so that they can take appropriate legal action and they can go for any kind of Remedy available. But ibbi is so far I could understand. They are not asking information about those claims which are which were submitted and has not been admitted by the RP. 
+
+38:20
+That information is not yet sought by the ibbi. Then Mr Maharaj Kumar is saying: sir, it happens at times when the NDA is not submitted by coc for sharing. I am in such a situation. How to comply with the timeline? 
+
+38:36
+So if the if the timeline with respect to I am sharing with COC is not complied with because of coc not sharing the NDA, then that can be a reason for you to say that no, the IM was not shared with the COC and it is ready for sharing. 
+
+
+## 
+38:50
+I think that is the reason because, like if there is any delay in that event, that will the delay in the event will not attract 500 rupees penalty or the filing of the form is delayed within the form. You can always say that IM am was ready and this email was sent to the stakeholders. However, they have not submitted their undertaking confidentiality undertaking. Therefore the IM is not being shared with them. 
+
+39:20
+Then sir cp2 e request for rfrp whether rfrp requires any non refundable will deposit for submission of or along with resolution plan, yes or no. So CRP regulation 3,36 B4 says the request for resolution plan shall not require any non refundable deposit for submission or along with resolution plan. Hence the option yes shall not arise. He says that. So this is more of a checklist kind of a system that you are making. 
+
+39:50
+This is more of a yeah more of that one of those questions which come out when you are applying for a Visa that has any Criminal action happened against you. So you say no, but if you say yes, then you know it will maybe you know, raise a red flag. So something like that. then what about the cases where the cases have been resolved res resolved before January 2020? 
+
+
+## 
+40:15
+So those cases where are which are already resolved are no longer requiring any compliance per se. I think those compliances end you fish a final report and that ends right. Sorry, those cases where resolution has happened before January 2020. So those cases today there is no filing required from the RP or any there. No, there is no. Nothing is required. Nothing is required for completed cases. 
+
+40:38
+Yes, and in form cp5 section 6, cumulative cost disclosure to be given every month whether this cost is approved by COC or actually incurred till last date of the preceding month. So there are. the question is that in cp5 section 6, whether it should be the approved cost or whether it is the cost which is actually incurred till the last date of the preceding month. What is the requirement here for cumulative cost? 
+
+41:01
+I believe the total cost should be given and in case there is any cost which has been incurred by the IP but has not been approved by the COC, that is rather more relevant, and the ipbi would like to get this information that you have incurred a cost but the COC has not approved. How can you incur a cost without the approval of Committee of creditor? 
+
+
+## 
+41:25
+But cp5 has details with respect to how much is approved and how much is not approved. It doesn't have a breakup right. the question is that should we put the approved one or should we approved the? 
+
+41:36
+What is it in last some I still feel that there should be some kind of reasons for writing notes, or maybe we can pass on this practical difficulty as one of the suggestions and seek you know the details with respect to. So in case there are certain expenses which you know the RP incurs and you know sometimes he gets them ratified in the next c meeting. 
+
+42:00
+They don't have any specific approval and those are the costs that will always be a differential here. Yes, yes, so thank you, Anil chalia G, for sharing this one. Then another one is if RP had already filed existing forms, all these new forms to be filed with all details a fresh to be filed. so they're saying that if you had, we had filled all the old forms, these are supposed to be filed a fresh. 
+
+
+## 
+42:27
+That's the question. No, these I believe. When this regulation will finally be notified. At that time we will be able to see what is to be submitted for the existing company transition Provisions will also transision will also be given. My understanding is that the since these forms are new and all this information is already available with the IPS. 
+
+42:54
+Ibbi might even say that since they are shifting to a different database, they might even seek information from all the IPS right starting from cp1. Why? Because see, then in that case only their data would be complete. So their data has to be complete. it is very difficult to start a data in between, because see if there are 700 CP cases which are presently continuing. 
+
+43:21
+For all these 700 CP cases there has to be a meaningful database. Otherwise starting from today would not be meaningful. So the ibbi might even say that you have to fill in one time all information. So then we one comment is that in the AA of the NT order, memo of parties, address of parties will be there. So nclt order will never have the address. 
+
+
+## 
+43:49
+I think refering to the appli application might have the address and application might be available, might not be available to everyone. Yes, then sanit G is saying that. so monthly reporting framework requires IP or IP to submit all the relevant forms for all assignments, but 10th of next month for each activity for the last month. Yeah, so I think that's what different of Ip. 
+
+44:14
+Yeah, these forms are supposed to be submitted by the authorized, the authorized partner, signat authoriz signat. So that's about it. And now we have one raiseed hand, which is from Mr anela. I will just ask him: I don't have the co host right today will have to give it to me. Just so I have allowed you to talk in case you can unmute yourself and state what share, what you have to share. 
+
+44:53
+Mr anela, I also have s g, so I am so rather RK rkg. I'm asking him to unmute as well. no, okay, I think we can conclude in case there is no further question and because this is a small discussion paper and it is, we can only add that it is definitely much welcome kind of a discussion paper. 
+
+
+## 
+45:31
+The obligations on the insolvency professionals will actually come down, the stress will come down and the compliance dates would be lesser in numbers now because there'll be only one date, one which is a compliance date, which is 10th of every month. So that is the very big takeaway from these discussion papers. So I have asked Mr Maraj Kumar G to share his thoughts. He just unmuted himself. Sorry, my bad. Good afternoon. 
+
+46:10
+An S and Mr an so far as regarding compliance and compliance to be made, so far as date of filing of CIP is concerned that we can have from the council like representing the case. No see our Council. So you are trying to say that the Council of the operational creditor or the financial creditor only yes, sir, and we only can request him that he should give us the date of filing. 
+
+46:43
+Yes, otherwise it is not available on public domain. That's what I want to say, so that of course we can get by sending an email to the. And how do we come to know who is the lawyer in this case? Because the lawyers only names are written now, because how do we come to know about the contracts of the lawyer? 
+
+
+## 
+47:09
+Because nowadays a lot of cases are coming directly from NT and where we do not know even the applicant only in some cases. I find this correspondence from. The Advocate where he advocate of the OC or the FC kind of shares the order with the RP or the Liquidator appointed. It doesn't happen every time. Sometimes you know this information that somebody's been appointed as RP or Liquidator comes from totally different sources. 
+
+47:35
+So can we make a request to the registry to provide the same registry, as doesn't provide that you just making a request and then waiting for it and the form has to be submitted within the time line registry? 
+
+47:52
+My experience with respect to registry is that registry also kind of sees that whether you're a party to the matter or not, and then there's a process for them to take some deposit and then SE some instruction to give you a copy. It's not very easy. This is my experience with regist not to give a copy, but at least, like you know, we could. I mean come to know about the date of filing. 
+
+
+## 
+48:12
+Well, I think, like we are only trying to seek the opinion of someone who actually has tried and successfully tried. So these many options. Of course anyone will try, but there is nothing which is the concrete option. You may apply to registry. You may apply to the. You may seek information from the lawyer. that is all an effort and whether the efforts will be effective or not. That we don't know. 
+
+48:37
+Because see what we are trying to understand from everyone participating today, whether there is any information publicly available where we can go and fetch it. See there is still a duplication with regard to Public Announcement which you have to upload on ibbi as well as IPA website. So we can give some suggestion on this recommendation to ibbi to avoid such duplication. 
+
+49:08
+And one more thing is that half yearly return which IPR to upload on IPA website again there is some duplication of data. So if that half yearly return also information gets autop. So one is the half yearly return, yeah, and the other that your recommendation is Public Announcement. we have to upload on both the website the Public Announcement when we okay it is. It is required on both the website. Yes, so another input. 
+
+
+## 
+49:45
+So another input that has come. Yeah, another input that has come through the chat box is that the date of filing is available on nclt website in the menu case history when you punch in the case number. So I think this is a public data that can be used by everyone. I think this kind of resolves this issue. I'm not sure whether it is available maximum information. 
+
+50:11
+This has come from about five, six people that this is available in case history when you punch in the I in from the NT website, it is available. This is what everyone has said. The case history means case history. even the data filing is also available. Yes, this is what everyone is saying and this has come from size 6 s people. Yes, Nam and all other information are available in the admission order. 
+
+50:36
+Also names are available anyway. So this is taken care of that. If it is available, then it is available. Yeah, even the names are available. Then we'll actually find the. But then it is this is okay in case the case history, case history date of filing is available. That kind of resolves this isue that resolves this issue. Yeah, any other comment from the people who have raised their hand. 
+
+
+## 
+50:59
+Else then we will monthly update which all informations are available in the admission order. also no, in the admission order, the DAT is not available and also the address of. The Advocate or email of. The Advocate is not available. Also, the address of the corporate dat is not available. Sir, monthly update, which we are required to do on IP website. Again, there are some duplication. 
+
+51:30
+Yes, that can be including creation of assignment at both the end. So if the assignment is created at ibbi mentioning the IP name, then it should get Auto information should go to the IP. I believe once this is notified, then the information which is required to be submitted to IPA and the ibba will be one only because whatever this data, this data will also be accessible by the IPA. This my understanding. 
+
+52:05
+If someone else has a different understanding, I think that he can raise hand or he can write on the chat box. My understanding is that once this would be notified this will. This will be all information regarding with IPA as well as ibbi, because see the primarily primary objective of this discussion paper is to remove the difficulty of submission of information or duplicacy to subm duplicate information is to be deleted. 
+
+
+## 
+52:37
+So since you're writing down the observations, one more observation that came in for cp5 Section 6, that the cumulative cost disclosure. There might be a confusion with respect to whether to put approved cost or actual cost incurred till the last date of preceding month. and also the there is a possibility that in case there is an interest in filing, you know, approved and unapproved expenses separately is also a possibility. 
+
+53:10
+I think with this we can wind up, and I think there is no other question that is left. So thank you so much for all the feedback that everyone has shared. This was extremely helpful and looking forward to see you next week. thank you very much. this is our way of learning. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

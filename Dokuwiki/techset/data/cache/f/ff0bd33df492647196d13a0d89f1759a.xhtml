@@ -1,0 +1,1193 @@
+
+<p>
+<style>
+.liteparse-container {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 15px 0;
+    background: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    overflow: hidden;
+}
+.liteparse-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 15px;
+}
+.liteparse-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.liteparse-meta-bar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.liteparse-badge {
+    background: rgba(255,255,255,0.2);
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+}
+.liteparse-toggle {
+    background: rgba(255,255,255,0.2);
+    border: 1px solid rgba(255,255,255,0.3);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+}
+.liteparse-toggle:hover {
+    background: rgba(255,255,255,0.3);
+}
+.liteparse-tabs {
+    display: flex;
+    background: #f5f5f5;
+    border-bottom: 1px solid #ddd;
+}
+.liteparse-tab {
+    padding: 10px 20px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 14px;
+    border-bottom: 2px solid transparent;
+    color: #666;
+}
+.liteparse-tab:hover {
+    background: #eee;
+}
+.liteparse-tab.active {
+    color: #667eea;
+    border-bottom-color: #667eea;
+    background: #fff;
+}
+.liteparse-tab-content {
+    display: none;
+    padding: 15px;
+    max-height: 500px;
+    overflow-y: auto;
+}
+.liteparse-tab-content.active {
+    display: block;
+}
+.liteparse-text {
+    white-space: pre-wrap;
+    font-size: 13px;
+    line-height: 1.6;
+    background: #fafafa;
+    padding: 15px;
+    border-radius: 4px;
+}
+.liteparse-tree {
+    font-size: 13px;
+}
+.liteparse-node {
+    margin: 2px 0;
+}
+.liteparse-node-header {
+    padding: 8px 10px;
+    background: #f5f5f5;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.liteparse-node-header:hover {
+    background: #eee;
+}
+.liteparse-icon {
+    font-size: 10px;
+    width: 12px;
+    transition: transform 0.2s;
+}
+.liteparse-node.open > .liteparse-node-header .liteparse-icon {
+    transform: rotate(90deg);
+}
+.liteparse-label {
+    font-weight: 500;
+}
+.liteparse-count {
+    color: #888;
+    font-size: 12px;
+    margin-left: auto;
+}
+.liteparse-node-children {
+    margin-left: 20px;
+    padding-left: 10px;
+    border-left: 2px solid #ddd;
+}
+.liteparse-item {
+    margin: 3px 0;
+}
+.liteparse-item-header {
+    padding: 6px 10px;
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.liteparse-item-header:hover {
+    border-color: #ccc;
+}
+.liteparse-text-preview {
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.liteparse-large { font-weight: 600; color: #333; }
+.liteparse-medium { color: #555; }
+.liteparse-small { color: #777; font-size: 11px; }
+.liteparse-font-badge {
+    background: #e3f2fd;
+    color: #1976d2;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 11px;
+}
+.liteparse-item-details {
+    margin: 5px 0 5px 20px;
+    padding: 10px;
+    background: #fafafa;
+    border-radius: 4px;
+    border: 1px solid #eee;
+}
+.liteparse-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+}
+.liteparse-table th {
+    text-align: left;
+    width: 80px;
+    color: #666;
+    padding: 4px 0;
+}
+.liteparse-table td {
+    padding: 4px 0;
+}
+.liteparse-more {
+    color: #888;
+    font-style: italic;
+    padding: 10px;
+    text-align: center;
+}
+.liteparse-badge-heading {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    color: white;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: 600;
+    margin-right: 8px;
+}
+.liteparse-para-text {
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    font-size: 13px;
+    line-height: 1.5;
+    max-height: 150px;
+    overflow-y: auto;
+}
+.liteparse-json-raw {
+    background: #1e1e1e;
+    color: #d4d4d4;
+    padding: 15px;
+    border-radius: 4px;
+    font-size: 12px;
+    overflow-x: auto;
+    max-height: 400px;
+}
+.liteparse-import-box {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 20px;
+    background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+    border: 2px dashed #ccc;
+    border-radius: 8px;
+    margin: 15px 0;
+}
+.liteparse-import-icon {
+    font-size: 40px;
+}
+.liteparse-import-content {
+    flex: 1;
+}
+.liteparse-import-content code {
+    background: #fff;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 11px;
+    word-break: break-all;
+}
+.liteparse-btn {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.liteparse-btn:hover {
+    opacity: 0.9;
+}
+.liteparse-status {
+    margin-left: 10px;
+    font-size: 13px;
+}
+</style>
+<script>
+function liteparseToggle(id) {
+    var el = document.getElementById(id);
+    var parent = el.parentElement.parentElement;
+    if (el.style.display === "none") {
+        el.style.display = "block";
+        parent.classList.add("open");
+    } else {
+        el.style.display = "none";
+        parent.classList.remove("open");
+    }
+}
+function liteparseToggleAll(btn) {
+    var container = btn.closest(".liteparse-container");
+    var children = container.querySelectorAll(".liteparse-node-children");
+    var isExpanded = btn.textContent.includes("Collapse");
+    children.forEach(function(el) {
+        el.style.display = isExpanded ? "none" : "block";
+        var parent = el.parentElement;
+        if (isExpanded) parent.classList.remove("open");
+        else parent.classList.add("open");
+    });
+    btn.textContent = isExpanded ? "Expand All" : "Collapse All";
+}
+function liteparseShowTab(btn, tabName) {
+    var container = btn.closest(".liteparse-container");
+    container.querySelectorAll(".liteparse-tab").forEach(function(t) { t.classList.remove("active"); });
+    container.querySelectorAll(".liteparse-tab-content").forEach(function(t) { t.classList.remove("active"); });
+    btn.classList.add("active");
+    document.getElementById("liteparse-tab-" + tabName).classList.add("active");
+}
+</script>
+<div class="liteparse-container" id="liteparse-ed8b42f6b336af21f71a21ae34673774">
+<div class="liteparse-header">
+<div class="liteparse-title">📄 liteparse_ed8b42f6b336af21f71a21ae34673774.pdf</div>
+<div class="liteparse-meta-bar">
+<span class="liteparse-badge">Pages: 2</span>
+<span class="liteparse-badge">Characters: 2,868</span>
+<button class="liteparse-toggle" onclick="liteparseToggleAll(this)">Expand All</button>
+</div>
+</div>
+<div class="liteparse-tabs">
+<button class="liteparse-tab active" onclick="liteparseShowTab(this, 'text')">Text</button>
+<button class="liteparse-tab" onclick="liteparseShowTab(this, 'pages')">Pages</button>
+<button class="liteparse-tab" onclick="liteparseShowTab(this, 'json')">Raw JSON</button>
+</div>
+<div class="liteparse-tab-content active" id="liteparse-tab-text">
+<div class="liteparse-text">
+<p>Insolvency and Bankruptcy Board of India</p><p>7th Floor, Mayur Bhawan, Connaught Place, New Delhi – 110001</p><p>CIRCULAR No. IBBI/RV/93/2026 1st April, 2026</p><p>To All Registered Valuer Organisations All Registered Valuer Entities</p><p>All Registered Valuers All Registered Insolvency Professional Agencies All Registered Insolvency Professional Entities, and All Registered Insolvency Professionals (By email to registered email addresses and on the website of the IBBI)</p><p>Dear Madam/Sir, Subject: Valuation Standards for the purpose of valuation conducted under the Insolvency and Bankruptcy Code, 2016.</p><p>One of the objectives of the Insolvency and Bankruptcy Code, 2016 (“the Code”) is the maximisation of value of assets of the corporate debtor(CD) in a time bound manner. Valuation of the CD serves as a critical input for evaluation of resolution plans and facilitates informed decision-making by stakeholders, including the committee of creditors, resolution applicants, and adjudicating authorities. Therefore, transparent, objective, and credible valuation of assets of the CDis fundamental to the effective functioning of the insolvency framework</p><p>2. For the purposes of valuations under the Code, the following provisions of the amended regulations made under the Insolvency and Bankruptcy Code, 2016 provide that valuations shall be conducted in accordance with such valuation standards as notified by the Insolvency and BankruptcyBoard of India (IBBI/Board) through circular:</p><p>(i) clause (c) of sub-regulation (1) of regulation 35 of the IBBI (Insolvency Resolution Process for Corporate Persons) Regulations, 2016;</p><p>(ii) sub-regulation (3) of regulation 35 of theIBBI(Liquidation Process) Regulations, 2016;</p><p>(iii) clause (b) of sub-regulation (1) of regulation 3 of the IBBI (Voluntary Liquidation Process) Regulations, 2017;</p><p>(iv) clause (c) of sub-regulation (1) of regulation 39 of the IBBI (Pre-packaged Insolvency Resolution Process) Regulations, 2021, and</p><p>(iv) sub-regulation (2) of regulation 30 of the IBBI (Bankruptcy Process for Personal Guarantors to Corporate Debtors) Regulations, 2019.</p><p>---</p><p>3. In exercise of the powers conferred by the afore-mentioned regulations, the Board hereby notifies the International Valuation Standards (IVS), as issued and updated from time to time by theInternational Valuation Standards Council (IVSC),as the valuation standards applicable for the purposes of thevaluations conducted under the Codeand regulations made thereunder, until further orders.</p><p>4. This circular shall come into force from the date of its issue and shall apply to all valuation conducted under the Code and regulations made thereunder.</p><p>5. This circular is being issued in exercise of the powers conferred under the provisions of section 196 of the Code and regulations made thereunder.</p><p>Yours faithfully, -Sd- (B. Sankaranarayanan) General Manager</p></div>
+</div>
+<div class="liteparse-tab-content" id="liteparse-tab-pages">
+<div class="liteparse-tree">
+<div class="liteparse-node">
+<div class="liteparse-node-header" onclick="liteparseToggle('page-0')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-label">Page 1</span>
+<span class="liteparse-count">13 paragraphs</span>
+</div>
+<div class="liteparse-node-children" id="page-0" style="display:none;">
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-0')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-badge-heading">H2</span>
+<span class="liteparse-text-preview">Insolvency and Bankruptcy Board of India</span>
+<span class="liteparse-font-badge">14pt, 1 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-0" style="display:none;">
+<div class="liteparse-para-text">Insolvency and Bankruptcy Board of India</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Heading (H2)</td></tr>
+<tr><th>Lines</th><td>1</td></tr>
+<tr><th>Font Size</th><td>14pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 169.5, y: 71.1</td></tr>
+<tr><th>Size</th><td>256.3 × 14</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-1')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">7th Floor, Mayur Bhawan, Connaught Place, New Delhi – 110001</span>
+<span class="liteparse-font-badge">14pt, 1 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-1" style="display:none;">
+<div class="liteparse-para-text">7th Floor, Mayur Bhawan, Connaught Place, New Delhi – 110001</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>1</td></tr>
+<tr><th>Font Size</th><td>14pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 112.3, y: 88.5</td></tr>
+<tr><th>Size</th><td>370.8 × 14</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-2')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-badge-heading">H3</span>
+<span class="liteparse-text-preview">CIRCULAR No. IBBI/RV/93/2026 1st April, 2026</span>
+<span class="liteparse-font-badge">11.8pt, 2 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-2" style="display:none;">
+<div class="liteparse-para-text">CIRCULAR No. IBBI/RV/93/2026 1st April, 2026</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Heading (H3)</td></tr>
+<tr><th>Lines</th><td>2</td></tr>
+<tr><th>Font Size</th><td>11.8pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 72, y: 128.8</td></tr>
+<tr><th>Size</th><td>420.6 × 24</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-3')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">To All Registered Valuer Organisations All Registered Valuer Entities</span>
+<span class="liteparse-font-badge">12pt, 3 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-3" style="display:none;">
+<div class="liteparse-para-text">To All Registered Valuer Organisations All Registered Valuer Entities</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>3</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 72, y: 189.5</td></tr>
+<tr><th>Size</th><td>173.1 × 36</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-4')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">All Registered Valuers All Registered Insolvency Professional Agencies All Regis...</span>
+<span class="liteparse-font-badge">12pt, 5 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-4" style="display:none;">
+<div class="liteparse-para-text">All Registered Valuers All Registered Insolvency Professional Agencies All Registered Insolvency Professional Entities, and All Registered Insolvency Professionals (By email to registered email addresses and on the website of the IBBI)</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>5</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 72, y: 242.2</td></tr>
+<tr><th>Size</th><td>343.3 × 60</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-5')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">Dear Madam/Sir, Subject: Valuation Standards for the purpose of valuation conduc...</span>
+<span class="liteparse-font-badge">12pt, 3 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-5" style="display:none;">
+<div class="liteparse-para-text">Dear Madam/Sir, Subject: Valuation Standards for the purpose of valuation conducted under the Insolvency and Bankruptcy Code, 2016.</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>3</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 72, y: 339.5</td></tr>
+<tr><th>Size</th><td>451.3 × 36</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-6')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">One of the objectives of the Insolvency and Bankruptcy Code, 2016 (“the Code�...</span>
+<span class="liteparse-font-badge">12pt, 6 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-6" style="display:none;">
+<div class="liteparse-para-text">One of the objectives of the Insolvency and Bankruptcy Code, 2016 (“the Code”) is the maximisation of value of assets of the corporate debtor(CD) in a time bound manner. Valuation of the CD serves as a critical input for evaluation of resolution plans and facilitates informed decision-making by stakeholders, including the committee of creditors, resolution applicants, and adjudicating authorities. Therefore, transparent, objective, and credible valuation of assets of the CDis fundamental to the effective functioning of the insolvency framework</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>6</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 72, y: 400.3</td></tr>
+<tr><th>Size</th><td>451.4 × 72</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-7')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">2. For the purposes of valuations under the Code, the following provisions of th...</span>
+<span class="liteparse-font-badge">12pt, 4 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-7" style="display:none;">
+<div class="liteparse-para-text">2. For the purposes of valuations under the Code, the following provisions of the amended regulations made under the Insolvency and Bankruptcy Code, 2016 provide that valuations shall be conducted in accordance with such valuation standards as notified by the Insolvency and BankruptcyBoard of India (IBBI/Board) through circular:</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>4</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 72, y: 497.6</td></tr>
+<tr><th>Size</th><td>451.4 × 48</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-8')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">(i) clause (c) of sub-regulation (1) of regulation 35 of the IBBI (Insolvency Re...</span>
+<span class="liteparse-font-badge">12pt, 2 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-8" style="display:none;">
+<div class="liteparse-para-text">(i) clause (c) of sub-regulation (1) of regulation 35 of the IBBI (Insolvency Resolution Process for Corporate Persons) Regulations, 2016;</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>2</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 86.2, y: 565.2</td></tr>
+<tr><th>Size</th><td>437 × 24</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-9')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">(ii) sub-regulation (3) of regulation 35 of theIBBI(Liquidation Process) Regulat...</span>
+<span class="liteparse-font-badge">12pt, 1 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-9" style="display:none;">
+<div class="liteparse-para-text">(ii) sub-regulation (3) of regulation 35 of theIBBI(Liquidation Process) Regulations, 2016;</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>1</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 86.2, y: 603</td></tr>
+<tr><th>Size</th><td>437.2 × 12</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-10')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">(iii) clause (b) of sub-regulation (1) of regulation 3 of the IBBI (Voluntary Li...</span>
+<span class="liteparse-font-badge">12pt, 2 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-10" style="display:none;">
+<div class="liteparse-para-text">(iii) clause (b) of sub-regulation (1) of regulation 3 of the IBBI (Voluntary Liquidation Process) Regulations, 2017;</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>2</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 86.2, y: 625.9</td></tr>
+<tr><th>Size</th><td>437.1 × 24</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-11')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">(iv) clause (c) of sub-regulation (1) of regulation 39 of the IBBI (Pre-packaged...</span>
+<span class="liteparse-font-badge">12pt, 2 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-11" style="display:none;">
+<div class="liteparse-para-text">(iv) clause (c) of sub-regulation (1) of regulation 39 of the IBBI (Pre-packaged Insolvency Resolution Process) Regulations, 2021, and</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>2</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 86.2, y: 663.6</td></tr>
+<tr><th>Size</th><td>437.1 × 24</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-0-para-12')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">(iv) sub-regulation (2) of regulation 30 of the IBBI (Bankruptcy Process for Per...</span>
+<span class="liteparse-font-badge">12pt, 2 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-0-para-12" style="display:none;">
+<div class="liteparse-para-text">(iv) sub-regulation (2) of regulation 30 of the IBBI (Bankruptcy Process for Personal Guarantors to Corporate Debtors) Regulations, 2019.</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>2</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 86.2, y: 701.4</td></tr>
+<tr><th>Size</th><td>437.1 × 24</td></tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="liteparse-node">
+<div class="liteparse-node-header" onclick="liteparseToggle('page-1')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-label">Page 2</span>
+<span class="liteparse-count">4 paragraphs</span>
+</div>
+<div class="liteparse-node-children" id="page-1" style="display:none;">
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-1-para-0')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">3. In exercise of the powers conferred by the afore-mentioned regulations, the B...</span>
+<span class="liteparse-font-badge">12pt, 5 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-1-para-0" style="display:none;">
+<div class="liteparse-para-text">3. In exercise of the powers conferred by the afore-mentioned regulations, the Board hereby notifies the International Valuation Standards (IVS), as issued and updated from time to time by theInternational Valuation Standards Council (IVSC),as the valuation standards applicable for the purposes of thevaluations conducted under the Codeand regulations made thereunder, until further orders.</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>5</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 72, y: 71.2</td></tr>
+<tr><th>Size</th><td>451.4 × 60</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-1-para-1')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">4. This circular shall come into force from the date of its issue and shall appl...</span>
+<span class="liteparse-font-badge">12pt, 2 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-1-para-1" style="display:none;">
+<div class="liteparse-para-text">4. This circular shall come into force from the date of its issue and shall apply to all valuation conducted under the Code and regulations made thereunder.</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>2</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 72, y: 153.6</td></tr>
+<tr><th>Size</th><td>451.5 × 24</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-1-para-2')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">5. This circular is being issued in exercise of the powers conferred under the p...</span>
+<span class="liteparse-font-badge">12pt, 2 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-1-para-2" style="display:none;">
+<div class="liteparse-para-text">5. This circular is being issued in exercise of the powers conferred under the provisions of section 196 of the Code and regulations made thereunder.</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>2</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 72, y: 191.4</td></tr>
+<tr><th>Size</th><td>451.1 × 24</td></tr>
+</table>
+</div>
+</div>
+<div class="liteparse-item">
+<div class="liteparse-item-header" onclick="liteparseToggle('page-1-para-3')">
+<span class="liteparse-icon">▶</span>
+<span class="liteparse-text-preview">Yours faithfully, -Sd- (B. Sankaranarayanan) General Manager</span>
+<span class="liteparse-font-badge">12pt, 4 line(s)</span>
+</div>
+<div class="liteparse-item-details" id="page-1-para-3" style="display:none;">
+<div class="liteparse-para-text">Yours faithfully, -Sd- (B. Sankaranarayanan) General Manager</div>
+<table class="liteparse-table">
+<tr><th>Type</th><td>Paragraph</td></tr>
+<tr><th>Lines</th><td>4</td></tr>
+<tr><th>Font Size</th><td>12pt (avg)</td></tr>
+<tr><th>Position</th><td>x: 413.6, y: 273.9</td></tr>
+<tr><th>Size</th><td>109.9 × 48</td></tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="liteparse-tab-content" id="liteparse-tab-json">
+<pre class="liteparse-json-raw">{
+    &quot;success&quot;: true,
+    &quot;filename&quot;: &quot;liteparse_ed8b42f6b336af21f71a21ae34673774.pdf&quot;,
+    &quot;text&quot;: &quot;Insolvency and Bankruptcy Board of India\n\n7th Floor, Mayur Bhawan, Connaught Place, New Delhi – 110001\n\nCIRCULAR No. IBBI\/RV\/93\/2026 1st April, 2026\n\nTo All Registered Valuer Organisations All Registered Valuer Entities\n\nAll Registered Valuers All Registered Insolvency Professional Agencies All Registered Insolvency Professional Entities, and All Registered Insolvency Professionals (By email to registered email addresses and on the website of the IBBI)\n\nDear Madam\/Sir, Subject: Valuation Standards for the purpose of valuation conducted under the Insolvency and Bankruptcy Code, 2016.\n\nOne of the objectives of the Insolvency and Bankruptcy Code, 2016 (“the Code”) is the maximisation of value of assets of the corporate debtor(CD) in a time bound manner. Valuation of the CD serves as a critical input for evaluation of resolution plans and facilitates informed decision-making by stakeholders, including the committee of creditors, resolution applicants, and adjudicating authorities. Therefore, transparent, objective, and credible valuation of assets of the CDis fundamental to the effective functioning of the insolvency framework\n\n2. For the purposes of valuations under the Code, the following provisions of the amended regulations made under the Insolvency and Bankruptcy Code, 2016 provide that valuations shall be conducted in accordance with such valuation standards as notified by the Insolvency and BankruptcyBoard of India (IBBI\/Board) through circular:\n\n(i) clause (c) of sub-regulation (1) of regulation 35 of the IBBI (Insolvency Resolution Process for Corporate Persons) Regulations, 2016;\n\n(ii) sub-regulation (3) of regulation 35 of theIBBI(Liquidation Process) Regulations, 2016;\n\n(iii) clause (b) of sub-regulation (1) of regulation 3 of the IBBI (Voluntary Liquidation Process) Regulations, 2017;\n\n(iv) clause (c) of sub-regulation (1) of regulation 39 of the IBBI (Pre-packaged Insolvency Resolution Process) Regulations, 2021, and\n\n(iv) sub-regulation (2) of regulation 30 of the IBBI (Bankruptcy Process for Personal Guarantors to Corporate Debtors) Regulations, 2019.\n\n---\n\n3. In exercise of the powers conferred by the afore-mentioned regulations, the Board hereby notifies the International Valuation Standards (IVS), as issued and updated from time to time by theInternational Valuation Standards Council (IVSC),as the valuation standards applicable for the purposes of thevaluations conducted under the Codeand regulations made thereunder, until further orders.\n\n4. This circular shall come into force from the date of its issue and shall apply to all valuation conducted under the Code and regulations made thereunder.\n\n5. This circular is being issued in exercise of the powers conferred under the provisions of section 196 of the Code and regulations made thereunder.\n\nYours faithfully, -Sd- (B. Sankaranarayanan) General Manager&quot;,
+    &quot;markdown&quot;: &quot;## Insolvency and Bankruptcy Board of India\n\n7th Floor, Mayur Bhawan, Connaught Place, New Delhi – 110001\n\n\n### CIRCULAR No. IBBI\/RV\/93\/2026 1st April, 2026\n\nTo All Registered Valuer Organisations All Registered Valuer Entities\n\nAll Registered Valuers All Registered Insolvency Professional Agencies All Registered Insolvency Professional Entities, and All Registered Insolvency Professionals (By email to registered email addresses and on the website of the IBBI)\n\nDear Madam\/Sir, Subject: Valuation Standards for the purpose of valuation conducted under the Insolvency and Bankruptcy Code, 2016.\n\nOne of the objectives of the Insolvency and Bankruptcy Code, 2016 (“the Code”) is the maximisation of value of assets of the corporate debtor(CD) in a time bound manner. Valuation of the CD serves as a critical input for evaluation of resolution plans and facilitates informed decision-making by stakeholders, including the committee of creditors, resolution applicants, and adjudicating authorities. Therefore, transparent, objective, and credible valuation of assets of the CDis fundamental to the effective functioning of the insolvency framework\n\n2. For the purposes of valuations under the Code, the following provisions of the amended regulations made under the Insolvency and Bankruptcy Code, 2016 provide that valuations shall be conducted in accordance with such valuation standards as notified by the Insolvency and BankruptcyBoard of India (IBBI\/Board) through circular:\n(i) clause (c) of sub-regulation (1) of regulation 35 of the IBBI (Insolvency Resolution Process for Corporate Persons) Regulations, 2016;\n(ii) sub-regulation (3) of regulation 35 of theIBBI(Liquidation Process) Regulations, 2016;\n(iii) clause (b) of sub-regulation (1) of regulation 3 of the IBBI (Voluntary Liquidation Process) Regulations, 2017;\n(iv) clause (c) of sub-regulation (1) of regulation 39 of the IBBI (Pre-packaged Insolvency Resolution Process) Regulations, 2021, and\n(iv) sub-regulation (2) of regulation 30 of the IBBI (Bankruptcy Process for Personal Guarantors to Corporate Debtors) Regulations, 2019.\n\n---\n\n3. In exercise of the powers conferred by the afore-mentioned regulations, the Board hereby notifies the International Valuation Standards (IVS), as issued and updated from time to time by theInternational Valuation Standards Council (IVSC),as the valuation standards applicable for the purposes of thevaluations conducted under the Codeand regulations made thereunder, until further orders.\n4. This circular shall come into force from the date of its issue and shall apply to all valuation conducted under the Code and regulations made thereunder.\n5. This circular is being issued in exercise of the powers conferred under the provisions of section 196 of the Code and regulations made thereunder.\nYours faithfully, -Sd- (B. Sankaranarayanan) General Manager\n\n\n---&quot;,
+    &quot;pages&quot;: [
+        {
+            &quot;pageNum&quot;: 1,
+            &quot;width&quot;: 595.32,
+            &quot;height&quot;: 841.92,
+            &quot;paragraphs&quot;: [
+                {
+                    &quot;text&quot;: &quot;Insolvency and Bankruptcy Board of India&quot;,
+                    &quot;y&quot;: 71.05999999999992,
+                    &quot;height&quot;: 14.039999999999992,
+                    &quot;avgFontSize&quot;: 14,
+                    &quot;lineCount&quot;: 1,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 169.49,
+                    &quot;width&quot;: 256.3142400000002,
+                    &quot;isHeading&quot;: true,
+                    &quot;headingLevel&quot;: 2,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;7th Floor, Mayur Bhawan, Connaught Place, New Delhi – 110001&quot;,
+                    &quot;y&quot;: 88.46000000000001,
+                    &quot;height&quot;: 14.039999999999992,
+                    &quot;avgFontSize&quot;: 14,
+                    &quot;lineCount&quot;: 1,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 112.34,
+                    &quot;width&quot;: 370.8201200000001,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;CIRCULAR No. IBBI\/RV\/93\/2026 1st April, 2026&quot;,
+                    &quot;y&quot;: 128.77999999999997,
+                    &quot;height&quot;: 24,
+                    &quot;avgFontSize&quot;: 11.8,
+                    &quot;lineCount&quot;: 2,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 72.024,
+                    &quot;width&quot;: 420.556,
+                    &quot;isHeading&quot;: true,
+                    &quot;headingLevel&quot;: 3,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;To All Registered Valuer Organisations All Registered Valuer Entities&quot;,
+                    &quot;y&quot;: 189.5,
+                    &quot;height&quot;: 36,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 3,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 72.024,
+                    &quot;width&quot;: 173.07600000000002,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;All Registered Valuers All Registered Insolvency Professional Agencies All Registered Insolvency Professional Entities, and All Registered Insolvency Professionals (By email to registered email addresses and on the website of the IBBI)&quot;,
+                    &quot;y&quot;: 242.20999999999992,
+                    &quot;height&quot;: 60,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 5,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 72.024,
+                    &quot;width&quot;: 343.31199999999995,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;Dear Madam\/Sir, Subject: Valuation Standards for the purpose of valuation conducted under the Insolvency and Bankruptcy Code, 2016.&quot;,
+                    &quot;y&quot;: 339.53,
+                    &quot;height&quot;: 36,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 3,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 72.024,
+                    &quot;width&quot;: 451.332,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;One of the objectives of the Insolvency and Bankruptcy Code, 2016 (“the Code”) is the maximisation of value of assets of the corporate debtor(CD) in a time bound manner. Valuation of the CD serves as a critical input for evaluation of resolution plans and facilitates informed decision-making by stakeholders, including the committee of creditors, resolution applicants, and adjudicating authorities. Therefore, transparent, objective, and credible valuation of assets of the CDis fundamental to the effective functioning of the insolvency framework&quot;,
+                    &quot;y&quot;: 400.27,
+                    &quot;height&quot;: 72,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 6,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 72.024,
+                    &quot;width&quot;: 451.41999999999996,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;2. For the purposes of valuations under the Code, the following provisions of the amended regulations made under the Insolvency and Bankruptcy Code, 2016 provide that valuations shall be conducted in accordance with such valuation standards as notified by the Insolvency and BankruptcyBoard of India (IBBI\/Board) through circular:&quot;,
+                    &quot;y&quot;: 497.59,
+                    &quot;height&quot;: 48,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 4,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 72.024,
+                    &quot;width&quot;: 451.3960000000001,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;(i) clause (c) of sub-regulation (1) of regulation 35 of the IBBI (Insolvency Resolution Process for Corporate Persons) Regulations, 2016;&quot;,
+                    &quot;y&quot;: 565.18,
+                    &quot;height&quot;: 24,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 2,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 86.184,
+                    &quot;width&quot;: 437.0319999999999,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;(ii) sub-regulation (3) of regulation 35 of theIBBI(Liquidation Process) Regulations, 2016;&quot;,
+                    &quot;y&quot;: 602.98,
+                    &quot;height&quot;: 12,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 1,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 86.184,
+                    &quot;width&quot;: 437.2320000000001,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;(iii) clause (b) of sub-regulation (1) of regulation 3 of the IBBI (Voluntary Liquidation Process) Regulations, 2017;&quot;,
+                    &quot;y&quot;: 625.9,
+                    &quot;height&quot;: 24,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 2,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 86.184,
+                    &quot;width&quot;: 437.068,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;(iv) clause (c) of sub-regulation (1) of regulation 39 of the IBBI (Pre-packaged Insolvency Resolution Process) Regulations, 2021, and&quot;,
+                    &quot;y&quot;: 663.5799999999999,
+                    &quot;height&quot;: 24,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 2,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 86.184,
+                    &quot;width&quot;: 437.0799999999999,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;(iv) sub-regulation (2) of regulation 30 of the IBBI (Bankruptcy Process for Personal Guarantors to Corporate Debtors) Regulations, 2019.&quot;,
+                    &quot;y&quot;: 701.38,
+                    &quot;height&quot;: 24,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 2,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 86.184,
+                    &quot;width&quot;: 437.0859999999998,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                }
+            ],
+            &quot;textItems&quot;: [
+                {
+                    &quot;text&quot;: &quot;Insolvency and Bankruptcy Board of India&quot;,
+                    &quot;x&quot;: 169.49,
+                    &quot;y&quot;: 71.05999999999992,
+                    &quot;width&quot;: 256.3142400000002,
+                    &quot;height&quot;: 14.039999999999992,
+                    &quot;fontSize&quot;: 14,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 1,
+                    &quot;isHeading&quot;: true,
+                    &quot;headingLevel&quot;: 2,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;7th Floor, Mayur Bhawan, Connaught Place, New Delhi – 110001&quot;,
+                    &quot;x&quot;: 112.34,
+                    &quot;y&quot;: 88.46000000000001,
+                    &quot;width&quot;: 370.8201200000001,
+                    &quot;height&quot;: 14.039999999999992,
+                    &quot;fontSize&quot;: 14,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 1,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;CIRCULAR No. IBBI\/RV\/93\/2026 1st April, 2026&quot;,
+                    &quot;x&quot;: 72.024,
+                    &quot;y&quot;: 128.77999999999997,
+                    &quot;width&quot;: 420.556,
+                    &quot;height&quot;: 24,
+                    &quot;fontSize&quot;: 11.8,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 2,
+                    &quot;isHeading&quot;: true,
+                    &quot;headingLevel&quot;: 3,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;To All Registered Valuer Organisations All Registered Valuer Entities&quot;,
+                    &quot;x&quot;: 72.024,
+                    &quot;y&quot;: 189.5,
+                    &quot;width&quot;: 173.07600000000002,
+                    &quot;height&quot;: 36,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 3,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;All Registered Valuers All Registered Insolvency Professional Agencies All Registered Insolvency Professional Entities, and All Registered Insolvency Professionals (By email to registered email addresses and on the website of the IBBI)&quot;,
+                    &quot;x&quot;: 72.024,
+                    &quot;y&quot;: 242.20999999999992,
+                    &quot;width&quot;: 343.31199999999995,
+                    &quot;height&quot;: 60,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 5,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;Dear Madam\/Sir, Subject: Valuation Standards for the purpose of valuation conducted under the Insolvency and Bankruptcy Code, 2016.&quot;,
+                    &quot;x&quot;: 72.024,
+                    &quot;y&quot;: 339.53,
+                    &quot;width&quot;: 451.332,
+                    &quot;height&quot;: 36,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 3,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;One of the objectives of the Insolvency and Bankruptcy Code, 2016 (“the Code”) is the maximisation of value of assets of the corporate debtor(CD) in a time bound manner. Valuation of the CD serves as a critical input for evaluation of resolution plans and facilitates informed decision-making by stakeholders, including the committee of creditors, resolution applicants, and adjudicating authorities. Therefore, transparent, objective, and credible valuation of assets of the CDis fundamental to the effective functioning of the insolvency framework&quot;,
+                    &quot;x&quot;: 72.024,
+                    &quot;y&quot;: 400.27,
+                    &quot;width&quot;: 451.41999999999996,
+                    &quot;height&quot;: 72,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 6,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;2. For the purposes of valuations under the Code, the following provisions of the amended regulations made under the Insolvency and Bankruptcy Code, 2016 provide that valuations shall be conducted in accordance with such valuation standards as notified by the Insolvency and BankruptcyBoard of India (IBBI\/Board) through circular:&quot;,
+                    &quot;x&quot;: 72.024,
+                    &quot;y&quot;: 497.59,
+                    &quot;width&quot;: 451.3960000000001,
+                    &quot;height&quot;: 48,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 4,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;(i) clause (c) of sub-regulation (1) of regulation 35 of the IBBI (Insolvency Resolution Process for Corporate Persons) Regulations, 2016;&quot;,
+                    &quot;x&quot;: 86.184,
+                    &quot;y&quot;: 565.18,
+                    &quot;width&quot;: 437.0319999999999,
+                    &quot;height&quot;: 24,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 2,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;(ii) sub-regulation (3) of regulation 35 of theIBBI(Liquidation Process) Regulations, 2016;&quot;,
+                    &quot;x&quot;: 86.184,
+                    &quot;y&quot;: 602.98,
+                    &quot;width&quot;: 437.2320000000001,
+                    &quot;height&quot;: 12,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 1,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;(iii) clause (b) of sub-regulation (1) of regulation 3 of the IBBI (Voluntary Liquidation Process) Regulations, 2017;&quot;,
+                    &quot;x&quot;: 86.184,
+                    &quot;y&quot;: 625.9,
+                    &quot;width&quot;: 437.068,
+                    &quot;height&quot;: 24,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 2,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;(iv) clause (c) of sub-regulation (1) of regulation 39 of the IBBI (Pre-packaged Insolvency Resolution Process) Regulations, 2021, and&quot;,
+                    &quot;x&quot;: 86.184,
+                    &quot;y&quot;: 663.5799999999999,
+                    &quot;width&quot;: 437.0799999999999,
+                    &quot;height&quot;: 24,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 2,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;(iv) sub-regulation (2) of regulation 30 of the IBBI (Bankruptcy Process for Personal Guarantors to Corporate Debtors) Regulations, 2019.&quot;,
+                    &quot;x&quot;: 86.184,
+                    &quot;y&quot;: 701.38,
+                    &quot;width&quot;: 437.0859999999998,
+                    &quot;height&quot;: 24,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 2,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                }
+            ]
+        },
+        {
+            &quot;pageNum&quot;: 2,
+            &quot;width&quot;: 595.32,
+            &quot;height&quot;: 841.92,
+            &quot;paragraphs&quot;: [
+                {
+                    &quot;text&quot;: &quot;3. In exercise of the powers conferred by the afore-mentioned regulations, the Board hereby notifies the International Valuation Standards (IVS), as issued and updated from time to time by theInternational Valuation Standards Council (IVSC),as the valuation standards applicable for the purposes of thevaluations conducted under the Codeand regulations made thereunder, until further orders.&quot;,
+                    &quot;y&quot;: 71.17999999999995,
+                    &quot;height&quot;: 60,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 5,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 72.024,
+                    &quot;width&quot;: 451.404,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;4. This circular shall come into force from the date of its issue and shall apply to all valuation conducted under the Code and regulations made thereunder.&quot;,
+                    &quot;y&quot;: 153.62,
+                    &quot;height&quot;: 24,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 2,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 72.024,
+                    &quot;width&quot;: 451.49199999999996,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;5. This circular is being issued in exercise of the powers conferred under the provisions of section 196 of the Code and regulations made thereunder.&quot;,
+                    &quot;y&quot;: 191.41999999999996,
+                    &quot;height&quot;: 24,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 2,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 72.024,
+                    &quot;width&quot;: 451.13999999999965,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                },
+                {
+                    &quot;text&quot;: &quot;Yours faithfully, -Sd- (B. Sankaranarayanan) General Manager&quot;,
+                    &quot;y&quot;: 273.89,
+                    &quot;height&quot;: 48,
+                    &quot;avgFontSize&quot;: 12,
+                    &quot;lineCount&quot;: 4,
+                    &quot;column&quot;: 0,
+                    &quot;x&quot;: 413.62,
+                    &quot;width&quot;: 109.856,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false,
+                    &quot;tableId&quot;: null
+                }
+            ],
+            &quot;textItems&quot;: [
+                {
+                    &quot;text&quot;: &quot;3. In exercise of the powers conferred by the afore-mentioned regulations, the Board hereby notifies the International Valuation Standards (IVS), as issued and updated from time to time by theInternational Valuation Standards Council (IVSC),as the valuation standards applicable for the purposes of thevaluations conducted under the Codeand regulations made thereunder, until further orders.&quot;,
+                    &quot;x&quot;: 72.024,
+                    &quot;y&quot;: 71.17999999999995,
+                    &quot;width&quot;: 451.404,
+                    &quot;height&quot;: 60,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 5,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;4. This circular shall come into force from the date of its issue and shall apply to all valuation conducted under the Code and regulations made thereunder.&quot;,
+                    &quot;x&quot;: 72.024,
+                    &quot;y&quot;: 153.62,
+                    &quot;width&quot;: 451.49199999999996,
+                    &quot;height&quot;: 24,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 2,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;5. This circular is being issued in exercise of the powers conferred under the provisions of section 196 of the Code and regulations made thereunder.&quot;,
+                    &quot;x&quot;: 72.024,
+                    &quot;y&quot;: 191.41999999999996,
+                    &quot;width&quot;: 451.13999999999965,
+                    &quot;height&quot;: 24,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 2,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: true,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                },
+                {
+                    &quot;text&quot;: &quot;Yours faithfully, -Sd- (B. Sankaranarayanan) General Manager&quot;,
+                    &quot;x&quot;: 413.62,
+                    &quot;y&quot;: 273.89,
+                    &quot;width&quot;: 109.856,
+                    &quot;height&quot;: 48,
+                    &quot;fontSize&quot;: 12,
+                    &quot;fontFamily&quot;: &quot;unknown&quot;,
+                    &quot;confidence&quot;: 1,
+                    &quot;lineCount&quot;: 4,
+                    &quot;isHeading&quot;: false,
+                    &quot;headingLevel&quot;: 0,
+                    &quot;isList&quot;: false,
+                    &quot;isFooter&quot;: false,
+                    &quot;isTable&quot;: false
+                }
+            ]
+        }
+    ],
+    &quot;metadata&quot;: {
+        &quot;totalPages&quot;: 2,
+        &quot;characterCount&quot;: 2868
+    }
+}</pre>
+</div>
+</div>
+
+</p>

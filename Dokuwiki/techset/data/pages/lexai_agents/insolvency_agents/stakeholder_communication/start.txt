@@ -1,0 +1,14 @@
+{{tagfilter>Agentic Store=store:.*=store:insolvency_agents|Division=division:.*=division:stakeholder_communication|Cluster=cluster:.*|Agent=agent:.*}}
+
+**VI. Stakeholder & Communication Division**
+Bridging professionals, creditors, investors, and regulators.
+
+  * Engagement Agents
+    * [[rbz_agenbots:insolvency_agents:stakeholder_communication:engagement_agents:Creditor Communication Agent (CCA)]]
+    * [[rbz_agenbots:insolvency_agents:stakeholder_communication:engagement_agents:Investor Discovery Agent (IDA)]]
+    * [[rbz_agenbots:insolvency_agents:stakeholder_communication:engagement_agents:Stakeholder Negotiation Mediator (SNM)]]
+    * [[rbz_agenbots:insolvency_agents:stakeholder_communication:engagement_agents:Public Announcement Bot (PAB)]]
+  * Collaboration Agents
+    * [[rbz_agenbots:insolvency_agents:stakeholder_communication:collaboration_agents:CoC Coordination Agent (COCA)]]
+    * [[rbz_agenbots:insolvency_agents:stakeholder_communication:collaboration_agents:Meeting Scheduler & Vote Recorder (MSVR)]]
+    * [[rbz_agenbots:insolvency_agents:stakeholder_communication:collaboration_agents:Virtual Hearing Companion (VHC)]]

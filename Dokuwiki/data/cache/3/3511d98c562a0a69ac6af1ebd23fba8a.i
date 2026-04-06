@@ -1,0 +1,121 @@
+a:9:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:0;}i:2;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"{";}i:2;i:1;}i:3;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2;}i:4;a:3:{i:0;s:12:"preformatted";i:1;a:1:{i:0;s:6368:""agentName": "Negotiation Support Agent (NSA)",
+"agentDescription": "Provides analytical support for negotiations related to insolvency matters (e.g., debt restructuring, asset sales, resolution plan terms). Simulates various scenarios, evaluates financial impacts, compares options against benchmarks, and generates data-driven arguments and recommendations to help negotiating parties achieve optimal or acceptable outcomes.",
+"version": "1.0",
+"status": "Conceptual",
+"goals": [
+  "Model the financial impact of different negotiation proposals (e.g., varying interest rates, principal amounts, tenures, payment schedules, asset prices).",
+  "Simulate potential outcomes for negotiating parties under various scenarios.",
+  "Evaluate proposals against relevant benchmarks (e.g., liquidation value, market comparables, prior offers, BATNA - Best Alternative To a Negotiated Agreement).",
+  "Identify mutually acceptable ranges or potential 'win-win' scenarios.",
+  "Generate data-driven arguments and talking points to support a specific negotiation position.",
+  "Provide recommendations on optimal negotiation strategies, potential concessions, or opening offers.",
+  "Support rapid analysis of counter-offers during live or near-live negotiation phases.",
+  "Facilitate informed decision-making based on quantitative analysis of negotiation options."
+],
+"keyCapabilities": [
+  "Scenario Modeling Engine: Builds dynamic financial models to simulate the impact of varying negotiation parameters (debt terms, asset prices, payment timelines, equity stakes).",
+  "Data Integration: Incorporates relevant inputs like current debt terms, asset valuations, claimant financials, proposed plan details, and market data.",
+  "Outcome Evaluation Module: Calculates key metrics for each scenario (e.g., NPV, IRR, % Recovery, Payback Period, Impact on Net Worth/Liquidity).",
+  "Benchmarking & BATNA Analysis: Compares scenario outcomes against liquidation value, market rates, and user-defined BATNAs.",
+  "Sensitivity Analysis: Determines how changes in key assumptions or variables affect negotiation outcomes.",
+  "Argument Generation: Identifies quantitative justifications supporting a position (e.g., showing feasibility, comparing value against alternatives).",
+  "Strategy Recommendation Engine: Suggests negotiation strategies (e.g., anchoring points, concession planning) based on simulation results and user objectives.",
+  "Game Theory Modeling (Advanced/Optional): May incorporate basic game theory principles to model competitive negotiation dynamics.",
+  "Real-time Simulation Interface: Allows users to quickly input counter-offers and see simulated results.",
+  "Reporting & Visualization: Generates clear comparison reports, payoff matrices, and charts illustrating scenario outcomes."
+],
+"targetUsers": [
+  "Corporate Debtors / Their Advisors (negotiating restructuring)",
+  "Creditors / CoC Members / Their Advisors (negotiating restructuring/plans)",
+  "Personal Guarantors / Their Advisors (negotiating settlements)",
+  "Resolution Applicants / Their Advisors (negotiating plan terms with CoC or asset acquisitions)",
+  "Resolution Professionals / Liquidators (negotiating asset sales or settlements)",
+  "Potential Asset Buyers"
+],
+"inputDataRequirements": [
+  "Specifics of the item under negotiation (Debt terms, Asset details, Plan clauses).",
+  "Financial data of relevant parties (e.g., Debtor/PG capacity, RA projections).",
+  "Valuation Reports (Asset LV/FV, Company Valuation).",
+  "User-defined negotiation parameters (objectives, constraints, acceptable ranges, BATNA).",
+  "Counterparty offers or assumptions.",
+  "Relevant Market Data (interest rates, comparables).",
+  "Contextual information from other relevant agents (e.g., PLAA, RPEA, AVOA, CNSA)."
+],
+"outputFormats": [
+  "Negotiation Scenario Comparison Reports (PDF, HTML, XLSX).",
+  "Simulation Outcome Visualizations (Charts, Sensitivity Plots).",
+  "Data-Driven Negotiation Talking Points/Arguments.",
+  "Recommended Negotiation Strategies/Ranges.",
+  "BATNA Assessment Summary.",
+  "Financial Impact Projections for each party.",
+  "Interactive Simulation Dashboard/Interface.",
+  "Potentially draft term sheet data points based on simulation."
+],
+"potentialBenefits": [
+  "Strengthens negotiation position with objective, data-driven analysis.",
+  "Enables exploration of a wider range of options and their consequences.",
+  "Facilitates identification of optimal or mutually acceptable solutions.",
+  "Improves preparedness for negotiation discussions.",
+  "Speeds up the analysis of offers and counter-offers.",
+  "Reduces reliance on intuition and enhances strategic decision-making.",
+  "Provides clear justification for negotiation positions.",
+  "Can help avoid unfavorable agreements by clearly modeling outcomes."
+],
+"requiredTools": [
+   {
+    "toolCategory": "Data Acquisition & Integration",
+    "tools": [
+      "API Clients / DB Connectors",
+      "Spreadsheet Processing Libraries (Pandas)",
+      "Secure User Input Interfaces"
+    ]
+  },
+   {
+    "toolCategory": "Modeling & Simulation (Core)",
+    "tools": [
+      "Data Manipulation Libraries (Pandas, NumPy)",
+      "Financial Modeling Libraries/Modules (custom or libraries like NumPy Financial)",
+      "Statistical Libraries (SciPy - for sensitivity, probability)",
+      "Monte Carlo Simulation libraries (Optional)",
+      "Optimization Libraries (Optional, e.g., SciPy Optimize)"
+    ]
+  },
+  {
+    "toolCategory": "Game Theory (Optional/Advanced)",
+    "tools": [
+      "Libraries like Nashpy or custom implementations"
+    ]
+  },
+  {
+    "toolCategory": "Data Storage",
+    "tools": [
+      "Databases (SQL or NoSQL) for storing scenarios, parameters, results."
+    ]
+  },
+  {
+    "toolCategory": "Argument Generation",
+    "tools": [
+       "Rule-based systems",
+       "Basic NLG capabilities"
+    ]
+   },
+  {
+    "toolCategory": "Reporting & Visualization",
+    "tools": [
+      "Reporting Libraries (ReportLab, FPDF)",
+      "Data Visualization Libraries (Matplotlib, Seaborn, Plotly)"
+    ]
+  },
+   {
+     "toolCategory": "User Interface (Crucial for Interaction)",
+     "tools": [
+       "Web Frameworks (Flask, Django, React, Angular)"
+     ]
+   },
+  {
+    "toolCategory": "Security",
+    "tools": [
+       "Secure Handling of potentially sensitive negotiation data and strategies"
+     ]
+  }
+]";}i:2;i:2;}i:5;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2;}i:6;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"}";}i:2;i:6614;}i:7;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:6614;}i:8;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:6614;}}

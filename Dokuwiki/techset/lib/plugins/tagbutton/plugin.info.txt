@@ -1,0 +1,7 @@
+base   tagbutton
+author Louis Ouellet
+email  louis_ouellet@hotmail.com
+date   2024-10-18
+name   Tag Button plugin
+desc   Add a tag via a button
+url    https://www.dokuwiki.org/plugin:tagbutton

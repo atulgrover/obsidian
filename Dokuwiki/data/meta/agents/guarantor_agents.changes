@@ -1,0 +1,16 @@
+1743785304	127.0.0.1	C	personal_guarantors:guarantor_agents		created - external edit		5
+1743786955	49.43.99.57	E	personal_guarantors:guarantor_agents	admin			2131
+1743840719	49.43.99.57	E	personal_guarantors:guarantor_agents	admin			541
+1743840733	49.43.99.57	E	personal_guarantors:guarantor_agents	admin			6
+1743840778	49.43.99.57	E	personal_guarantors:guarantor_agents	admin			31
+1743844156	49.43.99.57	E	personal_guarantors:guarantor_agents	admin			-93
+1743851168	127.0.0.1	D	personal_guarantors:agents_for_guarantors		removed - external edit (Unknown date)		0
+1743851169	49.43.99.57	C	personal_guarantors:agents_for_guarantors	admin	↷ Page name changed from personal_guarantors:guarantor_agents to personal_guarantors:agents_for_guarantors		2621
+1743917426	49.43.99.57	E	personal_guarantors:agents_for_guarantors	admin			46
+1743928405	49.43.99.57	E	personal_guarantors:agents_for_guarantors	admin			269
+1744003294	127.0.0.1	D	agents:guarantor_agents		removed - external edit (Unknown date)		0
+1744003295	49.43.99.95	C	agents:guarantor_agents	admin	↷ Page moved and renamed from personal_guarantors:agents_for_guarantors to agents:guarantor_agents		2936
+1744003952	49.43.99.95	E	agents:guarantor_agents	admin			62
+1744008070	49.43.99.95	E	agents:guarantor_agents	admin			55
+1744008107	49.43.99.95	E	agents:guarantor_agents	admin			-3
+1744008281	49.43.99.95	E	agents:guarantor_agents	admin			0

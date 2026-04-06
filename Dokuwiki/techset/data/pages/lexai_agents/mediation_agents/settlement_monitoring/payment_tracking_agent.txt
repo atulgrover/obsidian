@@ -1,0 +1,7 @@
+**Payment Tracking Agent**
+
+The Payment Tracking Agent focuses on monitoring financial obligations arising from a settlement, resolution plan, or liquidation distribution schedule. It tracks payment flows across bank accounts, escrow systems, and digital ledgers, verifying that payments are made as per agreed timelines and amounts. This ensures real-time visibility into creditor recoveries and investor commitments.
+
+The agent can automatically reconcile payment entries with the terms of the resolution plan or liquidation waterfall. It flags underpayments, delays, or discrepancies for immediate corrective action. This automation reduces manual reconciliation errors and ensures timely disbursal to creditors, enhancing process integrity.
+
+Moreover, it can generate periodic payment compliance reports for CoC and regulatory submissions, supporting both audit and supervision functions. In complex insolvency cases involving staggered repayments, it becomes a vital tool for tracking financial discipline and ensuring stakeholder trust.

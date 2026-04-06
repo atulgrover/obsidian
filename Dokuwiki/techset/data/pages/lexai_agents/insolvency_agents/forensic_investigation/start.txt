@@ -1,0 +1,15 @@
+{{tagfilter>Agentic Store=store:.*=store:insolvency_agents|Division=division:.*=division:forensic_investigation|Cluster=cluster:.*|Agent=agent:.*}}
+
+
+**VII. Forensic & Investigation Division**
+Uncover fraud, diversion, and misrepresentation.
+
+  * Forensic Agents
+    * [[rbz_agenbots:insolvency_agents:forensic_investigation:forensic_agents:Transaction Pattern Recognition Agent (TPRA)]]
+    * [[rbz_agenbots:insolvency_agents:forensic_investigation:forensic_agents:Financial Misconduct Detector (FMD)]]
+    * [[rbz_agenbots:insolvency_agents:forensic_investigation:forensic_agents:Beneficial Ownership Tracer (BOT)]]
+    * [[rbz_agenbots:insolvency_agents:forensic_investigation:forensic_agents:Related Party Exposure Analyzer (RPEA2)]]
+  * Evidence Agents
+    * [[rbz_agenbots:insolvency_agents:forensic_investigation:evidence_agents:Document Verification Agent (DVA)]]
+    * [[rbz_agenbots:insolvency_agents:forensic_investigation:evidence_agents:Chain-of-Custody Manager (CCM)]]
+    * [[rbz_agenbots:insolvency_agents:forensic_investigation:evidence_agents:Forensic Report Generator (FRG)]]

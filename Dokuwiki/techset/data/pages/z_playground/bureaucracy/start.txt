@@ -1,0 +1,30 @@
+~~NOTOC~~
+
+======Guestbook=====
+
+<form>
+action pagemod _self add_comment
+fieldset "Write new comment"
+textbox  "Name" /^((?!<\/nowiki>).)*$/
+email "Email (optional)" /^((?!<\/nowiki>).)*$/ !
+textarea "Comment" /^((?!<\/nowiki>).|\n)*$/
+submit
+</form>
+
+===== Comments =====
+
+<pagemod add_comment output_after>
+//@@meta.date.format.r@@://
+^<nowiki>@@Name@@</nowiki> |<nowiki>@@Email (optional)| @@</nowiki>|
+|<nowiki>@@Comment@@</nowiki> ||
+</pagemod>
+//Sun, 02 Nov 2025 04:38:14 +0000://
+^<nowiki>tyytyuiy</nowiki> |<nowiki>resolutionbazaar@gmail.com</nowiki>|
+|<nowiki>yuiou</nowiki> ||
+
+//Sat, 18 Oct 2025 07:07:42 +0000://
+^<nowiki>Atul Grover</nowiki> |<nowiki>resolutionbazaar@gmail.com</nowiki>|
+|<nowiki>dfgdhfg dfghdfg dfghdfghdf </nowiki> ||
+
+
+

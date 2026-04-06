@@ -1,0 +1,36 @@
+The concept of utilizing AI for **Base Resolution Plan Preparation**—specifically to assist the corporate debtor (or the Resolution Professional, RP) in drafting the plan and ensuring its viability with data-backed projections—is strongly supported by the sources. The core function of AI in this stage is to provide sophisticated analytical support, thereby improving the quality and informing the **commercial wisdom** applied to the plan.
+
+## AI Agents in Base Resolution Plan Preparation
+
+### 1. Plan Drafting Agent
+
+This agent focuses on automating the administrative and compliance aspects of generating the formal resolution plan document.
+
+*   **Routine Drafting and Formatting:** AI is capable of handling **any drafting that needs to be done, any compilation that needs to be done, [and] any formatting that needs to be done** with "alarming accuracy and alarming efficiency". This applies to generating the standard sections of the plan.
+*   **Document Assembly:** While the sources don't specify "Plan Drafting Agent," they confirm AI's ability to **auto-assemble** complex documents like the Information Memorandum (IM) within minutes. Similarly, the Plan Drafting Agent could quickly compile the core components of the plan based on the inputs from the financial and feasibility agents.
+*   **Compliance and Legal Language:** AI tools can use their access to insolvency legislation and precedents to ensure the plan's language and structure are legally compliant. However, it is important to remember that **intelligent automation does not replace the strategic thinking** that goes into creating restructuring documents.
+
+### 2. Financial Modelling Agent
+
+This agent utilizes AI's computational power to build and run the necessary financial models to project performance and assess debt servicing capacity.
+
+*   **Running Financial Models:** AI can **run the financial models** required to evaluate a plan. This includes looking at projected cash flows to determine if the proposed debt repayment (e.g., over three years) is possible using internal accruals.
+*   **Quantitative Analysis:** The quantitative aspects of a resolution plan—such as the amount paid upfront versus deferred, or the equity upside offered—are considered "pretty straightforward" and are ideal for AI automation, saving "precious hours" of human time.
+*   **Scenario Comparison:** The agent can compare **multiple debt restructuring scenarios** and run **sensitivity analysis**. This is crucial for determining the optimal repayment structure and assessing risks.
+
+### 3. Feasibility Analysis Agent
+
+This agent ensures the projections used in the plan are realistic and provides data-backed evidence for the viability of the restructuring solution.
+
+*   **Benchmarking Plan Assumptions:** A core function of AI in plan evaluation is to **benchmark plan assumptions against industry data**. If a plan projects high performance (e.g., a Plant Load Factor of 80% or market growth of 13%), the agent can immediately flag this if the **industry average** or Compound Annual Growth Rate (CAGR) is significantly lower (e.g., 8%).
+*   **Highlighting Risks:** The agent can **highlight risks** inherent in the plan, such as assuming unrealistically high market growth.
+*   **Viability Assessment:** AI is predicted to become "an essential tool in understanding whether a business is viable or not and **designing the optimal restructuring solution**". The Feasibility Analysis Agent provides the data-driven output needed to support this strategic determination.
+*   **Data-Driven Recommendations:** AI provides **data-driven insights and recommendations** based on the analysis of complex financial information, ensuring that the plan’s foundation is robust.
+
+## Context: Human Judgment and Accountability
+
+While AI significantly enhances plan preparation, the sources strictly limit its role:
+
+*   **Human Wisdom Required:** AI cannot replace the **commercial wisdom of the creditors** or decide which plan is ultimately the best. The professional must still apply strategic thinking and deal with the **human dynamics** behind commercial decisions.
+*   **Accountability:** Any AI-generated output used in the plan must offer **audit trails** showing the chain of reasoning. This ensures **explainability and accountability**, which are non-negotiable for gaining creditor and judicial acceptance. The professional who uses the AI remains liable for its output.
+*   **Goal:** By using AI in this phase, the Resolution Professional gets "better inputs so their commercial wisdom is better informed". This moves the insolvency process toward **speed, clarity, transparency, and a higher recovery**.

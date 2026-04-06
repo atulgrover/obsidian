@@ -1,0 +1,24 @@
+<WRAP group>
+
+<WRAP half column> 
+|{{:agent_icon.png?500}}|**[[rbz_academics:sample_tests:start|Acquisition Agents]]** - Identifies and profiles potential investors or resolution applicants by scanning open databases, financial portals, and professional networks. Filters candidates based on sector interest, investment size, and turnaround expertise. Generates a contact list with tailored outreach messages for each prospect.|
+</WRAP>
+
+
+<WRAP half column> 
+|{{:agent_icon.png?500}}|**[[rbz_academics:case_laws:start|Mediation Agent]]** - Prepares and distributes investment teasers, pitch decks, and sale notices for distressed assets or companies under CIRP/liquidation. Uses market analytics and digital channels to reach strategic buyers. Tracks engagement metrics to optimize marketing reach and investor conversions.|
+</WRAP>
+
+</WRAP>
+
+<WRAP group>
+
+<WRAP half column> 
+|{{:agent_icon.png?500}}|**[[rbz_academics:case_studies:start|Insolvency Agent]]** - Conducts due diligence on resolution applicants to verify compliance with Section 29A of the IBC. Analyzes MCA, CIBIL, and legal databases to flag disqualifications or related-party issues. Generates automated eligibility reports for submission to the CoC or Adjudicating Authority.|
+</WRAP>
+
+<WRAP half column> 
+|{{:agent_icon.png?500}}|**[[rbz_academics:legal_formats:start|Quotation Request Agent]]** - Automates the drafting and dispatch of standardized quotation requests to valuers, auditors, legal advisors, and other professionals. Tracks responses, reminders, and deadlines for comparative evaluation. Ensures transparent, compliant, and timely procurement of professional services.|
+</WRAP>
+
+</WRAP>

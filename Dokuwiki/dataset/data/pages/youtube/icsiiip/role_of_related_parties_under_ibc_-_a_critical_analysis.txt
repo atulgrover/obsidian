@@ -1,0 +1,1731 @@
+# Workshop | Role of Related Parties Under IBC - A Critical Analysis
+![](https://img.youtube.com/vi/gY1fcVkFFN8/hqdefault.jpg)
+1 year ago (May 16, 2023) — 4:23:35
+[https://youtube.com/watch?v=gY1fcVkFFN8](https://youtube.com/watch?v=gY1fcVkFFN8)
+
+
+## Summary
+The workshop is about related party transactions under the Insolvency and Bankruptcy Code (IBC). Related parties are defined under the IBC and the Companies Act, and include directors, partners, key managerial personnel, and relatives of these individuals. Regulating related party transactions is important to prevent diversion of funds and assets, preferential transactions, undervalued transactions, and fraudulent trading that may harm non-related stakeholders. The IBC, MCA, NCLT, NCLAT, and ITAT regulate related party transactions. The presentation will cover related party definitions under the IBC, liquidation regulations, and pre-pack regulations. Determining related parties can be challenging, especially in the absence of information from the corporate entity or the existence of oral arrangements. The concept of control, whether positive or negative, is also important in determining related parties.
+
+## Who is related party? What is the basic understanding of IVC
+0:00
+A learning platform and I'm here to share whatever I have understood regarding related party transactions under IVC, and please feel free to interrupt me and ask any queries as and when you have doubts, and I'm also open to any suggestions or any other further inputs from the members. Yes, so today we will start the presentation with the basic understanding of who is a related party post, which we will discuss the provisions under the code also. 
+
+0:43
+So who is related party is covered under the companies act. The rules there under the secretarial standards also have some stipulations. Apart from that, we have the elodia regulations which talk about related party transactions. We have the accounting standards Port pays 18 and India's 24. The income tax act also is concerned with the related party transactions. 
+
+1:09
+More in our income tax is more concerned with the evasion of tax and whether there is any transaction to Sacrament the tax provisions so there, for we will not be focusing on income tax Provisions for this session. And then our core area of insolvency and bankruptcy code and the regulations there under. 
+
+
+## Why companies Act is very important because the definitions are not covered under the IVC
+1:30
+Why companies Act is very important is because the as we know the definitions, some of the definitions are not covered under the IVC, for which we will be drawing reference to the companies act and we will be reading books together to understand the related party transactions. So now the first question is: to buy at all. We should regulate the related party transactions. 
+
+1:55
+So the reason why we've noted down some, as there is diversion of funds and of assets from the company to other companies, persons may not directly be promoters, maybe to other persons also, and it benefits the promoters and directors, which it's okay if it benefits them, but what the problem arises when it is detrimental to the others. 
+
+2:19
+So there are other stakeholders in the company which who should also get a fair share in the benefit derived from the company to which the promoters exclude them. So this becomes a Prejudice to the non related stakeholders who are directly not monitoring the day to day activity of the company but have invested under the belief that the promoters and directors will safeguard their interest. 
+
+
+## Regulatory bodies of related parties under IDC
+2:43
+And then there are transactions which we call the pufe transactions, which is the preferential transactions which are covered under the section 43 of the court. And then we have, and then we have undervalued transactions covered under section 45 of the code and transactions defrauding creditors under Section 49, extraordinate credit transactions under 50, and we have fraudulent training and wrongful trading, which is a very fine distinction under Section 66, covered under subsection 1 and 2. And above all this, we also have to take into account the principles of natural Justice, which were to be upheld, so that there is fair treatment to all these stakeholders under a IDC process or any other process for that matter. 
+
+3:39
+So today what we will be covering, yeah, so we will look at all the regulatory bodies. so related party transactions are regulated by MCA. As far as the companies act Provisions are concerned, Savvy in the case of listed companies, similar to the extent of the credit ratings that they do the tracking that they do to ensure that the npas are properly tagged and the information is made available and not only civil. 
+
+4:11
+Maybe other credit rating agencies also can be included, and then the nclt and nclad for both the companies act and IBC Provisions which they oversee and the income tax appellate tribunal, which make sure that the orders passed under the income tax act are fair and accordingly addressed. Today we will be covering a related party under the insolvency and the bankruptcy code and to whatever what are the provisions covered under the carp regulations. 
+
+
+## Liquidation regulations where relative related party is covered
+4:42
+Then we will move on to the liquidation regulations and we will end with the pre pack regulations wherever the concept of relative related party and wherever is covered. We will cover all that in today's presentation. So I will first start with the definition of a related party. 
+
+4:59
+So we go to section 524 of the code, where it says that the related party in relation to a corporate debtor means so we are first to seeing the first part of the related party definition, which is in relation to a corporate data. There was a separate insertion to the code 24, capital A, which spoke about related party in relation to an individual. So we will first cover the corporate at our part. 
+
+5:28
+So it says means a director or partner of the corporate data or a relative of a director or a partner of the corporate data. So initially we will have to understand who are all the relatives under the IDC, for which also there is a separate definition, which we will see later, and the second part is the key managerial Personnel of a corporate data or a relative of the key managerial Personnel. 
+
+
+## Key managerial Personnel: How to get the corporate data from nbp
+5:56
+Now, as far as point a is concerned, the director or partner of a corporate data, we would be able to pull out to some extent from the MCA records relative of a director or partner we may be able to take from nbp one, provided those details are available with the corporate data or the promoter declares. but B when we look at Key managerial Personnel. 
+
+6:20
+Key managerial Personnel is not defined under IBC, so we will have to take the definition under companies act and the relative of key managerial personalized field would be a challenge because getting that information for an insolvency professional might be a little difficult. 
+
+6:39
+I would like to hear from the members how they kind of create this house in the absence of information from the at the corporate attack and C is on the limited liability partnership or partnership firm in which the director partner or manager of the corporate letter is relative or his relative is a partner. 
+
+
+## How to trace all the companies to make sure that the disclosures are there
+7:01
+Again the challenge of tracing all these companies to make sure that the disclosures are there and maybe to some extent we can take information from the related party disclosure under the financial statements the Auditors may have gradually I would be certifying accounting standards in their audit report and financial statements. 
+
+7:25
+To some extent we may be able to pull out this information, but most of the companies we take up we know that the financials for the last one or two years would not be available and would not have been audited. So this is another challenge as to how to determine who are all the related parties and approach will fall under this clause. so then we move on to Clause d. 
+
+7:49
+So Clause D access a private company in which the director, partner or manager of the corporate intern is a director and holds, along with his relatives, more than two percent of its capital. This may be easier to trace. We will have the data on the NCAA website. 
+
+
+## E a public company in which the director or partner or manager of the corporate data is
+8:07
+E a public company in which the director or partner or manager of the corporate data is a director and holds, along with his relatives, more than two percent of the paid up character. So here again there is a twin condition in both d and e, which says you have to be a director, partner or manager and also hold two percent. 
+
+8:29
+If both these conditions are not satisfied, only one condition is satisfied: you will not be treated as a related. then we want to Clause F, any body, corporate who's board of directors, managing director or manager in the ordinary course of business, acts on the advice, directions or instructions of a director, partner or manager of the corporate data. So here we have one more challenge. 
+
+8:52
+How do we determine whether he is acting on the advice, directions or instructions of the director? If there is an agreement to this effect and we have access to that agreement? If it is a shareholders agreement or an investor agreement, we may be able to determine this, but in the absence of that it is a oral Arrangement or an internal Arrangement or you don't have access to that documentation. 
+
+
+## Companies Act definition of promoter
+9:17
+It would be very difficult to prove that he is acting on the advice, Direction and instructions of the partner. the same words. Advised, directions or instructions are also appearing in the companies act. If we look at the definition of promoter in the companies act under Section 2 subsection 69, I will just read it out for one of you. 
+
+9:44
+So section 2 subsection 69 of the companies Act says promoter means a person he who has been named as such in the prospector or prospectus or is identified by the company in the annual return referred to in section 92 or P, who has controlled over the Affairs of the company directly or indirectly, whether as a shareholder, director or otherwise, or C in accordance with Whose advice, directions or instructions the board of directors of the company is accustomed to act. 
+
+10:21
+So if we say it just the same wordings which has been taken from this and there is one provision also to this, which says: provided that nothing in subclass C shall apply to a person who is acting nearly in a professional capacity. So drawing inference from this, so we will go by the same way. We trace the promoters under companies act to the related party under the IVC. 
+
+
+## Partnership or partnership firm whose Partners or employees in the ordinary cause of business are on the advice
+10:51
+So I will want to Clause G, which has any limited liability. Partnership or partnership firm whose Partners or employees in the ordinary cause of business are on the advice, directions or instructions of the director, partner or manager. 
+
+11:08
+Here again, raising a Partners may be possible, but employees of the LLP or the partnership firm would be little Decay to address and until and unless we are able to prove they work out of the same office or their portfolio or their letters and their signatures what they have signed all proved to act in the capacity of Employee of the corporate data and of the partnership firm or LLP. 
+
+11:34
+Then, on Clause H, any person on Whose advice, directions or instructions or director, partner or manager of the corporate data is accustomed to act. so the same words accustomed to act. We saw under Section 269 of the companies Act, and then I a body corporate which is a holding subsidiary or an associate company of the corporate data or a subsidiary of the holding company to which the corporate data is a subsidiary. 
+
+
+## accustomed to act: What is the difference between positive and negative control
+12:02
+So we call it that where you have a common holding company, different words used in common formats. Now I will just go back to class H, which talks about accustomed to act. So when you say accustomed to act, there are two kinds of control. There is a positive control and a negative control. so when we say there is a positive control. 
+
+12:30
+Suppose there is an investor who says I have some affirmative Vote or he wants a certain issues to be brought to the board of directors and he wants a say in them, which we call an affirmative. What then, in that case, can we say the person is accustomed to act as per the advice of the director or partner or manager? So we have now many directors on the board by the investor. 
+
+12:56
+So will those people also fall under this category of H and become a related party? one more question I would like to throw up on is if there is a sun is there is the sun always deemed to be examined on a case to case basis and decide whether it will be falling under the related party? 
+
+
+## Control on account of ownership or voting agreement
+13:16
+In absence of any written agreement or any other documentation that we are able to okay, foreign account of ownership or a voting agreement. So we have the concept of differential voting rights also, so in case they are controlling the voting also, it will come under a related party. Okay, any person in whom the corporator controls more than 20 percent of the voting right. 
+
+13:49
+So the first Jay talks about also talks about control, and K also talks about control on account of ownership or voting agreement. so I there is a very fine distinction between J and K. That we see here. 
+
+14:10
+So J says any person who controls more than 20 percent and K any person in whom the corporate editor controls more than 20 percent, and L any person who can control the composition of Border directors or corresponding governing body of the corporate data. So we are all these. JK and L talk about control more to n best example is best example is Sahara. 
+
+
+## governing body definition in India
+14:40
+With regard to this, the point number L best example, best example, best example. Is that correct? So when we say governing body under L, we may cover any kind of trust or any other kind of body which will come which is not directly into the. That is why I think they are using the word governing body here. yes the basic trucks if you take it in Sahara. It's a partnership firm which starts the whole process. 
+
+15:16
+Then we will move on to m any person who is associated with the corporate data on account of so it costs about any person here. So we will have to look at the definition of person under the IBC. So I will just read out for clarity. Section 3, subsection 23 has the definition of person, then inclusive definition. 
+
+15:42
+So it says person includes an individual, a Hindu undivided family, a company, a trust, a partnership, a limited liability partnership and any other entity established under a statute, and includes a person president outside India. So the challenge is to how to include a person who is resident outside India and also bring him into the related party. you know restrictions under this code, so I'll read it again. 
+
+
+## Companies that provide technical information to or from the corporator
+16:16
+And any person who is associated with the corporator on account of one participation in the policy making process of the corporate data, or having more than two directors in common between the corporate data and such person. Or interchange of managerial person between the corporate data and such person, or provision of essential technical information to and from the Corporal data. 
+
+16:41
+So here, instead of having only one director, they have said you should have minimum two directors common between the corporate data and such person. That is one we noted. And they also say interchange of managerial Personnel between the corporate data. 
+
+16:58
+So maybe the intention is to say that if you are having a common company secretary or a common CFO who is taking care of both the persons, then it will become a related party, and also he is covering provision of essential technical information to or from the corporate data, which means if there is a group of companies where which one company is providing the technical information, maybe another company is providing the financial support or they are doing the manufacturing activity. 
+
+
+## Related Party definition in relation to individual
+17:30
+So then if it is all related, then this will also become a related party. Now with this we complete the definition of related party in relation to the corporate data. We will move on to the related party in relation to an individual. 
+
+17:48
+So this definition was not there in the original Port was inserted only with effect from 6,2018 and that way IDC has been an evolving law and every time there has been some circumvention of the provisions, the lawmaker has been quick to amend and add provisions and make it very Dynamic and it's adapting to the needs of the insolvency scenario. 
+
+18:18
+So we will start with the related party in relation to an individual, a person who is a relative of the individual or relative of the spouse of the individual. So we are left with very wide web of relatives here where you have to in the individual himself is very complex. Now you have to get information about the spouse and the relative definition. 
+
+
+## 
+18:42
+We will see going forward how wide it is be a partner of a limited liability partnership or a limited liability partnership, or a partnership firm in which the individual is a partner, see person who is a trustee of the trust in which the beneficiary of the trust includes the individual or the terms of the trust confer a power on the trustee which may be exercised for the benefit of the individual. 
+
+19:09
+So this is typically happens in the case of family trusts, where their trust is formed and all the estate properties are put into the trust, and in case this particular person is named as the beneficiary of the trust, which means he will get a property share of the property, then he is deemed to be a related party. 
+
+19:31
+D a private company in the, in which the individual is a director and holds along with his relatives, more than two percent of its share Capital. So here again it's a 12 condition, a public company in which the individual is a director and rolls along with his relatives more than two percent. here the distinction. 
+
+
+## 
+19:50
+Earlier definition also had this distinction where, when they talk about more than two percent in D they say of a share Capital, whereas when it comes to e, they say of its paid of share capital. I am unable to understand the reason for this distinction, but it is there. 
+
+20:07
+And if a body corporate whose board of directors, managing director or manager in the ordinary course of business acts on the advice, directions or instructions of the individual, similar to what we discussed in the earlier, we have definition. So what is ordinary course of business? 
+
+20:30
+We will be discussing in the forthcoming slides on: g a limited liability partnership or a partnership firm whose Partners or employees in the ordinary course of business act on the advice, directions or instructions of the individual. 
+
+
+## 
+20:48
+Again the similar definition we saw earlier right a person or whose advised directions or instructions are individual is accustomed to act I a company where the individual or individual, along with its related party, own more than 50 percent of the share capital of the company or controls the appointment of the board of directors. So here they have brought in a higher threshold of 50 percent. 
+
+21:15
+Now we would move on to the explanation of what is relative, so relative, with reference to any person, anyone who is related to another, in the following manner: so we have we know the definition under companies act and now we have the definition under IBC, also one that says members of the Hindu undivided family, husband, wife, father, mother, son, daughter. Till this it is easy. 
+
+21:46
+Now we move on Son's daughter and son daughter's daughter and son grandson's daughter itself. So they are moving on to something like the fourth generation year and granddaughter's daughter and son I know how many people will live to see the portable Generations below and brother and sister, then brother, son and daughter, sister, son and daughter. After this they move up. The father's father and mother is father and mother. 
+
+
+## 
+22:21
+Then you have the father as brother and sister and the mother's brother and sister. So essentially we come three generations down and two generations up and one generation, maybe two generations sideways also it doesn't stop here. So it says wherever the relationship is of a son, daughter, sister, of brother, their spouse also shall be included. So we go into the relationship of a son in law, daughter in law, sister in law, brother in law. 
+
+22:48
+Everybody is also covered under the relative definition. Maybe they found that people are circumventing the law by transferring it to relationships which are not covered as a relative under the company's act and that is why the law foresaw that and into the sack novel. so under now we'll cover under the code where a lot there is an reference to relative or related party and what is the implication of all these references? 
+
+23:22
+So first is the appointment of an insolvency professional or an authorized representative. So the resolution professional is one of the backbones of the resolution process, apart from the pillars which are the adjudicating authority, the insolvency and bankruptcy board, and then we have the institutes which govern the insolvency professional and of course the COC, which forms a major role in the taking forward the IBC process. 
+
+
+## 
+23:51
+So in all these cases the law wants to ensure that it is governed by only unrelated parties and there is no related parties in any of these positions. so being Regulators. Obviously a ibbing and ICS. I mean the iits don't require this provision, but the insolvency professionals, the authorized representatives and the committee of creditors. These are the pillars where we have to ensure that related parties do not enter. 
+
+24:22
+So the resolution professional has to be independent to provide the adequate support to the committee of creditors and to make sure that the process is carried out in an independent and fair and transparent manner. Then we have authorized representatives who represent the class of creditors, so under the code they also have to maintain their independence and they should not be anywhere related to the corporate data or to the financial creditor. 
+
+24:51
+Then there are professionals which are appointed by the insolvency professional during the course of the process, either as an IRP or as an RP or as a liquidator. So the professionals may be registered valuers, legal professionals, and so the these professionals are also governed by their individual code of conduct. So if we take registered values or if we take Advocates, they will themselves not undertake if there is a conflict of interest. 
+
+
+## 
+25:19
+But the issue comes in the case of when you appoint accountants for the process to help the insolvency professional out or when you appoint any kind of consultant. if the company is into any specialized business and you need a consultant who will take this process forward, then you will need to ensure that the person is completely independent of the corporate data and all the promoters, and it is not a related party. 
+
+25:45
+Regular declarations are required to be given by the insolvency professional to the icsa iip, giving the relationship disclosure on a periodical basis as soon as they are appointed. All this then shows that the process is, you know, carried on in a manner that is above the bar and it is always safe for both parties, so that there are no allegations from the promoter or any person later. 
+
+26:09
+So it is better to do it proper due diligence of all this before we take up the assignment and in case there is anything that comes to our notice in between, we should always excuse ourselves from the appointment. That is what is expected of every professional, and I'm sure everybody understands that. Now we'll move on to the section 21, which talks about the representation of the financial creditors on the committee of creditors. 
+
+
+## 
+26:42
+So a financial creditor or an authorized representative of the financial creditor, if he is a related party to the conference data, will not have any right of representation, participation or voting of the committee in the meeting of the committee of creditors. 
+
+26:59
+So when we see the claim form that is filed by the financial creditor in form C in the case for the ARP process, there is a declaration saying that he is not related to the corporate data and is not a related party. 
+
+27:13
+So that is a inbuilt in the form of the form C, but still it is a duty cast upon the insolvency professional to check whether you know he is a related party before it is included on the committee of creditors. 
+
+
+## 
+27:29
+There are some cases which have happened where the IRP has included them in the committee of creditors and later there has been in other Financial creditors have pointed out that it is a related party and requested them to be removed. So we will see those instances going forward. there is one exception to this, which talks about a financial creditor regulated by a financial sector regulator. 
+
+28:07
+If it is a related party of the corporate, it is only on account of conversion or substitution of debt into Equity shares or instruments convertible into Equity shares or completion of such transactions as may be prescribed prior to the inservancy commencement date, then he will not be treated as the related party. So here what is important is that this action should have been taken prior to the insolvency commencement date. 
+
+28:41
+Now we will say who is a financial sector regulator. so Section 3, subsection 18 defines who is the financial sector regulator means an authority or body constituted under any law, for the time being, often reinforced, to regulate the services or transactions of financial sector, and includes the Reserve Bank of India, sebi, irda, the Pension funds regulator Authority and such other regulatory authorities as may be notified by the central government. 
+
+
+## 
+29:13
+So only if it is regulated through any of these. It's an inclusive definition, so we can add the central government can notify and add more, but currently it is only these four institutions which, if you are regulated by either of these four institutions, then you can call yourself as a person regulated by a financial sector regulator. 
+
+29:40
+There is one dichotomy in this, which says that you will have to give a notice to the suspended directors or to the related party, but they will not have right to representation or participation or voting. 
+
+29:57
+So then the question arises that when you are giving notice to the suspended director, which is mandatory under the provisions of the Court, after having given notice, whether you should forward the entire agenda and all the related documents to them, or it only the bear notice, which will be an information for them and because they will not have any right to participate or represent in the meeting. 
+
+
+## 
+30:20
+So this is something which has been going to court back and forth and there are some cases on this search which we will also look into those. so now the first one of the first duties of the insolvency professionals is to validate the claims and, once they are done, from the list of stakeholders and posts that form the committee of creditors. 
+
+30:48
+So the law also addresses that where the corporate data has no Financial creditors or all the financial creditors are related parties, then the COC shall comprise of 18 largest OCS by value one Workman representator and one employee represented, which is provided under regulation 16 of the carp regulations. So in the absence of any of the Financial creditors, the OCS will take the process forward. 
+
+31:32
+Now people look at reasons as to why we should exclude the related party Financial creditors from the IBC process to the very important person of IBC is that the financial creditor should take control of the committee of creditors also steer the process forward, which is also asked for what would be the our code envisages, which has been taken from the uncitra legislative suggestions. 
+
+
+## 
+32:06
+So first there should be no conflict of interest and they should not have any negative influence on the process created. Parties including them in the process could lead to differential treatment and affect the interest of the valid stakeholders, and the rights of legitimate creditors have to be protected, which is one of the duties of the insolvency court, and the COC has to exercise its commercial wisdom to make the insolvency process successful, which could be derailed if there are related parties on the COC and the Democratic pattern and the majority view should not be made a mockery by allowing the related parties to have a say India process, because there is a deemed presumption that the related parties would have some information about the past process, how the funds have been siphoned off or what they will have to hide from the process, or how they want to steer the process forward for their game. 
+
+33:10
+So that is the reason why it is necessary to extend the financial Predators from the process. Now we look at assignment of debt. What happens when a debt is assigned to a non related party? So typically we see that promoters plan the system very well, where they make sure that within the foresee that the company is going into insolvency and they are not able to pay their debts. 
+
+33:38
+They slowly start, you know, siphoning off and they start planning that when the company goes into IDC how their voting power will be ensured. So one way what they do is they start assigning the debts to the related party leads to non related parties and then they try to get into the COC and thereby trying to influence the decisions. 
+
+
+## 
+34:02
+So there is one case where the pankaj yada versus State Bank of India, which was before the ncl80, where the nclit has noted that there is a meticulous Planning by the director of the CD to bring down the voting power of SBI SBA would have had a good majority on the COC, which intentionally was brought down by the directors by assigning their index to the non related party. 
+
+34:31
+And it is the ncl80 has also observed that if a related party Financial creditor ceases to be a related party, with the sole intention of participating in the COC and sabotage the CIA have been processed by diluting the vote share of the other creditors or otherwise the disqualification should apply to such party as well. 
+
+34:53
+So the conduct and of the promoters and how they have planned has been shown in a very brought to the notice of the in clat, and this observation has been made. So there is one more similar case in the case of Radha Industries. In the case of Radha Industries in the brothers matter, where the CD converted use them to the operational creditor amount into 10,29 crores into a Financial loan. 
+
+
+## 
+35:28
+So what was due to an operational creditor for Supply was converted into a Financial loan under the promise that he is not able to pay the operational use and subsequently CD did not repay the role, and what happened was it was assigned to another company by lead of assignment communication dated 2 for 2019, for a consideration of 13,61 crores. 
+
+35:55
+So the act of the initial view of 10.29 was increased to 13.61 and it was assigned in 2019. Subsequently in a CRP comments for 27.1 2020 and at the first COC, 10 creditors were shortlisted by the IRP. Based on her initial work, the audit that she had done and the background that she had checked, 10 creditors were called to the COC meeting. 
+
+36:28
+At the first COC meeting, the six Financial creditors objected to the adding of these four creditors onto the COC, are saying that they are related parties. So they had done their due diligence and found out that these parties were only through an assignment of debt and were the underlying transaction is still a related party transaction, and more so because it was an operational debt which was converted into a financial debt just a little prior to the commencement of say ARP. So obviously they were inquiry of the matter before the nclt and accordingly acted to package this and Clark. 
+
+
+## 
+37:11
+I also noted here that the reason for the applicant taking over the backlog of the CD is not clear, and it's rather surprising, because why would somebody the CD take over the operational debt, convert it into a financial tax? And the adjudicating authority also observed that whatever the rights of the original assigner got from the original lender will automatically accrue to the subsequent assignees based on the executing appropriate legal documents in accordance with law. 
+
+37:47
+So the adjudicating authority here was a considered view that the applicant be an assignee of the loan from the assigner is also a related party of the CD. So basically you cannot get a title better than what was there with the original owner. This was what was decided in the yes. 
+
+38:04
+There is one more matter where it was held that before the ncrt allahabad bench, which said that the cities directors themselves or their relatives were also directors of the financial creditor, then they fell well within the definition of the related party. This, I think, was clear from the definition, but still it has been taken to nclt. One more issue that we face is the nominee director on the board of the corporate data. 
+
+
+## 
+38:40
+So we are aware of lot of shareholders agreements, which are joint venture agreements, which provide sometimes for the financial assistance to the corporate data and in return they would want a nominee director on the board of the company to oversee the business of the complete operations of the company and also to protect their financial interests in the car. 
+
+39:07
+So in this one case, where the RP decided that the financial creditor was not eligible to be made a part of the COC at itself, eight percent of the shareholding in the corporator and the adjudicating authority held that as the management of the company and affirmative vote in the company. Many a times we used to protect their investment in the company and have their say in the proper usage of funds that may have nominee directors. 
+
+39:39
+These are all incidental rights to protect their interest in the data company, which is merely having this affirmative vote right does not disqualify a nominee director of a financial creditor to be a related party and it the nclt training went on to say that if these financial service providers acting as trustees to some other funds are eliminated from participating in the COC, then the very objective of bringing the data companies under Financial creditors will be put to nullification. 
+
+
+## 
+40:15
+That apart, it also said that the valuable right of a financial creditor who has come into the company solely for return on investment, as per the agreement, will be unreasonably curtailed. So this is the view of the vulnerable nclt Chennai. we move on to. The same matter was taken up before ncl80 and in NCAA t. 
+
+40:50
+The observations were slightly different from that of the nclt, so what the NCAA observed in the same matter was the affirmative vote. Items demonstrate substantial control over the technical matters, including the very choice of technical professionals, such as Architects, and was built within the investors domain For Whom the investor representative was acting. 
+
+41:17
+So the ncla team went one step further in looking at the control that was exercised by the nominee director and said that it had a very direct essay in all the operational matters of the corporate data and having such a direct control over the corporate data, it would also have to be taken in as a related party. 
+
+
+## 
+41:51
+So here the applicant held eight percent of the shareholding of the carpet data and also had funded around 49,5 crores through debentures. Here they apparent what he did was before the NCLEX. He annexed the debenture certificate, which said that the debenture is not convertible but redeemable on maturity, which he tried to prove that it is. 
+
+42:20
+He is only a financial investor and had no direct rights or any say in the management of the company or the failure of the company, and he also pleaded the release of financial service provider regulated by semi. 
+
+42:37
+So here the N clerk had gone through all these issues and has held that this investor management managers limited ask investor management limiter is a related party to the corporate data and therefore it cannot be made part of COC with voting rights. so the same conclusion the NCLEX has also arrived at after looking at all the facts and the control that has been exercised by the nominee director. 
+
+
+## 
+43:06
+So if the Navigator had been a simplicitor nominee director on the board, then it would have been acceptable. But since all these affirmative votes were there and also that they were participating in the actively participating in the operations of the company. So this is very important when we, as other advisors, we advise the company on to have a nominee director on the board. 
+
+43:30
+So this is a flag as to how we should draft our shareholder agreements or look at how the representatives are nominated on the board of the investor. Okay, now we will look at what is the permitted RBT, so what is done in the ordinary course of business. that is a normal activity taken by the company and maybe it is there in the main objects of the memorandum of Association. The activity Is frequent. 
+
+44:05
+So the frequency of activity is one of the conditions that we can check to see whether it is in the ordinary course of stress and the past record of these transactions and the percentage of contribution to the total revenue. So all these will determine whether it is in the ordinary course of business. But when we check ordinary course of business, we have to see whether both parties. 
+
+
+## 
+44:28
+It is ordinary course or business, not only for one party. so when there are two or more parties to the transaction, it should be an ordinary course of business for all these parties, and one very important underlying condition is that it should be for the benefit of the corporate data. So how do we determine so? 
+
+44:48
+For example, if for the company is selling out this Machinery, old machinery, and if it is sold to the related party for this com the for concrete data, it might be in the ordinary course of business, but for the company which is buying, we have to see whether to that company also it is in the ordinary course of business. If it is not, then it will not be following the test of ordinary course of business. 
+
+45:18
+One more test that we do is ask length, transaction. so answer, and transaction has two aspects to it: one whether the terms are the same and the price is the same that we give to the other non related parties. 
+
+
+## 
+45:33
+So this also can be checked with the past track record where we are having when the same transaction is done with non related parties similar to how we check under the companies act also, and the transfer pricing can be kept as a guideline for to check whether the arms length pricing has been done. All these activities would be required. 
+
+45:57
+Compliances under the companies act so that can be cross verified and also the Auditors what they have commented upon in the Auditors report and how it has been declared in the financial statements would all determine whether this is a permitted related party transaction or a transaction which requires some kind of Investigation. Okay, is it equips to distinguish between related party and a connected person? It is there. 
+
+46:38
+In the subsequent slides I will take it up okay, next we move on to some more details on how. What is ordinary course of business? So there have been lot of cases under the companies act which speaks about ordinary course of business. 
+
+
+## 
+47:04
+There is one case of the BNB Paribas versus United breweries, which was the Karnataka high court case, which says that while dealing with Section 562 of the companies act 1956 on the issue of disposition of property, during the pendency of winding up petition before the company judge has defined the words in the coronary course of business. So what has been observed is that honest dispositions made in ordinary course of business are usually allowed. 
+
+47:35
+So the court recognizes that at the time of distress, when the company is under financial distress, it will try to sell some of his assets and settle the liabilities. So honest dispositions made are allowed. but it is also saying that while passing orders, the court considers whether the transactional question is in furtherance of the company's business or in the interest of the company in liquidation and or its creditors. 
+
+48:03
+So that is the test that has to be applied, which says that is it what you have done with the money? What has been disposed? Is it a substantial asset which is generating revenue for the company that has been disposed? Or if it is some asset which is not generating revenue and that is why it is being disposed to settle up the creditors? 
+
+
+## 
+48:23
+And secondly, who are the creditors to whom it has been given, whether it is a related party or a financial creditor. in certain circumstances. The court has seen that it is only to those financial creditors where personal guarantees have been given or it might be to some diversion of funds for some other purpose. So the purpose is also very important when we come to the ordinary course of business. So this matter. 
+
+48:49
+There is one more observation. This is before the winding of petition is presented. It is in the ordinary course of business for a company to pay all its debts and, incidentally, to give security to its Bankers for any overdraft or loan it may arise. But after the petition is presented, the situation is different, say all the debts will have to be paid for impossible. 
+
+49:13
+Therefore it is no longer in the ordinary course of business to pay one credit or equal to the detriment of his fellow creditors. So it is the intent and the way it has been executed which will determine whether it is in the ordinary course of business in either which case after the petition has been presented. 
+
+
+## 
+49:32
+If there is an activity that has taken place, then it will not be treated as normal ordinary course of business unless it is paid to all the creditors. So there is a look back period under IBC which says two years prior to the insolvency commencement date. 
+
+49:50
+I understand there is a proposal to amend this and make it two years prior to the date of submission of the application under Section 7,9 or 10, before the NCL take, and this would be a welcome move because in this period typically promote us to siphon off a lot of funds, sell off assets. Okay now we move on to the role of the property of creditors for certain actions. 
+
+50:19
+So section 28 of the Court specifies what are all the actions to which the IRP or RP has to go before the committee of creditors with related or with respect to related body transactions. It is mentioned that the RP during SARP should not enter into any related party transaction without the prior approval of the community of creditors. So here it is very clear. it is not a post approval. 
+
+
+## 
+50:46
+It is higher approval that has to be taken. There are some challenges in this. For example, what happens when the IR will take? So what about the community of creditors? Has not yet been fought in the interim that one month? There are some critical decisions which have to be taken. The company may be run with related parties who are the suspended directors, their relatives. 
+
+51:09
+So the question arises as to how we are able to manage those 30 days without so does it mean that you cannot employ the existing related parties who are already there in the company, or undertake transactions with the related parties, providing the companies are going concern? and then how do you take prior approval and even after forming up the committee of creditors? 
+
+51:35
+If the management is currently being run by relatives of the promoter and the directors, then how we will deal with this situation? Is it that we will have to remove them from the post immediately and replace, which may also be a challenge in the case of a company under insolvency? So all these aspects need to be considered and accordingly taken forward. 
+
+
+## 
+51:57
+Maybe it has to be presented well to the COC and make sure that the COC approval is obtained okay. So we will look at one more matter. in the case of ncert Ahmedabad, where what happened was that the IRP had some faced with the same situation, where the suspended board of directors were holding managerial positions in the company and they were withdrawing salary. 
+
+52:36
+So the salary was approximately 5 lakhs per person per month and they were taking care of all the functions operations of the company. And once the IRP took over, the IRP had the power to appoint professionals to take the resolution process forward. 
+
+52:55
+So what the IRP did was she the IRP requested the existing suspended board of directors to continue to do their task in running the business and help the I have been running the business of the car. no, when the COC was formed and the resolution was placed before the COC that the there is how the IRP had requested them to continue and they had to be paid for their services. 
+
+
+## 
+53:22
+The CMC rejected the resolution for payment of salary, and so the yeah aggrieved directors went before the nclt, and the nclt held that the commercial wisdom of CMC is supreme and that it required a prior approval. And if the COC is not willing to pay their salaries then it cannot be paid, so they refuse to interfere with the decision of the COC. Next we move on to the information memorandum. 
+
+54:02
+So the information memorandum has to be prepared within the 54th day of the insolvency commencement date. so the challenge here is that a lot of information has to be available, compiled and prepared in a logical Manner and placed before the COC before the 54th day. So in that there are two classes which relate to related party. 
+
+54:26
+So one it says that the particulars of data tube from or to the corporate data with respect to related parties. This has to be disclosed in the IM. And the second is details of guarantees that have been given in relation to the deaths of the corporate data by persons specifying which of the guarantors is a related party. So here are two things IMB will have to disclose. 
+
+
+## 
+54:51
+One is on the debt that is due and the second is all the guarantees which have been given. so both these details have to be combined and placed in the iron. Just give me a moment just yeah. So so next we will want to. One of the very important parts of the Court speaks about section 29, capital a, which was introduced with retrospective effect from 2.11 2017. We will see going forward how it was introduced. 
+
+56:05
+So section 29, capital A, deals with persons not eligible to be a resolution applicant. This is very important for an Arctic to know who is not eligible, because whenever a resolution applicant applies, we will have to check whether they fall under any of these parameters, whether they are eligible to give the resolution plan and if you are the professional who is drafting the resolution plan, then also it is very important for us to check whether the person is qualifying to give a resolution plan. 
+
+56:36
+There are some agencies which undertake specialized Services they provide to check whether the person is disqualified, because the Ambit is very wide. Especially we have seen how wide the related funny and relative definitions are under the code and to sculpt and such in public record where they have been declared insolvent or willful defaulter or any of their companies in which have been declared in the past. so we will now see section 29, Capital layer. 
+
+
+## 
+57:10
+It is a person shall not be eligible to submit a resolution plan if such person, or any other person acting jointly in concerned with such person, is an undischarged insolvent or a willful defaulter, in accordance with the guidelines of Reserve Bank of India issued under the banking regulation Act, who, at the time of submission of the resolution plan, has an account or an account of the corporate data under the same management or control of such person, of whom person is a promoter, classified as an NPA in accordance with the guidelines of the Reserve Bank of India or the guidelines of a financial sector regulator issued under any law for the time being enforced and at least a period of one year has lapsed from the date of such classification, the date of commencement of the SARP process of the corporate data. 
+
+58:15
+So there is a. time period given interim time period of one year within which you can apply, failing which you will fall into the disqualification under Section 29, capital a, and they are saying: if you make payment of the overdue amounts, along with the interest thereon and all the charges that have been levied on you being an NPA, before the submission of the resolution plan, then this disqualification will not apply. 
+
+58:49
+So the Court Supreme Court took a very lenient view in the case of the Arsenal metal case, where it permitted the parties to set right their NPA accounts and then come back and submit the resolution plan, because the condition here is it was to be done before the submission of resolution plan. 
+
+
+## 
+59:12
+So the court has taken a linear view in certain cases and allowed the resubmission after setting right terp fault, in the interest of the corporate data and in the interest of all the financial institutions. Which happened to the corporate data? 
+
+59:25
+And it also says that there is one more promotion which provision which says that nothing in this Clause will apply to a resolution applicant where such applicant is a financial entity and is not a related party. Do they corporate data? So Financial entity nearly holding shares on account of conversion or any other such rights that they are having on the board will not be treated as a disqualified person. 
+
+59:53
+Now there is one explanation to section 29, capital A, which says for the purpose of this provision, the expression related party shall not include a financial entity regulated by a financial sector regulator if it is a financial creditor of the corporate attorney is a related party of the corporate data solely on account of conversion or substitution of the debt into Equity shares or instruments convertible into Equity shares or completion of such transactions as may be prescribed prior to the insolvency constant date. 
+
+
+## 
+1:00:31
+So there are two important aspects to this explanation, which says it will not include a financial entity and it will also, it has to be learned prior to the insolvency consequent, who are all the entities which are? Who are on the financial sector Regulators? we have already seen the definition and we also know more on the financial entities. 
+
+1:00:55
+We saw the case also moving on to explanation 2 to section 29, capital a, which says it is for the purpose of this Clause. I don't wear. A resolution applicant has an account or an account of the corporate data under the same management of control of such person or a phone. Such person is a promoter classified as an NPA and such account was acquired pursuant to a prior resolution plan acquired under the court. 
+
+1:01:21
+Then the provisions of this Clause will not apply. there are multiple conditions here as well, which says that if the promoter was classified as an NPA and it was a prior to the resolution plan being approved, then this process of clause will not apply to such resolution applicant for a period of three years from the date of approval of the resolution plan. 
+
+
+## 
+1:01:43
+It is assumed that within three years the account would be section B of section 29, capital A. It says he has been convicted for any offense punishable with imprisonment for two years or more under any app specified under the 12th schedule, or for seven years or more under any law for timing in force. 
+
+1:02:06
+So the 12th schedule to IBC lists out more than 20 acts under which person should not be imprisoned or convicted for any offense with imprisonment, and another Clause is that seven years or more under any law for time being enforced. So provided that this Clause shall not apply to a person after the expiry of two years from the date of his release from imprisonment. So the Clause is also very lenient with sales. 
+
+1:02:35
+Even if you have been there for seven years in jail, after two years you are exempt from this. So this is the one of the another leave is basically the intention of law. had it been to keep frauder and promoters away from the management and taking over the management of other companies. This is a bit too lenient provision, and it's also says that this law shall not apply in relation to a connected person referred to. 
+
+
+## 
+1:03:08
+In Clause C of explanation one. We will see who is a connected person is disqualified to act as a director on the companies act 2013. So here again there is a exemption for connected person referred to and Clause 3 of explanation one or not one and two Clauses one and two, so disqualification to act as a director and the other companies Act. We are all aware of section 164, which provides for disqualification of directors. 
+
+1:03:41
+In that there are two parts to section 164, please allow me to take that one back. so there is one recent judgment in the matter of hotels, which has also discussed the matter of section 164 disqualification. We were under Section 164. There is a subsection, one which says overall or not who are all are disqualified, basically covering person of Unsolved mind and discharging solvent that which are convicted of court of any offense. 
+
+1:04:22
+And then there is a subsection 2 which says that no person who has no person who is or has been a director of the company which a has not filed financial statements or annual returns for a continuous period of Three Financial years this would be evident from the MCA records or B has failed to repay deposits accepted by it or pay interest. There are already many debentures on the due date or pay interest. 
+
+
+## 
+1:04:49
+They are not for the dividend declared and such failure to pay redeem continues for a period of one year or more shall be eligible to be appointed as a director of a company. In the recent supreme court judgment, it has been held that for the purpose of section 164 through b, there should be a specific order of the Roc or the adjudicating authority to say that the person is disqualified. 
+
+1:05:18
+The RP cannot unilaterally take it that he is disqualified, based on the examining of the financial statements or other records of the companies in which he is a director. So now it is sufficient if what data is available on the MCA website in terms of annual return filings is examined by the RP, till of course some other log the laws are mended in this matter. 
+
+1:05:44
+So we move on to F, which says is prohibited by the Securities Exchange Board of India from Trading and securities are accessing the Securities Market. G has been a promoter in the management and control of the corporate data in which preferential transactions undervalued, extortionate or fraudulent transaction has taken place and in respect of which an order has been made by. The adjudicating Authority Under this war. 
+
+
+## 
+1:06:11
+So here again, the law is very clear: there should be an order. There is no presumption of transactions or no Authority for the resolution for the resolution professional to check until and unless there is an order passed by the error and see it or any other Authority Under the code. 
+
+1:06:35
+So there is one more exception provision given to this class, even for the pufe transactions, it says: if it has taken place prior to the acquisition of the corporate data by the resolution applicant pursuant to a resolution plan approved under this code or a scheme or a plan approved by a financial secular regulator or any court, and such resolution applicant has not otherwise contributed to these pufe transactions, then the resolution applicant will not be disqualified from the giving a resolution plan under the code. 
+
+1:07:11
+So section 29a would be would not apply to this case. also, then there is says he has executed a guarantee in favor of the Creditor in respect of a corporate data against which an application for insolvency resolution has been made by such creditor and has been admitted under this thought and such guarantee has been invoked by the Creditor and remains unpaid. 
+
+
+## 
+1:07:37
+So here again there are multiple conditions which are there when pufe transactions are pending, then this Clause will not apply. Only when there is an order under the code, then this order will apply. This sorry, this qualification will apply and then it say it's subject to any disability corresponding to Clauses a to h under any law in the jurisdiction outside India. 
+
+1:08:09
+I understand this is very difficult to verify as to how it would be if it is outside India. the next is so and J we have a connected person is not eligible under Clauses a to I. So we will now move on to who is a connected person. So the explanation talks about who is a connected person. 
+
+1:08:51
+So connected person, it says one, any person who is a promoter or in the management or control of the resolution applicant, or any person who shall be the promoter in the management or control of the business of the corporate data during the implementation of the resolution plan or the holding subsidiary, associate or related party of a person referred to when classes one and two. So earlier we had seen under Section 29 capital a. 
+
+
+## 
+1:09:23
+Yeah, under 29 capital a specific exemption had been given. 2 under the external three which were the Clauses was that one registered to disqualify to act as a director under the companies act 2013. To them there was exemption. So exemption is only with related to three, which says holding subsidiary associate or related party of the persons referred to, and one and two is an exemption to those people for a disqualification under the companies Act. 
+
+1:10:04
+And one more exemption which was given was for the purpose of conviction of any offense punishable with imprisonment. In both these cases, for subsection 3 alone, 29, capital A has given an exemption other than that any other person would be deemed to be a connected person. 
+
+1:10:22
+Now the challenge that we have in the connected person is that if he is a promoter in the control management, it is relatively easier for us to determine, whereas plural, to get the related party of these people. So getting the promote, the identifying the promoter is possible. 
+
+
+## 
+1:10:43
+But now we have to check whether the resolution applicant is anyway termed as a related party to the holding company, associate company of this promoter company or if the promoter is an individual, any of the relatives of the individual. Similarly, under Clause 2, any person who shall be a promoter during the implementation of the resolution plan. 
+
+1:11:09
+So we will have to see the resolution plan that has been submitted and in case there is any person who is being shown as in the management or control of the business during the implementation of the resolution plan, such persons antecedents holding company subsidiary company would also have to be verified to see whether there is any this qualification that is applicable now. 
+
+1:11:31
+The one very important issue on the pulse of connected person is it should be connected with business activity. So what we a typical example that comes to mind is that of Anil Ambani and Mukesh Ambani, where we see that it is a well publicized fact that there has been a partition in the family and it was also well known for all, which are all the companies which are controlled by Anil Ambani which are on the companies which are controlled by Mukesh Ambani. 
+
+
+## 
+1:12:02
+So, since the entire matter has been publicized and the partition has happened. It paved way foreign which had gone into insolvency and the court recognized that, even though they were relatives under the IDC but they were no longer having any common business activity and the brothers did not have a say in each other's business, and that paved way for Mukesh Ambani to take over the control of some of PE assets of Reliance communication, which were required by a Geo for its services and which also helped installing the insolvency and getting good value to the Anil Ambani group. 
+
+1:12:54
+So certain rare scenarios are available where the definition of relative has been given a go by the court and the court has allowed in the interest of Justice must appreciate the dynamic way in which the law has been amended and also the court has also been taking a very lenient view on cases in the interest of Justice. 
+
+1:13:14
+One more matter in the case of arcelona also, which I have voted down in the subsequent sites, which the court has taken an exception and around the resolution applicants to submit the blood. So what happened in the prior to section 29 capital A was that any individual or body corporate could participate in the resolution process. 
+
+
+## 
+1:13:46
+There was no differentiation between the promoter director related or unrelated process, and it was a heaven for fraudulent promoters to get back their companies with haircut. So prior to introduction of 29 capital A, the promoters themselves brought in resolution plans or through their associates they brought in resolution plans, got back control of the company and the promoters had to take a huge haircut sometimes 90 over 90 haircut and the promoters got their company back. 
+
+1:14:18
+Control back has got free and to prevent all this, the lawmakers woke up immediately and decided to introduce this 29 capital A to make sure that these fraudulent promoters do not get back their company and all other stakeholders interests are also protected and instead of going for an OTS proposal or any kind of settlement with the bankers, the promoters found this being a resolution applicant and taking through a resolution Plan gave them Salvage them from all the past sins that had they had committed and also got them the company back with the huge haircut. 
+
+1:14:58
+Bankers were also very hesitant to sign a Ops proposal or any kind of when it comes to a huge haircut like this, but a minute it goes under the court process and it comes into the with the stamp of the audible adjudicating Authority. then the backwards were also comfortable in going through huge haircuts. 
+
+
+## 
+1:15:18
+So to prevent all this in the interest of the society at large, section 29 capital A was introduced, so it was inserted through the insolvency and bankruptcy code Amendment ordinance in 2017, with the effect from 23rd November 2017 and after the court was bad, the department was back in session, the companies, the insolvency and Bankruptcy Court Second Amendment act 2018 was passed and the so that is why we mentioned that it is retrospectively effective from 23rd of November 2017, that is the date when the ordinance was passed. 
+
+1:15:58
+So the lawmaker here again did not wait for the parliament to be in session, but they decided to go ahead with the Ottomans wrote. the preamble to the ordinance gives us an idea as to why 29 capital A was introduced. This is the lawmakers perspective, so I just read out this relevant paragraph. 
+
+1:16:16
+It says, and whereas, in order to strengthen further the insolvency resolution process, it has been considered necessary to provide for prohibition of certain persons from submitting a resolution plan who, on account of their antecedents, May adversely impact the credibility of the process under the court, and whereas it is also considered necessary to make Provisions to specify certain additional requirements for submission and consideration of the resolution Plan before its approval by the community of creditors, so by this ordinance for Section 29 capital A was introduced by the way of the amendment Act of 2018. it was brought into effect again, and also the definition of relative was introduced only by through the amendment. 
+
+
+## 
+1:17:03
+So I guess the Preamble clearly entails what is the reason behind bringing this 29th Capital AI to the code. So next we will see what is the need for Section 29 capital a, so I don't avoidance transactions typically erode the value of the corporate letter it is with an internal defraud. 
+
+1:17:23
+The creditors and that had to be put into check, and those associated with these avoidance transactions should not be eligible to bid for other companies or their own copy data. and there is something called a Twilight period, not defined anywhere but generally used partners, which is the period prior to the commencement of the insolvency proceeding insolvency commencement date, but the period during which the promoters were aware the company is going to go into insolvency. 
+
+1:17:56
+So this period would be typically the period when the application has been filed before nclt but it is pending approval, or it might be also the period where the promoter is aware that the company will go into insolvency and any of the creditors are promoter himself plans to apply foreign. 
+
+
+## 
+1:18:24
+It is also that related parties have additional information regarding the company's Affairs which is not available to the other stakeholders, and they may use this additional information to divert the assets of the car. Promoters take advantage of the early signs of financial distrust to their advantage and they divert the funds or assets. 
+
+1:18:46
+Typically, it is seen that if the company is say, for example, into a retail outlet and employees are not being paid their salary, so they tend to take away items given to them. So if they are given a cycle or a bike or if they're given some office convenience and mobile phones, they typically take it away in view of their salary if they estimate that the salary is not going to be given to them. 
+
+1:19:11
+So taking advantage of these situations. Promoters themselves take some assets and blame it on the employees, or they may have some other form of you know, moving it away from the premises and keeping it in some other place and passing on the blame to the landlord or to the creditors or to the employees. 
+
+
+## 
+1:19:28
+What we typically see in a lot of cases and one more reason why 29 capital A is necessary is to lift the corporate wheel where the toddler promoters hide behind a member of companies and ultimately the own. 
+
+1:19:43
+The Beneficial owner, as we see under companies at the Declaration of the SPO, is also important, will also help us in identifying who is the person who is handing ultimate control over these companies and make sure that it doesn't go back to the same products. 
+
+1:20:01
+It's the one of the reasons the promoters of defaulting companies have to be kept away from resolution process, not only this company, any company that they are having which have defaulted then they should be kept away from the a resolution process of other companies to make sure that the same thing is not repeated in this company. 
+
+
+## 
+1:20:21
+Also next is that section 29a was also necessary to bring credibility through the resolution process, so that the Assurance to the industry and to the public at last that the process is intended for their benefit and early resolution is important. 
+
+1:20:37
+At the same time it should be a fair process, so same contributors who same promoters contributed to the downfall of the company should not get back the company, which is again against the basic principles of corporate governance. so we will stop here and maybe take a small break and resume after 15 minutes. Anjali, are you there? We'll just take a short break for 15 minutes and we'll be resume. 
+
+1:21:15
+Thank you is more for a related party than compared to a non related party. The purpose and obvious reasons for that are now. There is a presumption that interest was acquired for benefit was received other than otherwise then it could fail unless the contrary is shown. So the law is that presumption is always that it is otherwise that in good faith, and a promoter will have to prove that it was in good faith. 
+
+
+## 
+1:34:00
+There is a proposal to this. There are two things: that the promoter had sufficient information of the initiation or commencement of insolvency process and he is a related party. so these two conditions. If they are satisfied, there is a presumption that it is not done in good faith and the promoter will have to prove that the avoidance transaction was done in good faith. The onus of professional motor section 46, which talks about avoidable transactions. 
+
+1:34:29
+Avoidable transactions also the same stipulation one year if it is 80 percent and if it is a related party, it goes to a period of two years. They look back period. So this is as per the uncitra legislative guide on the insolvency law, which has suggested that the look black period should be longer in the case of a related party than the case of an unrelated party. 
+
+1:34:51
+Now how to determine the if there is a pufe transaction. so the RP to form an opinion owner before the 75th day of the insolvency commencement date and the transactions may be covered under 43,45.50 or 66 and he has to make a determination of such transactions on or before the 115th day apply to. 
+
+
+## 
+1:35:14
+I think there's a slight mistake in the number of count apply to a honor before the 113th a day correct and the creditors shall provide to the RP and extract of the audit reports such as the stock order transaction audit foreign conducted. This will help in checking whether the there are already existing any transactions which have been noted which can be used by the RB. 
+
+1:35:44
+So typical transactions which fall under this POV transactions would be like payment of repayment of the unsecured loans taken from relatives. Payment to credit us to avoid section 12.138 cases, that is, where post data checks have already been issued. Specifically make sure those creditors are paid in priority or sometimes without any anti sealing debts. The payment is made. Then payment for all the debts is made instead of payment to the current vendors. 
+
+1:36:15
+Salary is paid to directors and their electives. Payment of loans guaranteed by directors and promoters is given priority. Contracts are awarded to relatives or group companies by which ones are siphoned off. These are all the flag points that the RP can have. the loans to directors and relatives. 
+
+
+## 
+1:36:34
+Selling of Investments at the value below the market price, especially in the case of unlisted Securities or ad hoc, you know, giving off the Securities to an arc or any other related party. Assignment of receivables at a lower value. Payment in excess of market price, then sale of Machinery or asset set or low value. Another very important thing is the transfer of ips or technology in the name of the promoter. 
+
+1:37:03
+So what the company has spent and acquired, the IPR or technology is transferred in the name of a promoter for a very nominal value. A reclassification of operational data into financial debt, we saw, is also relating to this, where the court has structured down deployment of funds not involving the core business of the company. That is also a flag. 
+
+1:37:24
+So here the underlying intent is very important: whether the promoters or the suspended directors have undertaken all these transactions with an intensity from the creditors. So how to check? We have a our all the three IPS together have brought out a statement of best practices, role of ips and avoidance proceedings. 
+
+
+## 
+1:37:49
+So if you look at that statement of best practices, they have listed out how an RP should check if there are any POV transactions in the corporate attack. So this verify the end use of funds granted by the lenders. Identification of cases involving siphoning off of funds. A misrepresentation of financial information. Violation of rpt notes. Verification and tracing movement of unsecured loans in the corporate deposits, especially those raised in group concerns concentrating transactions. 
+
+1:38:26
+Verification of Aging receivables, including Advanced given debit balances of vendors and large amounts of write off which is a cause of which is a flag. Then transactions with related parties. Large transactions with unrelated parties also would have to be checked because they may not strictly fall within the definition of a related party, but still indirectly, when you check they may be a related party. Salaries benefits to care please. 
+
+1:38:51
+Movement of cash transactions with good companies, to see whether there is diversion of files, sale of SX, transfer of contracts, Investments made by the company, inventory details. So under the Investments typically what happens as they buy shares at a huge value so that funds are deployed into another company. So the valuation of the Investments would have to be checked. suspicions movements in the financials, that is, in the previous year and current year. 
+
+
+## 
+1:39:17
+If you see the previous year, balances would not be carried forward to the current year. Transactions rooted through related parties and potentially linked parties, and whether these are at armed lens and for specific purpose. This also can be checked to determine whether it is behavior field transaction some more check. So there is an indicative list of what all we have to check for in respect of six suspicious transactions. 
+
+1:39:41
+So your purchases and sales made from or two relatively unknown parties are trades which are very much higher than the market value and then the person of payments made, which previously indicate that there is diversion of funds under different activities like sending General expenses, legal expenses, High salaries, perks to over directors in kmb, high raw material cost on these are there then large amount of write off on account of recurable made without adequate justifications, and so here it is obvious that write off has been made, but no effort has been taken to recover the dues misrepresentation in the statements of data provided to Banks for acquiring higher limits and availing withdrawals from Banks. 
+
+1:40:23
+Typically, the inventory is highly inflated, which is why the Auditors report now has been amended. The financial statements have been amended. Discussions under schedule three to show what is the stock available, other than that there might be where we have seen the satyam case or other cases where they're showing a huge inflated balance in the balance sheet which is not supported by the actual assets, non existence of parties to whom money is to be recovered and outstanding. 
+
+
+## 
+1:40:53
+So when we have a receivable list and we go and check those people, it is found that those entities don't exist, so they are just fictitious entries in the books of account. Major change in accounting policies, including valuation of assets and provisioning and depreciation. Impact on these are the financials of the corporate data, the transaction involved and transfer of property or other asset and investment of the corporator third parties and the terms of such transactions. 
+
+1:41:19
+Major liabilities, including contingent liabilities, disputes, legal cases, tax liabilities, penalties. That is not inadequately reported in the financial statements and added appropriate action has not been taken. Very difficult to trace the liabilities which have not been reported in the financial statements, but maybe part of it can be traced from the claims and there are any missing entries that were there in the previous year but missing in the current year. 
+
+1:41:45
+These are all flags that can be found out. Obviously, when the bank statements of the CD, the financials are not available, will indicate what are the transactions that have happened that the bankers will generally will share. Search from publicly available information, details of charges, hypothecations. You can send letters to the debtors for accounts receivables. there may be chances that the debtors are only shown in the books of accounts to manipulate the books. 
+
+
+## 
+1:42:11
+This is also an role of the RP that has been given verify orders passed by authorities against the corporate data which may be higher, which may help in identifying the areas of cancer. Physical verification of assets will show that whether the assets shown in the balance sheet are actually available in the position of the company and fixer assets of substantial value they are sold or disposed of before the Insurgency commencement date. 
+
+1:42:35
+That's a constant then tracking of inventory towards invoicing or stock in a particular write off of inventory cash transactions. purchases from unregistered dealer service providers missionary 50 Years party. So if you can check if they have a GST registration or if they have any legal registrations under the process of any law on the force, then we will know that they are not at least fictitious parties. 
+
+1:43:01
+Then there will be a huge gap between the value of claims received and the value of assets available, which again indicates that there is something wrong in the accounting process. Then reconciliation of financial statements with several quantitative parameters, such as raw materials, Freight power consumption, gate entries all these may be correlated to find if there are any viewfe transactions. 
+
+
+## 
+1:43:25
+With this we have covered are the related provisions of related party promotions and there's a code and under the carp regulations. now I move on to liquidation regulations. So, as already discussed during cirp, Liquidator has to be independent for to carry the process forward and the professionals appointed by the Liquidator also should be independent of the corporate data and the promoters. Sufficient care should be taken by the RP. 
+
+1:43:58
+Apart from this, taking a declaration from the professionals and the financial creditor who's a related party cannot vote at the stakeholders consultation Committee in ethics. Ah, Liquidator should not sell the assets without prior permission of the adjudicating authority by way of private sale to a related party, corporate data or to the Liquidators related party or any professional appointed by him. 
+
+1:44:27
+Usually there is an urge to salary mobile assets of the company or take away the assets. sorry not take so the assets of the company by the to the employees or some people may ask so it has to be independent and sold only to not independently to Independent persons. If it has to be done, then it has to be done with the prior approval of the adjudicating Authority. 
+
+
+## 
+1:44:55
+Liquidator will not proceed with the sale of an asset if he has to reason to believe that there is any pollution between the buyers or the CDs related party and buyers and the Creditor and the buyer. In case the Liquidator suspects that there is a collusion and ultimately the it. We move on to the order of distribution and the liquidation process. Section 53 gives the order of priority. 
+
+1:45:46
+The first goes to carp cost and liquidation class which has to be paid. following that there are two minutes which rank equally one is the Workman deals for the period of 24 months preceding the liquidation commencement date and the deaths or to a secured creditor and even such secured creditor has relinquished the security. Yes, so the debts due to a secured creditor is what is mentioned here. 
+
+1:46:28
+So there is no distinction between related party and non related party. As far as section 53 is concerned, it will be going to both wages and any unpaid use or to employees other than government for a period of 12 months preceding the liquidation commencement date. Will fall under the third category. Fourth category again is financial. That's go to unsecured creditors. Here again there is no distinction between related and unrelated party. 
+
+
+## 
+1:46:54
+Both fall within the same class E the following: Jews should rank equally between and among the following. So here again we have two classifications among due to the central government or state government having any fun to see from the Consolidated fund of India, the conservative fund of any state with respect to whole or any part of the period for two years preceding the liquidation commencement date and the debt owed to a secured creditor for any amount in unpaid following the enforcement of security interests. 
+
+1:47:25
+And the last three legs of section 53 are the remaining death centers. The preference shareholders and finally the equity shareholders are partners. Now we move on to the pre packaged insolvency resolution process. so as we have seen during the cert and the liquidation process. The pre pack insolvency process is currently applicable only for nsme and it is not open for other. They are msne. 
+
+1:48:06
+Some feedback is a process by which the already the lenders and the Predator come to some kind of understanding on what is the payment that is going to be made and once that understanding is reached, they apply to the adjudicating Authority Under the feedback process for approval. this is a proposal to extend this feedback to all corporators as well, in order to simplify the process and enable more number of operators to await this option. 
+
+
+## 
+1:48:39
+And so here the well to be taken by the corporate data is from the financial creditors, who are not its related parties and which represent not less than 66 percent of the value of the financial debt. Due to such credit as only then you can find an application for initiating of the prepaid Insurgency resolution process pre baptist. 
+
+1:49:08
+If the now the question arises: what if all the parties are related parties, then they are excluded from the process, so ultimately they will not be able to go under the package as a mass tax. Today. so here again, the related parties have been clearly excluded from the process and only unrelated parties can apply this. I have completed all the aspects. If anybody has any query, I'll be happy to address. I have one question. 
+
+1:49:58
+Yes, please. In the definitions there was a mention of a com in relation related party in relation to corporate debtor. Yes, the director or partner was mentioned, but what if the there is an association of persons, whether it is the same as a partner partnership. Association of persons is not recognized form of Association as far as the corporate structure is concerned. 
+
+
+## 
+1:50:30
+I think, because even under the definition of person, if you see we went to the one, friendly distances appear. So it is covering only individual Huf, company trust partnership and LLP. Association of persons will not be treated as a. They will have to be taken independently only and seen it will not be treated as a legal entity. Is my opinion okay? 
+
+1:50:56
+And if the CD itself is a part of that as aop, then is it that to be considered as a relative? Association of persons itself is not a valid. I mean Association insert will not be a legal entity. For the purpose of determining so. each one of them would have to be individually seen, as per my opinion. 
+
+1:51:22
+Okay, it will not be seen correctively, yes, so they have to satisfy the test of related party under the definition, whether individual or body corporate, as well as individually. Okay, thank you. Yeah. Yeah, ma'am, I'm a Audible, ma'am, I have a question, and that first thanks for the wonderful presentation, ma'am. 
+
+
+## 
+1:51:46
+So if you could kindly shed some light on ipe and the directors in the ipe and related party from the angle of taking assignment by one of the director. so if the rest of the directors, whether they are independent of the CDR fcr for that matter, OC, whoever is initiating triggering the cars? 
+
+1:52:09
+Yeah, can you please touch that area, ma'am, and also I mean if you could summarize the discussion like what would be the trigger points right from say, appointment or initiating the process. We need to check the related party, COC, constitutional processing claims, USC Constitution 29a, all these steps now. So even that could also be helpful, ma'am, thank you. Thank you. 
+
+1:52:35
+He is concerned the all the partners and directors of the ipe would have to be independent of the particular corporate data. So my opinion is that the larger the IP becomes, it would be an issue, because if one of them also is associated, then it would become a problem. but other than that there is a cooling off period for the professionals. 
+
+
+## 
+1:52:57
+So I guess if you have not been Associated for three years then he would not hit the disqualification. But even otherwise, if you are remotely even related, any of the partners or directors are it's better to excuse yourself from that assignment provide any potential conflict. As you know today all promoters and financial creditors Japan the smallest you know slip on the part of the RT. 
+
+1:53:21
+So it is always better to be extra careful and on the where in all the related party hits. So I have gone through in that order only in my presentation where we start with initially verification of claims. There is no problem on related party, but it will hit to the extent of whether the claims are genuine or not. that is something that has to be evaluated at that time. 
+
+1:53:48
+But it would be too mature and premature at the stage of verification of claims, because you will not be able to form an opinion on whether the inclusions in the financial statements are correct or not. So that would be too premature to reject on those basis. But anyway, we take a stand that the IRP is only collating the stage, collating the claims at that stage. 
+
+
+## 
+1:54:06
+So I feel there is no need to go into a related party or non related party at that stage, but definitely before forming of the community of creditors to the extent of financial creditors it has to be done. whether it is a related party or not, to whatever extent we realize available has to be analyzed and whatever is publicly available MCA data or would have to be checked. 
+
+1:54:26
+Moving forward into the process once the COC is formed and data is being shared. Also, we have said what data can be shared with the related party, with the decided cases and what should not be shared. Mostly, course have around everything to be shared, provided confidentiality undertaking has taken and post that on the resume, the expression of interest is issued and you get the prospective. 
+
+1:54:49
+The resolution applicants, the eligibility under 29 capital A would have to be checked and whether they are a related party to the management or not would also have to make sure. 
+
+
+## 
+1:55:00
+So that is one area which requires substantial, you know, effort on the part of the RP to check, especially when there are more than one resolution applicant and post, that once the and also in the resolution plan, it has to be checked that none of the related parties or parties were discovered under 29 capital A coming to the implementation on it to the management course. The resolution plan is approved. 
+
+1:55:27
+Beyond that, I think liquidation again where it is not sold to the related party or to any person who has a track record under 29 capital a predominantly. I think this is where we stand. As long as the COC is properly constituted and it has no related party, the court feels that the resolution process will be carried for in a clear and transparent manner. one person is suppose all directors are there. 
+
+1:55:58
+Some valuers are there okay, so the in the one CRP again we need to open a third representative so we cannot assign these tax to our director partner directors or LLP partner in case of IB we cannot. I might question whether these Diary of Miss partners of the LLP who are ipe specifically all that are in solvency professionals and some values are there. 
+
+
+## 
+1:56:23
+So can I give the assignment in the my one CRP case in to my partners. But my basic objective of forming an IP itself is that you provide all the services under the same Banner to the corporator. so as long as the all the IPS are you know on the associate valuers or whoever are the professionals associated with the IP are independent, then you will be able to give the assignment within the same ID. 
+
+1:57:00
+So maybe related to each other, maybe related. Yes, sir, I do agree, but you mean to say you're a related as a relative or because you are just associated with the same ipe. Okay, because actually I don't understand any other related. Not as per companies, then the very purpose of ITA itself is to pull in all the resources and give the services to a common you know to the corporate data. 
+
+1:57:30
+So my feeling that should not affect. But anyway I will check on that and get back to you. Thank you. Thank you, yeah, sure one I'm. my name is shivraman ma'am. Thanks for the presentation. First of all, very nice, presently presented. First thing is in under Section 29 we get a declaration from the resolution applicant stating that he is not a related party to the old Transit. What is it to the corporate return? 
+
+
+## 
+1:58:14
+Yeah, will that undertaking taken? Is it sufficient enough undertaking is not sufficient. RP will have to do some amount of due diligence and at least to go through the publicly available data that is there and a satisfy. The RP has to satisfy himself or herself that in principle it is not a related party. We cannot merely go by the Declaration. If there is something apparent on record, it has to be seen. 
+
+1:58:49
+See some of the datas. for example, if I check a name of a person called, say x, yeah, if you find it that X will have legal cases against him. Also, when I look through a legal dock, when I look through the website of the legal, but unfortunate enough those legal cases doesn't connect with the pan number of that person. Yes, so it's very difficult to understand the name, just the name. 
+
+1:59:20
+That is what you're trying to convey. Yes, yeah, that is what. So what really happens is at that moment this undertaking comes into a play to safeguard yourself from such a situation. for example legal cases. You cannot check it in the court of in the website because similar names appear for everything over there, for example criminal cases, civil cases, whatever the thing is. Sometimes you find there are cases which are there. 
+
+
+## 
+1:59:51
+Two years adjudication has happened. All these things are there, but it is very difficult for such a situation to happen. One more thing which I find is very alarming is that the law wants the RP to have a magic plan to understand everything which is impossible next to Impossible. 
+
+2:00:13
+What is apparent on record can be taken into consideration and most of the times what happens is you file a you file a section 7 application or an nine application. it takes at least two years for you to get the adjudication within that period of time. 
+
+2:00:31
+If the r, if the corporator, is very, very much in control, he would siphon off everything and you would be just fighting a buffet case before nclt with no results coming out immediately. Can I ask a question? Yes, sir, please. During liquidation students, consultative committee related party, what is the position? Whether he can vote also the stakeholders relationship when second, as consultation committee, also under liquidation regulations which are similar to. 
+
+
+## 
+2:01:09
+The carp regulations, COC, it says that the stakeholders who are related parties will not participate in the stakeholders. Correct, okay, but in crb it is there in liquidation also it is same thing. yes, similar Provisions are available. If you see there is reference to this AARP regulations, which says that certain provisions of pcoc will apply to these CRP regulations will apply to the liquidation regulations. So in that the stipulation is there. 
+
+2:01:48
+If it is a related party, then you cannot participate. Okay, then, what will be the position? If they are having 40 percent shareholding in claims, so that 40 will be ignored or it will be right the balance 60 will be treated as 100 percent means like 100 rupees. Is there 40 rupees? They are having 40 rupees other person is having and 20 rupees Financial characterizing, so that will be treated. 
+
+2:02:16
+40 percent will be treated as process similar process. If they are related party, the same treatment is given because again they will influence the process. no, so it will not be correct to have them on the e committee. Okay, yes, if there are any other questions, otherwise we can close the meeting. Please give me a moment. I will just informed. Finally, are you there? Yes, ma'am, so I have taken up all the questions. 
+
+
+## 
+2:03:13
+So we are done with the presentation. Also, we can close the meeting. Okay, ma'am. Thank you very much, ma'am, the information, the session was very informative and yeah, thank you very much. So the second session would be at two o'clock. Now we have lunch break till 2 pm. Okay, thank you very much. Thank you to all the participants for the patient sharing and participating in the question answer session. Also, thank you very much. 
+
+2:03:48
+Why don't we start the second session at 1,30 pm? okay, thank you. I giving this opportunity for sharing some of my learnings with regard to the related party transactions. Nicole, Nicole, thank you. Oh, yes, yeah, sorry, I believe it got disconnected. Sorry, let me just re share the Stream. 
+
+2:11:24
+Yeah, so the discussion that I have divided, as I was saying that I have been doing a lot of discussions on the related party with regard to insolvency and bankruptcy code, but that discussion primarily was limited by and large with regard to the eligibility under 29a or with regard to the claims processing the 360 degree review that Institute has attempted in the deliberation today. I think that is commendable. 
+
+
+## 
+2:12:02
+We'll be able to understand, and this has given me also the opportunity to analyze the role in different facets of insolvency and bankruptcy code. so we'll spend some time on the introduction part to understand why insolvency, to just set the tone of discussion today. 
+
+2:12:23
+Then we will understand what is the related party, because there are different meanings and I'll not take you through the definition of related party under the company that but will restrict to the discussion on related parties with regard to the corporate data and the Corp, the individual who is referred in the cirp process. Then we will see the role of a related party and I have divided it into different segments. 
+
+2:13:02
+One segment is pre cirp era. Somebody may be interested before even cirp has started. How come there is the role of a related party? But yes, there is a role of related party that is in pre cirp Period and that's very interesting one. and now second bigger question that comes to all of us: whether a related party can, commensurate, commence a cirp process or not. 
+
+
+## 
+2:13:40
+That means can an application by a financial crater who is a related party be admitted or is there any judicial precedence available or this is there anything in the law that restrict and similar analysis we will be doing for the operational crater also, and similar analysis will be doing for the corporate applicant also. That is 7,9.10, all three application we will discuss. 
+
+2:14:14
+Now comes the main part that once the pirp commences, then what all Provisions are there which talks about the role of a related party? there are some 8 or 10 areas that I have identified, starting from appointment of a interim resolution, professional resolution professional and then appointment of a registered valuer, appointment of a professional and eligibility criteria, and so on. Now there are many aspects to it. 
+
+2:14:52
+Then transactions during the course of ciarp, which are called the related party Transaction. What are the checks and balances? What are the restrictions provided in the code in that regard? And then we will see what is the goal of related party in resolution when a company is going through the resolution process. Then what are the restrictions in respect of the related party. Then we will travel. 
+
+
+## 
+2:15:29
+If a company is not resolved, then obviously it will travel to the liquidation. then in those cases, what are the restrictions or what are the roles prescribed for the related party we will travel to that also? Is there any restriction? 
+
+2:15:46
+Especially we all are interested in knowing whether a financial crater, who is a related party, will be entitled to a differential treatment in respect of receipt of distribution proceeds in terms of section 53. That would be our attempt to make analysis on the same and conclude something with help of couple of judgments, one very recent one that came on third off May 2023, also by Supreme Court. 
+
+2:16:26
+Then we will also just touch upon the role of related party in pre packaged insolvency resolution process and also we will see what is the role of related party in voluntary liquidation. is there any restriction on voluntary liquidation? 
+
+
+## 
+2:16:50
+Also, and last but not the least, when we go to the individual insolvency, then in that individual insolvency, especially relating to personal guarantee to the corporate debtor which has been notified from 1st of December 2019, what is the role of a related party? What are the restrictions? And then we will see the couple of judgments and the other issue and we will take the question answer. I would love to be disrupted throughout the session. 
+
+2:17:24
+You did not wait for end of the session, though we will have half an hour time at the end. also I will attempt to close my discussions by maybe 4,30 or so, so that we have exact half an hour time available for making our discussions on the question answer. But I would prefer that whenever we are discussing on a particular subject, we make an interaction. All of you have been doing a lot of insolvency matters. 
+
+2:17:59
+Maybe you have experienced more than me what I am carrying as a insolvency professional or as a liquidator. Many of you might have done even complex assignment then what I have done. So P please feel free to interject the discussion and make the value addition so that we all become richer by knowledge. By end of the session that is scheduled today, we all will be benefited by this particular process. 
+
+
+## 
+2:18:34
+Now when we say in production, we all understand and not take more than seven, eight minutes to go into this history, because it is related to related parties. So that's why I thought I'll not skip this. I'll take this also because insolvency law took birth to overcome the issue of Multiplicity: the multiplicity of jurisdiction, the multiplicity of law, the multiplicity of forums. We all know the law was scattered. 
+
+2:19:23
+There was rddb, there was surfacy, there was zika, there was complete partially dealing with winding up liquidation and so many notifications from. The Reserve Bank of India to deal with the subject of the express person, leading to complexities with regard to jurisdiction forums and the legal remedies available to the different stakeholders. to cut that long story short, we evolved with the comprehensive framework which is known as an insolvency and bankruptcy code. 
+
+2:20:10
+This was considered to be perishia for all ills with regard to the stressed asset, and that's why it was nomenclated as code AS against the ACT, which is generally there in all legislation, so income tax, companies that is a active, and so on so forth. But there are few legislations which are code, like civil procedure code, criminal procedure code and now the insolvency and bankruptcy code. 
+
+
+## 
+2:20:48
+Now you can understand the importance of this particular piece of legislation if I can give you the distinction between the Act and the code. So in code generally, it encapsulates the larger framework for each segment of Society, for each kind of issues, whatever it Endeavors to resolve. 
+
+2:21:17
+So is the case of insolvency and bankruptcy code, whether it is a corporate insolvency, whether it is the individual insolvency, whether it is Fast Track insolvency, whether it is a liquidation, whether it is a voluntary liquidation, whether it is a bankruptcy, whether it is a insolvency resolution for individual. Everything is provided in this particular law, and rightly so. This law has non obstantial Clause by way of section 238, which overwrites the other laws. 
+
+2:21:52
+So objectives were very clear that we wanted to prescribe the time frame in which the resolution will happen. If not, then the time frame in which the liquidation will happen. So time is the essence. that is the bottom line and the another important objective is to maximize the value of each and every stakeholder, the to see. 
+
+
+## 
+2:22:20
+It's what each and every person is likely to get and, most importantly, the focus is on resolution, not on liquidation. Liquidation is the offshoot. If resolution does not happen, the liquidation is going to take place. That is how the law has created. It provides a collective platform. 
+
+2:22:49
+Somebody can say earlier there was also platforms available in the, maybe you can say, Reserve Bank of India guideline, where we were doing a lot of Consortium funding, or the joint funding was involved in those cases also, but it was not a collective framework which was providing you the framework which was Guided by the statue in case of insolvency law. the advantage is that the rights of each and every stakeholders are written down. 
+
+2:23:28
+Each and every stakeholder is balance through the Act of checks and balances, Committee of crater insolvency, professional insolvency, professional wizard committee, operator, Financial creator, and then both of these with the adjudicating authority and all put together subjected to the insolvency and bankruptcy Board of India. So a very beautiful piece of legislation. To the principles of checks and balances, where nobody is supreme. 
+
+
+## 
+2:24:09
+All are considered to be the important pillar, but supremacy of none of them is established. Each one is supreme in one of the act, the other one is supreme in the other. Of that, I'll give you one example.committee of creator is chaired by. The insolvency Professional, who has got no Financial claim but he has got no voting right. 
+
+2:24:42
+And this is so because he is one who is supposed to be the expert of insolvency and bankruptcy code and he is considered to be fifth person for the purpose of resolving the stress as per the legal mandate given by the law. 
+
+2:25:03
+Similarly, to avoid the enormous powers to the insolvency professional, the checks have been made on him also that if he undertakes certain activities, he'll be required to take the permission of committee operator in advance. Certain actions are required to be voted with 66 percent of majority vote. certain are required. 
+
+
+## 
+2:25:33
+90 majority vote like withdrawal application also so, and similarly there are other checks and balances also so, in netnet, the insolvency and bankruptcy law, which was based on the blrc committee recommendation, made a paradigm shift from data in control regime to creditor in control regime, and one of the important stakeholder in this entire exercise was insolvency professional, the other one was Committee of creator, third one was adjudicating Authority and fourth one was your regulator, that is ibbi rest all process, as was there in the earlier regime also that was being followed. 
+
+2:26:26
+That was not much change in that particular regard. So this law was essentially on the Consolidated framework time bound mechanism, maximization of value of assets, promoting the entrepreneurship, ensuring the credit availability to the society and balancing the interest of all stakeholders. so key uniqueness that this law brought was one that we already discussed: greater in control regime that means till the time corporate debtor is a going concern is in is solvent. 
+
+2:27:04
+There is no obligation for the purpose of changing the driver's seat, but the moment you become insolvent, you are subjected to the change in the guard and crater in control regime takes over. Another unique feature about this law is that no code other than National Community or tribunal, who is considered to be the adjudicating authority, is having jurisdiction to deal with these subject matters. 
+
+
+## 
+2:27:44
+And third, which is the most important one, that is the non obcentric clause in regard to the supremacy of this particular law. Whether it is the companies act, whether it is the Income Tax Act, whether it is a pmla, whether it is any other law, whenever the conflict will arise, the intention is that this particular law will prevail so that the stress can be removed with the very objective. What are prescribed then? 
+
+2:28:18
+This law has been very quickly implemented. We all know, in 2014 the process started and in 2016, December 1st of December 2016, the law was implemented and this law has been quite Dynamic. 
+
+2:28:33
+Also and within six months of time, the fast track insolvency process was implemented and in got three years time, the individual insolvency with regard to the pg to feeding has been implemented and in next four, five months the pre packaged insolvency also has been implemented. So this is a framework where there is a super regulator, ibbi, then three ipas. Are there insolvency professionals? Are there registered delivers? 
+
+
+## 
+2:29:08
+Are there are entities recognized in solvency professional entity, registered valuer entity, and then the adjudicating authority is spread across the country in 14 cities, with the 28 odd Ventures and one appellate tribunal having a bench at Chennai as well. Individual insolvency Provisions only with regard to the pg to CD have been implemented. the law is divided beautifully in five parts, where each part is having a specific content. 
+
+2:29:44
+Like if you want to deal with corporate insolvency, you go to part two individual insolvency part three. If you want to deal with authorities, go to part four and miscellaneous part with regard to General, one is in part one and the other miscellaneous. With regard to the other, things are provided in part five and similarly each part is divided into some seven or eight chapters and each chapter has a different content. 
+
+2:30:14
+Like if you go in a corporate insolvency, you will have a definition, then corporate insolvency, resolution process, then liquidation, then Fast Track process and so on. then There Are Rules which are prescribed in this particular law and as regards. The adjudicating Authority jurisdiction for all the corporate jurisdictions for the all the corporate entities. The adjudicating Authority is the national company law Tribunal, whether it is the insolvency resolution or liquidation. 
+
+
+## 
+2:30:59
+For non corporate, it is a it can be individual or partnership for partnership. It is debt recovery tribunal. Now individual can be divided into three parts: one individual who is doing a business. One individual who is doing a service and the third individual who is giving a personal guarantee to the corporate debtor. Except this last one that is PG to CD. 
+
+2:31:27
+The other two cases have been having a jurisdiction of debt recovery tribunal as a judicating Authority. These cases are continuing to fall before the national company law Revenue. so this is the brief background and I'll touch upon the last slide in the introduction part and then we'll straight come to the role of related party. 
+
+2:31:57
+Waterfall mechanism has been provided in section 53 and 178 in regard to the individual insolvency, where you have been given the cost cirp cost on the top of the waterfall. That means waterfall means if you are sitting on the slanted surface and water is drifted from the top of the slanted surface. The water has a tendency to go and fill the first hole bust, and then it will move to the next hole. 
+
+
+## 
+2:32:36
+So is the these cost centers also divided. So the cirp cost is one which is on the top of the head, then Workman dues for the past 24 months and the secured crater who have relinquished their security. If they are not relinquished your security, you may be having a secured security, but still you will fall in the other head. Not in this head, but if you have relinquished, you will fall in the second category. 
+
+2:33:08
+Employee dues are for the past 12 months, fall in the layer 3. Unsecured Financial crater Falls in therefore government use at a layer five for the past two years. Then other debt which is like your operational Creator or the dues of workman Services. Then comes your preference shareholder and then comes the equity shareholder. Why this is essential? 
+
+2:33:36
+Because wherever you are doing the related party transactions, you are making an endeavor to maximize the value by virtue of adding something further to each and every layer so that maximization can take place. 
+
+
+## 
+2:33:59
+So if you are, let's say, there is a undervalued transaction and or a fraudulent transaction under Section 66, with a related party and a director or a related party is asked to replenish the asset school, then that value will add to this waterfall and each and every stakeholder will be benefited out of this process. Now let's see what is the for related party in relation to corporate data. So one thing before we begin. 
+
+2:34:42
+We must understand a related party always has to be understood in context of some person. so first of all, you have to identify as to who is the person in whose context you are talking about the determination of related party, because in the law the related party is used in different contexts and the definitions are different for different purpose. 
+
+2:35:21
+So if you are using corporate data in context, if you are using related party in context of corporate debtor, then the definition is provided in five clause 24. However, if you are trying to identify the related parties of an individual who are referred in section 29a providing for ineligibility or eligibility of a resolution applicant, you have to apply the definition provided in Section 5 plus 24a. 
+
+
+## 
+2:36:02
+Now, if you are using a definition of related party in relation to a company, there is no definition provided in the com in the insolvency and bankruptcy code. What we have to do? If you go in the definition clause, the law says that for the all terms for which the definition has not been provided in this particular code, the definitions provided in the company Z SH shall be used. 
+
+2:36:41
+So the term has been defined in the companies Act 2 Clause 76 defined as a related party in relation to a company. So there are few cases we will see, while we progress, that where the definition of a company is that will also apply instead of applying the definition of a corporate data. 
+
+2:37:05
+Many of the professionals are doing that mistake, that they are applying the definition of 5 plus 24 that is in relation to a corporate data. So definition in relation to corporate data is different in relation to individual is different in relation to company in general is different right. So we have to be little careful as to which definition has to be applied in your particular case. 
+
+
+## 
+2:37:35
+Now we need not learn it, but definitely it will help if we are at least able to run through the definition. Just to give you the mind as to what all kind of people are covered in the definition of a related party. 
+
+2:37:53
+Now this first category of related party in relation to the corporate debtor, a it will include the director and if it is a limited liability partnership, then it will include the partner, then relative of director and of course the relative of Partners. So director designated partner of company or LLP and their relative. This is first category. Second, the key managerial personal or their relatives of a corporate data. 
+
+2:38:36
+Then there may be a possibility that director is a partner in the partnership firm or limited liability partnership. So such limited liability partnership or a partnership firm will also be considered as a related party and it includes the limited liability partnership or partnership firm where relative of a director or partner is also a partner. 
+
+
+## 
+2:39:20
+Fourth category is a private limited company in which the director or partner or manager is a director and holds along with the relative more than two percent of its share capital. This is same definition. What we have learned in two class 76? Only minor changes are there. Few things have been added. 
+
+2:39:46
+Similarly, a public company if it is a public limited company, if you are testing from corporate debtor perspective, then public limited company in which the director along with the other director and relative hold more than two percent of adoption capital, then any body corporate whose Board of director managing director manager in the ordinary course of business is acting on the advice Direction instructions offer director. 
+
+2:40:34
+Now in this particular point, many of the professionals are taking a view that just because the other entity is subsidiary, the holding company is considered automatically as a related party. Maybe otherwise it is a related party, but maybe it is not on this particular ground just because of this relation. 
+
+
+## 
+2:41:04
+Unless and until whether this Clause F they will not fall, they may fall in the other category unless and until you have some evidence with regard to the agreement, with regard to the conduct that the directors of that other entity are acting on the advice or directions of the people involved in the corporate data. 
+
+2:41:32
+Similarly our limited liability partnership or partnership firm whose partner or employee in the ordinary course of business act on the advice Direction instructions of a director or partner similar provision as was there in F. Now it is in case of a LLP. Then another category comes accustomed to it: any person on Whose advice Direction, instruction or director partner manager of a corporate data that means it's a shadow director. 
+
+2:42:09
+Kind of situation now in the companies that also there is no concept of Shadow director directly but indirectly in form of two Clause 76 they have included this particular condition and those will be considered as having a relation and they will be considered as a related party also similarly a body corporate which is a holding subsidiary associate right. so these peoples will also be covered in the definition of a related party. 
+
+
+## 
+2:42:45
+Now then comes category any person who controls more than 20 percent of the voting right of the corporate debtor on account of ownership or voting right. So if you are holding just a 20 voting right also, then even that entity will be considered as a limited party any person in whom the corporate debtor controls more than or if you already. 
+
+2:43:17
+If you, if your corporate debtor controls more than 20 percent of the voting right, then also that entity will be considered as your related party. Then it comes where says that any person who can control the composition of board or corresponding governing body of the corporate data. 
+
+2:43:37
+So that will also be covered here, in any person who is associated with a corporate debtor on account of participation in policy making process having more than two directors in common between the corporate data and such person, and interchange of managerial Personnel between the corporate debtor and such person and the provisions of essential technical information to and from the corporate data. 
+
+
+## 
+2:44:13
+So this is the last clause which is not there in the companies, that definition of 2 plus 76. So this is an addition. So you have to work a bit more in case you are identifying the related party in relation to a corporate debtor under the insolvency and bankruptcy code. 
+
+2:44:34
+So there are couple of Clauses which you will be required to travel again and in addition to what is prescribed in the two Clause 76 of the companies Act. Now similar definition is there in relation to an individual also, but let us read it out, so while we will be making an application, we will be able to recall as to whether these Clauses we have read there in or not. 
+
+2:45:06
+Now any person who is a relative very natural if I am a Gupta is an individual. So whosoever is a relative or relative of spouse, my definition, the definition of relative has to be applied on me individually and has to be applied on my spouse individually, right. so there will be a complete chain of some 15 people on my side and then complete 15 people chain on the my spouse side. 
+
+
+## 
+2:45:42
+Then a partner of a limited liability partnership or a limited liability partnership or a partnership firm where I am a partner. So if I am a partner, let us say in ADC LLP, where two more partners are there b and c Summit is definitely a person in whose respect we are trying to identify who are the related party. 
+
+2:46:12
+So person B and person C, then a, b c LLP are to be considered as a related party of mine, any person who is a trustee of trust in which the beneficiary of that trust includes the individual. or so if. 
+
+2:46:34
+Let us take the example, if Amit is a beneficiary, so whosoever is a trustee in that trust, that trust will also be considered as a related party, or the terms of trust confers are powered on the trustee which may be exercised for the benefit of individuals. So concept is that if directly, indirectly, I could be the beneficiary, so whosoever are Trustees of that trust, they will automatically be covered in the definition of a related party. 
+
+
+## 
+2:47:12
+Similarly, a private company in which I am a director or and hold along with relative more than two percent Simplicity director not having any shareholding will not amount that private limited company as being considered, as my relate, as my related party. similarly our Prime public limited company in which the individual that means I am a director and along with the relative I hold more than two percent of the paid up share capital. 
+
+2:47:54
+Then the body corporate who's Board of director managing director manager in the ordinary course of business act on the advice Direction instruction, same Clause as we discussed in the previous definition. Similar again in respect of the limited liability partnership. 
+
+2:48:19
+Then again the Clause regarding the accustomed to rectify and accustomed to act on the instructions of someone that person will also be included then a company where the individual or the individual, along with the related party, own more than 50 percent of the share capital of the company or controls the appointment of the board of directors of the company. 
+
+
+## 
+2:48:50
+Now, if you go in this particular Clause, where you are saying that a company where individual along with its related party, so individuals, related party, are again as per five Clause 24, except this particular Clause, you will consider a to H for the purpose of applying that definition. 
+
+2:49:15
+If I, along with any of those people, hold more than 51 percent, then that company will be considered as a related party to me and then definition will be a definition of relative. 
+
+2:49:32
+If you talk about, then it is clearly defined that members of Huf, husband, wife, father, mother, son, daughter, son's, daughter and son, daughter's daughter and son, grandson's daughter and son, granddaughters, daughter and son, brother, sister, brother, son and daughter, and similarly sisters, son and daughter, fathers, father and mother, mothers, father and mother and so on. 
+
+
+## 
+2:50:14
+The point that I am trying to emphasize is this definition of relative is larger than the definition of relative provided under the companies, where the relationship is very short. The relationship is very straight that you have to see left, right, up and down. Now more or less that covers the linear ascendant and linear descendants left and right. 
+
+2:50:45
+Those are the people which are covered in the company Z, but here you will see it is more than two layers of a linear ascendants and descendants, and many other categories of peoples have also been included. So be little cautious when you are examining, especially from 29, a perspective, and we'll come. 
+
+2:51:06
+Then I'll show you one chart that I have prepared in this particular definition and understand the role of related party During the pre cirp period, now pre cir period, when we talk about somebody can say my cirp started on 1st of January 2023. Then why should I be bothered that what or related party has done prior to commencement of cirp? 
+
+
+## 
+2:51:49
+Answer is no, because if you recall the pube transaction, the avoidance transactions which are encapsulated in section 43,45 and 66.43 is a preferential transaction. 45 is undervalued transaction, 50 is extortionate credit transaction and 66 is throttling transaction. And all of these Clauses is specifically differentiate with regard to applicability when the related party is being dealt with. So that's why it becomes important if you are. 
+
+2:52:37
+The look back period, whereas in ordinary case is one year in all these cases, of course 66 is an exception. In all these cases, the look back period is just double. That is two years. 
+
+2:52:54
+So if you have done a preferential transaction, let us say the cirp comes down 1st of January 2023, and if you have done a preferential transaction with unknown person and that has been done, let us say prior to 1 2021 or 1 2022. if it is prior to 1 2022, it is out of the Ambit of radar of differential transaction, because it is only talking about one year prior to commencement of CIF. 
+
+
+## 
+2:53:36
+However, if it is a preferential transaction with a related party and related party, you know whom we are talking about, because we are talking about related party to the corporate debtor,. The Entity that has gone into cirp. In relation to that, we have to see who were your related party at that point of time and you will identify whether they are hit by this particular number. Now another important point to ponder in this particular law. 
+
+2:54:17
+Just think over what is the time frame in which you have to apply the law or apply the test. you will apply the test of related party in today date or you will go back in Flash at that point of time whether it was a related party or not. 
+
+2:54:41
+To my mind, in rest of the places it has to be current, like if we talk about 29a, maybe a person was related party but he is not related party today, then I am safe then the resolution applicant is not disqualified because the word used is in present tense, whereas if you go in section 43,45.50,66, I could not find out anywhere. 
+
+
+## 
+2:55:19
+The context gives me the understanding that it has to be seen at the time when the transaction was done. so if I have to look back two years prior, I have to see the relationship at that point of time. If a transaction was related party with a related party, maybe the person has ceased to be the director today, but he has done a preferential transaction. 
+
+2:55:46
+He has done a preferential transaction and gone away from the company. Are we saying that he cannot touch him? He is becoming Untouchable? Answer is no, because that will lead to absurdity. The entire purpose of avoidance transaction will go away. So for this purpose now, let us keep in mind that for avoidance transaction, the time frame in which you have to test the related party relationship is the time when the particular transaction has taken place. 
+
+2:56:19
+Right. in other cases generally I am saying in 29a, or the eligibility criteria or the appointment of IRP. Everything has to be tested on the current date. So this is a point of Distinction in relation to the other things. Now, what is the responsibility of a RP or IRP? RP or IRP, as per section 25 of the insolvency code, are required to file an application for the avoidance transaction. 
+
+
+## 
+2:56:52
+When they are required to file, they are required to file an application within 115 days. The timeline is very critical in insolvency and bankruptcy process. We will see there is one specific slide, but for the moment the obligation is coming from section 25. Similar obligation is there on the Liquidator, also in section 35 and 35 a, which provides for the model timelines. 
+
+2:57:30
+We also need to understand what are the timelines provided therein and now, when you submit a resolution plan, regulation 3.2 comes into picture and cast an obligation to provide some information with regard to the avoidance transaction. Also, you have to make a declaration whether any application is pending there or not. 
+
+2:57:54
+So it is very important for us to understand that how pre cirp period related party transaction are important for us to understand now what I was saying. On one hand, you have a different timeline. Different timeline is that you have been appointed as the IRP. In three days time you will make a publication in the newspaper. You will be appointed. You will be getting a claims. In one week time you will process the claim. 
+
+
+## 
+2:58:29
+You will finalize the list of Committee of Creator. within 30 days you will hold your first meeting right and you will appoint the resolution professional and submit the application to adjudicating authority, and adjudicating authority will complete that. Then you will make the appointment of a registered valuer. Then you will be preparing your information memorandum, then you will be publishing the expression of interest and then form G and so on. The process Will Go On simultaneously. 
+
+2:59:03
+You are casted an obligation to make an opinion within 75 days from commencement of ciarp as to whether there exists any pure transaction or not. Now how you will form this opinion. This itself is the complete session. I will not go into detail, but I will give you the indication what you are expected to do, that you have to understand the red flags. 
+
+2:59:36
+You have to understand what are the gray areas that you have noted and this is no separate process, because your priority is to keep your CD as a going concern. Your priority is to appoint the valuer. Your priority is to deal with the stakeholder. Your priority is to complete the cirp as per the Mandate in the law on the parallel. You are being mandated. You please do inquiry. 
+
+
+## 
+3:00:07
+You please keep identifying what are the red flag and the red flag could be. You are not provided the access to the registered office. You are not provided access to the books of account. You are not provided the financial statement. You are not provided the position. You are seeking. No Management Corporation. You are not getting any cooperation. your 19,2 application is spending and so on so forth. 
+
+3:00:35
+While review of the financial statement, you are able to find out that there are prima facie defects. There is the rampant change in KMPS. Your CFO is resigning every three months or six months. Your company is designing every three months, four months, six months. So these are all indicators. These are all red flag that there is something fishy. You need to deep inquire. So how you will frame the opinion is more than suspicion. 
+
+3:01:05
+So first step will be suspicion that you suspect. Suspicion will come maybe from media report. Suspicion will come maybe from the person who is giving you the information, maybe your employees, maybe the other people in and around now, maybe the creditors. so there will be suspicions on the basis of some feedback, maybe some document, maybe some information. 
+
+
+## 
+3:01:29
+On the basis of that, you will do some preliminary check and on the basis of preliminary check, you will frame your opinion that there are existence of some Prime of SC transactions with regard to which are heated by the preferential transaction right. So you will. You will just list out all the transaction. How you do actually you do you will what we do. 
+
+3:01:57
+We create Excel file and whenever each day basis the teamwork keeps on working. They insert the date, they insert the relevant facts and they insert the timeline that these discoveries have been made today and we keep on adding that maybe some immovable property was transferred to someone. We got to know today. 
+
+3:02:22
+We were making a review of balance sheet, we got to know that some money has came instead of two company but gone directly to settle some crater. That is also, some inventory has been sold to the director at a price lesser than market price. So you will keep on building and scanning these information over a period of time and you will be able to form your opinion whether this exists or not. Now you get another. 
+
+
+## 
+3:02:55
+You can say 40 days time to make a determination now. How you determine determination is to collect the evidences. Now you engage the transaction auditor. You engage the forensic auditor, or you yourself do that exercise of identifying what are the potential Transaction, what are the extortionate credit transaction, fraudulent transaction, and so on. it is not necessary that you have to appoint forensic auditor. 
+
+3:03:24
+If you are capable, you can do on your own, depending on size of the organization, size of the CD complexity involved. You can take your own path. Now. Next, in 20 days time, you are required to file your application. Your one hand, your process has to complete in 180 days. On the other hand, you are running a timeline that in 135 days you have to file the proof application also. Otherwise it becomes time. 
+
+3:03:50
+But though it can be admitted, there are many cases which are suggesting that if you have a reason to justify before the adjudicating authority, they will admit, then RB has the obligation also that whenever you are submitting a resolution plan, then you will specify which all applications are pending, what all observations have been made, and a certificate is also required to be given in the form H while you submit that similar responsibilities are also casted in respect of the curator. 
+
+
+## 
+3:04:25
+I am not repeating the same. This is also. We have discussed whether the transaction auditor is required to be appointed or not. What could be the piece? if somebody asked me, I will say yes, we should take the committee of later into the confidence because ultimately the fees that we propose to pay to that transaction auditor is required to be approved by that. 
+
+3:04:51
+Now, the task that we have today is to understand how the related party and other than related party are different in respect of Youth transaction. If you are finding out the preferential transaction with a unrelated party, then the look back period is only one year, as I gave in the example. But if you are dealing with the related party, then the look back period is longer. That is two years now. What is the preferential transaction? 
+
+3:05:32
+Because we are discussing. let us understand that also, otherwise it will be just a superficial survey of related party will not be able to do justice with the subject. So for preferential transaction there are certain conditions to be fulfilled a there has to be a transfer of property. Now property means what property means money. Property means Goods, actionable claim. 
+
+
+## 
+3:06:01
+That means if you, if you have a stocking trade, if you have a immune property, if you have a receivable, if you have land, every description of property will be covered in the property. So there has to be a transfer of property. So transfer of cash because money is also included. So if I pay somebody money also, that is also a transfer of property, mind you. Or transfer of interest of CD. 
+
+3:06:38
+Now interest means what every description of Interest, whether it is present future contingent, means if somebody has got any leasehold rights. That is also an interest and that will be well covered in the transfer of property. Now, transfer should be made to three people, any of the three. Either it should be made to creditor or to some Surety or to some guarantee. Now, third important condition: the payment is made on account of some antecedent. 
+
+3:07:24
+Antecedent means pre existing antecedent financial debt or operational debt or some other liability antecedent. But look, there should be a liability in existing. Now. Let me give you the example how it can happen. Let us say Amit Gupta is a director of ABC Limited that has gone into insolvance and I have given a loan of one crore to ABC Limited. so that means there is a antecedent financial debt in ABC Limited. 
+
+
+## 
+3:08:08
+Now there is the companies are real estate and Company build the flats. Now what company did company transfer the ownership of one of the plaid whose value was, let us say, one crore? One crore value of flat was transferred to me to set up the loan liability. That is what is emphasized so far. In the condition a, there has to be a transfer of property or interest. 
+
+3:08:47
+The transfer of property should be to the Creditor, to. The Surety or to the guarantor. Third, the transfer is in respect of some antecedent, either debt, Financial, operational or other Library. Then fourth condition is also very important that it should be impacting the waterfall, that means the moment the payment was made. 
+
+3:09:27
+If you map it in 53 section, the priority order is going up, whereas if I have given a financial debt, I was otherwise falling in a category 4. Now what has happened? Bypassing all other category, I have made the repayment to Amit Gupta. So that means the fourth condition. 
+
+
+## 
+3:09:56
+Simplicitor says if by making this payment, by making this transfer, you have a change in waterfall mechanism to move the person to the upside in the ladder, then fourth condition is also fulfilled. Then you consider that this is the preferential transmission as simple. Only four conditions are required to be fulfilled, and if you are able to move this to the adjudicating authority, you are done and the differential transaction will be to win. 
+
+3:10:32
+The condition is that if a transaction is in the related party, so all related party transaction two years up to the commencement of cirp will be captured in this particular category, and they will be what kind of relief you can have. The relief will be that this control Z can be pressed. The entire transaction can be reversed. The property can be brought back to the company. Whosoever has bought the property. 
+
+3:11:07
+He can be asked to make good the money. Whatever is taken out of that property and whatever you can think of the order for the purpose of bringing the parity with the corporate debtor, those kind of orders can be passed. So ultimately, it is in the interest of corporate data that we are able to do that. the only point that is relevant in regard to the related party is the look back period is two years. 
+
+
+## 
+3:11:41
+I'll not go deep into the subject. If anybody has got any question, then we will take it in our question answer. What is protected is if a transaction is in good faith and it is an ordinary course of business. So if I have sold one property in ordinary course of business, I don't know whether the company tomorrow will go into insolvency or not. But I have called that property and inventory has been. 
+
+3:12:12
+That is also a transfer of property and maybe to a related party also. but if it is in ordinary course and input phase. So that is what is the important test that has to be proven that why that necessity, reason for the purpose of then that transaction is out. Otherwise these transactions will be covered in the preferential transaction getting in. 
+
+3:12:39
+There are many examples, and while I'll be sharing, I one example that I have given already, that I have given unsecured loan and instead of making the payment to the other Financial crater, the payment has been made to be by way of transfer of property. Or maybe my payment has been made in Hard Cash does not matter, because money is also covered. 
+
+
+## 
+3:13:11
+So if a friendship treatment is done to me, then it is a preferential transaction, whether it is in form of a cash, whether it is in form of a transfer of property, whether it is in form of transfer of some asset or whatever right. So these all examples will fall in the category. 
+
+3:13:31
+And one more example could be that ABC limited has to recover one crore rupees from Mr a and has to pay one crore Rupees to Mr D, who is a sundry creator. So instead of receiving money in entity and routing it through the bank account of the company what ABC limited did they asked a to pay directly to B. That is also a preferential transaction, provided those four conditions are fulfilled right. So there could be many. 
+
+3:14:09
+Another example could be that Amit has given a property as a security for securing the loan to the ABC Limited. Now this loan has been repaid. Somebody can say where is the problem? Bank loan has been repaid, but bank loan has been repaired to get my property released. So my personal property has been set free, whereas the other loans continue. 
+
+
+## 
+3:14:44
+This will also be considered as a preferential transaction, provided it qualifies the poor condition that we have discussed now. There is a very interesting Judgment of JP matter in this matter. Supreme Court, as you are aware, that associate limited obtained the funding from the Consortium of Bank and the institution icac Bank, Standard Chartered and State Bank, and security was provided by JP infratec. that land that it was only now. 
+
+3:15:34
+Idbi Bank, who was a creator, filed a section 7 application against JP infrated loan was taken by whom. Loan was taken by prakash associate mortgage was created by JP infratech because Properties or land work belonging to them.company that went into cirp was JP infratec and 9th August the cirp commenced. 
+
+3:16:13
+Now what happened when claims were filed by the lenders of Japan cast Associates limited because they have lent the money on the strength the loans were rejected. The claims was rejected by the IRP that the mortgage created by JP infratech as a collateral security of debt of its holding company that is Japanese associated nclt, held certain transactions by which corporate debtor, that is JP infratec, had more against the property as collateral security as being a pure transaction. that is 43,4.66 all were alleged. 
+
+
+## 
+3:17:24
+Now NCLEX, on 1st of August 2019, set aside the nclt order and allowed the lenders of Japanese associate Limited to be a financial creator of JP infrate. However, the entire Enclave judgment had been only in relation to the nclt order dated 16th of May 2018 for the avoidance transaction application filed by the IRP and no reasons were given for reversing the order dated 9th of May and 15th of May 2018. the appeal from Enclave judgment went to Supreme Court and Supreme Court while deliberating, framed few questions and very interesting one: whether the mortgage transaction in question deserves to be avoided as being preferential, undervalued and fraudulent under Section 4.4566, or could the Japanese associate lenders be recognized as a financial Crater of the corporate debtor that is JP infratec on the strength of mortgage? 
+
+3:18:49
+Whether the mortgage transaction by JP infratec in favor of the lenders of jai prakash associate with a preferential transaction now, what was the observation, the important finding? I think that is the learning for all of us, and that learning came as early as in 2020. The learning is that the scope of inquiry under preferential transaction in section 43 undervalued transaction in 45 extortionate credit transaction and fraudulent transaction is altogether different. 
+
+3:19:35
+So don't make a common application. The majority of the people that are filing the puf application the mistake they are doing is they are making one common application in that allegation is that either this transaction is preferential, or it is undervalued, or it is extortionate, or it is fraudulent. 
+
+
+## 
+3:19:57
+That is where the problem arise, because you yourself are not sure, after doing so much of inquiry, how the adjudicating authority will be able to pass the order against anyone. That is what precisely the Supreme Court observed. They said you should make the separate application as to whether that transaction Falls in a preferential transaction or not. 
+
+3:20:22
+Then only you will be entitled to a particular relief, and they also gave a guidance, I think, in this discussion I will add to that particular methodology also, which is very interesting one for all of us. They gave the methodology as to how you will identify whether the youth transaction exists or not. 
+
+3:20:48
+They mentioned that you will scan all the transactions relating to property interest backward from the insolvency commencement date up to maybe two year, three year, four year, right, whatever reasonable period you consider. Then you will do the filter as to who is the person involved. Then you will identify whether the person is the related party or not, because it is not possible that you will identify who is a related party and then you search. 
+
+
+## 
+3:21:22
+It will never work. you will never be able to succeed. So what all you have to do? You have to just write down all the transactions that have taken place in the last three years or four years time, and then you see the whether the people are involved, whether they are related party or not, by applying the definition of a related party to Clause 24,5 plus 24. Then those who are in related parties see whether it is falling in the look back period of two year or not, if it is other than related party, whether it falls within one year or not. 
+
+3:21:58
+Then you see whether the conditions of preferential transaction or conditions of undervalued transaction or extortionate credit transaction or the fraudulent transaction are fulfilled or not. if yes, you prepare your application file your application before the adjudicating authority and you will succeed. Similar observation was there in the Klu product also. I'm not repeating, but a similar, very similar observation in this matter also vital essay, Abhishek nagori. 
+
+3:22:37
+Also, it talks about whether the what is the time period with regard to this. I'll not touch upon these, but let me come to the other important aspect with regard to the undervalued translation. Now, in case of undervalued transaction, just what we have understood in case of 43. Here preference is not there. If I do a transaction at a price Which is less than the fair market Price, it is under value. 
+
+
+## 
+3:23:11
+The look back period remains same if it is other than related party one year. If it is related party, it is 2 years. Now interesting point is here: the application can be filed by the Creditor, member or partner of the CD also if IRP has not reported this transmission, whereas for preferential transaction he has no power, but for undervalued transaction the danger is more for the RP or Liquidator, because the power has been given to the other people also that is creditor, member owner as well, for the purpose of doing that. 
+
+3:24:05
+Now, where it is the transfer of asset or one or more asset for a consideration Which is less than the value of consideration which is provided by the corporate data and this transaction is not in the ordinary course of business, the independent valuation may also be required by. The adjudicating Authority. This will be simplicitor ah, undervalued transaction. Now, let me give you the example of undervalue transaction. 
+
+3:24:37
+Very simple example is that you will correlate that as soon as the IRP process is about to commence. Normally you take you know that it takes about a year or so in average to start the ciarp process admission right. Nowadays that is the trend even in many cases. It is even more so as soon as you know that there is no possibility of recovering from this point. This is the point of no return. 
+
+
+## 
+3:25:11
+The management starts transferring the high value Assets in the name of their related party in the back date, or maybe in the current date also, but they try to do it in the back date. Maybe let us say I am owning one BMW. Maybe value is one crore. Book value is coming 20 lakh. I am doing a transaction at rupees 20 lakh, but the fair value still is 50 lakh undervalued transaction. 
+
+3:25:49
+I am having one flag I know I will not be able to revive. I transferred it at my book value to one of my relatives so that the RP, whenever it comes to take the position, is not able to take position of this asset. I am having other luxury goods or office equipment. I am siphoning off those assets, maybe free of cost or at a nominal value. So these are all examples of the undervalued transaction. 
+
+3:26:27
+Control Z button can be pressed here also by the adjudicating Authority and interestingly, if you don't do the filing of this application. Section 47 gives a power to the predator, to the member, to file an application. in that case ibbi can even ask inquiry against you and set up a disciplinary proceedings also against you to protect the interest of the other stakeholder. 
+
+
+## 
+3:27:04
+Another very interesting example that we noticed in one of the case that purchasing the assets at a high value is also undervalued transaction. Very unique Innovation was done in one of the matter where company was having huge cash. What they did the promoter was having some idle land, which was having some dispute. Also, the company acquired that land at 10 time higher price than the market price. 
+
+3:27:40
+So if the land was, let's say, valued at one crore, they paid 10th row Rupees against purchase of that Land from the promoter. So ultimately that is also undervalued transaction if you see it from the other perspective. similarly, if you transfer the goods franchisee to the other person now, value of which may be lower. Transfer of shares of subsidiary company, very common example. 
+
+3:28:12
+As soon as cirp is going to commence, the promoter start transferring so that the control is not on those assets right. So if it is with a related party, this will always be a related party transaction. In majority of the cases, Mark you transfer of brand ownership copyright, very common example. There are n number of examples you will find out now, which you will be able to correlate with your cases that you have done now. 
+
+
+## 
+3:28:40
+Third is the extortionate credit transaction. now what is the extortionate transaction that CD is raising the financial or operational debt during the two years preceding the insolvency commencement, the terms of which are requiring the CD to pay the exorbitant payment, and terms are unconsciousable under the principles of law relating to the contract. So you are charging you are. 
+
+3:29:16
+You are agreeing to take a loan at a interest rate of 36 percent, 38 percent, three percent per month, four percent per month, when you know that there is no possibility of return, no possibility of Revival. Still, you are taking again. These kind of transactions can be set aside by. The adjudicating Authority, which have been done and the undo button can be pressed in this particular case also. Now, last one is a fraudulent transaction. 
+
+3:29:51
+No where fraudulent transaction means Where You Are. What are the transactions with intent of defrauding the Creditor business of the corporate debtor has been carried out with the intent to defraud the Creator or for any other product? 
+
+
+## 
+3:30:23
+When the transaction has taken place before insolvency come and spending when director knew or ought to have known that there are no reasonable prospects of avoiding the commencement of corporate insolvency resolution process in respect of such corporate now director or partner. If they have not exercised the due diligence in minimizing the potential loss, then they'll be guilty of the fraudulent transaction and the adjudicating authority may direct the director of corporate data to make good loss. 
+
+3:31:07
+This is the only of the four transaction. this is the only transaction where our director of a corporate debtor is asked to replenish the money or bring the money back. Whatever loss the company has suffered because this is a fraud and there is no look back period whether it is a transaction with related party or other than related party. 
+
+3:31:34
+If it is a fraud, maybe five year early also, if this transaction has taken place, then this can be covered in the this particular plaudulent transaction. That's how we understand the concept of pure transaction. There are certain punishments provided for the director and other thing, but what ultimately we are achieving out of this travel and Cube transaction is, if we recall the 53 waterfall. 
+
+
+## 
+3:32:09
+The resolution plan will be providing something: how to deal with the youth transaction, where the value will go, whether it will go to financial crater or it will go to resolution applicant who is a successful, or it will be dealt in other manner, But ultimately it is going to benefit to one or the other stakeholder for the purpose of maximization of value of the assets that we have talked about. 
+
+3:32:42
+Let us move to the next role. If anybody has got any question, maybe we can deal the only, or if there is no, then we will move forward up till now. If there is a any point for discussion, let us take those questions. Sir, you said that separate application format to all the sections. separate application to be made for all 66 and other applications. But why is this very low? Can you be little louder? 
+
+3:33:26
+You say that the separate application need to be made separate application. You are asking whether foreign which says that combined application can be made in case of all these existing. So even in JP matter also what the Supreme Court observed? That they have not mentioned that you cannot file the single application. What they advice? 
+
+
+## 
+3:34:12
+Why they advised in Supreme Court in JP matter they mentioned that the scope of inquiry of each allegation of preferential transaction, undervalued transaction, fraudulent transaction is different. so if you are making one single application but you are making a compartment, that this transaction is the avoidance application. This is the this is a preferential transaction and you prove and you make a prayer. Then you make that this is the undervalued transaction. 
+
+3:34:50
+Then you make prayer, then you make the application likewise you do the compartmentalization. That is okay, but if you, if you yourself are not very sure as to whether this will fall in a preferential transaction or under value transaction, maybe it is possible that it can fall in both, that it is the undervalued as well as preferential. the same example that where I gave the. 
+
+3:35:16
+I have given unsecured loan of one crore and company has transferred me the flat of five crore against the settlement of one crore. Then this is a preferential transaction as well as under value transaction. So it is possible in certain cases that more than one category are also involved, but generally it will not be in all cases. 
+
+
+## 
+3:35:43
+So if you make your factual presentation after that you say you pass appropriate order under 43,45.47,50 and 66. That is not correct to my mind. What I understand from the recent order also is that there is no prohibition. Law does not compel you to pay separate fees for filing separate application. Law only requires you that you should make your case separately because the scope of inquiry is different. 
+
+3:36:17
+I hope I am clear, yes and thank you. Listen to this application, the in addition to further whether that transaction audit report is sufficient for your evidence or we have to add additional evidence also for the application. So transaction audit report. I have not dealt much, but let me give you a Clarity. 
+
+3:36:38
+So transaction audit report is not necessary in all cases, but the cases where the value is very high, where the complexity is there, where you are not yourself able to do the analysis or collaboration of the fact, because it's a very Herculean task, because you are given very limited set of information, you are given a very limited factual statement on the basis of that you are collaborating to reach to the finalization of a view right. 
+
+
+## 
+3:37:11
+You are determining whether a fraud has taken place or not, so you need to have evidence. So unless and until I don't appreciate a report of transaction auditor which is inconclusive. 
+
+3:37:24
+So instead of that, I will prefer that you better not have the transaction audit report as a part of your application of you, because in majority of the cases in my last six centers a half year of experience, I have observed I have defended as many as five or six few cases successfully, and the reason was that not I was having a case in Merit in my favor, but because the other person, the resolution professional who had prepared the application, he has been in conclusive in the transaction audit, he has been inconclusive in the application. 
+
+3:38:05
+In many of the application. He has pleaded before the adjudicating authority to allow him to do the further inquiry by sfio so that the facts could be digged out. That is not the scope of transaction audit. If you are not able to conclude anything, then you are gone in 43.45. You cannot make a prayer for investigation by some CBI or sfio. If you are doing, that means you are diluting your application. 
+
+
+## 
+3:38:37
+So if you are going with inconclusive audit reports, transaction audit report, then I feel that it is not required. One more last question, I think, which is generally asked: should I share the transaction audit report with the with a promoter or the person to whom I am making the allegation? My view is that yes, you should share. 
+
+3:38:59
+There is no harm because ultimately, once you file the application, you will in any case be providing that copy to him so that he can defend the matter. What is the harm that, if you provide at least we are doing? What is the advantage? Advantage is that we have his version in advance. 
+
+3:39:19
+I know what kind of counter he is going to make in the nclt tomorrow, so I am better prepared if I send a copy to him or limited extract out of him, asking him to explain what is this version. So a I will be better educated. B I will be better prepared see I'll be better represented during the course of argument that I will be having in the adjudicating authority. That's it. Yeah, thank you. 
+
+
+## 
+3:39:51
+So it is need to be given, or not? very simple. Last question is conclusive. One definitely you should give. I'm not saying you should give. It is it gives its adds a value to the whatever application you are making right. Definitely it should be given. But I am saying, don't you need to discuss with the transaction auditor? 
+
+3:40:22
+Also, boss, you don't please give me inconclusive report whatever way you conclude either the fraud has taken place or not taken place. In absence of information. If you keep it in conclusion, then it is of no use for me. Better I not file the application at all. Right, it is not going to help you. But filing or non filing is a different matter, because in 47, the member or creator also has a got a right. 
+
+3:40:46
+So in certain cases we are compelled to file right. we don't have a choice. So that's a different matter. But yes, we should Endeavor. The time has come when the forensic audit ultimately has to evolve with a limited sense of information. How to draw the inferences, how to corroborate, how to come to the conclusions. I think that is the art that the forensic auditor need to develop. 
+
+
+## 
+3:41:13
+We still are in a very nascent stage, if I can say so, because this I am saying that full responsibility, because I am aware of the number of cases of Youth application which have been successful all across the country. They can be counted on fingers. They are not many numbers right. So, and reason is very simple. It's not that many applications are not filed. Many applications are filed. 
+
+3:41:37
+They remain inconclusive, they remain unheard, the force is not there and also because after the resolution plan is approved, there is no owner of these applications. That is also one of the Prime reason of remaining these applications as pending all right. I think we can now move to the next point with, in relation to the related party now important question that comes whether a related party can initiate the Circ process. 
+
+3:42:15
+Now, if I, as a student, I have also not examined first time, I am examining it from this perspective, especially when I am asked to if I read section 7 or 9 or 10. What section 7 says. My attempt was to identify whether there is any qualification or observation in that regard or is there any judgment. that is what I try to find out. 
+
+
+## 
+3:42:41
+And section 7 simplicitor says a financial crater, either by itself or jointly with other Financial crater or any other person on behalf of the financial Creator, as may be notified by the central government, May file an application for initiating Cil against the corporate debtor before that judicating Authority when a default has happened. So the conditions are that default should be there of minimum amount a financial Creator can fight now. 
+
+3:43:10
+There is no bifurcation as to which financial Creator can find now. If I am a director of our company and if I have given unsecured loan, can I initiate the cirp process against the corporate debtor? Yeah, answer to me also comes to yes. Obviously there is no. Yeah, the question is: will you, will you spoil your own company? yeah. So what I am saying? 
+
+3:43:52
+We should not look it from that perspective, because why I am saying eirp is the spoiling, because I consider that Circ is a process where you are giving medication. Cirp is a process of treating. You know ICU where you are having a disease. Let us say I am having a disease of cancer. Now, whether I my own go to doctor, to ICU or you take me to the doctor. How does that matter? 
+
+
+## 
+3:44:24
+Ultimately, treatment of Amit Gupta is required if I am suffering from cancer. There is no reason why I cannot go. That is the fundamental promise on which we are starting the discussion. Let us see how it ends right. So definitely there is no barring on Section 7 application same case. it is no barring in section 9. Also, because the wordings are very clear, I can file the application. 
+
+3:44:51
+Now when it comes to section 10. Now section 10 says who can file the application. That is I corporate getter myself also can do that application. This is the answer to shivraman sir when he's saying that why at all I will go? Because that is the scheme who tells the ring is not important if you have a disease. 
+
+3:45:14
+The law itself has provided that corporate debtor himself can go and get himself treated if he know that he's suffering from a cancer. Now interesting is if you see the definition of a corporate applicant. 
+
+
+## 
+3:45:30
+That corporate applicant means Section 5 plus 5 has defined, means a corporate debtor or a member of a corporate debtor who is authorized to make this application, or an individual who is in charge of managing the operation and resources of the corporate data, or a person with a control and supervision over the financial Affair of the corporate. Better, now, these are all different category of people. That means a corporate debtor. By passing. 
+
+3:46:12
+The Resolution that we want to initiate the cirp process in terms of section 10, I can go or the person who is managing director or managing the affair, or the person who has a control. So the law itself, in the category of a corporate applicant, has provided that you can go in a bona fide manner in not in the manner in the malicious. 
+
+3:46:43
+So if you have an intention that you want this application to be filed, if let us say, I take the same example, where Amit Gupta is a managing director of ABC limited and Amit Gupta has provided the credit facility. Also, let us say one crude P loan I have provided and that is in default and I am not able to pay the bank loan. 
+
+
+## 
+3:47:09
+Also, right now, if at all, I think that I need to file the cirt against ABC limited so that this can be revived. Then I can always go in section 10 why I am initiating the application under Section 7. That is the important question that will be faced by Gupta when he files the application under section 7 of the insolvency. 
+
+3:47:41
+Now on top of it when you see the provisions of section 65. This says that if any person initiates the insolvency resolution process or liquidation process fraudulently or with a malicious intent for any purpose other than for resolution of insolvency or liquidation, that judicating Authority May impose such a person a penalty which shall not be less than 1 lakh rupee or which may extend to one crore rupee, and similar provision exists for PPI articles that is pre packaged in solvency resolution process. 
+
+3:48:30
+So in general, if we want to conclude: yes, there is no restriction. 7910 are open. One can go if it, even if it is the related party, one can go. even section 10 directly provides that a related party can file the application, and I would quote one judgment with very recent one, where the matter was decided by applet code in the matter of Zoom Communications private limited versus par Excellence real estate 2022 judgment. 
+
+
+## 
+3:49:12
+In this matter, a loan of seven crore was obtained from indiabulls in favor of corporate data. The document was screen shared by the council in the corporate data and he pointed out that loan was applied by the corporate debtor and the co oplicant was some Mr gulshan I, who was the director of the operational creator. 
+
+3:49:46
+Now section 9 application was filed, claiming that debt of 57 lakh 2.000 is due, which was the process fee for the procuring the loan from the corporate of for the corporate now adjudicating Authority. Naturally, after hearing and finding out that there is a co oplicant, there is a p transaction p and the dues are on account of the transaction fee, dismiss. 
+
+3:50:19
+The application for commencement of Cam metal went to applet code and now applet code, not only a form the view of adjudicating Authority but also directed to issue the show cause notice under Section 65. So that is what I was talking about: the malicious applications. so wherever the related party or the applicant is filing the application with a malicious intent, the burden is on him to prove that this is not application. 
+
+
+## 
+3:51:15
+But otherwise, in general, there are cases where the applications have been admitted also and section 10. Many examples are already in existence. I think by and large we all know so. I have not dealt into that separately, but there are many orders which are available. In respect of other cases, I could not find out many order, but if somebody is having, then you can share in the chat box for the benefit of the members. 
+
+3:51:44
+Now, in such cases, in such cases, what is the role of Ip who has given consent for remaining IP in such matter? See, there is no difficulty. you, so you have. You have to assume National right. If you don't compromise with your Independence, perhaps the problem is not there right. You will not be questioned with regard to your integrity. 
+
+3:52:12
+Only difficulty arises when you walk hands in gloves with the corporate debtor as a part of some conspiracy. Maybe you are aware or maybe you are not aware right. So in those cases you need to filter as to whether these cases are genuine one or not genuine one. 
+
+
+## 
+3:52:32
+I know it is very difficult on the face of it, but yes, you have to develop and do a bit of due diligence before entering into such kind of trap. 
+
+3:52:41
+Many of the professionals have got trapped in the beginning of this 2016 2017, when this processes started, many people thought that this is a law by which they can launder many of their ill deeds in the past and they'll be able to get rid of the liabilities and many of the cases. The promoters have been caught and the insolvency professionals also have been caught. But as long as you are clean, your condo, you are unbiased. 
+
+3:53:14
+You are maintaining your professional duties and ethics should not there be a problem, but message is loud and clear. We need to be alert. We need to do a proper due diligence before accepting the assignment. I know. Is it sad then done, especially if you are getting the mattress through nclt where they come as a surprise to you, so you are not sure as to whether how to do the due diligence. 
+
+
+## 
+3:53:45
+You don't have a choice even you cannot reject, because you have already given a consent that you want to be appointed. You will be ready for taking the appointment now you cannot reject right, so be little cautious while choosing the option. Also whether you want to be on a panel of a particular nclt bench or not, whether you want to be on a panel of a bank or not. 
+
+3:54:07
+So, if you want to do selective cases, enjoy, like me that I don't give my name as a panel for the purpose of adjudicating authorities, so I have a freedom that I will do matters as per my choice and as per my due diligence, after only that I undertake the matter. So, depending on your own comfort, you can do, but there are safeguards. As long as you are playing independent, there should not be a problem. 
+
+3:54:35
+Let me take you through the most important and most critical part of the role of a related party in relation to the ciarp process. now first and fundamental question. I think we all have the answer. What is the position with regard to the appointment of related parties as a IRP, or very clearly, if I am a related party to the corporate debtor, now how you become a related party? 
+
+
+## 
+3:55:06
+That is a long list that is provided in the related party definition. If I happen to be that is 5 plus 24. You have to tick box that you should not qualify in any of those people. If you are, then you don't take the Asylum. If you are not, then you are eligible to take the assignment now. Second point that comes whether there is any restriction on appointment of related party as a authorized representative. 
+
+3:55:40
+Now you know in which cases you are required to make the authorized representative. authorized representative means where there are more than one class of breaker. Regulation 4A talks about so not only related party, but if I am and my brother is also an IRP, I cannot appoint him as the authorized representative in my matter and vice versa. Of course, the related parties can also not be appointed. 
+
+3:56:19
+The related party of corporate data here we are talking about soda IRP will identify the three insolvency professional who are not his relative or related parties right. So this is that you will be doing a tick box exercise and if you don't qualify in that you will be able to make the appointment. So next question is: same is true for ipe also yes, for ipe also yo. So let us say I am. 
+
+
+## 
+3:57:00
+I am a insolvency professional and I have a ipe also right, so I cannot appoint my own ipe as a authorized representative. For the purpose of authorized representative right, I cannot registered while you are director of my IP who is registered earlier, or I can also appoint that I will come that I will come for. There are restrictions on the registered valuer appointment also and the other professionals appointment also. 
+
+3:57:34
+But as far as the ipe concern, to best of my understanding, if I am an insolvency professional and in which the other entity, which is the IP where I am also one of the director or partner and I want this ipe to be appointed as a Opera is representative, answer is no. it is a clear case of conflict whether it is coming in black and white or not. 
+
+3:58:03
+But I don't think because the I have since after the ipe amendment has been done. I think a corresponding amendment in these particular provision the provision that I was reading in the past has not been done. But let me find out I think they must have plugged it. Can a flat buyer of the particular project become IRP or RP of that project? Flat buyer? Flat the buyer is not a related party. 
+
+
+## 
+3:58:50
+So if let us say I am Amit Gupta and you are in solvency professional in company in a corporate debtor and I have made an application for the flag in the corporate data whether I can take the assignment or not. I don't think that there is any restriction with regard to this, but related party at least it is not covered. Or is there any other clause in which I can call? 
+
+3:59:24
+Let me let me just check, because flat buyer is not related to CD, though yeah, it is not. That is what I am also trying to understand means if I, if I go in this condition, these are the at the most he can be interested party but cannot be related. But yeah, he can be at the most be the interested party because these are the only disqualification. 
+
+3:59:52
+If I see the explanation, he is eligible to be appointed as an independent director. So now, yes, this is interesting clause now if 14.6 in 1496, if we can be October in this condition or not. but let me park now because 1496 there are many conditions. Some 10,12 Clauses are there. We can examine it cloth by Clause so that I can give my final answer. 
+
+
+## 
+4:00:29
+But Prime of SC it looks it should not be restricted, but I am. I'm just keeping this question part and maybe end of the session. Either we will do the examination or I will discuss it separately. But Prime of SC does not seems to be restricted. Now another important question that keeps pondering to bothering to all of us that I have received a claim from the related party. Let us say same example. 
+
+4:01:01
+Amit Gupta is the director was given now while ABC limited went into cirp. Amit Gupta also filed his claim as a IRP. whether you are required to admit this claim or not. Answer lies in regulation as well as form. If you see the form C and form CA. Form C is for financial crater and form CA is for the class of the financial crater. Form B is for operational Creator. I will definitely file form C. 
+
+4:01:40
+I will be required to give a declaration that I am a related party. Similarly, if a class of Creator is filing, he will also make a declaration that I am a related party. Now if I have supplied the goods to the company. I am a raw material supplier. Very interesting finding that form B does not ask you for making such declaration. 
+
+
+## 
+4:02:14
+I don't know why, but if you go through the Form B, nowhere it asks for the Declaration similar to what is prescribed in form C or form CA. Let us move little further. We will conclude thereafter. The duties of IRP or RP are specified in section 18. As soon as the person is appointed as a IRP under Section 17 e becomes, you can say, a CEO of that organization and the board of director is suspended. 
+
+4:02:55
+The power is suspended right now. IRP is required to receive and collate all the claims submitted by the creators to him pursuant to the public announcement. What is the role? The role of a IRP in this case is limited to receive and collate. he will simplicitor note down that I have received a claim from a financial Creator. Mr a who is a related party. 
+
+4:03:28
+Law does not restrict IRP from making admission of claims submitted by either operational Creator or financial Creator who is a related. Maybe there is a distinction between the Declaration that is being made while filing a Form B or form C perform B, no related party disclosure is required to be made perform C or CA. The related party disclosure is required to be made now. Let us see the reason also why it is so. 
+
+
+## 
+4:04:09
+If you move little further with regard to the space in the committee of creator, you will get the answer. The related party can be member of Committee of creditor or not has been dealt in section 21 and regulation 16. what are his voting rights? That is also dealt in section 21.21,2 says the committee of creditors shall comprise all Financial crater of corporate data. 
+
+4:04:54
+However, the financial crater or authorized representative of financial crater referred to in subsection 6 or 6A of subsection 5 of section 24, if it is a related party of the corporate data, shall not have any right of representation, participation or voting in the meeting of the committee. Now, first question whether he is a member of Committee of crater. Answer to my mind is clearly yes. He is a member of Committee of printer. 
+
+4:05:41
+That means he is entitled to all the notices of meeting of committee operator. he is entitled to sit there in the discussion but he will not have a right to participate or vote in the meetings of committee operator. So that means he has got zero voting right. Maybe I am having one crore of debt. Maybe it is 10 of the total debt. If, let's say, total debt is 10 crore. 
+
+
+## 
+4:06:18
+But still I'll have no voting right. I'll have no participation right, but I'll have a right to notice. I'll write to attend the meeting. Participation means in discussion. I cannot participate, but I can be available for answering the questions, as has been observed in many of the Judgment by the Supreme Court that these class of people are necessary for Fruitful conduct of the committee of trade. similarly, if a related party is a financial sector regulator. 
+
+4:07:02
+Let's say I am a mbfc. That means there is another company x, y z of which is related to a b x ABC Limited, which is on nbfc, and they have given a fund to ABC limited and they have filed that claim and by virtue of substitution of debt into Equity or any other convertible instrument, they have become a related party. Then they will not be restricted. That means this restriction. 
+
+4:07:42
+If, prior to commencement of insolvency, they have converted their debt into equity and by virtue of they happen to be the related party, they became the related party because of this conversion, then in that case the Restriction what we were just talking about that restriction will not be applicable. 
+
+
+## 
+4:08:06
+Somebody was asking about the registered valuer in registered value are also the related party of the corporate debtor world is used or a relative of liquidator similar provision. I think this provision is for Liquidator, but similar provision exists for the insolvency professional. Also relative of insolvency professional or resolution professional is also restricted from this provision is certainly because it talks about five year auditor restriction. This provision does not exist. 
+
+4:08:46
+In case of so I cannot appoint somebody as a registered valuer who is a related party to the corporate debtor. That is also one of the finding restriction on appointment of related party for availing the Professional Services. Now I am running a cirp. I am not a person from the technology and the company in which I am appointed as a CIF as a IRP is in telecommunication. I need to engage the telecommunication expert. 
+
+4:09:26
+You can engage anybody, but you cannot engage someone who is a related party to the cooperative or you cannot appoint somebody who is a relative to the resolution professional. However, mind the word, it is not related party of the resolution professional. It is only a restrictive definition. That means relative, and relative here will mean because the term relative has been defined in the act. 
+
+
+## 
+4:09:59
+You have to use the that definition, which is limited one, not the expanded definition which is provided in the explanation in the five Clause 24 a right. So very limited number of people will be falling in the restricted category. Otherwise all the other people can be appointed as a professional. Then what are the restrictions in doing a related party transaction? Now? what resolution professional can undertake as a related party transaction. 
+
+4:10:33
+Let us say there is a going concern. It's a automotive industry, ABC Limited. ABC purchases the engine from x y z, which is a related party of ABC, which happens to be the you can say entity owned by Mr a, who is the director or his son, who is a director on the company. So it is ultimately a related pattern. 
+
+4:11:09
+Now, if you want to, because engine may not be available in the market, if you want to keep your concern as a going concern, you may have to undertake. Similarly, there may be n number of transactions which you are required to do. You all of sudden coming into a company cannot just shut off all the transaction. you will have to continue those transactions, of course at the arm length and the fair price. 
+
+
+## 
+4:11:36
+Now section 28 only asks you to take the prior approval of committee operator wherever you are doing any such kind of related party troublesh. But you can certainly undertake these kind of related party now. Another interesting part is what is the role of related party in submitting the information memorandum? Now you know how important is the information memorandum. Information memorandum contains information about your company. What is the background? What is the Financial Health? 
+
+4:12:21
+What is the asset? What is all? That is the document by which the prospective resolution applicant understand whether he should go ahead with this deal or not? So regulation 36 is specifically mandate and require you to give the particulars of debt which are due from or to the corporate debtor with respect to related parties, so that the resolution applicant or prospective resolution applicant is able to decide how much we have to pay, how much we have not to pay. 
+
+4:13:08
+Similarly, details of guarantee that have been given in relation to debts of the corporate debtor by other person specifying which of the guarantors all right. So you have to provide these information in relation to the information memorandum. 
+
+
+## 
+4:13:32
+Yes, sir, with regard to this one point which has discussed about registered value are being appointed by from the ipe, it is always better and advised that the matter is put before the COC and the approval is obtained, even because once RP becomes a corporate debtor, he name sir he's a CEO. That means his Partners also become related. It is always better. 
+
+4:13:59
+It's always a better proposition to get an approval from the COC and appoint the valuer or anybody for that matter. Let me let me let me understand. Let me understand. So if Amit Gupta is a IRP and I have a ipe right so one aspect we have discussed and parked that I cannot appoint that IP as a authorized representative. That is one which is clear. 
+
+4:14:23
+Now another point which we are examining, that let us say I have another registered valuer entity. Also right, where you are. You are talking about which rbo registered valuer entity. See what I'm trying to convey is, for example, you have a Partners. You have a partnership firm. There is one more partner who is actually who is advised to be a problem partnership form of what valuable, valuable and even if it is what to say. 
+
+
+## 
+4:15:15
+Ipe also no issues on that. For example, there is a person who is very much involved in that process of that industry, for example. You are one of your partners. It's always better that you can put forward that point in front of them to the COC. It is only the commercial terms and conditions are to be at armed strength price. it should not be exorbitant. If the COC approves it can be done similarly. 
+
+4:15:41
+It applies to a registered valuer also, because for each and everything, having a person of your own choice, it's not your choice, but one thing is it is with regard to his professional ability to perform that Duty. That is the first. That is the first one. That is the first point to be considered, and it is up to the COC to decide to whether to have you or not to have you because foreign declared. 
+
+4:16:26
+It is up to the COC to decide which one to take it up and which one not to take it up, because it is not in your hands. it is not in your hands to appoint any person and every approval has to be obtained, even for Foreigner is also a valuer. That is correct, because earlier slide it was mentioned that partner cannot be your authorized. 
+
+
+## 
+4:17:18
+The person as sir it is nowhere said that you have to get the approval from the COC. It is not you, but you are declaring the fact that this concerned person is my relative in a sense related to me. You are declaring that to them, but that section fine. If that being the case, it should be that. But one thing is I don't think so. 
+
+4:18:03
+For example, there might be some Consultants who are specialized in this aspect of it. You might be better equipped to handle that matter. It is not that CRP is just a normal one. there are several cases where we find Specialists are required. So if you have a specialist, it's up to the COC to decide. 
+
+4:18:23
+I think the point that the person is trying to bring in if there is a specific restriction that there is a restriction, then it cannot be. But normally what? But normally what people do is go. We have to go as to the Mandate of law. If the law is clearly providing in a particular frame that this rbe cannot be appointed because of swimsuit restriction, then it is gone otherwise. 
+
+
+## 
+4:18:50
+In general what churaman is saying is if there is no direct prediction but still you are appointed appointing a related party or interested party in capacity as a registered valuer or any other capacity as a professional for the purpose of doing any of the assignment with the cirp process, then you need to put the matter before the committee of Creator, seek their concurrence and then go ahead. 
+
+4:19:18
+I think that is a fair point and there is no disagreement with got to doing this way. but if it is restricted, then certainly it cannot be done. So, for example, valuer and foreign rest, all the people you can appoint, so other people also if they are interested. You are interested in that, like we do a related party transaction in the company. The related party transactions per se are not bad and they are not restricted. 
+
+4:20:12
+What is restricted is a disclosure. So here the body to whom you are making a disclosure is the committee operator. With their approval, you will be certainly be able to do those kind of transactions restricted. Sir, it is very clear, sir, my name is Sanjeev. It is very clear as per this revolution 27 that this is a relative of resolution professional and a related party of the corporate data. so these two. 
+
+
+## 
+4:20:43
+Barification is already given and if ipe wants to appoint any related party of the corporator, then he cannot do. And but if e wants to appoint any related party of this ipe itself. So for appointment of a professional. This is a regulation 27. What it restricted, provided that the following person shall not be appointed, namely a relative of resolution professional. Is he a relative? Answer is no easier. Related to corporate data answer is no right. 
+
+4:21:27
+Yes, this it is clear. So we have to see. I am saying what I am saying is you have to apply the tick box check if it is restricted in a particular regulation. You don't have to. You don't have a choice whether you appoint or not. You cannot appoint. 
+
+4:21:47
+But if it is not restricted and if you are interested in that particular agenda, then you need to put this agenda before the committee of Creator so that you get necessary concurrence, because ultimately the financial approval has to come from the committee of Creator. They have to approve it as a part of cirp cost also. That's the point. Now, let us come to a role of related parties in the resolution. 
+
+
+## 
+4:22:20
+Also now 29a is a is a perhaps most talked about subject. I'm not of course going into the length and breadth of the other areas, but let me just give you the perspective. 
+
+4:22:42
+The perspective is that a person is considered to be ineligible for submission of resolution plan if the person who submits the resolution plan or any other person who is jointly submitting the plan is undischarged insolvent, willful defaulter or his account at the time of submission of resolution plan has been NPA for period of at least one year or let us see the broad condition. Then we will come or has been convicted of an offense which is punishable with imprisonment for two years or more. 

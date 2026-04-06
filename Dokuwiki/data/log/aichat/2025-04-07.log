@@ -1,0 +1,45 @@
+2025-04-07 10:49:42		I want to invest in education... suggest me some companies in insolvency
+  {
+      "interpretation": "I want to invest in education... suggest me some companies in insolvency",
+      "answer": "Based on the available information, here are two companies in the education sector that are currently undergoing insolvency processes:\n\n1. Millennium Education Foundation: This not-for-profit organization based in Delhi, India, focuses on advancing educational initiatives and community services. You can explore investment opportunities with them through the Corporate Insolvency Resolution Process (CIRP).\n\n2. Pandhe Hospitality Private Limited: While primarily engaged in the hospitality sector, this company also presents an investment opportunity through the CIRP. Further details about their involvement in the education sector are not provided.\n\nPlease note that investing in companies undergoing insolvency processes carries certain risks, and it is important to conduct thorough due diligence and engage directly with the companies' representatives for comprehensive information.",
+      "sources": {
+          "sidebar": {
+              "page": "sidebar",
+              "url": "\/doku.php?id=sidebar",
+              "title": "IBC AGENTS",
+              "score": "79.50%"
+          },
+          "teasers:millennium_education_foundation": {
+              "page": "teasers:millennium_education_foundation",
+              "url": "\/doku.php?id=teasers:millennium_education_foundation",
+              "title": "Millennium Education Foundation",
+              "score": "76.87%"
+          },
+          "start": {
+              "page": "start",
+              "url": "\/doku.php?id=start",
+              "title": "Agentic Framework for Frictionless Resolutions",
+              "score": "75.69%"
+          },
+          "teasers:the_bombay_burmah_trading_employees_welfare_company_limited": {
+              "page": "teasers:the_bombay_burmah_trading_employees_welfare_company_limited",
+              "url": "\/doku.php?id=teasers:the_bombay_burmah_trading_employees_welfare_company_limited",
+              "title": "Bombay Burmah Trading Employees Welfare Company Limited",
+              "score": "75.54%"
+          },
+          "teasers:pandhe_hospitality_private_limited": {
+              "page": "teasers:pandhe_hospitality_private_limited",
+              "url": "\/doku.php?id=teasers:pandhe_hospitality_private_limited",
+              "title": "Pandhe Hospitality Private Limited",
+              "score": "75.27%"
+          }
+      },
+      "ip": "49.43.99.95",
+      "user": "admin",
+      "stats": {
+          "tokens": 8306,
+          "cost": "0.025063",
+          "time": 2.53,
+          "requests": 1
+      }
+  }

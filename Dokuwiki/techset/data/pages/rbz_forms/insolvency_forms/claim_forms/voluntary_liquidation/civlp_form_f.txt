@@ -1,0 +1,4 @@
+{{tag>judicial_process:insolvency_process form_type:claim_forms process_type:voluntary_liquidation stakeholder_type:other_creditor}}
+
+====== Corporate Insolvency VOLUNTARY LIQUIDATION Form F ======
+{{pdfjs 200em,500px> :pdf:vol_liquidation_process_form_f.pdf}}

@@ -1,0 +1,902 @@
+#
+
+# Supreme Court Decision
+
+# Supreme Court Decision
+
+# Case Details
+
+- Case Name: Uttar Pradesh Power Transmission Corporation Ltd. and Anr. v. CG Power and Industrial Solutions Ltd. and Anr.
+- Special Leave Petition (C) No.: 8630 of 2020
+- Decision Date: 12-May-21
+
+# Coram
+
+- Mr. Justice Uday Umesh Lalit
+- Ms. Justice Indira Banerjee
+
+# Brief about the decision
+
+Hon’ble Supreme Court held that even though there is an arbitration clause, the Petitioner herein has not opposed the writ petition on the ground of existence of an arbitration clause. There is no whisper of any arbitration agreement in the Counter Affidavit filed by UPPTCL to the writ petition in the High Court. In any case, the existence of an arbitration clause does not debar the court from entertaining a writ petition. It is well settled that availability of an alternative remedy does not prohibit the High Court from entertaining a writ petition in an appropriate case. The High Court may entertain a writ petition, notwithstanding the availability of an alternative remedy, particularly (1) where the writ petition seeks enforcement of a fundamental right; (ii) where there is failure of principles of natural justice or (iii) where the impugned orders or proceedings are wholly without jurisdiction or (iv) the vires of an Act is under challenge. Reference may be made to Whirlpool Corporation v. Registrar of Trade Marks, Mumbai and Ors. reported in AIR 1999 SC 22 and Pimpri Chinchwad Municipal Corporation and Ors. V. Gayatri Construction Company and Ors, reported in (2008) 8 SCC 172, cited on behalf of Respondent No.1. In Harbanslal Sahnia and Ors. v. Indian Oil Corporation Ltd. reported in (2003) 2 SCC 107, this Court allowed the appeal from an order of the High Court dismissing a writ petition and set aside the impugned judgment of the High Court as also the impugned order of the Indian Oil Corporation terminating the dealership of the Appellants, notwithstanding the fact that the dealership agreement contained an arbitration clause. It is now well settled by a plethora of decisions of this Court that relief under Article 226 of the Constitution of India may be granted in a case arising out of contract. However, the writ jurisdiction under Article 226, being discretionary, the High Courts usually refrain from entertaining a writ petition which involves adjudication of disputed questions of fact which may require analysis of evidence of witnesses. Monetary relief can also be granted in a writ petition. (p66-69)
+
+# Judgment/Order
+
+JUDGMENT
+
+Print Date: June 6, 2024
+---
+#
+
+# Document
+
+# Segment 1
+
+This Special Leave Petition, under Article 136 of the Constitution of India, filed by the Petitioner, hereinafter referred to as the UPPTCL, is against a final Judgment and Order dated 24th February 2020 passed by the High Court of Judicature at Allahabad (Lucknow Bench), allowing the writ petition filed by Respondent No.1 and setting aside the letters dated 2nd September 2016 and 29th December 2018 issued by the Executive Engineer, Unnao UPPTCL directing the Respondent No.1 to remit Labour Cess amounting to Rs.2,60,68,814/-, computed at 1% of the contract value, under Sections 3 sub-section (1) and (2) of the Building and Other Construction Workers’ Welfare Cess Act, 1996, hereinafter referred to as the “Cess Act”, read with Rules 3 and Rule 4 (1), (2) (3) and (4) of the Building and Other Construction Workers Welfare Cess Rules, 1998, hereinafter referred to as the “Cess Rules” and also Section 2 (1)(d), (g) and (i) of the Building and Other Construction Workers (Regulation of Employment and Condition of Service) Act, 1996, hereinafter referred to as the “BOCW Act”.
+
+# Segment 2
+
+The BOCW Act has been enacted to regulate the employment and conditions of service of building and other construction workers and to provide for their safety, health and welfare measures and for other matters connected therewith or incidental thereto. As per the Statement of Objects and Reasons for the BOCW Act, “it is estimated that about 8.5million workers in the country are engaged in building and other construction works. Building and other construction workers are one of the most numerous and vulnerable segments of the unorganised labour in India. The building and other construction works are characterised by their inherent risk to the life and limb of the workers. The work is also characterised by its casual nature, temporary relationship between employer and employee, uncertain working hours, lack of basic amenities and inadequacy of welfare facilities.”
+
+# Segment 3
+
+The Statement of Objects and Reasons further state “in view of the circumstances explained above, it has been considered necessary to constitute Welfare Boards in every State so as to provide and monitor social security schemes and welfare measures for the benefit of building and other construction workers. For the said purpose, it has been considered appropriate to bring in a comprehensive legislation by suitably amplifying the provisions of the Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Bill, 1988 which was introduced in the Rajya Sabha on the 5th December, 1988. It has also been considered necessary to levy a cess on the cost of construction incurred by the employers on the building and other construction works for ensuring sufficient funds for the Welfare Boards to undertake the social security schemes and welfare measures.”
+
+# Segment 4
+
+As stated in its Statement of Objects and Reasons, the BOCW Act, iner alia, provides for the following matters:-
+
+- provision to cover every establishment which employs or had employed on any day of the preceding twelve months, fifty or more workers in any building or other construction work;
+- registration of establishments employing construction workers;
+- registration of building workers as beneficiaries under the said Ordinance and provision for their identity cards, etc.;
+---
+#
+
+# Document
+
+# Segment 5
+
+The Statement of Objects and Reasons reveals that the necessity to enact BOCW Act arose from the necessity to levy cess on the cost of construction incurred by the employers on a building and on other construction works, in order to generate funds for the Welfare Boards to enable such Welfare Boards to undertake social security schemes and welfare measures for building and construction workers.
+
+# Segment 6
+
+Section 2(1)(d) of the BOCW Act defines “building or other construction work” to mean the construction, alteration, repairs, maintenance or demolition of or, in relation to, buildings, streets, roads, railways, tramways, airfields, irrigation, drainage, embankment and navigation works, flood control works (including storm water drainage works), generation, transmission and distribution of power, water works (including channels for distribution of water), oil and gas installations, electric lines, wireless, radio; television, telephone, telegraph and overseas communication dams, canals, reservoirs, watercourses, tunnels, bridges, viaducts, aqueducts, pipelines, towers, cooling towers, transmission towers and such other work as may be specified in this behalf by the appropriate Government, by notification, but does not include any building or other construction work to which the provisions of the Factories Act, 1948 (63 of 1948), or the Mines Act, 1952 (35 of 1952), apply.
+
+# Segment 7
+
+Under Section 2(1)(e) of the BOCW Act ‘building worker’ means a person who is employed to do any skilled, semiskilled or unskilled manual, supervisory, technical or clerical work for hire or reward, whether the terms of employment be express or implied, in connection with any building or other construction work but does not include any such person-
+
+- (i) who is employed mainly in a managerial or administrative capacity; or.
+- (ii) who, being employed in a supervisory capacity, draws wages exceeding one thousand six hundred rupees per mensem or exercises, either by the nature of the duties attached to the office or by reason of the powers vested in him, functions mainly of a managerial nature.
+
+# Segment 8
+
+Clause (b) of Section 2(1) of the BOCW Act defines ‘beneficiary’ to mean building workers, registered under Section 12 of the said Act. ‘Contractor’, ‘employer’ and ‘establishment’ respectively have been defined in Sections 2(1)(g), 2(1)(i) and 2(1)(j) of the BOCW Act set out hereinbelow:-
+---
+#
+
+# Segment Headers
+
+# Definitions
+
+# Segment Lists
+
+- Contractor: a person who undertakes to produce a given result for any establishment by employing building workers or supplying building workers for any work of the establishment.
+- Employer: in relation to an establishment, means the owner thereof and includes various authorities depending on the type of construction work.
+- Establishment: any establishment that employs building workers in building or construction work.
+
+# Segment KeyValuePairs
+
+Contractor: a person who undertakes to produce a given result for any establishment, other than a mere supply of goods or articles of manufacture, by the employment of building workers or who supplies building workers for any work of the establishment; and includes a sub-contractor.
+
+Employer: in relation to an establishment, means the owner thereof, and includes:
+- in relation to a building or other construction work carried on by or under the authority of any department of the Government, directly without any contractor, the authority specified in this behalf, or where no authority is specified, the head of the department;
+- in relation to a building or other construction work carried on by or on behalf of a local authority or other establishment, directly without any contractor, the chief executive officer of that authority or establishment;
+- in relation to a building or other construction work carried on by or though a contractor, or by the employment of building workers supplied by a contractor, the contractor.
+
+Establishment: any establishment belonging to, or under the control of, Government, any body corporate or firm, an individual or association or other body of individuals which or who employs building workers in any building or other construction work; and includes an establishment belonging to a contractor, but does not include an individual who employs such workers in any building or construction work in relation to his own residence the total cost of such construction not being more than rupees ten lakhs.
+
+# Segment Paragraphs
+
+Some of the relevant provisions of the BOCW Act are set out hereunder:
+
+7. Registration of establishments.- (1) Every employer shall,-
+
+(a) in relation to an establishment to which this Act applies on its commencement, within a period of sixty days from such commencement; and
+
+(b) in relation to any other establishment to which this Act may be applicable at any time after such commencement, within a period of sixty days from the date on which this Act becomes applicable to such establishment, make an application to the registering officer for the registration of such establishment:
+
+Provided that the registering officer may entertain any such application after the expiry of the periods aforesaid, if he is satisfied that the applicant was prevented by sufficient cause from making the application within such period.
+
+8. Revocation of registration in certain cases.– If the registering officer is satisfied, either on a reference made to him in this behalf or otherwise, that the registration of any establishment has been obtained by misrepresentation or suppression of any material fact or that the provisions of this Act are not being complied with in relation to any work carried on by
+
+# Segment Tables
+
+Print Date
+June 6, 2024
+---
+# Segment 1
+
+such establishment, or that for any other reason the registration has become useless or ineffective and, therefore, requires to be revoked, he may, after giving an opportunity to the employer of the establishment to be heard, revoke the registration.
+
+# Segment 2
+
+9. Appeal.- (1) Any person aggrieved by an order made under Section 8may, within thirty days from the date on which the order is communicated to him, prefer an appeal to the appellate officer who shall be a person nominated in this behalf by the appropriate Government:
+
+Provided that the appellate officer may entertain the appeal after the expiry of the said period of thirty days if he is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.
+
+# Segment 3
+
+11. Beneficiaries of the Fund.- Subject to the provisions of this Act, every building worker registered as a beneficiary under this Act shall be entitled to the benefits provided by the Board from its Fund under this Act.
+
+# Segment 4
+
+12. Registration of building workers as beneficiaries.- (1) Every building worker who has completed eighteen years of age, but has not completed sixty years of age, and who has been engaged in any building or other construction work for not less than ninety days during the preceding twelve months shall be eligible for registration as a beneficiary under this Act.
+
+# Segment 5
+
+16. Contribution of building workers.- (1) A building worker who has been registered as a beneficiary under this Act shall, until he attains the age of sixty years, contribute to the Fund at such rate per mensem, as may be specified by the State Government, by notification in the Official Gazette and different rates of contribution may be specified for different classes of building workers:
+
+Provided that the Board may, if satisfied that a beneficiary is unable to pay his contribution due to any financial hardship, waive the payment of contribution for a period not exceeding three months at a time.
+
+(2) A beneficiary may authorise his employer to deduct his contribution from his monthly wages and to remit the same, within fifteen days front such deduction, to the Board.
+
+# Segment 6
+
+17. Effect of non-payment of contribution. When a beneficiary has not paid his contribution under sub-section (1) of section 16 for a continuous period of not less than one year, he shall cease to be a beneficiary:
+
+Provided that if the Secretary of the Board is satisfied that the non-payment of contribution was for a reasonable ground and that the building worker is willing to deposit the arrears, he may allow the building worker to deposit the contribution in arrears and on such deposit being made, the registration of building worker shall stand restored.
+---
+#
+
+# Document
+
+# Functions of the Boards
+
+- (a) provide immediate assistance to a beneficiary in case of accident;
+- (b) make payment of pension to the beneficiaries who have completed the age of sixty years;
+- (c) sanction loans and advances to a beneficiary for construction of a house not exceeding such amount and on such terms and conditions as may be prescribed;
+- (d) pay such amount in connection with premia for Group Insurance Scheme of the beneficiaries as it may deem fit;
+- (e) give such financial assistance for the education of children of the beneficiaries as may be prescribed;
+- (f) meet such medical expenses for treatment of major ailments of a beneficiary or, such dependant, as may be prescribed;
+- (g) make payment of maternity benefit to the female beneficiaries; and
+- (h) make provision and improvement of such other welfare measures and facilities as may be prescribed.
+
+# Building and Other Construction Workers’ Welfare Fund and its application
+
+(1) There shall be constituted by a Board a fund to be called the Building and other Construction Workers’ Welfare Fund and there shall be credited thereto-
+
+- (a) any grants and loans made to the Board by the Central Government under section 23;
+- (b) all contributions made by the beneficiaries;
+- (c) all sums received by the Board from such other sources as may be decided by the Central Government.
+
+(2) The Fund shall be applied for meeting-
+
+- (a) expenses of the Board in the discharge of its functions under section 22; and
+- (b) salaries, allowances and other remuneration of the members, officers and other employees for the Board;
+- (c) expenses on objects and for purposes authorised by this Act.
+
+(3) No Board shall, in any financial year, incur expenses towards salaries, allowances and other remuneration to its members, officers and other employees and for meeting the other administrative expenses exceeding five percent of its total expenses during that financial year.
+---
+#
+
+# Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996
+
+# Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996
+
+# Drinking water
+
+- The employer shall make in every place where building or other construction work is in progress, effective arrangements to provide and maintain at suitable points conveniently situated for all persons employed there in, a sufficient supply of wholesome drinking water.
+- All Such points shall be legible marked Drinking Water in a language understood by a majority of the person employed in such place and no such point shall be situated within six metres of any washing place, Urinal or latrine.
+
+# Latrines and urinals
+
+In every place where building or other construction work is carried on, the employer shall provide sufficient latrine and urinal accommodation of such types as may be prescribed and they shall be so conveniently situated as may be accessible to the building workers at all times while they are in such place:
+
+Provided that it shall not be necessary to provide separate urinals in any place where less than fifty persons are employed or where the latrines are connected to a water-borne sewage system.
+
+# Accommodation
+
+- The employer shall provide, free of charges and within the work site or as near to it as may be possible temporary living accommodation to all building workers employed by him for such period as the building or other construction work is in progress.
+- The temporary accommodation provided under sub-section (1) shall have separate cooking place bathing, washing and lavatory facilities.
+
+# Creches
+
+In every place where in more than fifty female building workers are ordinarily employed, there shall be provided and maintained, a suitable room or rooms for the use of children under the age of six years of such female workers.
+
+# First-aid
+
+Every employer shall provide in all the places where building or other construction work is carried on such first-aid facilities as may be prescribed.
+
+# Safety Committee and safety officers
+
+In every establishment wherein five hundred or more building workers are ordinarily employed, the employer shall constitute a Safety Committee consisting of such number of representatives of the employer and the building workers as may be prescribed by the State Government.
+
+# Power of appropriate Government to make rules for the safety and health of building workers
+
+The appropriate Government may, by notification, make rules regarding the measures to be taken for the safety and health of building workers in the course of their employment and the equipment and appliances necessary to be provided to them.
+
+Print Date: June 6, 2024
+---
+#
+# Document
+
+# Segment 1
+
+- IBC Laws® | www.ibclaw.in
+
+# Segment 2
+
+- for ensuring their safety, health and protection, during such employment.
+- In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-
+
+# Segment 3
+
+- 41. Framing of model rules for safety measures.-The Central Government may, after considering the recommendation of the expert committee constituted under section n5, frame model rules in respect of all or any of the matters specified in section 40 and where any such model rules have been framed in respect of any such matter, the appropriate Government shall while making any rules in respect of that matter under section 40, so far as is practicable, conform to such model rules.
+
+# Segment 4
+
+- 46. Notice of commencement of building or other construction work. —(1) An employer shall, at least thirty days before the commencement of any building or other construction work, send or cause to be sent to the Inspector having jurisdiction in the area where the proposed building or other construction work is to be executed, a written notice containing—
+- - (a) the name and situation of the place where the building or other construction work is proposed to be carried on;
+- (b) the name and address of the person who is undertaking the building or other construction work;
+- (c) the address to which communications relating to the building or other construction work may be sent;
+- (d) the nature of the work involved and the facilities, including any plant and machinery, provided;
+- (e) the arrangements for the storage of explosives, if any, to be used in the building or other construction work;
+- (f) the number of workers likely to be employed during the various stages of building or other construction work;
+- (g) the name and designation of the person who will be in overall charge of the building or other construction work at the site;
+- (h) the approximate duration of the work;
+- (i) such other matters as may be prescribed.
+
+(2) Where any change occurs in any of the particulars furnished under sub-section (1), the employer shall intimate the change to the Inspector within two days of such change.
+- (3) Nothing contained in sub-section (1) shall apply in case of such class of building or other construction work as the appropriate Government may by notification specify to be emergent
+
+Print Date: June 6, 2024
+---
+# Segment 10
+
+A perusal of the various provisions of the BOCW Act makes it amply clear that the said Act has been enacted for the welfare of only building and other construction workers and to make adequate provisions for their safety, health, and financial security.
+
+# Segment 11
+
+The Cess Act has been enacted to provide for the levy and collection of cess on the cost of construction incurred by employers, with a view to augment the resources of the Building and Other Construction Workers’ Welfare Boards, constituted under the BOCW Act.
+
+# Segment 12
+
+Section 3(1) of the Cess Act, which is the charging section, provides for the levy and collection of a Cess for the purposes of the BOCW Act, at such rate not exceeding two per cent, but not less than one per cent, of the cost of construction incurred by an employer, as the Central Government may, by notification in the Official Gazette, from time to time specify.
+
+# Segment 13
+
+Sub-Section (2) of Section 3 of the Cess Act provides that the Cess levied under Sub-Section (1) shall be collected from every employer in such manner and at such time, including deduction at source, in relation to a building or other construction work of a Government or of a Public Sector Undertaking, or advance collection through a local authority, where an approval of such building or other construction work by such local authority is required, as may be prescribed by rules made under the BOCW Act.
+
+# Segment 14
+
+Sub-Section (3) of Section 3 provides that the proceeds of the Cess collected under Sub-Section (2) shall be paid, by the local authority or the State Government collecting the Cess, to the Board after deducting the cost of collection of such cess not exceeding one per cent of the amount collected.
+
+# Segment 15
+
+Sub-Section (4) of Section 3 of the Cess Act contains a non obstante clause which makes it clear that, notwithstanding anything contained in Sub-Section (1) or (2), the Cess leviable under the Cess Act, including payment of such Cess in advance may, subject to final assessment to be made, be collected at a uniform rate or rates, as may be prescribed by the Cess Rules, on the basis of the quantum of the building or other construction work involved.
+
+# Segment 16
+
+Section 4(1) requires every employer to furnish such return to such officer or authority, in such manner and at such time as may be prescribed. Sub-Section (2) of Section 4 provides that, if any person carrying on the building or other construction work, liable to pay the Cess under Section 3, fails to furnish any return under Sub-Section (1), the officer or the authority shall give a notice requiring such person to furnish such return before such date as may be specified in the notice.
+
+# Segment 17
+
+Sections 5, 6, 7, 8, 9, and 10 of the Cess Act provide:-
+
+- Assessment of cess.—(1) The officer or authority to whom or to which the return has been furnished under Section 4 shall, after making or causing to be made such inquiry as he or it thinks fit and after satisfying himself or itself that the particulars stated in the return are correct, by order, assess the amount of cess payable by the employer.
+- If the return has not been furnished to the officer or authority under sub-section (2) of Section 4, he or it shall, after making or causing to be made such inquiry as he or it thinks fit, by order, assess the amount of cess payable by the employer.
+---
+#
+# IBC Laws
+
+# Segment 6: Power to exempt
+
+Notwithstanding anything contained in this Act, the Central Government may, by notification in the Official Gazette, exempt any employer or class of employers in a State from the payment of cess payable under this Act where such cess is already levied and payable under any corresponding law in force in that State.
+
+# Segment 7: Power of Entry
+
+Any officer or authority of the State Government specially empowered in this behalf by that Government may:
+
+- (a) with such assistance, if any, as he or it may think fit, enter at any reasonable time any place where he or it considers it necessary to enter for carrying out the purposes of this Act including verification of the correctness of any particulars furnished by any employer under section 4;
+- (b) do within such place anything necessary for the proper discharge of his or its duties under this Act; and
+- (c) exercise such other powers as may be prescribed.
+
+# Segment 8: Interest payable on delay in payment of cess
+
+If any employer fails to pay any amount of cess payable under section 3 within the time specified in the order of assessment, such employer shall be liable to pay interest on the amount to be paid at the rate of two per cent. for every month or part of a month comprised in the period from the date on which such payment is due till such amount is actually paid.
+
+# Segment 9: Penalty for non-payment of cess within the specified time
+
+If any amount of cess payable by any employer under Section 3 is not paid within the date specified in the order of assessment made under Section 5, it shall be deemed to be in arrears and the authority prescribed in this behalf may, after making such inquiry as it deems fit, impose on such employer a penalty not exceeding the amount of cess:
+
+Provided that, before imposing any such penalty, such employer shall be given a reasonable opportunity of being heard and if after such hearing the said authority is satisfied that the default was for any good and sufficient reason, no penalty shall be imposed under this section.
+
+# Segment 10: Recovery of amount due under the Act
+
+Any amount due under this Act (including any interest or penalty) from an employer may be recovered in the same manner as an arrear of land revenue.
+
+# Segment 18: Building and Other Construction Workers’ Welfare Cess Rules, 1998
+
+In exercise of power conferred by Section 14 of the Cess Act, the Central Government has by Notification GSR 149(E) dated 26th March 1998 published in the Gazette of India, Extra; part 2, Section 3(1), dated 26th March 1998, enacted the Building and Other Construction Workers’ Welfare Cess Rules, 1998. Rules 3, 4, 5, 6, 7, 8, 9, 12, 13 and 14 of the Cess Rules, provide:
+
+# Rules 3: Levy of cess
+
+For the purpose of levy of cess under sub-section (1) of Section 3 of the Act, cost of construction shall include all expenditure incurred by an employer in connection with the building or other construction work but shall not include—
+
+Print Date: June 6, 2024
+---
+# Cost of Land and Compensation under Workmen's Compensation Act
+
+- Cost of land
+- Any compensation paid or payable to a worker or his kin under the Workmen's Compensation Act, 1923
+
+# Time and Manner of Collection
+
+1. # Payment Deadline
+
+The cess levied under sub-section (1) of Section 3 of the Act shall be paid by an employer, within thirty days of completion of the construction project or within thirty days of the date on which assessment of cess payable is finalized, whichever is earlier, to the Cess Collector.
+2. # Long-term Projects
+
+If the duration of the project or construction work exceeds one year, cess shall be paid within thirty days of completion of one year from the date of commencement of work and every year thereafter at the notified rates on the cost of construction incurred during the relevant period.
+3. # Government Projects
+
+If the levy of cess pertains to building and other construction work of a Government or of a Public Sector Undertaking, such Government or the Public Sector Undertaking shall deduct or cause to be deducted the cess payable at the notified rates from the bills paid for such works.
+4. # Approval Process
+
+For construction work requiring approval by a local authority, every application for such approval shall be accompanied by a crossed demand draft in favor of the Board for an amount of cess payable at the notified rates on the estimated cost of construction.
+5. # Advance Payment Option
+
+An employer may pay in advance an amount of cess calculated on the basis of the estimated cost of construction along with the notice of commencement of work under Section 46 of the Main Act by a crossed demand draft in favor of the Board.
+6. # Adjustments
+
+Advance cess paid shall be adjusted in the final assessment made by the Assessing Officer.
+
+# Transfer of Cess Proceeds to the Board
+
+The proceeds of the cess collected under Rule 4 shall be transferred by such Government office, Public Sector Undertakings, local authority, or Cess Collector, to the Board along with the form of challan prescribed under the accounting procedures of the State.
+---
+# IBC Laws®
+
+# www.ibclaw.in
+
+# 6. Information to be furnished by the employer
+
+- (1) Every employer, within thirty days of commencement of his work of payment of cess, as the case may be, furnish to the Assessing Officer, information in Form I.
+- (2) Any change or modification in the information furnished under sub-rule (1) shall be communicated to the Assessing Officer immediately but not later than thirty days from the date of affecting the modification or change.
+
+# 7. Assessment
+
+- (1) The Assessing Officer, on receipt of information in Form I from an employer shall make a scrutiny of such information furnished and, if he is satisfied about the correctness of the particulars so furnished, he shall make an order of assessment within a period not exceeding six months from the date of receipt of such information in Form I, indicating the amount of cess payable by the employer and endorse a copy thereof to the employer, to the Board and to the Cess Collector and despatch such order within five days of the date on which such order is made.
+- (2) The order shall inter alia, specify the amount of cess due, cess already paid by the employer or deducted at source and the balance amount payable and the date, consistent with the provision of Rule 4, by which the cess shall be paid to the Cess Collector.
+- (3) If on scrutiny of information furnished, the Assessing Officer is of the opinion that employer has under calculated or miscalculated the cost of construction or has calculated less amount of cess payable, he shall issue notice to the employer for assessment of the cess.
+- (4) On receipt of such notice the employer shall furnish to the Assessing Officer a reply together with copies of documentary or other evidence in support of his claim, within fifteen days of the receipt of the notice: Provided that the Assessing Officer may, in the course of assessment, afford an opportunity to the assessee to be heard in person, if he so requests to substantiate his claim.
+- (5) If the employer fails to furnish the reply within the period specified under sub-rule (4), or where an employer fails to furnish information in Form I, the Assessing Officer shall proceed to make the assessment on the basis of available records, and other information incidental thereto.
+- (6) The Assessing Officer may, at any time while the work is in progress, authorise such officer to make such enquiry at the work site or from documentary evidence or in any other manner as he may think fit for the purpose of estimating the cost of construction as accurately as possible.
+
+# 8. Return of overpaid cess
+
+- (1) Where the Assessing Officer has passed an order of assessment and the employer decides to withdraw from or foreclose the works or modifies the
+---
+# Segment 1: Revision of Assessment Order
+
+- When an employer has reduced the cost of construction or stopped work, they can seek a revision of the assessment order by submitting Form II to the Assessing Officer.
+- The Assessing Officer must revise the assessment order within thirty days of receiving the information in Form II.
+- After the revision, the Assessing Officer will send a copy of the revised assessment to the Board or Cess Collector for refunding any excess cess.
+- The Board must refund the specified amount to the employer within thirty days through a demand draft.
+- If the Appellate Authority reduces the amount of cess, the refund will be made as per the authority's specified timeline.
+
+# Segment 2: Exemption
+
+- Employers seeking exemption under Section 6 of the Act must apply to the Director-General of Labour Welfare, Ministry of Labour, Government of India.
+- The application should include details of works undertaken, names of applicable laws, amount of cess paid, and proof of payment.
+- A copy of the application must be sent to the Assessing Officer and the relevant board.
+- The Central Government may request a report from the State Government before deciding on the exemption.
+- If granted, the exemption order will be published in the Official Gazette.
+- Assessment proceedings will be halted for thirty days or until the Central Government's order is received, whichever is earlier.
+
+# Segment 3: Penalty for Non-Payment
+
+- If an employer fails to pay the cess on time or pays less than required, the Assessing Officer will issue a notice.
+- The employer will be considered in arrears and may face a penalty determined by the Assessing Officer.
+- Before imposing a penalty, the employer must be given a chance to explain, and if a valid reason is provided, no penalty will be imposed.
+---
+# Recovery of overdue amount
+
+- For the purpose of recovery of sums due on account of unpaid cess, interest for overdue payment, or penalty under these rules, the Assessing Officer shall prepare a certificate signed by him, specifying the amount due and send it to the Collector of the district concerned who shall proceed to recover from the said employer the amount specified thereunder as if it were an arrear of land revenue.
+
+# Appeal
+
+1. An employer aggrieved by an order of the assessment made under Rule 7 or by an order imposing penalty made under Rule 12 may appeal against such order, within three months of the receipt of such order, to the Appellate Authority.
+2. The appeal shall be accompanied with:
+- the order appealed against;
+- a certificate from the Cess Collector to the effect that the amount of cess or penalty or both, as the case may be, relating to such appeal has been deposited;
+- a fee equivalent to one per cent of the amount in dispute or penalty or both, as the case may be, under such appeal;
+- a statement of points in dispute;
+- documentary evidence relied upon.
+3. On receipt of the appeal, the Appellate Authority may call from the Assessing Officer a statement on the basis of his assessment order appealed against, as such Appellate Authority may consider necessary for the disposal of such appeal.
+4. The Appellate Authority shall give the appellant an opportunity of being heard in the matter and dispose of the appeal as expeditiously as possible.
+5. On being satisfied on the quantum of cess, the Appellate Authority shall confirm the order of the Assessing Officer or if in his opinion the assessment was wrong or on the higher side shall modify the order of assessment or if in his opinion the assessment is on the lower side or if the basis of assessment is wrong, it shall remand back the assessment order to the Assessing Officer along with his observations to rectify the wrong.
+6. An order remanded back under sub-rule (5) shall be disposed of by the Assessing Officer within one month in view of the observation made by the Appellate Authority:
+Provided that if the amount of cess is proposed to be enhanced the assessee shall be given an opportunity of being heard.
+7. No appeal shall lie against the order of the Appellate Authority under this rule.
+8. If the Appellate Authority is of the opinion that the quantum of penalty imposed is on the higher side or not correctly made it shall suitably modify or set aside the order of the Assessing Officer, as the case may be.
+---
+#
+# Document
+
+# Segment 9
+
+- The appeal under this rule shall be disposed of by making a speaking order and a copy of such order shall be sent to each of the appellant, the Assessing Officer and the Board within five days of the date on which such order is made.
+
+# Segment 10
+
+- An order in appeal reducing the amount of cess shall also ask the Board to refund the excess cess.
+
+# Segment 11
+
+- An order in appeal reducing, enhancing or confirming the orders of penalty, as the case may be, shall also specify the date by which the amount of penalty should be paid/refunded.
+
+# Group 19
+
+The Respondent No.1, M/s CG Power and Industrial Solutions Limited (formerly known as M/S Crompton Greaves Limited) entered into a Framework Agreement with UPPTCL for construction of 765/400 KV Substations, at Unnao, Uttar Pradesh.
+
+# Group 20
+
+By a letter No. 130/ESD-765/2/CGL dated 5th March 2010, the Superintending Engineer, UPPTCL, Unnao placed a detailed order on the Respondent No.1 for construction of 765/400 kV Substation at Unnao on single source responsibility turn-key basis. The scope of the work as stated in the said letter was as follows:-
+
+# Scope
+
+- The scope of this contract, hereinafter called “FIRST CONTRACT”, covers all works related to design, engineering, manufacturing, testing at works, supply of all required equipment and material with accessories and auxiliaries, as detailed in Schedule of Quantities & Prices (Annexure-IV) to sub-station site. The scope shall also include supply of any other item necessary for completing the scope of work without any extra cost, if not specified in above Schedule.
+- The “SECOND CONTRACT” shall cover unloading, handling at site, erection, testing and commissioning of all the equipment and material to be supplied by the contractor under first contract and any other work require to complete the scope for commissioning and handing over the entire sub-station.
+- The “THIRD CONTRACT” shall cover all civil works including material to complete the scope for commissioning and hading over of the entire sub-station.
+- The proposed sub-station shall be constructed as per scope of work (Doc. No.017806-47ES-0100) under the technical specification (Volume-II) and the specification drawings enclosed with the REP document.
+- The proposed sub-station will be comprised of following works:
+---
+#
+
+# Document
+
+# Segment Headers
+
+# 1.5.2 400kV switchyard modification
+
+# 1.5.3 Electrical / Mechanical Auxiliaries & other Major Misc. works
+
+# Sub-para 5 of the said letter under the sub-heading “Nature of Contract”
+
+# 21. Framework Agreement Split
+
+# 22. Sub-clause 5 of the said Framework Agreement
+
+# Segment Lists
+
+- 3 nos. spare 765kV bays
+- 2x1000kVA, 33/0/4kV Transformers
+- G Set
+- Air conditioning Plant for each building
+- Lighting system for complete switchyard, buildings, streets and stores etc.
+- SDH communication system & PLCC communication
+- AC & DC Auxiliary Power supply system including Batteries, Battery charges, AC & DC distribution boards
+- Fire Fighting equipment
+- Any other work necessary for completion of sub-station
+
+# Segment KeyValuePairs
+
+Contracts:
+
+- FIRST CONTRACT: “Supply and Delivery of Equipment & Material”
+- SECOND CONTRACT: “Handling, Erection, Testing and Commissioning Works”
+- THIRD CONTRACT: “Civil Works”
+- FOURTH CONTRACT: “Three years O & M”
+
+# Group Sections
+
+# Work Split in Contracts
+
+In terms of the Framework Agreement, the work was split and covered by four separate contracts:
+
+1. Design, engineering, manufacture, testing at works and supply of all required equipment and materials
+2. Erection, testing and commissioning at site including unloading, handling etc.
+3. All civil works including materials for commissioning and handing over of the Substations
+4. Operations and maintenance for three years
+
+# Segment Paragraphs
+
+Under the sub-heading “Nature of Contract”, it was clearly provided that the work for the 765kV sub-stations on single source responsibility, turn-key basis shall be awarded through four separate contracts.
+
+The first and second contracts covered all works other than civil works required to be completed.
+---
+#
+# Document
+
+# Segment 23
+
+- Four separate contracts were executed by and between UPPTCL and the Respondent No.1.
+- Cess under the Cess Act is payable in respect of the Third Contract, covering all civil works.
+- The first and second contracts, which do not involve construction, do not attract cess under the Cess Act.
+
+# Segment 24
+
+The penultimate paragraph of Clause 5 of the said Frame Work Agreement provided:
+
+Nature of Contract
+
+The Contractor shall be fully responsible for the works to be executed under the first three (3) Contracts...
+
+# Segment 25
+
+Total value of First Contract (Supply):
+Rs. 275,093,3042.00
+Total value of Second Contract (Erection):
+Rs. 40,129,510.00
+Total value of Third Contract (Civil):
+Rs. 193,808,465.00
+Total value of Fourth Contract (Operations and Maintenance):
+Rs. 35,737,200.00
+
+# Segment 26
+
+In this context, it would be appropriate to refer to Clause 6 of the letter dated 5th March 2010...
+
+Aggregate Contract Value
+
+The sum of Contract values of first, second, third and fourth Contracts for 765/400kV sub-station at Unnao shall be the aggregate Contract value...
+---
+#
+
+# Document
+
+# Segment 27:
+
+Clause 13 provided that the contract would be governed by the conditions given in the said letter read with:
+
+- (a) Special Conditions of Contract (Annexure-II)
+- (b) General Conditions for supply of Plant & the Execution of work Form-A (Annexure-III)
+- (c) (i) Technical specification as per volume II, III & IV
+- (d) Technical Data Schedule (Guarantee technical particulars, as per volume -V)
+
+# Segment 28:
+
+Clause 1 of the Special Conditions of Contract relating to Scope of Work provided:-
+
+“The scope of work is defined in the technical specification No.017806-47ES -0100 and comprises engineering, procurement and construction of 765/400 kV sub-station at Unnao on a turn-key basis.
+
+The substation includes four (4) separate Contracts which are defined in Clause 3.1 of the Special Conditions of Contract.”
+
+# Segment 29:
+
+Clause 3 of the Special Conditions of Contract relating to Nature of Contracts specifically provides:-
+
+“SCC 3 Nature of Contract
+
+SCC 3.1 The work for the above 765kV sub-stations on single source responsibility, turn-key basis shall be awarded through following four separate contracts:-
+
+- FIRST CONTRACT - “Supply and Delivery of Equipment & Material”
+- SECOND CONTRACT - “Handling, Erection, Testing and Commissioning Works”
+- THIRD CONTRACT - “Civil Works”
+- FOURTH CONTRACT - “Three years O & M”
+
+The first and second Contracts shall cover all works, other than civil works, required to
+
+Print Date: June 6, 2024
+---
+#
+
+# Segment Headers
+
+- complete total scope under these specifications.
+- The first Contract shall cover supply and delivery of all equipments and materials as per Schedule of Prices of respective Contract and any other item required to complete the scope of work for completion of substation including their performance and guarantees.
+- The second Contract shall cover unloading, handling at site, erection, testing and commissioning of all the equipments and materials to be supplied by the Contractor under first Contract and any other work require to complete the scope for commissioning and handing over of the entire substation.
+- The third Contract shall cover all Civil Works including materials to complete the scope for commissioning and handing over of the entire substation.
+- The Contractor shall be fully responsible for timely execution of all the activities under above three (3) Contracts such that the substation is commissioned and handed over within stipulated completion period.
+- The Contractor shall be fully responsible for the works to be executed under first three (3) Contracts and any breach or occurrence or default under one Contract shall automatically be deemed as a breach or occurrence or default of other Contracts giving the Engineer absolute right to take appropriate action under any/all the Contracts including right to recover damages from any/all the Contracts or terminate any/all the Contracts. Any such breach or default or occurrence in any of the Contracts shall not relieve the Contractor of any of his responsibility /obligations under the other contracts and no time extension shall be given to the Contractor on these grounds. The equipment/material to be supplied by the Contractor under the first Contract when installed and commissioned under the second Contract shall give satisfactory performance in accordance with provisions of the Contract. The signing of three (3) separate Contracts shalt in no way dilute the insurance responsibility and obligations of the Contractor.
+- Notwithstanding executing the separate Contracts and breakup of Contract prices the Contracts shall at all times be construed as a single source responsibility assignment, complete project management, overall co-ordination between civil, electrical supply and erection works for timely commissioning of Substation shall be the Contractor’s responsibility.
+- Clauses 3.2, 3.3, 3.4, 3.5 and 8.1 of the Special Conditions of Contract is set out hereinbelow:-
+- SCC 3.2 Vetting of Documents
+- SCC 3.3 Aggregate Contract Value
+
+# Segment KeyValuePairs
+
+- SCC 3.2: The Contractor shall bear all the charges in respect of vetting and execution of Contract documents.
+- SCC 3.3: The sum of Contract Values of first, second, third and fourth Contracts shall be the aggregate Contract value. The limits for quantity variation and penalties for delays shall be 10% of the respective Contract value as under:
+---
+#
+# Document
+
+# Segment 1: SCC 3.4 Quantity Variation
+
+- The quantities of individual works under any of the above Contracts may vary to any extent; however, the total value of such variations shall not exceed 10% of the concerned Contract value.
+- Such variations in quantities/work, under any of the above Contracts, up to 10% of the concerned Contract value shall be allowed by the concerned Engineer of Contract.
+- If such variation is likely to exceed 10% of the Contract value of any Contract, the variation shall be allowed by the concerned Engineer of Contract after taking prior concurrence of competent authority.
+
+# Segment 2: SCC 3.5 Liquidated Damages for Delays in Completion Period
+
+- Damages for delay in completion under clause 32 of Form “A” shall be applicable with the condition that the 'liability of delay' shall be increased from 10% if the transformer for the first phase of Unnao sub-station does not reach the site up to December, 2010.
+- In view of the turn-key nature of the contract, liquidated damages shall be levied only in case of delay on the contractual completion period of that phase of the sub-station.
+
+# Segment 3: SCC 8.1 The prices of imported items
+
+- If any, shall be inclusive of all taxes, duties, license fees, import/custom duties, etc., legally payable.
+- Any such taxes, duties, and levies shall be the Contractor’s account, and no separate claim on this account shall be entertained by the Purchaser.
+
+# Segment 4: Pursuant to the said First Contract (Supply Contract)
+
+- The Respondent submitted two performance bank guarantees on 30th August 2012.
+- Bank guarantee No. 2012/272 issued by Corporation Bank, Mumbai for an amount of Rs.6092783.00.
+- Bank guarantee No.2012/273 also drawn on the Corporation Bank, Mumbai for an amount of Rs.71068130/-.
+
+# Segment 5: Audit Inspection
+
+- There was an audit inspection of the 765 KV Transmission Division, Unnao for the period from April 2012 to April 2016.
+- The audit inspection was conducted by the Audit Officer under the Senior Accountant General during the period from 4th June 2016 to 9th June 2016.
+
+# Segment 6: Labour Cess Issue
+
+- The Accountant General pointed out the lapse on the part of UPPTCL in not deducting labour cess from the bills of the contractor, Respondent No.1.
+- By a letter dated 2nd September 2016, the Executive Engineer of the Petitioner informed Respondent No.1 of the objection raised in the Audit Inspection Report regarding non-deposit of Labour Cess on the First Contract.
+---
+#
+# Document
+
+# Segment 34
+
+- By a letter dated 14th September 2016, the Respondent objected to the imposition of Labour Cess computed at 1% of the total cost of construction, stating that for the purposes of the first contract, the company was not covered under the definition of contractor under the Act. Thereafter, by a letter dated 27th September 2016, the UPPTCL advised the Respondent No.1 to seek opinion of the Labour Commissioner on the applicability of Labour Cess.
+
+# Segment 35
+
+- By a letter dated 14th November 2016, the Respondent No.1 sought the opinion of the Labour Commissioner on the applicability of Labour Cess on the cost of supply of equipment and materials, contending that Labour Cess was not payable under the Cess Act or the BOCW Act on supply of equipment and materials.
+
+# Segment 36
+
+- The Respondents also made representations to the UPPTCL for setting aside the demand for cess alleged to be outstanding, on the ground that the first contract was exempted from cess under the BOCW Act and the Cess Act 1996.
+
+# Segment 37
+
+- UPPTCL did not release the Performance Bank Guarantee of Rs.7 crore odd furnished by the Respondent No.1, to secure recovery of an amount of Rs.2.6 crores towards cess. Later, the Respondent No.1 extended the validity of the bank guarantee until 30th November, 2018, and further extended the bank guarantee till February 2019.
+
+# Segment 38
+
+- In the meanwhile, by a letter dated 1st June 2018, the Superintending Engineer, UPPTCL informed the Respondent No.2 Corporation Bank that consequent upon successful performance of the transformer and isolators supplied by the Respondent No.1, the bank guarantees against the first (supply) contract were partly discharged as detailed in the said letter. The Bank was instructed to retain an amount of Rs.2,60,68,814/- from BG No. 2012/2 dated 30.8.2012 of Rs.7,10,68,130/- and issue an amended Bank Guarantee extending its validity.
+
+# Segment 39
+
+- By a letter dated 29th December 2018, the Superintendent Engineer of the UPPTCL requested the Executive Engineer, Unnao to recover labour cess for the supply part of the composite contract from the pending bills of the Respondent No.1 and, in case any amount still remained outstanding, to deduct such amount by encashment of the Performance Bank Guarantee for Rs.2,60,68,814/- held to secure the payment of labour cess.
+
+# Segment 40
+
+- On or about 3rd January 2019, the Respondent filed a Writ Petition M/B No.125 of 2019 before the Lucknow Bench of the Allahabad High Court, challenging the said communications. In or about February 2019, while the writ petition was pending, the Executive Engineer, Unnao purported to deposit Rs.38,38,104/- with the Building and other Construction Workers Welfare Board (BOCWWB) as part payment towards labour cess.
+
+# Segment 41
+
+- By an interim order dated 7th January 2020, the Hon’ble High Court restrained the UPPTCL from encashing the bank guarantee. The question of law as to whether cess would be payable in respect of supply of equipment by the Respondent no.1 to UPPTCL was kept open.
+
+# Segment 42
+
+- UPPTCL filed a Counter Statement to the writ petition and the Respondent filed a Rejoinder thereto contending that the provisions of the BOCW Act were not applicable to the Supply Contract and levy and deduction of labour cess in respect of the Supply Contract, was not permissible in law.
+---
+#
+# Document
+
+# Segment 1
+
+- UPPTCL did not take any objection to the maintainability of the writ petition on the ground of existence of an alternative remedy, as is evident from its Counter Statement/Affidavit filed in the High Court.
+
+# Segment 2
+
+- By the impugned order dated 24th February 2020, the High Court set aside the letters dated 2nd September, 2016 and 29th December, 2018 sent by the Petitioner to the Respondent demanding outstanding labour cess amounting to Rs.2,60,68,814/- computed at the rate of 1% of the contract value.
+
+# Segment 3
+
+- The High Court accepted the submission of the Respondent No.1 that in the absence of levy and assessment under the Cess Act 1996 and the Rules made thereunder, the letters of the UPPTCL were not sustainable in law. Cess could only be recovered in the manner stipulated in the Cess Act and the Rules framed thereunder. The High Court observed that if cess were leviable under the Cess Act, it would be necessary for the concerned authorities to undertake the exercise of assessment and levy of cess under the Cess Act of 1996 as amended, before the same could be realized from a contractor. The High Court found that in the absence of any order for levy and assessment under the Cess Act of 1996 recovery could not be made pursuant to an audit objection of CAG.
+
+# Segment 4
+
+- There does not appear to be any provision in the first contract, second contract, third contract, or fourth contract or in the Special Conditions of Contract or the General Conditions for Supply of Plant and the Execution of work which enables UPPTCL to withhold any amount from the bills raised by the Respondent No.1 on UPPTCL towards any taxes, cess or any other statutory dues of the contractor. Nor has the UPPTCL adverted to any specific provision of the contract which enables UPPTCL to do so. Clause 8.1 of the Special Conditions of Contract relied upon by UPPTCL reads that the prices of imported items, if any, shall be inclusive of all taxes, duties, licence fees, import/customs duties etc. legally payable. Any such taxes, duties levies shall be on Contractor’s account and no separate claim on the Account shall be entertained by the purchaser. This clause does not authorize UPPTCL to deduct taxes etc. from bills.
+
+# Segment 5
+
+- Clauses 24, 25 and 26 of the General Conditions for Supply of Plant and Execution of Works to the UPPTCL provide as follows:-
+
+# Clause 24
+
+- All costs, damages or expenses, which the Purchaser may have paid, for which under the Contract, the Contractor is liable, may be deducted by the purchaser from any money due or which may become due by him to the Contractor under Contract or may be recovered by suit or otherwise from the Contractor.
+
+# Clause 25
+
+- Subject to deduction which the Purchaser may be authorized to make under the Contract or subject to any additions or deductions provided for under Clause 12, the Contractor shall be entitled to payment as follows:-
+
+# Clause 26
+
+- Eight percent of the F.O.R. Contract Value of the plant in rupees on receipt by the Purchaser of the Contractor’s invoice giving the number and date of railway receipt
+---
+#
+# Document
+
+# Segment 1
+
+- covering the dispatch of the plant from the Indian Port and of the advise note giving case number and contents, together with a certificate by the Contractor to the effect that the plant detailed in the said advise note has actually been dispatched under the said railway receipt and that the Contract value of the said plaint so dispatched is not less than the amount entered in the invoice.
+
+# Segment 2
+
+- Ten percent of the F.O.R. Contract value of the plant on satisfactory completion of test an taking over of the plant.
+- Ten percent of the F.O.R. Contract value of the plant at the end of Twelve months from the date of taking over.
+- For the erection of the plant and proportion of the progress of the work on the receipt by the Purchaser of monthly invoices submitted by the Contract supported by the certificates of the Engineer.
+
+# Segment 3
+
+- If at the time at which either of the instalments due under sub-clause (b)and (c) of Clause (1) hereof become payable there are minor defects in the plant which are not of such importance as to affect the full commercial use of the plant then the Purchaser shall be entitled to retain only such part of the instalment then due as represents the cost of making good such minor defects and any sum so retained shall, subject to the provisions of Clause 36, become due upon such minor defects being made good.
+- If the Purchaser desires that the plant or any portion thereof should not be dispatched by the Contractor when it is due for dispatch, the Contractor shall store such plant or portion at his works and be ‘responsible’ for all risk. For such storage the Purchaser shall pay to the Contractor at a rate to be mutually agreed upon between the parties, but not exceeding 5s (five Shillings) per ton per week payable quarterly, plus interest at one percent per annum above the current rate of the State Bank of India on 80% of the Contract value of the plant or portion thereof so stored, for the period from the date on which the said plant or portion becomes, due and is ready for shipment upto the date on which it is actually shipped.
+
+# Segment 4
+
+- In the event of the Supplier/Contractor/Company not being able to supply the materials or to carry out works in accordance with the terms of this Contract, the Government/Purchaser/Owner shall have the right to recover any sum advanced in accordance with the Clause 25 from the Supplier/Contractor/Company and from his/its assets.
+
+# Segment 5
+
+- Provisional Sums:- In any case where the Contract price includes a provisional sum to be provided by the Contractor for meeting the expenses of extra work or for work to be done or materials to be supplied by a sub-Contractor, such sum shall be expended or used, either wholly or in part, or be not used at the discretion of the Engineer and entirely as he may decide and direct. If no part or only a part thereof be used, then the whole or the part not used, as the case may be, shall be deducted from the Contract price. If the sum used is more than such provision, the Contractor shall pay the excess. In the case of the materials supplied or work done by a sub-Contractor, the total of the net sum paid to the sub-Contractor on account of such materials or work and a sum equal to 10 % of such net sum allowed as Contractor’s profit shall be deemed to be sum used. None of the works or articles to which
+---
+#
+
+# Segment 47
+
+It is nobody’s case that Respondent No.1 has committed any breach or default in performance of the First Contract, that is, the Supply Contract, rendering it liable for any damages, costs or expenses. The Respondent No.1 duly discharged its obligations under the First Contract (Supply Contract) to the satisfaction of UPPTCL, and accordingly all payments due to it were cleared. The Performance Guarantees furnished by the Respondent No.1 were also partially discharged except to the extent of covering cess on the First (Supply) contract. This is apparent from the communication of the UPPTCL dated 1st June 2018 to the Bank (Respondent No.2), referred to above.
+
+# Segment 48
+
+As observed above, Clause 8 of the Special Conditions of the Contract merely says that duties, taxes, fees etc. as are legally applicable, shall be paid at actuals by the contractor. This clause does not enable UPPTCL to withhold payments or to realize cess by revocation of a Performance Guarantee.
+
+# Segment 49
+
+In Dewan Chand Builders and Contractors vs. Union of India reported in (2012) 1 SCC 101, this Court examined the object of the BOCW Act of welfare of workers engaged in building and construction work, and held:-
+
+“The background in which the BOCW Act was enacted, is set out in the Statement of Objects and Reasons appended to the Bill preceding its enactment. To better appreciate the legislative intent, it would be instructive to refer to the following extract from the Statement of Objects and Reasons:
+
+It is estimated that about 8.5. Million workers in the country are engaged in building and other construction works. Building and other construction workers are one of the most numerous and vulnerable segments of the unorganized labour in India. The building and other construction works are characterized by their inherent risk to the life and limb of the workers. The work is also characterized by its casual nature, temporary relationship between employer and employee, uncertain working hours, lack of basic amenities and inadequacy of welfare facilities. In the absence of adequate statutory provisions, the requisite information regarding the number and nature of accidents is also not forthcoming. In the absence of such information, it is difficult to fix responsibility or to take any corrective action.
+
+Although the provisions of certain Central Acts are applicable to the building and other construction workers yet a need has been felt for a comprehensive Central Legislation for regulating their safety, health, welfare and other conditions of service.”
+
+A fairly long preamble to the BOCW Act is again indicative of its purpose. It reads thus:
+
+“An Act to regulate the employment and conditions of service of building and other
+
+Print Date: June 6, 2024
+---
+#
+# Document
+
+# Segment 7
+
+- The Statement of Objects and Reasons to the BOCW Act explained that it had been considered ‘necessary to levy a Cess on the cost of construction incurred by the employers on the building and other construction works for ensuring sufficient funds for the Welfare Boards to undertake the social security Schemes and welfare measures.’
+- Simultaneously with the enactment of the BOCW Act, the Parliament enacted the Cess Act. The Statement of Objects and Reasons to the Cess Act noted that the intention was to ‘provide for the levy and collection of a Cess on the cost of construction incurred by the employers for augmenting the resources of the Building and Other Construction Workers’ Welfare Boards constituted by the State Governments under the Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Ordinance, 1995.’
+
+# Segment 8
+
+- It is manifest from the overarching schemes of the BOCW Act, the Cess Act, the Rules made thereunder that their sole object is to regulate the employment and conditions of service of building and other construction workers, traditionally exploited sections in the society and to provide for their safety, health and other welfare measures.
+- The BOCW Act and the Cess Act break new ground in that, the liability to pay Cess falls not only on the owner of a building or establishment, but under Section 2(i)(iii) of the BOCW Act ‘in relation to a building or other construction work carried on by or through a contractor, or by the employment of building workers supplied by a contractor, the contractor.’
+
+# Segment 50
+
+In Lanco Anpara Power Limited v. State of Uttar Pradesh and Reported in (2016) 10 SCC 329, this Court held:-
+
+“37. We now advert to the core issue touching upon the construction of Section 2(1)(d) of the BOCW Act. The argument of the appellants is that language thereof is unambiguous and literal construction is to be accorded to find the legislative intent. To our mind, this submission is of no avail. Section 2(1)(d) of the BOCW Act dealing with the building or construction work is in three parts. In the first part, different activities are mentioned which are to be covered by the said expression, namely, construction, alterations, repairs, maintenance or demolition. Second part of the definition is aimed at those buildings or works in relation to which the aforesaid activities are carried out. The third part of the definition contains exclusion clause by stipulating that it does not include “any building or other construction work to which the provisions of the Factories Act, 1948 (63 of 1948), or the Mines Act, 1952 (35 of 1952), applies”. Thus, first part of the definition contains the nature of activity; second part contains the subject-matter in relation to which the activity is carried out and the third part excludes those building or other construction work to which the provisions of the Factories Act or the Mines Act apply.”
+
+# Segment 51
+
+The clear statutory scheme of the BOCW Act excludes a supply contract from within its ambit. On behalf of the Respondent No.1, it is pointed out that several public authorities and corporations.
+---
+#
+
+# Segment 52
+
+- Under Section 2(g) of the BOCW Act the term ‘Contractor’ means a person who undertakes to produce a given result for any establishment, other than a mere supply of goods or articles of manufacture, by the employment of building workers or who supplies building workers for any work of the establishment and includes a sub-contractor. The Respondent No.1 is apparently not a contractor, within the meaning of Section 2(1)(g) of the BOCW Act in respect of the first, second and fourth contracts. Nor is the Respondent No.1 employer within the meaning of Section 2(1)(i) of the BOCW Act. Section 2(1)(i) of the BOCW Act defines ‘employer’ to include the contractor in relation to a building and other construction work carried on by or through a contractor or by employment of building workers supplied by a contractor. The Respondent No.1 neither falls within the definition of ‘contractor in Section 2(1)(g) nor 2(1)(i)(iii) of the BOCW Act. Apparently, the Respondent No.1 is not liable to cess in respect of the First, Second and Fourth contracts.
+
+# Segment 53
+
+- Cess under the Cess Act read with BOCW Act is leviable in respect of building and other construction works. The condition precedent for imposition of cess under the Cess Act is the construction, repair, demolition or maintenance of and/or in relation to a building or any other work of construction, transmission towers, in relationinter alia to generation, transmission and distribution of power, electric lines, pipelines etc. Mere installation and/or erection of pipelines, equipments for generation or transmission or distribution of power, electric wires, transmission towers etc. which do not involve construction work are not amenable to Cess under the Cess Act. Accordingly no intimation or information was given or any return filed with the Assessing Officer under the Cess Act or the Inspector under the BOCW Act in respect of the First and Second Contracts, either by UPPTCL or by the Respondent No.1.
+
+# Segment 54
+
+- A contractor who enters into a pure Supply Contract is statutorily exempted from levy under the BOCW Act. The Contract in question is a Supply Contract as would be evident from Clause 8.7 of the Special Conditions of Contract which states: "The contract shall be a ‘Divisible Contract’ with single point responsibility, hence no works Contract tax shall be payable and the Purchaser shall not bear any liability on this account."
+
+# Segment 55
+
+- Mr. Ramesh Singh appearing on behalf of the Respondent No.1 submitted and rightly, that the four contracts had been treated as a singular contract solely for the purposes of responsibility for timely execution. For all other intents and purposes, including levy of any tax or fees, the contract for supply was understood by the parties as a separate and distinct contract.
+
+# Segment 56
+
+- Mr. Singh pointed out that as per the terms of payment under Clause 9.1 of the Special Conditions of Contract, the Schedule of Payments were separate for the supply and delivery of equipment and materials, totaling to Rs.275,09,33,042.00 as against the total value of the contract which is Rs.302,06,08,217.00.
+
+# Segment 57
+
+- Mr. Singh argued that the terms and clauses of the contract made it amply clear that the first contract was for supply and delivery of equipment and materials. It was a pure supply contract, separate and distinct from civil works contract. The UPPTCL itself understood the Cess Act as not
+---
+#
+# Document
+
+# Segment 58:
+
+- As argued by Mr. Singh, the judgment of this Court in Lanco Anpara Power Limited v. State of Uttar Pradesh and Other reported in (2016) 10 SCC 329 cited on behalf of UPPTCL is of no assistance to UPPTCL since the issues of whether cess under the Cess Act was leviable on a Supply Contract or whether the cost of construction under Section 3 of the Cess Act read with Rule 3 of the Cess Rules included the cost of supply of equipment were not adjudicated in the aforesaid case.
+
+# Segment 59:
+
+- There can be no comparison between realization of disputed cess by withholding the bills raised by the Respondent No.1 or by invocation of a bank guarantee furnished by the Respondent No.1 after release of payment to the Respondent No.1, and deduction of Income Tax at source which is a statutory obligation of any person making a payment which constitutes ‘income’ under Section 192 of the Income Tax Act, 1961.
+
+# Segment 60:
+
+- As observed above, UPPTCL demanded and partly realized cess on the supply Contract, solely on the basis of report of the CAG. In our considered view, in the absence of any adjudication, it was impermissible for UPPTCL to issue the impugned communication to realize cess solely on the basis of the report of the CAG.
+
+# Segment 61:
+
+- In Centre of Public Litigation v. Union of India reported in (2012) 3 SCC 1, this Court held that when CAG report was subject to scrutiny of the Public Accounts Committee and the Joint Parliamentary Committee, it would not be proper to refer to to findings and conclusions contained therein. In this context, reference may also be made to the decision of this Court in Arun Kumar Agrawal v. Union of India and Others reported in (2013) 7SCC 1.
+
+# Segment 62:
+
+- In Pathan Mohammed Suleman Rehmatkhan v. State of Gujarat and Others reported in (2014) 4 SCC 156, this Court held that the entire case of the petitioner is based on the CAG report and the applicability and the binding characteristics of such report were considered by the High Court.
+---
+#
+
+# Segment 10
+
+The CAG is a key figure in the system of parliamentary control of finance and is empowered to delve into the economy, efficiency and effectiveness with which the departmental authorities or other bodies had used their resources in discharging their functions. The CAG is also the final audit authority and is a part of the machinery through which the legislature enforces the regulatory and economy in the administration of public finance, as has been rightly pointed out by the High Court. But we cannot lose sight of the fact that it is the Government which administers and runs the State, which is accountable to the people. The State’s welfare, progress, requirements and needs of the people are better answered by the State, also as to how the resources are to be utilised for achieving various objectives. If every decision taken by the State is tested by a microscopic and a suspicious eye, the administration will come to a standstill and the decision-makers will lose all their initiative and enthusiasm. At hindsight, it is easy to comment upon or criticise the action of the decision-maker. Sometimes, decisions taken by the State or its administrative authorities may go wrong and sometimes they may achieve the desired results. Criticisms are always welcome in a parliamentary democracy, but a decision taken in good faith, with good intentions, without any extraneous considerations, cannot be belittled, even if that decision was ultimately proved to be wrong.
+
+# Segment 12
+
+Reference in this regard may also be made to the judgment of this Court in Centre for Public Interest Litigation v. Union of India [(2012) 3 SCC 1 : AIR 2012 SC 3725], wherein it was held that when the CAG report is subject to scrutiny by the Public Accounts Committee and the Joint Parliamentary Committee, it would not be proper to refer to the findings and conclusions contained therein. The Court even went on to say that it is not necessary to advert to the reasoning and suggestions made, as well.
+
+# Segment 63
+
+In this Case, there is apparently no dispute, difference or controversy between UPPTCL and the Respondent No.1 as to the true construction, meaning or intent of any part of the conditions of contract or to the manner of execution or the quality or description or payment for the same. Nor is there any dispute as to the true meaning, intent, interpretation, construction or effect of the clauses of contract, specifications or drawings or any of them. UPPTCL has changed its stand only after the CAG report. Cess in respect of the First Contract has been deducted only in view of the audit objection raised by the Office of Comptroller and Auditor General (CAG).
+
+# Segment 64
+
+The initial stand of UPPTCL will appear from the relevant portion of the CAG report reproduced hereinbelow:- "Management stated in its reply that the labour cess from supply bills has not been deducted because there was not involvement of labour in supply of material whereas labour cess has
+---
+#
+# Document
+
+# Segment 65:
+
+- Arbitration Clause:
+
+"Arbitration :- If any dispute, difference or controversy shall at any time arise between the Contractor on the one hand and the U.P. Power Transmission Corporation Limited and the Engineer of the contract on the other hand, the contract, or as to the true construction meaning and intent of any part or condition of, the same or as to the manner of execution or as to the quality or description of, or payment for the same, or as to the true intent, meaning, interpretation, construction or effect of the clauses of Contract, specifications or drawings or any of them, or as to anything to be done, committed or suffered in pursuance of the contract, or specification or as to the mode of carrying the contract into effect, or as to the breach of alleged breach of the contract, or as to any claims on account of such breach or alleged breach or as to obviating or compensating for the commission of any such breach, or as to any other matter or thing whatsoever connected with or arising out of the contract and whether before or during the progress of after the completion of the contract, such question difference of dispute shall be referred for adjudication to the Chairman, U.P. Power Transmission Corporation Limited or to any other person nominated by him in this behalf and his decision in writing shall be final, binding and conclusive. This submission shall be deemed to a submission on arbitration within the meaning of the Indian Arbitration Act, 1940 or any statutory modification thereof The Arbitrator may from time to time with consent of the parties enlarge the time for making and publishing the award. Upon every or any such reference, the cost of an incidental to the reference and award respectively shall be in the discretion of the arbitrator, who shall be competent to determine the amount thereof or direct the same to be taxed as between solicitor and clients or as between party and party and to direct by whom and to whom and in what manner the same shall be borne and paid. Work under the contract shall, if reasonably, possible, continued during the Arbitration proceedings and no payments due to payable by the UPPTCL shall be withheld on account of such proceeding. In case refusal/neglect by such nominee Chairman, UPPTCL may nominate another person in his place."
+
+# Segment 66:
+
+Even though there is an arbitration clause, the Petitioner herein has not opposed the writ petition on the ground of existence of an arbitration clause. There is no whisper of any arbitration agreement in the Counter Affidavit filed by UPPTCL to the writ petition in the High Court. In any case, the existence of an arbitration clause does not debar the court from entertaining a writ petition.
+
+# Segment 67:
+
+It is well settled that availability of an alternative remedy does not prohibit the High Court from entertaining a writ petition in an appropriate case. The High Court may entertain a writ petition, notwithstanding the availability of an alternative remedy, particularly (1) where the writ petition seeks enforcement of a fundamental right; (ii) where there is failure of principles of natural justice
+---
+#
+
+# Document
+
+# Segment 68:
+
+In Harbanslal Sahnia and Ors. v. Indian Oil Corporation Ltd. reported in (2003) 2 SCC 107, this Court allowed the appeal from an order of the High Court dismissing a writ petition and set aside the impugned judgment of the High Court as also the impugned order of the Indian Oil Corporation terminating the dealership of the Appellants, notwithstanding the fact that the dealership agreement contained an arbitration clause.
+
+# Segment 69:
+
+It is now well settled by a plethora of decisions of this Court that relief under Article 226 of the Constitution of India may be granted in a case arising out of contract. However, the writ jurisdiction under Article 226, being discretionary, the High Courts usually refrain from entertaining a writ petition which involves adjudication of disputed questions of fact which may require analysis of evidence of witnesses. Monetary relief can also be granted in a writ petition.
+
+# Segment 70:
+
+In this case, the action of UPPTCL in forcibly extracting building cess from the Respondent No.1 in respect of the first contract, solely on the basis of the CAG report, is in excess of power conferred on UPPTCL by law or in terms of the contract. In other words, UPPTCL has no power and authority and or jurisdiction to realize labour cess under the Cess Act in respect of the first contract by withholding dues in respect of other contracts and/or invoking a performance guarantee. There is no legal infirmity in the finding of the High Court that UPPTCL acted in excess of power by its acts impugned, when there was admittedly no assessment or levy of cess under the Cess Act.
+
+# Segment 71:
+
+Even otherwise, the Cess Act and/or statutory rules framed thereunder prescribe the mode and manner of recovery of outstanding cess under the Cess Act. It is well settled that when statute requires a thing to be done in a particular manner, it is to be done in that manner alone. UPPTCL could not have taken recourse to the methods adopted by it. The impugned communications have rightly been set aside.
+
+# Segment 72:
+
+In our considered opinion, the judgment and order of the High Court impugned does not call for inference under Article 136 of the Constitution of India. The Special Leave Petition is, therefore, dismissed.
+
+# Signatures:
+
+- Justice Uday Umesh Lalit
+- Justice Indira Banerjee
+
+Date: May 12, 2021
+
+Location: New Delhi

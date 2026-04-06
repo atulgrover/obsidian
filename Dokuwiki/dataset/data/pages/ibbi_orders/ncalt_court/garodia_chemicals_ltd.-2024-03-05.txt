@@ -1,0 +1,391 @@
+<html>
+<div>
+	<h2>
+		Garodia Chemicals Limited vs Respondent on 5 March, 2024
+	</h2>
+	<h3>
+		Author: Ashok Bhushan
+	</h3>
+	<h3>
+		Bench: Ashok Bhushan
+	</h3>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL, PRINCIPAL BENCH, NEW DELHI Company Appeal (AT) (Insolvency) No.1682 of 2023(Arising out of Order dated 08.11.2023 passed by the Adjudicating Authority(National Company Law Tribunal), Mumbai Bench-1, in CP(IBPP) No.02 of 2023)IN THE MATTER OF:Garodia Chemicals LimitedAddress: 149/156, Garodia Shopping Centre,Garodia Nagar, Ghatkopar East,Mumbai- 400077 ... AppellantVersus.... ... RespondentPresent:For Appellant: Mr. Abhijeet Sinha, Sr. Advocate with Mr. Saikat Sarkar, Mr. Kunal Kannungo, Ms. Tanushree Sogani and Mr. Atishay Jain, Advocates. JUDGMENT
+	</p>
+	<p title="Issue" data-structure="Issue">
+		ASHOK BHUSHAN, J.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		This Appeal has been filed against the order dated 08.11.2023 passed by National Company Law Tribunal, Mumbai Bench-1, by which CP(IBPP) No.02 of 2023, the Application filed by the Appellant under Section 54C of the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as the "IBC") read with Rule 4 of the Insolvency and Bankruptcy (Pre-Packaged Insolvency Resolution Process) Rules, 2021 has been rejected. The Appellant aggrieved by the order rejecting the Application has come up in this Appeal.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		2. Brief facts necessary to be noticed for deciding the Appeal are:
+	</p>
+	<p title="Issue">
+		Company Appeal (AT) (Insolvency) No.1682 of 2023 1
+	</p>
+	<p title="Issue">
+		(i) The Appellant, a registered MSME, in its Board Meeting dated 09.08.2021 approved filing of an Application for initiation of Pre-Packaged Insolvency Resolution Process as required under Section 54A. Extra Ordinary General Meeting was held on 17.09.2021 for filing an application for initiating Pre-Packaged Insolvency Resolution Process. Written consent was obtained from Insolvency Professionals in Form P1. The Financial Creditor also approved the proposal.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(ii) On 21.08.2023, a Report was also filed by Insolvency Professional. On 12.09.2023, Corporate Debtor filed its Base Resolution Plan before the Adjudicating Authority. On 08.11.2023, the Adjudicating Authority by the impugned order has rejected the Application. Aggrieved by which order, this Appeal has been filed.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		3. We have heard Shri Abhijeet Sinha, learned Senior Counsel for the Appellant.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		4. Learned Senior Counsel challenging the impugned order submits that the Adjudicating Authority committed error in rejecting the Application of the Appellant by entering into adjudication with regard to Base Resolution Plan, which was not the stage for consideration. It is submitted that Application filed by the Appellant under Section 54C was fulfilling all eligibility as provided under Section 54A and Application was complete in all respect. The Adjudicating Authority under Section 54C was only Company Appeal (AT) (Insolvency) No.1682 of 2023 2 required to look into as to whether the Application fulfills eligibility and on the basis of the Application, Adjudicating Authority was to either admit or reject the Application. The question of adjudication of Resolution Plan has to be undertaken at a later stage under Section 54K, on which stage, the Adjudicating Authority has to examine whether Resolution Plan is to be approved or not. At the time of admission of the Application under Section 54C, there was no occasion for entering into Base Resolution Plan. The Adjudicating Authority at the stage of admission has rejected the Base Resolution Plan, which is contrary to the scheme of the IBC. The Adjudicating Authority erroneously returned a finding that Application of the Appellant is not intended towards resolution of the Corporate Debtor and further that the Base Resolution Plan has been devised as a mechanism to circumvent the Securities and Exchange Board of India ("SEBI") Takeover Code. The learned Senior Counsel further submitted that Regulations namely Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 ("SEBI Regulations") has been amended on 31.05.2018, by which a proviso has been added, which exempt from the obligation under the Regulation in case of takeover under a Resolution Plan. Thus, there was no illegality in the Base resolution plan, even on that count. The learned Senior Counsel for the Appellant has also relied on Report of the Insolvency Law Committee on Pre-Packaged Insolvency Resolution Process, July 2021.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		5. We have considered the submission of learned Senior Counsel for the Appellant and have perused the record.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) No.1682 of 2023 3
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		6. Chapter III-A was inserted by Act 26 of 2021 "Pre-Packaged Insolvency Resolution Process". Section 54A provides eligibility of a Corporate Debtor for Pre-packaged Insolvency Resolution Process. Section 54A, provides for necessary eligibilities for filing of Pre-packaged Insolvency Resolution Process Application. Section 54A is as follows:
+	</p>
+	<p title="Analysis of the law">
+		"54A. Corporate debtors eligible for p-packaged insolvency resolution process.
+	</p>
+	<p title="Analysis of the law">
+		(1) An application for initiating p-packaged insolvency resolution process may be made in respect of a corporate debtor classified as a micro, small or medium enterprise under sub-section (1) of section 7 of the Micro, Small and Medium Enterprises Development Act, 2006.
+	</p>
+	<p title="Analysis of the law">
+		(2) Without pjudice to sub-section (1), an application for initiating p-packaged insolvency resolution process may be made in respect of a corporate debtor, who commits a default referred to in section 4, subject to the following conditions, that--
+	</p>
+	<p title="Analysis of the law">
+		(a) it has not undergone p-packaged insolvency resolution process or completed corporate insolvency resolution process, as the case may be, during the period of three years pceding the initiation date;
+	</p>
+	<p title="Analysis of the law">
+		(b) it is not undergoing a corporate insolvency resolution process;
+	</p>
+	<p title="Analysis of the law">
+		(c) no order requiring it to be liquidated is passed under section 33;
+	</p>
+	<p title="Analysis of the law">
+		(d) it is eligible to submit a resolution plan under section 29A;
+	</p>
+	<p title="Analysis of the law">
+		Company Appeal (AT) (Insolvency) No.1682 of 2023 4
+	</p>
+	<p title="Analysis of the law">
+		(e) the financial creditors of the corporate debtor, not being its related parties, repsenting such number and in such manner as may be specified, have proposed the name of the insolvency professional to be appointed as resolution professional for conducting the p-packaged insolvency resolution process of the corporate debtor, and the financial creditors of the corporate debtor, not being its related parties, repsenting not less than sixty-six per cent. in value of the financial debt due to such creditors, have approved such proposal in such form as may be specified:
+	</p>
+	<p title="Analysis of the law">
+		Provided that where a corporate debtor does not have any financial creditors, not being its related parties, the proposal and approval under this clause shall be provided by such persons as may be specified;
+	</p>
+	<p title="Analysis of the law">
+		(f) the majority of the directors or partners of the corporate debtor, as the case may be, have made a declaration, in such form as may be specified, stating, inter alia, that--
+	</p>
+	<p title="Analysis of the law">
+		(i) the corporate debtor shall file an application for initiating p-packaged insolvency resolution process within a definite time period not exceeding ninety days;
+	</p>
+	<p title="Analysis of the law">
+		(i) the p-packaged insolvency resolution process is not being initiated to defraud any person; and (ii) the name of the insolvency professional proposed and approved to be appointed as resolution professional under clause (e);Company Appeal (AT) (Insolvency) No.1682 of 2023 5 (g)the members of the corporate debtor have
+	</p>
+	<p title="Analysis of the law">
+		passed a special resolution, or at least three-fourth of the total number of partners, as the case may be, of the corporate debtor have passed a resolution, approving the filing of an application for initiating ppackaged insolvency resolution process.
+	</p>
+	<p title="Analysis of the law">
+		(3) The corporate debtor shall obtain an approval from its financial creditors, not being its related parties, repsenting not less than sixty-six per cent. in value of the financial debt due to such creditors, for the filing of an application for initiating p-packaged insolvency resolution process, in such form as may be specified:
+	</p>
+	<p title="Analysis of the law">
+		Provided that where a corporate debtor does not have any financial creditors, not being its related parties, the approval under this sub-section shall be provided by such persons as may be specified.
+	</p>
+	<p title="Analysis of the law">
+		(4) Prior to seeking approval from financial creditors under sub-section (3), the corporate debtor shall provide such financial creditors with --
+	</p>
+	<p title="Analysis of the law">
+		(a) the declaration referred to in clause (f) of sub-section (2);
+	</p>
+	<p title="Analysis of the law">
+		(b) the special resolution or resolution referred to in clause (g) of subsection (2);
+	</p>
+	<p title="Analysis of the law">
+		(c) a base resolution plan which conforms to the requirements referred to in section 54K, and such other conditions as may be specified; and
+	</p>
+	<p title="Analysis of the law">
+		(d) such other information and documents as may be specified"
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		7. Sub-section (4) of Section 54A also requires the Corporate Debtor to provide Base Resolution Plan to the Financial Creditor, prior to seeking Company Appeal (AT) (Insolvency) No.1682 of 2023 6 approval from the Financial Creditor. Section 54B, enumerates the 'Duties of insolvency professional before initiation of p-packaged insolvency resolution process'. Section 54C provides for 'Application to initiate p- packaged insolvency resolution process'. Section 54C is as follows:
+	</p>
+	<p title="Analysis of the law">
+		"54C. Application to initiate p-packaged insolvency resolution process.
+	</p>
+	<p title="Analysis of the law">
+		(1) Where a corporate debtor meets the requirements of section 54A, a corporate applicant thereof may file an application with the Adjudicating Authority for initiating ppackaged insolvency resolution process.
+	</p>
+	<p title="Analysis of the law">
+		(2) The application under sub-section (1) shall be filed in such form, containing such particulars, in such manner and accompanied with such fee as may be pscribed.
+	</p>
+	<p title="Analysis of the law">
+		(3) The corporate applicant shall, along with the application, furnish--
+	</p>
+	<p title="Analysis of the law">
+		(a) the declaration, special resolution or resolution, as the case may be, and the approval of financial creditors for initiating p-packaged insolvency resolution process in terms of section 54A;
+	</p>
+	<p title="Analysis of the law">
+		(b) the name and written consent, in such form as may be specified, of the insolvency professional proposed to be appointed as resolution professional, as approved under clause (e) of sub-section (2) of section 54A, and his report as referred to in clause (a) of sub-
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		section (1) of section 54B;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(c) a declaration regarding the existence of any transactions of the corporate debtor that may be within the scope of provisions in respect of avoidance of transactions under Chapter III or fraudulent or Company Appeal (AT) (Insolvency) No.1682 of 2023 7 wrongful trading under Chapter VI, in such form as may be specified;
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(d) information relating to books of account of the corporate debtor and such other documents relating to such period as may be specified.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(4) The Adjudicating Authority shall, within a period of fourteen days of the receipt of the application, by an order,-
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		-
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(a) admit the application, if it is complete; or
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(b) reject the application, if it is incomplete:
+	</p>
+	<p title="Analysis of the law">
+		Provided that the Adjudicating Authority shall, before rejecting an application, give notice to the applicant to rectify the defect in the application within seven days from the date of receipt of such notice from the Adjudicating Authority.
+	</p>
+	<p title="Analysis of the law">
+		(5) The p-packaged insolvency resolution process shall commence from the date of admission of the application under clause (a) of sub-section (4)."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		8. The psent is a case where Application filed by the Appellant is rejected under Section 54C. When we look into sub-section (4) of Section 54C, it provides that Adjudicating Authority shall, within a period of fourteen days of the receipt of the Application, by an order - (a) admit the application, if it is complete; or (b) reject the application, if it is incomplete. Further, the proviso provides that the Adjudicating Authority shall, before rejecting an Application, give notice to the Applicant to rectify the defect in the Application within seven days. The Adjudicating Authority in the impugned order itself has noticed the details of the Application and Company Appeal (AT) (Insolvency) No.1682 of 2023 8 statutory compliances of the Application. In paragraph 10 to 15 of the order, the Adjudicating Authority has itself noticed the statutory compliance, which are as follows:
+	</p>
+	<p title="Analysis of the law">
+		"10. The Corporate Debtor is a duly registered MSME (Micro, Small &amp; Medium Enterprise) under the MSME Development Act, 2006 in the category "Micro Enterprise"
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		and the copy of the UDYAM (Udyog Aadhar Memorandum) Registration Certificate dated 29.07.2020 is annexed as Annexure D with the Petition. The Corporate Debtor is eligible to file this Petition as per Section 54A(l) of the Code.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		11. A copy of the special resolution by the Members of the Corporate Debtor to initiate the PPIRP under Section 54A(2)(g) of the Code was passed on 17.09.2021 and the same is annexed as Annexure F with the Petition.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		12. A copy of the declaration given by majority of the directors of the Corporate Debtor pursuant to their meeting on 09.08.2021 as per Section 54A (1) (f) of the Code in Form P6 is annexed as Annexure B with the Petition.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		13. The Financial Creditor i.e. M /s. WZ Enterprises Private Limited holding 100% voting share has approved the decision of the directors to file this Petition as contemplated under Section 54A(3) of the Code after considering the formalities completed by the Corporate Debtor including submission of Base resolution Plan. The Form P4 duly signed by the authorised signatory of WZ Enterprises Private Limited along with Form P2 is annexed as Annexure G &amp; J with the Petition.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		14. The Financial Creditor approved the appointment of Insolvency Professional, Manish Motilal Jaju having Registration No. IBBI/ IPA-001/IP-P00034/2016-17 /10087, holding AFA Certificate No. AA1 / 10087/ Company Appeal (AT) (Insolvency) No.1682 of 2023 9 02/170124/ 105393 email: mmjaju76@gmail.com and the proposed Insolvency Professional has filed his written consent in form P1. It is annexed as Annexure H with the Petition, thereby complying with the provisions of Section 54A(2)(e) of IBC, 2016 read with Regulation 14(5) of IBBI (Pre- packaged Insolvency Resolution Process) Regulations, 2021. The said Insolvency Professional is proposed to be appointed as Resolution Professional to conduct the PPIRP and to discharge duties before initiation of PPIRP. The resolution for appointment of Insolvency Professional was voted by 100% vote.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		15. The Resolution Professional's Report dated 21.08.2023 under Section 54B (l)(a) of the Code read with Regulation 17 of IBBI (Pre-packaged Insolvency Resolution Process) Regulations, 2021 in Form-P8 is annexed as Annexure Q with the Petition."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		9. In paragraph 16 of the impugned order, the Adjudicating Authority has noticed the 'Compliance with Provisions of Section 54C'. Paragraph 16 of the order is as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"16. Compliance with Provisions of Section 54C a. The declaration regarding non-existence of avoidance transactions relating to the company and its directors as per Section 54C(3)(c) of the Code read with Regulation 16(2) of IBBI (Pre-packed Insolvency Resolution Process) Regulations, 2021 in Form P7, is annexed as Annexure P with the Petition.
+	</p>
+	<p title="Precedent Analysis">
+		b. The affidavit stating that the Corporate Debtor is eligible under Section 29A of IBC, 2016 to submit Resolution Plan has also annexed as Annexure O with the Petition as an affidavit dated 23.01.2023, thus Company Appeal (AT) (Insolvency) No.1682 of 2023 10 complying with the provisions of Section 54A(2)(d) of the Code.
+	</p>
+	<p title="Precedent Analysis">
+		c. The Corporate Debtor has also annexed the audited financial statements of the company for the Year 2021-2022 and 2022- 2023 and provisional financial statements as on 17.08.2023 which are annexed as Annexures M &amp; N with the Petition, thus complying with the provisions of Section 54C(3)(d) of the Code.
+	</p>
+	<p title="Precedent Analysis">
+		d. The Corporate Debtor has furnished name of Insolvency Professional to be appointed as Resolution Professional as per the provision of Section 54C(3)(b) of the Code and the consent of such Insolvency Professional has also been filed."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		10. The Adjudicating Authority itself, thus, noticed in above paragraph that Application filed by the Appellant under 54C fulfils all necessary compliances as required by Section 54A and 54B. The Adjudicating Authority even after noticing the necessary compliances has rejected the Application, for the reasons as noticed in paragraphs 20 and 21, which are as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"20. On perusal of Financial Statements, it is seen that the Corporate Debtor has reported Nil Revenue in the Financial Year ended on 31st March, 2021, 31st March, 2022 and 31st March 2023. Further, these Financial Statements indicate that the Corporate Applicant owes mainly to the related parties and M/s WZ Enterprises Private Limited. It is further seen that the Base Resolution Plan has been submitted jointly in consortium by M/s Garodia Chemicals Limited through Mr. Mahesh Gordhandas Garodia and Mr. Ravindra Subhash Salunkhe who is a director of M/ s WZ Enterprises Private Limited. The Base Resolution Plan contemplates write off of 100% promoter shareholding and 12/13 of Company Appeal (AT) (Insolvency) No.1682 of 2023 11 public shareholding. The Plan further contemplates that (a) the Compliances pscribed under Section 61, 66 of the Companies Act, 2013 and Regulation 37 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and Regulation 31A of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and SEBI (SAST) Regulations and any other applicable laws and Regulations shall be dispensed off in implementing this plan; (b) The Approval of Resolution Plan shall be deemed approval as specified above in point XII (1 to 12) as required under the Companies Act, 2013, SEBI (LODR) .. Regulations, 2015, SEBI (!CDR) Regulations, 2011, and any other applicable laws, rules, Regulations, and schedule etc. In other words, the Plan seeks exemption from compliance to SEBI Takeover Regulations.
+	</p>
+	<p title="Precedent Analysis">
+		21. From these facts we find that psent application is not intended towards resolution of the Corporate Debtor but is an attempt to circumvent the Takeover Regulations of SEBI by bringing M/ s WZ Enterprises Private Limited in control in place of existing promoter group led by Mr. Mahesh Gordhandas Garodia. The fact of the payments towards listing fees and NSDL charges made by M/s WZ Enterprises Private Limited immediately prior to filing of this Application, no business carried out by the Corporate Debtor in the last 3 years as discernible form NIL revenue reported in the Audited Financial Statements and the director of such enterprise being one of the joint Resolution Applicants to infuse Resolution money under the Base Resolution Plan, we feel that the Base Resolution Plan has been devised as a mechanism to transfer control to Mr. Ravindra Subhash Salunkhe of a listed entity which would have otherwise attracted the rigor of the SEBI Takeover Code in respect of acquisition of shareholding in a listed entity beyond the specified threshold limit. The legislative intent behind the introduction of PPIRP in the Code was to provide an alternative process for resolution of distress of corporate MSMEs due to their unique nature of business and simpler corporate structures. PPIRP is built on trust and honors the honest MSME owners by enabling resolution when the company remains with them. Accordingly, we are of considered Company Appeal (AT) (Insolvency) No.1682 of 2023 12 view that the Application by Corporate Applicant for a purpose other than its resolution cannot be maintained even under Sec. 54 (C) in the garb of Insolvency Resolution Process."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		11. When we look into paragraphs 20 and 21 of the impugned order, there are two main reasons given by the Adjudicating Authority by which the application has been rejected are:
+	</p>
+	<p title="Precedent Analysis">
+		(I) Base Resolution Plan has been devised as a mechanism to transfer control to Mr. Ravindra Subhash Salunkhe of a listed entity (II) Which takeover would have otherwise attracted the rigor of the SEBI Takeover Code in respect of acquisition of shareholding in a listed entity beyond the specified threshold limit.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		12. After making the aforesaid observations and reasons, the Adjudicating Authority further observed that "Accordingly, we are of considered view that the Application by Corporate Applicant for a purpose other than its resolution cannot be maintained even under Sec. 54(C) in the garb of Insolvency Resolution Process". We, thus, need to examine the correctness of the impugned order on the basis of reasons given by Adjudicating Authority for rejecting the Application under Section 54C.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		13. We have already noticed the provisions of Section 54A and 54C, where under Section 54C, sub-section (4), the Adjudicating Authority is required to admit the Application, if it is complete or reject the Application, if it is incomplete. In paragraphs 10 to 16 of the impugned order, the Company Appeal (AT) (Insolvency) No.1682 of 2023 13 Adjudicating Authority itself has noticed that all necessary compliances are fulfilled by the Corporate Debtor in filing Application under Section 54C. Thus, when accordingly to the Adjudicating Authority itself, all necessary compliances have been completed by the Corporate Applicant, whether the Adjudicating Authority could have entered into issue of Base Resolution Plan and reject the Application on the ground that Base Resolution Plan is not acceptable is a question to be answered.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		14. We may first notice the Report of the Insolvency Law Committee on Pre-Packaged Insolvency Resolution Process, July 2021, which dealt with admission of an Application for Pre-packaged Insolvency, has stated following in paragraph 4.8:
+	</p>
+	<p title="Precedent Analysis">
+		"4.8. Once an application for initiating the p-pack process is filed by the corporate debtor, the Adjudicating Authority shall pass an order either admitting or rejecting the application. The Committee discussed that the Adjudicating Authority should analyse if the application is complete and if the corporate applicant has submitted the requisite documents along with the application. Based on the contents of such application, the Adjudicating Authority may assess if the corporate debtor is eligible for the p-pack process and if it has complied with the p-initiation requirements. The Committee discussed that, at this stage, the Adjudicating Authority should take caution to not get into any lengthy or comphensive assessment of the solvency of the debtor or the appropriateness of the base resolution plan. Instead, the focus of the assessment at this stage should be to analyse if sufficient documentation has been provided for establishing that the application is complete. Further, to satisfy itself regarding the eligibility of the corporate debtor, the Adjudicating Authority may rely on the report of the resolution Company Appeal (AT) (Insolvency) No.1682 of 2023 14 professional (see para 3.26.) since she oversees the p-initiation stage as an independently regulated professional.
+	</p>
+	<p title="Precedent Analysis">
+		(emphasis laid)"
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		15. The Insolvency Law Committee Report itself stated that at the time of admission, the Adjudicating Authority has not to enter into "appropriateness of the base resolution plan". When we look into the Scheme of Chapter III-A, the question of approval of Resolution Plan arises under Section 54K, i.e., after constitution of Committee of Creditors ("CoC"). The constitution of CoC is contemplated after commencement of Pre-packaged Insolvency Resolution Process. Section 54-I, which deals with constitution of 'Committee of creditors' is as follows:
+	</p>
+	<p title="Court's Reasoning">
+		"54-I. Committee of creditors.
+	</p>
+	<p title="Court's Reasoning">
+		(1) The resolution professional shall, within seven days of the p-packaged insolvency commencement date, constitute a committee of creditors, based on the list of claims confirmed under clause (a) of sub-section (2) of section 54F:
+	</p>
+	<p title="Court's Reasoning">
+		Provided that the composition of the committee of creditors shall be altered on the basis of the updated list of claims, in such manner as may be specified, and any such alteration shall not affect the validity of any past decision of the committee of creditors.
+	</p>
+	<p title="Court's Reasoning">
+		(2) The first meeting of the committee of creditors shall be held within seven days of the constitution of the committee of creditors.
+	</p>
+	<p title="Court's Reasoning">
+		(3) The provisions of section 21, except sub-section (1) thereof, shall, mutatis mutandis apply, in relation to the committee of creditors under this Chapter:
+	</p>
+	<p title="Court's Reasoning">
+		Company Appeal (AT) (Insolvency) No.1682 of 2023 15 Provided that for the purposes of this sub-section, references to "resolution professional" under sub-sections (9) and (10) of section 21, shall be construed as references to "corporate debtor or the resolution professional".
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		16. Section 54K deals with 'Consideration and approval of resolution plan', which provides as follows:
+	</p>
+	<p title="Precedent Analysis">
+		"54K. Consideration and approval of resolution plan.
+	</p>
+	<p title="Precedent Analysis">
+		(1) The corporate debtor shall submit the base resolution plan, referred to in clause (c) of sub-section (4) of section 54A, to the resolution professional within two days of the ppackaged insolvency commencement date, and the resolution professional shall psent it to the committee of creditors.
+	</p>
+	<p title="Precedent Analysis">
+		(2) The committee of creditors may provide the corporate debtor an opportunity to revise the base resolution plan prior to its approval under sub-section (4) or invitation of prospective resolution applicants under sub-section (5), as the case may be.
+	</p>
+	<p title="Precedent Analysis">
+		(3) The resolution plans and the base resolution plan, submitted under this section shall conform to the requirements referred to in sub-sections (1) and (2) of section 30, and the provisions of sub-sections (1), (2) and (5) of section 30 shall, mutatis mutandis apply, to the proceedings under this Chapter.
+	</p>
+	<p title="Precedent Analysis">
+		(4) The committee of creditors may approve the base resolution plan for submission to the Adjudicating Authority if it does not impair any claims owed by the corporate debtor to the operational creditors.
+	</p>
+	<p title="Precedent Analysis">
+		(5) Where --
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Insolvency) No.1682 of 2023 16
+	</p>
+	<p title="Precedent Analysis">
+		(a) the committee of creditors does not approve the base resolution plan under subsection (4);
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		or
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(b) the base resolution plan impairs any claims owed by the corporate debtor to the operational creditors, the resolution professional shall invite prospective resolution applicants to submit a resolution plan or plans, to compete with the base resolution plan, in such manner as may be specified.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(6) The resolution applicants submitting resolution plans pursuant to invitation under sub-section (5), shall fulfil such criteria as may be laid down by the resolution professional with the approval of the committee of creditors, having regard to the complexity and scale of operations of the business of the corporate debtor and such other conditions as may be specified.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(7) The resolution professional shall provide to the resolution applicants, --
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		(a) the basis for evaluation of resolution plans for the purposes of sub-section (9), as approved by the committee of creditors subject to such conditions as may be specified; and
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(b) the relevant information referred to in section 29, which shall, mutatis mutandis apply, to the proceedings under this Chapter, in such manner as may be specified.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(8) The resolution professional shall psent to the committee of creditors, for its evaluation, resolution plans which conform to the requirements referred to in sub-section (2) of section 30.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No.1682 of 2023 17 (9) The committee of creditors shall evaluate the resolution plans psented by the resolution professional and select a resolution plan from amongst them.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(10) Where, on the basis of such criteria as may be laid down by it, the committee of creditors decides that the resolution plan selected under sub-section (9) is significantly better than the base resolution plan, such resolution plan may be selected for approval under subsection (12):
+	</p>
+	<p title="Analysis of the law">
+		Provided that the criteria laid down by the committee of creditors under this sub-section shall be subject to such conditions as may be specified.
+	</p>
+	<p title="Analysis of the law">
+		(11) Where the resolution plan selected under subsection (9) is not considered for approval or does not fulfil the requirements of sub-section (10), it shall compete with the base resolution plan, in such manner and subject to such conditions as may be specified, and one of them shall be selected for approval under sub-section (12).
+	</p>
+	<p title="Analysis of the law">
+		(12) The resolution plan selected for approval under sub-section (10) or sub-section (11), as the case may be, may be approved by the committee of creditors for submission to the Adjudicating Authority:
+	</p>
+	<p title="Analysis of the law">
+		Provided that where the resolution plan selected for approval under sub-section (11) is not approved by the committee of creditors, the resolution professional shall file an application for termination of the p-packaged insolvency resolution process in such form and manner as may be specified.
+	</p>
+	<p title="Analysis of the law">
+		(13) The approval of the resolution plan under sub-
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		section (4) or sub-section (12), as the case may be, by the committee of creditors, shall be by a vote of not less than sixty-six per cent. of the voting shares, after considering its feasibility and viability, the manner of distribution proposed, Company Appeal (AT) (Insolvency) No.1682 of 2023 18 taking into account the order of priority amongst creditors as laid down in sub-section (1) of section 53, including the priority and value of the security interest of a secured creditor and such other requirements as may be specified.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(14) While considering the feasibility and viability of a resolution plan, where the resolution plan submitted by the corporate debtor provides for impairment of any claims owed by the corporate debtor, the committee of creditors may require the promoters of the corporate debtor to dilute their shareholding or voting or control rights in the corporate debtor:
+	</p>
+	<p title="Analysis of the law">
+		Provided that where the resolution plan does not provide for such dilution, the committee of creditors shall, prior to the approval of such resolution plan under sub- section (4) or sub-section (12), as the case may be, record reasons for its approval.
+	</p>
+	<p title="Analysis of the law">
+		(15) The resolution professional shall submit the resolution plan as approved by the committee of creditors under sub-section (4) or sub-section (12), as the case may be, to the Adjudicating Authority.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Explanation I.--For the removal of doubts, it is hereby clarified that, the corporate debtor being a resolution applicant under clause (25) of section 5, may submit the base resolution plan either individually or jointly with any other person.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Explanation II.--For the purposes of sub-sections (4) and (14), claims shall be considered to be impaired where the resolution plan does not provide for the full payment of the confirmed claims as per the updated list of claims maintained by the resolution professional."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		17. The approval by Adjudicating Authority is contemplated under Section 54L(1), which is as follows:
+	</p>
+	<p title="Conclusion">
+		Company Appeal (AT) (Insolvency) No.1682 of 2023 19 "54L. Approval of resolution plan.
+	</p>
+	<p title="Conclusion">
+		(1) If the Adjudicating Authority is satisfied that the resolution plan as approved by the committee of creditors under sub-section (4) or sub-section (12), as the case may be of section 54K, subject to the conditions provided therein, meets the requirements as referred to in subsection (2) of section 30, it shall, within thirty days of the receipt of such resolution plan, by order, approve the resolution plan:
+	</p>
+	<p title="Conclusion">
+		Provided that the Adjudicating Authority shall, before passing an order for approval of a resolution plan under this sub-section, satisfy itself that the resolution plan has provisions for its effective implementation."
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		18. The statutory Scheme as noted above, clearly indicates that question of approval of Resolution plan is in the domain of CoC, which may approve the Base Resolution Plan or if not satisfied direct the RP to invite prospective Resolution Applicants to submit a Resolution Plan or Plans. Thus, Base Resolution Plan has been given no finality, nor it is a Resolution Plan, which ultimately is required to be approved. Base Resolution Plan can be rejected by the CoC on valid reasons and fresh Resolution Applicants can be invited and approval of the Resolution Plan by Adjudicating Authority arises only after approval of Plan by the CoC under Section 54K. The statutory Scheme as noticed above, thus, clearly indicates that there is no occasion for consideration of Base Resolution Plan at the time of consideration of Application under Section 54C for admission or rejection. In the psent case, the Adjudicating Authority has rejected 54C Application after entering into the merits of the Base Resolution Plan, which is not contemplated by statutory Scheme. The order of Adjudicating Company Appeal (AT) (Insolvency) No.1682 of 2023 20 Authority, thus, rejecting the Application under Section 54C entering into Base Resolution Plan, is thus, contrary to the statutory Scheme of Chapter III-A and on this ground itself the order becomes unsustainable.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		19. We, however, also proceed to examine the reasons given by the Adjudicating Authority. The observations made in the impugned order, indicate that the Adjudicating Authority noticed that under the Base Resolution Plan, the Corporate Applicant is bringing M/s WZ Enterprises Pvt. Ltd. in control in place of existing promoter group. The Base Resolution Plan was filed by Corporate Applicant along with M/s WZ Enterprises Pvt. Ltd. M/s WZ Enterprises Pvt. Ltd. is a Financial Creditor of the Corporate Debtor, who had granted necessary approval to the Application on Pre- packaged Insolvency Resolution Process. Thus, objection of the Adjudicating Authority is that by submitting Resolution Plan, the control of the Corporate Debtor is sought to be handed over to Financial Creditor. The question is as to whether Base Resolution Plan could not have been submitted jointly with M/s WZ Enterprises Pvt. Ltd., since the observation of the Adjudicating Authority is that M/s WZ Enterprises Pvt. Ltd. is being brought in control, in place of the existing promoter group.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		20. Section 54A, sub-clause (4) provides that Financial Creditor be provided with Base Resolution Plan which conforms to the requirements referred to in Section 54K. Section 54K, sub-section (1) provides:
+	</p>
+	<p title="Analysis of the law">
+		"54K (1) The corporate debtor shall submit the base resolution plan, referred to in clause (c) of sub-section (4) of section 54A, to the resolution professional within two days of the ppackaged Company Appeal (AT) (Insolvency) No.1682 of 2023 21 insolvency commencement date, and the resolution professional shall psent it to the committee of creditors."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		21. The first question is as to whether M/s WZ Enterprises Pvt. Ltd. could not have submitted the Base Resolution Plan along with the Corporate Applicant. The issue is squarely answered by provisions of Section 5 sub- section (25), where Resolution Plan has been defined. Section 5, sub- section (25) has been amended by Act 26 of 2021, where Section 54K has also been inserted. Section 5, sub-section (25) as amended by Act 26 of 2021 is as follows:
+	</p>
+	<p title="Conclusion">
+		"5(25) "resolution applicant" means a person, who individually or jointly with any other person, submits a resolution plan to the resolution professional pursuant to the invitation made under clause (h) of sub-section (2) of section 25 2 [or pursuant to section 54K, as the case may be;"
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		22. Thus, Base Resolution Plan can very well be submitted by a Corporate Applicant individually or jointly with any other person. Thus, we do not find any illegality in submission of Resolution Plan by Corporate Applicant along with M/s WZ Enterprises Pvt. Ltd. - the Financial Creditor of the corporate applicant.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		23. Another observation made by the Adjudicating Authority is that psent Application is not intended towards resolution of the Corporate Debtor but is an attempt to circumvent the Takeover Regulations of SEBI by bringing M/s WZ Enterprises Pvt. Ltd. in control. The learned Senior Counsel for the Appellant has also relied on the amendment dated 31.05.2018 in Securities and Exchange Board of India (Substantial Company Appeal (AT) (Insolvency) No.1682 of 2023 22 Acquisition of Shares and Takeovers) Regulations, 2011 ("SEBI Regulations"). By amendment dated 31.05.2018, a proviso has been inserted in Regulation 3, sub-regulation (2), which is as follows:
+	</p>
+	<p title="Petitioner's Argument">
+		"3.I. in regulation 3, in sub-regulation (2), after the proviso and before the explanation to sub-regulation (2), the following proviso shall be inserted, namely,-
+	</p>
+	<p title="Petitioner's Argument">
+		"Provided further that, acquisition pursuant to a resolution plan approved under section 31 of the Insolvency and Bankruptcy Code, 2016 [No.31 of 2016] shall be exempt from the obligation under the proviso to the sub-regulation (2) of regulation 3."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		24. It is clear that the said amendment was brought on 31.05.2018 and the resolution approved under Section 31 has been referred to, at that time Section 54A was not in statute. When an exemption has been granted to the Resolution Plan approved under Section 31 of the IBC, the question whether resolution under Chapter III-A is also covered by proviso, was a question, which was required to be considered. The Adjudicating Authority without adverting to the said amendment has come to the conclusion that the Base Resolution Plan has been devised as a mechanism to transfer control to Mr. Ravindra Subhash Salunkhe of a listed entity, which would have otherwise attracted the rigor of the SEBI Takeover Code. In event the proviso as amended on 31.05.2018 is held to be applicable, definitely then the rigor of the SEBI Takeover Code shall not apply. Hence, the above observation of the Adjudicating Authority is also unsustainable.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		25. The Adjudicating Authority after making the aforesaid observation had jumped on the conclusion that Application by Corporate Applicant has Company Appeal (AT) (Insolvency) No.1682 of 2023 23 been filed for a purpose other than its resolution, which observation become unsustainable due to the reasons as noted above.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		26. In view of the foregoing discussions and conclusions, we are of the view that Adjudicating Authority committed error in rejecting Application filed under Section 54C and the impugned order is unsustainable. In result, we allow the Appeal, set aside the order dated 08.11.2023 passed by the Adjudicating Authority and revive CP(IBPP) No.02 of 2023 to be considered afresh, in view of the fact that admission of the Application was refused contrary to the scheme of IBC. We are of the view that Adjudicating Authority shall consider the Application and pass an order under Section 54C, sub-section (4) expeditiously, pferably within a period of three months from the date when the order is produced before the Adjudicating Authority. Appeal is allowed accordingly.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice Ashok Bhushan] Chairperson [Barun Mitra] Member (Technical) [Arun Baroka] Member (Technical) NEW DELHI 5th March, 2024 Ashwani Company Appeal (AT) (Insolvency) No.1682 of 2023 24
+	</p>
+</div>
+</html>

@@ -1,0 +1,61 @@
+~~NOTOC~~
+
+<WRAP group>
+<WRAP third column> 
+==== Laws ====
+  * [[lexai_datasets:insolvency:laws_insolvency_act:start]]
+  * [[lexai_datasets:insolvency:laws_companies_act:start]] 
+  * [[lexai_datasets:insolvency:laws_arbitration_act:start]] 
+  * [[lexai_datasets:insolvency:laws_commercial_act:start]] 
+  * [[lexai_datasets:insolvency:laws_intl_arbitration:start]] 
+  * [[lexai_datasets:insolvency:laws_mediation_act:start]] 
+  * [[lexai_datasets:insolvency:laws_negotiable_instrument:start]] 
+  * [[lexai_datasets:insolvency:laws_sarfaesi_act:start]] 
+  * [[lexai_datasets:insolvency:laws_recovery_debt:start]] 
+  * [[lexai_datasets:insolvency:laws_sebi_act:start]] 
+  * [[lexai_datasets:insolvency:laws_contract_act:start]] 
+  * [[lexai_datasets:insolvency:laws_pmla_act:start]] 
+  * [[lexai_datasets:insolvency:laws_partnership_act:start]] 
+  * [[lexai_datasets:insolvency:laws_llp_act:start]] 
+  * [[lexai_datasets:insolvency:laws_esi_act:start]] 
+  * [[lexai_datasets:insolvency:laws_pf_act:start]] 
+  * [[lexai_datasets:insolvency:laws_rera_act:start]] 
+  * [[lexai_datasets:insolvency:laws_sale_of_goods_act:start]] 
+  * [[lexai_datasets:insolvency:laws_tpa_act:start]] 
+  * [[lexai_datasets:insolvency:laws_limitation_act:start]] 
+  * [[lexai_datasets:insolvency:laws_msme_act:start]] 
+  * [[lexai_datasets:insolvency:laws_data_protection_act:start]] 
+
+
+</WRAP>
+
+<WRAP third column>
+
+==== Judgements ====
+  * [[lexai_datasets:insolvency:orders_supreme_court:start]]
+  * [[lexai_datasets:insolvency:orders_high_court:start]]
+  * [[lexai_datasets:insolvency:orders_nclat_court:start]]
+  * [[lexai_datasets:insolvency:orders_nclt_court:start]]
+  * [[lexai_datasets:insolvency:orders_drat_court:start]]
+  * [[lexai_datasets:insolvency:orders_drt_court:start]]
+  * [[lexai_datasets:insolvency:orders_ibbi_court:start]]
+  * [[lexai_datasets:insolvency:orders_iparvo_court:start]]
+  * [[lexai_datasets:insolvency:orders_other_court:start]]
+
+</WRAP>
+
+<WRAP third column>
+
+==== Articles ====
+  * [[lexai_datasets:insolvency:orders_supreme_court:start]]
+  * [[lexai_datasets:insolvency:orders_high_court:start]]
+  * [[lexai_datasets:insolvency:orders_nclat_court:start]]
+  * [[lexai_datasets:insolvency:orders_nclt_court:start]]
+  * [[lexai_datasets:insolvency:orders_drat_court:start]]
+  * [[lexai_datasets:insolvency:orders_drt_court:start]]
+  * [[lexai_datasets:insolvency:orders_ibbi_court:start]]
+  * [[lexai_datasets:insolvency:orders_iparvo_court:start]]
+  * [[lexai_datasets:insolvency:orders_other_court:start]]
+
+</WRAP>
+</WRAP>

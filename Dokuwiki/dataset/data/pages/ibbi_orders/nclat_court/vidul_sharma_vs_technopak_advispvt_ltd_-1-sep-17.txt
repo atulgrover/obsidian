@@ -1,0 +1,28 @@
+<html>
+<div>
+	<h2>
+		National Company Law Appellate Tribunal
+	</h2>
+	<h2>
+		Ms. Vidul Sharma vs M/S. Technopak Advisors Pvt. Ltd on 1 September, 2017
+	</h2>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI Company Appeal (AT) (Insol.) No. 131 of 2017IN THE MATTER OF:Ms. Vidul Sharma ...AppellantVs.M/s. Technopak Advisors Pvt. Ltd. ...RespondentPresent: For Appellant:- Mr. Alok Kumar and Mr. Abhishek Paruthi, Advocates. For Respondent:- Mr. Shambhu Sharan and Mr. Shashaank Bhansali, Advocates. ORDER
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		01.09.2017- Admittedly, the Salary, Gratuity and Provident fund of the appellant has been paid before admission of the application under section 9 of the Insolvency and Bankruptcy Code, 2016. It is also not in dispute that the provident fund amount and gratuity have been paid along with interest.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		Ld. Counsel appearing on behalf of the respondent submits that after payment, the disputed claim is only Rs.58,264.02/-. This is also clear from impugned order.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		In the circumstances, as the amount is less than Rupees One lakh, in view of Section 4 of Insolvency and Bankruptcy Code, the application is not maintainable.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		For the reasons aforesaid, we are not inclined to interfere with the impugned order dated 271h June, 2017 passed by Learned Adjudicating Authority, Principal Bench, New Delhi in Company Petition No. (IB) No. -2- 53(PB)2017. The appeal is dismissed. However, in the facts and circumstances, there shall be no order as to costs.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		(Justice S.J. Mukhopadhaya) Chairperson (Balvinder Singh) Member(Technical) ax
+	</p>
+</div>
+</html>

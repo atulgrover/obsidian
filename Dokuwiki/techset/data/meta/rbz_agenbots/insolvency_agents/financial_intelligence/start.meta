@@ -1,0 +1,14 @@
+a:2:{s:7:"current";a:10:{s:12:"plugin_const";a:1:{s:10:"invalidate";b:0;}s:4:"date";a:2:{s:7:"created";i:1762780452;s:8:"modified";i:1763049689;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:9:{s:4:"date";i:1763049689;s:2:"ip";s:11:"49.43.111.6";s:4:"type";s:1:"E";s:2:"id";s:59:"rbz_agenbots:insolvency_agents:financial_intelligence:start";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:150;s:4:"mode";s:4:"page";}s:11:"contributor";a:1:{s:5:"admin";s:11:"Atul Grover";}s:8:"relation";a:2:{s:10:"references";a:8:{s:105:"rbz_agenbots:insolvency_agents:financial_intelligence:financial_analysis:financial_statement_analyzer_fsa";b:1;s:97:"rbz_agenbots:insolvency_agents:financial_intelligence:financial_analysis:credit_risk_profiler_crp";b:1;s:101:"rbz_agenbots:insolvency_agents:financial_intelligence:financial_analysis:cash_flow_stress_tester_cfst";b:1;s:109:"rbz_agenbots:insolvency_agents:financial_intelligence:financial_analysis:insolvency_probability_predictor_ipp";b:1;s:102:"rbz_agenbots:insolvency_agents:financial_intelligence:valuation_recovery:asset_valuation_optimizer_avo";b:1;s:100:"rbz_agenbots:insolvency_agents:financial_intelligence:valuation_recovery:debt_recovery_simulator_drs";b:1;s:102:"rbz_agenbots:insolvency_agents:financial_intelligence:valuation_recovery:market_benchmarking_agent_mba";b:1;s:108:"rbz_agenbots:insolvency_agents:financial_intelligence:valuation_recovery:distribution_maximization_agent_dma";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:461:"II. Financial Intelligence Division
+AI agents for analysis, valuation, forecasting, and optimization.
+
+	* Financial Analysis Cluster
+		* Financial Statement Analyzer (FSA)
+		* Credit Risk Profiler (CRP)
+		* Cash Flow Stress Tester (CFST)
+		* Insolvency Probability Predictor (IPP)
+
+	* Valuation & Recovery Cluster
+		* Asset Valuation Optimizer (AVO)
+		* Debt Recovery Simulator (DRS)
+		* Market Benchmarking Agent (MBA)
+		* Distribution Maximization Agent (DMA)";}s:5:"title";N;}s:10:"persistent";a:6:{s:12:"plugin_const";a:1:{s:10:"invalidate";b:0;}s:4:"date";a:2:{s:7:"created";i:1762780452;s:8:"modified";i:1763049689;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:9:{s:4:"date";i:1763049689;s:2:"ip";s:11:"49.43.111.6";s:4:"type";s:1:"E";s:2:"id";s:59:"rbz_agenbots:insolvency_agents:financial_intelligence:start";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:150;s:4:"mode";s:4:"page";}s:11:"contributor";a:1:{s:5:"admin";s:11:"Atul Grover";}}}

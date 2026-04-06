@@ -1,0 +1,566 @@
+# Workshop | Insolvency Resolution for FSPs and Decoding Waterfall Mechanism (Part I)
+![](https://img.youtube.com/vi/oI1lzeInMHs/hqdefault.jpg)
+1 month ago (Jun 4, 2024) — 1:41:16
+[https://youtube.com/watch?v=oI1lzeInMHs](https://youtube.com/watch?v=oI1lzeInMHs)
+
+
+## Summary
+The workshop is focused on understanding the need for a separate framework for financial service providers (FSPs) under the Insolvency and Bankruptcy Code (IBC). The speaker explains that banks, as large financial utilities, cannot be handled through normal insolvency processes due to the large number of creditors and depositors involved. The impact of a banking institution's insolvency can have systemic effects, affecting trust in the system and potentially causing a contagion effect. The speaker then discusses the definition of a corporate person, which excludes FSPs, but notes that the government has the power to modify IBC procedures for FSPs through Section 227. The section was operationalized in May 2018, and the government has since rolled out rules for insolvency resolution and liquidation of FSPs, excluding banks. The speaker raises a question about the lack of regulations for insolvency of financial institutions in the IBC.
+
+## Completely participative hope all of you agree, right?
+0:00
+Completely participative hope all of you agree, right? I didn't hear any voice. Yes, sir, so my humble request would be: let's be very participative and keep on asking, sharing thoughts among each other, so that we make the session interesting learning and we can build on it. So what I'm going to do is: I'm just sharing my screen and once you say that yes, my screen is visible to you, I would go ahead. 
+
+0:47
+Is my screen visible? Yes, sir, yes, all right. So today evening what we are going to do today is we are recapping and relearning our understanding around financial service providers, and I would keep the session conversation two way, because I'm dealing with my peers in multiple professions, Al together, and it has to be exchange of ideas along with learning. 
+
+1:29
+So the first and foremost thing that comes to my mind when I start a session, that what is the need of a financial service providers having a separate domain for insy? That is the first question that comes to my mind and I would like to hear, might be from all of you, or might be from some of you. What are your thoughts around it? Let's discuss the conversion. Let's open the floor first. 
+
+
+## IBC: A Preamble of IBC
+2:07
+Yeah, any volunteer, or should I name Mr sanay? Mr Sanjay Katan, would you like to share your thoughts on that? Hope, guys, I am audible, right? Yes you're a so okay, so let me let me just start that so, before we further move into this, is our lovely Preamble of IBC, which I used to show you know, and developing entrepreneurship always is a for of IBC, and that's why the keep on studying and experimenting with IBC on day and day long. 
+
+3:06
+What we will discuss our topic today that we are going to deliberate is a very smaller one with a very wide impact is very wi spre. So we would be talking about some of the definitions here very briefly, and then we would be talking about a particular section that you will see in the subsequent slide here. So IBC is divided into five parts. We are not touching other parts. 
+
+3:40
+We are talking about definitions and then we are talking about a specific section dealing with fsp. Now my first task is to make all of us understand very clearly why we need a separate framework for fsps. For that, we need to know who are the fsps. So at this moment we can presume banks are fsp. We'll see much in detail the subsequence site. So what happened? 
+
+
+## Bank of India - What will happen in India?
+4:16
+You know, bank is a big Finance utility for public at large, and whenever you think of or hear of a bank getting ins solent or Bank going into liquidation, it has got a serious impact. One is, you know, large database, large size of depositors. Large quanti of depositors are involved. They become your creditors. A normal procedure will not work for sure, because it will not work for sure. 
+
+4:52
+You need to have a separate regime for financial service provider that is Banker for this particular slide. Now, if a bank just think I wish it should never happen. Just think that somebody say that State Bank of India is going into insolvency. What would happen in the country? It would have a much larger impact than monetization demonetization. You know there would be human and cry all together. Out of 140 crores of people. 
+
+5:27
+I'm sure about 10 crores plus. People have banking relationship with the State Bank of India. What will happen? It would have a Dynam effect. What will impact State Bank of India. It will impact all the ancillary Services related to it. So it become a very scary situation. you have a very system systemic financial sector and then companies which are too big to fail if they collapse. It would have a impact of spreading. 
+
+
+## contagion effect - What people will do if a banking institution fails
+6:03
+It is called contagion effect. It will spread all around. So we need to have control checks and a very specific process of that and on the top of it, if a banking institution fails, what will happen? Will people have trust in the system? Your trust will evate then again. What people will do? They will not keep their deposit with Bankers. 
+
+6:28
+They will tend to go with the local person who are moving around their streets means whole banging sector guarding collapsed. another very important thing is that there's a large number of retail consumers which are involved as a as a financi service Ailers, and those Services would need to be contained if they go for insolvency. So it has a very, very wider impact. 
+
+6:59
+Now on coming to the Creditor side, banks have usually have a much larger creditor numbers and handling those numbers that might run into coros or Millions, I would say is cannot be handled with the normal process of IC that we see in cirp processes or liquidation processes or voluntary liquidation, because they are meant for limited number of creditors, say th000 creditor or 2 000 credit MX. 
+
+
+## What IBC can CER to, but what ibc's general prescription is
+7:30
+That is how the system can CER to, but what ibc's general prescription is it cannot CER to millions or cores of creditors under one umbrella under one scheme of IBC. Certainly normal schemes will not work. So you need a separate framework. So anybody who is having a different argument or point of view that no the normal procedures or noral regime of section 7,9 and 10 would work. Anybody would like to add here? 
+
+8:09
+Anyone hope I'm encouraging you enough to speak up and share your thoughts. Okay, let's move on now before we go into deeper details. We just see a little background around fsp financial service provider. So this is a very favorite term of our. We generally call it CD. who is a CD is a corporate person who owns a debt to any person. Now who is a corporate person. That's where. That's where everything lies. 
+
+8:49
+So I'll just read out the definition for you. Corporate person is a person means a company as defined in section in Clause 20 of section two of companies act 2013, LLP as defined in section subsection of LLP, or any other person Incorporated the limited liability. So there are three things: company LLP and any other entity with a limited liability and the any law enforce but does not include financial service provider. 
+
+
+## Corporate Person IBC excluded financial service provider from it
+9:23
+So by the very basic definition of corporate person, IBC excluded financial service provider from it. That's why we hear in general that nbfcs or stock Brokers cannot be brought into under umbrella of IBC. Now there is a catch. now what is the catches bya indirect method, government applied IBC with lot of modification on financial service provider. How so this is section 227 is the mother section for financial service provider. 
+
+10:07
+This section empowers central government to notify what all financial service sector providers can come under Ambit of IBC. We will see who will advise then who to include who not to include all those things have been empowered by to central government by this particular section of IBC, section 227. We will see this section in much larger details in subsequent slide. 
+
+10:43
+This section empowers government to prescribe that the procedures given in IBC can be applied with as much modification or such modification as are required to meet the very purpose adding to this. We saw this that corporate person has Clues. Excuse me, excuse me. should we continue okay, all right now. This particular section 227 was operationalized on 1st of May 2018. Before that, this section was in court but was not opiz. 
+
+
+## Banks Are Not Covered by IPC
+11:50
+It happened almost after two years of making IVC relevant. After making section 22.227 August central government exercises power on November 15 2019. These dates are very important. We'll see in subsequent slides how these dates become very important and they rolled out under this. Under the powers of section 227 and 239, they rolled out rules for insolvency resolution and liquidation of financial service providers. These rules came into place now. 
+
+12:37
+In the previous slide we spoke about just presume fsps Are banks. But here there's a catch. The rules prescrib very clearly, very sharply, that these rules are not applicable to Banks. it means there's very restricted and limited application of financial service providers under IPC because banks are not covered. Banks are covered by specifically banking regulation act and a wider framework for liquidation or insolvency of banks is yet to be published. So banks are not covered. 
+
+13:20
+There are other than Bank financial service providers are covered. We will see in subse slide. What are those and this? These rules prescribe that what categories of fsps would be notified by central government from time to time and central government has prescribed it also slowly slowly, to my mind, with a country as large as ours. 
+
+
+## Rules: No Regation in IBC, No Regation
+13:48
+Definitely framework given in under Section 227 for limited application is only interim mechanism, is not a full fles solution because it does not deal with banks. It has lot of carriers and it has lot of involvement of regulators. We will see in subsequent stats. Now I have one question for all of you. So far we spoke about rules. We saw a code generally what we see? That in IBC you have regulations Al together. 
+
+14:25
+Surprisingly, there is no regulation on insolvency of financial institute of financial service providers in IBC. There's no regation. Can anybody throw light on it? Why there is no regation? Anyone of you? Guys, we are in Workshop. We have to be participative. Mr Mahesh, you are only visible. Would you like to throw some light? No, sir, please go ahead. sir par, you please go ahead. I want to land because I don't know about this subject. 
+
+15:06
+Okay, all right. So the interesting piece is: Sir, might sir, can I say here something, sir? Yeah, of course, sir, we are here to, as you said, that like these are not applicable to the banks. 
+
+
+## Banking Regulation Act AB: Right thing
+15:19
+So like there's a separate regulation for the bank might be in the thought process of the framers of this rule that, like the respective acts will apply to them or respective regulations will apply to them, and based on that is that the right thing, which I'm saying? Yeah, you are absolutely right from your perspective. So what you are saying is because there is a banking regulation act and IBC does not apply to Banks. 
+
+15:46
+So then there would be procedure under banking regulation AB. absolutely right my point. Yeah. So one more thing like: yeah, so the asset reconstruction companies like, just take an example, if the asset reconstruction company has to go for the CRP process, in that case the respective rules and regulation should be specified in the surfacey to really deal with that and this should be like say must have a connection with the IBC. Something like that. 
+
+16:15
+Not really, because you see, surfacey is a purely recovery mechanism and what we are discussing here is what is the treatment of FS? No, no, just I'll take you to the point. 
+
+
+## Any Arc which goes for the CRP process will be redeemed
+16:28
+Any Arc which goes for the CRP process, like they're failing on that like Sr will be redeemed and other in that case, like if the arc goes for the CRP process under the IBC, in that case they should have a respective regulation specifically mentioned in the say under the G of say the surfacey like then only the things. Yeah, yeah, you are you right, you very close. 
+
+16:55
+So in fact, where I'm driving your attention to is that in IBC who is the regulator who governs everything? You know who has a say. It is ibbi right. It is the insolvency board of India which has a say and all the regulations are generated, drafted, promulgated by ibbi. Am I right? There is no doubt about it. 
+
+17:27
+The beauty of fsp is beauty of financial service providers regime in IBC is that, surprisingly, ibbi have no role to play. I'm repeating, ibbi have no role to play as far as fsp pieces there and therefore there is no regulation. Because ultimately, under IBC, the regulations are given by ibbi and because they don't have a role, they have not given any regulations here. Now why it is so we will see in subsequent slide. 
+
+
+## Why a separate regime for fsps was excluded
+18:06
+But where I'm drawing your attention is, you know, the one of the reasons why perhaps I forgot to share with you when we were discussing this particular slide, that why a separate regime for fsps. You know one of the Hidden thing why from the definition of corporate person fsps were excluded was that perhaps the lawmakers did not want class of regulators. 
+
+18:35
+You know, generally fsps are regulated by multiple Regulators, like Reserve Bank of India, sabii IR. That all we see and they did not want that. IBC is regulated by ibbi and you have two Regulators operating in one regime. What will happen? There would be class of bureaucracy, nothing else and no Solutions will come out. Perhaps this is the reason why fsps at a first place was excluded. 
+
+19:13
+Now you know these rules were notified on 15th of November. Now you see the speed of execution. You have the rules on 15th of November, within 3 days, within 3 days is government came up with a notification in India. Usually this kind of speed is not seen, but there was a particular reason why this all happened. 
+
+
+## ibbi, RBI, ibbi, RBI, ib
+19:43
+I'm sure all of you would have heard one Finance Company, D1 housing and d Housing promoters and management manipulated the fund. Lot of deposits went for it L and then company was in a sudden crisis. At that time all the central government, ibbi, RBI, all wake up and all these things started happening. Just to give you the background. 
+
+20:14
+So on 18th of November, government of India in consultation with in consultation B Reserve Bank of India, so you will see in fsp Reserve Bank of India have a very, very wide role to so they issued a notification. What the notification say? First, that notification said that we are making the new rules to nbfcs. They did not include any other financial service provider. They just said nbfcs. Which kind of nbfcs? 
+
+20:54
+So they said: okay nbfcs, which will include housing sector also. So Housing Finance is also included. What else okay, that nbfc should have asset size of 500 CR or more as per last drawn audited bage. So asset size should be 500 CR or more. If it is less, then no, it cannot be brought into the umbrella of IBC. All right now, who would be the regulator? You could regulator is ibbi. 
+
+
+## How to deal with third party assets
+21:30
+They said no, in this financial service provider case, regulator would be Reserve Bank of India. And third thing is how to deal with the third party assets. Because all the banks nbfcs deal with third party assets. So they said: okay, we will notify it separately and that notification came on 30th January 2020. now we need to discuss a little more, because there is a numerical piece here it say asset site of 500 CR or more. 
+
+22:06
+Now I want to test and see what is the consensus in the house today. When we evaluate this value of 500 CR or more, how you will arrive at that value? What this value is? Can anybody would like to throw light on it? Is it loans and advances, minus deposits? Am I am I making sense? Is it the value of fix assets? What is this asset size of 500 CR or it's Lo ADV? 
+
+22:47
+Yeah, please, this is related to loans and advances only. Is only loans and advances? Yes, so it means if a company, if a nbfc have got a huge asset base right, got a huge asset base, asset means fixed asset base. let's say they have a big building. Also they have a book, big piece of land. Also, do you mean that will not be included here in 500? 
+
+
+## Loans and Advances: What is the business bus?
+23:26
+Yeah, gentlemen, right, we can include that also we need to include, but generally the asset say might be. We will say that's what is the business bus to loans and advances, what the company is having. Yeah, correct, but when it comes to seems to be like the focus is on the financial assets only like loans and advances here. 
+
+23:50
+So they might not have included the land Building or plant Machinery, whatever it is like the fixed assets we are talking about. So it is not like. Thank you for your inputs is not like that. It is aggregate of asset side of balance sheet. so whatever are the total assets has to be considered for 500 crores. It is not net assets. 
+
+24:13
+So my point was that somebody may say: okay, you gave loans of thousand crores, but how you got those crores? You borrowed 800 crores. So your net investment was only 200 cror. So you are not eligible. It's not like the borro. Whatever you have borrowed is what is whatever is your liability has to be excluded, only whatever is your assets. So loans you have granted, assets you have bought, Investments you have placed in Market. 
+
+
+## How to move on if you need to be insolvent
+24:44
+All has to be aggregated to examine whether your asset side is 500 CR or more or less, and accordingly you will move ahead if there is a need of insolvency. As per this notific, all of you agree. all right. Let's move on now as we just discussed. This is only a interim Arrangement under Section 227 is not that government did not did not attempt anything on that. 
+
+25:20
+There was a financial resolution and Deposit Insurance bill in 2017 that was passed, but that bill somehow could not be soon light because of a backlash in Parliament. In this particular Bill, government placed one particular thing that depositors money can be used to settle liquidation claims, and on that opposition parties do not agree, and then this bill was dropped. Then another bill came: fsdr financial sector development regulation resolution Bill. 
+
+26:07
+However, draft of this bill was not available. I don't know why, because currently we are in a phase of new government coming into country and I have not seen from either parties or either political groups that this is on their agenda. But this should be, because this is the need of the hour. 
+
+
+## Government will wake up and this bill would be placed in Parliament
+26:32
+Might be might be after one year, government will wake up and this bill would be placed in Parliament, you know, and then can we can see some light on the insolvency related regulation on banking sector or financial service providers. Now let's see some of the days to just grasp our understanding. Section 22,7 was operationalized on 1st May 2018, after 1 and a half year. 
+
+27:04
+Notification for fsp rules came on 15th November and then on 18th of November, You Got a notification saying what are the fsps? what kind of fsps would be teated at IVs. I just mentioned sometime back to you what triggered it was the one Housing Finance which triggered all these actions. So you see the speed of execution. 
+
+27:32
+On 18th of November you have a notification of financial Serv fsps coming into IBC space and on third in within two weeks, you have a application with NT for given Housing Finance. So you see how was how much a collective effort was done at that time to solve a crisis and then within two months, I would say third party assets handling notification came and then in January 21, you have a resolution plan approved. 
+
+
+## Reon with the Reon Reon case
+28:13
+So generally, if you see, speed of execution in IBC is 3 to 5 years is a general time where, from scratch to end, you have a resolution plan approval in this case that happened within your 18 months. So this is a remarkable case to Reon with. Now we come to the some of the relevant provisions and we will have a little bit questions in between. 
+
+28:45
+At the end of the session we would have a very small case study for all of us to see an answer to see whether you have really understood that understood the concept. So there section 370, which says who are the financial service provider. They say it means is a exhaustive definition. There is no other meaning except this. 
+
+29:12
+That means a person engaged in business of providing Financial Services in terms of authorization issued or registration granted by financial sector regulator. What does it mean that you are providing some Services of Finance but you don't have any authorization? Then you are not providing a financial service. 
+
+
+## Who are the Financial Sector Regulators?
+29:33
+If you have a money lender in your Township or Township area who gives money, he's a financial service provider, but because he has not been approved by a regulator, he will not be covered here, whatever be his size. Now who are the financial sector Regulators? This definition is again exhaustive means an authority body constituted under law and includes so. They have given instances. These are the four ones, and other ones can be notified later. 
+
+30:06
+Who are the four ones are Reserve Bank of India, which generally takes care of banking sector and non banking nbfc sector Sai. This takes care of your stock market Insurance Regulatory and Development Authority, which takes care of your insurance business native and pension fund regulator Authority, which takes care of NPS and the pension programs. So these are the four broader Regulators you know. 
+
+30:38
+In a nutshell, in a Layman way, we can say I would say we can say is not firm truth that entities which are regulated by these four Regulators are not within Ambit of IBC. As I said, there are exceptions because we have to read the law between the lines. We will see how, but this is a general understanding even of the course. We will see how. 
+
+
+## Financial Services: What are those Financial Services?
+31:05
+All right now this is the most critical definition to understand what fsps are. So these are Financial Services. What are those financial services? Section 316 defines that. What I have done. I have just tabulated it so accepting our deposits, Banks deposit taking nbfcs, hfcs. Now my question to you is as for this def, if a nbfc is not taking deposit, will it be Financial Services? Will it be excluded? 
+
+31:47
+I open the forum for all of you, please your point of view. Mr Raji, would you like to throw some light on this? Should I repeat the question? It says the red one already have included in the red one includes Section 3. Subsection 30 defines the term Financial Services as Financial Services includes so accepting of if you are not accepting deposit. 
+
+32:27
+Also, we can not say that this is not a financial service provided because this is so. You raised a very valid point and that compels me to come to a additional slide for you. I would like to invite your attention on the bullet point two. So the section 316 is operated by rule of em generis. 
+
+
+## Financial Services: What does it mean?
+32:54
+It means Services must be of same nature, of kind to be enlisted in section 316 to be considered at Financial Services. What does it mean there? It is written. Accepting deposits you may say is not written. You are not accepting deposit. That is not a financial services is not equal. So accepting deposits alternate of accepting deposit is taking money on interest. Is it is accepted right? 
+
+33:28
+So the rule of adisd generis has to be applied for Section 360. now with this explanation. Let's start the conversation again whether a nvfc which does not take any deposits would be called providing Financial Services or not. As for this definition, and let's presume that other Clauses are also not applicable, let's just focus on the clause a for the conversation. Yes, guys'I just have a question. 
+
+34:09
+So lot of nbfcs they take loan from Banks or financial institutions and then in turn provide loans to correct end users. So in a way it is a public money involved. But applicability of this I'm not clear on. But yes, they in a way are taking public funds correct. So borrowing and taking deposits, accepting deposits would fall into that category. I agree. 
+
+
+## If a nbfc is borrowing money from financial institution, it would be 10.
+34:45
+If a nbfc is borrowing money from financial institution and giving loans, it would be 10. Amount to deposits only is a is a very fair interpretation. You are right, but there may be a situation where nvfc is Rich enough, have got internal resources. They are not borrowing money. They are just granting or might be they are not granted. They have some internal businesses. Only in those cases will it be will the nbfc. 
+
+35:14
+We are not talking other category, so name is non banking finance company. Will that nbfc? It does not take money, nor deposits, nor loans. Will it be classified as provid as Financial Services? So my answer is no. As for this definition is not. However, we'll see in subsequent slide. I have placed my comments at couple of places, even NTS and encl also at various occasions. 
+
+35:46
+Once they hear that the applicant or the person against whom the case has been filed is nbfc, they just don't see anything. They just summarily reject the application because NBF. They say law is not applicable for nbfcs. However, this is not right. This is not absolutely right. Only those nbfcs which are accepting deposits are called financial service providers. If you are nbfc, it does not accept deposit. You are a normal. 
+
+
+## NB FCS is governed by fsp regulations
+36:20
+The fsp regulations are not applicable and now recently some of the NTS have taking cogniance of that and they have started giving treatment as nbfc which is not a fsp, and they have accepted the application. This is the latest development of that. okay. Now, moving on, if you are a depositary, then is a financial service. If you do contract of insurance, you are insurance company, so you are a financial service. 
+
+36:55
+If you are a custodian of asss of other person, then again your investment manager is a financial service. And similarly, you know you have stock Brokers, investment advisors, intermediaries, Collective investment regist Underwriters. All these people are providing financial services and they are governed by fsp. But the beautiful thing is out of all, only NB FCS have been notified to be covered under IBC. 
+
+37:34
+All other, all other financial service providers, whatever we are seeing, are not within Ambit of IBC. Therefore, let's say you have a stock broker and you sell your shares. You sold your shares and the value of your share is, say, 5 rupes. somehow your stock broker does not give you that money. You say dues are more than one CR. 
+
+
+## IBC: What is the best remedy for stock broker?
+38:08
+Then let me go to section seven and file an file a case whether it would be accepted. Answer is no, it will not be accepted. When you go to the court, NT will say the stock broker. Stock broker is governed by s and is a financial service provider. Because a financial service provider is not covered in definition of corporate person and there is no separate notification on that. 
+
+38:39
+Therefore, application under Section 7 is dis summarily dismissed. Now your question can be what will happen. So what we are talking is remedes under the IBC. It does not mean that whole word has gone wrong. There are all other remedies available to you. the best remedy is that instead of reaching out to IBC, you file a complaint with the Sai stock Brokers. 
+
+39:10
+Keep a decent deposit with their stock exchanges and those deposits are maintained for the security of investors. From that deposit you will get your money and stock broker would be penalized. So when we say these people excluded from fsp, it does not mean that heaven has fallen here. What is there is only that IBC will not be IBC procedures will not be applicable. All other remedies available on the planet would be available. 
+
+
+## Non Deposit taking nvfc should not be considered as Financial Service provider
+39:46
+You are a credit card provider or prepaid instrument provider. That is also covered here, and this definition is inclusive. It means a similar Services, a similar Services happens, which can be presumed to be included in the definition of financial services. Now, I have just spoken about it. I'm just is stated again in the slide. We just spoke on that. That is my view that non deposit taking nvfc should not be considered as Financial Service provider. 
+
+40:30
+All right ntps we already discussed. Now some of the NBCS have started taking cence of this and they are accepting it as a non fsp and going ahead. So this is section 227 in a broken view. So what we see here is the section 227 is central government in consultation with appropriate FS Financial Service regat what does it mean that central government cannot issue regulation rules in isolation. 
+
+41:07
+If they have to tomorrow identify stock Brokers or depositaries as financial service providers and want to cover an IBC, they have to discuss with sa and after colaborating with SE. Under Guidance with SE only, they can issue direct issue rules on a particular type of fsps to be covered in insolvency liquidation proceedings of under the code. The section 239 Empower central government to make rules section 227 mowers to notify what fsps are there. 
+
+
+## empowering section for rules. Now we come on fsp rules.
+41:50
+This is the empowering section for rules. Now we come on the fsp rules. On 15th November 2019, fsp rules was issued and applied in C. Now these rules would apply. As for the notification for the specific category of fsps, we just spoken Assa by app. Now there's a definition of administrator in IB. see what we see that as a third pillar, as a third pillar of IBC ecosystem. 
+
+42:37
+Insolvency professional play a independent role in the IBC proceedings by becoming a IRP RP Liquidator or bankruptcy trusty. Now on fsp for financial service provider is there is no res? Ution professional. There is no Liquidator. There is a word. Is administrator now who is this administrator? This administrator would act like IRP RP or Liquidator? All right, but who is this administrator? 
+
+43:20
+The beauty is this administrator is someone who is appointed by the regulator, means RBI in case of ences and this person can be anybody. This person need not be a insolvency professional is not a requirement. It can be a bureaucrat. It can be engineer, chartered accountant Finance professional. Anybody can be there. the only thing is it has to be appointed by Reserve Bank of India. 
+
+
+## fsp rewrites, fsp rewrites,
+43:55
+Now modifications, as we see in section 227. This regulation, this fsp piece would be applied with certain modification. So what are the modifications? Wherever word corporate data in the code is there for fsp, it would be replaced by word financial service provider. So when you read IBC for fsp, corporate data means financial service provider. For the expression insolvency professional IRP RP Liquidator, it means administrator. 
+
+44:35
+So all the roles of insolvency professionals gone here and who is the person who is who will take charge and act is administrator? Now under Section seven, a financial creditor can file applications you. One interesting thing is under fsp all the applications are filed with NT. They are presumed to be filed under Section 7. what does it mean that section 9 is not applicable and section 10 is not applicable for addressment. 
+
+45:18
+So insolvency of a nbfc cannot happen because of operational debt and nvfc cannot Su Moto say that I want to go for a self insolvency. So it has to be section 7 application. Now who has to file? Section 7 application is filed by Financial creditor. We all know that. But in case of fsp this it is filed by Reserve Bank of India by the regulator. 
+
+
+## d Housing Finance: How RBI filed application for RBI
+45:47
+So regulator is not a financial Creator, but it would be filed by the regulator. So if I can draw your attention, when we were seeing this case of d Housing Finance, it was RBI versus d Housing Finance, because RBI filed the application. RBI was the applicant, the financial creditor piece. the role of financial creditor was played by rbii because that application has to be filed by RBI only. 
+
+46:18
+Now, under section 14, your moratorium starts when your application is admitted. But here is little different. Your moratorium starts from the day you file the application. So interim moratorium has been conceptualized here. So there is an interim moratorium which starts from that period of just filing the application because there is an interim Auditorium. Your business license would not be terminated. It is also mentioned it. So you file the application. 
+
+47:00
+It does not mean your license would be terminated. Nobody can terminate your license because you got a interim moror now to help and advise regulator, because regulator would be a person might be from different field but may not know everything. So there can be a advisory committee. the advisory committee would be appointed by regulator. 
+
+
+## How to file a resolution plan for RBI to appeal to RBI
+47:26
+Again Reserve Bank will appoint, and that committee can be of three people or more, and that has to be done within 45 days of filing application. The administrator would be the chairman of the advisory committee, so it would be a kind of Darbar where administrator would be sitting and three, four people as advisory commit members would be telling him, telling him and he would decide what to do, what not to do. 
+
+47:55
+Final call would be of the administrator. Now, resolution plan. So successful resolution applicant before filing the resolution plan need to reach out to RBI and seek Their Blessings. Sir, can I file a resolution plan? RBI would say: okay, please show your credentials. We should check whether you are a fit and proper person to apply. if RBI says: yes, you are a fit and proper person, only then you can file a resolution plan. Otherwise you cannot. 
+
+48:35
+So ultimately, if you see who is playing cars all together, who is appointing is regulator. Who is appointing? RBI is appointing who is filing? RBI is filing. Who is constituting advisory committee? RBI is doing. Who is deciding who would be the resolution applicant? RBI is doing so. Basically it is all a Reserve Bank show altoe, one regulator, Reserve Bank of India, is handling everything under this process. All the other participants, let's say NT. 
+
+
+## RBI is telling them that this is the application. My Lord, you accept it. My Lord
+49:20
+They are the placeholders. They have a platform to run. So RBI is telling them that this is the application. My Lord, you accept it. My Lord will accept it. RBI will say: this is a resolution plan. We have agreed with that. COC have also agreed with that. N will say: okay, we agree with that. So it is all and all out and out. RBI show all together. 
+
+49:47
+Now we come to a very important rule 10. Banking sector handle third party assets. You take a loan, you have to place something, you have to mortgage something. So third party assets remain in the custody of banks. But bank is not the owner of our assets. So rule 10 gives a complete guidance on how the nbfcs would handle third party Assets in case a application is admitted. So what is that? 
+
+50:25
+Number one Mortor of section 14 will not be applicable to third party. What does it mean? you got a moratorium all right and you are not returning third party assets, then it does not mean that third party cannot file a claim. Third party cannot sue you. They can sue you because that will not be, because that moratorium is not applicable to third party assets. 
+
+
+## Administrator cannot sell third party assets.
+50:55
+These third party assets would be under control of administrator for the benefit of third parties. Administrator cannot sell it. Administrator will deal with those third party Assets in the manner as notified by central government notification of 2020. Now let's see some of the glaring differences and I would like the help of some of you in evaluating these differences and agreeing to it. 
+
+51:34
+So we'll go a little slow on this and it will clarify doubts if we have in our mind. so we are talking about our normal CP. Then we are talking about CP of application can be filed by ocfc and CD normal case in case of fsp it is only by regulator if is not by creditor, is not by financial service provider, is only by re. 
+
+52:05
+Now appointment now who can propose OC can propose FC can propose CD can propose or NT can say that you would be my infp or but in case of fsp though final appointment would be given by a but the person should be proposed by regulator means RBI. So RBI will decide the administrator replacement COC with 60% plus voting and replace a RP. 
+
+
+## RP administrator needs to be replaced
+52:45
+Now a can replace but only when he can replace when a regulator, Reserve Bank when, says: okay, this administrator need to be replaced. only then otherwise nobody can inter operation of RP can run the organization as a going CERN with a overall supervision of sales. In case of fsp, regulator will constitute advisory committee of three or more people and they will advise administrator and accordingly operation will be conducted in. 
+
+53:26
+This is no concent of interim moratorium in normal CP, but we just discussed that in case of fsp, interim Auditorium is starts from the day your application is filed and ends on the day when your application is admitted. And then, once application is admitted, your section 14 moratorium is passs license and all are not suspended in normal CP because of protection under section 14, except where there is a default in payment right. 
+
+54:01
+But in this case in fsp, it will not be suspended at all because it is given in Rule and because of the protection of public at rash. This rule has been framed out. COC can approve with 60% voting in case of normal CP for any resol plan. But here your 66% is fine. But whether you can be a resolution applicant or not, you need to take a nooc from the RBI appropriate regulator. 
+
+
+## AA vs. AA vs. AA vs.
+54:39
+Only then they can apply. Then you can evaluate resolution plan, go for voting by COC and then present it before AA for approval. In case of normal CP, you do not go to any regulator or ibbi to approve resolution applicant who can be resolution applicant. But in this case in fsp, RBI need to check the fit and proper criteria. 
+
+55:13
+Without checking fit and proper criteria, you cannot get an nooc and because you cannot get nooc, you cannot be a res resolution applicant. Now this is very interesting for all of us. We all have to do a lot of hard work to qualify as a insolvency professional. You have to study, then appear for limited insolvency examination. You pass it out, then you appear for training programs of about 48 hours or 60 hours. 
+
+55:55
+Then you go for pay fee. Get yourself updated among out of all the laws prevailing on the plan and all the fiscal laws to make it applicable. And then you exercise your wisdom as RP. But in case of fsp, your administrator need not be an insolvency PR. He can be of any educational background he can be of he. maybe I may not be so for such larger case. 
+
+
+## Compensation to advisory committee members should we?
+56:30
+It looks very strange because it is all done by RBI. But it looks very strange. Very matured professional group as insy professional have been left out here completely. Now, Compensation to the members of advisory committee. So whatever compensation question does not arise in case of normal C but in case of fsp the compensation to the advisory committee members would form part of insolvency resolution process cost now before moving ahead should we? 
+
+57:13
+Should we have some question and answers here? So far any doubt you have? You want to know a little more or you have some questions unanswered? Let's open the house. Yes, please, or should we keep the question answer at the end? Okay, sir, is there case RBI haveed than RP? That's administrator? no, no, so we will see one case, which is a predominant case of thean housing, where a x Banker was appointed as administrator. 
+
+58:17
+So RP have never been appointed. Okay, all right now let's see some sharp differences in the process for liquidation. You know license and all continues in normal Liquidation in fsp. Also, they are not suspended or cancelled when your section 33 is applicable when CP fails. Gentlemen, Mr a, you want to contribute. Are you contributing to the session? Please please ask your question. What is your question? 
+
+
+## F of Resolution: Why fsp should be allowed or why it should not be allowed
+59:18
+All right, in case of fsp, before issuing an order for liquidation, opportunity of being heard has to be given to the regulator means RBI. So unless RBI indirectly agrees for liquidation, you cannot go for liquidation. RBI representative would come to NCL. they will present their case why liquidation should be allowed or why liquidation should not be allowed. Only then a will give the volage before that is not possible. 
+
+59:53
+Order for dissolution again in case of fsp. This F of resolution can be given only after given opportunity of being heard to Reserve Bank of India. Once a listens to RBI understand their arguments for dissolving or not dissolving, only based on that a would decide it. Now we see some glaring differences in case of voluntary liquidation. 
+
+1:00:44
+So in normally in voluntary liquidation, what you do, you take a declaration from majority of directors under affidavit and under both that they would be able to full pay debts and intention is not to defraud the any person. now in case of fsp, you need to take a prior permission of RBI for initiating voluntary liquidations, so there is no need of Declaration from majority of directors and all once RBI agrees, all those things will prevail. 
+
+
+## RBI submits pros and cons to present their case
+1:01:25
+Now what happens RBI? When they agree for something, they have their own documentation. All those documentation has to be fulfilled and those document need to accompany the prior permission and those all things are filed with the a when you seek permission for voluntary liquidation order of dissolution is the again you do the order under Section 59, but here in fsp, before issuing the order, you have to give opportunity to RBI to present their case. 
+
+1:02:10
+Once they present the case a agrees, RBI submits both pros and cons and only then final decision is taken. Now some of the cases. can I take a break of 2 minutes? I'll be just back. Yes, sir, yes, sir, we can take yeah, just a two minutes e, yeah, all right, I'm back, should we start? Yes, sir, okay, all right. So we'll see some of the judicial pronouncements. 
+
+1:04:51
+This particular case of Randi takur versus in suain of financial services. This was before rolling out of section 227. So in this case, application was filed against nbfc. Maare capital priv N rejected the application. Then applicant filed an appeal with enlar. Enet specifically said that because you are nbfc, you are excluded in the definition of corporate person and therefore we cannot admit that application. 
+
+
+## RBI versus Divan Housing Finance Limited dismisses application
+1:05:39
+In another case of sdfc Bank HDFC limited versus rhs holding private limited, ND dismissed the application on the ground that nbfc RSC was an nbfc, though RSC was an n BFC, mainly in share trading share Investments, I should say, and they were not accepting any deposits. However, the application were dismissed. 
+
+1:06:08
+Now this is a one case, or which we will discuss something more on that also in subsequent slides, which is RBI versus Divan Housing Finance limited. This was the first case initiated under fsp and you know application filed in November 19 and in January 2021 he got a execution plan approved. That was the speed of execution this case. 
+
+1:06:41
+My two cents note there on outright rejection of nbfc from SC for as a class in entirety is not justified. we have to refer definition of f services and, as for the definition, non deposit accepting. Nbfcs are not financial service providers and therefore they are not ased as fsp. So now ports have started taking cence of that and now we see better light on this particular place. Moving ahead. This is a very interesting case. 
+
+
+## Divan Housing Finance: What happened in the VF case?
+1:07:33
+So Divan housing was a very big corporate and all the big Banks, whether State Bank, Canada Bank, IC Bank, all were the lenders to the Housing Finance in 2018 and 19 they played around the money of people and were not able to, you know, serve their Debs. So people reached out to RBI deposits, reached out to RBI and then whole thing was thought out that how to resolve this issue. 
+
+1:08:18
+So Ministry of corporate Affairs came up with an idea that why not to operationalize section 227 and bring this legislation under IBC, because there was a framework available, otherwi RBI was not having a framework at all for insolvent, and that's how things span out. You got 227, then you got FST rules and then you got notifications. All these actions were behind this particular case, one particular defaulter, thean Housing Finance. 
+
+1:08:59
+So if you download this decision of thean Housing Finance there VAR decisions, you should download the first one. Each provision of fsp rule has been detailed and discussed in this particular section particular order, and it has been done beautifully. Now. Another important piece was that in this particular case is what happened. RBI superseded board of directors of VF and appointed Dr. Mr R suban Kumar as a administrator. So we will see. 
+
+
+## How to Supersede Board of Directors Under IBC
+1:09:40
+In subsequent slide there's the word superseded the board of directors. Let me just pinpoint: you is supered. Sorry for this. It glitch generally what we see, that board of directors powers are suspended under IBC. Here the word is superseded. So in subsequent slide we'll see how this works right. 
+
+1:10:45
+So this appointment and the Press relas was also part of the order given by ncrt and in this case advisory committee was constituted and details of advisory committee was also very beautifully given in the order. Unest acted as a process advisor and ASB acted as a legal advisor. Now you see the beauty here. on a lighter note. 
+
+1:11:20
+You know, in our practice under IBC, whenever you struggle with COC, you know coc's point is we say we need help of accountant, we need help of company secretary, we need help of legal advisor, we need help of process advisor. So a soft command comes from COC. You know what, for you are why don't you look yourself right? 
+
+
+## How to file application under fsp under IBC
+1:11:46
+But when it comes to administrator in case of thean housing, they took all the help they had administrator. They have advisory committee, they have un as a process advisor and they have ASB as a legal advisor. So when it comes to a government Machinery to resolve a problem, they mobilize all sort of resources and which is required. 
+
+1:12:14
+But when it comes to an IP under IBC there are always questions by COC Whenever there is a cost incur. So just on a lighter and softer note, I'm just mentioning this. So in this case the administrator took help of advisory committee. They appointed e as a process advisor with of course Hefty fees ASP as a legal advisor. 
+
+1:12:40
+As a mentioned, you know, application under fsp is always filed under the section seven of the, so this was also filed as section 7 application by RBI. So RBI was Not A lender. Why RBI? Because only administrator only I'm sorry, only a regulator can file the application under fsp, not the financial creditor. This is an General exception, because what we read is the section 7even means application has to be filed by Financial creditor. 
+
+
+## Application for Insolvency Professional: Adan Rel
+1:13:18
+But here it is an exception that application has to be filed by a regulator. Now there's one brighter point for you here. Out of the lenders, there were depositors also, and count of depositors were more than 100. So they become class of creditors because they become class of crators. As per the rules. As per the regulations, appointment of authorized representative become mandatory and therefore there was a role of insolvency professional. In this case. 
+
+1:14:06
+Administrator suggested three IPS and out of those three IPS, one IP was elected by the deposit holders to act as their authorized representative. So one AR, who was an insolvency professional, was appointed in this case as AR, and he acted and delivered his Services there. total claims were to the T of 8.000 cres huge value number of fixed deposit holders, 7.000 and also the one AR represented 7.000 people. You can think in those lines. 
+
+1:14:48
+The claim of FD holders was 5 375 person and 40% belong to retailers. Rest with the institutional letterers. Everyd holders got something. 35% rest was a loss for them. So they were, I think, 50 plus resolution applicants who filed even Adan Rel, all these big houses you know they filed their application. They filed their resolution, PL, the top three. 
+
+
+## 3.000 crores paml, which was the value of 32,50 and a
+1:15:23
+I'm just showing you if was O, with a value of 3.000 crores paml, which the value of 32,50 and adani with a value of 29860. they were the top three months and voting took place by C pamel organization won the case won the resolution plan. It was surprising because their value was a little lower, but however, it depends on the commercial wisdom of coc, so nobody can challenge, though o challenged this in court. 
+
+1:16:05
+They reached out to NT and NT declined to interfere in this case. So paml was the successful resolution applicant and they took over the organization in February 2022, after C voting and this dhfl case was challenged by sasakawa India laosy Foundation. They challenged the Constitutional validity of fsp rules and notifications before Delhi high court and Delhi High Court validated. 
+
+1:16:45
+They said these revolutions are constitutionally valid and there is nothing wrong about it, and the case was dismissed now. Another piece was because the old management of DH ail. we all understand there was a fraudulent intention. Money was siphoned off, so avoidance application for 3.000 were fir under Section 66. Now question is who should take benefit of that 3.000 CR if recovered. So that process is still on. I think Mr badan is behind the bars. 
+
+
+## NT have directed that they have to go by the resolution plan
+1:17:30
+He have been recently rearrested, though being on bail, when in another case 63 stakeholder filed application with n that the benefit should come to the NCD holders. It should not go to PRS. That is what they commment was. So NT have directed that they have to go by the resolution plan. Resolu plan is approved. Whoever is the beneficiary in the resolution plan for aidance applications. 
+
+1:18:13
+They have to go by that because at every interval nclt also cannot disturb the overall IBC ecosystem. You have a resolution plan. it is approved by COC, then is approved by indirectly approved by Reserve Bank and then approved by NT, then our day to day interference is not perm not advisable. So they declined. They kind of dismissed the application Oak Tre objective. 
+
+1:18:44
+So if you see the previous slide, Oak Tre was the highest bider and they said, with the principle of natural Justice they should. They should have been declared, as Winer so Court said, that this is the decision of people who are suffering. Who is suffering is the financial crators. So if Financial crators of the view that resolution plan can be better handled and executed by a particular P, then it should be. 
+
+
+## IBC suspends board directors of dhf for a high vote
+1:19:21
+It would be like that there is no concept of highest or lowest. even they could have voted higher to a person who is voting much lower, because it is ultimately the commercial wisdom of coc that prevails. Based on that, this litigation was closed out. Now this was a very interesting case again related to this. D bavan was one of the promoters and he objected. 
+
+1:19:54
+He said that issue was that in the in the meetings of coc he was not invited. When he was not invited, he filed an application in interat application with NC and prayed that he was the board of direct member of board of director. He should be consulted. He should be invited. So what n said n said? Please read our instructions and earlier order. 
+
+1:20:32
+Reserve Bank of India has suppressed the board of directors of your company of dhf. They have not suspended because you have been suppressed. you have been superseded because you have been superseded. You cannot enjoy any of the thing which has been provided under IBC directly Direct. In IBC section 17 there is a suspension, but in this case you have been superseded because you been superseded. You are not entitled to attend board meetings, so COC meetings. 
+
+
+## IBC Reserve Bank of India Act - Super Session Permanent
+1:21:13
+So basically the flavor here is that along with IBC Reserve Bank, very aptly applied banking regulation act and Reserve Bank of India Act wherever they could find a loop. So what a said. The suspension is temporary, but super session is permanent. Super session is like a termination, so if you are terminated, there is no chance of restoring you back. 
+
+1:21:42
+And because you are, there's no chance of restoring you back, you are not entitled to receive notices of C meting. You will not be consulted. you are no more directors of the perpetrator. So forget about third party. Yes, this is one very important notification and we briefly touched upon so all of you know. Concept of bailments Bailer will third party assets or kind of that? 
+
+1:22:16
+So I'll read out certain selected portion of the notification for you. Fsp, as on insolvency command, is acting as a collection agent on behalf of third parties. The administrator will continue to discharge the obligation of fsps collection agent and ensure the re receivables in respect of such transaction collected are deposited and maintain in a separate bank account and are not merg with funds of fsp. 
+
+
+## fsp organization realizes receivables. Then it realization money.
+1:22:51
+So administrative responsibility is, let's say, there is a factoring Arrangement and there are some receivables. The fsp organization realizes those receivables. Then that realization money. They have to keep it in separate. it should not be mixed up with the common pool, and whatever such deposits are collected, they need to be deposited and given back to the desired people in the prescribed manner, as agreed. Now question came. 
+
+1:23:29
+Let's say fsp as a collection agent receiving some fee. What would happen with so? It is very well clarified through an explanation that fee that you receive as a collection agent is your property and that would be part of a common CL. It would be part of the set of fsp, but if you are getting something on behalf of others, it has to be accounted for kept separately. 
+
+1:24:00
+Fsp as insolvency commandment de as in its custody assets owned by its customers or counterparts and is in under an obligation to return as per the terms and condition of such contract. such administrator shall ensure the such assets are maintained in separate and distinct manner, distinct means, clearly identifiable. It should not be mixed up, capable of identifying them contract wise and are not must with those of financial service provider. 
+
+
+## How to return or transfer such assess to the person entitled to receive in accordance with terms and
+1:24:37
+It is an obligation to return or transfer such assess to the person entitled to receive in accordance with terms and condition of the contract. The administrator shall not return the asss if there is a breach of the terms and terms of contract and fsp has become entitled to such retain such assets for itself and dispose the to realize so to the extent of your dues you can retain or relize and beyond that you have to return. There is no other option left. now this would be my last slide on the conversation and then we will attempt a case study. 
+
+1:25:22
+The present framework, as I stated, is only a banded solution, is stoping. We don't have a full FL system, which we are looking forward and my, I would say my and over whoever is part of the conversation. 
+
+1:25:44
+Expectation would be that the new government, when comes, settles down, they should work on it and should give country a beautiful framework might be within the IBC regime or otherwise I would mind, but there has to be a comprehensive framework so that if there is a crisis, if some banks go for a insolvency, Solutions are available. We should not be left at the mercy of bureaucrats. 
+
+
+## Case Study: How to read out the case study
+1:26:16
+At the end I'm just if stoping this presentation and adding another file. just allow me, so is my screen visible to you again? Yes, sir, okay, all right. So this is a very brief case study that I have designed to just see. You know how well we understand what we discussed and if there are questions, we can do for it. So would somebody volunteer to read it out for me, for all of us. 
+
+1:27:16
+I hope it's very well red and visible to all of you. Would somebody volunteer? All right, let me. AB Bank Inc is operating in India for last so many years. Recently postco AB Bank could not maintain profitability, public solvency, and thus defaulted in paying to deposit holders and other vendors. Overall default in debt servicing was 800 c not getting reasonable debt servicing. Creditors got United and filed an application under Section 7 of Ip. 
+
+1:28:04
+In the application they suggested Mr IP as an inter resolution profession. Management of ABB Bank was in dilemma and engaged top legal. FS IP was of the firm view that all Debs could be realized by a compromise and arrangement. Even contribution by parent of ab Bank Inc. Could not be ruled out. Based on the facts, please answer the following questions: so is the case study clear? Yes, sir, okay, all right, let's move on now. 
+
+
+## Application under Section 7 can be filed jointly by Financial creditors and operation cred evaluate the statement.
+1:28:47
+This is a question. Application under Section IBC can be filed jointly by Financial creditors and operation cred evaluate the statement. You have four options. Which option is right? So this question is in isolation. The question is: application under Section seven of IBC can be filed jointly by Financial creditors and operational creditors. Is it possible or not? yes, guys, can operational creditors join Financial creditors while filing application under Section 7? That is a question. 
+
+1:29:34
+I don't think so any other view in house today. So you are right, section seven is meant only for financial creditors. You cannot combine jointly with operational creditors even otherwise is section 9 also do not talk about joint application by operation creators. Right both ways. It has to be section 7 for financial grator. 
+
+1:30:05
+Can a accept application under Section 7, not withstanding AB bank is an FS now a knows that a bank is fsp financial service provider. Can they accept application options are yes, a can. Next is a cannot. C A can accept on ibbi is aligned B is none of them. Yes, they can accept. why you say that they can accept application under Section 7 if it is filed by the regulator. 
+
+
+## What Is the Best Answer for a Cas Case Study?
+1:31:02
+But that thing is not given here. If you see the case study in the case study, I just take you back. This is a Cas and the application has been filed by the creditors United. So we have to give answer in light of the case that has been given to us. So what would be your answer then? No, because fsps are excluded from definition of corporate person right. 
+
+1:31:43
+They are treated separately under Section 227. Only nbfc of 500 CR plus can be brought under IBC with RBI intervention. All right, if default by an nbfc is for 200 crores, can that nbfc be brought under IBC? The word here is default. what we should do. Which is the best option here? Second one second one any other point of view here. So you are right. Second one is the right answer? 
+
+1:32:44
+First one is definitely not the right answer and C is definitely not the answer. B cannot happen because B is there. This is what I have now. Let me just stop here from the presentation side, and my request to all of you would be that let's open, let's put our videos on and see each other and have conversation on the topic that we have discussed just now. Hope I'm visible to all of you, sh. 
+
+
+## Angel, are you around? Let me just call e.
+1:33:55
+So in case there is no question, then I would say: angel, are you around? Let me just call e. I hope you found the conversation interesting today. Yes, that was right. actually the problem is that we do not come across many such cases. So this is a sort of new learning for us. Yeah, of course, because this is very isolated topic. 
+
+1:35:42
+If you ask me why it is isolated that in majority of cases I IPS are not involved, and on this topic there is one large case, which is of D house in France. But this is very interesting to know, because nowadays you will find some stock Brokers are defaulting and DP participants are not cooperating. 
+
+1:36:08
+All those things came to came into place and when somebody reaches out to you if you know you would be help the concern person and make a case otherwise, or you know advise accordingly, so that person is rightly informed and upated. So I think from icsi side nobody is there. so I would say thank you very much for patience hearing. Let's look for forward to see you again on some other day. 
+
+
+## e, e, e, e all the parties SP. now.
+1:36:56
+Thank you very much for patience hearing. Thank you, sir, thank you, thank you, thank you for e, e, e all the parties SP. now. the session has been ended. now you can. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

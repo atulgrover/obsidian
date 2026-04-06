@@ -1,0 +1,4 @@
+{{tag>judicial_process:insolvency_process form_type:claim_forms process_type:liquidation_process stakeholder_type:financial_creditor}}
+
+===== Liquidation Process Form D - Proof of Claim by Financial Creditors =====
+{{pdfjs 200em,500px> pdf:liquidation_process_form_d.pdf}}

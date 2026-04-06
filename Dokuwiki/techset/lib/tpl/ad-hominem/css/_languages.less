@@ -1,0 +1,202 @@
+/**
+ * This file provides styles for the Languages list, 
+ * both for the side- and the toolbar.
+ * This overrides some of the styles in the languages plugin.
+ */
+
+#tbLanguages, #sbLanguages {
+	
+	ul {
+		& {
+			margin-left: .5em;
+		}
+		li {
+			& {
+				list-style: none inside;
+			}
+			a  {
+				& {
+					display: grid;
+					grid-template-columns: 1.25em auto;
+					align-items: center;
+					gap: .4em;
+					padding: .125em;
+					line-height: 1.2em;
+				}
+				&::before {
+					content: attr(lang);
+					display: inline-block;
+					text-align: center;
+					place-self: stretch;
+					border: @ini_text solid 1px;
+					font-size: small;
+					border-radius: 1.5pt;
+					font-family: @ini_mono_fonts;
+					font-size: .75rem;
+					color: @ini_text;
+				}
+				&.wikilink1 {
+					& {
+						color: @ini_link;
+					}
+					&:hover {
+						text-decoration: none;
+					}
+					&:hover span {
+						text-decoration: underline;
+					}
+				}
+				&.wikilink2 {
+					& {
+						border-bottom: transparent 0 none;
+					}
+					&:hover {
+						text-decoration: none;
+					}
+					bdi {
+						color: @ini_missing;
+						text-decoration: underline;
+						text-decoration-style: dotted;
+					}
+				}
+				&.wikilink2:hover span {
+					text-decoration-style: solid;
+				}
+			}
+		}
+	}
+}
+	
+#tbLanguages {
+	
+	& {
+		display: grid;
+		place-items: center;
+		grid-template-rows: auto 0;
+		height: 100%;
+	}
+	button {
+		& {
+			padding: .25em;
+			font-size: 1rem;
+			border: transparent 1px solid;
+			background-color: transparent;
+			color: @ini_link;
+			cursor: pointer;
+			border-radius: .25em;
+		}
+		&:hover {
+			background-color: @ini_background_alt;
+			border-color: @ini_border;
+			text-decoration: underline;
+		}
+		svg {
+			width: 1.8rem; height: 1.8rem;
+			fill: @ini_link;
+		}
+		svg text {
+			fill: @ini_background_site;
+			text-transform: uppercase;
+		}
+	}
+	#langMenuWrapper {
+		& {
+			position: relative;
+			left: 2rem; top: .5rem;
+		}
+		#langMenu {
+			& {
+				position: absolute;
+				right: 0;
+				background-color: @ini_background_site;
+				border: @ini_border solid 1px;
+				box-shadow: 0 0 8px rgba(0,0,0,.2);
+				border-radius: 2pt;
+				padding: .25em;
+				z-index: 12;
+			}
+			&:before {
+				content: '';
+				position: absolute;
+				top: 0;
+				height: 1em;
+				right: 16%;
+				width: 1em;
+				margin-left: -.5em;
+				background-color: @ini_background_site;
+				box-shadow: 0 0 8px rgba(0,0,0,.2);
+				-webkit-clip-path: polygon(-8px -8px,calc(100% + 8px) -8px,calc(100% + 8px) calc(100% + 8px));
+				clip-path: polygon(-8px -8px,calc(100% + 8px) -8px,calc(100% + 8px) calc(100% + 8px));
+				transform: translateY(-50%) rotate(-45deg);
+				border: @ini_border solid 1px;
+			}
+			li a {
+				& {
+					font-size: 1rem;
+					padding: .25em;
+					min-width: 6.5em;
+					width: max-content;
+				}
+			}
+		}
+	}
+}
+
+#sbLanguages {
+	& {
+		margin: 1em .25em 0 1em;
+	}
+	h3 a.wikilink2 {
+		color: @ini_missing;
+	}
+	ul {
+		padding-left: 0 !important;
+	}
+}
+
+/* dark mode overrides: */
+@media (prefers-color-scheme: dark) {
+	
+	body.darkmode {
+
+		#tbLanguages, #sbLanguages {
+			ul li a {
+				&::before { border-color: @ini_text_dark; color: @ini_text_dark; }
+				&.wikilink1 { color: @ini_link_dark; }
+				&.wikilink2 bdi { color: @ini_link_dark; }
+			}
+		}
+
+		#tbLanguages {
+			button {
+				& { color: @ini_link_dark; }
+				&:hover { background-color: @ini_background_alt_dark; border-color: @ini_border_dark; }
+				svg { fill: @ini_link_dark; }
+				svg text { fill: @ini_background_site_dark; }
+			}
+			#langMenuWrapper #langMenu {
+				& {
+					background-color: @ini_background_site_dark;
+					border-color: @ini_border_dark;
+					box-shadow: 1pt 1pt 5pt rgba(0,0,0,0.4);;
+				}
+				&:before {
+					background-color: @ini_background_site_dark;
+					box-shadow: 1pt 1pt 5pt rgba(0,0,0,0.4);;
+					border-color: @ini_border_dark;
+				}
+			}
+		}
+		#sbLanguages h3 a.wikilink2 {
+			color: @ini_missing_dark;
+		}
+	}
+}
+
+@media (max-width: 950px) {
+
+	/* touchup for the languages list in menu mode */
+	#sbLanguages {
+		margin: .5em .25em 0 .5em;
+	}
+}

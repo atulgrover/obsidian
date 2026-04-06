@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://lexai.co.in/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lexai.co.in/feed.php">
+        <title>RESOLUTION BAZAAR - talk:auditors</title>
+        <description>AI AGENTS - INSOLVENCY PROCESSES</description>
+        <link>https://lexai.co.in/</link>
+        <image rdf:resource="https://lexai.co.in/lib/exe/fetch.php/wiki:dokuwiki.svg" />
+       <dc:date>2026-03-12T17:51:36+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://lexai.co.in/doku.php/talk:auditors:auditor_agents?rev=1743696561&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lexai.co.in/lib/exe/fetch.php/wiki:dokuwiki.svg">
+        <title>RESOLUTION BAZAAR</title>
+        <link>https://lexai.co.in/</link>
+        <url>https://lexai.co.in/lib/exe/fetch.php/wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://lexai.co.in/doku.php/talk:auditors:auditor_agents?rev=1743696561&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T16:09:21+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>auditor_agents</title>
+        <link>https://lexai.co.in/doku.php/talk:auditors:auditor_agents?rev=1743696561&amp;do=diff</link>
+        <description>Games Forensic Auditors Play
+
+Financial auditors, responsible for evaluating the financial health, asset value, and liabilities of the insolvent company, play a crucial role in the insolvency resolution process. However, due to their influence, auditors can sometimes exploit their position to benefit one stakeholder over another, potentially affecting the fairness of the process. Here are some tactics financial auditors might use to bias outcomes or unfairly advantage specific parties:
+Manipulat…</description>
+    </item>
+</rdf:RDF>

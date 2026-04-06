@@ -1,0 +1,116 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Insolvency Proceedings Navigator Agent (IPNA for PG)&quot;,
+&quot;agentDescription&quot;: &quot;Assists Personal Guarantors (PGs) to Corporate Debtors in understanding and navigating the specific procedures of India&#039;s Insolvency and Bankruptcy Code (IBC) applicable to them. Clarifies timelines, legal requirements, filing procedures, helps identify the appropriate Adjudicating Authority (NCLT or DRT), and provides updates on relevant proceedings. *This agent provides informational support and does not constitute legal advice.*&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Explain the insolvency process specifically for Personal Guarantors under IBC (Part III, interaction with Part II via Sec 60).&quot;,
+  &quot;Clarify the rights and obligations of PGs during the Corporate Debtor&#039;s CIRP and/or during their own potential insolvency process.&quot;,
+  &quot;Identify the correct Adjudicating Authority (AA) for PG insolvency matters (NCLT if CD&#039;s CIRP is ongoing, DRT otherwise).&quot;,
+  &quot;Provide guidance on filing requirements and procedures for applications concerning PGs (e.g., under Sec 94 by PG, Sec 95 by creditor).&quot;,
+  &quot;Outline key timelines and deadlines relevant to PGs (e.g., responding to demand notices, submitting information to Resolution Professionals).&quot;,
+  &quot;Provide accessible explanations of relevant legal concepts and terminology.&quot;,
+  &quot;Offer updates on the status of the associated Corporate Debtor&#039;s CIRP/Liquidation, if available and relevant.&quot;,
+  &quot;Inform PGs about relevant notices, court hearings, or milestones affecting them.&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;AA Identification Module: Determines the correct forum (NCLT vs. DRT) based on the status of the related Corporate Debtor&#039;s insolvency proceedings.&quot;,
+  &quot;PG-Specific Knowledge Base: Contains summaries of IBC provisions (Part III, Sec 60, relevant rules), procedures, and forms applicable to Personal Guarantors.&quot;,
+  &quot;Process Roadmap Visualization: Displays the procedural flow for PG insolvency, including interaction points with the CD&#039;s process.&quot;,
+  &quot;Filing Guidance: Provides information on necessary forms (e.g., Form A under Sec 94), documentation, and steps for initiating or responding to PG insolvency applications.&quot;,
+  &quot;Timeline Tracking &amp; Alerts: Monitors and notifies PGs about statutory deadlines and relevant case milestones.&quot;,
+  &quot;Status Update Integration (Conceptual): Ability to fetch public status information about related CD or PG cases from NCLT/DRT portals (highly dependent on portal accessibility/APIs).&quot;,
+  &quot;Document Access (Public): Provides links to publicly available announcements, orders, or forms.&quot;,
+  &quot;Rights and Obligations Summary: Presents key rights (e.g., right to be heard) and obligations (e.g., duty to cooperate, furnish information) clearly.&quot;,
+  &quot;Secure User Portal: Provides a personalized view for the PG.&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Personal Guarantors to Corporate Debtors&quot;,
+  &quot;Legal Counsel advising Personal Guarantors&quot;,
+  &quot;Financial Advisors assisting Personal Guarantors&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Personal Guarantor&#039;s identification and login credentials.&quot;,
+  &quot;Name and Status of the associated Corporate Debtor (Is CIRP/Liquidation ongoing before NCLT?).&quot;,
+  &quot;Details of the specific Guarantee(s) involved.&quot;,
+  &quot;Information if any insolvency application has been filed by/against the PG (Court, Case Number).&quot;,
+  &quot;Access to public NCLT/DRT case status information (via web scraping or APIs, if available).&quot;,
+  &quot;Static legal and procedural information forming the knowledge base.&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Determination of the correct Adjudicating Authority (NCLT/DRT).&quot;,
+  &quot;Guidance Notes on filing procedures and forms relevant to the PG.&quot;,
+  &quot;Personalized Timelines highlighting relevant deadlines.&quot;,
+  &quot;Notifications and Alerts (Email, In-App, SMS).&quot;,
+  &quot;Links to relevant legal provisions, forms, and public case information.&quot;,
+  &quot;Process flow diagrams.&quot;,
+  &quot;Summary of Rights and Obligations.&quot;,
+  &quot;Secure Web Portal/Interface.&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Clarifies the complex interplay between corporate and personal guarantor insolvency under IBC.&quot;,
+  &quot;Prevents procedural errors like filing in the wrong forum (NCLT vs. DRT).&quot;,
+  &quot;Ensures PGs are aware of their specific rights, obligations, and deadlines.&quot;,
+  &quot;Improves PG understanding and preparedness for the process.&quot;,
+  &quot;Reduces confusion and anxiety associated with navigating the IBC.&quot;,
+  &quot;Potentially saves time and costs by providing clear procedural guidance.&quot;,
+  &quot;Provides a centralized point for relevant information.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Backend Logic &amp; Processing&quot;,
+    &quot;tools&quot;: [
+      &quot;Programming Languages (Python, Java, Node.js)&quot;,
+      &quot;Web Frameworks (Flask, Django, Spring Boot, Express)&quot;,
+      &quot;Rule Engine (for AA determination logic based on CD status)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Storage &amp; Knowledge Base&quot;,
+    &quot;tools&quot;: [
+      &quot;Relational Databases (PostgreSQL, MySQL - for user data, case links, rules, KB content)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Frontend Development&quot;,
+    &quot;tools&quot;: [
+      &quot;Web Frameworks (React, Angular, Vue.js)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Integration &amp; Data Acquisition&quot;,
+    &quot;tools&quot;: [
+      &quot;API Clients (if court APIs ever become available)&quot;,
+      &quot;Web Scraping Tools (Conditional, e.g., Scrapy, Beautiful Soup - for public NCLT/DRT websites, requires careful design and maintenance, respecting terms of service)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Notification Services&quot;,
+    &quot;tools&quot;: [
+      &quot;Email Service APIs (SendGrid, SES)&quot;,
+      &quot;SMS Gateway APIs (Twilio)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Document Handling&quot;,
+    &quot;tools&quot;: [
+      &quot;PDF processing libraries (if providing form previews/guidance)&quot;,
+      &quot;Secure linking mechanisms&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Security (Crucial)&quot;,
+    &quot;tools&quot;: [
+      &quot;Strong Authentication &amp; Authorization&quot;,
+      &quot;Secure Data Handling Practices&quot;,
+      &quot;Compliance with privacy regulations&quot;
+    ]
+  }
+]</pre>
+
+<p>
+}
+</p>

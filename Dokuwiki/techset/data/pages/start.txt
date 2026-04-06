@@ -1,0 +1,94 @@
+<WRAP group> 
+
+<WRAP half column>
+  * **Valuations**
+    * Registered Valuers (USHA) [[rbz_directories:registered_valuers:start]] - [[rbz_directories:sidebar]]
+    * Valuer Chat Dataset (DOKU) [[lexai_datasets:valuation:start]] - [[lexai_datasets:valuation:sidebar]]
+    * Valuation Reports (TW5) [[rbz_valuation_reports:start]] - [[rbz_valuation_reports:sidebar]]
+  * **Investments**
+    * Insolvent Companies (USHA) [[rbz_directories:acquisition_companies:start]] - [[rbz_directories:sidebar]]
+    * Investor Chat Dataset (DOKU)  [[lexai_datasets:acquisition:start]] - [[lexai_datasets:acquisition:sidebar]]
+    * Investment Teasers (TW5) [[rbz_teasers:start]] - [[rbz_teasers:sidebar]]
+  * **Resolution**
+    * Resolution Professionals (USHA) [[rbz_directories:insolvency_professionals:start]] -  [[rbz_directories:sidebar]]
+    * Resolution Chat Dataset (DOKU)  [[lexai_datasets:insolvency:start]] - [[lexai_datasets:insolvency:sidebar]]
+    * Resolution Forms (TW5) [[rbz_forms:insolvency_forms:claim_forms:start]] - [[rbz_forms:insolvency_forms:claim_forms:sidebar]]
+  * **Conciliation**
+    * Mediation Professionals (USHA) [[rbz_directories:mediation_professionals:start]] - [[rbz_directories:sidebar]]
+    * Mediation Chat Dataset (DOKU) [[lexai_datasets:mediation:start]] - [[lexai_datasets:mediation:sidebar]]
+    * Mediation Forms (TW5) [[rbz_forms:mediation_forms:start]] - [[rbz_forms:mediation_forms:sidebar]]
+  * **Litigation**
+    * Advocates & Lawyers (USHA) [[rbz_directories:lawyers_advocates:start]] - [[rbz_directories:sidebar]]
+    * Litigation Chat Dataset (DOKU) [[rbz_datasets:litigation_chatbot:start]] - [[rbz_datasets:litigation_chatbot:sidebar]]
+    * Litigation Forms (TW5) [[rbz_forms:insolvency_forms:application_forms:start]] - [[rbz_forms:insolvency_forms:claim_forms:sidebar]]
+  * **Technologies** - [[lexai_cloud:start]] - [[lexai_cloud:sidebar]]
+    * Dataset [[lexai_datasets:insolvency:start]] - [[lexai_datasets:insolvency:sidebar]]
+    * Agents - [[lexai_agents:start]] - [[lexai_agents:sidebar]]
+    * Models - [[lexai_models:start]] - [[lexai_models:sidebar]]
+    * Languages - [[lexai_languages:start]] - [[lexai_languages:sidebar]]
+    * Taxonomies - [[lexai_taxonomies:start]] - [[lexai_taxonomies:sidebar]]
+    * Security - [[lexai_technologies:security:start]]
+    * Software [[lexai_technologies:software:start]]
+
+--------
+  * **Playground**
+    * Playground [[z_playground:start]] - [[z_playground:sidebar]]
+    * Tickets [[z_tickets:ticket]] - [[z_tickets:sidebar]]
+    * Claims [[z_claims:blank_claim_form]] - [[z_claims:sidebar]]
+    * Coming Soon [[:coming_soon]]
+    * [[linux:start]] - [[linux:sidebar]]
+  * **About Us**
+    * [[rbz_company:our_team|Our Team]]
+    * [[rbz_company:join_us|Join Us]]
+    * [[rbz_company:pricing|Pricing]]
+    * [[rbz_academics:rbz_news:feed1]]  - [[rbz_academics:rbz_news:sidebar]]
+
+</WRAP>
+
+<WRAP half column>
+  * **Chatbots**
+    * Legal Datasets [[lexai_datasets:legal:start]] - [[lexai_datasets:finance_chatbot:sidebar]]
+    * Finance Datasets [[lexai_datasets:finance:start]] - [[lexai_datasets:finance:sidebar]]
+    * Valuation Datasets [[lexai_datasets:valuation:start]] - [[lexai_datasets:valuation:sidebar]]
+  * **Agents** [[lexai_agents:start]] - [[lexai_agents:sidebar]]
+    * Insolvency Agents [[lexai_agents:insolvency_agents:start]]  - [[lexai_agents:insolvency_agents:sidebar]]
+    * Mediation Agents [[lexai_agents:mediation_agents:start]]   - [[lexai_agents:mediation_agents:sidebar]]
+    * Banking Agents [[lexai_agents:banking_agents:start]] - [[lexai_agents:banking_agents:sidebar]]
+    * Business Agents [[lexai_agents:business_agents:start]] - [[lexai_agents:business_agents:sidebar]]
+  * **Directories**
+    * Bank Branches [[rbz_directories:bank_branches:start]] - [[rbz_directories:bank_branches:sidebar]]
+    * Asset Managers [[rbz_directories:asset_managers:start]] - [[rbz_directories:asset_managers:sidebar]]
+    * Finance Professionals [[rbz_directories:finance_professionals:start]] - [[rbz_directories:finance_professionals:sidebar]]
+    * Valuation Professionals [[rbz_directories:valuation_professionals:start]] - [[rbz_directories:valuation_professionals:sidebar]]
+  * **Resources**
+    * **Tools** [[rbz_tools:start]] - [[rbz_tools:sidebar]] 
+       * [[rbz_tools:timeline_calendar]] - [[rbz_tools:fee_calculator]] - [[rbz_tools:task_list]]
+    * **Prompts** [[rbz_prompts:start]]  - [[rbz_prompts:sidebar]]
+    * **Forms** [[rbz_forms:insolvency_forms:start]] - [[rbz_forms:insolvency_forms:sidebar]]
+      * [[rbz_forms:insolvency_forms:claim_forms:start]] - [[rbz_forms:insolvency_forms:claim_forms:sidebar]]
+      * [[rbz_forms:insolvency_forms:process_forms:start]] - [[rbz_forms:insolvency_forms:process_forms:sidebar]]
+      * [[rbz_forms:insolvency_forms:application_forms:start]] - [[rbz_forms:insolvency_forms:application_forms:sidebar]]
+    * **Documents** [[rbz_documents:start]] - [[rbz_documents:sidebar]]
+      * [[rbz_documents:legal_formats:start]] - [[rbz_documents:ibc_reports:start]]
+    * **Workflows** [[rbz_workflows:start]] - [[rbz_workflows:sidebar]]
+  * **Academics**  [[rbz_academics:start]] - [[rbz_academics:sidebar]]
+    * **Sample Tests** [[rbz_academics:sample_tests:start]] - [[rbz_academics:sample_tests:sidebar]]
+    * **Case Studies** [[rbz_academics:case_studies:start]]  - [[rbz_academics:case_studies:sidebar]]
+    * **Case Laws** [[rbz_academics:case_laws:start]] - [[rbz_academics:case_laws:sidebar]]
+    * **Webinars** [[rbz_videos:start]] - [[rbz_videos:sidebar]]
+----
+  * **apnet.co.in**
+    * **Associates** [[apnet_associates:start]] - [[apnet_associates:sidebar]]
+    * **Members** [[apnet_associates:apnet_members:start]] - [[apnet_associates:apnet_members:sidebar]]
+      * [[apnet_associates:apnet_members:terms_conditions]] - [[apnet_associates:apnet_members:code_of_conduct]]
+    * **Partners** [[apnet_associates:apnet_partners:start]] - [[apnet_associates:apnet_partners:sidebar]]
+</WRAP>
+
+</WRAP>
+
+
+[[liteparse]]
+[[lite]]
+[[l1]]
+[[l2]]
+[[l3]]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://lexai.co.in/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://lexai.co.in/feed.php">
+        <title>RESOLUTION BAZAAR - insolvency_agents:agents:professional_agents</title>
+        <description>AI AGENTS - INSOLVENCY PROCESSES</description>
+        <link>https://lexai.co.in/</link>
+        <image rdf:resource="https://lexai.co.in/lib/exe/fetch.php/wiki:dokuwiki.svg" />
+       <dc:date>2026-03-13T07:13:45+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://lexai.co.in/lib/exe/fetch.php/wiki:dokuwiki.svg">
+        <title>RESOLUTION BAZAAR</title>
+        <link>https://lexai.co.in/</link>
+        <url>https://lexai.co.in/lib/exe/fetch.php/wiki:dokuwiki.svg</url>
+    </image>
+</rdf:RDF>

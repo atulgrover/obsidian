@@ -1,0 +1,516 @@
+# Mastering FAIS: Forensic Accounting & Investigation Standards in IBC Transactional Audits
+![](https://img.youtube.com/vi/7J1Py_h6_NU/hqdefault.jpg)
+11 months ago (Aug 14, 2023) — 1:06:31
+[https://youtube.com/watch?v=7J1Py_h6_NU](https://youtube.com/watch?v=7J1Py_h6_NU)
+
+
+## Summary
+This webinar discusses the Forensic Accounting and Investigation Standards released by the Institute of Chartered Accountants of India, which are applicable to transactional audits under the Insolvency and Bankruptcy Code. The standards, drafted by the Digital Accounting and Assurance Board, provide a minimum standard for undertaking forensic accounting and investigation assignments. The framework governing these standards consists of basic principles, key concepts, standards, and guidance. The 20 standards are classified into series based on their focus areas, such as engagement management, executing assignments, specialized areas, standard of reporting, and quality control. The speaker clarifies various definitions and concepts, including forensic accounting, investigation, litigation support, and fraud detection. The speaker emphasizes the importance of these standards as the country considers different kinds of evidence in various legal proceedings.
+
+## Introduction
+0:00
+Namaste, good morning. We are back on our 70th episode of AAA weekly webinar series. Welcome to all the Journeys participants and today we are conducting a webinar on forensic accounting and investigation standards released by Institute of Chartered Accountants of India, and these standards are applicable to all the kind of transactional audit or Buffet transactions, avoidance transactions, avoidable transactions, all under the insolvency and bankruptcy code. 
+
+0:39
+Maybe it's section 43, section 45,49.50,66 or even 69. All these sections, all transactions report, are covered by these standards, and we also have the opportunity, and we are displaying our happiness, that we have an expert with us today, durgesh Pandey and CA. Durgesh Pandey was also involved in drafting and making of these standards. 
+
+1:14
+Welcome durgesh ji, and it is a privilege to us, as well as to our audience, that an expert on these standards and also an expert on the forensic accounting and investigations and I believe we are. You are doing a lot of work in on this domain, although Ankit is also doing the forensic audit. Ankit is also unpaneled, but the focus of Ankit is primarily on the bank frauds and on the IBC. 
+
+1:47
+However, I believe, durgesh, you are into you are associated with you are working with lot of investigating agencies also, we would have the benefit of your opinions during this discussion today, so thank you very much for joining us. 
+
+
+## Forensic Accounting and Investigation Standards
+2:05
+So we probably this these. The forensic accounting and investigation standards are very large. This actually, it's not possible to continue with the entire. I would only say that all participant should read these standards. 
+
+2:22
+So these standards have been brought to us. It has been drafted by digital accounting and Assurance Board of. The Institute of Chartered accountant, which is chair by chaired by the chi Charan Singh and also the vice chairman of this board is CA. They are nivas Sharma and we also have CA Dr durgesh Pandey, and his name is also mentioned in this standard and he has also contributed a lot in drafting of these standards. 
+
+2:56
+When we talk about this forensic accounting and investigation standards, it basically the objective gives and the standards or the objectives of this particular standard is just to provide the professionals. When we say professionals. presently the standards are only applicable to professionals like only Chartered Accountants, because these standards are issued by Institute of Chartered Accountants, and when we talk about professionals, we only mean a qualified chartered accountant who is conducting the forensic accounting and investigation assignment. 
+
+3:34
+Is that correct? This is absolutely, sir. 
+
+
+## Objectives of Standards
+3:38
+The idea is because the Institute has a mandate that it can bind only professionals. So these standards as of now they will be applicable for any chartered accountant, whether in membership, whether in practice or not. So cop is not important. He just has to be member of. The Institute of Chartered Accountants of India. 
+
+3:58
+So the main objectives of this standard is the to provide a minimum standard for undertaking the assignments like forensic accounting and investigation and the users of these services like see, like one very important aspect, that I actually came to know that the Institute never thought of talking it as a audit. The Institute thought that this is not an audit, so this is not something which actually can be considered as an assurance or certification services. 
+
+4:30
+So these are only forensic accounting. Now I'll just come back to what is forensic accounting and what is investigation. I'll come back to that. but the basic objectives are the indication of the quality of services and the regulators and the agencies, with an appreciation of what can be expected from the professionals, and also a kind of guidance which is a technical and how to implement these standards. These are the objectives of this standard. 
+
+4:58
+You know, when we see the framework which is governing the forensic accounting and investigations, so basic it is. The key components of this framework is the basic principles, the basic principles of forensic accounting and investigation, key Concepts and then standards and then guidance. So the in fact this is a combination of two things. one is the standards on Fai and also the. 
+
+5:27
+It is a technical and implementation and Technical guides which are also released by Institute of Chartered accountant, while these standards are mandatory, whereas the implementation and Technical guide is recommended tree. 
+
+5:43
+So these standards are saying that these are the minimum set of requirements that apply to all members of Institute of Chartered Accountants, effective from 1st July 2023. I may make it very clear that when we say effective from July 2023, that means that all assignments starting on or after first July 2023 and not the date of the report. Is that correct? 
+
+6:11
+It is absolutely, sir, because the standards were way back, you know, launched in August 2021. 
+
+
+## Timeline of Standards
+6:21
+The standards were launched in August 31st August 2021. So these were recommended trees since then. so just to have. There are some final changes made, finer changes made in the definition, and then they were made mandated along with the implementation guide. Of course the implementation guide itself is recommended tree, but then they were mandated from first of July. 
+
+6:41
+So not to have any confusion because they were not mandatory. So probably someone who's signing a report on 1st of August or 5th of August it's not expected that he or she may have followed the standard. 
+
+6:52
+That is why the rational that any engagement which begins if the appointment letter is after first of July, only then the mandatory nature is there and not just for the date of signature of the report, date of submission of the report is not considered for Mandate of these standards. so I believe, because these the applicability of these standards are applicable from the even assignment engagement letters. 
+
+7:18
+How to draft engagement letters, how to assure many things in this scope of work, so that actually cannot happen when we talk about the date of the report. That can happen only when we begin the assignment. So then the when it see. So far 20 standards have been released and the numbering is also like. I was curious to know the numbering system of the standard. The 100 series are being used for standards on key Concepts. 
+
+7:48
+200 series are standards on engagement management. 300 series are used for on executing assignment. 400 series are used on Specialized areas. 500 series on standard of reporting and 600 series is being used or on the quality control. so any understanding why these kind of classified numbering and why the 20 standards? Was it possible to have won that conceptual Clarity himself somehow I don't have, in case you can provide to the audience. 
+
+8:23
+Yes, sir, what is the structure of these standards by Institute of standard? How? Why 20? Why not one? 
+
+
+## History of Standards
+8:29
+This is please. So, sir, when the concept was floated of starting the standard, this was way back, probably the first cut of the standards of the first draft of the standard. It was published in February 21. If I am not wrong, I have to see exactly the book February 21, so it started. 
+
+8:49
+The standards are a product of the kobit era, of the kovid era which the professionals when they were free and when they contributed to this, because all work that we do for the Institute is voluntary. So it was an effort of 70 80 volunteering professionals who contributed during the Kobe data. I do remember people every Wednesday we had to have a meeting when the starting time was 4 pm. 
+
+9:14
+We didn't had ending time because those were covet times and we were free, so it started then. Now when we started these standards are one. A quick disclaimer which I would like to give is: I am using the word we, but then please consider all opinions which I give is my own opinion. I don't represent the Institute and I don't speak on behalf of the Institute of Chartered Accountants of India. 
+
+9:39
+I was just part of the drafting body from very beginning, so I understand a lot of you know thought process that have gone. Yes, so, sir, when the standards, when the drafting process of the standard started, we tried to study as to what has happened in this domain globally. So we have found there are Canadian standards, Australian standards and the American Standards. However, we cannot call them standards per se. 
+
+10:06
+They are just say, if we call the American Standard, that is called as ssf1. Now this is just five page document which gives a very basic idea and it introduces the concept of forensics. Same is the case with Canadian standards. In the Australian standards. these standards are. They do not have full facets of an engagement. They are very high level document running into very few standards. 
+
+10:34
+So the level of guidance provided by these standard is very how do I say I mean they are targeted at experts who are practicing in this domain. So the standards resume a lot of knowledge already existing with the professionals who are supposed to practice in this domain. 
+
+10:53
+Now, when the thought process of developing R standard started, this being an emerging area, our being a large country with diverse set of professional, it was thought of to give a detailed guidance rather than issuing just one standard, which presumes that a lot of people know a lot of things. 
+
+11:14
+Sir, if you will read these standards, even after having 20 standards and even after us done reasonable work in this field, even we still find that there are places where the standards we can say that they are ambiguous and they are subject to interpretation. So even after drafting so many standards, there are a lot of places which need more clarity, which will evolve over the period of time. 
+
+11:36
+Now coming to this series, so that is the reason why we had full set of 20 standards so that it covers right from Landing of the assignment to doing the assignment, to supervising the assignment and including some specialized area reporting quality control as well. Now coming to the series. What is the series now? These series? These series are in line with global practices. 
+
+12:06
+If we see the internal audit standards, if we see the accounting standards, if we see the auditing standards, all standards comes in series now. Sorry, now the rational s200 Series, so this introduces the standards. 200 series is on engagement management. Then we have 210,220.230, where 210 speaks about the nature of Engagement. 
+
+12:36
+Say, if we want to elaborate more on what is forensic accounting, what is investigation, what is litigation support, we have a rule of 211,212, so on and so forth. That is why the rational has been taken to distribute the standards in logical sections in creating logical compartments. 
+
+
+## Framework
+12:57
+Yes, sir, I think that's very fair explanation, because, like there are Bankers who are also our audience, there are insolvency professionals who are our audience, and I'm not expecting that everyone. Then there are a lot of Advocates who are our audience. So I was not expecting that everyone is a chartered accountant. So this explanation I thought may be required by them, because, say, chartered accountant would know the structure of Standards internationally and by. 
+
+13:29
+The Institute of Chartered accountant. So therefore this acceleration will actually have a meaning to them. So the framework again, foreign work, warning, forensic accounting and invest investigation. again there are two things: implementation guide and Technical guide. Whereas the implementation guide is focusing on best practices, methodologies or approach on how best to apply the prescribed requirement to achieve the objectives of the standard. 
+
+13:57
+And then the technical guide is clarification as to what extent the standard applies in a certain situation or in a specific industry or under unusual circumstances, considering the technical or operational uniqueness of the same, and how the best achieve the objectives. That is all recommendatory. So the important definitions that I could see in these standards, one is the forensic accounting and investigation, litigation, support and fraud detection. 
+
+14:29
+So this is also a kind of assignments that any chartered accountant can do. One is the forensic accounting. so now I would say that to all the bankers and to all the professionals that the they should not use the word audit whenever they issue an engagement letter. They should only say forensic accounting and investigation and if it is only for the litigation support, so that can be added for litigation support or for fraud detection. 
+
+15:01
+But the forensic accounting it is actually defined. It is defined because it is not something that basically somebody is going to do the accounting, but analytic analysis of the accounts available, converting those accounts into different formats so that the information is surfaced. The required information is surfaced. 
+
+15:24
+That is what is the part of the forensic accounting, where we use the existing record, existing accounting, existing documents in such manner, in such formats that the non compliances or alerts will be generated. So that is what is probably called forensic accounting, which will help finding the ultimate objectives of a particular assignment. 
+
+15:50
+Now the investigation is basically a systematic and Critical examination of the facts, records and documents for a specific purpose and other forms of evidence for a specific purpose, such as an alleged legal, ethical or contractual violation. So this is the investigation that we do, and in this investigation even the interviews is also part of the standard. 
+
+16:17
+It is required that any professional doing these kind of assignments will also do interviews with the management employees or any other party. now the litigation support is that there are. You see, like I will come to that particular slide, where I am showing that what we think that the forensic accounting and investigation assignments are only restricted to few areas, like the bank fraud or usage of funds or IBC. 
+
+16:45
+But in fact durgesh would support me in saying that there are 20 more areas where this particular specialization is required, and those areas are coming up. And Ankit you can say something with the yesterday what Amit Shah was saying. You probably we have heard that together, but you understood it better because he what Amit Shah was doing, that they are creating something like 2.000 such professionals who would be a forensic expert. 
+
+17:16
+It is only yesterday's news. please until please make our audience know about that. 
+
+
+## Digital Forensics
+17:23
+So those of us in profession understand that whenever we talk about economic offenses, then the digital Trail or digital forensics become a very important evidence that comes into play. 
+
+17:36
+So yesterday, when Amit Sanji was briefing the parliament about the new laws which will be replacing the iipc, crpc and Evidence Act, he stressed upon how the new Provisions or the new acts that they have drafted take care of the digital forensics in the process of the the criminal scrutiny of, or rather I would say adjudication of, criminal acts of you know day to day life. 
+
+18:08
+So he talked about how the police forces across India would then have access to forensic experts who can dig out Digital Data, who can dig out other forensics which are related to crime, and that those facilities will help in strengthening the process of law and rather the command of law over, you know, Finding evidence to punish the accused. 
+
+18:35
+So currently I believe that is weak, because if we talk about digital forensics then yes I believe police has certain support from forensic exports, but then maybe that's what they want to strengthen and maybe provide a centralized availability of data to the various police forces across India. So that's also on the cards. 
+
+
+## Standards
+18:56
+So I think this profession actually is going to grow a lot, because the various agencies are also taking help of this profession. 
+
+19:06
+Various litigation supports are also required. Income tax department also needs the expertise of such professionals. Similarly, GST Department, similarly the criminal investigation any kind of financial crime. All agencies require the support of these professionals. So these standards forensic accounting and investigation standards are actually released by Institute of Chartered accountant at a very right time. 
+
+19:38
+While the country is thinking about different kind of evidences, and those evidences will become now, after the change in the Indian Evidence Act, these evidences actually will become officially approved evidences. This is what I wanted to say because Amit Shah G he has announced that these findings of the forensic experts will be considered as the evidence for a proceeding may be criminal or maybe Civil. similarly in litigation support. 
+
+20:13
+Suppose there is a there is a dispute regarding the operations and management under the companies Act and the one director is accusing the other. I feel the courts will start giving this assignment to. The Experts to find out the actual loss or actual diversion of the funds. 
+
+20:34
+So the fraud detection also related to the employees related to dealers related to even any kind of stakeholder that also would pick up, because mostly the businesses are more worried from their own internal structures and not from the outside. The most of the threats to the businesses are from internal. These are internal threats rather than external threats. So basic principles of the forensic accounting and investigation. 
+
+21:10
+These are all very common, like Independence, integrity and objectivity, due Professional Care, confidentiality, skill and competence, contextualistic contextualization of situation. Now this part, we must understand the context. In what context the assignment is being given to us, the objective of the assignment, so that is very important to understand when we take up this assignment. Primacy of Truth, respecting rights and obligations, separating facts from opinions, and then quality and the continuous Improvement. 
+
+21:43
+These all basically are the key Concepts, key framework and the integral part of the forensic accounting and investigation domain. Like the nature of Engagement is very important fraud risk law and regulations of a particular assignment. Now suppose we are doing an assignment under the RBA Master circular, then we must know the details of that RBA Master circular. 
+
+22:09
+So in case we are doing the assignment under the IBC, then we must know what is section 43,45.49,66.50,59 says, but then the other is applying hypothesis. I would like to understand from you regarding how do we apply hypothesis and how do that becomes final evidence in a proceeding? 
+
+
+## Hypothesis
+22:38
+Yes, I am sorry. Yes, sir. So you know, sir, the standards that is applying hypothesis. 
+
+22:49
+As we know applying hypothesis is one of the key Concepts, that is standard 140. Now the moment we start engagement. I understand our audience is restricted to the application of IBC, but then the standards have a wider applicability and hence the concept of hypothesis. Now to start any investigation. Let us take the IBC investigation, the transaction review or any other investigation. 
+
+23:17
+Say the bank has appointed for investigation as to whether the funds have been siphoned off or whether the funds have been diverted. We have to start with a presumption. 
+
+23:27
+Rather, we have to start with an assumption or raw thought that yes, the company has created a step down subsidiary in an overseas jurisdiction and the company has transferred an amount of, say, 10 million Indian rupees overseas jurisdiction, which money has never returned to the return back to the company. So we can start with a hypothesis. 
+
+23:55
+We can start with a raw thought process that this may be a way how the company has removed money outside the books. Now, this working Theory, this working preposition, would be called as hypothesis. this is the basic question that needs to be answered throughout the engagement for which the professional is appointed. During the course of Engagement, he would be trying to answer these questions and collecting evidence. 
+
+24:28
+So ultimately, the engagement, the appointment when made, has to come up with the appointment has to come up with objective based on that objective. A hypothesis has to be created based on this hypothesis, evidence is to be collected and this evidence has to be presented in the report. This is how the entire concept comes up, sir, good see. 
+
+
+## Available Assignments
+24:56
+So I see Ankita with like. 
+
+24:59
+I see I will go these two to two slides, which are basically focusing on what kind of assignments are possibility possible to which are covered under these standards, and this also gives a kind of overall availability of the market for these kind of assignments. So Ankit, after this we will be you. You will please take the questions because there are questions also. So now this particular standard. So they are applicable on such assignments. 
+
+25:30
+Now how the assignments? What kind of assignments are available in the market one somebody can ask you to review my books of accounts for finding errors and irregularities. Then somebody can say that the business was interrupted because of some natural disasters or accidents or any other event. So we need to calculate the financial loss. 
+
+25:52
+Somebody can say that the estimate of the inventory in a warehouse fire or in a theft, or to estimate whatever loss of profit because of any kind of event. That also can be the assignment, because this is basically not accounting. This is not Assurance. This is a different kind of assignment. 
+
+26:11
+Then somebody can say that we are nowadays thinking that our wastage in the production is very high, so that also needs some kind of forensic accounting and investigation how our the consumption or our wastage is higher or our consumption of raw material is higher and the CB mandated examination into Financial related matters. 
+
+26:32
+And then there are vessel blowers where the complaints are filed before any agency and when the complaints are filed before any agency, in that case that agency, including CB, can also mandate such assignments. And also in the case of some irregularity or fraud in the purchasing department of a company, purchase of raw material or any other things, there can be crimes. There can be some unusual active activity amongst the staff members. 
+
+27:01
+So these These are various kind of like. somebody can say that our procurement had is also, it looks like, a very fishy. And then coming to the main stream of assignments like the borrowers default loan and the NPA, misappropriate misappropriation of funds, diversion of funds and then, like employees, theft the Securities fraud, falsification of the financial statements and identification of insurance, frauds, diversion which utilization, siphoning of the earning of the company by putting in additional expenditure or by something then concealing the property of the company and the manipulating the accounts financial statements. 
+
+27:49
+Then there can be the some manipulations for in manipulation of the stock price by batting up the profit or by window kind of window dressing of the balance sheets and then manipulation in the price of these shares. then various instances where the portfolio managers are in fact doing some, then investigating agencies like the investigating agencies like this in this CBI or the enforcement directorate. They also engage income tax department, GST department. 
+
+28:24
+So all these are various kind of assignments and the litigation disputes. So these are all various kinds of events where these assignments can be given. I think now Ankit, we can take the questions, as you can see the questions and then we can take it. 
+
+
+## Questions
+28:46
+One of the questions is from. 
+
+28:50
+So this question says that when we talk about these standards, what how do we use these for puff transaction audits, so like if an IP or RP or I IRP Liquidator, let's say, is getting a transaction already done? so what part of these guidelines or these standards can help the IP to enforce a certain quality of the report? We will come back to this. We see we have not yet covered this part. 
+
+29:21
+We are coming to this part so something that we can understand. I have noted this question how finally it would how the IPS are Guided by this standards. Then of course there's a question from Sandeep satkaraji is asking: what is the? What kind of opportunities are available in the area of forensic accounting for non ca? So I believe there is plenty of opportunity available. I'm hardly seeing any restriction per se. Some departments might restrict this. 
+
+29:48
+Some may not restrict this, but then right now there is nothing which the says that only started accountants can do forensic accounting. It's a different fact that the Institute of Chartered Accountants of India have has taken this effort of you know putting up these standards to have a reasonable standard of the reports you know made by started accountants see when, since this f a I standard has been issued now, most of the agencies will actually get information about these standards and they would prefer to get the assignments done from a qualified chartered accountant, because everyone wants that the professional should be regulated. 
+
+30:41
+So there should be a process of disciple reaction. There should be a process where the somebody's regulated, guided and also has done some kind of processes are mandatory on the person. Anyone in the market who is not regulated doesn't have such standard, doesn't have mandatory regulations, doesn't have a disciplinary action processor structure. how can that report be trusted? 
+
+31:13
+Yes, a chartered accountant can always say that I'm also hiring an expert into the digital investigation and that person would be helping me. But basically the assignment now would come to Chartered Accountants also and most of the private limited companies or all those people. They have set up their own forensic Labs. 
+
+31:34
+Those would be appointed by the Chartered Accountants as an expert, because these standards also provide that the experts can be appointed with a definite scope of work and that report can be used by the professional for giving a final report. So I believe that mostly this these assignments would be restricted to Chartered Accountants only. and what is your opinion that actually you know? 
+
+
+## Forensic Standards
+32:04
+I have been practicing in this domain since 2015, probably when forensic was not mainstream, 2014, I was pursuing my PhD. In fact, when you spoke about you know our honorable home minister emphasizing the use of forensics I would go back to 28th August. Yeah, that was the date of my convocation when I was awarded my PhD degree by him in the University. 
+
+32:30
+There's a university in gandhinagar where I was awarded the degree and in the convocation address he spoke that very soon any offense involving a sentence more than six years the opinion of forensic professional will be mandatory. So he spoke this in 2022, August 2022. That was when our convocation was held. now. This was done to increase the conviction rate now coming to our standards when the Institute of so before. 
+
+33:06
+Why I am giving you this background is that because I have been practicing in this domain since long. I had written several letters. I was in contact with several senior officials of. The Institute, council members as well that we have to have something which govern the forensic practice. You, of all the people, must have faced the music that because we didn't had any Benchmark, we didn't had any standard. The quality of reports were always great. 
+
+33:33
+You really cannot rely upon the report and there was a sense of frustration as to what should be done if the reports are not of a particular quality. so sir. The Institute came up with this thought and idea to create a minimum Benchmark as to what should be the report, because there is nothing. There is nothing except for this forensic standards in our country which regulates this profession. 
+
+33:56
+That is why the Institute has come up with minimum set of standards that if a report is being issued, it has to have minimum disks. If an engagement is being done, it has to have minimum. This now because the legal framework of the Chartered Accountants Act is such that anything which is issued by the council is binding only on Chartered Accountants. 
+
+34:18
+That is why any guideline, any standard issued by the Institute, is applicable only for Chartered Accountants. I very strongly agree with your thought that chartered accountant would be the preferred partner now to conduct a forensic investigation, because first, the relevant stakeholders will have that assurance that a particular set of standard applies to them and they report or the quality of work has to be of a particular grade. 
+
+34:49
+Second, there is a disciplinary mechanism, say if you engage me for some work and I don't follow the standard, I have done something which is contrary to the standard. You always have that recourse of finding a complaint before the Institute. So that I am put to line again. The standard is flexible enough, because we don't consider in and not just in an IVC processing not just in digital domain. 
+
+35:16
+Sir, we have done work where we were supposed to calculate the value of the sonars, and radars are fixed in the coastal belt. So we have done such work. Now how are we supposed to Value as to what is the? What is the value of the sonar? What is the value of radar? That is totally alien concept. So we have to take domain expert. 
+
+35:38
+That is why this standard very categorically fais 230. We have fais 230, which is using work of an expert and then because digital domain has been so important because digital is everywhere. So that is why we have a specialized standard e discovery that is evidence Discovery in digital domain. That is 420 that is already there. 
+
+36:00
+So because Chartered Accountants, you, if the work is done by a chartered accountant, there is recourse available to the stakeholder, be it Banker beat RP. There's records available. Therefore, Chartered Accountants will become a professional of choice if it has to be. 
+
+36:17
+If there has to be, you know if they want a particular grade of outcome, because for everybody else they may, they may choose to follow the standards or they may choose not to follow the standards. But for a chartered accountant, it is mandatory to follow these standards. Hence I according to me, Chartered Accountants will become a professional of choice. 
+
+
+## Not Compliant to Standards
+36:39
+For this I agree with you, sir. 
+
+36:41
+Also I feel that the defendants or defendants of this report, in case there is a negative report against any person, they would always use that the report which is given by the professional is not, as for it is not compliant to the Fai standard, and that would be taken by the course very seriously. 
+
+37:10
+If a report is not compliant to standards, that means the impact of the report will be completely diluted and that person will get an Escape Route and thereafter the stakeholders they would not trust a report which categorically will not say and confirm that this report is compliant to Fai standards. 
+
+37:33
+So Ankit, do you still think that this is going to happen, that every report it will be considered incomplete or kind of incorrect in case it is not saying that the report complies to the standard? 
+
+
+## Evaluation Standards
+37:48
+Now I will use this opportunity to say how the evaluation standards are playing a role. 
+
+37:53
+So see it started way back in 2017 or 2018, rather when these standards first started some kind of an enforcement and the legal enforcement happened then, but you know it's a it's a success. Where you know the standards are taught. The standards are then accepted by professionals and then subsequently they are enforced. 
+
+38:11
+So recently we have been seeing so many ibbi orders where the regulator has been saying that the compliance with standards was missing and therefore there have been actions on valuers who have done those reports or completed those reports without following standards. 
+
+38:25
+So that is what I think is expected here as well: that if the Institute says that yes, these standards are mandatory, and tomorrow on peer review or any other investigation, it comes out that these are not followed, then that will be a problem for the professional. So therefore compliance is important. 
+
+38:42
+Another thing which is very, very important here that I would like to add is that this is also seen as a very, very big opportunity where what this is called is the role of a data scientist, and this data scientist role is something where I think all professionals are excited to be part of, because Big Data, large data crunching, that trying to find out evidence out of that, it's something which is a highly technical job and it's something which is not, I would say, exactly similar to what Chartered Accountants are doing presently for large audits. 
+
+39:17
+But it is I can say that there is similarity in the two, because there again, when you're doing audit, you're not doing investigation, but you're still doing a lot of verification on large data. so, therefore that Synergy is available for Chartered Accountants to do to become data scientists of the future. 
+
+
+## IBC Standards
+39:34
+Good, thank you. So no, I think we can move now to the guidelines issued by the Institute of Chartered Accountants. 
+
+39:40
+Those are dated 22nd of July 2023 for forensic accounting and investigation standards like how to implement it. So these I'm not very like. Kind of will not be a very detailed discussion on this, but basically there are about few guidance that they are saying the professional may consider certain high level organizational factors that influence the engagement fraud risk area. So this these are the guidelines and these can also be working as a checklist. 
+
+40:11
+Any professional who is doing an assignment can also use this as a checklist. the nature of the business and the industry of the organization, the business environment and the stakeholders of the organization, the corporate governance and the entity level, control framework, the existence and effectiveness of its anti fraud programs, risk management and compliance culture, public perception and investor confidence, extent of automated control, manual controls, job rotation and mandatory League policy. 
+
+40:38
+These are some of the very macro level thoughts that you have to develop before you if you start an assignment. Then the little bit of micro level. the professional may consider the following: fraud risk indicators, which are also called red flags, and the early warning signals, and these are some where we see like these. If the patterns are found like this, like, suppose, a pattern of similar audit adjustments proposed year after year. 
+
+41:10
+Persistent cash flow problems, I mean, if somebody can recall, in the case of satyam, the Auditors were looking into the consistent cash flow problems. The management was always ready to take loans, while there was thousands of crowd lying in the bank fdrs, so that should have been a trigger to them. That should have been red flag to them before they actually assured the accuracy of the financial statements, even when the organization has regularly reported profits. 
+
+41:43
+Now if the organization is reporting profits and still having cash flow problems. This is exactly what happened in satyam outstanding results, when the results of the industry has suffered a downtrend. Now, in case there is a they see, like when everyone knows that the thermal power industry is not doing well and if one company is reporting very good result, that should be it. 
+
+42:02
+That should be a red flag transaction in these books are not recorded in a complete or timely manner or are improperly recorded as to the amount, accounting period, classification or the policy, unreconcil, reconciled subsidiary or general ledgers. These are some of the micro level and also maybe some more. The usual Financial conditions of the organization also should be seen. Unusual financial ratios when compared to the competitors, significantly outpacing competitors in the industry. 
+
+42:35
+Sudden Change in the fortunes of an organization may be huge loss or maybe huge profits. Constant Financial pressures that we've already discussed. Foreign, excessive related party transactions. Inadequate segregation of duties or employees unwilling to share duties. Excessive cash transactions. Employee behavior and lifestyle inconsistencies. You may see people person having a salary of 5.000 rupees and coming in the car in the office. Lack of transparency and information sharing. Unexplained inventory discrepancies. Lack of independent oversight. 
+
+43:11
+Hierarchy structure in the organization not followed in decision making. Inconsistent, vague or improv. Plausible responses from the management, like limited or poor written policies for the employees. Lack of internal controls. Instances of management override the control. Significance of the Operations, brand value, reputation. The employees are suffering from the financial damages. so these are the basic issues which actually which actually can be seen before an assignment is taken. 
+
+43:41
+Why I have listed in my PPT such things? Because I feel that for a professional conducting the assignment can also use these as checklist. So this is important that once you delegate something to your staff, these checklist can be provided to them and on each checklist a kind of comment can be obtained from your field workers who are actually doing the job. 
+
+44:05
+So this is what is the reason that I am stating this and I have taken it from the guidance note of. The Institute of Chartered accountant as issued under these standards. similarly, there can be something which is related to revenues:. The Unexplained variation between budgeted revenue and the actual revenues. Revenue recognition. Manipulations like booking Revenue prematurely or improperly to inflate Revenue figures. 
+
+44:30
+Revenue booked During the period ends, followed by Revenue reversals at the beginning of the period. Fictitious revenue or sales not supported with proof of delivery or service. Increase in quantity of the sales without increase in the sale value that actually can be used for even consuming the. The stock unexplained or unapproved. High discounts, especially toward the period end. 
+
+44:54
+That is used to reduce the profitability and to reduce the sales, non complies with the industry specific regulations and accounting standards related to the revenue recognition. That's also, and then something regarding expenditure. Expenditure and the vendor onboarding. siphoning of the funds through factitious or inflated expenditures in the books of account. Personal profiteering and kickbacks through vendor employee collusion is some of the very common instances of fraud. 
+
+45:26
+Analyzing the major spent spend booked, major expense booked, which should be commensurate with the size of the business and nature of the operations of the organization budgeted spending in comparison with the actual, to identify reasons for deviation, especially those that are indicative of any unusual patterns, expenses booked towards the end of accounting period, as adjustment entries, sudden spikes in the business volumes to render and whether the vendor was onboarded through the organization's regular onboarding processes and also use of ghost vendors. 
+
+46:03
+Nowadays we actually see a lot of such things. but then now I will actually come to the scope of work for the assignments under the IBC, but before I do that Ankit in case there are some questions not really okay. 
+
+
+## Scope of Work
+46:19
+So no, I would actually as I would say that the most of the insolvency professionals what we are learning as an insolvency professional. 
+
+46:29
+But we are learning from these standards that the scope of work for the assignment must be very clear. Now when we say this scope of work under the IBC, it is not restricted to only the perfect transactions, because, like what I have listed, this is not provided in the standards. I have listed it from my own understanding. 
+
+46:51
+One is the preferential transaction under Section 43, undervalued transactions under section 45, undervalued transactions with fraudulent intent, that is section 49. Extortionate credit transactions that is section 50. And then fraudulent trading or fraudulent transactions under Section 66. Then coming to the concealment or removal of the property of the corporate data, that is where I can actually go to section 69 of the IBC and I can also prosecute the responsible peoples. 
+
+47:23
+Then property of the copy data is concealed. That is where I can again go to section 69 and section 70. Then any debt due or any or from corporate data is concealed. Any property of the corporator is removed fraudulently. falsification falsified books of accounts of the corporate director, section 71, related party transactions. That actually will help us to understand the operations of the company. 
+
+47:51
+And then finally, we would say that the main objective of the assignment handing over to an expert would be to building evidences for the legal proceedings, as basically you are saying evidence Discovery. So these are the scope of work for the assignments under the I we see when we talk about Assignment Center IBC. So there are some Basics and those Basics like basically now I am coming to the preparation of the work. 
+
+48:21
+So the first part was for the person who is signing an engagement letter. I'm using a professional has to be very, very careful about the what is the scope of work that he should give. so I am emphasizably says that this is not only four sections of 43,45.50 or 66 the kind of presentation. I have given that this should be the scope of work. 
+
+48:47
+This should be now these scope of work, because this would be used by the insolvency Professionals for different sections. So this information again because see in the insolvency professionals the qualification is not only restricted to Chartered Accountants. An engineer can also become an insolvency professional. A banker can also become an insolvency professional. Anyone who has a management experience of more than 15 years can become an insolvency professional. So that not everyone is a chartered accountant. 
+
+49:16
+Not everyone can understand the accounting and also the forensic accounting. therefore the scope offer that I have now said that would be suitable to all, and the surfaced information and kind of evidence Discovery would become easier, and that will help us in recovering those lost money. So anything you would like to add here? 
+
+
+## Challenges
+49:45
+So, basically, when we talk about the forensic coordinate or transaction audit under IBC, the biggest challenge rather even for forensic audits which we are doing for banks, many such audits the biggest challenges data Gathering data. For an example, we recently are doing a case where we have been provided the financial statements of the company which are available in the MCA, and there is total diffuser on giving us any other information. 
+
+50:17
+So the only thing that we have got is bank statement. Again in the bank statement. we are not able to find who the amounts have been paid to or who have they been received from. Even that information is very difficult to dig into by Bank sometimes. So the limitation always comes in on Data and there the garbage and garbage out principle comes into place, that how do you do anything when you have almost no data? 
+
+50:41
+You can use all the tools in the world, but if that correct data is not available, you can't do much. That's the basic difficulty, I think in all processes. So then this standards, the guidance note, they are also providing us the checklist like how to conduct the work, so these can be used as a checklist. 
+
+51:06
+So there are separate checklists which can be said it is for the basics, for all kind of the requirements, like for all sections, and then there are specified checklist, although the checklist can be much longer. But this is what is provided in the guidance note. This is for preferential transactions. I am not going to read all that. This is for undervalued transactions. 
+
+51:35
+My objective is to bring to your understanding that this is what is available in the guidance node and this is what is available in these standards and what is mandatory, what is recommendatory. So all this is my it's like. I'm not going to read all this. But then yes, there are all kind of work procedures which are mentioned in the guidance node and those work procedures. 
+
+51:57
+It also goes up to how to verify purchase, sale, loan, employee records, transactions all that is provided in this and then finally coming to the loan accounts. Also, when we try to talk about the audit which is mandated To Us by lenders as per the master circular of RBI. There also the guidance node provides how to conduct the preliminary analysis of the borrowers profile. Then what are the other documents and the relevant information which is required? 
+
+52:28
+Then what are the kind of procedure that you would conduct? So this is where the total guidance note is actually helping all the professionals conducting the assignment or all the stakeholders who are mandating these assignments to professionals. So all these are mentioned in the kind of Standards. no, I am actually coming to you and I am trying to explain what exactly these standards are like. 
+
+52:57
+The first standard that we see it is basically standard number one zero, and these are the nature of Engagement. These are basically the what kind of Engagement it would be. Basically it says that there must be a Clarity on the engagement and it must Define the forensic and investigation engagement approach and then identify the specialized skills and the resources required. And then the documentation of the work process. 
+
+53:24
+What kind of documentation that would be retained that also is getting covered in standard 110 and then the fraud risk is covered in standard one, two, zero. These are the fraud risks. Then a documentation for the work procedure. again for each standard there is a first of all, there is an objective, then there is a work process procedure, then there is a quality control and there is a documentation. 
+
+53:52
+All, basically all these aspects are covered in each standard. Like in case you can see this standard one, three, zero. This is regarding the law and regulations, what law is required to be applied and what under what law. This kind of assignments are being handled. So these the documentations are also mentioned. Similarly, applying hypertension cases. This is also provided in standard 140. So this is what kind of document that you would retain. 
+
+54:26
+So like that was documentary. The all these standards in 100 cc's. Now, when we see that the standards in 200 series where the engagement management. here. I would like to say to all my insolvency professionals and all my Bankers that this engagement objective must be very clear and the documentation for the engagement that also should be very clear. The engagement letter. That has to be very clear engagement letter. 
+
+54:54
+So the in the various like, as I said, the objective has to be mentioned. So these are the kind of items which are required to be mentioned. Financial statement in whether it is for financial statement manipulation, whether it is for funds diversion, is it for anti money laundering? Is it for tax dues or tax evasion? Is it for related party transactions, or is it for valuation, the estimation of loan, or it is transactions under IBC? 
+
+55:20
+So that has to be a very clear mandate which is required. so Investigation Services. So similarly, all these standards continue like this. So one a couple of things that we have to, since we have to manage everything. So this PPT would be available. So all these standards are similar and all these standards will provide you, as discussed originally, 100 series, 200 Series, 300 series, 400,500 and 600 series. 
+
+55:52
+So all these standards basically would be applicable to the assignment which is the assignment. So the let us not I'll call it audit. We will always call it as a forensic accounting and investigation assignment. So there is a hardly any reason that we should continue. But I am saying that all these documents, these standards, are similar. We can take some of the questions and then we can see the closing remarks from durgeshti and Ankit. 
+
+56:22
+So we would not go to the entire PPT, because that's what is an indication that I wanted to give to all the audience. So I believe we have taken care of all the questions, only that puff transaction audit and applicability of the standards. On that I think we can maybe add some more, maybe add some more comments on that. 
+
+56:46
+Apart from that, maybe understand from the Practical experience of the gayestri on what kind of information can really you know maybe easier to fit for an effective transaction audit, given his kind of experience and the Practical side of forensic audits. I would specifically ask durgeshi to attend to this insolvency processes and looking into the three like limitations. One is the limitation of Records, limitation of data and non cooperation from the promoters. now. 
+
+57:22
+The third is what kind of disclaimers are accepted and fourth is how can the conclusion be drawn and how can the once the? Once the data is not available, the audit is not able, it is not completed, then what kind of report should be given and how the assignments can be closed. I think this is very important for the audience to understand. So, sir, quickly let me answer the question. Answer the question. 
+
+57:49
+So the first question, which Ankit was telling that regarding applicability of the standards, so I understand the board that is tab that they have. They are in process of constituting an expert Group, which will probably come up very soon, of course, with the approval of the council. they'll be coming up very soon as to all types of Engagement, not just IBC but all types of Engagement which may or may not be covered under the fais. 
+
+58:17
+Of course we get a lot of feeling that these are and should be covered. But then I understand the dab will be coming with a detailed clarification and it will come in with the detail guideline regarding the applicability. Second question that you said, coming to the actual work. So, sir, in my experience I have had hundreds of appointment on behalf of law enforcement agencies. 
+
+58:40
+I have done cases on behalf of ips as well, but the problem everywhere is the same that we don't have data. In fact, had we had data, the investigative assignment would become very easy. that is the presumption in investigation that you will not be having data. The presumption in research is that you will not be having data. You have to find the data. 
+
+58:59
+Now coming to how do we do the assignment if we don't have data? So never ever in a case we will be having the complete tally data, complete accounting records, complete Erp records. And even if we have the accounting records or the tally records or the Erp records, it would not be possible to rely on that, because those are all manipulated and punched. 
+
+59:22
+So the only sacrosine document and I have created a principle in my office that the only document with on which you can rely upon is the bank statements. That is the only document on which you can rely. You start with the bank document. you create a hypothesis, you start with the bank documents. Each and every transaction of the bank document has to be studied. Our Trail has to be found out. 
+
+59:46
+A thought process as to why this transaction happened has to be think, has to be thought in the mind of the person whosoever is doing the work, reviewing the work and preparing the report. Having said that it I very strongly agree that it is very difficult to give a conclusion in such situation. But then, sir, we have one of the basic principles as contextualization of situation and then one of the basic principles. I understand. 
+
+1:00:14
+The Honorable Supreme Court has a healthy Judgment of Telangana high court in I suppose, Rajesh Kumar or BS. you know, BS limited something like that, where State Bank of India, the by. The Honorable Supreme Court, has told State Bank of India that you have to before classifying willful defaulted, you have to give hearing to the other party. Now our standard very strongly dwells upon that. 
+
+1:00:39
+One of the basic principle is audio art from patam, that is, you have to give opportunity to the other side of being heard. Having said that, when we have multiple situations where the corporate debtor is not answering specific questions, shying away from answering specific questions, not giving data that has to be brought on record through communication. 
+
+1:01:03
+We also have a standard on communication protocol, so the multiplicity of communication asking specific questions, asking sharp instead of asking that give me your data instead of asking questions, generic questions like that. we have to say that give me all sales made to ABC Enterprise in the month of August, because I suspect that those transactions are fraudulent. If you ask such data, you will be getting response. 
+
+1:01:27
+Positive, negative that I really don't know, but you will be getting response which can help you build your case and you can draw a reasonable conclusion. Based on that, sir, the tone in tenor and the reply of the person whomsoever we are auditing the Oddity, as we say, though we don't use the word audit here, but then one and tenor of the person whom we are investigating. 
+
+1:01:51
+That will give us a feeling as to whether he is speaking true or he's speaking like at the end. We are not castigating as to whether there is a fraud or not. That is not my job. my job Ends by presenting a statement of fact. Probably a week ago I had a hearing in high court of Gujarat where the defense Council said that the chartered accountant has not told that who has committed this fraud. So. 
+
+1:02:16
+The Honorable Justice was very kind enough to say that is not the role of chocolate accountant. The chartered accountant has told that 9 pro has been siphoned off. It is the job of the police officer to find who has done the fraud. So our role Ends by telling that there is a suspicion and strong evidence which says that money has been diverted. Then it is for the investigating agency, because we have very limited rights. 
+
+1:02:39
+That is all I will say, sir new tab. Yes, Ankit, I was just saying that you were saying yeah. I think it's fair enough, so we can conclude it like this that the insolvency professionals and the banks, any stakeholder who is giving a mandate must take care of the engagement letter, scope of work and objectives and as far as the data is concerned, this is an assumption that this forensic accounting and investigation is a difficult task. 
+
+1:03:16
+It is not easier. So that the so it should not be a hurdle that the data extraction and creating evidences, like evidence delivered in detection or Discovery, this is also is the part of the scope of the professional. So whatever and to what extent that depends upon the various circumstances. So nobody can say that this particular personal is better or this is not better. 
+
+1:03:45
+But yes, there are information available on the domain also some public domains also. And then it's finally the disclaimers, limitations and the final opinion. This standard says that the one is the fact and the other is the one is the truth about the effect and the other is the opinion. The opinion also is required to be given as per these standards. 
+
+1:04:13
+However, the conclusive report is something which is required by the various branches of the IBC. They are saying that the report must say conclusive that this is a transaction which is covered under Section 43. That conclusion is required. This is a transaction which is covered under section 45. that kind of conclusion is required without these kind of conclusions. 
+
+1:04:35
+Although one thing that I must say that in the entire IBC and in any of the regulations made there and there is nowhere it is said that a an expert which is called a forensic auditor would be appointed. 
+
+1:04:51
+It is only said that the IIT can take an IP can appoint experts, so it is not mandatory that the expert is appointed in all the cases in case the IP himself can also discover the fraud or discover the evidences. That also would be acceptable to the codes. It is not required that if a resolution professional is reporting a transaction with evidences and with documents, nobody can say that this particular part has not been evidenced. 
+
+1:05:24
+It has not been supported by a report. that's not required in the IBC. So this is where I want to conclude that one don't give a chance to your defendants, to the promoters, so that they should say that this report is not conclusive. This report is not planned to Fai standards. Don't make your litigation like weak. So use these standards, mandate it very carefully and also take the reports which are compliant to these standards. 
+
+1:06:00
+This is where we can conclude. Thank you very much. Thank you durgesh pandaji and thank you Ankit. Thank you, audience, and we always feel happy when the audience number increases. So that is actually motivating us and we come with a new subject every Saturday at 11 am every Saturday. Thank you very much. Thank you, sir. Thank you, thank you, thank you everyone. Thank you so much. thank you for inviting me. thank you foreign. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

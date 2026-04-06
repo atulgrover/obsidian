@@ -1,0 +1,26 @@
+<html>
+<div>
+	<h2>
+		National Company Law Appellate Tribunal
+	</h2>
+	<h2>
+		State Bank Of India vs Mbl Infrastructures Ltd. &amp; Ors on 3 July, 2018
+	</h2>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI Company Appeal (AT) (Insolvency) No. 336 of 2018IN THE MATTER OF:State Bank of India ...AppellantVsMBL Infrastructures Ltd. &amp; Ors. ....RespondentsPresent: For Appellant: Mr. Sanjay Kapur, Ms. Megha Karnwal and Ms. Rishika Saha, Advocates. For Respondents: Mr. Abhinav Vaishisht, Sr. Advocate with Mr. Kunal Kohli, Advocate for R-1. Ms. Anusuya Salwan and Ms. Nikita Salwan, Advocates for R-2. ORDER
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		03.07.2018: Section 61(2) of Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as 'I&amp;B Code') pscribes period of 30 days for filing of an appeal by a person aggrieved by the order of the Adjudicating Authority. The proviso to the sub-section provides that the National Company Law Appellate Tribunal may allow an appeal to be filed after the expiry of said period of 30 days if it is satisfied that there was sufficient cause for not filing the appeal but such period shall not exceed 15 days. From a plain reading of the provision it is manifestly clear that the appeal has to be pferred within 30 days but delay not exceeding 15 days can be condoned in pferring the appeal provided the appellant is able to satisfy this Appellant Tribunal that there was sufficient cause for not filing the appeal within the pscribed period of 30 days. This provision unambiguously provides a maximum time frame of 45 days for filing of appeal, which is not further extendable on any ground whatsoever.
+	</p>
+
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		2. Admittedly, the instant appeal has been filed under Section 61 of I&amp;B Code well beyond the maximum pscribed period of 45 days. Same being hit by the limitation clause under the said provision is not maintainable. Submission of learned counsel for the Appellant that the appeal could not be pferred within extended period of limitation due to the intervention of vacations spanning the month of June has no merit as the Registry of this Appellate Tribunal was functioning throughout the vacation period and Vacation Bench was available.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		3. The appeal is accordingly dismissed as barred by limitation.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice Bansi Lal Bhat] Member (Judicial) am/uk Company Appeal (AT) (Insolvency) No. 336 of 2018
+	</p>
+</div>
+</html>

@@ -1,0 +1,19 @@
+<WRAP group>
+
+<WRAP half column>
+|{{:agent_icon.png?200}}|**[[rbz_tools:timeline_calendar|Timeline Calendar]]** - An interactive Insolvency Process Timeline Generator that auto-creates statutory CIRP, liquidation, and pre-pack milestones from the start date for professionals and teams.|
+</WRAP>
+
+<WRAP half column>
+|{{:agent_icon.png?200}}|**[[rbz_tools:fee_calculator|Fee Calculator]]** - A smart CIRP Fee Calculator that instantly computes eligible fees for Insolvency Professionals based on asset size, realization, and resolution value.|
+</WRAP>
+
+</WRAP>
+
+<WRAP group>
+
+<WRAP half column>
+|{{:agent_icon.png?200}}|**[[rbz_tools:task_list|Task Lists]]** - An interactive Insolvency Process Timeline Generator that auto-creates statutory CIRP, liquidation, and pre-pack milestones from the start date for professionals and teams.|
+</WRAP>
+
+</WRAP>

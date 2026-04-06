@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar</title>
+        <description>Insolvency &amp; Bankruptcy Resolution Services</description>
+        <link>https://resolutionbazaar.com/</link>
+        <image rdf:resource="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-03-30T21:24:13+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=iframe&amp;rev=1743341068&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=our_team&amp;rev=1743315771&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=start&amp;rev=1743366376&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=tag_filter&amp;rev=1743307628&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=wrap_plugin_example&amp;rev=1743364815&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://resolutionbazaar.com/</link>
+        <url>https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=iframe&amp;rev=1743341068&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T13:24:28+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>iframe</title>
+        <link>https://resolutionbazaar.com/doku.php?id=iframe&amp;rev=1743341068&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=our_team&amp;rev=1743315771&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T06:22:51+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>our_team</title>
+        <link>https://resolutionbazaar.com/doku.php?id=our_team&amp;rev=1743315771&amp;do=diff</link>
+        <description>Technology
+
+atul_grover IP Adv Atul Grover
+
+atul_grover IP Adv Atul Grover
+
+atul_grover IP Adv Atul Grover
+
+
+Sales &amp; Finance
+
+atul_grover IP Adv Atul Grover
+
+atul_grover IP Adv Atul Grover
+
+atul_grover IP Adv Atul Grover
+
+
+IBC Professionals
+
+atul_grover IP Adv Atul Grover
+
+atul_grover IP Adv Atul Grover
+
+atul_grover IP Adv Atul Grover</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=start&amp;rev=1743366376&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:26:16+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>start</title>
+        <link>https://resolutionbazaar.com/doku.php?id=start&amp;rev=1743366376&amp;do=diff</link>
+        <description>Our Services
+PROCESS ADVISORY
+
+INVESTMENT TEASERS
+
+INVESTOR SEARCH
+
+CLAIM SUBMISSION
+
+RESOLUTION PLAN
+
+About Us
+Tel: +91 98140-40900
+resolutionbazaar@gmail.com
+Our Team | Tag Filter</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=tag_filter&amp;rev=1743307628&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T04:07:08+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>tag_filter</title>
+        <link>https://resolutionbazaar.com/doku.php?id=tag_filter&amp;rev=1743307628&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=wrap_plugin_example&amp;rev=1743364815&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-03-30T20:00:15+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>wrap_plugin_example</title>
+        <link>https://resolutionbazaar.com/doku.php?id=wrap_plugin_example&amp;rev=1743364815&amp;do=diff</link>
+        <description>Claim Submission Prepacks (PPIRP)
+
+	*  resolution_process
+	*  liquidation_process
+	*  vol.liquidation_process
+	*  fast_track_process
+	*  per_guarantor_process
+	*  prepack_process
+
+Resolution (CIRP)
+
+	*  Form A Public Announcement CIRP
+	*  Form AA written consent as IP
+	*  Form AB written consent as AR
+	*  Form B proof of claim by OC except Worker Employee
+	*  Form C proof of claim by FC</description>
+    </item>
+</rdf:RDF>

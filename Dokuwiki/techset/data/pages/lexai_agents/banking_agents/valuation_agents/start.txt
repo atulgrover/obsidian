@@ -1,0 +1,39 @@
+<WRAP group>
+<WRAP half column>
+|{{:agent_icon.png?100}}|**[[lexai_agents:valuation_agents:Economic & Market Context Analysis|Economic & Market Context Analysis]]**\\  * **Economic Analysis Agent** – Models macro/microeconomic trends (inflation, rates, demand). \\  * **Market Data Analysis Agent** – Gathers comparable market prices and trends.\\  * **Blockchain Analytics Agent** – Tracks on-chain activity, token supply, and staking metrics (for crypto).\\  * **Crypto Market Analytics Agent** – Aggregates real-time crypto market data (price, liquidity, volume).|
+</WRAP>
+
+<WRAP half column>
+|{{:agent_icon.png?100}}|**[[lexai_agents:valuation_agents:Legal & Regulatory Compliance|Legal & Regulatory Compliance]]**\\   * **Legal Compliance & Documentation Agent** – Reviews applicable statutes (IBC, SARFAESI, Companies Act, FEMA, etc.).\\  * **Regulatory Monitoring Agent** – Tracks changing crypto and securities regulations.\\  * **Ethical & Governance Agent** – Ensures adherence to valuation standards and confidentiality norms.|
+</WRAP>
+</WRAP>
+
+
+<WRAP group>
+<WRAP half column>
+|{{:agent_icon.png?100}}|**[[lexai_agents:valuation_agents:Financial & Technical Analysis|Financial & Technical Analysis]]**\\   * **Financial Analysis Agent** – Evaluates financial statements, ratios, and revenue models.\\  * **DeFi & Tokenomics Evaluation Agent** – Analyzes token supply, inflation schedules, and cash flow potential.\\  * **Asset Condition Assessment Agent** – For physical assets (land, machinery), evaluates technical health and usability.|
+</WRAP>
+
+<WRAP half column>
+|{{:agent_icon.png?100}}|**[[lexai_agents:valuation_agents:Statistical & Risk Modeling|Statistical & Risk Modeling]]**\\     * **Statistical Analysis Agent** – Performs regression, time series, and forecasting.\\  * **Risk & Volatility Modeling Agent** – Quantifies uncertainty, tail risks, and market drawdowns.\\  * **Scenario Simulation Agent** – Tests multiple valuation assumptions (e.g., DCF, NPV, NVT).|
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+|{{:agent_icon.png?100}}|**[[lexai_agents:valuation_agents:Environmental & External Impact Assessment|Environmental & External Impact Assessment]]**\\    * **Environmental Impact Assessment Agent** – Evaluates sustainability, zoning, and compliance with ESG norms.\\  * **External Factor Analysis Agent** – Measures socio-political and locational influences on value.|
+</WRAP>
+
+<WRAP half column>
+|{{:agent_icon.png?100}}|**[[lexai_agents:valuation_agents:Valuation Computation|Valuation Computation]]**\\      * **Valuation Modeling Agent** – Applies DCF, market, cost, and income approaches automatically.\\  * **Settlement Optimization Agent** – Suggests value-aligned recovery or resolution plans (IBC-linked).\\  * **Cross-Asset Correlation Agent** – Compares asset classes for fair value estimation.|
+</WRAP>
+</WRAP>
+
+
+<WRAP group>
+<WRAP half column>
+|{{:agent_icon.png?100}}|**[[lexai_agents:valuation_agents:Reporting & Visualization|Reporting & Visualization]]**\\      * **Valuation Reporting Agent** – Generates standardized valuation reports.\\  * **Dashboard & Visualization Agent** – Presents valuation metrics interactively.\\  * **Audit & Transparency Agent** – Ensures traceability and compliance with valuation standards.|
+</WRAP>
+
+</WRAP>
+

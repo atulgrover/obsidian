@@ -1,0 +1,5 @@
+  * https://www.dokuwiki.org/plugin:data:list_of_employees
+  * https://www.dokuwiki.org/plugin:bureaucracy
+  * https://www.dokuwiki.org/plugin:data?s[]=add&s[]=form&s[]=variables
+  * https://www.dokuwiki.org/plugin:pagemod?s[]=add&s[]=form&s[]=variables
+  * https://www.dokuwiki.org/el:devel:events_list?s[]=add&s[]=form&s[]=variables

@@ -1,0 +1,9 @@
+<WRAP group>
+<WRAP half column>
+|{{:agent_icon.png?100}}|**[[lexai_agents:valuation_agents:financial_alaysis|Financial Analysis]]**|
+</WRAP>
+
+<WRAP half column>
+|{{:agent_icon.png?100}}|**[[lexai_agents:valuation_agents:asset_valuations|Asset Valuation]]**|
+</WRAP>
+</WRAP>

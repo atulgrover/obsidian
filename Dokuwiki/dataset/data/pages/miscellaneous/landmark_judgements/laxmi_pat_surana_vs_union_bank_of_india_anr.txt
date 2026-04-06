@@ -1,0 +1,783 @@
+#
+
+# Document
+
+# IN THE SUPREME COURT OF INDIA
+
+# Laxmi Pat Surana v. Union Bank of India & Anr.
+
+Civil Appeal No. 2734 of 2020
+
+Decided on 26-Mar-21
+
+# Coram:
+
+- Mr. Justice A.M. Khanwilkar
+- Mr. Justice Bhushan Ramkrishna Gavai
+- Mr. Justice Krishna Murari
+
+# Add. Info:
+
+Impugned Order: [2020] ibclaw.in 270 NCLAT, upheld.
+
+Corporate Debtor: Surana Metals Ltd.
+
+# Brief about the decision:
+
+# Facts of the Case
+
+The Financial Creditor (Bank/Respondent No. 1) extended credit facility to M/s. Mahaveer Construction (Principal Borrower), a proprietary firm of the appellant. The loan amount was disbursed to the Principal Borrower. M/s. Surana Metals Ltd. (Corporate Debtor), of which the appellant is also a Promoter/Director, had offered guarantee to the two loan accounts of the Principal Borrower. The stated loan accounts were declared NPA on 30.01.2010. The Financial Creditor then issued a recall notice on 19.02.2010 to the Principal Borrower, as well as, the Corporate Debtor. The Financial Creditor then filed an application under Section 19 of the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 against the Principal Borrower before the Debt Recovery Tribunal at Kolkata. The Financial Creditor then proceeded to file an application under Section 7 of the Code on 13.2.2019 for initiating CIRP against the Corporate Debtor.
+
+# Questions in this appeal
+
+Two central issues arise for determination as follows:
+
+1. (i) Whether an action under Section 7 of Code can be initiated by the financial creditor (Bank) against a corporate person (being a corporate debtor) concerning guarantee offered by it in respect of a loan account of the principal borrower, who had committed default and is not a “corporate person” within the meaning of the Code?
+
+Print Date: June 6, 2024
+---
+#
+# IBC Laws
+
+# Segment Headers
+
+# Decision of the Adjudicating Authority
+
+# Decision of the Appellate Tribunal
+
+# Decision of the Supreme Court
+
+# Segment Lists
+
+- An application under Section 7 of the Code filed after three years from the date of declaration of the loan account as Non-performing Asset(NPA) is not barred by limitation.
+
+# Segment KeyValuePairs
+
+Decision of the Adjudicating Authority:
+
+- The Adjudicating Authority found that the Principal Borrower and the Corporate Debtor had admitted and acknowledged the debt, making the application filed within limitation.
+
+Decision of the Appellate Tribunal:
+
+- The NCLAT dismissed the appeal and affirmed the conclusions of the Adjudicating Authority.
+
+Decision of the Supreme Court:
+
+- The Hon’ble Supreme Court clarified the definition of "financial creditor" and the rights of the creditor in relation to a guarantee offered by a corporate person.
+
+# Group Sections
+
+# Decision of the Adjudicating Authority
+
+The Adjudicating Authority held that the action had been initiated against the Corporate Debtor, who became liable under Section 7 of the Code.
+
+# Decision of the Appellate Tribunal
+
+The NCLAT affirmed the Adjudicating Authority's conclusions on the preliminary objections raised by the appellant.
+
+# Decision of the Supreme Court
+
+The Supreme Court clarified the rights of a financial creditor in relation to a guarantee offered by a corporate person.
+
+# Segment Paragraphs
+
+The term “financial creditor” has been defined in Section 5(7) read with expression “Creditor” in Section 3(10) of the Code to mean a person to whom a financial debt is owed and includes a person to whom such debt has been legally assigned or transferred to.
+
+A right or cause of action would enure to the lender (financial creditor) to proceed against the principal borrower, as well as the guarantor in equal measure in case they commit default in repayment of the amount of debt acting jointly and severally.
+
+# Segment Tables
+
+Print Date
+June 6, 2024
+---
+#
+# Document
+
+# Segment 1
+
+- coextensive and coterminous with that of the principal borrower to defray the debt, as predicated in Section 128 of the Contract Act. As a consequence of such default, the status of the guarantor metamorphoses into a debtor or a corporate debtor if it happens to be a corporate person, within the meaning of Section 3(8) of the Code. For, as aforesaid, expression “default” has also been defined in Section 3(12) of the Code to mean non-payment of debt when whole or any part or instalment of the amount of debt has become due or payable and is not paid by the debtor or the corporate debtor, as the case may be.
+- A priori, in the context of the provisions of the Code, if the guarantor is a corporate person (as defined in Section 3(7) of the Code), it would come within the purview of expression “corporate debtor”, within the meaning of Section 3(8) of the Code.
+- It may be useful to also advert to the generic provision contained in Section 3(37). It postulates that the words and expressions used and not defined in the Code, but defined in enactments referred to therein, shall have the meanings respectively assigned to them in those Acts. Drawing support from this provision, it must follow that the lender would be a financial creditor within the meaning of the Code. The principal borrower may or may not be a corporate person, but if a corporate person extends guarantee for the loan transaction concerning a principal borrower not being a corporate person, it would still be covered within the meaning of expression “corporate debtor” in Section 3(8) of the Code.
+
+# Segment 2
+
+There is no reason to limit the width of Section 7 of the Code despite law permitting initiation of CIRP against the corporate debtor, if and when default is committed by the principal borrower. For, the liability and obligation of the guarantor to pay the outstanding dues would get triggered coextensively.
+
+To get over this position, much reliance was placed on Section 5(5A) of the Code, which defines the expression “corporate guarantor” to mean a corporate person, who is the surety in a contract of guarantee to a Corporate debtor. This definition has been inserted by way of an amendment, which has come into force on 6.6.2018. This provision, as rightly urged by the respondents, is essentially in the context of a corporate debtor against whom CIRP is to be initiated in terms of the amended Section 60 of the Code, which amendment is introduced by the same Amendment Act of 2018. This change was to empower NCLT to deal with the insolvency resolution or liquidation processes of the corporate debtor and its corporate guarantor in the same Tribunal pertaining to same transaction, which has territorial jurisdiction over the place where the registered office of the corporate debtor is located. That does not mean that proceedings under Section 7 of the Code cannot be initiated against a corporate person in respect of guarantee to the loan amount secured by person not being a corporate person, in case of default in payment of such a debt.
+
+# Segment 3
+
+The “debt” of a corporate person would mean a liability or obligation in respect of a claim which is due from any person and includes a financial debt and operational debt.
+The expression “debt” in Section 3(11) is wide enough to include liability of a corporate person on account of guarantee given by it in relation to a loan account of any person including not being a corporate person in the event of default committed by the latter. It would still be a “financial debt” of the corporate person, arising from the guarantee given by it, within the meaning of Section 5(8) of the Code.
+
+# Segment 4
+
+Notably, the expression “corporate guarantee” is not defined in the Code. Whereas, expression “corporate guarantor” is defined in Section 5(5A) of the Code. If the legislature intended to exclude a corporate person offering guarantee in respect of a loan secured by a person not being a corporate person, from the expression “corporate debtor” occurring in Section 7, it
+---
+#
+# Document
+
+# Segment 1
+
+- IBC Laws® | www.ibclaw.in
+
+# Group 1
+
+Key-Value Pairs:
+
+- Section 5(5A) defines expression “corporate guarantor”
+
+- Legislature could have made amendments to various sections of the Code
+
+# Group 2
+
+Key-Value Pairs:
+
+- Section 3(8) defines “corporate debtor” for the entire Code
+
+- Section 5(5A) defines “corporate guarantor” for Part II of the Code
+
+# Group 3
+
+Key-Value Pairs:
+
+- Liability of guarantor is coextensive with that of the principal borrower
+
+- Section 7 remedy is for reorganization and insolvency resolution of corporate debtor
+
+# Group 4
+
+Key-Value Pairs:
+
+- Guarantor's status changes to corporate debtor when principal borrower defaults
+
+- Section 7 can be invoked against a corporate guarantor being a corporate debtor
+
+# Segment 2
+
+- Whether an application under Section 7 of the Code filed after three years from the date of declaration of the loan account as Non-performing Asset(NPA), being the date of default, is not barred by limitation?
+
+# Group 5
+
+Key-Value Pairs:
+
+- Supreme Court decision on applicability of Section 18 of the Limitation Act on IBC
+
+- Section 238A of the Code is clarificatory in nature and applies the provisions of the Limitation Act on a case-to-case basis
+
+# Group 6
+
+Key-Value Pairs:
+
+- Amendment in the Code does not revive time-barred debts under the Limitation Act
+
+- Provisions of Limitation Act made applicable to proceedings under the Code
+---
+#
+
+# Segment A
+
+- Adjudicating Authority, the NCLAT, the DRT or the Debt Recovery Appellate Tribunal, as the case may be. After enactment of Section 238A of the Code on 06.06.2018, validity whereof has been upheld by this Court, it is not open to contend that the limitation for filing application under Section 7 of the Code would be limited to Article 137 of the Limitation Act and extension of prescribed period in certain cases could be only under Section 5 of the Limitation Act. There is no reason to exclude the effect of Section 18 of the Limitation Act to the proceedings initiated under the Code.(p36)
+
+# Segment B
+
+- Section 7, consciously uses the expression “default” – not the date of notifying the loan account of the corporate person as NPA
+- Ordinarily, upon declaration of the loan account/debt as NPA that date can be reckoned as the date of default to enable the financial creditor to initiate action under Section 7 of the Code. However, Section 7 comes into play when the corporate debtor commits “default”. Section 7, consciously uses the expression “default” – not the date of notifying the loan account of the corporate person as NPA. Further, the expression “default” has been defined in Section 3(12) to mean non-payment of “debt” when whole or any part or instalment of the amount of debt has become due and payable and is not paid by the debtor or the corporate debtor, as the case may be. In cases where the corporate person had offered guarantee in respect of loan transaction, the right of the financial creditor to initiate action against such entity being a corporate debtor (corporate guarantor), would get triggered the moment the principal borrower commits default due to non-payment of debt.(p37)
+- Thus, when the principal borrower and/or the (corporate) guarantor admit and acknowledge their liability after declaration of NPA but before the expiration of three years therefrom including the fresh period of limitation due to (successive) acknowledgments, it is not possible to extricate them from the renewed limitation accruing due to the effect of Section 18 of the Limitation Act. Section 18 of the Limitation Act gets attracted the moment acknowledgment in writing signed by the party against whom such right to initiate resolution process under Section 7 of the Code enures. Section 18 of the Limitation Act would come into play every time when the principal borrower and/or the corporate guarantor (corporate debtor), as the case may be, acknowledge their liability to pay the debt. Such acknowledgment, however, must be before the expiration of the prescribed period of limitation including the fresh period of limitation due to acknowledgment of the debt, from time to time, for institution of the proceedings under Section 7 of the Code. Further, the acknowledgment must be of a liability in respect of which the financial creditor can initiate action under Section 7 of the Code.(p37)
+
+# Segment C
+
+- Acknowledgments u/s 18 of the Limitation by Principal Borrower or Corporate Guarantor?
+- In the present case, the NCLT as well as the NCLAT have adverted to the acknowledgments by the principal borrower as well as the corporate guarantor – corporate debtor after declaration of NPA from time to time and lastly on 08.12.2018. The fact that acknowledgment within the limitation period was only by the principal borrower and not the guarantor, would not absolve the guarantor of its liability flowing from the letter of guarantee and memorandum of mortgage. The liability of the guarantor being coextensive with the principal borrower under Section 128 of the Contract Act, it triggers the moment principal borrower commits default in paying the acknowledged debt. This is a legal fiction. Such liability of the guarantor would flow
+---
+#
+# Document
+
+# Segment 1
+
+- from the guarantee deed and memorandum of mortgage, unless it expressly provides to the contrary.(p38)
+- The liability of the corporate guarantor (corporate debtor) is coextensive with that of the principal borrower and it gets triggered the moment the principal borrower commits default in paying the debt when it had become due and payable. The liability of the corporate debtor (corporate guarantor) also triggers when the principal borrower acknowledges its liability in writing within the expiration of prescribed period of limitation, to pay such outstanding dues and fails to pay the acknowledged debt. Correspondingly, right to initiate action within three years from such acknowledgment of debt accrues to the financial creditor. That however, needs to be exercised within three years when the right to sue/apply accrues, as per Article 137 of the Limitation Act. This is the effect of Section 18 of the Limitation Act. In that, a fresh period of limitation is required to be computed from the time when the acknowledgment was so signed by the principal borrower or the corporate guarantor (corporate debtor), as the case may be, provided the acknowledgment is before expiration of the prescribed period of limitation. Thus, the conclusion reached by the NCLT and affirmed by the NCLAT on the basis of the asservation in the application under Section 7 of the Code, read with the relevant undisputed correspondence, is a possible view.(p40)
+- The appellant was at pains to persuade us that the intention behind the communication dated 08.12.2018 sent to the financial creditor by the corporate guarantor (corporate debtor) is a triable matter, as it was sent without prejudice. We are not impressed by this submission. The fact that the principal borrower had availed of credit/loan and committed default and that the (corporate) guarantor/corporate debtor had offered guarantee in respect of the loan account is not disputed. What is urged by the appellant is that the acknowledgment of liability to pay the amount in question was by the principal borrower and that acknowledgment cannot be the basis to proceed against the corporate guarantor (corporate debtor). Section 18 of the Limitation Act, however, posits that a fresh period of limitation shall be computed from the time when the party against whom the right is claimed acknowledges its liability. The financial creditor has not only the right to recover the outstanding dues by filing a suit, but also has a right to initiate resolution process against the corporate person (being a corporate debtor) whose liability is coextensive with that of the principal borrower and more so when it activates from the written acknowledgment of liability and failure of both to discharge that liability.(p41)
+- Suffice it to conclude that there is no substance even in the second ground urged by the appellant regarding the maintainability of the application filed by the respondent-financial creditor under Section 7 of the Code on the ground of being barred by limitation. Instead, we affirm the view taken by the NCLT and which commended to the NCLAT — that a fresh period of limitation is required to be computed from the date of acknowledgment of debt by the principal borrower from time to time and in particular the (corporate) guarantor/corporate debtor vide last communication dated 08.12.2018. Thus, the application under Section 7 of the Code filed on 13.02.2019 is within limitation.(p42)
+- As no other issue arises for our consideration — except the two grounds urged by the appellant regarding the maintainability of the application for initiating CIRP by the financial creditor (Bank) under Section 7 of the Code, we dispose of this appeal leaving all “other grounds” and contentions available to both the sides open to be decided in the pending proceedings before the NCLT. The same be decided uninfluenced by any observation(s) made in the impugned judgment or in the present judgment. Accordingly, this appeal is disposed of in the above terms with no order as to costs. Pending applications, if any, also stand disposed
+
+# Segment 2
+
+- Print Date: June 6, 2024 6 | 28
+---
+#
+# Judgment
+
+# Segment Headers
+
+# Judgment/Order:
+
+# JUDGMENT
+
+# Segment Paragraphs
+
+A.M. Khanwilkar, J.
+
+Two central issues arise for our determination in this appeal, as follows:
+
+(i) Whether an action under Section 7 of the Insolvency and Bankruptcy Code, 2016 can be initiated by the financial creditor (Bank) against a corporate person (being a corporate debtor) concerning guarantee offered by it in respect of a loan account of the principal borrower, who had committed default and is not a “corporate person” within the meaning of the Code?
+
+(ii) Whether an application under Section 7 of the Code filed after three years from the date of declaration of the loan account as Non-performing Asset, being the date of default, is not barred by limitation?
+
+Briefly stated, respondent No. 1 bank extended credit facility to M/s. Mahaveer Construction, a proprietary firm of the appellant, through two loan agreements in years 2007 and 2008 for a term loan of Rs.9,60,00,000/- (Rupees nine crore sixty lakhs only) and an additional amount of Rs.2,45,00,000/-(Rupees two crore forty-five lakhs only), respectively. The loan amount was disbursed to the Principal Borrower. M/s. Surana Metals Limited, of which the appellant is also a Promoter/Director, had offered guarantee to the two loan accounts of the Principal Borrower. The stated loan accounts were declared NPA on 30.1.2010. The Financial Creditor then issued a recall notice on 19.2.2010 to the Principal Borrower, as well as, the Corporate Debtor, demanding repayment of outstanding amount of Rs.12,35,11,548/- (Rupees twelve crore thirty-five lakhs eleven thousand five hundred forty-eight only).
+
+The Financial Creditor then filed an application under Section 19 of the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 against the Principal Borrower before the Debt Recovery Tribunal at Kolkata.
+
+During the pendency of the stated action initiated by the Financial Creditor, the Principal Borrower had repeatedly assured to pay the outstanding amount, but as that commitment remained unfulfilled, the Financial Creditor eventually wrote to the Corporate Debtor on 3.12.2018 in the form of a purported notice of payment under Section 4(1) of the Code. The Corporate Debtor replied to the said notice of demand vide letter dated 8.12.2018, inter alia, clarifying that it was not the Principal Borrower nor owed any financial debt to the financial creditor and had not committed any default in repayment of the stated outstanding amount. This communication was sent without prejudice.
+
+The Financial Creditor then proceeded to file an application under Section 7 of the Code on 13.2.2019 for initiating Corporate Insolvency Resolution Proceeding against the Corporate Debtor, before the National Company Law Tribunal, Kolkata. This application came to be resisted on
+
+# Segment Lists
+
+- Whether an action under Section 7 of the Insolvency and Bankruptcy Code, 2016 can be initiated by the financial creditor (Bank) against a corporate person (being a corporate debtor) concerning guarantee offered by it in respect of a loan account of the principal borrower, who had committed default and is not a “corporate person” within the meaning of the Code?
+- Whether an application under Section 7 of the Code filed after three years from the date of declaration of the loan account as Non-performing Asset, being the date of default, is not barred by limitation?
+
+# Segment KeyValuePairs
+
+Print Date: June 6, 2024
+---
+#
+
+# Document
+
+# Segment 6
+
+- The Adjudicating Authority held that the action had been initiated against the Corporate Debtor, being coextensively liable to repay the debt of the Principal Borrower and having failed to do so despite the recall notice, became Corporate Debtor and thus liable to be proceeded with under Section 7 of the Code.
+- As regards the second objection, the Adjudicating Authority found that the Principal Borrower, as also, the Corporate Debtor had admitted and acknowledged the debt time and again, lastly on 12.2018 and thus the application filed on 13.2.2019 was within limitation.
+
+# Segment 7
+
+- The appellant carried the matter before the National Company Law Appellate Tribunal10, New Delhi by way of Company Appeal (AT) (Ins) No. 77 of 2020.
+- The NCLAT vide impugned judgment and order dated 19.3.2020, dismissed the appeal and affirmed the conclusion reached by the Adjudicating Authority on the two preliminary objections raised by the appellant.
+
+# Segment 8
+
+- The appellant, feeling aggrieved, has approached this Court by way of present appeal reiterating the two preliminary objections referred to above.
+- This Court vide order dated 28.7.2020 issued notice in this appeal, recording the principal ground urged at that time.
+
+# Segment 9
+
+- According to the appellant, Section 7 plainly ordains that an application can be filed by a financial creditor only against the corporate debtor.
+- A corporate debtor can either be a corporate person, who had borrowed money or a corporate person, who gives guarantee regarding repayment of money borrowed by another corporate person.
+- In other words, the Code cannot apply in respect of “debts” of an entity who is not a “corporate person”.
+- This position is reinforced by the fact that initiation of insolvency of firms and/or individuals in terms of Part III of the Code has still not been notified.
+- Further, Section 2 of the Code came to be amended to clarify that partnership firms and proprietorship firms would fall within Part III of the Code on the basis of the differentiation made in the report of the Insolvency Law Committee, February, 2020.
+---
+#
+
+# Document
+
+# Segment 1
+
+Section 2 of the Code was recently amended to clarify the different categories of debtors falling within Part III of the Code – (i) personal guarantors to corporate debtors, (ii) partnership firms and proprietorship firms, and (iii) other individuals. Though section 2(f) of the Code now includes the words “proprietorship firms”, this term has not been defined in another legislation.
+
+# Segment 2
+
+Proprietorship firms are businesses that are owned, managed and controlled by one person. They are the most common form of businesses in India and are based in unlimited liability of the owner. Legally, a proprietorship is not a separate legal entity and is merely the name under which a proprietor carries on business. Due to this, proprietorships are usually not defined in statutes. Though some statutes define proprietorships, such definition is limited to the context of the statute.
+
+# Segment 3
+
+For example, Section 2(haa) of the Chartered Accountants Act, 1949 defined a `sole proprietorship’ as “an individual who engages himself in practice of accountancy or engages in services …”. Notably, `proprietorship firms’ have also not been statutorily defined in many other jurisdictions.
+
+# Segment 4
+
+We may also usefully advert to Chapter 7 of the same report. It deals with the issue relating to Guarantors. Paragraph 7.3 thereof reads thus:
+
+“7.3 The Committee noted that while, under a contract of guarantee, a creditor is not entitled to recover more than what is due to it, an action against the surety cannot be prevented solely on the ground that the creditor has an alternative relief against the principal borrower. Further, as discussed above, the creditor is at liberty to proceed against either the debtor alone, or the surety alone, or jointly against both the debtor and the surety. Therefore, restricting a creditor from initiating CIRP against both the principal borrower and the surety would prejudice the right of the creditor provided under the contract of guarantee to proceed simultaneously against both of them.”
+
+(emphasis supplied)
+
+# Segment 5
+
+It is urged that any other view would inevitably result in indirectly enforcing the Code even against entities, such as partnership firms and proprietorship firms and/or individuals, who are governed by Part III of the Code, without notifying the same. According to the appellant, a corporate guarantee is one which is extended in respect of a loan given to a “corporate person”, coming within the purview of Part II of the Code. That is reinforced by the amendment Act 26 of 2018 on account of insertion of definition of “corporate guarantor” with effect from 6.6.2018, as can be discerned from the portion of report of Insolvency Law Committee, dated 26.3.2018, which reads thus:
+
+“23.1 Section 60 of the Code requires that the Adjudicating Authority for the corporate debtor and personal guarantors should be the NCLT which has territorial jurisdiction over the place where the registered office of the corporate debtor is located. This creates a link between the insolvency resolution or bankruptcy processes of the corporate debtor and the personal guarantor such that the matters relating to the same debt are dealt in the same tribunal. However, no such link is present between the insolvency resolution or liquidation processes of the corporate debtor and the corporate guarantor. It was decided that section 60 may be suitably amended to provide for the same NCLT to deal with the insolvency resolution
+---
+#
+# Document
+
+# Segment 1
+
+In substance, it is urged that since an application under Section 7 of the Code cannot be maintained against a principal borrower, who is not a “corporate person”, it must follow that in respect of such transaction, no action under Section 7 of the Code can be maintained against a company or corporate person, merely because it had extended guarantee thereto.
+
+# Segment 2
+
+As regards maintainability of the subject application under Section 7 on the ground of being barred by limitation, it is urged by the appellant that the date of default must be reckoned as 30.1.2010, on which date, the loan accounts were declared as NPA. That fact has been duly noted in the subject application filed on 13.2.2019. Hence, the application was ex facie barred by limitation in view of Article 137 of the Limitation Act, 1963. It is urged that Section 18 of the Limitation Act invoked by the Financial Creditor and which commended to the Adjudicating Authority and the NCLAT, has no application to the proceedings under the Code. It applies only to suits for recovery and in respect of property or right. The Insolvency and Bankruptcy Code is a self-contained code. Section 7 thereof merely refers to the factum of default being the cause of action for maintaining the application. The amended provision in the form of Section 238A of the Code, which has come into effect with effect from 6.6.2018, is only a clarificatory provision. It is urged that there is distinction between the proceedings for recovery and winding up under the Companies Act and the action under Section 7 of the Code. It is further urged that action under the Code cannot be invoked nor can be used as a fresh opportunity for creditors and claimants who had failed to invoke remedy in respect of claims which had become time barred under the existing laws. It is finally urged that even if Section 18 of the Limitation Act was to be applied to an action under Section 7 of the Code, the application including Form-1 filed by the financial creditor before the adjudicating authority in no way makes out the case for granting benefit under Section 18 of the Limitation Act. The factual narration in the subject application is that the date of default was 30.1.2010 being the date of declaration of accounts as NPA, and no other fact which is relevant for giving benefit under Section 18 of the Limitation Act as expounded in Shanti Conductors Private Limited vs. Assam State Electricity Board & Ors., has been stated therein. In other words, respondent No. 1 has failed to set forth a case in that behalf in the application as filed. Further, letters relied upon do not mention about the factum of acknowledgment of debt by the Principal Borrower or the Corporate Debtor, as the case may be. The said communications were sent without prejudice and cannot be read as an acknowledgment of liability as such. The communication dated 8.12.2018, therefore, will be of no avail to the Financial Creditor. All other relied upon communications have been sent by the Principal Borrower and not the Corporate Debtor, who is an independent legal entity. The so-called acknowledgment by the Principal Borrower, therefore, cannot bind the Corporate Debtor. Communications sent by the Principal Borrower after the original limitation period had expired, in any case, cannot be taken into account for invoking remedy under Section 7 of the Code. Obviously, there was delay in filing of the application under Section 7 and despite that, it was not accompanied by application for condonation of delay under Section 5 of the Limitation Act. According to the appellant, the factum of application being barred by limitation is a mixed question of fact and law and would involve triable issues. Those aspects can be finally adjudicated after production of evidence in the form of affidavits before the Adjudicating Authority.
+
+# Segment 3
+
+Reliance is placed by the appellant on the dictum of this Court in Babulal Vardharji Gurjar vs.
+---
+#
+
+# Segment 12
+
+- Financial Creditor refutes plea regarding maintainability of application against Corporate Debtor.
+- Liability of Principal Borrower and Guarantor is coextensive as per Section 128 of Indian Contract Act, 1872.
+- Section 7 of the Code enables financial creditor to initiate CIRP against principal borrower if corporate person.
+- Definition of "financial debt" includes liability in respect of guarantee or indemnity for money borrowed.
+
+# Segment 13
+
+- Application being barred by limitation is contested.
+- Court issued limited notice to examine specific question.
+- Financial Creditor could maintain application even after three years from declaration of accounts as NPA.
+- Default committed by Corporate Debtor is continuing.
+
+# Group Section
+
+# Financial Debt and Corporate Guarantor
+
+- Financial debt includes liability in respect of guarantee or indemnity for money borrowed.
+- Definition of "corporate guarantor" introduced in 2018.
+
+# Resolution of Financial Debt
+
+- Code is for resolution of financial debt in public interest.
+- Process is for restructuring debts of corporate persons.
+
+# Segment Paragraphs
+
+As per the Financial Creditor, the liability of the Principal Borrower and the Guarantor is coextensive, as stated in Section 128 of the Indian Contract Act, 1872. This legal position has been established in previous cases. Section 7 of the Code allows the financial creditor to initiate CIRP against the principal borrower, even if it is a corporate person or a guarantor for loans obtained by a non-corporate entity.
+
+The Financial Creditor argues that the definition of "financial debt" includes liabilities related to guarantees or indemnities for borrowed money. Therefore, any amount borrowed by the appellant's sole proprietorship, with the Corporate Debtor as a guarantor, is considered a financial debt of the Corporate Debtor. This allows the Financial Creditor to proceed under Section 7 of the Code.
+
+# Segment Tables
+
+|Case|Ruling|
+|---|---|
+|Bank of Bihar Ltd. vs. Dr. Damodar Prasad & Anr.|Established legal position on coextensive liability of Principal Borrower and Guarantor.|
+---
+#
+# Document
+
+# Segment 1
+
+dated 8.12.2018, for which reason the application filed on 13.2.2019 was within limitation. The Financial Creditor-respondent No. 1 pressed for dismissal of the appeal.
+
+# Segment 2
+
+We have heard Mr. Abhijit Sinha, learned counsel for the appellant and Mr. O.P. Gaggar, learned counsel for respondent No. 1.
+
+# Segment 3
+
+It is no more res Integra that the Code is a complete code — provisioning for actions and proceedings relating to, amongst others, reorganisation and insolvency resolution of corporate persons in a time bound manner for maximisation of value of assets of such persons, availability of credit and balance the interests of all the stakeholders including alteration in the order of priority of payment of Government dues and to establish an Insolvency and Bankruptcy Board of India, and for matters connected therewith or incidental thereto.
+
+# Issue (1)
+
+# Segment 4
+
+Section 7 of the Code propounds the manner in which corporate insolvency resolution process (CIRP) may be initiated by the “financial creditor” against a “corporate person being the corporate debtor”. It predicates that a financial creditor either by itself or jointly with other financial creditors or any other person on behalf of the financial creditor, as may be notified by the Central Government, may file an application for initiating CIRP against a corporate debtor before the Adjudicating Authority when a default is committed by it. The expression “default” is expounded in Section 3(12) to mean non-payment of debt which had become due and payable and is not paid by the debtor or the corporate debtor, as the case may be.
+
+# Segment 5
+
+Section 7 is an enabling provision, which permits the financial creditor to initiate CIRP against a corporate debtor. The corporate debtor can be the principal borrower. It can also be a corporate person assuming the status of corporate debtor having offered guarantee, if and when the principal borrower/debtor (be it a corporate person or otherwise) commits default in payment of its debt.
+
+# Segment 6
+
+The term “financial creditor” has been defined in Section 5(7) read with expression “Creditor” in Section 3(10) of the Code to mean a person to whom a financial debt is owed and includes a person to whom such debt has been legally assigned or transferred to. This means that the applicant should be a person to whom a financial debt is owed. The expression “financial debt” has been defined in Section 5(8). Amongst other categories specified therein, it could be a debt along with interest, which is disbursed against the consideration for the time value of money and would include the amount of any liability in respect of any of the guarantee or indemnity for any of the items referred to in sub-clauses (a) to (h) of the same clause. It is so provided in sub-clause (i) of Section 5(8) of the Code to take within its ambit a liability in relation to a guarantee offered by the corporate person as a result of the default committed by the principal borrower. The expression “debt” has been defined separately in the Code in Section 3(11) to mean a liability or obligation in respect of “a claim” which is due from any person and includes a financial debt and operational debt. The expression “claim” would certainly cover the right of the financial creditor to proceed against the corporate person being a guarantor due to the default committed by the principal borrower. The expression “claim” has been defined in Section 3(6), which means a right to payment, whether or not such right is reduced to judgment, fixed, disputed, undisputed, legal, equitable, secured or unsecured. It also means a right to remedy for breach of contract under any law for the time being in force, if such breach gives rise to a right to payment in respect of specified matters.
+---
+#
+# Document
+
+# Segment 19
+
+Indubitably, a right or cause of action would enure to the lender (financial creditor) to proceed against the principal borrower, as well as the guarantor in equal measure in case they commit default in repayment of the amount of debt acting jointly and severally. It would still be a case of default committed by the guarantor itself, if and when the principal borrower fails to discharge his obligation in respect of amount of debt. For, the obligation of the guarantor is coextensive and coterminous with that of the principal borrower to defray the debt, as predicated in Section 128 of the Contract Act. As a consequence of such default, the status of the guarantor metamorphoses into a debtor or a corporate debtor if it happens to be a corporate person, within the meaning of Section 3(8) of the Code. For, as aforesaid, expression “default” has also been defined in Section 3(12) of the Code to mean non-payment of debt when whole or any part or instalment of the amount of debt has become due or payable and is not paid by the debtor or the corporate debtor, as the case may be.
+
+# Segment 20
+
+A priori, in the context of the provisions of the Code, if the guarantor is a corporate person (as defined in Section 3(7) of the Code), it would come within the purview of expression “corporate debtor”, within the meaning of Section 3(8) of the Code.
+
+# Segment 21
+
+It may be useful to also advert to the generic provision contained in Section 3(37). It postulates that the words and expressions used and not defined in the Code, but defined in enactments referred to therein, shall have the meanings respectively assigned to them in those Acts. Drawing support from this provision, it must follow that the lender would be a financial creditor within the meaning of the Code. The principal borrower may or may not be a corporate person, but if a corporate person extends guarantee for the loan transaction concerning a principal borrower not being a corporate person, it would still be covered within the meaning of expression “corporate debtor” in Section 3(8) of the Code.
+
+# Segment 22
+
+Thus understood, it is not possible to countenance the argument of the appellant that as the principal borrower is not a corporate person, the financial creditor could not have invoked remedy under Section 7 of the Code against the corporate person who had merely offered guarantee for such loan account. That action can still proceed against the guarantor being a corporate debtor, consequent to the default committed by the principal borrower. There is no reason to limit the width of Section 7 of the Code despite law permitting initiation of CIRP against the corporate debtor, if and when default is committed by the principal borrower. For, the liability and obligation of the guarantor to pay the outstanding dues would get triggered coextensively.
+
+# Segment 23
+
+To get over this position, much reliance was placed on Section 5(5A) of the Code, which defines the expression “corporate guarantor” to mean a corporate person, who is the surety in a contract of guarantee to a Corporate debtor. This definition has been inserted by way of an amendment, which has come into force on 6.6.2018. This provision, as rightly urged by the respondents, is essentially in the context of a corporate debtor against whom CIRP is to be initiated in terms of the amended Section 60 of the Code, which amendment is introduced by the same Amendment Act of 2018. This change was to empower NCLT to deal with the insolvency resolution or liquidation processes of the corporate debtor and its corporate guarantor in the same Tribunal pertaining to same transaction, which has territorial jurisdiction over the place where the registered office of the corporate debtor is located. That does not mean that proceedings under Section 7 of the Code cannot be initiated against a corporate person in respect of guarantee to the loan amount secured by person not being a corporate person, in case of default in payment of such a debt.
+
+# Segment 24
+
+Accepting the aforementioned argument of the appellant would result in diluting or constricting
+---
+#
+
+# Document
+
+# Segment 25:
+
+- The expression “corporate guarantee” is not defined in the Code.
+- The expression “corporate guarantor” is defined in Section 5(5A) of the Code.
+- If the legislature intended to exclude a corporate person offering guarantee in respect of a loan secured by a person not being a corporate person, from the expression “corporate debtor” occurring in Section 7, it would have so provided in the Code.
+
+# Segment 26:
+
+- The expression “corporate debtor” is defined in Section 3(8) which applies to the Code as a whole.
+- The expression “corporate guarantor” in Section 5(5A), applies only to Part II of the Code.
+- It is not possible to extricate the corporate person from the liability (of being a corporate debtor) arising on account of the guarantee given by it in respect of loan given to a person other than a corporate person.
+
+# Segment 27:
+
+- In law, the status of the guarantor, who is a corporate person, metamorphoses into a corporate debtor when the principal borrower commits default in payment of debt.
+- Action under Section 7 of the Code could be legitimately invoked even against a corporate guarantor being a corporate debtor.
+
+# Segment 28:
+
+- No substance in the argument that action under Section 7 of the Code cannot be initiated against a corporate person even though it had offered a guarantee in respect of a loan to a proprietary firm.
+- Upon default by the principal borrower, the liability of the company being the guarantor triggers the right of the financial creditor to proceed against the corporate person.
+
+# ISSUE (ii):
+
+Print Date: June 6, 2024
+---
+#
+
+# Segment 29
+
+As noted earlier, this Court while entertaining the present appeal in its order dated 28.07.2020 had adverted to only one contention – which already stands answered against the appellant. However, the appellant would contend that the other plea taken by him and having been dealt with by the NCLT as well as the NCLAT, the appellant ought to be allowed to pursue that plea — regarding the maintainability of application under Section 7 of the Code, on the ground of being barred by limitation. Inasmuch as, if this ground is answered in favour of the appellant, it would go to the root of the matter touching upon the jurisdiction of the NCLT to entertain the subject application under Section 7 of the Code. Hence, despite the objection of the respondent (financial creditor) not to permit the appellant to canvas this ground, in our opinion, it is necessary to answer this ground as well in the interest of justice; and also, because it is the duty of the court under Section 3 of the Limitation Act, to answer the stated issue at the threshold or at appropriate stage, as the case may be, even if it is not expressly raised by the opposite party.
+
+# Segment 30
+
+The objection regarding limitation has been negatived by the NCLT vide judgment dated 06.12.2019. It observed in paragraph 7 of its judgment as follows:
+
+- It is seen from the evidence on record that not only the original borrower but also the Corporate Debtor admitted and acknowledged the debt time and again on 27.05.2015 (exhibit J-1) and 08.12.2018 (exhibit K). The Corporate Debtor replied the notice issued by the Bank clearly admitting the debt. We have gone through his reply to the notice. We hold that his reply is in form of admission of debt and nothing else. The Corporate Debtor contended that recovery proceeding is pending in Debt Recovery Tribunal, Kolkata against the Corporate Debtor. It cannot be said that debt become due and payable. We hold that it is admission of debt and his only defense is that it is yet to become due and payable. In this case, by virtue of guarantee in favour of the Bank, the Corporate Debtor undertook to clear loan of the original borrower in case original borrower commit default and it is duty of the Corporate Debtor to clear the outstanding. His defense is that debt is yet to become due is not sustainable.
+
+# Segment 31
+
+After so observing, the NCLT proceeded to advert to the decision in Gaurav Hargovindbhai Dave (supra) and distinguished the same on the ground that in that case the original borrower and the corporate debtor had not admitted or acknowledged the debt after the date of default, which had occurred three years before the filing of the application. In the present case, however, the principal borrower as well as the corporate debtor had acknowledged the debt time and again after 30.01.2010 and lastly on 08.12.2018, which was the basis of filing of subject application under Section 7 of the Code on 02.2019.
+
+# Segment 32
+
+Even the NCLAT noted this ground urged by the appellant in paragraph 21 of the impugned judgment as follows:
+
+- In the instant case the Corporate Debtor (M/s Surana Metals Ltd.) had duly executed the Letter of Guarantor dated 2.2.2007, 17.2.2007 and 3.8.2008 for the Loan facilities Sanctioned by the Bank to M/s Mahaveer Construction also that the Corporate Debtor had acknowledged its debt on 16.9.2010, 3.3.2012, 27.5.2015, 24.10.2016, and executed by the Appellant (Vide Page. No.196, 197, 140, 198) and on 8.12.2018 executed by the (M/s Surana Metals Ltd.) page no.141 respectively against the execution of the
+---
+#
+
+# Document
+
+# Segment 1
+
+Letters of Guarantee. Significantly, the Corporate Debtor in its Reply dated 8.12.2018 had tacitly admitted the execution of Guarantors Agreement dated 2.2.2007, 17.2.2007, 3.8.2008 in and by which the Corporate Debtor had agreed to pay Rs.12,05,00,000/- crore and interest on such sum.
+
+# Segment 2
+
+Finally, in paragraph 30 of the impugned judgment, the NCLAT after analyzing the relevant decisions relied upon by the parties in B.K. Educational Services Private Limited (supra), Jignesh Shah and Anr. vs. Union of India and Anr.20 and Gaurav Hargovindbhai Dave (supra), concluded as follows:
+
+- 30. In the light of detailed qualitative and quantitative discussions aforesaid and also this Tribunal keeping in mind the present facts and circumstances of the instant case in an integral fashion, which float on the surface case comes to an inescapable conclusion that there is an acknowledgment of 'Debt' on various dates like 2.2.07, 17.2.07, 3.8.07 for the loan facilities availed by Mahaveer Construction the Letters of Guarantee Acknowledged by the Corporate Debtor (M/s Surana Metals Ltd.) on 16.9.10, 3.3.12, 27.5.15, 24.10.16 executed by the Appellant and on 8.12.18 by the Surana Metals Ltd. etc. This apart, here is an acknowledgment of Debt by the Principal Borrower but also the Corporate Debtor on 27.5.15 & 8.12.18 respectively. The object of specifying time limit for limitation is undoubtedly based on 'Public Policy'. The application projected before the Adjudicating Authority (NCLT) Kolkata Bench, on 13.2.19 is well within limitation and not barred by Limitation. Looking at from any angle, the present Appeal sans merits and the same is dismissed without costs.
+
+# Segment 3
+
+We may straight away advert to the decision of this Court in Babulal Vardharji Gurjar vs. Veer Gurjar Aluminium Industries Private Limited & Anr. (II) wherein after analyzing the earlier decisions of this Court, the Court summed up the position in the following words:
+
+- 32. When Section 238-A of the Code is read with the above noted consistent decisions of this Court in Innoventive Industries, B.K. Educational Services, Swiss Ribbons, K. Sashidhar, Jignesh Shah, Vashdeo R. Bhojwani, Gaurav Hargovindbhai Dave and Sagar Sharma, respectively, the following basics undoubtedly come to the fore:
+- (a) that the Code is a beneficial legislation intended to put the corporate debtor back on its feet and is not a mere money recovery legislation;
+- (b) that CIRP is not intended to be adversarial to the corporate debtor but is aimed at protecting the interests of the corporate debtor;
+- (c) that intention of the Code is not to give a new lease of life to debts which are time-barred;
+- (d) that the period of limitation for an application seeking initiation of CIRP under Section 7 of the Code is governed by Article 137 of the Limitation Act and is, therefore,
+---
+#
+
+# Segment 34
+
+In the earlier part of this reported decision, the Court did advert to the exposition in Jignesh Shah (supra). In that decision, the Court had analysed the provisions of the Code by first adverting to the decision in B.K. Educational Services Private Limited (supra) in which Section 238A of the Code was referred to. Paragraphs 7 and 8 of the decision in Jignesh Shah (supra) read thus:
+
+1. Having heard the learned Senior Counsel for the parties, it is important to first advert to this Court’s decision in B.K. Educational Services (P) Ltd.23 in which Section 238-A of the Code was referred to, which states as follows:
+
+“238-A. Limitation.—The provisions of the Limitation Act, 1963 (36 of 1963) shall, as far as may be, apply to the proceedings or appeals before the Adjudicating Authority, the National Company Law Appellate Tribunal, the Debts Recovery Tribunal or the Debts Recovery Appellate Tribunal, as the case may be.
+2. In para 7 of the said judgment, the Report of the Insolvency Law Committee of March 2018 was referred to as follows: (B.K. Educational Services case, SCC pp. 644-45, para 11)
+
+“11. Having heard the learned counsel for both sides, it is important to first set out the reason for the introduction of Section 238-A into the Code. This is to be found in the Report of the Insolvency Law Committee of March 2018, as follows:
+
+’28. Application of Limitation Act, 1963
+
+28.1. The question of applicability of the Limitation Act, 1963 (“the Limitation Act”) to the Code has been deliberated upon in several judgments of NCLT and NCLAT. The existing jurisprudence on this subject indicates that if a law is a complete code, then an express or necessary exclusion of the Limitation Act should be respected.30 In light of the confusion in this regard, the Committee deliberated on the issue and unanimously agreed that the intent of the Code could not have been to give a new lease of life to debts which are time-barred. It is settled law that when a debt is barred by time, the right to a remedy is time-barred.31This requires being read with the definition of “debt” and “claim” in the Code. Further, debts in winding-up proceedings cannot be time-barred32, and there appears to be no rationale to exclude the extension of this principle
+---
+#
+# IBC Laws
+
+# Segment 1
+
+- Further, non-application of the law on limitation creates the following problems:
+- Re-opens the right of financial and operational creditors holding time-barred debts under the Limitation Act to file for CIRP.
+- The purpose of the law of limitation is to prevent disturbance or deprivation of acquired rights.
+
+# Segment 2
+
+- The Code is not a debt recovery law, but the trigger being "default in payment of debt" makes the exclusion of the law of limitation counter-intuitive.
+- Re-opens the right of claimants to file time-barred claims with the IRP/RP, potentially affecting the resolution plan.
+
+# Segment 3
+
+- The intent was not to provide a fresh opportunity for creditors and claimants who did not exercise their remedy within the limitation period.
+- A specific section applying the Limitation Act to the Code was inserted to address this issue.
+
+# Segment 4
+
+After analyzing the decisions, the Court noted that a suit for recovery within limitation does not impact the remedy of a winding-up proceeding. Time can only be extended as per the Limitation Act.
+
+# Segment 5
+
+The observation in the case of Babulal Vardharji Gurjar clarified the application of Section 18 of the Limitation Act to proceedings under the Code when warranted by the case.
+
+Section 238A of the Code is clarificatory and procedural, with retrospective effect, including the application of the Limitation Act provisions on a case-to-case basis.
+---
+#
+# Document
+
+# Segment 1
+
+- IBC Laws® | www.ibclaw.in
+
+# Segment 2
+
+Accrual of fresh period of limitation in terms of Section 18 of the Limitation Act is on its own under that Act. It will not be a case of giving new lease to time barred debts under the existing law (Limitation Act) as such.
+
+# Segment 3
+
+- Notably, the provisions of Limitation Act have been made applicable to the proceedings under the Code, as far as may be applicable.
+- Section 238A predicates that the provisions of Limitation Act shall, as far as may be, apply to the proceedings or appeals before the Adjudicating Authority, the NCLAT, the DRT or the Debt Recovery Appellate Tribunal, as the case may be.
+
+# Segment 4
+
+After enactment of Section 238A of the Code on 06.06.2018, validity whereof has been upheld by this Court, it is not open to contend that the limitation for filing application under Section 7 of the Code would be limited to Article 137 of the Limitation Act and extension of prescribed period in certain cases could be only under Section 5 of the Limitation Act. There is no reason to exclude the effect of Section 18 of the Limitation Act to the proceedings initiated under the Code. Section 18 of the Limitation Act reads thus:
+
+# Key-Value Pairs
+
+- Section 18 of the Limitation Act:
+- Explanation:
+
+# Segment 5
+
+Ordinarily, upon declaration of the loan account/debt as NPA that date can be reckoned as the date of default to enable the financial creditor to initiate action under Section 7 of the Code. However, Section 7 comes into play when the corporate debtor commits “default”.
+
+# Segment 6
+
+Section 7, consciously uses the expression “default” — not the date of notifying the loan account of the corporate person as NPA. Further, the expression “default” has been defined in Section 3(12) to mean non-payment of “debt” when whole or any part or instalment of the amount of debt has become due and payable and is not paid by the debtor or the corporate debtor, as the case may be.
+---
+#
+# Document
+
+# Segment 38
+
+In the present case, the NCLT as well as the NCLAT have adverted to the acknowledgments by the principal borrower as well as the corporate guarantor – corporate debtor after declaration of NPA from time to time and lastly on 08.12.2018. The fact that acknowledgment within the limitation period was only by the principal borrower and not the guarantor, would not absolve the guarantor of its liability flowing from the letter of guarantee and memorandum of mortgage. The liability of the guarantor being coextensive with the principal borrower under Section 128 of the Contract Act, it triggers the moment principal borrower commits default in paying the acknowledged debt. This is a legal fiction. Such liability of the guarantor would flow from the guarantee deed and memorandum of mortgage, unless it expressly provides to the contrary.
+
+# Segment 39
+
+In the application under Section 7 of the Code filed by the financial creditor on 13.02.2019, in Part IV thereof, it has been clearly stated that the corporate debtor duly secured the credit facilities from time to time. The relevant portion of paragraph 1 of Part IV of the application and paragraph 2 of the same Part reinforces this position. The same reads thus:
+
+# PART IV
+
+Particulars of Financial Debt
+---
+#
+
+# Document
+
+# Segment 1
+
+The aforesaid credit facilities duly secured from time to time by the Corporate Guarantor being the Corporate Debtor herein as follow:
+
+- 2.02.2007:
+- Letter of Guarantee for Rs.9,60,00,000/;
+- 17.02.2007:
+- Letter of Guarantee by the Corporate Debtor;
+- 30.08.2008:
+- Letter of Guarantee for Rs.12,05,00,000/;
+- Memorandum of Extension of Mortgage;
+- Declaration of the Director of the Corporate Debtor;
+
+Copies of all the aforesaid Documents are annexed hereto and marked with Letter ‘F’, ‘F1’, ‘F2’, ‘F3’ and ‘F4’.
+
+# Segment 2
+
+In addition to the above the aforesaid Credit facility not only secured by execution of Guarantee by the Corporate Debtor as aforesaid but also by deposit of Title Deed being No. for the year in respect of its immovable property being ALL THAT piece and parcel of Government Khas Mahal Land measuring about 50 Cottahs comprised in Touzi No.1298 in Dihi Panchanan Gram, Division II, together with Building and Structure standing thereon P.S. Maniktala being Municipal Premises No.17, Ultadanga Main Road, Kolkata with an intent to create equitable Mortgage in favour of the Financial Creditor.
+
+Creation of such Mortgage in respect of the immovable property as aforesaid duly extended by the Corporate Guarantor lastly on 25.08.2008. Creation of such charge filed with the Registrar of Companies, West Bengal by the Corporate Debtor in Form No.8 Under Section 125/127/137 of the Companies Act, 1956 dated 19.09.2008 and a copy of the Title Deed is annexed hereto and marked with Letter ‘G’ and ‘G1’.
+
+# Segment 3
+
+Initially while sanctioning the Term Loan1 dated 19th January, 2007, the Financial Creditor also send a Letter on 19th January, 2007 to the said Pantaloons Retail (India) Limited being the Sub-Licensee whose monthly Rent of Rs.21,45,000/ payable to the said Principal Borrower intimating its conformation sending therewith a copy of the General Power of Attorney executed by the Principal Borrower assigned its right of collecting and receiving Monthly rents from the said Pantaloons Retail (India) Limited in favour of the Financial Creditor. A copy of the said Letter of the Financial Creditor dated 19.01.2007 is annexed hereto and marked with Letter ‘H’.
+
+# Segment 4
+
+Due to default in repayment in both the said account of the Principal Borrower maintained with the Financial Creditor at its said Strand Road Branch, Kolkata the said accounts maintained in the name of the said principal Borrower with the Financial Creditor duly were Classified and declared as NPA with effect from 30.01.2010 and as such the Financial Creditor on 19th February, 2010 issued Recall Notice to the Principal Borrower as well as its Corporate Guarantor being the Corporate Debtor herein demanding a total sum of Rs.12,35,11,548/ including interest as of 31.01.2010. A copy of the said Recall Notice dated 19.02.2010 is annexed hereto and marked with Letter ‘I’.
+
+# Segment 5
+
+However, both the Principal borrower and the Corporate Debtor being the Corporate Guarantor had defaulted in repayment of the dues to the Applicant Bank. The Principal Borrower vide its Letter dated 3rd March, 2012 requested the Financial Creditor regarding outstanding of its liability as on 29.02.2012 and on 27th May, 2015 requested to provide Statement of accounts. Copies of both the said letters dated 3.03.2012 and 27.05.2015 are annexed hereto and marked with Letter ‘J’ and ‘J1’.
+
+# Segment 6
+
+In reply of to the Notice of Demand dated 3rd December, 2018 issued by the Financial Creditor, the Corporate Debtor vide its letter dated 8th December, 2018 not only admitted the initial Loans Granted by the Financial Creditor in favour of the Principal Borrower but also providing Collateral Security by the Corporate Debtor to secure the liability of the principal borrower. A copy of the said letter of the Corporate Debtor dated 8.12.2018 is annexed hereto and marked with Letter ‘K’.
+
+Print Date: June 6, 2024
+---
+#
+# Document
+
+# Segment Headers
+
+- Amount Claimed to be in Default:
+- And the Date on Which the Default Occurred:
+
+# Segment Lists
+
+- Rs.23,90,35,759.00 as on 31st January, 2019
+- Date of default was 30/01/2010
+
+# Segment KeyValuePairs
+
+- Amount in Default: Rs.23,90,35,759.00
+- Date of Default: 30/01/2010
+
+# Group Sections
+
+Statement of Account of the Principal Borrower is attached herewith.
+
+# Segment Paragraphs
+
+However, since the Principal Borrower as well as its Corporate Guarantor being the Corporate Debtor herein had defaulted to pay any part or portion of the outstanding amount to UNION BANK OF INDIA, the Financial Creditor thereafter the Financial Creditor on 14th July, 2010 filed an application Under Section 19 of the RDDB Act, 1993 before the Debts Recovery Tribunal3, Kolkata being O.A. No.130 of 2010 which is still pending for final adjudication and in that proceeding the said Principal Borrower as well as Corporate Debtor are appearing and several interim orders have been passed from time to time related to collection of rents from the sub-Licensee.
+
+# Group Code Blocks
+
+(emphasis supplied in italics)
+
+# Segment Tables
+
+|PART V|PARTICULARS OF FINANCIAL DEBT|
+|---|---|
+|5.|THE LATEST AND COMPLETE COPY OF THE FINANCIAL CONTRACT REFLECTING ALL AMENDMENTS AND WAIVERS TO DATE (ATTACH A COPY)|
+|8.|LIST OF OTHER DOCUMENTS ATTACHED TO THIS APPLICATION IN ORDER TO PROVE THE EXISTENCE OF FINANCIAL DEBT, THE AMOUNT AND DATE OF DEFAULT.|
+
+# Segment Paragraphs
+
+Besides the clear assertion made in the application about the last acknowledgment on 08.12.2018 resulting in fresh period of limitation, the Tribunal adverted to the correspondence exchanged between the principal borrower, corporate guarantor (corporate debtor) and the financial creditor (Bank) during the relevant period after 30.01.2010 until filing of application under Section 7 of the Code on 13.02.2019. The last such acknowledgment by the (corporate) guarantor/corporate debtor taken note of by the NCLT as also the NCLAT reads thus:
+
+# Segment Headers
+
+- SURANA METALS LIMITED
+
+# Segment Lists
+
+- 12, BONFIELD LANE, KOLKATA-700001
+- CIN:L27209WB1983PLC36141
+---
+#
+# Document
+
+# December 08, 2018
+
+# The Chief Manager, Union Bank of India, Asset Recovery Branch, Kolkata, 15, India Exchange Place, KOLKATA700 001.
+
+Sir,
+
+SUB: Notice regarding initiation of proceedings under the Insolvency and Bankruptcy Code, 2016.
+
+We acknowledge the receipt of your Notice being No. ARB: KOL: 198: 18-19 dated 03.12.2018 issued under Section 4(1) of The Insolvency and Bankruptcy Code, 2016 and are really surprised to note its contents. We deny each and every allegation contained therein including the nature of loan and quantum of claim and wish to inform you as under:
+
+- No Term Loan was sanctioned by you to M/s. Mahaveer Construction, 12, Bonfield Lane, Kolkata for a sum of Rs.9,45,00,000/- and Rs.2,45,00,000/- as alleged by you in your above stated letter. We understand that a loan for Rs.945 lacs and Rs.245 lacs was sanction by you to M/s Mahaveer Construction of No.12, Bonfield Lane, Kolkata-700001 under “rent securitization” i.e. against future rent receivables from M/s Pantaloon Retail (India) Ltd. (now known as Future Retail Ltd.) for the development of a commercial complex at Kharagpur, on a government land, on the basis of securities provided by them of which you are fully aware of. We also understand that M/s Mahaveer Construction has executed a power of attorney in your favour authorizing you to collect the future rent receivables from M/s Pantaloon Retail (India) Ltd. and you have been collecting the rent from them directly and/or through a Receiver appointed by the Ld. DRT-III, Kolkata, without any intimation to M/s Mahaveer Construction. As such M/s Mahaveer Construction is a lawful borrower and the guarantee for repayment has been provided to you by M/s Pantaloon Retail (India) Ltd. which was unconditionally accepted by you. We are not the borrowers and/or the corporate debtor as claimed by you in your aforesaid notice.
+- We have, at the request of M/s Mahaveer Construction, provided you a collateral security only in the form of a premises being No.17, Ultadanga Main Road, Kolkata by way of creation of a paripassu charge with Syndicate Bank, of which we are a Lessee only. It is a Debutter Trust Estate. Our corporate guarantee was issued in accordance with the provisions of The Companies Act, 1956 only.
+- You have initiated legal proceedings for recovery of your loan against Mahaveer Construction in the Learned Debt Recovery Tribunal -III, at Kolkata treating them as defaulters and the said proceeding is awaiting adjudication. We have not committed any default as alleged by you and therefore cannot be termed as a defaulter, far less to speak of corporate defaulter, by any stretch of imagination. You are, therefore, not authorized
+
+Print Date: June 6, 2024
+---
+#
+# Legal Letter
+
+# IBC Laws® | www.ibclaw.in
+
+# Points Raised in the Letter:
+
+- Legality of initiating further proceedings under The Insolvency and Bankruptcy Code, 2016.
+- Requirement to await finality of recovery proceedings before taking further action.
+- Importance of surrendering securities before proceeding under The Insolvency and Bankruptcy Code, 2016.
+- Issue of demand against the Principal Borrower before involving the Corporate Guarantor.
+- IBC not to be used as a tool for debt recovery.
+- Assertion of no mis-match between asset and liability.
+
+# Key Points:
+
+Point 1: The letter questions the legality of initiating further proceedings under The Insolvency and Bankruptcy Code, 2016.
+
+Point 2: It emphasizes the need to await finality of recovery proceedings before taking any further action.
+
+Point 3: Surrendering of securities for the benefit of all creditors before proceeding under The Insolvency and Bankruptcy Code, 2016 is highlighted.
+
+Point 4: Demand against the Principal Borrower is deemed necessary before involving the Corporate Guarantor.
+
+Point 5: The IBC should not be misused as a tool for debt recovery.
+
+Point 6: The letter asserts that there is no mis-match between the asset and liability.
+
+# Additional Information:
+
+This letter reserves the right to add further points of law and take necessary actions as advised in the matter.
+
+The recipient is requested to refrain from taking any action against the sender, as it may be considered an abuse of the process of law.
+
+Please acknowledge the receipt of this letter.
+
+Print Date: June 6, 2024
+---
+#
+
+# Segment 1
+
+Thanking you,
+
+Yours faithfully, For Surana Metals Limited. Sd/- SURANA METALS LIMITED 12, BONFIELD LANE, KOLKATA-700 001 (emphasis supplied)
+
+# Segment 2
+
+Indeed, this communication has been sent without prejudice by the corporate guarantor (corporate debtor). Nevertheless, it does acknowledge the liability of M/s. Mahaveer Construction (principal borrower); and of corporate guarantee having been offered by the corporate debtor in that behalf. As aforesaid, the liability of the corporate guarantor (corporate debtor) is coextensive with that of the principal borrower and it gets triggered the moment the principal borrower commits default in paying the debt when it had become due and payable. The liability of the corporate debtor (corporate guarantor) also triggers when the principal borrower acknowledges its liability in writing within the expiration of prescribed period of limitation, to pay such outstanding dues and fails to pay the acknowledged debt. Correspondingly, right to initiate action within three years from such acknowledgment of debt accrues to the financial creditor. That however, needs to be exercised within three years when the right to sue/apply accrues, as per Article 137 of the Limitation Act. This is the effect of Section 18 of the Limitation Act. In that, a fresh period of limitation is required to be computed from the time when the acknowledgment was so signed by the principal borrower or the corporate guarantor (corporate debtor), as the case may be, provided the acknowledgment is before expiration of the prescribed period of limitation. Thus, the conclusion reached by the NCLT and affirmed by the NCLAT on the basis of the asservation in the application under Section 7 of the Code, read with the relevant undisputed correspondence, is a possible view.
+
+# Segment 3
+
+The appellant was at pains to persuade us that the intention behind the communication dated 08.12.2018 sent to the financial creditor by the corporate guarantor (corporate debtor) is a triable matter, as it was sent without prejudice. We are not impressed by this submission. The fact that the principal borrower had availed of credit/loan and committed default and that the (corporate) guarantor/corporate debtor had offered guarantee in respect of the loan account is not disputed. What is urged by the appellant is that the acknowledgment of liability to pay the amount in question was by the principal borrower and that acknowledgment cannot be the basis to proceed against the corporate guarantor (corporate debtor). Section 18 of the Limitation Act, however, posits that a fresh period of limitation shall be computed from the time when the party against whom the right is claimed acknowledges its liability. The financial creditor has not only the right to recover the outstanding dues by filing a suit, but also has a right to initiate resolution process against the corporate person (being a corporate debtor) whose liability is coextensive with that of the principal borrower and more so when it activates from the written acknowledgment of liability and failure of both to discharge that liability.
+
+# Segment 4
+
+Suffice it to conclude that there is no substance even in the second ground urged by the appellant regarding the maintainability of the application filed by the respondent-financial creditor under Section 7 of the Code on the ground of being barred by limitation. Instead, we affirm the view taken by the NCLT and which commended to the NCLAT — that a fresh period of limitation is
+
+Print Date: June 6, 2024 25 | 28
+---
+#
+
+# Document
+
+# Segment Headers
+
+- IBC Laws® | www.ibclaw.in
+
+# Segment Paragraphs
+
+Required to be computed from the date of acknowledgment of debt by the principal borrower from time to time and in particular the (corporate) guarantor/corporate debtor vide last communication dated 08.12.2018. Thus, the application under Section 7 of the Code filed on 13.02.2019 is within limitation.
+
+As no other issue arises for our consideration — except the two grounds urged by the appellant regarding the maintainability of the application for initiating CIRP by the financial creditor (Bank) under Section 7 of the Code, we dispose of this appeal leaving all "other grounds" and contentions available to both the sides open to be decided in the pending proceedings before the NCLT. The same be decided uninfluenced by any observation(s) made in the impugned judgment or in the present judgment.
+
+Accordingly, this appeal is disposed of in the above terms with no order as to costs. Pending applications, if any, also stand disposed of.
+
+New Delhi; March 26, 2021.
+
+# Segment KeyValuePairs
+
+- Judges:
+- A.M. Khanwilkar
+- B.R. Gavai
+- Krishna Murari
+- Print Date: June 6, 2024
+
+Original judgment copy is available here.
+
+Case Laws Portal
+Join WhatsApp Channel

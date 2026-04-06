@@ -1,0 +1,37 @@
+~~NOTOC~~
+
+====== Process Agents ======
+
+Process agents can be categorized into distinct groups based on their roles and functionalities, offering specialized capabilities to enhance efficiency, accuracy, and decision-making in insolvency processes. These categories include Legal Agents, Process Agents, Planning Agents, Marketing Agents, Fraud Detection Agents, and Prediction Agents. Each type of agent addresses specific challenges within the insolvency framework, streamlining operations and improving outcomes. Process Agents are instrumental in modernizing the insolvency process by monitoring compliance and facilitating collaborative workflows. These agents play a crucial role in ensuring that regulatory deadlines are met by tracking timelines, ensuring filings are completed on schedule, and promptly alerting stakeholders to changes in laws or guidelines. By minimizing the risks of non-compliance, Process Agents ensure that all legal and procedural requirements are adhered to efficiently, thereby safeguarding the integrity of the insolvency process. 
+
+------
+
+<WRAP column 48%>
+**Drafting Agents** play a pivotal role in reducing the manual workload associated with drafting key documents such as Resolution Plans, Progress Reports, and Compliance Filings. By ensuring adherence to statutory language and minimizing human errors, these tools save time and streamline legal documentation. Generative AI can also assist in drafting responses to objections raised by stakeholders, ensuring precision and consistency in legal communication. Beyond drafting, Document Agents can automate the review of large volumes of legal documents, extracting critical information and summarizing it for quick reference, thereby expediting decision-making. \\
+</WRAP>
+
+<WRAP column 48%>
+**Workflow Agents** play a crucial role in enhancing coordination among teams involved in the insolvency process. These agents can assign tasks to relevant team members, send reminders about upcoming deadlines, and provide real-time updates on case progress. By automating repetitive workflow tasks, these agents help professionals stay organized and focused, ensuring that every aspect of the resolution process is handled in a timely and efficient manner. \\
+</WRAP>
+
+-----------
+
+<WRAP column 48%>
+**Planning Agents** are pivotal in the insolvency process, as they can be tasked with developing and evaluating resolution plans. AI-driven tools in this category analyze creditor claims, available resources, and legal constraints to design optimal repayment schedules and restructuring plans. These agents enable resolution professionals to balance the interests of various stakeholders, including creditors, shareholders, and employees, while adhering to legal and financial constraints. \\
+</WRAP>
+
+
+<WRAP column 48%>
+**Marketing Agents** play a vital role in enhancing stakeholder communication within the insolvency process. These agents utilize personalized, AI-driven communication strategies to provide timely updates to creditors, investors, and regulators. By automating and streamlining communication efforts, they reduce manual effort while maintaining clarity and professionalism in all interactions. \\
+</WRAP>
+
+-----------
+
+<WRAP column 48%>
+**Forensic Agents** are crucial in the insolvency process, as they focus on identifying potential fraud such as Preferential, Undervalued, Fraudulent, and Extortionate (PUFE) transactions, concealed assets, or other irregularities in financial records. AI tools in this category are capable of scanning extensive financial data to detect anomalies and hidden patterns that may indicate fraudulent activities. \\
+</WRAP>
+
+<WRAP column 48%>
+**Valuation Agents** play a crucial role in the insolvency process by providing accurate and unbiased assessments of a corporate debtor’s assets. These agents are essential for ensuring that stakeholders, particularly the Committee of Creditors (CoC), have reliable information to make informed decisions about resolution plans. By conducting thorough valuations, they help stakeholders understand the true worth of the assets, which is critical for negotiating resolution plans and determining the viability of potential restructuring strategies.
+</WRAP>
+

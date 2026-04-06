@@ -1,0 +1,6 @@
+base   timeline
+author Atul Grover
+email  your@email.com
+name   Insolvency Process Timeline (PHP)
+desc   Generates CIRP/Liquidation timelines and .ICS downloads without React
+url    https://resolutionbazaar.com

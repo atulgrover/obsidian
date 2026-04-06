@@ -1,0 +1,1772 @@
+# Workshop | Insights of Power Sector & Manufacturing Sector under IBC
+![](https://img.youtube.com/vi/ewWiyl06w2Q/hqdefault.jpg)
+9 months ago (Oct 12, 2023) — 5:50:40
+[https://youtube.com/watch?v=ewWiyl06w2Q](https://youtube.com/watch?v=ewWiyl06w2Q)
+
+
+## Summary
+Welcome to the workshop on insights of the power and manufacturing sectors under the Insolvency and Bankruptcy Code (IBC). The session is led by Mr. Navneet Kumar Gupta, a chartered accountant and insolvency professional with over 20 years of experience, and Mr. Anish Nanavaty, a power sector expert with over 28 years of experience. The workshop covers the economic status, major issues, and statistics of the sectors, their relation to IBC, and the current status of major industries and case laws. Mr. Gupta shares his experience in resolving a power company's issues, the challenges faced, and the successful handover to Tata Steel. Mr. Nanavaty discusses the technical aspects of the power plant, the environmental issues, and the need for continuous operation and safety. He emphasizes the responsibility of the Insolvency Resolution Professional (IRP) as the de facto owner of the factory and the importance of managing the power plant safely and efficiently.
+
+## Power Sector and Manufacturing Sector Under IBC: How to switch off a camera
+0:03
+Can you hear me? Good morning? Yeah, good morning, bin, can you switch on your camera? Yeah, long, yeah, actually I'm switching it off only because I in home, so the internet may not be so strong. So it is better to have audio only. No, I mean in the initial phase, maybe you can okay switch off once we are connected. Okay, no issue, your presentation is there. Yeah, I have this one. It is there. 
+
+1:49
+Let me see so, for is shall we start the session, sir? Yeah, okay, so I welcome you all into today's Workshop insights of power sector and Manufacturing sector under IBC. So the coverage of today's Workshop would be overview General economic status of the sectors, major issues in power and Manufacturing sector. Then what are the statistics of NPS? then it's IBC relation, how the major power and Manufacturing sector Industries are in IPC and its current status. 
+
+5:25
+What are the major case, laws, issues and challenges while hand handling the power and Manufacturing sector under IPC and what is the way forward? And for the first session we have Mr nit Kumar Gupta and Mr bouin onto nit Kumar Gupta. He is a chartered accountant and an insolvency professional having experience of more than 20 years across various Industries like real estate, textiles, power, EPC, financial services and media Industries. 
+
+
+## BR & energy session - BR & energy session
+5:55
+He has uent Financial experience of audit taxation, pricing, controll, ship budgeting, forecasting, CFO functions and Etc, and with regard to IBC he has done successful resolution of buan Industries and the Imperial for the industry expert we have Mr bbin utto. he has done his mtech IIT mtech from IIT Delhi and he is doing doctorate program on optimization process on thermal power plants, heat trade and availability improvement from J Mia University Delhi. 
+
+6:34
+He has more than 28 years of experience in power sector industry and has held many positions in the power companies. He has also worked in internationally in Germany and USA. So I welcome you, sir, and over to you can have the session and I hope the session would be interactive and I would request all the participants to kindly on their camera so that it would be more of interactive session than a seminar. 
+
+7:03
+Kind of a thing. So thank you, sir, over to you. Yeah, thank you, Nik, and very good morning to everyone. Thanks for inviting me. it's always a pleasure and thanks to Vain for joining in a short no this so we'll hit the session right away. You know it's it has been quite a long time since we did the last resolution of BR and energy. It's almost 5 years now. 
+
+
+## Lear senior people and the C grp will try to keep this session very interactive
+7:34
+We'll try to recall as much as possible and we'll try keep this session very interactive. I'm pleased to see Lear senior people and the C grp in the session, so we have Mr bobin who has helped us in this account in running the pl for almost one year, rather one and a half years, and you know, having a complete control of the site, with the boil, six boilers, many not in good conditions, so quite difficult situations. That's a beauty of the RP profession you are in. 
+
+8:18
+You have to control, you have to manage the things, even if you don't know how to do that. So I'll be honest: while we started this work, somewhere around February 2018, I really did not have too much clue about the power and still, but yes, Common Sense, bit of research, help from bobin and you know. 
+
+8:47
+A strong commitment to the profession helped us s through and we successfully handed over the plan to Tata steel once the resolution was approved and payments were done to the creditors. As for the resolution plan ex so just to update you today the plant is company has been renamed as angul energy and it is running very well. 
+
+
+## Power to O Steel: How to Take Control of the Power Plant
+9:17
+It is now completely integrated with buan steel and it was a sort of a captive power plant which was supposed to provide Power to O Steel. so we'll try we'll keep this session little more interactive. 
+
+9:36
+I would request participation from all the members and please feel free to interject as in when you know it's required, because it's not a presentation being downloaded or down for over you, and so we will keep it as insightful and thoughtful as possible. 
+
+10:02
+So overall, we would like to you know I have done couple of power accounts, bu and power, so we would like to you know recall the initial days when we took control of the company. I hope all of us are IPS here. Nia, can you confirm me? Yes, Nia. Yes, sir, all of us are IPS here. Insolvency yes, sir, all are IPS. So we took control of the power plant. 
+
+
+## ESP - A Power Generation Thermal Power Issue
+10:38
+Thankfully there wasn't too much of resistance from the promoter side and the management. the KMP is a key management Personnel were quite supportive and however, there were lot of technical issues. You know power sector, you know itself. Thermal power has undergone some change in last two to three years. 
+
+11:07
+In those days, ESP with 2018 kind of an era, there were lot of lot of you can say it was not a preferred power generation thermal power and there were lot of issues around Ash. There were lot of environmental issues. There were a lot of it was not in demand, so to say, there were not too many buyers in the market. Though today you may find lot of activity in the thermal full generated power as well. 
+
+11:44
+So maybe before I you know, I'll keep in interjecting. I'll keep moderating the session. I would request, if you can have some you know, a detailed technical view from Mr B about the work we have done at dist energy, with a special focus on you know the power and he, being in power expert, will'll be able to take us through the kind of technicalities, the kind of challenges we have faced and how we have tried to overcome that. So over to you, B good morning. 
+
+
+## Power Supply: How to control the power supply
+12:21
+Everybody any is audible to all. Okay, major thing is that bushan was a company which was managed for the steel generation and the power is an essential item for them. Okay, but when we taken over, the first observation was that there are lot of breakdowns were there because they have a multi unit system. multi unit system, because I'll explain you like that the power. 
+
+12:58
+The steam is produced by lot of boilers and the same steam is connected to the main header and taking that Steam for the essentiality for the turbine and use it. And another issue was there was they also have lot of waste heat recovery boilers owned by C Steel on their premises to produce the steam also okay. So there is a steam and there is a power supply. 
+
+13:31
+As you know that this is round about 430 megawatt plan. So normal people has the resistance to say that how you can control anything and like that. so we first, as a group, start taking the advice from the group rather than commanding to anything to because I asked the daily plan meeting what are your advises to solve it rather than dictating to them? 
+
+
+## Safety Review for 5 Minutes, Not More Than 5 Minutes
+14:02
+So I got around about 70 80 suggestions, normally from the P group and all people. So I told that let us have a small pattern which is followed internationally to the people now in this one, so they say that okay, what is that? I say that let us spend some every meeting. We start with a safety review for 5 minutes in the starting of the session. 
+
+14:32
+There was a lot of resistance and say that we are having nothing like that. but if you see the number of outages and accidents in bushen steel before, it has a trend of round about 13 to 14 percentage, so the top management was interested to listen in that. But I say that I want to know that. What is your observation on safety for a 5 minutes, not more than 5 minutes, during the preview? 
+
+15:05
+This method has got lot of nearness incidents from the plan and avoid the failure to a minimum. By grace of God, we have achieved around about 100 percentage without any accident during our duration and it was. I would like to just to emphasize to the fellow you know, we were continuously scared as a team, and bobin would recall he had a very clear mandate from myself that there should not be any accident in the pl. 
+
+
+## Power disruption: It may cost us anything.
+15:45
+There should not be any loss of life or injury. That was a first mandate to him and second there was no loss of property. Now this may cost us power disruption. This may cost us shutting down the Plant for few days. This may cost us a going concern. This may cost us anything. Yeah, and thankfully, by grace of God has and bobin has clearly, you know, supported that fully on fully on that. 
+
+16:18
+You know the Moto or the agenda. We did not have any even minor accident during our tenure. Rather, the plant was running better than it was earlier. and on the top of it, bobin was keep you know, he was coming back to us time and again for a certain repair expenditure and we were always saying no. 
+
+16:46
+So the beauty of the game is that you don't have money, Surplus money to invest back into the you know manufacturing or power generation facility. You want no accident. You want complete safety. You want continuity. Now, given these constraints, you know the plant delivered well under supervision of Bin and it was it was a very satis, you know, satisfying experience, with a bit of sense of achievement as well. 
+
+
+## How to manage a power plant with Bobin
+17:26
+At the end of the day that we could manage this and there were certain technical inputs from bobin. Okay, do this do that there are three options. There are five options and you know we were all jointly discussing. okay, why don't we choose this? So it was quite an experience and it's thrilling at times, scary at times, to run a power plant that to a thermal C based steam generating power plant. 
+
+17:57
+There are chances of blasts, leakage, injury. And just to remind the fellow IPS, there are more than 100 acts which are applicable when it comes to a manufacturing facility and you are the de facto DJ owner of the factory. Any accident which takes place, you are directly accountable, answerable. 
+
+18:25
+So given all these things, given all these things, how would you sleep during the 10 you know tenure of your assignment while you're handling a power plant is something to be thoughtful of, so tough assignments and but have to be managed well. back to you B just wanted to give flavor of yeah prior, can I ask? I just wanted to find out what is the status. You mentioned that you are the de facto DJ owner. 
+
+
+## Does the RP also become an occupier of the factory to basically respons?
+18:59
+Does the RP also become an occupier of the factory to basically respons? That's what I wanted to say. So you know the factories act has no provision. Basically in all our other manufacturing setup also, we see how do you actually become a DJ occupier without actually making that finding? So the factory occupier is basically someone who is part of the board of directors. 
+
+19:23
+That's so the suspended board of directors never lose their duties actually, so they the powers but not the duties. So no, that is true, sir, I agree to you agree with that. they are, but they in the suspension mode. At the same time, they are not involved in the active management they are. 
+
+19:41
+They are not being consulted, they are not taking decisions, they are not doing the purchase, they are not doing the sales, they are not managing the finances. So maybe you can ask argue that in the court, no doubt. But if you look at the ground realities, if something goes wrong in a power plant, then bobin was reporting directly to me. He was updating me and we were not, you know, conveying that to directors. 
+
+
+## IRP is a factory manager, but owner is IRP
+20:18
+We may or may not, but we know even if we do, they will say it is being managed by you and your team. so it is very. It is very difficult to prove or to argue that someone who is in a sleeping mode and he has been given a sort of a suspension should be held accountable for discharge of the duties at the same time, especially when it comes to something relative to the security safy. 
+
+20:46
+Yeah, go ahead, yeah, I'll add to that, sir, what happened is that you are absolutely right. The factory manager is the plan head which is taken place officially, but the plan head which is designated on that time is as an owner of IRP. What happened is that I tell you there was an accident in the steam plan and a big team has been visited to the bushan steel, also the power sector. 
+
+21:15
+Then they asked that who is the factory manager of this section? they told that, sir, we are nominated Factory manager but owner is IRP because it is under dispute. You understand. 
+
+
+## Factory Inspector: What are the precautions you are making to avoid the same situation in your place
+21:28
+Then the chief Factory inspector called me and tell that what are the precautions you are making to avoid the same situation in your place, as you know that there is an action plan to be submitted within 48 hours to the factory inspector, by the factory inspector, to the factory man, that factory inspectorate, this action plan to be signed by the factory manager. 
+
+21:54
+And they told that because you are an technical expert, you your signature is also needed and we bound to sign in that action plan. We proposed for that one. So this is basically legally. maybe you are right, sir, but actually this is what practically happening, because on who are taking the action in that place, you are responsible to take up that part into that. 
+
+22:18
+Is it clear, sir, conversely, other she conversely, you take it this way. You know this guy who is the director. He is not even coming to the factory. He is not attending to the Affairs of the company. How would you? It will be? It will rather backfire if you say that he should be responsible for the Affairs, while you are completely running the show in and out end to end. 
+
+
+## IRP RP: What is it, why it is important to put directors on the shoulders
+22:47
+Be it operating decision, be financing decision B, Be technical decisions, investing decision, whatever is there is being decided by IRP or the r, then how can we put the owners on, director? they will simply have a clear answer that we are not involved and there in suspension. 
+
+23:08
+So I don't think that argument is tenable, and we should not be in the impression that we can get away from the responsibilities by putting it on the shoulders of the directors is rather more important from a thinking process standpoint as an IRP RP that we will run the factory and direct will be responsible for any accident. Sorry, sir, it doesn't work like that. 
+
+23:31
+It will be more of a direction on our part if we think even that in that manner we have to own the baby the it is assigned to us and we have to live up to the expectations. Now whatever we needs to be done under the sun has to be done. in that case, I tell you a single example, sir Factory. When into IRP, they are not interested to m make any profit or anything. 
+
+
+## What is your suggestion to deal with this situation?
+23:59
+The two directors are not even picking the phone. So, taking the suggestion from him, I even called them directly and ask them: what is your suggestion to deal with this situation? Basically what happen is that, sir, because nobody want to listen to an external guy when he come to two days and say that whatever expert you are there, they their mind won't allow you to accept you as an expert or anything. 
+
+24:28
+So you want to show in such a way that the total participation is needed. I told you that I always ask suggestion from them then to tell that you do it like that, because I find that whenever I propose something to them, the resistance are very high. But during the discussion if you add on that one, it will be better. Only one more Advantage. 
+
+24:53
+What I find is that power is an essential item for thermal PL as well as for their steel plant, the steam. So they have lot of problems of providing Steam and everything, and it become in such a way that the reference of Steam Plant was more than the power plant. 
+
+
+## How to do a repair of the whv
+25:13
+They say that no, you can tell me something about what I should do in my whv in so many times and after 20 to spend at least three hours in the Steam Plant then in spending time with more with the power plant. Now the Tak point. I tell you more than safety. 
+
+25:34
+There are some essential repairs are more needed for that one, and as you know that the fuel is covering round about 75% to 80% cost of the power, now you are not ready to accept any oil consumption. You are not ready to accept any more fuel consumption because you don't have money, because if you don't show that is a profitable price of that what they are taking, they will say that you are not managing well. 
+
+26:09
+So the next task comes about how you do to utilize the available resources and do it for a better purpose. As you go to Power plan. There are some 52 parameters. You want watch to know that how the system is going on. There was no money to purchase a new thing because once it was, you see that it was a cich company on Once Upon a Time. So they don't know repair. 
+
+
+## Replace with a new pump if it is not working
+26:42
+They know only replacement to conceptually to change from repair maintenance to replacement maintenance to repair maintenance was the major task. Next, as you aware, the team is saying that this is what I practice: if the pump is not working, I replace with a new pump. If this is not working, I replace with a new system. 
+
+27:06
+I go for an overhauling and this is the order R, if you see, the spare order raised by the system is such a way that it is more than 70% higher than the national average. If you know that this is higher and you want to start discussing about factor and watching the item, and we say that let us go for a predictive mode than a replacement mode. 
+
+27:38
+As you know, all these people available are also done engineering and have knowledge and all those things. But the concept and conceptualization is only comes once you take the responsibility index on them. A maintenance. Think that if I replace I'm safe. If I do repair, it may success or not success. so in that pattern. 
+
+
+## How to monitor equipment and make safe for it
+28:05
+What we find is the next step: how we do the monitoring of our equipment, how we can do the change over schedules when we do go to the international pattern of Germany or anything. You will also find that they have a you can say that a schedule followed by the standby equipment and make safe to make it when it is needed available. 
+
+28:32
+Most of the times, what happen is that the stand bay may not run and the unit trips. When a unit trips in a power plant, you are not able to produce the power at least for 6 hours one and you want to have an oil consumption of minimum round about two tanks and one and half tanks is needed to light up the system. the cost of oil on that time was 3.000 per Kil. 
+
+29:01
+So even when you control the oil consumption, that is giving me my profit to my bottom line. So to avoid the trip to do that way to monitor this thing and make the stewards for the people who is responsible to what equipment will help us to reduce the shutdown. If you see, the measurement of force outage is even tataa steel has even appreciated that thing. It was reduced to more than 35% only by this method. 
+
+
+## How to Reduce Costs by Using Their Workshop
+29:38
+So the endm cost control is the prime concern from the people. as well as the available resources, is one we start utilizing their workshop, which was ideal for a long time because they never have the facility or util to be used to have a Reclamation. But I tell you, the team, which is available, ready to accept the idea and give suggestions, was the main strength for us. They are ready to tell that. 
+
+30:15
+Okay, if you guide them properly and have a discussion doing in a proper manner, that was start helping us to reduce this cost, even in boards. It was a question why you are not doing it earlier. 
+
+30:33
+Then I want to protect to telling some that no, sir, that situation is different, because once you start finding fault in those people, they will react and we will lose our concern, because we cannot sit there continuously and make a problem for that one. So whatever we done, with participation and suggestion from their team, only so that is our strength was taken. So net overall, you know you are not audable. I'm so sorry. 
+
+
+## Am I audible now? Am I audible? Yes, sir, okay
+31:07
+Am I audible now? Am I audible? Yes, sir, okay, so the idea I mean for the friends who are here sound is not clear. Is it Nia? Can you confirm me? We can hear clearly. Yes, sir, we can hear you. Okay, so you know as a IP, you know to my all my friends who are here, hello, IPS, we have to take the decisions. you know that's a that's the first and foremost thing. 
+
+31:45
+You are in a decision making chair, who is deciding every moment doing a business decision, technical decision, you know evaluating the pros and the conss of it. What could be done, what could not be done, setting your priorities, given the Mandate you have in the law. 
+
+32:07
+So quite a tough job at times and you know the irony is, at the same time, in the law there is only one or two lines like management wests with the IRP, you know preservation and protection of value. Now these two lines itself is like a tip of the iceberg. There is lot of stuff deep inside. There is there is there is a detailed effort, technical effort as well. 
+
+
+## Prof Prof Prof Prof Prof Prof Prof Prof Prof Prof Prof Prof Prof Prof Prof Prof Prof Prof Prof
+32:41
+Now we are all Chartered Accountants, company secretaries, lawyers and cost accountants. I'm sure this stuff is sounding a little different to you. So what motivates us is our obviously commitment to the Prof profession. We want to learn this profession. At the same time, while I was doing buan energy, there were couple of other accounts which were on textile front, which were on infrastructure front. Quite different from this. 
+
+33:14
+So definitely there's lot of thrill in the life of an IP, especially when it comes to managing the going concern. Your past work experience really helps. Yes, B it is audible. Your past experience really helps date I am not able to listen. No, we are able to listen. Actually it's fine. B there may be some issue in at your end. I guess please try l in a Dey. 
+
+33:52
+So you know it's a it's like, it's like a variety of experience you get. We were doing poal purchase online, call purchases. We were doing purchasing on domestic plus Imports. 
+
+
+## Domestic coal is not so good compared to imported coal
+34:10
+Now, interesting thing is, the calorific value of the domestic coal is not so good compared to the imported coal, and we are just I'm just, you know, telling you at a very high level, and we have to attain a mix of a coal which mandates us to have a certain proportion of the imported poal. Otherwise, the steam generation is not that good, simply saying, and the turbine may not move. Now, what does it mean? 
+
+34:43
+You, we as a cost conscious people, coming from a chartered accountant background, though I have a lot of Industry experience as well. That was helpful in carrying out the assignment. but you have to have a PO which is import it and you have to mix it. Now our mandate to bin has been bin. Why can't we reduce the cost? Why don't you use a domestic coal more than you know the imported coal? 
+
+35:10
+And answer was always no, and we could have been, you know, in a in a rather bigger problem, because the steam will be generated, but it will not be generated with the power it requires, and then whatever domestic we purchase and we consume is going to be waste unless it gets a booster, energy booster, steam, which can only come out of the imported C. And we were doing you know online options and all those things. 
+
+
+## How to invest in the plant, the repairs and the maintenance
+35:39
+You know. So you know there was so many things. you know the law has given you a lot of responsibility when, especially when it comes to the going conern companies, these shutdown companies, which are not active. There's a very heavy involvement and I think stakeholders, the COC and other stakeholders should also appreciate the kind of effort that goes into it, and the beauty of the entire thing was when we handed over to Tata scale. 
+
+36:18
+There was a very smooth transition and they rather appreciated the work we have done in the plant, the work which you know, given the constraints we had and obviously, as bobin has mentioned, we did not have the cplus money to invest Into. The Replacements, rather repairs were also difficult. So given those, and I recall an incident, maybe bobin can expand Moree. there were six boilers and you know. 
+
+36:47
+So we were switching off two boilers at one point in time so that they can be put to rest, and you know we were rotating the boilers in a very scientific way so that and they don't crack up, they don't, you know, cause any any sort of injury or any problem at the site, and though the rotation also would have cost us certain things, but we were ready to do that because in the interest of safety. 
+
+
+## IRP or RP cannot sleep and you know, assume that all things are working.
+37:24
+Now this is a very and everything flows from. You know your own thinking process, so the IRP or the RP cannot sleep and you know, assume that all things are working. people are applying their minds and it is my serious suggestion to everyone that please do apply your mind while you're into a certain situation and obviously you will be guided by technical teams. 
+
+37:50
+But keep your mind open and you know, keep thinking, keep asking questions to yourself: am I doing enough? Am I doing the right thing? What could be the possible consequence of this action or an inaction? When you visit the site, you will yourself realize what are the priorities. Like. Our priorities were very clear to bin which we communicated. Safety Remains the first priority, safety, safety that so the. 
+
+38:20
+These are the three things we've always said to him and rest. everything can be compromised now, given that, yes, when safety is in place, yes, then we will go to the next point. So everyone has to apply his or her own mind in a given situation in a given setup and then move forward, and thankfully bin has been so receptive. So you know so experience. 
+
+
+## Cross Validating suggestions from someone else who is independent
+38:51
+We were quite relaxed that yes, there is someone who is taking care and also not, and you know in addition to that there were technical teams in the company as well. But obviously, with the change of management, we do TR, we do trust them, but we can't act on their advice without cross validating their suggestions from someone else who is independent, like us, and that's where bobin Rose was, you know, very much helpful. 
+
+39:22
+We were cross validating whatever is being suggested to us by the you know, old employees, the Vintage employee, experienced employees or maybe something new. We were trying to test, so all these were validated by him. He was giving us the very clear picture. These are the benefits. These are the disadvantages, and that's how we kept moving on and on and on. Sorry, B can you hear me now? Yeah, now it is okay. 
+
+39:51
+Is it audible to all? Yes, you are. Yeah, I tell you there is some systems followed in India, that is, all boilers in operation and take it out as needed in partial load operation. Okay, when we seen this thing, what is happening is that any of the surge in the system happen lead to the tripping of the other unit. 
+
+
+## Why can't we take two units as a standby
+40:15
+But when we suggested to that them that why can't we take two units as a standby and as and when we get the over stems, we can bring it them because you have an auxiliary steam header is available from the data steer itself. 
+
+40:34
+There was a long resistance and I told them if you analyze your past tripping of boiler of before we take it up, it is not human error, it is the system error fault is happening. So when we see Case by case, I told them: can we keep this two on standby? 
+
+40:55
+Because there is a rule in the factory, the boilers inspector, that is every year you want to test the boiler and to have a certification every year. so during the certification of six boilers. If you see the change of that one that takes round about 15 days as an out of shown. So you have only one reserve one that time. 
+
+
+## Why OEM is not allowing us to do the blending
+41:20
+But what we find out, what is interestingly is that when we do this schedule, in which rate capacity y I get less fuel to be consumed. And second thing is that I am more safer for this part. Okay, so the advantage of this part is start helping. So this suggestion has been given to the team, and team say that we are at more risk. We are not able to do it in a proper way. 
+
+41:50
+So we requested them that okay, let us try for two months and see that any observation is happening or not happening okay. so because of that part, what has happened to the main system is that the failure of the system has start reducing. We start this practice on that one on which whatever we can do of corrective action become more better. 
+
+42:17
+Third thing is that, as you know that the fuel is taking 80% of the cost. So the fuel was chased from the open market and they are not ready to do the blending. To say that OEM has not allowed us to do the blending. So if you do the blending it will have problem of OEM. 
+
+
+## 80% of power plants in India blending and successful
+42:40
+During the discussion and case studies I told them if you see round about 80% of the power plants in India, which is Hing the blending and successful. so with lot of res assistance and everything what we got is we got start blending and reducing the cost to a minimum to that part. But this was the thing. 
+
+43:06
+Was again come to us that the procurement was again a big issue for the Cal, as you know that Malaysian Cal was purchasing on one idea and blending in different idea, so we are not getting any control on that part. 
+
+43:24
+So after seeing the high price of the market value, we requested them to involve in participation of the call auction, because when we start doing that call auction there was I don't know what was the issue. The price reduction was 40% because as you know that they are using a high caloric value code, which was more demand fing in India and that has a high price tank. 
+
+
+## How to make a coal with a calorific value
+44:00
+But if you take the a coal which is having a calorific value of 3 200 to 3 800, the price was very low, as because you are having a cfbc boiler there, it is easy for us to fire this PO and get the utility. They said they no. The earlier thing is that, as you know the power the steel sector want to make the C for making cook. 
+
+44:31
+They are not interested to have a local oric value C, even when they have a was unit there because of some problem, they are not utilizing it. So when we change this fuel mixture to this pattern, there was a great saving in the fuel and which is reflector in our bottom line. 
+
+44:53
+What I want to say to you is that suppose people and involvement and Analysis and have a equal survey for that one also reduce the cost. One of the major factors what was observed by Tata steel was that even there was no outages and dages. So in this scenario, how can we continue with the mobility system? All these things are simple principles which can openly think very easily with a group with an open discussion. 
+
+
+## How to Control Dry Gas Loss in a Power Plant
+45:34
+We are not done any Miracle or anything like that in technical way. Only thing is we start observing case to Case and start dealing with them in a beautiful way. the heat rate for calculation, which Tata still was doing, was based on the single method and there was no corrective action was suggested by that group because the technical team more concerned about the reduction Cod. But how do the correction was not clear? 
+
+46:08
+So we start analyzing the losses method and with spending a small amount of money in the system, we are able to cope up with the deduction in the maintenance as well as the people utilization. As you know, in a power plant, major losses we restrict to dry gas losses and another thing is that is the oxygen Control Systems. The dry gas control was taken by the operator button and giving more technically. 
+
+46:46
+We start watching the controllable losses in our control and give a team spirit for the group to group basis. so we came to suggestions as well as betterment, in such a way that the dry gas closes of the unit become a flat and the heat rate become a little more controllable. 
+
+
+## How to make the system efficient, but it is difficult to do it
+47:08
+In our part it looks very simple, but it is very difficult without having the total participation from the team of the people who are working and taking the data analysis. So it takes at least 2 hours for the analysis for each people who are involving. 
+
+47:30
+And this is now you have artificial intelligence and all those things which will automatically done, but during those sessions which is buil on before that one don't believe only on DCS parameter alone and give the system and correlated subsistence which help us to maintain fuel consumption to the minimum, because as a simp, low and efficient efficiency is the power output plus the losses. 
+
+48:02
+When the losses are more, the efficiency is less and which will lead to more failures in the system indirectly, which we feel that we can afford. So once you make the system efficient, the losses become minimum and the controllable parameter become easier and the system will be okay. it looks difficult, but it is not impossible to do it, but you want to have the people together and do the suggestions and participation you can do it. 
+
+
+## How to control the safety of the equipment
+48:39
+So these are the major points. Technically, we have come across with that one. We control the safety. We gone for the reliability with having more predictive mode than the preventive mode, as well as you are having any failure modes, so predictive modes. We start watching this ideas and having a change over schedule to meet the equipment available as and when it is needed. 
+
+49:12
+Like you can have the equipment standby, but in essential items it is available. What was happen because of all those things is that people also become important and their s schemes also find out where the pinpoint and minimum cost is possible, and everybody know that there is no money to spend, so it become a survival for the all the people rather than finding out: okay, let us close it and keep it sh down, but this method, by doing small items and analizing, reduce the maintenance cost also to minimum and utilizing the existing method help us to do a better availability for the problem, as recorded by the tatas. 
+
+50:05
+They told that this availability is 99 percentage because of the prayer working and monitoring of the team. We appreciate this part, because that was a big number in power sector during that time. during the change over. As you know, that data has deputed 22 Engineers to see each and every system and make the audit completely before do the verification of that part. 
+
+
+## Reclamation and Part: What is the cost of Reclamation?
+50:36
+You can easily see the merits recorded by the datas to say that the system was maintained properly. So it has no issue to change over for us very easily. First proposal. They told that we want to have an additional cost to Reclamation and part. Yes, there are some big tasks we keping because of the available of C but the essential item. We already done the rectification of cooling towers. 
+
+51:08
+We already done rectification of main pager pumps. We already done the major part of air preheater, those major part which the return of investment was very high. we have already done in that part, so we are able to maintain a better heat rate and a minimum cost of power for one and half years, which was lead to a profitability for the system. Technical part is only that. 
+
+51:38
+Otherwise, if you go to case to case, I don't think it is has more importance. If anybody has any queries, we are ready to answer in that part. Let us listen from the audience. If do they have any of the clarification needed, the points we have tast, please. Yeah, I would request. I would sincerely request all of you to please switch on your camera and do participate and ask questions. 
+
+
+## What Questions You Have, It's in relevant discussion.
+52:07
+Whatever questions you have, it's in relevant discussion. we are sharing some very important jewels of experience we had undergone all you know straight from, directly from the people who have governed Affairs. So please switch on yourself and please ask the questions. We have got good one and a half hours for you to ask the questions. Please carry on. We are waiting. Nia. 
+
+52:39
+Maybe you'll have to moderate the session and encourage the participants to ask questions there. So it seems there isn't any so bin, if you can also you know. Speak briefly about the issue of Ashes. You know and the disposals that we were facing while we were running this plant. I think that's a good episode in itself. 
+
+53:28
+Okay, as you well aware that the as disposal was a major issue for any of the power plant and as you know that the ash was taken to the distance more than 36 kilomet and it was have using from the same track and same party want to do the dispos. The two things are happening in that one is that if I'm having any High Ash disposals, my cost of disposal was higher. 
+
+
+## What we find in that one, what all the major items we can do?
+54:04
+So what we find in that one, what all the major items we can do? We have an open discussion with the parties and ask them where we can do the disposals. One of the major item of successful what happened is that there was Highway Department is needed to have an ash, but the earlier management was not disposing this ash. second was supplying to any of the cement plant to give this ash as a profitability. 
+
+54:42
+But as you know, there are lot of power plant in that section and the as demand in that section was a long distance. If you want to transport the ash per 10, it was charging round about 6,2 rupees or something like that. So if you go to 300 kilom to dispose this, as it was not possible. 
+
+55:05
+So we called a discussion with adya San and Ultra cement and those groups together and have an agreement to them. we will give the ash for you for the better quality on which we don't charge you, because, as per the act on India, Ash cannot be charged in o for the it to be supplied to free within 50 km away and something like that. So we able to find out two things. 
+
+
+## ash ash ash ash ash ash ash ash ash
+55:33
+One thing, we are able to find a mind spot which is able to fill up by the ash. Second one is that we able to find the party of the highway building which was ready to take our Ash for the long percentage. 
+
+55:54
+There was only one discussion with the management in way, in that one management not ready to open up for the other people stuck enter into the system to Su it of the system because as they say that there will be lot of security issue in that part. 
+
+56:14
+So we made an arrangement with the existing contractor to take the money of transportation from the highway, as well as giving the item to a smaller charge places to do it. That way, as you know, that environmental clearance is needed for the surrounding method on which you humification is needed and special sprinkling method can be employed in the system to avoid the ash accumulation during Transportation. 
+
+
+## Highway Authority: How to build a new highway
+56:44
+Okay, we have spent some money to install this system as a part of environmental clearance needed from the government after doing that one. If you see the long run of that one during our duration, the ash accumulation and stopping of the unit never happen. 
+
+57:05
+As well as this, distribution to two, three parties make a competition in between and the price on which, even when there was a clause of escalation for the diesel price, but the transportation price has been reduced to 12% during the first 3 months. 
+
+57:26
+But when we ask for the further things from the highway Authority, because if you want to have a fresh sand from the market and the sand we are using for the rebuilding of this one, it will be cheaper. so by comparison of that, one Highway Authority came with a proposal in that one till the highway Clos to 100 kilom from Bush and steel. They are ready to the transportation and cost reduction has been happen. 
+
+
+## Unle has another Power Plant which is having Ash, but it isn't able
+57:56
+Our major advantage in this thing is that one we got the environmental clearance from the authority to run the plan as well as we also got the clearance from the surrounding Authority that the villages on which Ash has already complained has been stopped. If you see the greenery which is developed during the side of the Bush and steel, which was always having a whitish mark because of disposal is also has been reduced. 
+
+58:28
+We got lot of support from the government authorities during the open discussion. The Collector and all these, and PWD, as well as National Highway authority, to help us to get that transportation to their place and utilizing this thing. 
+
+58:47
+As you know, unle has another Power Plant which is having the Ash, with higher content, which is already have the ash, but with a bigger system, but unfortunately this station which is planned to start a cement plant along with this one in their earlier plan, which was never taken place because of they are not able to Acure the land which close to it, so they don't have any Ash plan for that purpose. and another. 
+
+
+## Tata acquired a hant to a station 14 Kilome
+59:17
+There is a project they taken for a high density transfer of a to a station which is 14 kilomet away from that. Due to some problem of the survey as well as sideway. This project also stopped, even when they have all material and everything. We even thought of restarting that one, but the place on which they like to Acure the hant was already full with the other parties. 
+
+59:49
+So because of these criteria of openness, we are able B to run the plan for one and half years now. Tata has also started transporting the ash through their own available places aced some 25 kilomet away from them by building an Ashburn, the major investment after that. 
+
+1:00:12
+One has happened to Bush and steel to build that dashboard, because the highway project has already finished and they are not able to supply the ash for that one and surrounding area. This ashb has been built by tatas. Now it is discharging to that place by the truck only is happening. 
+
+
+## ash ash ash ash ash ash ash ash ash
+1:00:30
+What I want to say is that one even to go to the government authorities and meet the nhi and go to a seminar with the all cement plans and ensuring the quality of the ash. What they wanted is only the way we can find a solution to this part, because the machine was designed to have a high calorific value, as which they say that 14 percentage. 
+
+1:00:58
+If I use 14%, as in that production, the electricity will cost me more than 10 Rupees. so this is almost unpractical. To run that plan with such an ash, even with whatever technology you do, is not possible because they in the paper shown that they have a gold washery unit installed from Germany which was controlled of statas. When they start using that cold washery by using that one, they find that it is not economical. 
+
+1:01:34
+It is abandoned. So we have no other option to have invest money on any transportation. More so because of that we have taken this step to find out which is the best utilization way possible and how. I get the environmental clearance to run the plan by the help of lot of authorities as well as the people surrounding, also even the Village People. 
+
+
+## Team Working with All People
+1:02:01
+Recommendation and hearing of the econom, that environmental survey, we able to clear it very easily and got it approval and able to run the plan. When we got the plan, the environmental clearance was pending in the court and they given only three months. So this was a team spirit of Team working with all people. 
+
+1:02:24
+Even our other associate was helped us because even it was a problem for D also who are looking after the tasil project. So as a team, we formed and start arguing because I was in ntpc for a long time. So I able to know that where all the places it was beautiful and we start calling the people as a presence of that one. It was made successful for us. 
+
+1:02:52
+We got cooperation from the all the team members surrounding all the other people. It is not a single show. Because of that we are able to achieve it this one. It is a total teamwork, not by any individual contribution at all. You can flot an idea but get it executed. You Rec a team. Otherwise it was impossible for us, because there are lot of political. There are lot of cartels, there are lot of involvement. 
+
+
+## Was there even the transportation and all thing.
+1:03:21
+Was there even the transportation and all thing. You all people may be well aware it is not able to express in my meeting my words, but this thing to handle and talk with them is terrible. I even got a gun on my shoulder and saying that how can you say this thing and how you go out of this office? please appreciate that we really can't service people during IRP RP tenures. Not even a single rupee. 
+
+1:03:56
+There cannot be a cash transactions. People in the local areas expect the things to be managed the way it has been managed earlier. So all these things put together put extra burden on us on the management part of the site in the plant and the manufacturing facility. That is an additional burden because you really don't have support. Bobin was not having support from me so far as servicing part is concerned. The management part is concern. 
+
+1:04:25
+It was so high. You can't even afford their demand was so high, and even I cannot express to anybody that this much demand how we meet. I told so that was big no from our side. 
+
+
+## What is the Difference Between Professionals and Professionals?
+1:04:38
+So whatever has to be done has to be done, even if it takes long, even if it makes the journey little more difficult, little more painful, and that is the reason you know professionals feel little serious professionals who are, you know you know delivering to the tea you know are not rewarded at times in the same ratio, because the moment you take out all these things, the effort involved increases 2x, 3x, 4X, and that is where you know that is how things are, and you can't change the entire ecosystem overnight, just because ANP or RP is appointed, just because IBC in place. 
+
+1:05:31
+Local vendors, local suppliers, local people have their own expectations. so. But having said that, after some point in time, they also start realizing that these guys are not going to give up. They will. They will not agree to their demands and they will take whatever is the right course of action. And slowly and steadily, the equation builds up both the ways they also relize and we are. 
+
+1:06:03
+You know that this is how the things are, and I have I have only one point to convince them. There are 380 people who are working from the same Village on which these Nas are residing. Okay, these 380 people are already working on power plan for the labor Supply as well as other jobs. my say is that I'll ensure you the payment for you every month, but I cannot give you anything other than that. 
+
+
+## If you stop, this payment is not possible and it will take a shut down.
+1:06:36
+If you stop, this payment is not possible and it will take a shut down. I am only managing I not owning this plan. Ultimately, this click to them and they know. I told that even you can check up anything. I am staying, what is my goods and everything. I'm not having any excess money oring. I'm not having a bench car. 
+
+1:07:00
+I'm not running with an OD car and they say that the where are these directors are now? I say I have no answer. I am coming to a participative car on which you are meeting. I am coming to you in this way, only I can Ure you that on before 7th, your salary of your people will be given, and I assure you that never stop when there start working. 
+
+1:07:25
+Other than that nothing on my pocket and please say that so I will be always fearful on fifth day or sixth day and insist and Please Release that payment. Other I cannot even go there. So that is the only thing which that people support is the major strength which helped us to solve these issues of secondary expenses. You got all, but if you don't have money what you want to worry. 
+
+
+## bobin bobin, a bobin, thanks for joining at sh notice
+1:07:55
+So essentially m is trying to say we created a discipline within the organization to make the timely payment to the vendors, nothing more and nothing less. They give us the goods or the services. they'll make the timely payment. I think they were quite satisfied with that over a period of time and this became a routine and that helped us build the trust with the vendors and the suppliers as well. 
+
+1:08:19
+So very helpful, bobin, and thanks for joining such a short notice. If anyone has any questions from Mr bobin, you may please maybe ask last. These are last 5,10 minutes for him and then maybe I'll take the session forward. So if you have any question from Mr bobin, please feel free to ask the questions. Okay, B it seems they're quite satisfied convinced any anybody has any queries, they can contact me. 
+
+1:09:02
+No issue, my number is with no problem. I'm in jur nowadays because my wife was transferred to j. I shifted to Delhi to here. okay, thank you, bin, and thanks for joining at sh notice and giving us a very detailed experience of what we have worked together. It was I'm still grateful to you for the work you have done for me and it will remain part of a good memories and hope to again. 
+
+
+## Do you want to continue me or can I leave? Bin?
+1:09:33
+Do you want to continue me or can I leave? Bin? You can be in a passive mode if you are available. Okay, if you're available, if you have some other priority, you may proceed. Okay, I so okay, sir. Mr lit card has raised hand, so I think he has a question. Okay, yeah, Li, please carry on. N if you may request the participants to please either switch on. 
+
+1:10:08
+It's become very boring and monotonous to speak, because it seems that what we are speaking or we are sharing doesn't really you know. Cutting too much of it's not cutting too much of ice at the other end. So if you may request the participants to improve their participation and connect, otherwise we can wind up in another 5,10 minutes. We have nothing more to say. 
+
+1:10:38
+No, we are comprehending very well and you're doing a good job, please. Thank. No sir, I'm sure you are, but Visa the rest of the participants. It's really not encouraging. I request all the participants to kindly switch on their cameras and make this discussion more like there should be more discussions and it should be more interactive, and Mr lit kard, you have raised your hand, so you may ask a question. switching on your video. 
+
+
+## How to Demotivate a Presenter in the Power Sector
+1:11:11
+Also it's very demotivating for a presenter, because we are sharing our own experiences and all of that have come together to enrich it and maybe add value to each other. L you have any questions? You may continue, sir. Okay, so you know, actually in the flyer actually there were certain things mentioned about the macroeconomic picture, the power structure, as also the reasons for. The NPS Etc. 
+
+1:11:51
+If you could delve deep on it while you're making a presentation, it'll be helpful. Okay, sir, I don't have the presentation per se, but def. Even in your verbal presentation. that's fine. 
+
+1:12:06
+Yes, so definitely we can Del into the power sector in the sense that, as I've said, during this period of 2018 there were a lot of assets which have been pushed into the insolvency: B Monet, power, bu and energy, two of them being handled directly by me. however there were. 
+
+
+## Deallocated Cod M by Supreme Court in 2014
+1:12:27
+There were five, six good number of assets which were pushed into insolvency, and one of the bigger reason for this was the deallocation of the Cod M by the Supreme Court in 20145. And you know, for example, if you take the example of Monet power itself, there were many power plant which were based on the pr that there will be a supply of the coal, which is 70 to 80% of the you know, rather 40 to 50% of the cost on a certain premise that okay Min will be. 
+
+1:13:04
+There will be certain cost of mining. There will be certain cost of transporting that PO. There will be certain cost of washery washing that PO and then this will be my consumption. this will be my sorry production cost and this will be my power purchase agreement with the various grid course. 
+
+1:13:23
+Now, having said that, after the supreme court order on the allocation of Mines, which was, you know, which deallocated certain mines, most of them, this was a biggest, you know upsetting thing in the power sector and many of the cost benefit analysis. 
+
+
+## What is happening with this permanent shift in the energy sector
+1:13:41
+The basic premise of setting the power plants got disturbed because of that, and that actually demotivated promoters from moving further, and it also demotivated Bankers into funding more into these power plants and providing them more funds. So there was a sort of a ripple effect wherein the further disbursements were stopped in view of the blocation of C mines, and also so everything was left in the lurge. now. 
+
+1:14:14
+Having said that, this was one of the major reasons and after that recently you must have been hearing I think during coid period as well that there is a certain increase in the permanent shift in the demand of the power in the country 202.21. You may have seen the Baseline itself has changed and that has prompted, and obviously government has more focus on the Renewables and all the global green energy. 
+
+1:14:49
+You know all these low carbons Remain the norm, but reality is 70,80% of the power is still traditional power which is coming from the coal. and now in practice, what is happening with this permanent shift in the energy sector? 
+
+
+## Renewable Energy: How to invest in renewable energy
+1:15:10
+Demand is, there is lot of interest in the thermal power as well, and many of the groups are accumulating or consolidating their power generation capabilities, in the sense that there is definitely a demand and the green and the hydro and the renewable will take its own, and the solar will take its own time. One to establish itself number two to come to the same level in terms of the cost. 
+
+1:15:41
+It is a it is still a long journey and even if we do the best, it cannot contribute more than 20 30% of the total power. That Remains the business case for next 5 to 10 years at least. given that context, we could see lot of resolutions in the power sector. 
+
+1:16:03
+If you notice, in the last one and a half to two years there have been three to four resolutions which have happened in the power sector as well, because now off late, it is fitting into the strategy of the bidder. The price is fitting into the scheme of things. 
+
+
+## Green Power, Hydro Power, Solar Power
+1:16:20
+It is coming at a price where the bidder all can make money at the end of the day and add to his or her scheme of things at a higher level. In terms of the strategy overall, steel is an expansion, cement is an expansion and both of them need power. 
+
+1:16:41
+So overall, what we can say is there was there was a time when there were lot of assets being forced into insolvency and the stress, and now, over last one and a half, we see lot of improvement in those and thankfully the resolutions have happened and majority of them are resolved by now. So that is a good thing. 
+
+1:17:05
+But those academic things in terms of green power, Hydro power, solar power, they are not so prevalent on the ground because they take their own sweet time. They have their own limitations in terms of the power generation, as well as the cost per unit is very high, still very high compared to other moves. So, and these power plants are like the green, the brown field expansions are quite reasonable in terms of overall pricing. 
+
+
+## How to bid for a certain asset? What is going on in Rainbow case?
+1:17:39
+So and the turnaround time is fast, so it is getting into the business case now n can I ask you a question please? Sure s sir. I'm sure in your cases there would have been lot of claims from the government authorities and if we now look at the recent judgment in Rainbow case now, if the same resolution in New York case would have happened in today's scenario, how difficult or different would that have? 
+
+1:18:11
+It is difficult, sir, it is difficult see there are three judgment which are upsetting. Witha is one yes, rainbow is another one. Resurgent is another one. these three judgments are very, you know upending kind of a thing, which are which are not in line with the widely perceived interpretation of the law, and you must have seen those being cured sort of in the proposed amendments at MCA website now. 
+
+1:18:42
+Having said that, so definitely there is a chaos and you will have to be a little more careful, and your chaos is much less compared to the K of the bidder. Please understand he is he completely confused? He or she is completely confused. How to bid? How much to bid for a certain asset? Should I even bid for it? What is going to happen? 
+
+
+## Statutes, Statutes, Statutes, Statutes, Statutes
+1:19:09
+See that is the that is one area of the law which needs lot of work. You know, make it B friendly and it will take its own sweet time. everyone is working in that direction and obviously the law is evolving. 
+
+1:19:29
+But this, this particular thing being a statut, they are saying they secure creditor, is bit concerning, and you can see couple of judgment from enat see one last week, I think, where it says income tax is a statut or secur creditor. It's very disturbing. I could see one where they're saying no, they're not secured creditor, so it's mixed. 
+
+1:20:00
+I could see one judgment wherein a EPC company with lot of arbitration claim is able to avoid insolvency because they could argue in the court. They have good number of arbitration claims which could be used to pay the debt of the company and they are out of the net because of vva. now please understand. Our law is not the Trier of event of insolvency is the default. 
+
+
+## How to push the company into insolvency
+1:20:35
+It does not go into the huge asset base you may possess. Okay, so in effect, what I'm trying to say the scheme of our law is that even if you have thousands of cors lying in your real estate, if you are not able to pay to the bank, you can be pushed into insolvency. 
+
+1:20:58
+On the contrary, the Judgment which you're talking about talks about the potential of the company that okay, this company have so much of assets. Why do you push it into insul? That is basically they have a lot of network. 
+
+1:21:14
+Now that is where government will have to you know, amend the law and bring out Clarity, whether they want it to be a default based or they want the entire network to be assessed or somebody to come and you know, provide a opinion, recommendation, advice of what is going to happen with this company. I think law is very clear. It is a default based, triggered insolvency. 
+
+
+## What is the problem in implementing the law right?
+1:21:43
+You do the default, be it a liquidity problem at your end, be it a solvency problem at your end. The company has to be post into. If the person has enough money, enough inventory, he can sell it in discount and pay it to the Creditor. What is the problem in doing that so right? It's very clear to us. it is very clear to stakeholders, I think, but it needs little more Clarity from the lawmakers. 
+
+1:22:16
+I'm sure they will come out and clarify the position. Similarly for rainbow as well. The government has said in the proposed amendment very clearly that statutorily created Security will not Prevail. It is a consensual security which is a sort of a bipar or a bilateral contract. That is what is going to create concept of the secured creditor, not by the prevalence of the law right. So I think that's a big shift and a big clarity. 
+
+1:22:52
+So hopefully this see the light of the day. But till that time I completely agree. It is very concerning for the bidder and obviously you will have to navigate through an RP. you will have to navigate through this. Yeah, because you know the pending resolution plans. The bers are very apprehensive that what will happen to their liabilities post this judgment and prior to any clarifications or amendments in the law? 
+
+
+## Val concern: You will see the demands coming in from income tax people
+1:23:24
+Definitely, and it is a valid concern, Val concern, you will see the demands coming in from income tax people. They will try to play out their roles to the maximum possible extent, and it's a good mix. Now, as of now it's a good mix. It's it's going all over the place. 
+
+1:23:46
+I AG, what is your view on basically the resolution plans now factoring this both the r and vva and actually you know getting the adjudicating authority to approve this as a relief and Concession. so when I say this. 
+
+1:24:02
+To just exemplify, if a resolution plan today contains that bases the amendment by the government, the contractual liability alone will actually lead to a security C scenario coming up and therefore on all the structures the resolution applicant seeks a belief. Would that not settle the matter in that eventuality? 
+
+
+## How to Make sure that the applicant is satisfied with the resolution plan
+1:24:28
+For you know the reason is that while the concern with the resolution applicant is palpable and one can appreciate that, but is this not the way and I'm taking just your views on it? Because to basically sort of Ensure some level of confidence is also satisfaction that he can probably swing away from it? Okay, so help me help me first understand it a lot more clearly. 
+
+1:24:55
+So you saying the applicant will do the diligence and submit the resolution plan, assuming that rainbow prevails. rainbow does not. So he's not. He's saying that you know the. The structure is that there is a rainbow. Now there's a proposed amendment on the rainbow. Clearly it automatically says that you know if there's a statutory structure, there can still be secured creditors. 
+
+1:25:19
+But if there isn't sorry, if there the actual structure, it can be a secured creditor. But if it is a statutory one, well, it doesn't actually devolve to a secured creditor. 
+
+
+## If you are saying this, why wouldn't he actually quote the amendment
+1:25:28
+Now if they are saying this, why wouldn't he actually put that in the resolution plan, quote the amendment and categorically state that since there is no contractual platform, at the end of the day, the hyra head of so called statutory aspect should not come in and therefore a relief be granted on that or a pronouncement be made by theing authority to that respect. 
+
+1:25:53
+Okay, sir, I understand what you're saying, but, sir biders, this is only going to happen when bidder is very excited about the asset he's getting a deal you know, which is in his favor to a very large extent. 
+
+1:26:13
+But if I'm the bidder, I may not proceed on this till the time the amendment is approved or there is an ordinance in place, because you know these are very unpredictable times and every bidder will have his own apprehensions. Please appreciate he paying money at the end of the day a good money he would like to invest into something he's sure of and you know get good returns out of it. 
+
+
+## If the entire premise, if and more the reason.
+1:26:44
+If the entire premise, if and more the reason. If the say statutary claims are there to a large extent compared to other claims, if it is a minor outstanding and the corporate data is lot more clean in terms of the statutory liabilities and he's updated, then the concern is much less. 
+
+1:27:07
+Conversely, if it is loaded with so much of statutory dues and the business case is established when these dues are sort of treated as operational creditor only and nothing more sort of zero payments bidder will I as a bidder will have lot of reservation strength in that case and I'll wait for the amendment to happen. I will keep watching, sitting at the fence and wait for situation to evolve. 
+
+1:27:39
+Sir, in that case that putting quoting the Amendments, proposed amendments in the resolution plan will not hold water for too long. That may not help anybody. Then the biders would normally, I think, put a value Which is far low. At the end of the day, if they factor that, it's fine. So in that eventuality I think there'll be great haircuts for the for the creditors per se. 
+
+
+## Definitely, sir, so bidder will pay only the value which he supposed to
+1:28:05
+Definitely, sir, so bidder will pay only the value which he supposed to he assessing of the asset he has done the diligence. So whatever he thinks is the right price at the end of the day it is a distribution between the government and the banks. That is an essential question. so he would say: okay, I paying 100 rupees. In case I'm supposed to pay to the government, I'll pay them. 
+
+1:28:29
+I'll pay the balance to the bank. In case I'm not supposed to pay to the government dues, I will pay X Plus y to the banks. Would that not make it a conditional plan? I don't think so, sir, that will. That is that will make it a conditional plan, because it's a it's plan is not conditional in the sense the distribution is conditional here. 
+
+1:28:50
+But the C are apprehensive, actually basically taking two scenarios always in the plan. That is, I understand that, sir, but in that case then they will have to wait. Right. I mean then they will have to wait. AG, you're right, this will be contested by COC in a big way. they will say: you give me a concrete number how much I will get. 
+
+
+## How to win a resolution applicant in the power sector
+1:29:09
+So suppose the situation is this: then the bidder will say: okay, you assume that I'll pay to the government. Take that as a final plan, that in that case the haircuts will be far higher. Yes, you take it or you leave it. So bidder will always win. Let's, let's, let's give due respect to the bidder, the resolution applicant, and think from his point of view, always because he is the one who is investing. The Freshman. 
+
+1:29:38
+Yes, sir, sorry, actually I know I was leading to another question actually, and somewhat controversial, if I could in the power segment. You know. Yes sir, now invariably you know, in the power sector, what one has observed is that there's always been an over capitalization. the over capitalization in the past is one of the principal reasons, besides schal allocation. That's there for the stress at the end of the day. 
+
+1:30:02
+Now I would not use the words that the promoters may have benefited out of that over capitalization. But at the end of the day, can that Benchmark basically be taken to actually make an application under 66 or not? You know, for example, let's say per Mega at any date was 100 rupes. Right now, if I see the capitalization done, then in the structure it was, let us say, 200 rupees for a minute, right so. 
+
+
+## How to Make an Application Under 66 or Not
+1:30:32
+Or let's say 150 to make it more plausible. now when I see that and I know that for sure and certain at that point in time, the cost overruns would not be magnitude of a 50 at the end of the day, and I therefore see that there's something fishy in it now. Could that be an attribute of basically, or you know, prent to basically sort of make an application under 66 or not? 
+
+1:30:59
+Okay, sir, in my view this is a reason for you to investigate, so this becomes a solid ground for you to believe sort of belief or you know to appoint a detailed forensic investigation into the Affairs of the company. But this cannot be the basis for making an application. This could be a trigger point for you because you are now managing the Affairs. 
+
+1:31:28
+If, say, one megawatt should Green Field expansion should have cost six crores or say 10 crores. Here it is costing, say, 20 crores. This is a signal or an alarm to you as a RP or the Liquidator, to carry out the detailed investigation into Affairs of a company through a fory. Now this, but this itself can this analytics does not work. In cour. 
+
+
+## Analytics can only be a indicator for you to decide the course of action.
+1:31:54
+Analytics can only be a indicator for you to decide the course of action. But finally you will have to call out those transactions through which over capitalization has happened. If any those specific transactions have to be identified and then you can move an application to the PT and obviously the auditor will flag those. But the point is the whatever and out of that maybe you are not able to substantiate all the transaction. 
+
+1:32:28
+You are able to substantiate 10 or 20% of those. Fair enough, that does not stop you from moving an application, even if one transaction. But it has to go to the level of transaction, it has to go to the level of you know final evidence which will and rest everything becomes an enabler or an indicator for you to move forward. 
+
+1:32:49
+But finally it has to have so you know there is a clause in the regulation that you have to record the something that you have. You should make an opinion whether a forensic is required or not a trans, whether look back period has to be sort of investigated or not. So this kind of data over capitalization could be an indicator for you to decide. 
+
+
+## XYZ forensic AIT for this period
+1:33:11
+You can tell your COC that this much is the over capitalization and hence I'm going to appoint XYZ forensic AIT for this period. Kindly, approve their fee and then let the auditor decide and you please give him all your indicators to him and let him go through the come through the records, filter them out for you and call out those transactions. So that is how it works, sir, thank you, yeah. 
+
+1:33:47
+So so moving forward, sir, so there have been. You know, in our case we had been sort of a captive power plant who were doing bilding supplying power to H and steel, and you know, just to give you an update, there have been a lot of in a power plant you have. one is a fuel supply agreement, the other one is the power purchase agreement. 
+
+1:34:15
+So in our case, definitely the fuel supply agreement was not there. But we had a power first agreement with thetion steel. So we cannot disclose Beyond a point because of the going concern being transferred to. You know T Steel, but we had litigation there as well in the public domain in terms of the pricing. 
+
+
+## 
+1:34:40
+We contested the pricing, the price at which you know we have been paid, and you know we did a detailed, you know detailed analysis on what should be our price per unit which we are billing to the unit we are supplying power to. thisas is the strict reading of the power purchase agreement we have, and we sought revisions in the pricing as well. 
+
+1:35:10
+So partially successful, partially not successful, in the sense that the same company took over both the both the plants. So by that logic that litigation did not come to final conclusion, but during the inter we kept fighting for every rupee. We just wanted to convey to you that we were very, very concerned about you know every rup which is coming in as be going out why our Revenue should not be increased. 
+
+1:35:49
+We went through the entire power purchase agreements within those legal boundaries. We try to maximize our PI size and just to prise you as well. by the time we left the company, we had 350 crores worth of fixed deposits under my signature and when we entered the company they were hardly 78 lakh rupes in the bank account. That was the that was the kind of work we have done. 
+
+
+## 
+1:36:18
+All leakages, all cost lines were turned very efficient and obviously there is an austerity drive as soon as the IRP RP takes over. There is always very limited expenditure. We shifted our office to this what do you call this the post space sharing workspaces. We shifted from baj K place to n place and we took a two room office space there for a limited period of time. We save money on staff. 
+
+1:36:59
+We save money on office expenses. We save lot of money on the Cal procurement. we save lot of money on so many other expenses, travel expenses and all and all. Just to cuse a few. 
+
+1:37:11
+I don't recall so many of them, but what I recall is we had a fixed deposit of 350 crores by the time we left, and that was a huge compliment we received from the banks, and it's hardly over a period of one year and four, five months. It was a big deal. I don't imagine if promoter would have been running this company. 
+
+
+## 
+1:37:39
+The company would have retained 350 crores worth of rupees out of 400 megawatt, 500 megawatt power plant over the period of one year and 4 months, despite having so many limitations. So that was a huge success story for us. That was a proof of the work. Good work. we have done cash accumulations and all, and we were ruthless about costs everything you know, portioning every single rupe we are spending. 
+
+1:38:10
+We had very strict budgets to operate with and that to. We had a lot of to Plus 350 CR plus one or two months of receivables also, which were sitting healthy receivables, which we were supposed to come so effectively. It was more than that and you know at some point in time our fees, our entire CRP cost. 
+
+1:38:35
+All these were funded by the interest we were getting on the F deposit itself, so we were zero cost to the creditors. At the end of the day that was a big satisfaction. Frankly, we have not seen too much of appreciation from the banker side on the work we've done on the going concern. at times they appreciate, but at time they may not appreciate to the extent we penetrate and we effectively. 
+
+
+## 
+1:39:07
+You know I have some experience of working with mckin and Boston in terms of cost efficiency projects. So we were we were trying to you know, put over all the skill sets, knowledge base, into it, and we understand that many stakeholders will not even understand what kind of work has been done. But having said that, it was very. 
+
+1:39:30
+It was full of satisfaction to get a such a nice result and the bid size was 700 crores and 350 crores were returned on day one to T Ste. So that is the kind of you know Handover we did. 50% of the bit price was sitting with IRP as a fixed deposit. so and the reason why it happened so is the plan. Approval took a little more time at NC. 
+
+1:40:02
+So, for example, the bids were given, Say, by June 18 and they were approved by June 19 by NCG. So one year was the timeline and during this period we could accumulate 350. So that was very satisfying work we have done and we keep quoting that while we're talking at various forums and there is no signs to it, let me tell you this: you have to put your soul into it, your heart into it, and being initial assignments also, we were also, you know, very excited and we putting over to approach all of our teams. 
+
+
+## 
+1:40:43
+GT team was they helping me in terms of professional advisers, and all of us were really into it and you know thinking allow creating Solutions, and we were really not dependent on any government Machinery. We were always looking at Solutions at our end. What can we do if we keep waiting for? You know our local people in angul or you know whatever where the factory was, or we would have done nothing. 
+
+1:41:16
+So we were always on our toes thinking what can be done privately indust in terms of you know action, what can be done quickly, what can deliver results? How can you plug in the leakages? So there was a strong system of purchase procurement. There was separate series of VES which we maintained for our process and obviously they were controls from the bank account. 
+
+1:41:42
+So that was very satisfying experience and it was all possible because of one we were having our heart and heart and soul into it. We were applying our full mind. We were applying our full experience and, by grace Of Fortune, we were all having good people around, be GT3, be bobin or be you know my fours councils. 
+
+
+## 
+1:42:09
+So good people came together and initial accounts 2018 was a was the initial period and I'm part of the initial batch of RPS. I'm the first chartered accountant to be registered as an I. So we were facing. We were not sure. There were no precedents. There were not too many an judgment and judgment. But everything has to be done by you have to think through. You have to think how will other person react to it? 
+
+1:42:36
+How will a dedicating Authority, how will Regulators read this decision of yours? How will they read it? How will they analyze it? And you know we were waiting through this turbulent times on our own, in our own small boat of Ip team, and it was a small boat that helped us, being very agile and Swift in decision making at the same time smaller group to convince powerful, but smaller group. So in a way that helps us. 
+
+1:43:05
+So I don't have more to add, but I would like to hear any questions you have. I will be more than happy to answer and share the insights. I that ni g. Yeah, Mr, did you find the committee of creditors generally supporting you? Or they go for their own interest rather than rather than helping? sir, you have to understand their own governance and their own agenda before I comment on that. 
+
+
+## 
+1:43:53
+Being a banker, they are not too much concerned about the operating part of the company or the management part of the company. Okay, and obviously they are concerned with the utilization of the money. But they're not into your cost optimization. Yes, they're concerned with excessive costs. You know you should not do whatever cost approvals have to be in place by the C and all. 
+
+1:44:16
+But being a banker, yes, they have a they have a focus on the recovery, that is for sure. But if you do something good, they will. They will neither stop you from doing that and you may find they may not go over the boat to support you as well. so yeah, so they, if their interest is adversely impacted, they will definitely put their foot down and fight for it, which is fair. 
+
+1:44:49
+So you have to be. You have to please understand what is their concern and what is their objective so far as the IBC process is concerned, in fact so far as the CD is concerned. Look at it this way: when promoters are running the company, how much interest do they show in the running of the PA of the company? 
+
+
+## 
+1:45:07
+They may not, except the big ticket concerning with the big ticket flow of the money credit monitoring, which be so whatever you do, whatever technical work we do, you do, that largely stops you. Okay, that is my experience and that is my understanding. but yes, somebody may do it to the hill, somebody may not even do it and frankly it both of them may be called successful resolutions. Yeah, that's right, yeah. 
+
+1:45:42
+So this thing, this particular thing, will vary a lot from IRP to IRP, from one RP to another RP a lot. We personally I personally invest a lot of time in managing Affairs of the company and doing Justice to the job and though many stakeholders may not even know and appreciate, but yes, we do get into it in a deeper with and take full control and drive the company, the cash flows in a certain direction, definitely, sir. Yes, ma'am sir, as a regulator we want to ask, like since on power sector company there were lot of compliances. 
+
+1:46:30
+So there were any compliance, any specific compliance of any or law which actually like troubled you and which was difficult to comply. Yes, so ma'am, let me briefly so. You have asked this question. There are like six, more than 100 acts applicable to any Factory which you set up. 
+
+
+## 
+1:46:50
+But having said that, within those critical ones are, as Mr adash has also mentioned, the factory occupier was one wherein you have to sign as a factory occupier to the reg local regulator of the factory commissioner or inspector, wherein you take the complete owners of Factory on you. That is a big compliance. We were thinking 10 times. We consulted all famous lawyers in India and finally formed an opinion around same how to deal with that. 
+
+1:47:24
+But that was a big responsibility for any IRP to run a factory beit power or something else here. Another regulatory challenge was a consent to operate. There is a CTO certification which you have to take you know for running the plant wherein they, the inspector comes in and he does the entire inspection of the s and whatever recommendations they give. We have to make sure we cover up. We do that to the satisfaction. 
+
+1:47:59
+Fire safety audit another thing we faced in a big way. We have to. We spent in fact considerable money to ensure that we clear that audit. finally, we were able to, and with the no comments or the observations, in fact, we did our own fire safety audit at a private level, first with some experts, and then we opened it up for the government inspector to do the inspection for us. 
+
+
+## 
+1:48:29
+The fourth one, which we faced a lot of resistance, was the ash disposal, as it was a thermal power based plant. There were lot of Ash being generated and there was a issue in transportation, and you know, whenever we were transporting the ash on the trucks, it was creating a lot of pollution for the villagers local villagers which was very concerning. So there were two solutions to it. 
+
+1:48:53
+One was to invest 100 crores of rupees and create a slurry. So there was a slack. there is. There was a proposal to convert it into a slurry and then transport lay a pipeline and invest fund CL, which was definitely not possible for us. 
+
+1:49:06
+And another thing which we did as a you know makeshift Arrangement was to you know, create we created those covered trucks, you know, with a special design so as to make sure that cash does not spill over to the environment while being transported on trucks. So this is another area where we worked a lot. We satisfied the authori that these are the kind of arrangements we are doing. 
+
+
+## 
+1:49:33
+Please allow us few more month, because in any case we are going to hand over the company to the prospective buyer. Successful resolution applicant, but in the intering, you please allow us do that ways and you know. finally they were convinced and we were covering the trucks in a particular way and so that the ash does not spill over, and we are able to. 
+
+1:49:58
+We were able to comply with the law and not only comply with the law. We were also a bit hesitant to allow this to happen, because it is not good because the once you emit the ash into the environment. They were healthy issues across the villagers, which was not a very desirable thing to do so. 
+
+1:50:19
+Not only the law, it was ethical on our part to make sure that we don't aggravate the situation, and we did that and it finally worked. And obviously the labor issues, as we have said, Madam, the labor issues, the injury, sight injury, Remain the top priority we create. 
+
+
+## 
+1:50:43
+We did a one more safety audit, in the sense that is there any part of the Factory or an equipment which may cause any injury to anyone, and there also we created proper displays. We you know purchase those dresses, helmets. We created those markings wherever there was a danger zone so that entire the repainting was done, so that the person who is working on it's loud and clear to him, being a not so educated labor. 
+
+1:51:18
+That okay, this is a danger area. I should be little more careful and the tools which they were using, which may cause injuries. They were also given training. They were trained and explained how to use them and how, if it's not used properly, can cause injury to them. so these. These were the areas where we had a very huge focus and we were investing a lot of time and effort on that. 
+
+1:51:45
+To some right and Sir, like the employees like, have you retained all the employees or did you change any structure during CP? No, we did not change. So again, why should we change an employee? Employee has nothing to do. It's just the top layer which has changed right. We are not here to disturb the running setup. 
+
+
+## 
+1:52:07
+So what we did was we retained the entire lot unless somebody was creating problems and we didn't find any issues with that. They were equally responsible and s here as we had expected. 
+
+1:52:22
+Yes, there were certain issues in terms of you know some senior people who have more loyalty towards the previous managements, but we were putting them in good checks and controls so that our interests are not affected adversely and we are able to get maximum knowledge and maximum you know insights about the assets from them. So we managed that very well and very few of them were asked to leave. Not large was it came. Okay, sir? 
+
+1:52:53
+I think Mr visham has a question. He has. Yes, sir, please can, sir. Typically in power sector there are various agreements which deals with events of default. There are many contractual contracts or agreements they deal with events of default and even admission to insolvency that itself May trigger an event of default. so how to handle these kind of situations deal especially dealing with events of default. 
+
+
+## 
+1:53:28
+When you say events of default, in which all contracts, like you are saying, the power purchase agreements, fuel supply, power purchase agreement or even there are some subcontract agreements, the parties to the contract. There could be certain events of default, and admission of admission to insolvency proceedings is many times specified as an event of default. 
+
+1:53:55
+So definitely getting into insolvency or getting a liquidation order is an event of default not only in power purchase but in any contract for that matter. That's what I've experien is even if you go to EPC contract, infra contracts, where the bank guarantees can be invoked the moment there is a company into liquidation, or so sir, I think the authorities, the counterparties, had been quite reasonable when it comes to you know, so there is a there is a understanding that these companies are governed by coure or NT, so to say. Okay, the counterparties are well aware of that. 
+
+1:54:34
+They are well aware of the moratoriums which are in place, okay, and they are aware of the consequences of you know, like IRP, RPS are fully equipped with the legal teams as well. Now, given this background, if somebody interest is not affected, largely just because the company has been admitted into insolvency, we have not seen too much of reaction. okay, provided we meet them. 
+
+
+## 
+1:55:01
+We explain them how we are going to conduct the business as usual. Okay, if say, let's take an example: we are building a road, there's a road construction contract and there are Bank guarantees given from our side in terms of performance and there is a liquidation order in place for that f company. 
+
+1:55:19
+Now there are two choices with the nhi, for example, they may terminate and they may appoint somebody else or, given the progress we are doing on the site, given the short pendency in the contract, in the sense in 90% is complete. 80% is complete, just a matter of couple of months. We found authorities to be very reasonable, okay, and they were able to you know. 
+
+1:55:48
+We were able to talk to them, convince them that we are prioritizing this and we are committed to finish the project. I'm just giving an example, and we have been able to sail through all those situations very peacefully, and this is where the you know RPS have to go an extra mile. They have to speak to the authorities, explain them what are the new provision? How will the company will be governed from now onwards? 
+
+
+## 
+1:56:14
+And what? Because they, as an authority, the or the counterparty who is the contract there is only concerned with the work which I'm supposed to do, and if I can show him I have sufficient money available. I have sufficient Manpower. I have retained my Engineers. why would somebody like to terminate the contract if things are happening well and that if he does in that situation, then we take it. You know, legally as well. 
+
+1:56:43
+We have our own legal teams. We have we will challenge that termination in that Cas in a big way, because he is not affected at the end of the day, so he may have a choice. But no one would like to disturb the contractual Arrangements like this and because if he does, we may end up loading him with lot of arbitration claims for that matter. 
+
+1:57:09
+Okay, because that person has ACT, you know, sort of arbitrary with complete disregard to the ground reality. yes, sir. Now, conversely, if the situation is not in our favor, we are not pursuing with the work, we are not able to service the contract the way we are supposed to. I think he will go ahead and terminate and we may not be able to challenge, except that we can claim arbitrations. 
+
+
+## 
+1:57:37
+We can claim whatever is loss suffer to us because of those termination, but he within his rights to terminate. There's a complete legal entitlement sitting with him and he may choose to go ahead. Sir, basically, when you have an open mind and tell the facts in front of them and you discuss in an open Forum, so those misconcept will be very easy to resolve. Okay, first and two c. 
+
+1:58:07
+They may have a fight, but afterwards they understand that this guy is telling truth, and this is the plus and minus of it. Then there is no issue. Most probably people has to believe that when it go to insolvency, nobody will get payment, no work will be get done and these guys will cheat us and those lot of talks will going on background. 
+
+1:58:30
+Okay, but once you start explaining and present yourself in front of them and get the confidence, it will be easy. You are right first three months. We also suffered a lot with challenges and all those things. Then people understand who are these people, how they are handling and all those things. Then they don't have extra interest in any of these item. Then it will be okay. Then you can find a solution with an economical way. 
+
+
+## 
+1:58:57
+I don't find much difficulty after six months, before six months. It was a fight every day, but afterwards they understand that and they get a confidence, and it will be easy, sir. So your level and your own level and commitment, sir, will reflect in all your conversations. You know that is very important if you are committed to a particular assignment or an asset or corporate data. 
+
+1:59:20
+It will reflect in all your conversations with the vendors, with the customers, with the authorities, and I think that has a bigger role to play here, and obviously legal things will definitely fall in place. You cannot stop anybody from pursuing the legal remedies which is written in the law, but we have not found people being unreasonable most of the time. they're reasonable, they listen to us, they understand what is happening. 
+
+1:59:50
+Why is it happening and what is the final outcome? And many time just to add. Finding a successful bidder also helps and because then it creates the hope for the counterparty that okay company will be handed over to XYZ when the resolution plans are approved. Suppose COC approves a resolution plan in favor of XYZ and then we are able to file it to inting Authority. 
+
+
+## 
+2:00:17
+That also becomes a Solid Ground for us to convince the counterparty that okay, shortly this company is going to be taken over by this person, provided n approves, and this also becomes a ground for them not to be very harsh with us, because eventually their interest will be taken care of once the new management comes in, and if it is a credible name, then obviously it adds a lot more. Thank you, sir. 
+
+2:00:47
+Yeah, so can I as an addon to this? Actually, in this conversation have we seen any contracts which say that admission to insolvency is a trigger for termination? I think insolvency per se is so. We've done some resolutions. we are also doing a power one and also you know, in the in the in the EPC, admission to insolvency per se normally is not. 
+
+2:01:13
+But if, for example, admission to insolvency is if you have seen these contracts, how would you put it in the IM in that case and then actually call interest? 
+
+
+## 
+2:01:23
+So if there's a road contract and there's a structure where admission to insolvency could trigger it in that eventuality, if my IM am basically requires overment on that aspect of it, I would be going in for a toss and sort of offis cating any possible potential bidder who would probably believe that you know this by itself will trigger it and it' be a huge challenge. I understood. Sir, I understood your question. 
+
+2:01:48
+So you talking about a situation where the company's bunc is largely linked to a particular contract, for example, and that contract has a clause which says section seven or nine, whatever application is admitted, it is a trigger for the termination of a contract. Right, sir, that's what you're trying to say. Have you seen that kind of contract contct? Not so far the contract which you have seen today. 
+
+2:02:15
+They were designed like 10 to 15 years ago. Please. So the contract say that if the company becomes insolvent yes, becomes insolvent, bankrupt or liquidation. These are the three words generally that yeah, that's what I also seen. I have not seen admission to insolvency as a trigger. That's what I'm, yes. so we have also not seen and the reason could be that these are all old contracts. Maybe the contract which are being signed today. 
+
+
+## 
+2:02:42
+They have these kind of Clauses. But so far as my limited knowledge goes, we have not seen contracts with, because the terms which we are using today maybe are like, was established 10,20 years ago, with the Juris Prudence being involved and the law in place. 
+
+2:02:59
+So I think we could see this maybe five years down the line, sir in the I doubt, because you know just academically discussing, because if they were to go to the attorney Jal and seek an opinion, it would probably kill the concept of moratorium totally effectively. 
+
+2:03:17
+If that and at the end of the day there'll be probably nothing to do in the resolution process because if there's a road contract and the road contract is going to be basically terminated on only the admission of a section s or a nine in that eventuality, what is left in the road contract or for example even power purchase, if, for example, if today PPA agreement in my project would basically sort of have this Clause that it goes for a toss on admission itself, then it's finished. 
+
+
+## 
+2:03:42
+I agree, sir. I agree, sir, the value preservation will be difficult in such a scenario. But if you ask me, there have been both kinds of conversations that the IBC may prevail over the contract act and IBC may not Prevail over the contract act. So, and there are multiple cases which are pending in Supreme Court and you know it is not very well settled as of now. 
+
+2:04:11
+If you talk to any renowned experienced lawyer in IBC today, he will say both ways. So, for example, so resolution plan, when you submit the bidder, May seek modifications in the contracts which are already sitting in with a CD now at times you know NTS obviously don't deal with that in a greater detail, but at times the this Clause becomes material enough and it may travel up to Supreme Court. 
+
+2:04:42
+Let's hope it travels fast and there is Clarity. But so far as government is concerned, government has clarified its position that they will not kill those licenses, permissions, etc. Just because of the fact there is an insolvency. Government has laid its position very clear now so far as the private contracts are concerned. If this situation arises and there is a dispute, then you know we have ourselves faced this. Terminations of contract. 
+
+
+## 
+2:05:16
+The only solution you have is to go for arbitrations. As of now you really can't enforce so far. That's my limited knowledge. Maybe I'm wrong. You can't enforce IBC on somebody to walk along with you as a contractor. If he wants to walk out, he may walk out. 
+
+2:05:37
+You may pursue the remedies further by way of arbitrations, but it's not that you know you moratorium does not bind everyone in the world to the CD in a way that they have to be, you know, supportive of CD in what come what may. 
+
+2:05:57
+Let's not extend moratorium to an extent that it's a universal moratorium applicable to everyone under the Earth so far as a CD is concerned, and that to you know which causes adverse impact on the other party. So the moratorium is there. It is it is recovery. 
+
+
+## 
+2:06:20
+Part of that is being you know the way moratorium is being understood is they cannot recover something from you and that to up to a certain point in time, till the time moratorium is in place. now, that doesn't mean that they are supposed to walk along with you. See, for that matter, you can talk. You can apply the same to an employee who was there with the earlier management and now he is there. 
+
+2:06:44
+You will say there's a moratorium in place. Mr XYZ, you are a KMP CFO. You cannot leave the company because moratorium is in place. You have to walk along with me till the time company is in stress or in the CP because I the IRP and there is a moratorium and IBC has a over overriding effect. 
+
+2:07:01
+Your contract of service, the engagement, the employment contract, which says 90 days notice, is overridden by the section 238 of IBC. You can put that argument by that logic, but that doesn't work like this. you have to give the Liberty to the person if he wants to leave. He can leave, provided he serve the notice. And even if he does not serve the notice, there's a separate proceeding for that separate way of dealing with that. 
+
+
+## 
+2:07:28
+But you can't bind everyone in the ecosystem with the CD that okay, you have to have to have to come along with me on the term agreed. That is too much of too much, of extension of moratorium and going towards the misuse to the other end of the spectrum, as is my understanding. So definitely he cannot, he or she cannot recover money from you. 
+
+2:07:55
+He cannot, he or she cannot dispossess you of something which you already possess, like if you're in a rented space landlord cannot go say you go out. definitely you can. If it is essential to your functioning of the company, you can incur the cost. You can put that Clause, okay, I will pay you at the end of the m atorium. Please keep accumulating my money, my rentals. That to that extent it is fair. 
+
+2:08:26
+So there is a there is a with fine dividing line, sir, that is my understanding and my experience with I totally conquer with. You're right. But my only short point is that, yes, you can't actually make anybody claustrophobic because of moratorium for its functional autonomy. But at the end of the day in infra contracts and nhi. We have seen that in the EPC platform quite clearly. 
+
+
+## 
+2:08:55
+I think if somebody terminates because normally nhi is now taking a position saying that even if you actually sort of find a price, find a buyer, find a structure, it'll take you 6 months, 9 months, 330 days or whatever at the earliest. In the entire process. I would want to termin it and give it to somebody tomorrow, because I can't actually get my road project languishing. 
+
+2:09:18
+Understandably they correct, maybe perhaps because there is a there, there's a time span involved in it. But in that eventuality, once admitted, I think the recourse to an RP is to basically sort of take it to Liquidation in the first COC meeting, because there isn't anything left in the entire structure to sort of maximize. for if that is a reality, then why not? That is a reality, then why not if the contract is terminated? 
+
+2:09:41
+Yeah, you please file your arbitration claims, then you proceed for liquidation. Yeah, why not? That is the only source of Revenue. That's the only potential. That's the only project, because most road projects, power projects, otherwise, are in spvs and they're only Standalone structures or entities. Fair enough, then you are asking so the going concern itself is not there. 
+
+
+## 
+2:10:02
+If going concern is not there, that is the first proof and the cost itself of pro the process cost itself is more than you know, whatever you know. so if it is not justifiable, the business cases not there for carrying the process going forward have the strong argument in place, though, because the bankers and the NTS are bit reluctant to go for early liquidations. 
+
+2:10:29
+So you have to treat very cautiously and have a very strong business case right to justify your action because it is slightly, since it is cod driven process. Sir, Innovations do not find too much of favor, even if you're are trying to. 
+
+2:10:49
+So at times the bat down paths are better and at times Innovations have to be there, but they should be, you know, done very carefully, and I also sort of sort of thought that you know for the larger interest of the group. 
+
+
+## 
+2:11:08
+Also pick your brains on the fact that since you've done a lot of the infrastructures you know now that via has come in people with arbitration claims are considered to be VI at the end of the day. Don't you think the concept of litigation funding in coming in for arbitration claims might sort of assist in the entire matter. 
+
+2:11:27
+So we are ourselves looking at somebody who can fund us, but practically we have not found too many players. In India, at least for now, and internationally also there are but very few players. We have been told we in one of our asset we have loads of arbitration claims. that is one very pricey asset put together in overall portfolio. 
+
+2:11:56
+But there's not too much of R of for and I don't foresee too much of having that hope in that front over next at least three to five years, because there's nothing changing significantly that will come. Please understand that funding will come once the turnaround time of litigation is reduced considerably. That's a simple metric. 
+
+
+## 
+2:12:23
+Till that time it's not going to happen n g one important aspect is, once the resolution plan is approved, the implementation of the plan. Can you share your journey regarding this implementation of the plan, where you lot of challenges come in the way for implementation as far as the resolution applicant is concerned, Su successful resolution applic, so you have you. 
+
+2:12:52
+Would you like to highlight certain challenges, because, as per my understanding, it's not very challenging, so to say. Essentially, when we talk about the ROC aspects, that is one. Then when we get up, try to get the approvals from the statutory authorities. That takes time, sir, that takes time. That takes time. That is B bit lengthy and cumbersome process. 
+
+2:13:23
+Cancellation of shares, allotment, fresh allotments, reconstitution of the board, so MCS site itself, I think for last one month. It is now version three, creating a lot of problems for everyone. I'm sure those who are actively involved will correlate with me, but definitely so that is a problem. The only solution is have a good company secretary in place to deal with the this, all the compliances at the Handover time. 
+
+
+## 
+2:13:54
+It's very helpful and you know somebody who is very thorough will really help save you through on all these things or you master it yourself. But definitely that's a pain and further aggravated by the time taken by the S as well in terms of when compan ised. But follow the procedure. It's going to happen. I don't think it does not happen. It happens. It takes time, but it definitely happens. That is for sure. 
+
+2:14:30
+It does happen, but I think government should take some measures and this aspect also where in some smoing of the process can be done. Sir, again n g please don't expect IBC to be a super. You know yeah law which will drive everything on Earth. So you can't expect. Please be cognizant of the fact that MC is a very big. you know it takes care of so many companies. 
+
+2:14:56
+Stress companies are only 5% or maybe 2% of the companies are in IBC. Less than that. So and see, for the overall sake of efficiency, yes what I agree with you, but definitely so far as this piece is concerned, this is very minus compared to the volumes they handling on a normal basis. So I mean the best is you can push your case forward and let's hope the automation happens to large extent. 
+
+
+## 
+2:15:23
+Digitization happens and there is an autoflow kind of a thing. But too much to ask as of now. But things are improving, but a good company secretary really helps, right is our experience anything else from anyone please feel free to ask May another 10,15 minutes. You can spare. Okay, ni G. I think we are more or less done with our part. You have any question for me? No, sir. 
+
+2:16:15
+Thank you and sir, you can share your experience with financial creditors also like whether they were Cooperative. Did they like INF, any interim Finance of that sort? So interum Finance is difficult, rather impossible. You may find creditors contributing to the cost at times whenever company is in a really you know, cash deficit position, but that will take its own time. It's a bit lengthy process and the banks are really are reluctant to fund good money. 
+
+2:16:50
+Put their good money into the bad asset. Having said that, the times are changing. We really had lot of struggle in the initial phase and almost running the company. you know we were like a magic vs running without money for too long and we were able to survive. But I think these days it has become little more acceptable for the banks to fund the process cost if you get their approvals. 
+
+
+## 
+2:17:21
+But again collecting from, say, 10 Banks, from 15 Banks may have its own pros and cons. Some may say I will pay, I will pay after this pay, you know, and they may have a sequential effect. But intering Finance, you know legal pay. Etc have been doing that for some time. 
+
+2:17:40
+I have not personally done any transation with them, but I've been told but a difficult thing to track and difficult situation in to find a intern. It becomes very, very previous task at times. But yes, you don't have a choice. you have to arrange the money you have to pay the salaries. So yes, at times it's very difficult. Thank you, sir. Thank you, thank you. 
+
+2:18:14
+I think we can end the session if there are no question questions to be asked. Yeah, if you have any, please let us know. I'll just drop my email ID and the phone number and you can share my profile as well. Nia sure, sir, I'll sh. So thanks to everyone for giving a patient hearing and giving you suggestions, adding value, asking questions and we I wish you personally all the best. 
+
+
+## 
+2:18:43
+We are on an exciting journey of becoming an I delivering, as an, and times are challenging. let's hope to see the clarity on two, three aspects of the law being the secur creditors, rainbow judgments and Thea judgment. But at the same time I would like to tell you share that it's a very sort of a demanding profession, at the same time very exciting, provided we have your our heart and soul into it. 
+
+2:19:18
+It's really enjoyable, right and it's a profession of professionals. At the same time it require a lot of in depth thinking you have to you really can't you know, just do it for the sake of it. On the top of it, it requires its own dedication. It's like one another baby. You have kind of attention. 
+
+2:19:43
+It deserves to deliver to your satisfaction, because it's it just does not that you sign up and you know you sign the. You know it requires a lot of personal time, attention, application of mind to do justice with the job is my experience and accordingly, plan your time, plan your professional life is my only suggestions. All the best to you and hope to see you in person as well sometime, and let's hope being touch. 
+
+
+## 
+2:20:18
+Thank you n thank you so much, sir. Thank you n sir, and thank you bin sir for spending your valuable time with all of us and for sharing that enriching experience. I hope all the insolvency professionals who have attended this session have learned a lot from sir, and I'll share his profile also with all of you, so that if you want to have a personal touch and you want to personally contact sir, you may contact. 
+
+2:20:46
+So thank you so much. Thank you everyone, thank you, everybody. You thank you, thanks, bin. Okay, special thanks to you, bin. Thank you, sir, thank you, thank you both of you. Thank you so we will meet at 2m for the next session on manufacturing sector. Anish, sir, shall we start the session? Yeah, we should, we can start. We want to wait for people to join. May we wait for a couple of minutes? 
+
+4:01:56
+Okay, maybe we can wait for five minutes. Then we'll start. Yeah, okay, I we can start now. okay, yeah, okay, thank you, Nia U, so welcome participants, fellow professionals and Friends to this session on M and during. Your voice is breaking, can I? Is this okay? Is it improving? Yes, sir, yes, no, okay, right, so would you want to start, Nia? Yes, sir, I'll just give a brief introduction. Then you may take the session. 
+
+
+## 
+4:07:20
+Okay, sure, for the for this session on manufacturing sector, we have Mr Anish NTI. He's a practicing insolvency professional, having been a banker with the substantial experience in structured Finance as IP. He has handled many assignments across variety of sectors and in GE, involving management of large and operational corporate datas. Today he will also talk about one of his cases of cosmic phoh, which was resolved and which was in manufacturing sector. 
+
+4:07:50
+So over to you, sir, you may now take the session. Thank you very much. So again welcome to all the fellow professionals and participants on this okay auspicious occasion of mahash shatri. Thank you sparing time on this afternoon to hear me out. We take the session on the manufacturing sector issues and managing corporate data U during insolvency. 
+
+4:08:24
+As you can see, you know, manufacturing sector has been a lagard of in India, given the fact that you know since the early '90s. You know China has been the so to say the factory of the world and you know much of the manufacturing has been con has been concentrated in China and much of the exports and value ad has been value ad has been a constraint as far as Indian manufacturing concern and much of it has been displaced by imports from China, low C imports from asan and of course now there is a renewed push towards Atma River and we are looking at hopefully a re a Revival in manufacturing and probably back to the early 90s. 
+
+
+## 
+4:09:25
+As you can see, the manufacturing has grown at a cagr of just about 6% over the period 19 to 22. Of course this includes the coid period as well. the pandemic did have a effect on all sectors, including manufacturing, and we are looking at probably A Renewed interest, and let's see how things plan out in the next two, three, five years. 
+
+4:10:00
+And Manufacturing otherwise as a sector is key to much of the absorption of employment potential that the country has we all know. Dividend, which is started sometime in early part of the last decade and it'll probably continue for maybe a decade and a half decade and a half more, and the excess employment which is today there on disguised emplo employment in agricultural sector has to be absorbed only through manufacturing and lowcost Manufacturing, and that, and that gives us an importance in terms of you know why manufacturing is crucial to a continued GDP growth. 
+
+4:10:51
+GDP growth again in the last. In the last four, five years has been not very representative given the pandemic, but we are looking at probably 6 to 7% growth in the next four to five years. 
+
+
+## 
+4:11:11
+Given the interest rates at the level at which they are, maybe it'll Trend down to five and a half to 6% band also, but India will at least, according to the major institutions worldwide will probably be the last will be the fastest growing major economy in the world in the next five years, or maybe even the rest of the decade. 
+
+4:11:39
+So as you can see, the share of manufacturing has been in the 25 to 26% levels over the over the period 2019 to 2023. the highest that this share has gone is sometime in 2007, when it was 30% and this is actually gross value you added if you go into the GDP. 
+
+4:12:10
+As far as the share of GDP is concerned, manufacturing was the highest sometime in 1997, which is after the reforms and just before the asan financial crisis. So U you have to make in India initiative. So we hope that manufacturing will certainly you know pick up and as manufacturing picks up, we will see U certain delinquencies coming up more and more in the sector and we need to be prepared for it. 
+
+
+## 
+4:12:39
+So I think this SE is timely in terms of you know bringing out issues that would typically come in a manufacturing unit delinquency. Now keeping the discussion at a general level on the manufactur manufacturing sector itself. you know typically there. You know, there are quite a bunch of challenges in manfacturing, even now today, but I would distribute it in three buckets. 
+
+4:13:11
+One is in terms of the critical inputs U, which is basically on the input side. We have the regulation side and we have the quality control and output side. So I'm putting it in three buckets, going one by one on each of these. You know, in terms of critical inputs U, we have this issue of land. 
+
+4:13:39
+This issue is probably the most crucial from a MNC standpoint, because they would like to have minimal disturbance in terms of land acquisition and land acquisition issues which can typically, you know, have a lot of legacy and tend to continue quite a bit in case they are not in case the land parcel. 
+
+
+## 
+4:14:05
+Given the fact that you know, if government has not given the land, this issue can be quite a serious disturbance for the management in terms of attention. That's why many mnc's prefer government Industrial Development corporations giving the land, or land aggregators giving the land and that to land aggregators, being the corporates themselves. This issue can be seen to be. I mean at least I have seen it firsthand. 
+
+4:14:41
+When renewable companies wanted to set up their plants in India and given the fact that you know land is a huge input in these renewable companies, mnc's preferred the land aggregators to give them Freehold land U along with, along with specific assurances so that you know down thee line, issues are minimal. In terms of Labor. 
+
+4:15:15
+Again, labor is not availability of Labor is not that much of an issue as skills and productivity of the labor itself is concerned. The kind of output that one can expect from a labor in China or asan is much more on a PO day or per month basis per anom basis than in India. given the fact that you know skills can be issue as far as labor is concerned. 
+
+
+## 
+4:15:44
+The quality control, the training and, of course, the transportation Logistics issues which come into the entire supply chain does affect the productivity of the labor itself in India, and this has been a continuous issue as far as manufacturing is concerned in labor power historically has been a big issue, but over the years let's say for the past, you know better part of the last decade power ratios have been going down, though, of course, in certain Pockets like in North and East India, power availability in terms of consistency has still become still is an issue, and cost of power also has in real terms been under control. 
+
+4:16:35
+Over the past, at least the later half of the last decade, Logistics has been an issue as far as Indian manufacturing is concerned, basically in terms of the rail Transportation, Port capacity and of course, the roads. This would include the disturbance and the time it takes for a truck to you know, Traverse, the distance, without disturbance from government regulat authorities, GST authorities, excise or V authorities. 
+
+4:17:15
+Now that always has been a problem as far as manufacturing is concerned, both in terms of deliveries, schedules plus input availability, but with GST that should see less and less becoming a problem and of course in terms of the availability of roads and highways connectivity and of course, improved rail connectivity. So this as far as the input side is concerned. They are the key issues on regulation. 
+
+
+## 
+4:17:53
+We have this continued problem in terms of the tax and you know both Direct Tax and indirect tax. Continued issues in terms of queries from the tax department and this queries that we get typically, I must say g I me based on firsthand experience, is that these queries could stretch almost up to, you know, six to seven years in the in the past, and tackling this requires a whole department in case the unit sizes of a is more than a is even a mediumsized company and scale. 
+
+4:18:41
+Given the fact that you have China as the factory of the world scale has always been an issue as far as we are concerned, which leads to higher prices for output, nonavailability of uh, nonavailability or maybe in terms of inputs and output, you will get inputs at higher prices, lower delage schedules as compared to buyers in Europe or asan. 
+
+4:19:16
+Duty structure and FTS has is a problem which is often on faced by Industries and in case of steel industry, inverted Duty structure was there in case of electronics manufacturing. Inverted Duty structure killed manufacturing, at least in the early 2000s. Again, it has come back up in the early, in the early part of the last decade, and that has been actually a result of Ft being more favorable to asan and now non participation. 
+
+
+## 
+4:20:00
+FTS is leading to other problems in terms of their preference for bio and sellers within the FDA, the prime example being the Asia Pacific economic operation ape Summit, where India is still not agreed to part agreed to be part of so FTS and these common trade Arrangements have been significant bottleneck, at least in certain key Industries. Going on to the third main constraint in manufacturing is basically on the output side. 
+
+4:20:44
+If you see, the technology and quality control that we in India have been employing has been of a lower order, both in terms of the output per second or output perom Plus, in terms of scale, because of which the quality control, because of which the product quality suffers. second, there are certain grades of Steel, for example, which are used in construction, which are still not available in India today. 
+
+4:21:19
+Tomorrow, for example, if you want to build a steel based building in Manhattan or in Europe, the construction G steel which is to be used for construction of these buildings is still not available in India. It is only now that arcelor is starting to produce construction Quality Steel and you can have a steel based building u in India. 
+
+
+## 
+4:21:49
+And because of the scale issues and of course, the logistics issues, another problem that Indian manufacturing faces is in terms of committing to delivery schedules to buyers outside India and that also, of course U leads to lower price level price realizations because you would need to pay damages and liquid damages on account of Mis delivery schedules. so these are, in briefly, the challenges that manufacturing is facing now. 
+
+4:22:26
+One caveat is that you know these are challenges only at the same time there are opportunities, also in terms of manufacturing. In India, as pm has been saying, demand and demography has been the biggest asset that the country has and hopefully over the next few years manufacturing will we will be able to overcome these constraints and become worldclass, going into the insolvency in manufacturing. 
+
+4:23:06
+If you see the definition manufacturing, we are talking about food, byri and tobacco, chemicals and chemical products, electrical machiner and apparatus, fabricated Metal Products, Machinery equipment, textile, leather and apparel products, wood, rubber, plastic, paper products, basic metals and others. by the way, this definition does not include Gems and Jewelry because while it employs quite a quite a number of people, it still has a certain cotage industry kind of a scale of operation. 
+
+
+## 
+4:23:43
+So we not including that in, and it's from a turnover basis. Also, it is quite significant, but from consistency we are avoiding gson jewelry in this definition. If you see in this table, up to March 22 of up to March 2020, which is from when the statistics have been made available, the admission to CRP has been the highest in basic Metals, textile, leather and appal products, food, beverag and tobacco products, while maximum resolutions has been in basic metals, chemical products, food, rubber, plastic and paper products, and maximum liquidation has been in textile, leather and appal products, basic Metals, food, B and tobacco products. 
+
+4:24:35
+Now one can you know, based on personal experience, one would. I can at least come to a primy conclusion that you know resolutions are pretty much in line with the outlook for the industry in the few years since that resolution comes in. basic metals and chemicals always had a over the last two, three years, the Outlook of these industries was positive and to that extent the resolution was favorably. 
+
+4:25:16
+Resolutions were more possible because there were biders who were looking at bidding for these Metals. Consolidation of industry was happening and to that extent you know, resolutions were enabled on account of the conditions of that industry. The same figure if you see in 2021, highest admissions again in textiles, leather and Apple products, basic metals and wood, rubber, plastic and paper products. 
+
+
+## 
+4:25:46
+In that order, maximum resolutions happened in food, Beverages and to tobacco products, wood, rubber, plastic and Pap, paper products and basic Metals. if you see the basic Metals again in 2021 has come down and maximum liquidation was in textile, leather and app products, basic Metals, food beverages and tobacco products. A similar picture for fy22 is before you. 
+
+4:26:25
+Textile, leather and app products, basic metals, chemical products, Mission equipment being the highest admission, maximum resol solutions from basic Metals, textile, leather and natural products and others, and maximum liquidation orders in basic Metals, textile, leather and Apple products, wood, Rubble, plastic and paper products in Machin equipment. 
+
+4:26:57
+So total ongoing resolutions, which was fi 2020 was 851. Up to up to 2020 was 851. It became 660 in 2021, being ongoing resolutions and 668 in fy22. of course there's been not much addition because of coid After Effects, I guess, and if you see in fi23, which is not, fi23 is actually up to first six months of fi23. Total number of ongoing res ongoing assignments is about 675, which is again you know it's been inching up year on year, and highest admissions has been in textile, leather and appr products, food, bever and te, tobacco products and basic Metals, maximum resolutions again in basic Metals, wood, rubber, plastic, paper and products, textile, leather and Apple products, and you has maximum liquidation orders also as given here. 
+
+
+## 
+4:28:14
+One consistent finding is that you know over the years, basic Metals always has been in terms of admission to insolvency, Plus in terms of resolutions, has always been a key play, has been a key industry, including and U. Second will be textile, leather products and third would be wood, rubber, plastic and paper products.coming on to the challenges faced by an operating company during corporate insolvency process. 
+
+4:28:52
+Now U we shift our Focus from you know a general manufacturing industry perspective to looking at the manufacturing entity in corporate in solvency process. The key difference would be that while the resolu professional would take it over, he would be the resolution professional as per the code would be required to ensure two objectives: one, that it be remain as a going concern. two to maintain the value of the Assets. 
+
+4:29:30
+Now, all these and basically these challenges are basically to who are faced by Professionals in order to ensure these objectives or while trying to ensure the objectives of the maintaining the value and, of course, keeping the asset as going first would be to preserve the plant and assets, along with the ecosystem, which includes Workforce townships. It could include policy and procedures of the plant itself. It could include the networks in terms of suppliers and customers. 
+
+
+## 
+4:30:07
+It could include also the St, other stakeholders in terms of regulatory authorities and of course, the U, the tax authorities and other, of course, authorities like Pollution Control Board,. The Provident fund, Etc. If it is a listed entity, then of course the SE comes into picture. challenges again could be in terms of managing expectation of various stakeholders to avoid any hostilities in the plant operations. Now this, you know, Manufacturing Company becomes a tricky issue. 
+
+4:30:46
+Manufacturing companies typically would have a mix of Labor which will be on the roles of the entity, plus it will have contractual workers and typically the contracted workers would be, I think, maybe equivalent to the number of permanent workers, or it could be slightly higher. Also, now, managing the expectations would include to see that production needs to be kept. You know we need to keep generating cash flow. Production needs to be kept. 
+
+4:31:29
+Production needs to be maintained, while, of course, you know, in typical CRP process, at least in the initial period, we will need to see that their motivation is kept up, because salaries tend to be delayed for some time because of obvious cash flow issues and in terms of takeover, there could be some you know, to and fro with the management and, of course, Regulators. 
+
+
+## 
+4:31:59
+So keeping the contractual workers and permanent workers, of course, and of staff to be, you know, motivated is something that we need to need. The RP needs to give a lot of attention to restarting the plant if not operational and maintain the sustainable operations. Many time you a professional would come into the plant. he would inherit a operational plant. But in many cases is plants are closed and restarting the plant always is a challenge. 
+
+4:32:42
+Because U of course the if you, if there's a plant which is closed, restarting the plant, needs a bit of a study in terms of what are the inputs required to restart the plant, in terms of the Manpower who probably has left the company in the past. Capital expenditure may need to be done to at least the balancing equipment or certain equipments which need to be, you know, repaired or acquired to restart the plant. 
+
+4:33:16
+And of course we'll need the Buy in of the committee of creditors. the cost of each of this will need to be, will need to be approved by the committee of creditors and they should be in a position to say yes, we are okay to U incur this expenditure so that the plant can be restarted then managing day to day operations, despite out outstanding views of vendors and statutory bodies. 
+
+
+## 
+4:33:46
+Now this is again another challenge a professional faces when he gets into a manufacturing entity. You have a set of suppliers. You have a set of customers. The suppliers are probably have not been paid for some time and you would need to keep the company as a going concern. so you would need to convince the suppliers to keep sending supplying the raw material or Transporters. 
+
+4:34:10
+They would need to be convinced to keep supplying trucks while the going concern while the operation stabilize. On the other hand, customers would be facing delay deliveries, so they will need to be convinced to give orders to the company. At the same time, they would need to be convinced to pay on time also while having deliveries delayed in the earlier in the early stages of CRP. So that is quite a challenge. 
+
+4:34:44
+As far as the RP is concerned, when he inherits a operational entity and as part of this entire supply chain. You would need, you would need to see that the dealers, who are actually the link between the within the company and the customers, they are also convinced that you know they the company's stock products are stocked by the dealers and sales are continuing. 
+
+
+## 
+4:35:18
+Otherwise, what happens is many times, because of delayed payments, they refuse to stock the products of this of your company and once your product becomes, you know, gets out of their stock stocking list. Getting it back becomes a very tedious exercise and convincing the dealers becomes a issue. so managing and maintaining the dealer network is sometimes key to maintaining sales. 
+
+4:35:48
+Also, so dealers have to be, you know PID, their commissions, and at least convinced to maintain the stock, maintain stocks of our products. So these are some of the change challenges which one typically faces when the professional takes over operating company. 
+
+4:36:20
+Now we'll come into you know the critical processes that we need to be followed for smooth operations of the company, and these are typically the activities that professional will need to take into account when he enters the company first time around. Know this is based on U. You know my personal experience. 
+
+
+## 
+4:36:48
+So if you have questions in terms of you know some of these activities, I can, of course, you know, give more color based on U. so please don't hesitate to interrupt me when I'm getting into each of the activities. So first is the Takeover of and secure assets to the corporate data. So once of course, as obviously a professional enters the company, the professional and this team would typically do a plant visit. 
+
+4:37:24
+We'll need to then communicate with the directors, explain the position and at least in a way that their cooperation is secured and in terms of the know directors, depending on whether they hostile the existing directors and the promoter, whether they hostile or they Cooperative. 
+
+4:37:50
+That would determine the time that the professional takes to actually take over the operations, understand the operations and of course, the various stakeholders and of course the issues around these operations, so that so that will need to be done through communication, each of the stakeholders, for example the promoters and directors. That will be the first they will have to be communicated to in terms of legal position. 
+
+
+## 
+4:38:21
+Then comes of course the employees and both contract employees, Perman employees. They will of course have apprehension in terms of whether the in what Manner the operations are going to continue, whether they are going to be stopped, whether they lose their jobs, whether they will be paid salaries on time. So these become the key issue that employees, or apprehen that employees, will have when a professional takes over. 
+
+4:38:52
+Third comes of course the suppliers and the customers, so convincing the suppliers to maintain this company operations going on. Suppliers cooperation will be required to see that they keep supplying raw material, they keep the prices in line with the market and, of course, talking to customers, so that the products U keep being bought by the employee, bought by the customers, so that becomes kind of a third level of Engagement that the professional will need to do. In between comes, of course, the regulatory authorities, because compliance is a key aspect of these entire operations. 
+
+4:39:46
+So in all these activities that we are looking at, you know, compliance becomes a continuing activity which need to be ensured at all times. so, while taking over one of the key things that you know, as operational I've been ensuring is, while we are communicating with the director personally, one also needs to take a take an idea in terms of what who are the other stakeholders? 
+
+
+## 
+4:40:15
+In terms of government authorities that the company has been interacting with and whose interaction is required. So that would per for include Provident fund and gratuity related issues and PF Authority, epfo. It would include Direct Tax and indirect tax. It would include Pollution Control Board. It would include the municipal Corporation or the shops and establishment act authorities and based on the operations, of course, we you will need to have maybe you know, labor related unions. 
+
+4:40:57
+You would have government Machinery which is including which is dealing with all the labor. So those are stakeholders which we communicate one to one and then, based on the schedule, ensure that they are met and compliance related aspects. They are assured of that. You know compliance will be done. If you see the latest case law, PF Authority, I mean PF dues have become U. 
+
+4:41:32
+You know they priority or other dues in respect of the, in respect of the waterfall, and you know my practice has been fairly in line with what the what the case law has been saying in terms of you know giving adequate priority to the Provident fund and the workers dues. So to that extent. 
+
+
+## 
+4:42:01
+You know one is trying to be in line with the law and at the same time see to it that you know there is there is no undue disturbance of the of these regulat authorities in terms of stopping the operations many times. What happens is if adequate communication is not there. 
+
+4:42:20
+What happens is many times the excise dues, vat dues or of course the GST dues that accumulate and there is an attachment of certain assets, attachment of material or the finished goods that would impede the operation of the company. The sooner that these stakeholders are got in touch, with the probability of these impediments coming in over the CR period that reduces. 
+
+4:42:55
+But at the same time the flip side is that one will need to have a plan in terms of how the issues around these stakeholders is going to be tackled and to that extent, one need to study these issues along and discuss it with the promoters and directors and the management before the stakeholders are approached. 
+
+
+## 
+4:43:21
+Now, as far as the plant is concerned, after the director immediately there will need to be a management meeting also where all key Department departments will need heads will need to be met with, issues understood and whatever the position as far as the legal is concerned, we need to be explained to them and given the priority that there is in terms of keeping it as a going concern. 
+
+4:43:51
+To that extent, their cooperation will need to be sought in very clear terms. Now the Second Step, as far as the stakeholder concerned, as I said you know, making all stakeholders familiar with the process and mapping expectations on the way forward. Now this is actually this sounds like a oneway thing, but this will actually need discussion with at least the internal stakeholders, each department, there will need to be understanding of issues. 
+
+4:44:25
+We'll need to look at Solutions again from the relevant Department itself, but to the extent that there are certain Provisions which in FC, in the IBC, which are getting violated. 
+
+
+## 
+4:44:37
+To that extent, those processes, those Solutions will need to be tweaked, will need to be modified to see that there is a new way of operating, for example, in terms of ordering our raw material suppliers, you know, in terms of ordering these supplies, we need to have a agre procedure in terms of having a quarterly plan. 
+
+4:45:07
+We'll need to have this quarterly plan set up with the production planning department production then the quarterly plan and the production planning will then lead to the raw material requirements will need to have the key suppliers quotations sought in writing from and based on the L1 negotiation. This will need to be then communicated clearly to the. The Chosen supplier. Invoicing need to be done U and all this. 
+
+4:45:38
+We will need to have backups for all these processes. Now, many times in the companies that one takes over, these are done on an informal basis. Sometimes there are side deals happening. So to that extent, you know, given the fact that you know in IBC, you will need to keep records of each of these operations. 
+
+
+## 
+4:45:58
+The processes will need to be designed in a way that it meets to the IBC requirements, and as also the speed with which you will need to will need to ensure the operations remain continuing and going concern basis is ensured. So those will need to be discussed and agreed to with the Departments. 
+
+4:46:23
+So this was actually a big part of the entire activities and in the case study that I'm in the case that we had looked at, it was almost 2 and a half months, 3 months, to arrive at a mutually acceptable procedure, and the other stakeholders, like you know, the government authorities, we could meet only when we had a fair idea of the operations in which, in which direction it is going and how we see the operations continuing. 
+
+4:46:59
+So when we actually involve actually the impact, if you see is when we involve the employees, the managers, into this entire procedural aspects of the entire operations, you know they also feel that you know they are being valued. 
+
+
+## 
+4:47:15
+There is also, you know, a greater sense of ownership in terms of you know how they want to run the business, and this is also a good opportunity to build a certain level of trust between employees and the professional, between the suppliers and the company and, of course, towards the customers and the company. Ultimately, you will not meet every supplier. You will not meet every customer, at least in the initial stages. 
+
+4:47:42
+You may meet only the main suppliers or the main customers, but these employees become the main agents in terms of conveying the particular you know that trust to the other stakeholders, and that becomes very important to see that you are U being transparent with the employees themselves and one way to ensuring that is that of course, seeing to it their salaries are not delayed too much and those delays are reduced to zero as early as possible. 
+
+4:48:25
+Then of course pres preservation of value and going concern status. Appointing technical consultant to advise RP on technical matters for new day to day operations. now many times. What happens is we need to have technical consultants to figure out what is the grade of, or let's say the quality control in terms of the suppliers, the raw material supply that we need to have. We need to have technical consultants to vouch for that the quality is. 
+
+
+## 
+4:49:03
+As for the standards that are asked for, ensure that the output is as per standards, with the quotation from the customers has come in, because we don't want any damages to be paid to customers on account of lack of quality. So while in many cases promoters have been you know, they function informal basis, given the fact that you know when a professional comes, everything will need to be done in a transparent manner. 
+
+4:49:34
+Appointing technical consultants in respect of key aspects of these also helps in terms of keeping records and, of course, in terms of improving operations of the company. Many times technical consultants are required in terms of restarting these operations. 
+
+4:49:51
+Let us say you have a closed plant, but if you want to figure out, if you want to have a third party opinion in terms of where is the, what is the investment required, what are the Apex, where the capex is to be incurred? Technical consultants will need to be filing a report which you then U provide to the COC and then COC will okay it. 
+
+
+## 
+4:50:19
+Either the COC will contribute or then interim Finance becomes important. Then the technical proposal would then become input to your inter interim Finance proposal. also one more thing in terms of U ongoing St in going can status is of course the cash flow management. 
+
+4:50:44
+You have the accounting team which would include, which would of course give you the idea in terms of what is the current cash in the company, how much the cash can last given the current operations, what is the credit period that customer is willing to give you or supplier is going to give you and what? When are you getting the cash back from customers? 
+
+4:51:07
+So all that of course will need to be regularized and sitting with the accounting and the finance team, taking into account the of course understanding the Erp itself will take some time in terms of you know of studying the records and double checking what the account, the accounts accountants have been saying it U it makes sense to you know, have a special team to carry out an exercise to understand the cash flow requirements of the company, because ultimately, when you are looking at the when you entering the company, the first thing that you look at is what is the cash available and how much is going to last? 
+
+
+## 
+4:51:57
+That becomes the you know, the most basic requirement that we need to take into account when we are talking about a going concern status. All the regulatory, all the stakeholders, Regulators, employees, Etc. And the going cons stators. Everything will depend on ultimately a cash flow and U. Once the cash flow stops, the operation stops and getting the operations back when you have when you enter into a zero C situation become extremely difficult. 
+
+4:52:38
+So having a special team to see to it that you know there is cash flow is studied in a in a organized manner. That becomes very key to operations. So obviously you will have a better day to day management of operations. when you look at cash flow management being taken care of, you will be able to track performance on a virtually realtime basis, at least after a certain amount of period. 
+
+4:53:10
+In terms of regularizing it U? You would typically want to have a quarterly plan, U you to have a maybe a monthly plan, a weekly plan, in terms of course the supplier, orders, deliveries, Etc. And of course in terms of cash management. And the fourth is, of course, uniformity of processes across plants and locations. The Entity that I took over had two product lines and they had two distinct plant locations. 
+
+
+## 
+4:53:44
+They had, of course, of course, in the same geography, but what happened was that the stakeholders in terms of procurement, in terms of the customers, was entirely different across these two plants. the skills required by the employees was also quite diverse. In one plant, which is small plant, you had highly skilled workers. In another plant, where you know you had higher amount of workers, higher amount of skilled workers, plus, of course, contract workers. 
+
+4:54:17
+So the composition of each plant became a quite a you know there it was. There was quite a diversity in terms of you know how to manage these plants. You had to have a distinct tracking of these two plants separately, and the Mis that you would be generating will be distinct for each of these plants. 
+
+4:54:44
+So integrating this into a single cash flow model always was a problem, because what happens is in certain cases the GST rates applicable were higher in a higher output plant while it was lower and lower output plant. so when you have actually trying to recover the GST amount. 
+
+
+## 
+4:55:09
+So you had to actually see to it that you integrated your cash flow along with the GST, the GST rates and the way in which you supposed to get the refund from these customers. So what happened was that integrating this into a single cash flow model always used to be a challenge, and third party, along with the accountants, was used to make this entire integration possible. 
+
+4:55:50
+Then coming to the you know the core of core of the entire operations, of a going concern, which is basically liquidity management. The first thing that you would you know in a sense deal with in terms of discussions with the promoters and directors would be in terms of you know what is the liquidity that one had at present in the company and the entity? How much resources are still to be obtained from other, from customers? 
+
+4:56:23
+What is the payments that typically are due to suppliers and other authorities? So this actually became this becomes a core of the entire operations. Management based on which the entire operations will need to be depending on and implementing a rolling cash flow model is required to see that you know there is a handle that you get in terms of liquidity. 
+
+
+## 
+4:56:53
+This becomes also a basis for negotiations with suppliers and with customers in terms of the debtors and creditors period that we typically negotiate and in terms of inventory levels also. This will be key in terms of you know what is the logistics involved, in terms of you know ordering and, of course, in terms of the committing to delivery schedules with customers. 
+
+4:57:32
+Another thing is in terms of plant planning and preservation, on operations and optimization planning to restart the operations by availing necessary financing. You know what happens is when you go into liquidity management. Typically you would face a deficit in terms of the in terms of the resources required to run the plants. 
+
+4:57:57
+I know beyond, let us say, time of maybe a month and a half, which is where you will need to have interim financing or some contribution from the cooc itself. 
+
+
+## 
+4:58:08
+So this U takes quite a bit of a exercise in terms of planning and real time tracking of the inter liquidity situation and, of course, tracking of the other issues that may impede the production, in terms of the in terms of the health of the at least the U capital assets that you have and of course, the downtime that is required in terms of Maintenance. 
+
+4:58:43
+So idea is, of course, to use this plant planning to see that there is increase up time, resting in increased production and better schedule adance. now this would include budgeting for maintenance of the plants themselves, in terms of emphasizing on U at least the units which are well functioning, deemphasizing on those which are not functioning well. 
+
+4:59:10
+For example, in a in a furnace you would have you know you would have four or five furnaces, but out of that only three will be working condition and at the same time you know out of the three only one is one we can operate for, let us say a 24 hour cyle. So you will need to schedule the production in a way that you know there is no downtime beyond the point. 
+
+
+## 
+4:59:37
+Beyond what is U the best possible scenario on terms of utilizing these assets for production cost optimization and production planning and ramp up? Now understanding these process, leakages and wastages, reductions and monitoring is actually a very tricky part of the whole process. 
+
+5:00:10
+It takes a little time in terms of you know, once the operations have continued for some time and when you keep tracking it, you will know, because many times what happens is there is a certain amount of collusion among promoters, employees or suppliers in terms of vages or in terms of leakages. understanding. 
+
+5:00:33
+This takes some time in terms of bringing it under control and of course so earlier that you get a handle on the production planning, the earlier that you will be able to identify sources of leakages or wastages in the entire process, and that requires a sustained tracking of the entire cash flow and the production cycle and last but not the least, of course, the Contin to engage with customers. 
+
+
+## 
+5:01:10
+You know customer confidence plays a big part in terms of your ability to keep the unit as a going concern, because ultimately you know the money that you recover is from the customers only. so as a practice. 
+
+5:01:28
+You know, when I entered into these companies, one welcome letter, or let's say, Assurance letter, is always given to customers personally by circulated to the customers, so that U customers do not feel that you know they are going to be abandoned when the RP takes over and of course emphasize the fact that you know you need to keep the company going, so their orders will be essential to this particular objective and that becomes a key part of the entire going concern activity itself. 
+
+5:02:12
+So these are some of the critical process that we have identified. now I would like to you know open up the discussion to the participants in terms of what queries they may have, because I have been handling U some Services company right now and I have handled a Manufacturing Company earlier. In both cases, resolution has happened, so happy to you know share my experience. 
+
+
+## 
+5:02:48
+If there's any real time real life issues they are facing or if you have queries around what I have said right now, happy to take those queries. Participants may ask questions, so you know this. I would say that you know this brings us to at least the structured part of the entire thing, my entire presentation. 
+
+5:03:44
+So given the fact that you know this involves real life examples, you know that will help you to understand in specific terms what one might go through. so I would welcome questions on this U from the participants. So no questions. My presentation has been bang on. I can see, sir. Yeah, sir, can you throw some light on the implementation of resolution plan part like how the resolution plan was implemented? 
+
+5:05:31
+What were the issues phased and whether you appointed any external Agency for implementation? Yeah, typically in a resolution plan implementation of course the key input would be the nclt order itself, where the key aspects of the plan in terms of implementation would be would be described first would be of course constiution of the monitoring committee. 
+
+
+## 
+5:06:05
+The monitoring committee would then be constituted and in this case U you know the monitoring committee would take off, take up the U of course, continue the operations and the first would be in terms of authorizations. know, many times the powers of attorney are given or are delegated to the key aspects to the key personnel for activities by the resolution professional being in charge in being in charge in place of the board. 
+
+5:06:43
+So Nova those in favor of the respective employees becomes the. The key aspect of continuing operations and otherwise implementing the plan would include at least the resolution applicant himself to take an interest in terms of the operations. many times. What happens is that the? 
+
+5:07:11
+U at least in my case the resolution applicant happened to be a supplier also of certain key inputs and U along with the taking into account the buying of the commit of creditors, he was involved into the monitoring of the monitoring Committee of the corporate dator and based on the res resolution plan, they had to see that the resolution amounts as per the resolution plan are infused in the company? 
+
+
+## 
+5:07:51
+U based on the schedule that the plan requires of course U. One challenge that we faced was, of course, the legal issues. Many times what happens is that certain creditors would want to you know, declare accounts as fraud. Then that leads to liquid litigation, sometimes disgruntled, or let's say the biders who have not won. they would have applications trying to appeal against the NT order into the NCL. That would of course delay the implementation. 
+
+5:08:33
+So one has to be prepared for these litigations as well while implementing the plan. Okay, and sir, did you take any insurance for Indemnity insurance in any of your assignments? You mean me personally or as part of the company itself? Both ways, sir, for the company also and for you also that IND Insurance. 
+
+5:09:06
+Yeah, see, as far as the company is concerned, asset insurance is of course a key part of the operations and whenever the insurances are expiring so well before that the negotiations will be done in terms of you know, renewal and insurances will be ensured. 
+
+
+## 
+5:09:25
+Second part is of course, personally, yes, I do take insurance on an assignment basis for key assignments that I do and the focus is on that litigation specifically or other things also, because in Mark, specifically for IPs, there is no such product available right now, as far as you know right so there is. So these products are typically, you know, overseas reinsured products and they're quite pricey. 
+
+5:10:02
+But at the same time, you know, as part of the resolution plan, it's a good a good practice to keep aside a corpus of maybe half a CR, maybe a CR or two crores, depending on the size of the entity, to tackle some of these. you know post implementation issues U because these you know amounts will be required in terms of tackling the avoidance transactions. 
+
+5:10:33
+Also in terms of any issues that you may have with you know employees, in terms of you know, certain OCS you know are typically not satisfied with the settlement of their claims. Typically what happens is they only get a percentage of the entire dues and many times what happens is the OCS would challenge the resolution plan so that would also delay some implementation. 
+
+
+## 
+5:11:02
+So you know, tackling these litigations and in these matters require Council and legal incur legal expenses. So one ensures this Corpus being a part of the plan so that tomorrow you don't end up spending on your Propet. Okay, sir, okay, thank you. so keeping on this topic on the implementation. At the end of the day, at what stage should the RP seek a discharge? 
+
+5:11:35
+Is it after the financial creditors or the financial aspects of the plan are fully implemented? Or do you think the RPS also own a moral responsibility in ensuring that the relief and Concession sought for and duly approved in the plan by the duty cutting Authority are also obtained by the resolution applicant? Yeah, actually you know this is a this is a changing goal post. 
+
+5:12:07
+U if you ask me this question, maybe couple of years ago I would have said you know, looking at this entire assignment end to end is how about the plan, what the RP should be doing. Typically an RP will be of course in charge of the entire CRP process. U. 
+
+
+## 
+5:12:27
+He should be a part of the monitoring committee because he is aware of the entire operations of the project and to and his presence certainly keeps confident, at least the other stakeholders that you know it is going into good hands and transitioning will be to that extent easier. If you ask me this today, I would say that you have to be. you have to be careful in terms of as an IP, not to I mean. 
+
+5:12:51
+The practice or the evolving practice today as far as ibbi is concerned is that you know the reg. The resolution professional should restrict his role only to the resolution and not commit to becoming part of the monitoring committee on the grounds that this violate the code of conduct and otherwise also only to the extent that there is a involvement recognized as part of the resolution plan, only to that exent, only to that extent he should be involved in the monitoring committee. 
+
+5:13:25
+Otherwise he should take a break or he should demit office completely on the date of the NT order. And third part of the question is evolving practice. I think the way IBB has been thinking is to separate the resolution monitoring and the distribution of amounts. Most likely at least that is the way the legislation seems to be going, and they would like to, or at least not very. 
+
+
+## 
+5:14:01
+It's not apparent yet, but they seem to be working towards separating the resolution and distribution amounts also going forward. So I have multiple answers to your question. You know, yeah, I know, but those are the multiple things that are actually wrecking our brains as IPS. But one important thing is that you know post this via. A lot of these things might come up subsequently. 
+
+5:14:29
+Now what is happening is that in the resolution plans being received, everybody is now writing the fact that you know he will pay if these things don't crop up. But the hard fact of the matter is we treat those as conditional in that case. 
+
+5:14:43
+Now the challenge is that if, for example, VBA is holding now, if it is holding and there aren't any legislative amendments, then the challenges are the plans may probably not get implemented at the end of the day. 
+
+
+## 
+5:14:57
+Because if somebody wants to basically put it in the plan and say that if there are Hydra heads that come up by virtue of statutory liabilities or otherwise subsequent there Doo that case it will be a very offc kind of an implementation plan for us to sort of work on and in that eventuality. 
+
+5:15:15
+I think perhaps ibbi is right in saying that you know we should discharge ourselves immediately after the resolution is done and not be a part of the implementation at all. Yeah, actually you know via actually is becoming an issue in terms of admitting the entity into insolvency. The issue in distribution, or say in implementation, is on the rainbow papers right. So coming to first the admission related issues. 
+
+5:15:52
+U you have an nclt order and suddenly you know as appointing you as a resolution professional, and suddenly you have a encl stay on this, like in Zealand that you got you know they set aside the process itself or set aside the order, which is INS solvency. So you are neither here nor there. You know for a protected length of time, even in GTL. that's happened even in yes my even in my case. 
+
+
+## 
+5:16:21
+You know I'm handling a c thermal and it's been contested now in encl, so there's a virtual stay. So effectively what you're saying is right, but that's at the implementation, but subsequently in the rainbow matter on implementation, know if, for example, everybody now wants to put it in his resolution plan that if there are subsequent issues, then they would not want to pay, because you know normally payments in bigger plans are in tranches and over a few years now, at the end of the day, the challenge is that they want to write this in the plan. 
+
+5:16:52
+When they write it in the plan. We actually, as IPS, tell them that this is conditional, so we probably will not be in a position to recommend now. They say it's not conditional. Now the fact is that they're right. Considering the fact that there is an apex court judgment that it may not be treated as conditional. Now that becomes a huge challenge. Actually where to take it. 
+
+5:17:12
+And you know, yeah me, conditional plans you cannot accept in any case. So you would desist from accepting a conditional plan. At the same time, the but I mean as an site, I mean kind of answering your question tangentially. It is NC then themselves who are now asking the COC to review the plan, take into account the rainbow judgment. 
+
+
+## 
+5:17:39
+It has happened in one case, I think in laasa, where they ask the COC to reconsider the plan and the Order of payment and then come back to NT for approval. Yeah, but at the end of the day the COC is also, you know, wanting a certain figure. So if they basically consider rainbow, it somewhat becomes unof fiscated open figure. Kind of a resolution structure for them too. 
+
+5:18:05
+Yes, but I mean see Rainbow is related to tax. I would say that there are certain things that you know as a RP one would be one should take care of. you know, during CRP period also only, and that has helped me, taking into account the jet judgment. 
+
+5:18:26
+What has happened is you know, during the as you enter the corporate data's office, you will see a lot of issues in terms of gratuity and pfds of employees and X employees. You should I mean at least as far as ex employees are concerned, give a direct communication, tell them to file a claim. As far as employees are concerned, if there are pfds, fund that and see to it that they are on. 
+
+
+## 
+5:18:55
+You know they are on schedule and to the extent that you know, if employees are resigning, they're full and final settlement also should be paid off. this reduces a lot of headache for resolution emplo professionals, even during the not only during the CRP but post CRP, also for an investor and of course you can't. You know you know tax authorities can be really an issue, but PF is not only a civil issue. 
+
+5:19:29
+It is also potentially a criminal issue. So one is well advised to see that you know PF issues are minimized and pfds are cleared. Personally go to epfo as to file a claim and ensure that they file a claim. So this is a practice which I would strongly advise professionals based on my experience. another important issue that keeps coming up nowadays is that on the tax issue. 
+
+5:20:12
+When, for example, operational creditors and taxes are reduced to nil or negatory or very partial amount of payment is made to them, the tax authorities have started now to basically Hound out the old directors, because the provision in the statute various statutes V for that, for example, for that matter income tax basically permits them to so do that. 
+
+
+## 
+5:20:35
+But unfortunately there is also no Clarity on the aspect whether they can do it more, particularly when the tax liabilities in the companies are reduced to zero. Because unlike 138, where there's a vicarious responsibility on the person signing the checks, there isn't anything here that is there per se, and also it's not contractual in nature in terms of personal guarantees of the direct for taxes. so in that event uality, you know what is the position. 
+
+5:21:04
+If the tax authorities can go after the directors on that aspect of it, then why would then they, sort of like in the rainbow matter, look at basically scuttling a plan or trying to impact the plan per se as a Hydra head later see, I will give you multiple situations as far as tax is concerned. 
+
+5:21:28
+Now, as far as rainbow is concerned, that is a new animal and we have still not tackled that from a real life perspective. But one thing that I have faced from tax authorities is that during CRP you will get notice for reassessment of a past return. Okay, you have not filed GST on time. You have not. I mean the ITC that you have taken into account does not qualify for ITC. 
+
+
+## 
+5:21:59
+So reassessment at DS, reassessment of income tax and that happens for six years prior to the CRP, so that tomorrow the at least the rational from a tax department probably is that before it becomes a limited you know debart by of liit at least send a notice. Okay, so then you will have. 
+
+5:22:24
+It is important that you know you have records and employees who are in charge of this are kept as a part of the corporate edor to tackle some of these queries. Another issue that I find in tax is in income tax and there is a refund due for a that say the previous year. but then he will adjust it against demand of the past year and he will not give you refund. 
+
+5:22:53
+If it is a past year of prcp du, he has to file a claim. He will not file a claim or he will file a claim and then at the same time adjust the refund against a demand and he will not release the refund. So I have to go to NT and challenge this, and nclt of course takes his own time in terms of adjudicating on this matter. So the refund is stuck. 
+
+
+## 
+5:23:22
+So these two situations are faced very much in my Cas assignments. So I end up getting one or two refund. But if there's refunds are due for past years and there is demand also I end up spending more money up front on litigation. but were you successful in getting the refund in the case where there was a demand and you adjusted? See what happens is the let. 
+
+5:24:08
+In my case demands refunds were due for three past years and in, let's say, multiple entities I get aund, for I get a refund due in one year. Then suddenly tax Depon wakes up saying that why should I pay refund? And then they start, you know, once they wisened up, they start adjusting against a pass demand, which is where the fun begins right. 
+
+5:24:33
+No, but you know, in one of the cases in this judgment of shars, you know, at the end of the day, fixed deposits held at a 100% margin against custom Beauty demands were basically given to the IRP regardless of the demand that there was because of the moratorium having kicked in. so you know I don't the challenge. 
+
+
+## 
+5:24:56
+At times they give you the defund, at times they adjusted against the previous and there's no Clarity on it. Exactly each range and each circle does it own. No, that is true. As a matter of fact. You know, in addition to tax authorities, you have the issue with banks also right. 
+
+5:25:14
+You know you will have this bank as part of the corporate, as part of the COC, but he will see to it that you know there is some FD on which he has created a Leen. But given the fact that you know it is a moratorium, he supposed to release the Le and so that the corpor dator can use the monies. But they will not release the FD. Then you go to NT. 
+
+5:25:42
+You will pursue or you will even meditate in the COC meetings. You have to release the lean you are under section 14. You are not require. I mean you're not permitted to maintain any lean. No, even then you know they will go to NT and we'll have to then get the NT order and then you release the. So that has happened in case of banks also. Some banks, of course, are Cooperative. 
+
+
+## 
+5:26:17
+They Rel leens, but I found specifically many of the banks and it need not be only public sector or private sector or foreign Bank. Every category has a good or law Banks and you will have delinquent Banks also. And another issue that I had was in respect of you know. one of the matter that I was looking at was before the GS was regularized. 
+
+5:27:02
+You know now we have a way in which you, if there are GST dues, GST department, will be required to file a claim and for the CRP period, you register and a new GST number and then start. You know Contin operations, but before I mean I had a operational entity which was before this rule came in and U I had a terrible time getting customers to continue giving orders because they are not getting ITC. 
+
+5:27:35
+So why will they give orders to us? Because we are not able to pay GST on account of lack of funds. They are not getting ITC and the whole system program. so wanted to actually convince the GST authorities that I will give a gstr one not on the system because system was not able to take my returns. 
+
+
+## 
+5:27:57
+So I will give a hard copy return to GST authorities, based on which they will release ITC to the customer. So one had to Design Systems around this, of course, after that it become regularized and now things are much better in respect of GST. So in the case of a manufacturing unit, you had also delved into, and nicely so, in one of your slides. But question to ask as a suppl? 
+
+5:28:30
+Ment to that is that in the event that the resolution applicant seeks to actually later dispense with a part of the labor force, is it important for the RP to share that with the employees while the process is on or effectively, as the IBC Court says, the plan so approved by the Jud Authority is binding on all stakeholders. And forget about it. 
+
+5:28:56
+And despite the fact that the resolution applicant might say that he'll pay all the use, we'll comply with the laws, we'll pay full gradu, etc. Etc. But the fact is that there's going to be a substantial reduction in the labor post. That see it depends on the environment that you are looking at. See I had one assignment in eastern India, there paying bonus on schedule. 
+
+
+## 
+5:29:23
+You know before pujo was very much part of the entire way of doing business. At the same time, you know, retrenchment also was not considered good. You will have issues at the plant itself. You know local M Etc, you know have the local unions will get into the game. So one had to actually, you know one avoided u retrenchment in those situations. 
+
+5:29:51
+But at the same time one was able to negotiate a lower bonus than the industry standard, because the company was not making enough profits. So at least I was able to control the employee expenses in that manner. But in another case in a service industry which I'm located in Western India, there I'm able to actually convince employees to leave. 
+
+5:30:15
+Of course, because you know it is in the service sector and employment opportunities postco also have improved. So to that extent you know convincing. You know at least the high paying salaried individuals to quit became easier. But one has to play it based on the situation and the environment that one is looking at. So one would prefer to see that at one point only the lower grade. So employees are first let out. 
+
+
+## 
+5:30:53
+But then you see that you know you are stuck with a whole lot of you know High salary individuals, with heads of Department who. So we'll need to do an audit in terms of you know what is the contribution and then identify those individuals and then have them resign. so you know there is a bit of a you know it's sensitive issue, but sometimes you know to keep the. You know conserve cash. 
+
+5:31:23
+Sometimes one has to take these hard steps. Sir, my, there's no clear answer to this. Yeah, so my question was an additional one to what you explained so very well right now. But what I'm saying is that, for example, if the resolution applicant in his plan basically states that he will cut down the size of the total label Force subsequent of the accept judication of the plan by. 
+
+5:31:51
+The Authority by, let us say, 50%, despite the fact that he says that he will pay all dues etc. is it then not in before basically the approval of the plan to basically bring the labor on board and tell them that there is this clause or just wait for the fact that you know the code says that it is binding on everybody? 
+
+
+## 
+5:32:14
+Yeah, again, you know this is a you know is communication issue than issue one has to again. You know played by the year and yes, you need to at least tell the investor why. These are the issues that our company is having. I'm sure they have done a due, but you'll need to have the investor also communicate to some extent you will have to communicate in and kind of mentally prepare the workforce suitably. 
+
+5:32:48
+So yes, it is kind of you know playing by the year than anything else. the only carrot that you can see is typically in resolution plans. Employee dues are fully funded and on priority. So at least to that extent, you can always, you know, kind of sugar quat your message by saying that you are going to get all your dues paid in priority. But you know there's no clear Way Forward. 
+
+5:33:19
+But yes, you know, continuous communication is the key to you know keeping you know company running. At the same time, you know taking certain decisions. And one more thing I would say from my previous experiences whenever these kind of exercises are undertaken, in terms of manpa, racialization, Etc. 
+
+
+## 
+5:33:40
+It's important that in every COC, you know, we make it a practice to give an operational update, plus cash flow update on the operations of the company, cash flow position of the company and many of these issues that we are you are alluding to. They have to come as part of the operational updates. 
+
+5:34:04
+So COC should not be taken by surprise when, if something you know, some protest goes off or anything like that happens, and to that extent you know the RP has the COC on his side, rather than know questioning him, saying that you know interrogating the RP, saying that why did you do this and what was the reason for what was the need for doing this, all that kind of thing. 
+
+5:34:31
+So you know this is again a safe practice to do in such situations. Tomorrow let us say you need to renegotiate the contracts with employees, upwards or downwards, or you know you want to retrench employees. The COC is adequately equipped with information to say yes, no, to modify whatever you are doing. You know and Gally be on your side through the process. I have a question. 
+
+
+## 
+5:35:18
+Yeah, hello, yes, please, sir, in case of attachments by Revenue authorities of bank account accounts pre cirp period, what options or what has been your experience in releasing that account which has been lying in the bank account? No, I had a very interesting experience. I was at the airport, okay and ready to Bard a flight. suddenly I get a call from the employee saying that excise people have come and they want to seal the office. 
+
+5:35:56
+So I asked them immediately to I mean I had to have a conversation with the you know head of that team who had come to seal the office. So I had only I mean of course, I was able to convince in know and I had to have a very tough talk with them. So I made it clear that, asy, you are not allowed to take any coercive action. 
+
+5:36:21
+You can of course enter the premises, but you will not be able to take any records out of the company. You will not be able to attach or seal the office. they will need to give in writing what is the information they required and that information I promised as RP to provide to them, and in not originals but copies of those Records. 
+
+
+## 
+5:36:48
+So of course that transation went on for Point some time and they were convinced and they gave a lengthy list of Records which were then you know, Pro Ed to them subsequently. So one will have to be clear on that part is already there before CP and if you want to release the amount which has been stuck in the bank accounts, will that be possible? No, that typically becomes a very contensous issue. 
+
+5:37:23
+They will not release until they have a n order. So you can go and of course discuss with them. but typically the answer will be: if you give me NT order, I will release it. So you'll need to of course go to NT with your request and once you get an order, release it right. Because in my in one case you know there was a entire you know coal inventory which was attached. 
+
+5:37:49
+I was just not able to retrieve it. I had filed in nclt resolation plan was implemented also, but still that coal inventory was not released by. The excise department. But what to do? One had the five one had done all the homework in terms of a filing with NT know there was no order from the NT by the time the entire process was completed. 
+
+
+## 
+5:38:16
+So one of course handed over the matter for the investor to Pro to pursue further. so, while you are in the process, we will need to take all process, all steps, to see that you know whatever assets are there of the company legitimately they should be taken position of and to the extent that any action required, take the action required and then you know, clarify that to the investor also when he's getting into the company. 
+
+5:38:52
+The same app for cases. One of the cases we are handling the only asset is these Bank balances which have been attached and there is no other asset of the company. 
+
+5:39:01
+The challenge is: you know what the resolution applicant would be doing in that scenario where it is uncertain whether it will be released, not released, and that is where we got stuck and we thought: yeah, the NC is only records that you have in terms of getting the banks to release or, if they can, you know, release through mutual discussions, all the better. But that's a tough ask, right? Right? Thank you, sir. 
+
+
+## 
+5:39:43
+And there was one. There's one situation where the there is a lean or actually there is some FD based on which a guarantee has been given to a government Authority, and we wanted this government authority to release the or at least advise the bank to release the monies. they have said you go to NC because you know there are certain CAG references saying that you know this guarante is required. 
+
+5:40:16
+So until nclt order is there, I will not be able to advise the bank. So some of these things keep happening. So one has to keep at it an NT to pursue these matters. Right so, but all in all, you know managing a operating company is quite a challenge, but quite an interesting challenge for an IB and U, given a choice between operating corer dator or with our operator with or a corer with closed operations. 
+
+5:41:31
+You know, one would prefer this operator operating companies to re get the real flavor of you know CRP plus resolution plus implementation in many cases. I mean at least one of the case. 
+
+
+## 
+5:41:53
+I had a real chance of restarting a power plant, so of course that was actually a power plant with four units and of which two units of course we had to do a technical study to figure out you know in what Manner these can be restarted. 
+
+5:42:13
+There was some capex which was, you know the report actually of course G the capex requirements, Etc and you know in terms of sequence of activities to be undertaken to restart the plant also was a part of the report. 
+
+5:42:31
+It was clarified but the COC was risk averse and they said no, no, while the study was done and the fees paid for the study, but they said it was too challenging for them to incur expenses in terms of restarting. So one had to make do with a close plant for the entire CR period. So it is quite a dull exercise otherwise. 
+
+
+## 
+5:42:58
+So so when you talk about a company which is having running operations, when we took over one of the C storages, we found that there were no licenses or approvals in place and we have to continue to run the cold storage? Can you speak a little bit more in the mic? I'm not able to pick up U everything that you're saying. So in case of running operations, can you hear me now? yeah better. 
+
+5:43:39
+When we took up one of the operations, there were no approvals or licenses in place, but the course storage needs to be continued to be in a running situation and despite our efforts, we are not in a position to get those approvals now. So what would your advice be in this situation wherein there are no approvals but the operations need to continue? 
+
+5:44:01
+See, for example, let us say there are key inputs, like you know, water and electricity there is you know now settled law that to the extent that you know for the CRP period, if you are using some of these key inputs and you are paying on time, they cannot cut off the these inputs in terms of you know, they cannot switch off the power or stop the water. so that is one part. 
+
+
+## 
+5:44:28
+Second part is, of course you know if there are pass dues on account of which they are not giving approvals. For example, you know, in one of the power plant that we are looking at, the pollution control board had not renewed the consent to operate on account of there are certain capex that they needed to do in terms of metering. 
+
+5:44:53
+Unit wise metering was supposed to be done rather than one plantwise metering which was there, and those unit wise metering was still not done. So if there is some work to be required in order for renewal of the that particular approval, that will need to be carried out and then you know convince the pollution control board to renew the consent to operate. otherwise you go to NT. 
+
+5:45:18
+In terms of you know, of course you will need to give a legal notice and then give them some time and then they don't go. They don't restart your service, go to NT and have them give an order to this particular utility to start the supply and at the same time, you know, assure the N that we will keep paying on schedule as per the usage. 
+
+
+## 
+5:45:48
+So to that extent, you know COC minutes also will need to be a part of the application, saying that COC agrees to you know support this entire entity. In terms of you know paying the utility bills on time. Yeah, I think that seems to be the logical way out. Yeah right, thank you. so keeping the COC in the Lube on the status of the operations status of the cash flow. 
+
+5:46:36
+Legal issues that typically are faced by the corporate deor over this entire CR period has to be part of every COC meeting, so that you know COC is not kept in the dark and these things don't come as a surprise, and you want COC on your side in these situations. 
+
+5:47:05
+So it gives a it builds a trust between the RP and the COC, also in terms of you know saying that you know he they've been upfront, transparent about everything that they are going through and generally useful. So any other questions the participants may have. So Nia, that seems about it for today. Yes, sir, participants may ask questions if they have any. Okay, sir, we can end the session. 
+
+
+## 
+5:48:30
+So thank you very much for you know asking me to take this session. So thanks to icsi iip and, of course, thank you to the participants for their time and patience in terms of going through the session. It was my pleasure to share my experience. Hopefully it has U Been of some use to all of you and happy to take any questions later as well. 
+
+5:49:04
+I'm sure Nia can pass on queries that you may have later sure in respect of situations or some queries that you may have in respect of this. So please feel free to ask me later as well, and thank you very much. Thank you, sir M. Can we have the background material and the contact number of the speaker? Can you share it? Sure, sir, it will be shared. okay and actually I'm attending first time in icsi. 
+
+5:49:39
+So what about the after completion of this session? Will we get the confirmation for attending the session or what is the procedure? Yes, sir, so you to email, and that email will be a confirmation that you have attended the session and you can use this use that document as a proof of attendance and okay, okay, shall we get PowerPoint presentation? Yes, sir, it will be shared. 
+
+
+## 
+5:50:07
+So thank you so much, Anish, sir, for sharing your valuable time and for making the participants understand about the manufacturing SE session. This was indeed an insightful session and thank you so much participants also for your patience and your time. Have a good day. thank you, thank you, very much, thank you. 

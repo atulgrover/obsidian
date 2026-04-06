@@ -1,0 +1,287 @@
+<html>
+<p>
+	<div>
+		<h1>
+			Whether the Principal and Interest amounts can be clubbed together to reach the minimum threshold of Rs. 1 Crore as stipulated under Section 4 of IBC, 2016 &ndash; CBRE South Asia Pvt. Ltd. Vs. M/s. United Concepts and Solutions Pvt. Ltd. &ndash; NCLT New Delhi Bench Court-II
+		</h1>
+		<div>
+			January 24, 2022
+		</div>
+		<p>
+			The AA holds that it can be inferred that the &ldquo;interest&rdquo; can be claimed as the Financial Debt, but neither there is any provision nor there is any scope to include the interest to constitute as the Operational Debt. There is a marked difference between the definition of the term &lsquo;financial debt&rsquo; and the &lsquo;operational debt&rsquo;. Under Section 5(8) the term &lsquo;financial debt&rsquo; means a debt along with interest, if any, which is disbursed against the consideration for the time value of money and that is an inclusive definition. In the definition of the term &lsquo;operational debt&rsquo; under p 5(21) the word &lsquo;interest&rsquo; has not been mentioned&hellip;&rdquo;
+		</p>
+	</div>
+</p>
+<div>
+	<div>
+		<div>
+			<p>
+				<div>
+					<div>
+						<p>
+							<strong>
+								I. Case Reference
+							</strong>
+						</p>
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										Case Citation
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										(2022)  02 NCLT
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Case Name
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										CBRE South Asia Pvt. Ltd. Vs. M/s. United Concepts and Solutions Pvt. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Operational Creditor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										CBRE South Asia Pvt. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Corporate Debtor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										M/s. United Concepts and Solutions Pvt. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Appeal No.
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										CP (IB)-797(ND)2021
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Judgment Date
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										19-Jan-22
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Court/Bench
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										NCLT New Delhi Bench Court-II
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Judicial)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Shri. Abni Ranjan Kumar Sinha
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Technical)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Shri L.N. Gupta
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Case Status
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Set aside by NCLAT, reported at&nbsp;(2022)  636 NCLAT
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<p>
+							<strong>
+								II. Brief about the decision
+							</strong>
+						</p>
+						<p>
+							<em>
+								<strong>
+									Facts f the case
+								</strong>
+							</em>
+						</p>
+						<p>
+							M/s. CBRE South Asia Pvt. Ltd. (Applicant), has filed the present Application under Section 9 of the IBC, 2016 with a prayer to initiate the CIRP against M/s. United Concepts and Solutions Pvt. Ltd. (Corporate Debtor).
+						</p>
+						<p>
+							That during the course of preliminary hearing on 03.01.2022, while going through the Part IV of the Application, it was observed by this Bench that the Applicant has claimed a total amount of Rs.1,39,84,400/- as Operational Debt, out of which Rs. 88,50,886/- only is the Principal amount and the remaining Rs. 51,33,514/- is the interest component. Since the principal outstanding claimed by the Operational Creditor is less than Rs. 1 Crore, a query to the Applicant was raised by the Adjudicating Authority as to whether the Principal and Interest amounts can be clubbed together to reach the minimum threshold of Rs. 1 Crore as stipulated under Section 4 of IBC, 2016.&nbsp;
+						</p>
+						<p>
+							That in response, it was submitted by the Ld. Counsel appearing&nbsp;for the Operational Creditor that the invoices raised in support of debt contained the provision of interest and accordingly, the Applicant has claimed the interest as part of the Operational Debt.
+						</p>
+						<p>
+							<em>
+								<strong>
+									Decision of the Adjudicating Authority
+								</strong>
+							</em>
+						</p>
+						<p>
+							<strong>
+								Whether the Principal and Interest amounts can be clubbed:
+							</strong>
+						</p>
+						<p>
+							The Adjudicating Authority holds:
+						</p>
+						<ul>
+							<li>
+								That since an Application under Section 9 can only be filed on &ldquo;occurrence of&nbsp;default&rdquo;, therefore, we would like to examine the definition of &ldquo;default&rdquo; as defined under Section 3(12) of IBC, 2016&nbsp;&ldquo;
+								<em>
+									(12) &ldquo;
+									<strong>
+										default
+									</strong>
+									&rdquo; means non-payment of debt when whole or any part or instalment of the amount of debt has become due and payable and is not paid by the debtor or the corporate debtor, as the case may be;
+								</em>
+								&rdquo;
+							</li>
+							<li>
+								Since the term default refers to the terms like non-payment of debt and debt becoming due and payable, we would like to examine the definition of &ldquo;debt&rdquo; as defined under Section 3(11) of IBC, 2016. The contents of the same are reproduced as &ldquo;
+								<em>
+									(11) &ldquo;
+									<strong>
+										debt
+									</strong>
+									&rdquo; means a liability or obligation in respect of a claim which is due from any person and includes a financial debt and operational debt;
+								</em>
+								&ldquo;
+							</li>
+							<li>
+								Since the term debt means a liability or obligation in respect of a claim, we visit the definition of &ldquo;claim&rdquo; as defined under Section 3(6)- &ldquo;
+								<em>
+									(6) &ldquo;
+									<strong>
+										claim
+									</strong>
+									&rdquo; means &ndash; (a) a right to payment, whether or not such right is reduced to judgment, fixed, disputed, undisputed, legal, equitable, secured, or unsecured; (b) right to remedy for breach of contract under any law for the time being in force, if such breach gives rise to a right to payment, whether or not such right is reduced to judgment, fixed, matured, unmatured, disputed, undisputed, secured or unsecured;
+								</em>
+								&rdquo;
+							</li>
+							<li>
+								Since the definition of claim is common for both the Operational Debt as well as the Financial Debt, we further refer to the definition of &ldquo;Operational Debt&rdquo; and &ldquo;Financial Debt&rdquo; as defined under p 5(21) and 5(8) of IBC, 2016 respectively. The same are reproduced below &ndash;
+							</li>
+						</ul>
+						<p>
+							&ldquo;
+							<em>
+								(21) &ldquo;operational debt&rdquo; means a claim in respect of the provision of goods or services including employment or a debt in respect of the payment of dues arising under any law for the time being in force and payable to the Central Government, any State Government or any local authority;
+							</em>
+							&rdquo;
+						</p>
+						<p>
+							<em>
+								(8) &ldquo;financial debt&rdquo; means a debt&nbsp;
+								<strong>
+									alongwith interest
+								</strong>
+								, if any, which is disbursed against the consideration for the time value of money and includes &ndash; &hellip;&hellip;&hellip;&hellip;&hellip;.. &hellip;&hellip;&hellip;&hellip;&hellip;&rdquo;
+							</em>
+						</p>
+						<ul>
+							<li>
+								That from the above discussion, it can be inferred that the &ldquo;interest&rdquo; can be claimed as the Financial Debt, but neither there is any provision nor there is any scope to include the interest to constitute as the Operational Debt. That a similar finding was given by the NCLT Chandigarh Bench in the matter of&nbsp;
+								<em>
+									M/s. Wanbury Ltd. Vs. M/s. Panacea Biotech Ltd.&nbsp;(2017)  66 NCLT&nbsp;
+								</em>
+								dated 18.04.2017.
+							</li>
+							<li>
+								We are presently concerned with the definition of term &ldquo;operational debt&rdquo; as defined in p 5(21) of the Code. Section 5(20) defines &ldquo;operational creditor&rdquo; as meaning a person to whom an operational debt is owed and includes any person to whom such debt has been legally assigned or transferred. Section 5(21) of the Code says that &ldquo;operational debt&rdquo; means a claim in respect of the provision of goods and services including employment or a debt in respect of the repayment of the dues arising under any law for the time being in force and payable to the Central Government or State Government or any local authority.
+							</li>
+							<li>
+								There is a marked difference between the definition of the term &lsquo;financial debt&rsquo; and the &lsquo;operational debt&rsquo;. Under Section 5(8) the term &lsquo;financial debt&rsquo; means a debt along with interest, if any, which is disbursed against the consideration for the time value of money and that is an inclusive definition. In the definition of the term &lsquo;operational debt&rsquo; under p 5(21) the word &lsquo;interest&rsquo; has not been mentioned&hellip;&rdquo;.
+							</li>
+							<li>
+								That in the light of the above discussion, we are of the view that the Interest amount cannot be clubbed with the Principal amount of debt to arrive at the minimum threshold of Rs.1 Crore for complying with the provision of Section 4 of IBC, 2016.
+								<strong>
+									(p8-14)
+								</strong>
+							</li>
+						</ul>
+						<p>
+							<strong>
+								Date of default prior to Notification under Section 4:
+							</strong>
+						</p>
+						<p>
+							The Adjudicating Authority observes that the Ld. Counsel appearing for the Applicant had taken another plea in the hearing that since the date of default is of 2019 hence, the limit of 1 Crore shall not be applicable to it.&nbsp;In this context, it is worthwhile to refer to the Judgement of Hon&rsquo;ble NCLAT in the matter of&nbsp;
+							<em>
+								Jumbo Paper Products Vs Hansraj Agrofresh Pvt. Ltd.
+							</em>
+							&nbsp;
+							<em>
+								(2021)  497 NCLAT
+							</em>
+							&nbsp;dated 25.10.2021.&nbsp;Since the present application has been filed in the year 2021, therefore, we find no force in the arguments of Ld. Counsel of Operational Creditor that the limit of Rs. 01 Crore is not applicable to its case.
+							<strong>
+								(p15-17)
+							</strong>
+						</p>
+						<p>
+							It holds that in view of the above, we conclude that since the Principal amount of operational debt claimed by the Applicant is less than Rs. 01 Crore and the Application is filed in the year 2021, the Application is not maintainable under Section 4 of IBC, 2016 and is accordingly, dismissed.
+							<strong>
+								(p18)
+							</strong>
+						</p>
+						<p>
+							<strong>
+								III. Full text of the judgment
+							</strong>
+						</p>
+					</div>
+				</div>
+			</p>
+		</div>
+	</div>
+</div>
+</html>

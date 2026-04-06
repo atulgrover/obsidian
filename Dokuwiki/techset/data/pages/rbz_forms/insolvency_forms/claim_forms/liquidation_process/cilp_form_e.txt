@@ -1,0 +1,5 @@
+{{tag>judicial_process:insolvency_process form_type:claim_forms process_type:liquidation_process stakeholder_type:workmen_employees}}
+
+===== Liquidation Process Form E - Proof of Claim by Worker or Employee =====
+{{pdfjs 200em,500px> pdf:liquidation_process_form_e.pdf}}
+

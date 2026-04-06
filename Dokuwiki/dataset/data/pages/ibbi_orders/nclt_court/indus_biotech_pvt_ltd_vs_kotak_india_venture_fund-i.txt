@@ -1,0 +1,425 @@
+<html>
+<p>
+	<div>
+		<h1>
+			Will the provisions of the Arbitration &amp; Conciliation Act, 1996 prevail over the provisions of the IBC, 2016? If so, in what circumstances? &ndash; Indus Biotech Private Limited Vs. Kotak India Venture Fund-I &ndash; NCLT Mumbai
+		</h1>
+		<div>
+			June 9, 2020
+		</div>
+		<p>
+			NCLT held that it is settled law that generalia specialibus non derogant &ndash; special law prevails over general law. In Gujarat Urja Vikas Nigam Limited v Essar Power Limited, the Hon&rsquo;ble Supreme Court held that the Arbitration &amp; Conciliation Act, 1996 is a general law. The court in that case was considering a question under the Electricity Act. It held that the Electricity Act being a special statute would have overriding effect over the Arbitration &amp; Conciliation Act, which was the general statute. However, this decision was overturned by the Hon&rsquo;ble Supreme Court in Consolidated Engineering Enterprises v Principal Secretary, Irrigation Department &amp; others,&nbsp;wherein the Hon&rsquo;ble Court held that the Arbitration &amp; Conciliation Act is a special law, consolidating and amending the law relating to arbitration and matters connected therewith or incidental thereto. In Hindustan Petroleum Corporation Limited v Pinkcity Midway Petroleums, the Hon&rsquo;ble Supreme Court held that where an arbitration clause exists, the court has a mandatory duty to refer dispute arising between the contracting parties to arbitrator. It quoted with approval the decision of the same court in P Anand Gajapathi Raju &amp; others v PVG Raju (dead) &amp; others,&nbsp;wherein it was held that the language of p 8 of the Arbitration &amp; Conciliation Act, 1996, is peremptory and the court is under an obligation to refer parties to arbitration.
+		</p>
+	</div>
+</p>
+<div>
+	<div>
+		<div>
+			<p>
+				<div>
+					<div>
+						<p>
+							<strong>
+								I. Case Reference
+							</strong>
+						</p>
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										Case Citation
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										[2020]  29 NCLT
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Case Name
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Indus Biotech Pvt. Ltd. Vs. Kotak India Venture Fund-I
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Corporate Debtor
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Indus Biotech Pvt. Ltd.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Financial Creditors
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Kotak India Venture Fund-I
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Appeal No.&nbsp;
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										IA No.3597/2019 in CP (IB) No.3077/2019 with CP (IB) No.3077/2019
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Order Date
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										09-Jun-20
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Court/Bench
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										NCLT Mumbai Bench
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Present for Appellant
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Mr Mustafa Doctor, Sr Advocate Mr Chaitanya D Mehta Ms Sonali Aggarwal Ms Sairica Raju i/b Dhruve Liladhar &amp; Co, Advocates
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Present for Respondents&nbsp;
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Mr Fredun E DeVitre, Sr Advocate Mr Sharan Jagtiani Mr Jatin Pore Ms Ankita Agrawal, i/b DSK Legal, Advocates
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Judicial)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Mr. Rajasekhar V.K.
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Member (Technical)
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Mr. Ravikumar Duraisamy
+									</td>
+								</tr>
+								<tr>
+									<td>
+										Current Status
+									</td>
+									<td>
+										:
+									</td>
+									<td>
+										Upheld by SC (2021)  52 SC
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<p>
+							<strong>
+								II. Brief about the decision.
+							</strong>
+						</p>
+						<p>
+							<em>
+								<strong>
+									Facts and contentions of parties
+								</strong>
+							</em>
+						</p>
+						<ul>
+							<li>
+								The single-point reference in the Interlocutory Application (IA) is&nbsp;that this Adjudicating Authority refer the parties in the main CP (IB)&nbsp;No.3077/2019 to arbitration for settling their disputes. The IA has&nbsp;been filed under p 8 of the Arbitration &amp; Conciliation Act,&nbsp;1996.
+							</li>
+							<li>
+								The underlying Company Petition has been filed by Kotak India&nbsp;Venture Fund-I under p 7 of the IBC, seeking to initiate CIRP&nbsp;against Indus Biotech Private Limited on the ground that the&nbsp;Corporate Debtor had failed to redeem the Optionally Convertible&nbsp;Redeemable Preference Shares (OCRPS) on or before 15.04.2019 in&nbsp;terms of the Share Subscription and Shareholders Agreement (SSSA)&nbsp;dated 20.07.2007. Schedule &lsquo;J&rsquo; of the SSSA is at p.272 of the Paper&nbsp;Book details the terms of the OCRPS.
+							</li>
+							<li>
+								The Petitioner has alleged that there was a default on the part of the&nbsp;Respondent in redeeming the OCRPS, which, according to the&nbsp;Petitioner, works out to ₹367,07,50,000/- (Rupees three hundred&nbsp;and sixty-seven crore seven lakh and fifty thousand only). The date&nbsp;of default is stated to be 16.04.2019.
+							</li>
+							<li>
+								On the point of law, Mr Mustafa Doctor, learned Senior Counsel&nbsp;appearing for the Applicant/Respondent, drew our attention to the&nbsp;provisions of p 8 of the Arbitration &amp; Conciliation Act, 1996,1&nbsp;and stated that it is mandatory in nature. The undisputed fact is that&nbsp;the SSSA contains an arbitration clause which is wide enough to&nbsp;cover the dispute between the parties. This is in the nature of a&nbsp;commercial dispute. It is settled law that courts must always lean in&nbsp;favour of enforcing arbitration agreements, since that is the bargain&nbsp;struck by the parties. He submitted that the Hon&rsquo;ble Supreme Court&nbsp;has reiterated this legal principle in a number of judgments.
+							</li>
+							<li>
+								Mr Mustafa Doctor submitted that the underlying Company Petition&nbsp;is in the nature of a &lsquo;dressed-up&rsquo; Petition, inasmuch as the real dispute&nbsp;between the parties is with regard to matters pertaining to the&nbsp;agreement reached between the parties and interpretation of its&nbsp;various clauses. The Respondent/Financial Creditor is not a&nbsp;Financial Creditor of the Applicant. The claim of the Respondent/&nbsp;Financial Creditor is only a misconceived attempt to pressurise the&nbsp;Applicant/Corporate Debtor to succumb to extortionate demands,&nbsp;and the claim can be determined by arbitration. The provisions of the IBC ought not to be used as a pressure tactic to extort money&nbsp;from profitable companies. The Applicant/Corporate Debtor has a&nbsp;right under p 8 of the Arbitration &amp; Conciliation Act, 1996, to&nbsp;make an application at the first available opportunity before a&nbsp;judicial forum, to seek a reference to arbitration, Mr Mustafa Doctor&nbsp;submitted. The present IA is in this context.
+							</li>
+							<li>
+								In support of his contention regarding &lsquo;dressed up&rsquo; petition, Mr&nbsp;Mustafa Doctor relied on the judgment of the Hon&rsquo;ble Bombay High&nbsp;Court in Rakesh Malhotra vs Rajinder Kumar Malhotra, 2014 SCC OnLine Bom 1146, decided on 20.08.2014 wherein it&nbsp;was held that the power to refer the disputes in a petition that is&nbsp;mischievous, vexatious, mala fide and &lsquo;dressed up&rsquo; to arbitration is&nbsp;always retained.
+							</li>
+							<li>
+								Mr Fredun E DeVitre, learned Senior Counsel for the Respondent/&nbsp;Financial Creditor, submitted that the only issue to be decided in the&nbsp;present is this:
+							</li>
+						</ul>
+						<p>
+							&ldquo;
+							<em>
+								Are the reliefs claimed in the petition capable of being referred to arbitration&nbsp;
+							</em>
+							<em>
+								or being granted by an arbitral tribunal?
+							</em>
+							&rdquo;
+						</p>
+						<ul>
+							<li>
+								Mr Fredun E DeVitre submitted that a p 7 IBC petition&nbsp;belongs to that class of litigation which are incapable of being&nbsp;referred to arbitration. These are matters in rem, as stated by the&nbsp;Hon&rsquo;ble Supreme Court in Pioneer Urban Land and Infrastructure Limited &amp; another v Union of India &amp; others.
+							</li>
+							<li>
+								Matters in rem are&nbsp;inherently incapable of being referred to arbitration. Examples are&nbsp;probate, criminal matters, matrimonial matters, winding up etc. The&nbsp;initiation of CIRP cannot be granted by an arbitrator. A p 7&nbsp;petition is not for recovery of debts. The IBC is a code for dealing&nbsp;with insolvency, either for revival or for liquidation. Once there is a&nbsp;debt and default based on a claim, then the court should decide to&nbsp;admit. It is the exclusive mandate of this court. The existence of an&nbsp;arbitration clause can never affect a p 7 application, which has&nbsp;to be decided independently by this Authority, Mr Fredun DeVitre&nbsp;submitted.
+							</li>
+							<li>
+								Mr Fredun DeVitre invited attention to the judgment of the Hon&rsquo;ble&nbsp;Supreme Court in Haryana Telecom v Sterlite Industries (India)&nbsp;Limited.
+							</li>
+							<li>
+								The ratio decidendi of that judgment was that while&nbsp;deciding the scope of a p 8 petition under the Arbitration &amp;&nbsp;Conciliation Act, 1996, was that only such disputes or matters which&nbsp;an arbitrator is competent or empowered to decide, can be referred&nbsp;to arbitration, Mr Fredun DeVitre submitted.
+							</li>
+							<li>
+								Mr Fredun DeVitre also drew the court&rsquo;s focus to the judgment of&nbsp;the Hon&rsquo;ble Supreme Court in Booz Allen and Hamilton Inc v SBI&nbsp;Home Finance Limited &amp; others,&nbsp;in support of his argument that&nbsp;only where the subject matter of the suit is &lsquo;arbitrable&rsquo; can the parties&nbsp;be referred to arbitration (para 20 of the judgment). He also submitted that para 34 of the judgment lays down the test for&nbsp;arbitrability, which are as follows: &ndash;
+							</li>
+						</ul>
+						<p>
+							(a) Whether the disputes are capable of adjudication and settlement&nbsp;by arbitration?
+						</p>
+						<p>
+							(b) Whether the disputes are covered by the arbitration agreement?
+						</p>
+						<p>
+							(c) Whether the parties have referred the disputes to arbitration?
+						</p>
+						<p>
+							If the cause/dispute is in arbitrable, the court where a suit is pending,&nbsp;will refuse to refer the parties to arbitration under p 8 of the&nbsp;Arbitration &amp; Conciliation Act, even if the parties might have agreed&nbsp;upon arbitration as the forum for settlement of such disputes.
+						</p>
+						<ul>
+							<li>
+								Mr Fredun DeVitre also drew strength from para 51 of the Booz&nbsp;Allen judgment, in support of his line of argument that if there are&nbsp;some matters which are arbitrable and some matters which are non arbitrable, even in those cases, it should not be referred to&nbsp;arbitration. The judgment also goes on to quote with approval the&nbsp;view in Sukanya Holdings (P) Ltd v Jayesh H. Pandya,12 that&nbsp;bifurcation of the subject matter of an action brought before a&nbsp;judicial authority is not allowed (para 52-Booz Allen judgment).
+							</li>
+						</ul>
+						<p>
+							<em>
+								<strong>
+									NCLT findings
+								</strong>
+							</em>
+						</p>
+						<p>
+							At the outset, we must say that the subject matter of this IA &ndash;&nbsp;seeking a reference to arbitration in a petition filed under p 7 of&nbsp;the IBC &ndash; is something that is res integra. The facts of the case are,&nbsp;however, undisputed, and therefore, we seek to address the points of&nbsp;law that need to be addressed. In our endeavour to arrive at a&nbsp;decision, we have tried to be guided by the decisions of the&nbsp;constitutional courts under other laws, and the underlying reasons in&nbsp;arriving at those decisions. The case law cited by both Senior&nbsp;Counsel is a good starting point in this quest.
+						</p>
+						<p>
+							Booz Allen lays down three tests of arbitrability of a dispute in para&nbsp;34 of the judgment &ndash;
+						</p>
+						<p>
+							(a) Whether the disputes are capable of adjudication and settlement&nbsp;by arbitration?
+						</p>
+						<p>
+							(b) Whether the disputes are covered by the arbitration agreement?
+						</p>
+						<p>
+							(c) Whether the parties have referred the disputes to arbitration?
+						</p>
+						<p>
+							In para 36 thereof, the well-recognised examples of non-arbitrable&nbsp;disputes have been laid down to be &ndash;
+						</p>
+						<p>
+							(i) disputes relating to rights and liabilities which give rise to or&nbsp;arise out of criminal offences;
+						</p>
+						<p>
+							(ii) matrimonial disputes relating to divorce, judicial separation,&nbsp;restitution of conjugal rights, child custody;
+						</p>
+						<p>
+							(iii) guardianship matters;
+						</p>
+						<p>
+							(iv) insolvency and winding-up matters;
+						</p>
+						<p>
+							(v) testamentary matters (grant of probate, letters of&nbsp;administration and succession certificate); and
+						</p>
+						<p>
+							(vi) eviction or tenancy matters governed by special statutes where&nbsp;the tenant enjoys statutory protection against eviction and&nbsp;only the specified courts are conferred jurisdiction to grant&nbsp;eviction or decide the disputes.
+						</p>
+						<p>
+							The Hon&rsquo;ble Supreme Court added a seventh category to the six&nbsp;categories of cases in Booz Allen, vide its judgment in Vimal Kishor&nbsp;Shah &amp; others v Jayesh Dinesh Shah &amp; others.&nbsp;The Hon&rsquo;ble Court&nbsp;held that cases arising out of trust deed and Trusts Act cannot be&nbsp;decided by arbitration (para 54 of the judgment).
+						</p>
+						<p>
+							<em>
+								<strong>
+									Question before the NCLT
+								</strong>
+							</em>
+						</p>
+						<p>
+							Will the provisions of the Arbitration &amp; Conciliation Act, 1996&nbsp;prevail over the provisions of the Insolvency &amp; Bankruptcy Act,&nbsp;2016? If so, in what circumstances?
+						</p>
+						<p>
+							<em>
+								<strong>
+									Decision of the NCLT
+								</strong>
+							</em>
+						</p>
+						<ul>
+							<li>
+								It is settled law that&nbsp;
+								<em>
+									generalia specialibus non derogant
+								</em>
+								&nbsp;&ndash; special law prevails over general law.
+							</li>
+							<li>
+								In&nbsp;
+								<em>
+									<strong>
+										Gujarat Urja Vikas Nigam Limited v Essar Power Limited
+									</strong>
+								</em>
+								, the Hon&rsquo;ble Supreme Court held that the Arbitration &amp; Conciliation Act, 1996 is a general law. The court in that case was considering a question under the Electricity Act. It held that the Electricity Act being a special statute would have overriding effect over the Arbitration &amp; Conciliation Act, which was the general statute. However, this decision was overturned by the Hon&rsquo;ble Supreme Court in&nbsp;
+								<strong>
+									<em>
+										Consolidated Engineering Enterprises v Principal Secretary,
+									</em>
+									&nbsp;Irrigation Department &amp; others,
+								</strong>
+								&nbsp;wherein the Hon&rsquo;ble Court held that the Arbitration &amp; Conciliation Act is a special law, consolidating and amending the law relating to arbitration and matters connected therewith or incidental thereto.
+							</li>
+							<li>
+								In&nbsp;
+								<strong>
+									<em>
+										Hindustan Petroleum Corporation Limited v Pinkcity Midway
+									</em>
+									&nbsp;Petroleums
+								</strong>
+								, the Hon&rsquo;ble Supreme Court held that where an arbitration clause exists, the court has a mandatory duty to refer dispute arising between the contracting parties to arbitrator. It quoted with approval the decision of the same court in&nbsp;
+								<strong>
+									<em>
+										P Anand
+									</em>
+									&nbsp;Gajapathi Raju &amp; others v PVG Raju (dead) &amp; others,
+								</strong>
+								&nbsp;wherein it was held that the language of p 8 of the Arbitration &amp; Conciliation Act, 1996, is peremptory and the court is under an obligation to refer parties to arbitration.
+							</li>
+							<li>
+								The Preamble of the IBC reads that it is an Act to &ldquo;
+								<em>
+									consolidate and&nbsp;
+								</em>
+								<em>
+									amend the laws relating to reorganisation and insolvency resolution of corporate persons &hellip; in a time-bound manner for maximisation of value of assets of such persons, to promote entrepreneurship, available of credit and balance the interests of all the stakeholders &hellip;.&rdquo;&nbsp;
+								</em>
+								The Preamble of the Arbitration &amp; Conciliation Act, 1996, reads that
+								<em>
+									&nbsp;&ldquo;it is an Act to consolidate and amend the law relating to domestic arbitration &hellip; as also to&nbsp;
+								</em>
+								<em>
+									define the law relating to conciliation &hellip;
+								</em>
+								.&rdquo;
+							</li>
+							<li>
+								The rules of interpretation are fairly well-settled: &ndash;
+							</li>
+						</ul>
+						<p>
+							(1) When a provision of law regulates a particular subject and a subsequent law contains a provision regulating the same subject, there is no presumption that the later law repeals the earlier law.&nbsp;The rule making authority while making the later rule is deemed&nbsp;to know the existing law on the subject. If the subsequent law does not repeal the earlier rule, there can be no presumption of an intention to repeal the earlier rule.
+						</p>
+						<p>
+							(2) When two provisions of law &ndash; one being a general law and the other being special law govern a matter, the court should endeavour to apply a harmonious construction to the said provisions. But where the intention of the rule making authority is made clear either expressly or impliedly, as to which law should prevail, the same shall be given effect.
+						</p>
+						<p>
+							(3) If the repugnancy or inconsistency subsists in spite of an effort to read them harmoniously, the prior special law is not presumed to be repealed by the later general law. The prior special law will continue to apply and prevail in spite of the subsequent general law. But where a clear intention to make a rule of universal application by superseding the earlier special law is evident from the later general law, then the later general law, will prevail over the prior special law.
+						</p>
+						<p>
+							(4) Where a later special law is repugnant to or inconsistent with an earlier general law, the later special law will prevail over the earlier general law.
+						</p>
+						<ul>
+							<li>
+								In&nbsp;
+								<em>
+									<strong>
+										Innoventive Industries Limited v ICICI Bank &amp; another
+									</strong>
+								</em>
+								, The Hon&rsquo;ble NCLAT held that sub-p (5) of p 7 of the IBC provides for admission or rejection of application of a financial creditor where the adjudicating authority is satisfied that the documents are complete or incomplete. The Adjudicating Authority, post ascertaining and being satisfied that such a default has occurred, may admit the application of the financial creditor. In other words, the statute mandates the Adjudicating Authority to ascertain and record satisfaction as to the occurrence of default before admitting the application. Mere claim by the financial creditor that the default has occurred is not sufficient. The same is subject to the Adjudicating Authority&rsquo;s summary adjudication, though limited to &lsquo;ascertainment&rsquo; and &lsquo;satisfaction&rsquo; (paras 57 &amp; 58).&nbsp;Therefore, in a p 7 petition, there has to be a judicial determination by the Adjudicating Authority as to whether there has been a &lsquo;default&rsquo; within the meaning of p 3(12) of the IBC.
+							</li>
+							<li>
+								In the present case, the dispute centres around three things &ndash; (1) The&nbsp;valuation of the Respondent/Financial Creditor&rsquo;s OCRPS;&nbsp;(2) The&nbsp;right of the Respondent/Financial Creditor to redeem such OCRPS&nbsp;when it had participated in the process to convert its OCRPS into&nbsp;equity shares of the Applicant/Corporate Debtor; and&nbsp;(3) Fixing of&nbsp;the QIPO date. All of these things are important determinants in&nbsp;coming to a judicial conclusion that a default has occurred. The&nbsp;invocation of arbitration in a case like this seems to be justified.
+							</li>
+							<li>
+								Looking at the contention raised, and that the facts are not in&nbsp;dispute, we are not satisfied that a default has occurred. We note Mr&nbsp;Mustafa Doctor&rsquo;s statements that the Applicant/Corporate Debtor is&nbsp;a solvent, debt-free and profitable company.&nbsp;
+								<em>
+									<strong>
+										It will unnecessarily&nbsp;
+									</strong>
+								</em>
+								<em>
+									<strong>
+										push an otherwise solvent, debt-free company into insolvency, which&nbsp;
+									</strong>
+								</em>
+								<em>
+									<strong>
+										is not a very desirable result at this stage
+									</strong>
+								</em>
+								. The disputes that form the&nbsp;subject matter of the underlying Company Petition, viz., valuation of&nbsp;shares, calculation and conversion formula and fixing of QIPO date&nbsp;are all arbitrable, since they involve valuation of the shares and&nbsp;fixing of the QIPO date. Therefore, we feel that an attempt must be&nbsp;made to reconcile the differences between the parties and their&nbsp;respective perceptions. Also, no meaningful purpose will be served&nbsp;by pushing the Applicant/Corporate Debtor into CIRP at this stage.
+							</li>
+						</ul>
+						<ul>
+							<li>
+								We further note that the Arbitration Petition bearing Arbitration Case No.48/2019 filed by the Applicant/Corporate Debtor is pending consideration before the Hon&rsquo;ble Supreme Court for appointment of an arbitrator.
+							</li>
+							<li>
+								For all the above reasons, the present IA No.3597/MB.I/2019 is allowed.&nbsp;As a natural corollary, the underlying Company Petition bearing CP No.3077/MB.IV/2019 is incapable of being admitted at this stage, and is, accordingly, dismissed
+							</li>
+						</ul>
+					</div>
+				</div>
+			</p>
+		</div>
+	</div>
+</div>
+</html>

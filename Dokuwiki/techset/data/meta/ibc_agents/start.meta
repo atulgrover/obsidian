@@ -1,0 +1,27 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1760815268;s:8:"modified";i:1761587116;}s:7:"creator";s:11:"Atul Grover";s:4:"user";s:5:"admin";s:11:"last_change";b:0;s:11:"contributor";a:1:{s:5:"admin";s:11:"Atul Grover";}s:8:"relation";a:2:{s:10:"references";a:42:{s:20:"ibc_agents:asset_mgt";b:0;s:26:"ibc_agents:asset_discovery";b:0;s:26:"ibc_agents:asset_valuation";b:0;s:22:"ibc_agents:auction_mgt";b:0;s:29:"ibc_agents:auction_management";b:0;s:21:"ibc_agents:claims_mgt";b:0;s:27:"ibc_agents:claim_management";b:0;s:22:"ibc_agents:closure_mgt";b:0;s:29:"ibc_agents:closure_management";b:0;s:33:"ibc_agents:distribution_repayment";b:0;s:32:"ibc_agents:enforcement_discharge";b:0;s:27:"ibc_agents:monitoring_audit";b:0;s:31:"ibc_agents:repayment_settlement";b:0;s:28:"ibc_agents:communication_mgt";b:0;s:39:"ibc_agents:communication_compliance_mgt";b:0;s:31:"ibc_agents:compliance_reporting";b:0;s:27:"ibc_agents:legal_compliance";b:0;s:27:"ibc_agents:decision_support";b:0;s:29:"ibc_agents:adaptive_analytics";b:0;s:24:"ibc_agents:coc_formation";b:0;s:29:"ibc_agents:recovery_analytics";b:0;s:30:"ibc_agents:reporting_analytics";b:0;s:29:"ibc_agents:sentiment_analysis";b:0;s:23:"ibc_agents:document_mgt";b:0;s:24:"ibc_agents:due_diligence";b:0;s:31:"ibc_agents:financial_assessment";b:0;s:26:"ibc_agents:fraud_detection";b:0;s:31:"ibc_agents:risk_fraud_detection";b:0;s:26:"ibc_agents:information_mgt";b:0;s:24:"ibc_agents:knowledge_mgt";b:0;s:25:"ibc_agents:legal_research";b:0;s:34:"ibc_agents:bankruptcy_adjudication";b:0;s:29:"ibc_agents:petition_admission";b:0;s:24:"ibc_agents:marketing_mgt";b:0;s:26:"ibc_agents:plan_management";b:0;s:24:"ibc_agents:plan_analysis";b:0;s:26:"ibc_agents:plan_evaluation";b:0;s:30:"ibc_agents:plan_implementation";b:0;s:27:"ibc_agents:plan_preparation";b:0;s:25:"ibc_agents:pre_initiation";b:0;s:32:"ibc_agents:mediation_negotiation";b:0;s:25:"ibc_agents:pre-initiation";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:503:"*  IBC Agents
+			*  asset_mgt
+				*  asset_discovery
+				*  asset_valuation
+
+			*  auction_mgt
+				*  auction_management
+
+			*  claims_mgt
+				*  claim_management
+
+			*  closure_mgt
+				*  closure_management
+				*  distribution_repayment
+				*  enforcement_discharge
+				*  monitoring_audit
+				*  repayment_settlement
+
+			*  communication_mgt
+				*  communication
+      * [[compliance_mgt
+				*  compliance_reporting
+				*  legal_compliance
+
+			*  decision_support
+				*  adaptive_analytics
+				*  c…";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1760815268;s:8:"modified";i:1761587116;}s:7:"creator";s:11:"Atul Grover";s:4:"user";s:5:"admin";s:11:"last_change";b:0;s:11:"contributor";a:1:{s:5:"admin";s:11:"Atul Grover";}}}

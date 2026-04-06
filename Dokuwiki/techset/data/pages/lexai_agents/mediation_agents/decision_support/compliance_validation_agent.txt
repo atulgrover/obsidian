@@ -1,0 +1,6 @@
+Compliance Validation Agent
+The Compliance Validation Agent performs a comprehensive audit of the draft settlement or award to ensure adherence to statutory, regulatory, and procedural norms. It checks references to IBC sections, compliance with timelines, and the inclusion of all mandatory disclosures and approvals. This automated validation step minimizes the risk of procedural defects.
+
+It compares the draft against templates approved by regulatory authorities and identifies inconsistencies or missing clauses. The agent can also flag jurisdictional or factual errors before submission, reducing post-filing objections or tribunal queries. For insolvency professionals, this is crucial for maintaining process transparency and accountability.
+
+Additionally, it can generate a “Compliance Certificate” summarizing checks performed and deviations, if any. This creates an auditable trail of legal diligence, supporting professional credibility and regulatory confidence.

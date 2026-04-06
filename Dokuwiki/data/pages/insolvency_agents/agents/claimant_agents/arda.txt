@@ -1,0 +1,111 @@
+{
+  "agentName": "Asset Recovery and Distribution Agent (ARDA)",
+  "agentDescription": "Monitors and tracks the actual realization (sale, recovery) of the corporate debtor's assets and the subsequent distribution of proceeds to claimants during the insolvency process (liquidation or post-resolution plan approval). Ensures distributions align with the approved resolution plan or the statutory waterfall (IBC Section 53), providing transparency to claimants.",
+  "version": "1.0",
+  "status": "Conceptual",
+  "goals": [
+    "Track the status and proceeds from the sale or realization of specific assets.",
+    "Monitor the collection of funds into the debtor's estate or liquidation account.",
+    "Compare actual asset realization values against initial valuation estimates.",
+    "Track actual distributions made to various claimant categories.",
+    "Verify that distributions comply with the sequence and amounts specified in the approved resolution plan or the Section 53 waterfall.",
+    "Provide claimants with updates on the overall progress of asset recovery and the status of distributions relevant to their priority class.",
+    "Identify and report any significant delays or deviations in the asset recovery and distribution process.",
+    "Maintain an audit trail of asset realization and fund distribution activities."
+  ],
+  "keyCapabilities": [
+    "Asset Realization Tracking: Logs details of asset sales (asset ID, buyer, sale date, sale amount).",
+    "Fund Flow Monitoring: Tracks incoming funds from asset sales and outgoing payments for costs and distributions.",
+    "Plan/Waterfall Compliance Check: Compares actual distributions against the rules defined in the approved resolution plan or IBC Section 53 priority.",
+    "Distribution Ledger: Maintains a record of payments made to each claimant or claimant category.",
+    "Variance Analysis: Calculates differences between expected/estimated realization/distribution and actual results.",
+    "Progress Reporting: Generates reports showing the status of asset sales, total funds collected, total funds distributed, and estimated completion.",
+    "Claimant View Generation: Can provide simplified status updates tailored for specific claimant classes.",
+    "Alerting: Flags significant deviations, completion of major asset sales, or commencement of distribution tranches.",
+    "Integration with Claims Data: Uses admitted claims data (from CIMA) to track distribution progress against total liabilities."
+  ],
+  "targetUsers": [
+    "Liquidators",
+    "Insolvency Professionals / Resolution Professionals (monitoring implementation)",
+    "Claimants (Financial Creditors, Operational Creditors, Employees etc. - receiving updates)",
+    "Committee of Creditors (CoC) (if involved in monitoring liquidation/plan implementation)",
+    "Adjudicating Authority (NCLT - receiving progress reports)",
+    "Advisors supporting the Liquidator/RP/CoC"
+  ],
+  "inputDataRequirements": [
+    "List of Assets for realization (from Asset Register/IM).",
+    "Valuation Reports (Fair Value / Liquidation Value - for comparison).",
+    "Approved Resolution Plan (specifically the distribution schedule) OR Liquidation Plan outlining distribution strategy.",
+    "List of Admitted Claims (from CIMA, essential for tracking distribution).",
+    "Records of Actual Asset Sale Transactions (Dates, Amounts, Assets Sold).",
+    "Bank Statements of the Estate/Liquidation Account.",
+    "Records of Actual Distributions Made (Claimant ID, Date, Amount).",
+    "Confirmed Liquidation / CIRP Costs Paid.",
+    "Updates/confirmations from the Liquidator/RP on process status."
+  ],
+  "outputFormats": [
+    "Asset Realization Status Report (PDF, XLSX).",
+    "Fund Distribution Status Report (by claimant category/waterfall level - PDF, XLSX).",
+    "Variance Report (Actual vs. Expected Recovery/Distribution).",
+    "Claimant-Specific Distribution Update (potentially via IPNA or portal).",
+    "Progress Dashboards/Visualizations.",
+    "Notifications/Alerts on key events.",
+    "Data Exports (JSON, CSV) of realization and distribution records.",
+    "Audit Trail report."
+  ],
+  "potentialBenefits": [
+    "Provides crucial transparency to claimants on the execution phase.",
+    "Allows Liquidators/RPs to efficiently track and report on recovery and distribution.",
+    "Helps ensure compliance with the approved plan or statutory waterfall.",
+    "Early detection of shortfalls or deviations enables corrective action or revised estimations.",
+    "Builds stakeholder confidence through clear communication of progress.",
+    "Reduces manual reconciliation efforts for the Liquidator/RP team.",
+    "Provides a verifiable record of asset disposal and fund distribution."
+  ],
+  "requiredTools": [
+    {
+      "toolCategory": "Data Storage",
+      "tools": [
+        "Relational Databases (PostgreSQL, MySQL - essential for storing structured data on assets, sales, claims, distributions, logs)"
+      ]
+    },
+    {
+      "toolCategory": "Data Acquisition & Integration",
+      "tools": [
+        "Database Connectors (SQL - to pull claims data, potentially asset data)",
+        "Spreadsheet Processing Libraries (Pandas - for reading sale records, bank statements)",
+        "API Clients (if integrating with CIMA, accounting systems, or claimant portals like IPNA)",
+        "Bank Statement Parsers (potentially specific formats or standard ones)"
+      ]
+    },
+    {
+      "toolCategory": "Data Processing & Verification",
+      "tools": [
+        "Data Manipulation Libraries (Pandas, NumPy)",
+        "Custom scripting logic (Python, Java) for applying plan rules or Section 53 waterfall logic checks.",
+        "Financial calculation modules"
+      ]
+    },
+    {
+      "toolCategory": "Reporting & Visualization",
+      "tools": [
+        "Reporting Libraries (ReportLab, FPDF)",
+        "Spreadsheet Writing Libraries (openpyxl)",
+        "Data Visualization Libraries (Matplotlib, Seaborn, Plotly)"
+      ]
+    },
+    {
+      "toolCategory": "Workflow & User Interface (for Liquidator/RP)",
+      "tools": [
+        "Web Frameworks (Flask, Django, React, Angular - for data entry, status monitoring, report generation)"
+      ]
+    },
+    {
+       "toolCategory": "Alerting & Notification",
+       "tools": [
+         "Email Service APIs (SendGrid, SES)",
+         "Potentially APIs to push updates to claimant-facing portals (IPNA)"
+       ]
+    }
+  ]
+}

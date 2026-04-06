@@ -1,0 +1,45 @@
+====== Strategies for writing better prompts ======
+
+Developing effective prompts requires a strategic approach. Consider these strategies to enhance your prompt engineering skills.
+
+===== 1. Set Clear Goals and Objectives =====
+
+^ Tactic ^ Prompt Example ^
+| Use action verbs to specify the desired action | Write a bulleted list that summarizes the key findings of the attached research paper |
+| Define the desired length and format of the output | Compose a 500 word essay discussing the impact of climate change on coastal communities |
+| Specify the target audience | Write a product description for a new line of organic skincare products targeting young adults concerned with sustainability |
+
+===== 2. Provide Context and Background Information =====
+
+^ Tactic ^ Prompt Example ^
+| Include relevant facts and data | Given that global temperatures have risen by 1 degree Celsius since the pre industrial era discuss the potential consequences for sea level rise |
+| Reference specific sources or documents | Based on the attached financial report analyze the company profitability over the past five years |
+| Define key terms and concepts | Explain the concept of quantum computing in simple terms suitable for a non technical audience |
+
+===== 3. Use Few Shot Prompting =====
+
+^ Tactic ^ Prompt Example ^
+| Provide a few examples of desired input output pairs | Input Cat Output A small furry mammal with whiskers. Input Dog Output A domesticated canine known for its loyalty. Prompt Elephant |
+| Demonstrate the desired style or tone | Example humorous The politician speech was so dull it could cure insomnia. Example formal The dignitary delivered an address that was informative and engaging. Prompt Write a sentence describing the comedian stand up routine |
+| Show the desired level of detail | Example brief The movie was about a young boy who befriends an alien. Example detailed The science fiction film follows Elliot a lonely boy who befriends an extraterrestrial stranded on Earth. Prompt Summarize the plot of the novel you just finished reading |
+
+===== 4. Be Specific =====
+
+^ Tactic ^ Prompt Example ^
+| Use precise language and avoid ambiguity | Instead of Write something about climate change use Write a persuasive essay arguing for the implementation of stricter carbon emission regulations |
+| Quantify your requests whenever possible | Instead of Write a long poem use Write a sonnet with 14 lines that explores themes of love and loss |
+| Break down complex tasks into smaller steps | Instead of Create a marketing plan use 1 Identify the target audience 2 Develop key marketing messages 3 Choose appropriate marketing channels |
+
+===== 5. Iterate and Experiment =====
+
+^ Tactic ^ Action ^
+| Try different phrasings and keywords | Rephrase your prompt using synonyms or alternative sentence structures |
+| Adjust the level of detail and specificity | Add or remove information to fine tune the output |
+| Test different prompt lengths | Experiment with both shorter and longer prompts to find the optimal balance |
+
+===== 6. Leverage Chain of Thought Prompting =====
+
+^ Tactic ^ Prompt Example ^
+| Encourage step by step reasoning | Solve this problem step by step. John has 5 apples he eats 2. How many apples are left. Step 1 John starts with 5 apples. Step 2 He eats 2 so subtract 2 from 5. Step 3 5 minus 2 equals 3. Answer John has 3 apples left |
+| Ask the model to explain its reasoning process | Explain your thought process in determining the sentiment of this movie review. The acting was superb but the plot was predictable |
+| Guide the model through a logical sequence of thought | To classify this email as spam or not spam consider the following. 1 Is the sender known. 2 Does the subject line contain suspicious keywords. 3 Is the email offering something too good to be true |

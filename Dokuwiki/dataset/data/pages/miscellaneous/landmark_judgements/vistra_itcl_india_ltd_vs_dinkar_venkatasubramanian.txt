@@ -1,0 +1,451 @@
+#
+# Case Summary
+
+# Case Summary
+
+# Case Details
+
+- Case Name: Vistra ITCL (India) Ltd. & Ors. v. Mr. Dinkar Venkatasubramanian & Anr.
+- Civil Appeal No.: 3606 of 2020
+- Decided on: 04-May-23
+
+# Judges
+
+- Mr. Justice Mukeshkumar Rasikbhai Shah
+- Mr. Justice Sanjiv Khanna
+
+# Impugned Order
+
+[2020] ibclaw.in 57 NCLAT
+
+# Corporate Debtor
+
+Amtek Auto Ltd.
+
+# Brief about the decision
+
+# Facts of the case
+
+Share pledge
+
+- A Security Trustee Agreement dated 28.12.2015 was executed between KKR India Financial Services Pvt. Ltd. as Lender and WLD Investments Pvt. Ltd.(WLD) as borrower and Vistra ITCL India Ltd. (earlier known as IL&FS Trust Company Ltd.) as security trustee. Another security trustee agreement dated 28.03.2016 was executed by and between KKR India Financial Services Pvt. Ltd. as the Lender and BRASSCO Engineering Pvt. Ltd. (BRASSCO) as borrower and Vistra ITCL India Ltd. as security trustee. Another Security Trustee Agreement dated 30.06.2016 was executed by and between KKR India Financial Services Pvt. Ltd. and L&T Finance Ltd. (Earlier known as L&T Fincorp Limited) as lenders and BRASSCO Engineering Ltd. as borrower and Vistra ITCL India Ltd. as security trustee.
+- A facility agreement dated 30.06.2016 was executed by and between KKR India Financial Services Pvt. Ltd. and L&T Finance Ltd. as lenders and BRASSCO Engineering Ltd. as borrower and Mr. Arvind Dham as guarantor and Vistra ITCL India Ltd. as security trustee.
+- Under the aforesaid agreements that KKR India Financial Services Pvt. Ltd. and L&T Finance Ltd. had extended financial assistance in the form of short term loans of an aggregate principal amount of Rs. 500 Crores to WLD Investments Pvt. Ltd. and BRASSCO Engineering Ltd. and the said loan was used by and for the benefit of the Corporate Debtor. The Corporate Debtor, in consideration of the short term loans that were made available, had created a first ranking exclusive pledge, vide Pledge Agreement dated 05.07.2016 in favour of Vistra ITCL (India) Limited, over 16,82,06,100 equity shares of face value of Rs. 2/- each of JMT Auto Limited, held by the Corporate Debtor.
+
+# Insolvency proceedings and decision of Adjudicating Authority & Appellate Tribunal
+---
+#
+# Document
+
+# Segment 1
+
+- Application under Section 7 of the IBC admitted against Corporate Debtor, Amtek Auto Limited on 24.07.2017.
+- Vistra ITCL India Ltd. filed claim as a secured creditor on 02.11.2017.
+- Claim amount: INR 500 crores.
+- Resolution plan by M/s Liberty House Group Pvt. Ltd. approved by CoC on 02.04.2018.
+- Approval by Adjudicating Authority on 25.07.2018.
+
+# Segment 2
+
+- Appellants filed another application under Section 60(5) of the IBC.
+- Adjudicating Authority dismissed the application.
+- NCLAT dismissed the appeal.
+
+# Decision of Supreme Court
+
+# Anuj Jain and Phoenix ARC Pvt. Ltd. decisions
+
+- Issue partly covered by two decisions: Anuj Jain IRP for Jaypee Infratech Ltd. Vs. Axis Bank Ltd. and Phoenix ARC Pvt. Ltd. Vs. Ketulbhai Ramubhai Patel.
+- Clarification on the status of 'financial creditors' within the IBC.
+
+# Anuj Jain IRP for Jaypee Infratech Ltd. Vs. Axis Bank Ltd.
+
+Clarifies the status of 'financial creditors' within the IBC.
+
+# Phoenix ARC Pvt. Ltd. Vs. Ketulbhai Ramubhai Patel
+
+Details the case of Doshion Veolia Water Solutions Pvt. Ltd. and L&T Infrastructure Finance Company Limited.
+
+Print Date: June 6, 2024
+---
+#
+
+# Document
+
+# Segment 1: Interpretation of Pledge Agreement
+
+- IBC Laws® | www.ibclaw.in
+
+# Segment 1.1: Background
+
+L&T entered into a pledge agreement with Doshion Limited for Rs.40 crores, with subsequent assignment of debt to Phoenix ARC (P) Ltd. The pledge agreement was in respect of 40,160 shares of Doshion Veolia, providing security to L&T. However, the court ruled that this did not constitute 'financial debt' under Section 5(8) of the Code, making L&T not a financial creditor of the corporate debtor.
+
+# Segment 1.2: Concept of 'pledge'
+
+The concept of 'pledge' was discussed in PTC India Financial Services Limited v. Venkateswarlu Kari and Another (2022) ibclaw.in 34 SC. The pawnee in a pledge agreement has special rights over the pledged goods, including possession, the right to sue in case of default, and the right to sell the goods after notifying the pawnor. Ownership rights remain with the pawnor and revert upon debt discharge.
+
+# Segment 1.3: Security Interest for Group Companies
+
+Vistra, as a secured creditor, holds a pledge on 66.77% shareholding in JMT Auto Limited by the Corporate Debtor Amtek. The definition of 'security interest' under Section 3(31) of the Code includes various forms of property rights created to secure payment or performance of obligations, extending to credit facilities/loans to group companies.
+
+# Segment 1.4: Impact of Resolution Plan on Pledge Agreement
+
+The question arises whether a resolution plan can affect, nullify, or supersede a pledge agreement approved by the CoC. Amendments to the Code introduced provisions to protect the interests of creditors not part of the CoC, ensuring their rights are safeguarded in the resolution plan.
+---
+#
+
+# Segment 1:
+
+IBC Laws® | www.ibclaw.in
+
+# Segment 2:
+
+- Resolution professional and the adjudicating authority.(p8.1-8.3)
+- It is in this context that the Vistra submits that the resolution plan in question does not meet the requirements of the Code, as it extinguishes and vaporises the pledge created in favour of the Vistra, and thereby, Appellant No. 1 – Vistra, a secured creditor, viz, the pledged shares, is left remediless and worse off than the dissenting financial creditors, or even the operational creditors.(p8.4)
+
+# Segment 3:
+
+- Vistra is to be treated as a secured creditor, but would not fall under the category of financial creditors or operational creditors
+
+# Segment 4:
+
+- The difficulty which arises in the present case is that, in terms of the decision of this Court in Anuj Jain (supra) and Phoenix ARC (supra), Vistra is to be treated as a secured creditor, but would not fall under the category of financial creditors or operational creditors. Therefore, they would be denied the benefit of the amendments to Section 30(2) of the Code made vide Act No. 26 of 2019, or for that matter Act No. 26 of 2018. Consequently, a very odd and a peculiar situation is created where a secured creditor is denied the benefit of the secured interest i.e., the right to exercise the sale of the secured interest, yet not be treated as either a financial creditor or an operational creditor.
+- In terms of Section 52 of the Code, a secured creditor in liquidation proceedings has the right to relinquish its security interest to the liquidation estate and receive proceeds from the sale of assets by the liquidator in the manner specified under Section 53 of the Code. The second option given to the secured creditor is to realise the security interest in the manner specified in aforesaid Section. Rule 21A of the Liquidation Process, 2016. deals with the presumption of security interest, which we need not elaborate for the present decision.(p8.5)
+
+# Segment 5:
+
+- Treatment of rights of a Secured Creditor who is not a Financial Creditor nor Operational Creditor
+
+# Segment 6:
+
+- Thus, we are presented with a difficult situation, wherein, Appellant No.1 – Vistra, a secured creditor, is being denied the rights under Section 52 as well as Section 53 of the Code in respect of the pledged shares, whereas, the intent of the amended Section 30(2) read with Section 31 of the Code is too contrary, as it recognises and protects the interests of other creditors who are outside the purview of the CoC.
+- To our mind, the answer to this tricky problem is twofold:
+---
+#
+
+# Segment Headers
+
+- Liquidation Process Regulations
+- Withdrawal the resolution plan
+- The argument raised by Resolution Professional
+- Conclusion
+- Judgment/Order
+
+# Segment Lists
+
+- The second recourse available, would be almost equivalent in monetary terms for the Vistra, who is treated it as a secured creditor and is held entitled to all rights and obligations as applicable to a secured creditor under Section 52 and 53 of the Code. This to our mind would be a fair and just solution to the legal conundrum and issue highlighted before us. (p9)
+- Hon’ble Court held that we wish to clarify that the directions given by us would not be a ground for the successful resolution applicant – DVI to withdraw the resolution plan which has already been approved by the NCLAT and by us. The reason is simple. Any resolution plan must meet with the requirements/provisions of the Code and any provisions of law for the time being in force. What we have directed and the option given by us ensures that the resolution plan meets the mandate of the Code and does not violate the rights given to the secured creditor, who cannot be treated as worse off/inferior in its claim and rights, viz, an operational creditor or a dissenting financial creditor. (P9.1)
+- In the end, we must meet the argument raised by the Respondent No. 1 – Dinkar Venkatasubramanian, resolution professional for the Corporate Debtor – Amtek and the Respondent No. 2 – the CoC of the Corporate Debtor – Amtek, that the present plea of the Appellant No.1 – Vistra to be treated as a financial creditor of the Corporate Debtor Amtek should be dismissed on the grounds of delay, laches and acquiescence. The submission is that the Appellant No. 1 - Vistra had not objected to the resolution plan submitted by the erstwhile resolution applicant LHG and, as a sequitur, its nonclassification as a financial creditor in the CoC of the Corporate Debtor Amtek. Though this argument had appealed and had weighed with the NCLAT, in our opinion is untenable since the resolution plan submitted by erstwhile resolution applicant LHG did not in any way affect the rights or interests of the Appellant No. 1 – Vistra as a secured creditor in respect of the pledged shares. Appellant No. 1 – Vistra has elaborately explained that LHG etc. were in negotiations with them so as to redeem the pledge and acquire the shares. (p10)
+- Hon’ble Supreme Court concludes that in view of our aforesaid findings, the impugned judgment of the NCLAT affirming the view taken by the NCLT is partly modified in terms of our directions holding that M/s. Vistra ITCL (India) Ltd. would be treated as a secured creditor, who would be entitled to all rights and obligations as applicable to a secured creditor in terms of Sections 52 and 53 of the Code, and in accordance with the pledge agreement dated 05.07.2016. Present appeal is disposed of in the above terms without any order as to costs. (p11)
+
+# Group Sections
+
+# Judgment/Order
+
+Print Date: June 6, 2024
+---
+#
+# Document
+
+# Segment 1: M. R. Shah, J.
+
+# Segment 2: Feeling aggrieved and dissatisfied with the impugned judgment and order dated 24.08.2020 passed by the National Company Law Appellate Tribunal (NCLT) passed in Company Appeal (AT) (Insolvency) No.703 of 2020 by which the NCLAT has dismissed the said appeal and has confirmed the order passed by the NCLAT passed in IA No.62/2020 in CP (IB) 42/Chd./Hry.2017 preferred by the appellant herein, the original applicant has preferred the present appeal.
+
+- Appellant: Original applicant
+- Impugned Judgment: 24.08.2020
+- Appellate Tribunal: National Company Law Appellate Tribunal (NCLT)
+- Case Number: Company Appeal (AT) (Insolvency) No.703 of 2020
+
+# Segment 3: Facts Leading to the Present Appeal
+
+- Corporate Debtor: Amtek Auto Limited
+- Loan Facility: INR 500 crores
+- Security: Pledge over 16,82,06,100 equity shares of JMT Auto Ltd.
+- Security Trustee Agreement: Executed between appellant no.1 and WLD
+
+# Segment 4: Resolution and Insolvency Proceedings
+
+- Resolution Professional: Mr. Dinkar T. Venkatasubramanian
+- Claim Amount: INR 500 crores
+- Resolution Plans: Liberty House Group Pvt. Ltd. (LHG) and Deccan Value Investors (DVI)
+- Approval of Resolution Plan: LHG approved by Adjudicating Authority
+
+# Segment 5: Conclusion
+
+Further proceedings were initiated before the NCLAT by the CoC, which are not relevant for the issue involved in the present appeal.
+---
+#
+# Document
+
+# Segment 2.4
+
+- Thereafter, the appellants filed another application under Section 60(5) of the IBC being I.A. No.62/2020 claiming the right on the basis of the pledged shares.
+- Court passed an order dated 08.06.2020 directing the Adjudicating Authority to decide the resolution plan and all pending applications and pass appropriate orders within 15 days.
+- Resolution Professional filed I.A. No.225 of 2020 seeking approval of the resolution plan on 12.06.2020.
+- Adjudicating Authority dismissed the application filed by the appellants being I.A. No.62 of 2020.
+- Order passed by the Adjudicating Authority dated 09.07.2020 in I.A. No.62 of 2020 was the subject matter of appeal before the NCLAT.
+- NCLAT dismissed the appeal by observing that the appellant no.1’s claim as ‘Secured Financial Creditor’ had been rejected in 2017.
+
+# Segment 2.5
+
+- Feeling aggrieved with the NCLAT's judgment, the original applicants have preferred the present appeal.
+
+# Group 3
+
+Shri Rakesh Dwivedi, learned Senior Advocate appeared for the appellant in C.A. No.3606 of 2020. Shri Shyam Divan, learned Senior Advocate appeared for the appellant in C.A. No.637273 of 2021. Shri Tushar Mehta, learned Solicitor General appeared for respondent no.1 – CoC.
+
+# Segment 3.1
+
+- Learned Senior Counsel submitted that the NCLT/NCLAT erred in observing the claim as a secured financial creditor was belated.
+- It was a case of continuing cause of action with no limitation under IBC for objecting to creditor categorization.
+
+# Segment 3.2
+
+- Limitation is connected with the principle of cause of action.
+
+# Segment 3.3
+
+- Continuous cause of action as various entities are required to consider correct categorization of claimants.
+
+# Segment 3.4
+
+- CIRP commenced on 24.07.2017, resolution plan submitted for voting from 07.02.2020 to 11.02.2020, approved by Adjudicating Authority on 09.07.2020.
+- Appellants challenged non-inclusion as financial secured creditor in CoC on 11.02.2020, 5 months before plan approval.
+---
+#
+# Document
+
+# Segment 3:
+
+- 3.5 On merits learned counsel appearing on behalf of the appellants have vehemently submitted that the decisions of this Court in the case of Anuj Jain Interim Resolution Professional for Jaypee Infratech Limited vs. Axis Bank Limited etc. etc.1 and Phoenix ARC Private Limited vs. Ketulbhai Ramubhai Patel2, are distinguishable and shall not be applicable to the facts of the case on hand.
+- 3.6 It is submitted that there is creditor-debtor relationship between the appellants and the Amtek Auto Limited. It is submitted that WLD and Brassco took loans from the appellant nos.2 and 3 through appellant no.1 for the end use and ultimate benefit of the Corporate Debtor. In order to establish a direct debtor-creditor relationship, reliance is placed on the Board Resolution of Amtek Auto dated 13.06.2016; no objection certificate requested by Amtek Auto on 23.12.2015; no objection certificate requested by Amtek Auto on 26.03.2016 from IDBI; No objection certificate issued by IDBI Bank to Vistra ITCL etc. It is submitted that from the aforesaid it is clear that Amtek obtained monies from Appellant Nos.2 & 3 when it was in financial distress, which fact the banks were aware of since the reason for obtaining these loans was to ‘standardize’ Amtek’s loan account with the banks.
+- 3.7 It is vehemently submitted that the pledge of shares constituted as financial debt under the IBC is defined as Security Interest under Section 3(31) of the IBC.
+
+# Segment 4:
+
+- Shri Tushar Mehta, learned Solicitor General appearing on behalf of respondent no.2 has vehemently submitted that the appellant had filed its claim with the Resolution Professional on 02.11.2017 which was rejected and the same was duly reflected in the list of creditors published on the website of the Corporate Debtor. It is submitted that the said rejection has never been challenged by the appellant. It is submitted that even in various communications exchanged, the appellant no.1 raised no challenge to non-acceptance of its claim but rather put forth an absurd request to the Resolution Professional to ensure that the pledged shares are not to be dealt with in any manner without the prior written consent of the appellant no.1. It is submitted that therefore the appellant on 11.02.2020 had filed an application before the NCLT that too not in challenge to its claim rejection but for seeking admission into the CoC. It is submitted that since the said application was filed belatedly the same is rightly rejected by the NCLT and is rightly confirmed by the NCLAT.
+- 4.1 Shri Mehta, learned Solicitor General has further submitted that the issue involved in the present appeal is squarely covered by this Court in the case of Anuj Jain (supra) and Phoenix ARC Private Limited (supra). It is submitted that the appellants could not qualify to be financial creditors of the Corporate Debtor. It is submitted that there is only a third-party security given in form of pledged shares with respect to the amounts advanced by the appellants to affiliates of the Corporate Debtor. Thus, the appellants cannot be considered as financial creditor of the Corporate Debtor.
+
+# Segment 5:
+
+The issue and legal question are partly covered by two decisions of this Court namely, Anuj Jain (supra) and Phoenix ARC Private Limited (supra). We will first examine the decisions in these
+---
+#
+
+# Document
+
+# Segment 5: Cases and Contention
+
+- Anuj Jain Case: The issue in this case was whether the lenders of Jaypee Associates Limited (JAL) were considered 'financial creditors' of Jaypee Infratech Limited (JIL) under the Insolvency and Bankruptcy Code, 2016. It was emphasized that financial creditors play a crucial role in the Corporate Insolvency Resolution Process and are interested in the revival of the Corporate Debtor.
+- Phoenix ARC Case: In this case, Doshion Veolia had pledged shares as security to L&T Infrastructure Finance Company Limited. The court observed that this pledge did not constitute 'financial debt' as per the Code, therefore the appellant was not considered a financial creditor of the corporate debtor.
+
+# Key Points:
+
+- Financial Creditors: Financial creditors have a vested interest in the revival and growth of the Corporate Debtor, unlike secured creditors who are primarily concerned with realizing the value of their security.
+- Definition of Financial Debt: The definition of 'financial debt' under Section 5(8) of the Code is crucial in determining the status of creditors in insolvency proceedings.
+
+# Group Section: Observations
+
+In the Phoenix ARC case, the court referred to Chapter VIII of the Indian Contract Act, 1872, specifically discussing the definitions of 'indemnity' and 'guarantee' under Sections 124 and 126.
+
+# Segment 5.1: Anuj Jain Case
+
+The Anuj Jain case dealt with the status of lenders as 'financial creditors' of the Corporate Debtor and highlighted the unique role of financial creditors in the insolvency resolution process.
+
+# Segment 5.2: Phoenix ARC Case
+
+In the Phoenix ARC case, the court examined the pledge agreement between Doshion Veolia and L&T, concluding that it did not amount to 'financial debt' under the Code.
+
+# Segment 5.3: Observations on Pledge Agreement
+
+The court in the Phoenix ARC case noted that the pledge agreement did not meet the criteria of 'financial debt' as defined in the Code, thereby affecting the appellant's status as a financial creditor.
+
+# Segment 5.4: Reference to Indian Contract Act
+
+Phoenix ARC case referred to Chapter VIII of the Indian Contract Act, 1872, discussing the distinctions between 'indemnity' and 'guarantee' in the context of the pledge agreement.
+---
+#
+
+# Segment 1
+
+- are all contained in the facility agreement. A contract of guarantee contains a guarantee “to perform the promise or discharge the liability of third person in case of his default”. Thus, key words in Section 126 are contract “to perform the promise”, or “discharge the liability”, of a third person. Both the expressions “perform the promise” or “discharge the liability” relate to “a third person”.
+
+# Segment 2
+
+- Reference is made to the expression ‘pledge’ as defined in Section 172 of the Contract Act and it has been held:
+- “26. …..The pledge agreement dated 10-1-2012 does not contain any contract that the corporate debtor has contracted to perform the promise, or discharge the liability of the third person…….
+- 30. The words “guarantee” and “indemnity” as occurring in Section 5(8) (i) has not been defined in the Code. Section 3 clause (37) of the Code provides that words and expressions used but not defined in the Code but defined in the Contract Act, 1872 shall have the meanings respectively assigned to them.”
+
+# Segment 3
+
+- The decision in Phoenix ARC (supra) has also relied upon and reproduced paragraphs 46-50.2 of the decision in Anuj Jain (supra) (referred to as Jaypee Infratech Interim Resolution Professional v. Axis Bank in the aforesaid judgment), and thereupon observes:
+- “36. This Court held that a person having only security interest over the assets of corporate debtor, even if falling within the description of “secured creditor” by virtue of collateral security extended by the corporate debtor, would not be covered by the financial creditors as per definitions contained in clauses (7) and (8) of Section 5. What has been held by this Court as noted above is fully attracted in the present case where corporate debtor has only extended a security by pledging 40,160 shares of GEL. The appellant at best will be secured debtor qua above security but shall not be a financial creditor within the meaning of Section 5 clauses (7) and (8).
+- 37. Mr Vishwanathan tried to distinguish the judgment of this Court in Jaypee Infratech Ltd. [Jaypee Infratech Ltd. Interim Resolution Professional v. Axis Bank Ltd., (2020) 8 SCC 401] by contending that the above judgment has been rendered in the specific facts scenario which does not apply to the present case at all. Shri Vishwanathan submits that in Jaypee Infratech Ltd. [Jaypee Infratech Ltd. Interim Resolution Professional v. Axis Bank Ltd., (2020) 8 SCC 401] corporate debtor had created mortgage for the loan obtained by the parent Company and no benefit of such loan has been received by the corporate debtor whereas in the present case corporate debtor has been the direct and real beneficiary of the loan advanced by assignor to the parent Company of the corporate debtor.”
+
+# Segment 4
+
+- 5.6 We have specifically quoted paragraph 37 in the decision ofPhoenix ARC (supra) as the counsel for the appellant therein, had also argued before us to distinguish the decisions of Anuj Jain (supra) and Phoenix ARC (supra) from the instant case, on the ground that the Short Term Loan Facilities (STL Facilities) advanced by the Appellant No. 1 - Vistra in the present case to the group companies of the Corporate Debtor – Amtek Auto Limited (Amtek) i.e., Brassco Engineering Limited (Brassco) and WLD Investments Private Limited (WLD) vide Facility Agreement dated 30.06.2016 (Facility Agreement), was in fact for the enduse and benefit of the Corporate Debtor – Amtek.
+---
+#
+
+# Segment 1
+
+- said reasoning does not appeal to us for the reason that the liability to repay the STL Facilities advanced to Brassco and WLD is that of the said companies, and that not of the Corporate Debtor Amtek, even if the latter was, as per the terms of the Facility Agreement, the ultimate beneficiary of the amount disbursed through the STL Facilities. The aforesaid decisions cannot be distinguished on the ground that the loans were not for the end use and benefit of JIL or Doshion Veolia. The Corporate Debtor – Amtek was not liable to repay the loans advanced by the predecessor-in-interest of the appellant Vistra, in respect of which there were detailed and separate agreements executed by the lenders with Brassco and WLD.
+
+# Segment 2
+
+- It was submitted before us that the Amended and Restated Pledge Agreement dated 5.07.2016 between the corporate debtor – Amtek and the IL&FS Trust Company Limited, the predecessor-in--interest of the Appellant No. 1 - Vistra (Pledge Agreement)inter alia provides that the Corporate Debtor Amtek is the guarantor of the entire loan amount, for which reliance was placed upon clause 2.1.2 of the Pledge Agreement. This contention is liable to be rejected, for the Pledge Agreement specifically restricts and limits the liability of the Corporate Debtor to the extent of the pledged shares vide clause 2.1.1.
+
+# Group Section 1
+
+- 2.1.1 Pursuant to the Financing Documents and in consideration of the Identified Lenders having entered into and/or agreed to enter into the Financing Documents in respect of each of the Facilities, the Pledgor covenants and agrees with the Identified Lenders that it shall comply with the provisions of the Financing Documents in relation to each of the Facilities and shall repay, pay and/or discharge the Outstanding Amounts in relation to the Identified Debt in accordance with the terms set out herein and therein. Provided that the Pledgor shall not be required to pay to any Finance Party any amount in excess of the aggregate amount realized by the Trustee pursuant to an enforcement of the Security Interest over the Pledged Shares in accordance with the terms of this Pledge Agreement.
+
+# Segment 3
+
+- Similarly, reliance has also been placed by the Corporate Debtor – Amtek on certain communications issued by the IDBI Bank, the lead bank of the Joint Lenders Forum, which now constitutes the majority of the CoC of the corporate debtor – Amtek, permitting the pledge of shares etc. We observe that these communications have to be read and understood in the context in which they were written. It was clear and understood by the financial creditors of the corporate debtor – Amtek that the corporate debtor – Amtek is not to bear any additional financial liability by a security or charge of its assets for the STL Facilities, and the loans were being procured and taken by Brassco and WLD from the Appellant Nos. 2 and 3, namely, KKR India Financial Services Limited and L&T Finance Limited. It was stipulated that the assets of the Corporate Debtor – Amtek would not be encumbered in anyway, and except for shares given as security, and the burden to repay/discharge the loan was/is upon Brassco and WLD. IDBI Bank had only permitted the corporate debtor – Amtek to pledge the shares in question, and to this extent, they did not have any objection.
+
+# Segment 4
+
+- Appellant No. 1 - Vistra is a secured creditor to the extent of the shares pledged to it by the Corporate Debtor Amtek. It holds the first right in pledge on 66.77% shareholding in JMT Auto Limited. The expression ‘security interest’ as defined in Section 3(31) of the Code states that it means right, title, interest or a claim to a property created in favour, or provided for a secured
+---
+#
+
+# Segment 7: Pledge Concept
+
+The concept of ‘pledge’ has been elucidated by this Bench in PTC India Financial Services Limited v. Venkateswarlu Kari and Another with reference to the provisions of contract of, bailment and specific provisions concerning the pledge, a subset of bailments, in the following manner:
+
+1. As per Section 151, a bailee is bound to take as much care of the goods bailed to him as a man of ordinary prudence would, under similar circumstances, take of his goods of the same bulk, quality and value as the goods bailed. Section 152 states that a bailee, in the absence of a special contract, will not be liable for any loss, destruction, or deterioration of the bailed goods if he acts in conformity with Section 151. As per Section 153, a contract for bailment is voidable at the option of the bailor if the bailee does any act with regard to the goods bailed, inconsistent with the conditions of the bailment. Section 154 lays down that the bailee shall be liable for damage arising from unauthorised use of the bailed goods. The bailee, with the consent of the bailor, can mix the goods bailed with his own goods, in which event, the bailor and the bailee will have interest in proportion to their respective shares in the mixture. [Section 155, Contract Act.] However, if the bailee, without the bailor’s consent, mixes the bailed goods with his own, and the goods can be separated or divided, the property in the goods remain with the parties respectively. [Section 156, Contract Act.]
+2. Further, the bailee is bound to bear the expense of separation or division of the goods, as well as any damage arising from the mixture. Section 157 provides that when the goods are so mixed without the bailor’s consent and cannot be separated, the bailor is liable to be compensated, and the bailee is liable for the loss.
+3. Under Section 160, the bailee has to return or deliver, as per the bailor’s directions, the goods, without demand, as soon as the time for which they were bailed has expired or the purpose for which they were bailed has been accomplished. Section 161 states that if there is a default by the bailee and the goods are not returned, delivered, or tendered at the proper time, the bailee is responsible to the bailor for any loss, destruction, or deterioration of the goods from that time. As per Section 163, in the absence of any contract to the contrary, the bailee is bound to deliver to the bailor, or in accordance with his directions, any increase or profit that may accrue from the goods bailed.
+4. Section 172 of the Contract Act is reproduced as under:
+
+“172. “Pledge”, “pawnor” and “pawnee” defined.—The bailment of goods as security for payment of a debt or the performance of the promise, is called a “pledge”. The bailor is in this case called the “pawnor”. The bailee is called the “pawnee”.”
+---
+#
+
+# Segment 1: Laws on Pledge
+
+As per Section 172, creating a valid pledge requires delivery of the possession of goods by the pawnor to the pawnee by way of security upon the promise of repayment of a debt or the performance of a promise, thereby, creating an estate that vests with the pawnee.
+
+# Segment 2: Default by Pawnor
+
+As per Section 176, when a pawnor makes a default in payment of debt or performance of a promise, the pawnee may bring a suit against the pawnor upon such debt or promise and retain the goods pledged as collateral security, or he may sell the goods pledged upon giving the pawnor reasonable notice of the sale. If the pledged goods are sold, and the proceeds of such sale are less than the amount due in respect of the debt or promise, the pawnor is still liable to pay the balance amount to the pawnee. If the proceeds of such sale exceed the amount due, the pawnee will be liable to pay the surplus to the pawnor.
+
+# Segment 3: Rights of Pawnor
+
+Section 177 gives statutory right to the pawnor, who is at default in payment of the debt or performance of the promise, to redeem the pledged goods at any time before “actual sale” by the pawnee. However, in such cases, the pawnor must pay in addition the expenses that have arisen from his default. Section 179 states that the limited interest that a pawnor has in the goods can be validly pledged.
+
+# Segment 4: Special Rights of Pawnee
+
+The law of pledge contemplates special rights for the pawnee in the goods pledged, i.e., the right to possession of the security, and in case of default, the right to bring a suit against the pawnor, as well as the right to sell the goods after giving reasonable notice to the pawnor. The general rights or ownership rights in the property remain with the pawnor, and wholly reverts to him on discharge of the debt or performance of the promise. In other words, the right to property vests in the pawnee only as far as it is necessary to secure the debt.
+
+# Segment 5: Resolution Plan and Pledge Agreement
+
+In light of the aforesaid exposition, the second issue which arises for consideration is whether the resolution plan can dilute, negate, or override the pledge agreement because a resolution plan to this effect has been approved by the CoC. Revisiting this issue is important, as Anuj Jain (supra) had interpreted the provisions as they existed prior to substitutions of several provisions of the Code by Act No. 26 of 2018 with retrospective effect from 6.06.2018 and Act No. 26 of 2019 with effect from 16.08.2019. In particular, we would like to make reference to the amended Section 30(2) of the Code, which post the substitution by Act No. 26 of 2019, reads as under:
+
+# Section 30. Submission of Resolution plan.
+
+The resolution professional shall examine each resolution plan received by him to confirm that each resolution plan:
+
+- provides for the payment of insolvency resolution process costs in a manner specified by the Board in priority to the payment of other debts of the corporate debtor;
+- provides for the payment of debts of operational creditors in such manner as may be specified by the Board which shall not be less than:
+---
+#
+
+# IBC Laws
+
+# Segment 1
+
+distributed under the resolution plan had been distributed in accordance with the order of priority in sub-section (1) of Section 53,
+
+# Segment 2
+
+- whichever is higher, and provides for the payment of debts of financial creditors, who do not vote in favour of the resolution plan, in such manner as may be specified by the Board, which shall not be less than the amount to be paid to such creditors in accordance with sub-section (1) of Section 53 in the event of a liquidation of the corporate debtor.
+
+# Segment 3
+
+Explanation 1.—For the removal of doubts, it is hereby clarified that a distribution in accordance with the provisions of this clause shall be fair and equitable to such creditors.
+
+Explanation 2.—For the purposes of this clause, it is hereby declared that on and from the date of commencement of the Insolvency and Bankruptcy Code (Amendment) Act, 2019, the provisions of this clause shall also apply to the corporate insolvency resolution process of a corporate debtor—
+
+- (i) where a resolution plan has not been approved or rejected by the Adjudicating Authority;
+- (ii) where an appeal has been preferred under Section 61 or Section 62 or such an appeal is not time barred under any provision of law for the time being in force; or
+- (iii) where a legal proceeding has been initiated in any court against the decision of the Adjudicating Authority in respect of a resolution plan;
+
+# Segment 4
+
+- (c) provides for the management of the affairs of the corporate debtor after approval of the resolution plan;
+- (d) the implementation and supervision of the resolution plan;
+- (e) does not contravene any of the provisions of the law for the time being in force;
+- (f) conforms to such other requirements as may be specified by the Board.
+
+Explanation.—For the purposes of clause (e), if any approval of shareholders is required under the Companies Act, 2013 (18 of 2013) or any other law for the time being in force for the implementation of actions under the resolution plan, such approval shall be deemed to have been given and it shall not be a contravention of that Act or law.
+
+# Segment 5
+
+The amendment introduced by Act No. 26 of 2019 ensures that the operational creditors under the resolution plan should be paid the amount equivalent to the amount which they would have been entitled to, in the event of liquidation of the Corporate Debtor under Section 53 of the Code. In other words, the amount payable under the resolution plan to the operational creditors should not be less than the amount payable to them under Section 53 of the Code, in the event of liquidation of the Corporate Debtor. The amended provision also provides that the financial creditors who have not voted in favour of the resolution plan shall be paid not less than the amount which would be paid to them in accordance with sub-section (1) to Section 53 of the Code, in the event of liquidation of the
+
+Print Date: June 6, 2024
+---
+#
+# Document
+
+# Segment 8
+
+- 8.1 It is also the mandate of Section 31 of the Code7 that the adjudicating authority should be satisfied that the resolution plan, as approved by the CoC under sub-section (4) of Section 30 meets with the requirement as referred to in sub-section (2) of Section 30. Only then, the adjudicating authority shall approve the resolution plan, which shall then be binding on the Corporate Debtor and its employees, members, creditors, guarantors and other stakeholders involved in the resolution plan.
+- 8.2 Section 30(2)(e) also requires the resolution professional to examine each resolution plan received by him/her and confirm that it does not contravene any provisions of law for the time being in force. Thus, the amended Section 30(2) read with Section 31 of the Code, enunciates the manner in which the interests of the creditors who are not included in the CoC i.e., the operational creditors and the financial creditors who have not voted in favour of the resolution plan, must be protected in the resolution plan by the resolution professional and the adjudicating authority.
+- 8.3 It is in this context that the Appellant No. 1 - Vistra submits that the resolution plan in question does not meet the requirements of the Code, as it extinguishes and vaporises the pledge created in favour of the Appellant No. 1 – Vistra, and thereby, Appellant No. 1 – Vistra, a secured creditor, viz, the pledged shares, is left remediless and worse off than the dissenting financial creditors, or even the operational creditors.
+- 8.4 The difficulty which arises in the present case is that, in terms of the decision of this Court in Anuj Jain (supra) and Phoenix ARC (supra), Appellant No. 1 - Vistra is to be treated as a secured creditor, but would not fall under the category of financial creditors or operational creditors. Therefore, they would be denied the benefit of the amendments to Section 30(2) of the Code made vide Act No. 26 of 2019, or for that matter Act No. 26 of 2018. Consequently, a very odd and a peculiar situation is created where a secured creditor is denied the benefit of the secured interest i.e., the right to exercise the sale of the secured interest, yet not be treated as either a financial creditor or an operational creditor.
+
+# Segment 9
+
+Thus, we are presented with a difficult situation, wherein, Appellant No.1 – Vistra, a secured creditor, is being denied the rights under Section 52 as well as Section 53 of the Code in respect of
+---
+#
+# IBC Laws
+
+# Segment 9
+
+- The first option is to treat the secured creditor as a financial creditor of the Corporate Debtor to the extent of the estimated value of the pledged share on the date of commencement of the CIRP.
+- This would make it a member of the CoC and give it voting rights, equivalent to the estimated value of the pledged shares.
+- However, this may require re-consideration of the dictum and ratio of Anuj Jain (supra) and Phoenix ARC (supra), which would entail reference to a larger bench.
+- The second option is to treat the Appellant No. 1 – Vistra as a secured creditor in terms of Section 52 read with Section 53 of the Code.
+- The successful resolution applicant – DVI (Deccan Value Investors) would have the option to treat the Appellant No.1 – Vistra as a secured creditor, entitled to retain the security interest in the pledged shares.
+
+# Segment 9.1
+
+We wish to clarify that the directions given by us would not be a ground for the successful resolution applicant – DVI to withdraw the resolution plan which has already been approved by the NCLAT and by us.
+
+Any resolution plan must meet the requirements/provisions of the Code and any provisions of law for the time being in force.
+
+# Segment 10
+
+The argument raised by the Respondent No. 1 – Dinkar Venkatasubramanian and the Respondent No. 2 – the CoC of the Corporate Debtor – Amtek, that the plea of the Appellant No.1 – Vistra to be treated as a financial creditor of the Corporate Debtor Amtek should be dismissed on the grounds of delay, laches, and acquiescence is untenable.
+
+# Segment 11
+
+The impugned judgment of the NCLAT affirming the view taken by the NCLT is partly modified in terms of our directions holding that appellant no.1 – M/s. Vistra ITCL (India) Limited would be treated as a secured creditor, entitled to all rights and obligations as applicable to a secured creditor in terms of Sections 52 and 53 of the Code, and in accordance with the pledge agreement dated 05.07.2016.
+---
+#
+# Document
+
+# References
+
+1. (2020) 8 SCC 401.
+2. (2021) 2 SCC 799.
+3. For short, Code.
+4. The mortgage by JIL in favour of creditors of JAL were, in fact, set aside in terms of Section 43 of the Code, albeit this Court had opined on the legal issue on the assumption even if the mortgage was valid.
+5. For short, CIRP.
+6. (2022) 9 SCC 704.
+
+# 31. Approval of resolution plan
+
+If the Adjudicating Authority is satisfied that the resolution plan as approved by the committee of creditors under sub-section (4) of Section 30 meets the requirements as referred to in sub-section (2) of Section 30, it shall by order approve the resolution plan which shall be binding on the corporate debtor and its employees, members, creditors, including the Central Government, any State Government or any local authority to whom a debt in respect of the payment of dues arising under any law for the time being in force, such as authorities to whom statutory dues are owed, guarantors and other stakeholders involved in the resolution plan:
+
+Provided that the Adjudicating Authority shall, before passing an order for approval of resolution plan under this sub-section, satisfy that the resolution plan has provisions for its effective implementation.
+
+For short, Liquidation Process Regulations.
+
+Original judgment copy is available here.
+
+Print Date: June 6, 2024

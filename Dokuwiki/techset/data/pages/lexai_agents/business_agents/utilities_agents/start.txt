@@ -1,0 +1,49 @@
+Maximize Enterprise Efficiency with LexAI Agents
+
+
+LexAI Agents categorized as utilities are designed to seamlessly integrate across multiple enterprise functions, providing unparalleled flexibility and efficiency. These adaptable agents enhance a wide range of processes and subprocesses, enabling businesses to scale operations, streamline workflows, and improve outcomes across departments such as Marketing, Sales, Customer Support, IT, and more.
+
+
+ 
+  * [[utilities_agents:Content Extractor Agent]] - Extracts and interprets content from various file types, including text, images, and data, using Multimodal Language Models.
+  * [[utilities_agents:Content Extractor Agent]] - Extracts textual content from scanned or image-based documents using OCR, converting unstructured data into editable, searchable text for easy retrieval.
+  * [[utilities_agents:Multi-format Document Summary Agent]] - Automatically generates concise, contextual summaries from documents of various formats to speed up reviews, decisions, and knowledge sharing.
+  * [[utilities_agents:Contextual Email Response Drafting Agent]] - Generates context-aware response drafts to inbound queries, accelerating communication while ensuring relevance, consistency, and professional tone.
+  * [[utilities_agents:Document Translation AI Agent]] - Automatically translates content into the desired language, preserving context, formatting, and industry-specific terminology.
+  * [[utilities_agents:Cultural and Ethical Compliance Agent]] - Monitors content for cultural biases, inclusivity, gender neutrality, regional sensitivity, and adherence to accessibility standards.
+  * [[utilities_agents:Dynamic Knowledge Base Creation Agent]] - Creates and updates a knowledge base based on provided input resources, ensuring that the information remains current and comprehensive.
+  * [[utilities_agents:Redundancy Deduction Guardrail Agent]] - Ensures outputs are concise, unique, and free of repetitive or redundant language, enhancing clarity and readability.
+  * [[utilities_agents:Format and Structure Guardrail Agent]] - Validates correct output formats and structures for seamless integration with downstream systems or end-user consumption.
+  * [[utilities_agents:Brand Guidelines Guardrail Agent]] - Ensures all content aligns with brand values and guidelines by validating inputs against guideline documents in the knowledge base.
+  * [[utilities_agents:Content Moderation Guardrail Agent]] - Validates generated content to ensure adherence to safety and community guidelines by detecting profanity, hate speech, NSFW material, threats, and harassment.
+  * [[utilities_agents:Regulatory Compliance Monitoring Agent]] - Monitors government regulation pages, maintains a queryable knowledge base of regulations, and sends summaries of regulatory changes to stakeholders.
+  * [[utilities_agents:Content Extractor Agent]] - Extracts content from PDFs, Docx, txt, and ppt files using multimodal LLM and OCR capabilities, ensuring accessible and organized data.
+  * [[utilities_agents:Calendar Invite Creation Agent]] - Automatically creates calendar invites based on meeting notes, ensuring all stakeholders are aligned on scheduled activities.
+  * [[utilities_agents:Renewal Notification Agent]] - Sends automated notifications to customers about upcoming renewals, ensuring timely reminders for uninterrupted services.
+  * [[utilities_agents:Dispute Data Orchestration Agent]] - Orchestrates the extraction, normalization, and consolidation of dispute data from multiple systems into a unified format for streamlined analysis and resolution.
+  * [[utilities_agents:Dispute Case Routing Agent]] - Streamlines the routing of newly detected and classified dispute cases to the right workflows or teams for timely resolution.
+  * [[utilities_agents:Project Status Email Agent]] - Generates clear and professional status update emails using comprehensive project data and team-specific progress inputs.
+  * [[utilities_agents:Secure Doc Assistance Agent]] - Quickly get answers, summaries, and insights from your PDFs with the help of the Secure Doc Assistant Agent.
+  * [[utilities_agents:Email Triage Agent]] - Automatically organizes your Gmail inbox by priority and action type, making email management faster, smarter, and stress-free.
+  * [[utilities_agents:Instructional Guide Drafting Agent]] - Automatically generates detailed, user-adapted instructional guides, including step-by-step tutorials, troubleshooting advice, and contextual tooltips.
+  * [[utilities_agents:Feedback to Tutorial Generation Agent]] - customer feedback or queries into comprehensive, solution-oriented tutorials to improve customer self-service and reduce support load.
+  * [[utilities_agents:Feature Release Outline Agent]] - Generates a simple outline for each feature flag, covering the overview, value proposition, and basic user flow.
+  * [[utilities_agents:Unified Calendar Insight Agent]] - Aggregates events from multiple calendar platforms into a unified, intelligent interface that offers real-time synchronization, context-aware summaries, and personalized scheduling recommendations.
+  * [[utilities_agents:Synthetic Training Data Creation Agent]] - Generates realistic and targeted synthetic data to train machine learning models for intelligent agents, ensuring the data aligns with specific use cases and workflows for better performance.
+  * [[utilities_agents:Jira Conversational Insights Agent]] - Leverages JQL and NLP to provide quick, context-driven insights from Jira tickets, attachments, and procedural documents.
+  * [[utilities_agents:AI Due Diligence Agent]] - Automates company research by gathering and analyzing data from multiple sources, streamlining due diligence with real-time insights, financial analysis, and risk monitoring.
+  * [[utilities_agents:Salesforce Knowledge Creation Agent]] - Automates knowledge article generation from resolved cases in Salesforce, enhancing efficiency and reducing redundancy.
+  * [[utilities_agents:Rebate Analysis AI Agent]] - Automates rebate calculations, ensuring accuracy, compliance, and efficiency in financial reconciliation.
+  * [[utilities_agents:Regulatory Compliance Monitoring Chat Agent]] - Acts as a chatbot interface for querying the regulatory compliance knowledge base, providing accessible insights to different stakeholders.
+  * [[utilities_agents:Dispute Resolution AI Agent]] - Resolves disputes related to debit notes and claims by analyzing contracts, delivery records, and shipping information to ensure accurate resolutions.
+  * [[utilities_agents:Contract Compliance Tracker Agent]] - Tracks project milestones, timelines, and deliverables to ensure alignment with the terms of the signed contract.
+  * [[utilities_agents:Meeting Preparation Agent]] - Provides meeting preparation reports with details about external attendees, enhancing meeting effectiveness.
+  * [[utilities_agents:Document Comparison Agent]] - Compares documents to previous versions, ensuring consistency, accuracy, and compliance with predefined standards.
+  * [[utilities_agents:Resource Assignment Agent]] - Assigns resources to service requests based on availability and expertise.
+  * [[utilities_agents:Service Request Follow-Up Agent]] - Tracks open service requests and sends follow-up reminders to ensure timely completion and customer satisfaction.
+  * [[utilities_agents:Service Agreement Generator Agent]] - Automatically generates service agreements for new or renewing customers, streamlining administrative tasks.
+  * [[utilities_agents:Customer Satisfaction Scoring Agent]] - Generates customer satisfaction scores from feedback to monitor service quality over time, enabling proactive adjustments to improve customer experience.
+  * [[utilities_agents:Meeting Notes Extraction Agent]] - Automatically extracts key points, action items, and decisions from meeting transcripts, organizing them for easy access.
+  * [[utilities_agents:Ticket Creation Agent]] - Creates support tickets automatically based on incoming queries, ensuring swift tracking and resolution of customer requests.
+  * [[utilities_agents:Feedback Collection Agent]] - Automatically collects and categorizes feedback from customer interactions, improving service quality and tracking common issues.
+  * [[utilities_agents:Compliance Check Agent]] - Cross-checks organizational processes and outputs with regulatory guidelines, flagging instances of non-compliance for resolution.

@@ -1,0 +1,19 @@
+\\
+
+<WRAP safety>**[[investors:investment_teasers:teasers:investor_search|INVESTOR SOLICITATION]]**</WRAP>
+<WRAP caution>**[[investors:investment_teasers:teasers:due_diligence|DUE DILIGENCE]]**</WRAP>
+<WRAP danger>**[[investors:investment_teasers:teasers:expression_of_interest|EXP. OF INTEREST]]**</WRAP>
+<WRAP warning>**[[investors:investment_teasers:teasers:information_memorandum|INFO. MEMORANDUM]]**</WRAP>
+<WRAP notice>**[[investors:investment_teasers:teasers:resolution_planning|RESOLUTION PLANNING]]**</WRAP>
+
+/**
+<WRAP important>**[[investors:investor_services:due_diligence|DUE DILIGENCE]]**</WRAP>
+<WRAP info>**[[investors:investor_services:expression_of_interest|EXPRESSION OF INTEREST]]**</WRAP>
+<WRAP alert>**[[investors:investor_services:information_memorandum|INFORMATION MEMORANDUM]]**</WRAP>
+<WRAP tip>**[[investors:investor_services:resolution_planning|RESOLUTION PLAN]]**</WRAP>
+<WRAP help>**[[investors:investor_services:xxxxxxx|xxxxxxx]]**</WRAP>
+<WRAP download>**[[investors:investor_services:xxxxxx|xxxxx]]**</WRAP>
+<WRAP todo>**[[investors:investor_services:xxxxx|xxxxxxxx]]**</WRAP>
+**/
+
+

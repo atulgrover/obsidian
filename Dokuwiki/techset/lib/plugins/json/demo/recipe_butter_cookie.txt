@@ -1,0 +1,10 @@
+{
+  "name": "Butter cookie",
+  "type": "cookie",
+  "Ingredients": {
+    "eggs": "3",
+    "flour": "500 g",
+    "sugar": "300 g",
+    "butter": "250 g"
+  }
+}

@@ -1,0 +1,917 @@
+<html>
+<p>
+	<p>
+		<p>
+			Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.
+		</p>
+	</p>
+	<h2>
+		National Company Law Appellate Tribunal
+	</h2>
+	<h2>
+		Neeraj Jain vs Cloudwalker Streaming Technologies ... on 24 February, 2020
+	</h2>
+	<p>
+		 NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI Company Appeal (AT) (Insolvency) No. 1354 of 2019[Arising out of Impugned Order dated 24th October 2019 passed by theHon'ble National Company Law Tribunal, Bengaluru Bench, Bengaluru inC.P. (IB) No.260/BB/2019]IN THE MATTER OF:Neeraj JainDirector of M/s Flipkart India Private Limitedhaving its office at:Buildings Alyssa Begonia and B CloveEmbassy Tech Village, Outer Ring RoadDevarabeesanahalli VillageBengaluru - 5610103 ...AppellantVersus1. Cloudwalker Streaming Technologies Private Limited having its registered office at: 503-505, Business Suites 9, S.V. Road, Santacruz (West), Mumbai Bandra Suburban Maharashtra - 400054 IN ...Respondent No.12. Flipkart India Private Limited having its office at: Buildings Alyssa Begonia and B Clove Embassy Tech Village, Outer Ring Road Devarabeesanahalli Village Bengaluru - 5610103 ...Respondent No.2Present:For Appellant : Mr Kapil Sibal, Senior Advocate Mr Arun Kathpalia, Senior Advocate along with Ms Misha, Mr VaijayantPaliwal, Mr Nikhil Mathur, Mr Kauser Hussain, Ms Diksha Gupta and Ms Bani Brar, AdvocatesFor Respondent : Mr Rajinder Kumar, Senior Advocate Mr Rajiv K. Garg, Mr Ajit, Mr Ashish Garg, Mr Govind Singh, Mr Hari Khurana and Mr Arjun Singh, Advocates for (R-1) Ms Anannya Ghosh, Mr Dushyant Manocha and Mr Brian Henry Moses, Advocates for Respondent (R-2)Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 1 of 63 J U D G M E N T
+	</p>
+	<p title="Issue" data-structure="Issue">
+		[Per; V. P. Singh, Member (T)] This Appeal emanates from the Order passed by the Adjudicating Authority/National Company Law Tribunal, Bengaluru Bench, Bengaluru in C.P. (IB) No.260/BB/2019, whereby the Adjudicating Authority has admitted the Application for initiation of Corporate Insolvency Resolution Process (‗CIRP') against the ‗Corporate Debtor', filed under Section 9 of the Insolvency and Bankruptcy Code (in short ‗I&amp;B Code') on 24th October 2019, in the case of Neeraj Jain, Director of M/s Flipkart India Private Limited Vs. M/s Cloudwalker Streaming Technologies Pvt. Ltd. The parties are referred to by their original status in the Company Petition for the sake of convenience.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		2. Brief facts of the case are as follows:
+	</p>
+	<p title="Fact">
+		The Company Petition No. CP (IB) No. 260/BB/2019 is filed by M/s Cloudwalker Streaming Technologies Pvt. Ltd., under Section 9 of Insolvency &amp; Bankruptcy Code, 2016 against the ‗Corporate Debtor' M/s Flipkart India Private Limited on the ground that it has committed default for an amount of Rs.26,95,00,000/- (Rupees twenty-six crore ninety-five lacs only).
+	</p>
+	<p title="Fact" data-structure="Facts">
+		3. The Operational Creditor M/s Cloudwalker Streaming Technologies Private Limited contends that the Corporate Debtor Flipkart India Private Limited contacted the Operational Creditor and showed interest in selling its product of LED TVs. The Operational Creditor and Corporate Debtor subsequently entered into a Supply Agreement dated 29th December 2016. Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 2 of 63 The Operational Creditor had been importing and supplying LED TVs to the Corporate Debtor from time to time, under purchase orders as per Clause 2(a) of the Supply Agreement placed by the ‗Corporate Debtor', which provides for the manner of order placement. The ‗Corporate Debtor' used to place purchase orders through e-mails which were duly acknowledged by the Operational Creditor. After receiving the said purchase order, Operational Creditor used to import and procure the required quantities of LED TVs and deliver the same to the ‗Corporate Debtor' at its desired location.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		The ‗Corporate Debtor' received delivery of the first few batches of LED TVs under the purchase orders dated 07th January 2017 and 16th January 2017 and made prompt delivery of the same. After that, the ‗Corporate Debtor' avoided taking delivery of the LED TVs on the ground of lack of warehouse space. The Operational Creditor, in good faith, warehoused the said LED TVs for a temporary period on behalf of the ‗Corporate Debtor'. There was no delay in the delivery of the said material. On the other hand, the ‗Corporate Debtor' delayed collecting the LED TVs, and in some instances did not collect them at all. In an attempt to gain more profit out of the goods ordered, the ‗Corporate Debtor' was putting pssure on the Operational Creditor to offer the already imported and warehoused LED TVs, at a discounted price. The Operation Creditor, facing huge losses and a liquidity crunch, agreed to offer the said discount, on the condition that the ‗Corporate Debtor' forthwith will take the delivery of the remaining LED TVs, purchased by it and will make payment for the same. The Operational Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 3 of 63 Creditor had paid excess custom duties because LED TVs were still in the customs warehouse, as the ‗Corporate Debtor' had delayed in providing a delivery schedule. The Operational Creditor demanded the payment of the LED TVs procured and imported for the ‗Corporate Debtor, from 11th October 2017 to 01st December 2017, based on the import and the purchase order issued by the ‗Corporate Debtor'. The ‗Corporate Debtor' had failed to collect more than 70% of the stock as ordered by them till March 2018.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		4. The Operational Creditor has issued a demand notice under Form 3 dated 08th June 2019, under Section 8 of the Insolvency and Bankruptcy Code, 2016 which was received by the ‗Corporate Debtor' on 13th June 2019. However, there has been no reply to the same. The ‗Corporate Debtor' has not raised any dispute about the amount outstanding to the Operational Creditor at any point of time.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		5. The ‗Corporate Debtor' has filed its Response dated 25th September 2019 against the Company Petition contending as follows:
+	</p>
+	<p title="Issue">
+		(i) There is no admitted debt or liability, further stated that the ‗Corporate Debtor' had already paid an amount of Rs.85,57,00,664/-, towards the invoices raised by the Petitioner/Operational Creditor. The ‗Corporate Debtor' is not liable to make any payment to the Operational Creditor.
+	</p>
+	<p title="Issue">
+		(ii) The Operational Creditor has approached the ‗Corporate Debtor' expssing its desire and interest in establishing business relation with the Respondent - ‗Corporate Debtor', for sale of the Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 4 of 63 Petitioner's product, through the resellers of the Respondent.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		Under due deliberations between the Petitioner and Respondent, the parties entered into a Supply Agreement dated 29th December 2016.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(iii) Given Clause 2(a) of the Supply Agreement, the Respondent shall issue purchase orders (from now on referred to as ‗PO') for the supply of the products, and the Petitioner to either accept or reject the same. All orders are placed by way of purchase orders. The ‗Corporate Debtor' has received all the products as per the purchase orders, raised by them from January 2017 to April 2018 and had made prompt payments. The ‗Corporate Debtor' had no outstanding due amount payable to the Petitioner. The Petitioner/Operational Creditor has failed to file Purchase Orders (In short PO's) or invoices in support of its alleged claims; this clearly shows that the alleged claim of Rs.26,95,00,000/- (Rupees twenty-six crore ninety-five lacs only) is false.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(iv) It further contends that the ‗Corporate Debtor' is not liable to indemnify the Operational Creditor against any risks or costs incurred by the Applicant operational creditor. Further, it was agreed that the applicant shall bear all the packaging, storage and transportation of the products, i.e. all deliveries made to the Flipkart shall be a free ramp, duty and tax paid. The applicant's claim of Rs.5,25,00,000/- (Rupees five crore twenty-five lacs Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 5 of 63 only)towards custom charges is denied. Further, the alleged claim of Rs 5,25,00,000/- towards Custom charges fall to the ground-based on the terms agreed by the Operational Creditor under Clause 2(g) of the Supply Agreement. The Operational Creditor has failed to produce any document to show that there is any outstanding due amount of Rs.13,95,00,000/- (Rupees thirteen crore ninety-five lacs only) payable towards the value of goods to the applicant.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(v) The Respondent has cleared all dues payable to the Petitioner for the products delivered by them based on the purchase orders raised by the Respondent by the Supply Agreement.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(vi) There is no interest payable to the Applicant and the interest claimed @ 12.65%, is also against the Supply Agreement.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		(vii) The Respondent ‗Corporate Debtor' further contends that the Petition is nothing but sheer abuse of the process of law, despite the receipt of the payment by the Applicant under the invoices raised.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(viii) The Respondent has withheld approximately an amount of Rs.42,96,668/- (Rupees forty-two lacs ninety-six thousand six hundred and sixty-eight only) towards deficiency in services by the Petitioner. In Reply to the Response of the ‗Corporate Debtor', the Operational Creditor has filed the Rejoinder reiterating the contents of the petition. In the Rejoinder by the Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 6 of 63 operational creditor, it is specifically stated that as against the admitted amount of Rs. 103,62,00,000/- against invoices, the ‗Corporate Debtor' admitted having paid only Rs.85,57,00,664/- (Rupees eighty-five crore fifty-seven lacs six hundred sixty-four only). Therefore, even as per admission ‗Corporate Debtor' Rs.18,04,99,336/-is still outstanding from and out of the total invoice amount. Therefore, the Petition deserves to be admitted on the sole ground.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		(ix) The ‗Corporate Debtor' has contended that there is an existing dispute between the parties, which is to be adjudicated by the Civil Court, upon appciating the evidence placed on record. It is further contended that on the instructions of the ‗Corporate Debtor', the Operational Creditor imported the goods, which was duly communicated to the ‗Corporate Debtor. But due to the shortage of warehouse facilities, the ‗Corporate Debtor' could not take delivery of goods resulting in paying excess excise duty by the Operational Creditor. The ‗Corporate Debtor' also accepted that it had withheld approximately an amount of Rs.42,96,668/- towards deficiency in services by the Petitioner.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		6. The Adjudicating the Authority has rejected the contention of the ‗Corporate Debtor' and held that there was no p-existing or post existing dispute, and the petition is complete, as per the second proviso to Section 9 of the Code. It is further noted that despite service of demand notice, neither Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 7 of 63 any payment was made by the Corporate Debtor, nor any notice of dispute was raised. Hence petition got admitted by the Impugned Order.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		7. The instant Appeal is filed mainly on the following grounds; that the Impugned Order has been passed without appciating the fact that the Operational Creditor has not produced any documentary evidence, including but not limited to purchase orders, acceptance letters, invoices and proof of any intimation of sale to the end customers or any post-delivery services with specific reference to the amounts sought to be claimed by the Respondent; that the Learned Adjudicating Authority has ignored the settled position of law that a claim for damages cannot amount to an operational debt; that the Learned Adjudicating Authority has failed to appciate that a mere claim for damages, does not even amount to ―operational debt‖ within the meaning of the debt and so the Corporate Debtor can't be treated to have committed default; that the Adjudicating Authority has failed to determine, whether such an amount claimed, was due and payable, under the terms of the Supply Agreement.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		8. Ld. Counsel for the Operational Creditor submits that it is the discretion of the Operational Creditor, to either send the demand notice under Form 3 or send an invoice demanding payment of the amount due as per Form 4 of the Adjudicating Authority Rules, 2016. In case, the operational creditor pfers for the first option; then in that situation, it is not required to send a copy of the invoice along with the Demand Notice. It is further contended by him that if notice is sent in Form 3, then it is also not necessary to submit the invoice along with the Application in Form 5. Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 8 of 63
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		9. We have heard the arguments of the Ld Sr Counsels for the parties and perused the record. The questions which cropped up for the determination of this appeal are as under:
+	</p>
+	<p title="Issue">
+		1. Whether it is the discretion of the Operational Creditor, or the nature of the Operational Debt, that determines the issuance of notice in Form 3 or Form 4 under Sec 8 (1) of the Insolvency and Bankruptcy Code 2016?
+	</p>
+	<p title="Issue">
+		2. Whether or not, copy of the invoice is a mandatory requirement for issuance of demand notice U/S 8(1) of the Insolvency and Bankruptcy Code 2016, in Form 3 of the Insolvency and Bankruptcy (Adjudicating to Authority) Rules 2016?
+	</p>
+	<p title="Issue">
+		3. Whether or not for filing an application, U/S 9 of the Code in Form 5 under [sub-rule (1) of Rule 6] Insolvency and Bankruptcy (Adjudicating to Authority )Rules 2016, the submission of a copy of the invoice is a mandatory requirement, although the demand notice is served in Form 3?
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		10. Learned Counsel for the Appellant has raised the argument that the Operational Creditor - Respondent No.1 has failed to produce invoices, purchase orders or any documents to prove its claim and has filed a defective Application under Section 9.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		11. In reply to the above, the Appellants /Corporate Debtor contends that the Respondent No.1-Operational Creditor/ Cloudwalker Streaming Technologies Pvt. Ltd., entered into a Supply Agreement, dated 29th September 2016. Clause 2(a) of the said Agreement provides that the M/s Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 9 of 63 Flipkart India Private Limited / Corporate Debtor was to place a purchase order, which was to be evaluated by the Operational Creditor, who has to either reject or modify the purchase order within two days. Clause 4(a) of the Agreement provides that the Operational Creditor was to perform its obligation under the purchase orders issued from time to time by M/s Flipkart India Private Limited. Clause 4(b) provides that M/s Flipkart India Private Limited has a right to return a product, which has been returned by its customers for reasons of manufacturing defects or a variation in quality. Clause 6(a) and 6(b) of the Agreement provides that upon the delivery of the products, the Operational Creditor was mandated to issue invoices to M/s Flipkart India Private Limited and after that M/s Flipkart India Private Limited was to pay for the invoices within 30 days.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		12. Thus, there exist a formal mechanism, under the Supply Agreement wherein a ‗Corporate Debtor' would issue a purchase order, against which the Operational Creditor was to issue an invoice and at the time of supply of goods, against which the amounts would become payable.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		13. The Learned Senior Counsel vehemently argued that the proceeding under Section 9 of the I&amp;B Code can only be initiated after delivery of the demand notice, upon the ‗Corporate Debtor', under Section 8(1) of the Code, and on the occurrence of the default under Section 3(12) of the Code (to mean non-payment of debt). The debt is defined under Section 3(11) of the Code, means a liability or obligation in respect of the claim, which is due from any person and includes financial debts and Operational debts. The Appellant contends that Respondent No.1 - Operational Creditor had failed Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 10 of 63 to provide any documentary evidence including but limited to purchase orders, invoices, proof of any intimation of sale to the end customers or any post-delivery services to substantiate its alleged claim, as is required before issuing a demand notice under Section 8(1) of the Code.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		14. The Learned Senior Counsel for the Appellant has emphasised that instead of producing relevant documents the Operational Creditor has solely placed reliance on few emails to allege that suffered losses on accounts of the projections for the demands raised by the M/s Flipkart India Private Limited. The figures provided by the Flipkart are only projections or ―demand assumptions‖ and does not constitute a binding purchase order under the Supply Agreement. The Appellant further contends that there can be no sale and supply of goods without a purchase order. The learned Senior Counsel for the Appellant has vehemently emphasised on the format of Section 9 Application, which is filed in the pscribed Form 5, under the Insolvency &amp; Bankruptcy Code (Application to Adjudicating Authority Rules, 2016) (from now on referred to as ―Rules‖). The said Part - V of Form 5 mandates that ―relevant document under which the debt has become due must be annexed‖.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		15. To satisfy this requirement, the Operational Creditor has chosen only to produce the Supply Agreement and the projections emails, which by themselves can by no stretch of imagination constitute proof of debt.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		16. It is further said that Part-V, Column 7 of Form 5 also mandates that a statement of the bank account where deposit or credit is normally received must be attached. The Operational Creditor has not attached even this bank Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 11 of 63 statement. Though bank statement is a crucial document to establish, which amounts have been received, and lack thereof, merits rejection of Section 9 Application.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		17. The Appellant further contends that the Respondent's claim does not qualify as an Operational debt. It is contended that an operational debt can only arise against the provisions of goods and services. In the psent case, the Respondent No.1 has failed to substantiate the provision of goods or services, for which payment has remained outstanding. In the absence of any supply or without supply or sale and any document to substantiate the same, the Respondent No.1 could not be treated as an Operational Creditor. Hence an Application under Section 9 of the Code would not be maintainable.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		18. Learned Senior Counsel has argued that the Respondent No.1 placed reliance on the wide definition of ―claim‖ under the IBC and argued that since the term ‗claim' has been used in the definition of the term ‗Operational Debt', thus, even if the claim is disputed, the Respondent No.1 would be an Operational Creditor.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		19. Further, under Section 8(1) of the Code, an Operational Creditor can deliver a demand notice only upon the occurrence of a ‗default'. The word ‗debt' as defined under the Code, means a liability or obligation in respect of the claim, which is due from any person and includes a Financial Debt and Operational Debt. It is further said that there is no crystallization of claim; Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 12 of 63 there is no debt due or owed and default, which is the sine qua non for admission of under Section 9 of the Code.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		20. It is further argued that Operational Creditors claim, without any purchase order or invoices on the ptext that the ‗Corporate Debtor' has proposed to purchase a certain quantity of goods from the Respondent No.1, and subsequently failed to purchase the proposed goods from the Respondent No.1, is not maintainable under the ‗Code'.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		21. The Ld Sr Counsel for the Appellant argued that the Respondent No.1 in its affidavit filed before the Adjudicating Authority (para 16 page 180 of the Appeal) expssly stated that: ―I say that due to the failure of the Corporate Debtor in fulfilling its commitment the Operational Creditor was forced to unload the uncollected goods at heavily marked-down price just so that it could remain afloat‖. Thus, by its admission, the title and possession of alleged goods have never been passed on to M/s Flipkart India Private Limited. Furthermore, the Respondent No.1 has even sold it to the third party, without any substantiation or even a mention of the amounts, received on such sale.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		22. The Learned Senior Counsel has also argued that instead of producing relevant documents, the Respondent No.1 has based its claim on alleged unpaid amounts towards goods, custom charges and interest @ 12.65% without any substantiation.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		23. It is further said that Clause 5(d) of the Supply Agreement provides, that no custom charges will be payable by the M/s Flipkart India Private Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 13 of 63 Limited to the Respondent No.1. The Respondent No.1 had not filed any document or record relating to the purchase orders, invoices, to substantiate its claim. The Operational Creditor had charged interest, whereas, Clause 13 of the Agreement provides that no interest component is payable in any situation.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		24. It is further contended that as per the terms of Supply Agreement, various purchase orders have been placed by the Flipkart, against which invoices have been issued. Post the issuance of debit notes, under Clause 4(b) of the Supply Agreement, a total reconciled amount of Rs.85,99,97,332/- has been paid by the M/s Flipkart India Private Limited to the Respondent No.1. This total amount contains an amount of Rs.42,96,668/- (Rupees forty-two lacs ninety-six thousand six hundred and sixty-eight only), which had been originally withheld by the M/s Flipkart India Private Limited owing to defective/delayed goods and was later released by M/s Flipkart India Private Limited on 05th and 06th November 2019. This amount was released purely as a gesture of goodwill and without pjudice to Flipkart's right to claim.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		25. It is further argued that the question of the p-existing dispute would become relevant only when the Operational Creditor had discharged the burden of proof, cast on it to prove the existence of debt and default. However, it is said that M/s Flipkart India Private Limited had made numerous request to share its accounts so that the accounts of both parties may be suitably reconciled. It is further argued that the Respondent No.1 Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 14 of 63 withdrew the Arbitration notice for an amicable resolution of the dispute, but it does not mean that dispute ceased to exist.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		26. Learned Sr. Counsel for the Respondent No.1/‗Operational Creditor' contends that to admit a petition under Section 9 the Code, the Adjudicating Authority had to ascertain existence of Operational Debt exceeding Rs.1,00,000/- (Rupees one lacs only); the debt is due and payable and has not been paid; in the absence of any dispute between the parties; the record of pendency of a suit or arbitration proceeding, before the receipt of demand notice, the petition has to be admitted. It is further said, in this case, there is no email or any other communication about the quality or quantity of the goods. The onus to show the existence of a dispute is wholly on the ‗Corporate Debtor', which it has failed to discharge.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		27. It is further contended by the Operational Creditor that pendency of the Section 9 Application and post the order of the stay by the Hon'ble High Court of Karnataka, the ‗Corporate Debtor' after reviewing the issues regarding deficient goods, has done the internal review by terms of the Supply Agreement and released the payment of Rs.42,96,688/- (Forty-two lacs ninety-six thousand and six hundred eighty-eight only) which was found to be due and payable. Though the Respondent No.1 does not admit that only an amount of Rs.42,96,668/- (Rupees forty-two lacs ninety-six thousand six hundred and sixty-eight only) is due, reiterates its claim in the application. It is said that ‗Corporate Debtor' is attempting to create an impssion that it has paid whatever was due. Nonetheless, even as per its showing, amount more than Rs.1,00,000/- (Rupees one lacs only) payable Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 15 of 63 by the ‗Corporate Debtor' to the Respondent No.1, which amount the ‗Corporate Debtor' has remitted to the Respondent No.1, without prior intimation, after the admission of the application by the Adjudicating Authority.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		28. The Learned Counsel for the Operational Creditor has further contended that NCLT is not a forum for adjudication of the monetary claim as between the Respondent No.1 and the ‗Corporate Debtor', so it was not necessary that the exact due from the ‗Corporate Debtor' should have been finalised.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		29. The Learned Sr. Counsel for the Respondent No.1/Operational Creditor further contended that the Operational Creditor has fulfilled the requirement of I&amp;B Code and had issued a demand notice, which was not even replied to by the ‗Corporate Debtor'. The ‗Corporate Debtor' having admitted its unconditional liability to the Respondent No.1 for an amount of excess of Rs.1,00,000/- (Rupees one lacs only) and having further admitted that an amount of excess of Rs.1,00,000/- (Rupees one lacs only) was due and payable by the ‗Corporate Debtor' to the Respondent No.1. Thus the application of the Respondent No.1 under Section 9 of the I&amp;B Code against the ‗Corporate Debtor' deserved to be admitted, and no interference is called for by this Appellate Tribunal.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		30. The relevant part of the statutory provision of the Insolvency and Bankruptcy Code 2016, Rules and Regulations are as under for ready reference:
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 16 of 63
+	</p>
+	<p title="Issue">
+		―8. Insolvency resolution by operational creditor.
+	</p>
+	<p title="Issue">
+		(1) An operational creditor may, on the occurrence of a default, deliver a demand notice of unpaid operational debtor copy of an invoice demanding payment of the amount involved in the default to the corporate debtor in such form as may be pscribed, through an information utility, wherever applicable, or by registered post or courier or by such electronic mode of communication, as may be specified.
+	</p>
+	<p title="Issue">
+		(2) The corporate debtor shall, within a period of ten days of the receipt of the demand notice or copy of the invoice mentioned in sub-section (1), bring to the notice of the operational creditor--
+	</p>
+	<p title="Issue">
+		(a) the existence of a dispute, if any, and record of the pendency of the suit or arbitration proceedings filed prior to the receipt of such notice or invoice in relation to such dispute through an information utility or by registered post or courier or by such electronic mode of communication as may be specified;
+	</p>
+	<p title="Issue">
+		(b) the repayment of unpaid operational debt--
+	</p>
+	<p title="Issue">
+		(i) By sending an attested copy of the record of electronic transfer of the unpaid amount from the bank account of the corporate debtor; or
+	</p>
+	<p title="Issue">
+		(ii) By sending an attested copy of record that the operational creditor has encashed a cheque issued by the corporate debtor.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Explanation.--For the purposes of this section, a ―demand notice‖ means a notice served by an operational creditor to the corporate debtor demanding repayment of the operational debt in respect of which the default has occurred.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 17 of 63 Sec 9. Application for initiation of corporate insolvency resolution process by operational creditor.-- (1) After the expiry of the period of ten days from the date of delivery of the notice or invoice demanding payment under sub-section (1) of Section 8, if the operational creditor does not receive payment from the corporate debtor or notice of the dispute under sub-section (2) of Section 8, the operational creditor may file an application before the adjudicating authority for initiating a corporate insolvency resolution process.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(2) The application under sub-section (1) shall be filed in such form and manner and accompanied with such fee as may be pscribed.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(3) The operational creditor shall, along with the application furnish--
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(a) a copy of the invoice demanding payment or demand notice delivered by the operational creditor to the corporate debtor;
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(b) an affidavit to the effect that there is no notice given by the corporate debtor relating to a dispute of the unpaid operational debt;
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(c) a copy of the certificate from the financial institutions maintaining accounts of the operational creditor confirming that there is no payment of an unpaid operational debt by the corporate debtor; and
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(d) such other information or as may be specified. (4) An operational creditor initiating a corporate insolvency resolution process under this section may propose a Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 18 of 63 resolution professional to act as an interim resolution professional.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		(5) The adjudicating authority shall, within fourteen days of the receipt of the application under sub-section (2), by an order--
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(i) admit the application and communicate such decision to the operational creditor and the corporate debtor, if--
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(a) the application made under sub-section (2) is complete;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(b) there is no repayment of the unpaid operational debt;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(c) the invoice or notice for payment to the corporate debtor has been delivered by the operational creditor;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(d) no notice of dispute has been received by the operational creditor or there is no record of dispute in the information utility; and
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(e) there is no disciplinary proceeding pending against any resolution professional proposed under sub- section (4), if any.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(ii) reject the application and communicate such decision to the operational creditor and the corporate debtor, if--
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(a) the application made under sub-section (2) is incomplete;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 19 of 63
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(b) there has been repayment of the unpaid operational debt;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(c) the creditor has not delivered the invoice or notice for payment to the corporate debtor;
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		(d) notice of dispute has been received by the operational creditor or there is a record of dispute in the information utility; or
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(e) any disciplinary proceeding is pending against any proposed resolution professional:
+	</p>
+	<p title="Analysis of the law">
+		Provided that adjudicating authority, prior to rejecting an application under sub-clause (a) of clause (ii) of this sub-section, shall give a notice to the applicant to rectify the defect in his application within three days of the date of receipt of such notice from the adjudicating authority.
+	</p>
+	<p title="Analysis of the law">
+		(6) The corporate insolvency resolution process shall commence from the date of admission of the application under sub-section (5).‖ Regulation 7 of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016 is also relevant and reads as under:
+	</p>
+	<p title="Analysis of the law">
+		―7. Claims by operational creditors.--
+	</p>
+	<p title="Analysis of the law">
+		(1) A person claiming to be an operational creditor, other than workman or employee of the corporate debtor, shall submit proof of claim to the interim resolution professional in person, by post or by electronic means in Form B of the Schedule:
+	</p>
+	Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 20 of 63
+	<p title="Analysis of the law">
+		Provided that such person may submit supplementary documents or clarifications in support of the claim before the constitution of the committee.
+	</p>
+	<p title="Analysis of the law">
+		(2) The existence of debt due to the operational creditor under this Regulation may be proved on the basis of--
+	</p>
+	<p title="Analysis of the law">
+		 (a) the records available with an information utility, if any; or (b) other relevant documents, including-- (i) a contract for the supply of goods and services with corporate debtor; (ii) an invoice demanding payment for the goods
+	</p>
+	<p title="Analysis of the law">
+		and services supplied to the corporate debtor;
+	</p>
+	<p title="Analysis of the law">
+		(iii) an order of a court or tribunal that has adjudicated upon the non-payment of a debt, if any; or
+	</p>
+	<p title="Analysis of the law">
+		(iv) financial account.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		FORM B PROOF OF CLAIM BY OPERATIONAL CREDITORS EXCEPT WORKMEN AND EMPLOYEES [Under Regulation 7 of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016]
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		1. [Date] To, The Interim Resolution Professional/Resolution Professional [Name of the Insolvency Resolution Professional/Resolution Professional] Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 21 of 63 [Address as set out in public announcement] From, [Name and address of the operational creditor] Subject.--Submission of proof of claim.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		Madam/Sir, [Name of the operational creditor], hereby submits this proof of claim in respect of the corporate insolvency resolution process in the case of [name of corporate debtor]. The details for the same are set out below:
+	</p>
+	<p title="Respondent's Argument">
+		PARTICULARS
+	</p>
+	<p title="Respondent's Argument">
+		1. Name of operational creditor
+	</p>
+	<p title="Respondent's Argument">
+		2. Identification number of operational creditor (if an incorporated body provide identification number and proof of incorporation. If a partnership or inpidual provide identification records [PAN number, passport, AADHAAR Card or the identity card issued by the Election Commission of India] of all the partners or the inpidual)
+	</p>
+	<p title="Respondent's Argument">
+		3. Address and email address of operational creditor for correspondence
+	</p>
+	<p title="Respondent's Argument">
+		4. Total amount of claim (including any interest as at the insolvency commencement date)
+	</p>
+	<p title="Respondent's Argument">
+		5. Details of documents by reference to which the debt can be substantiated
+	</p>
+	<p title="Respondent's Argument">
+		6. Details of any dispute as well as the record of pendency or order of suit or arbitration proceedings
+	</p>
+	<p title="Respondent's Argument">
+		7. Details of how and when debt incurred
+	</p>
+	<p title="Respondent's Argument">
+		8. Details of any mutual credit, mutual debts, or other mutual dealings Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 22 of 63 between the corporate debtor and the creditor which may be set-off against the claim
+	</p>
+	<p title="Respondent's Argument">
+		9. Details of any retention of title arrangements in respect of goods or properties to which the claim refers
+	</p>
+	<p title="Respondent's Argument">
+		10. Details of the bank account to which the amount of the claim or any part thereof can be transferred pursuant to a resolution plan
+	</p>
+	<p title="Respondent's Argument">
+		11. List of documents attached to this proof of claim in order to prove the existence and non-payment of claim due to the operational creditor Signature of operational creditor or person authorised to act on his behalf [Please enclose the authority if this is being submitted on behalf of an operational creditor] Name in BLOCK LETTERS Position with or in relation to creditor Address of person signing‖ Section 8(1), the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016, speaks of demand notices by the operational creditor and applications by the operational creditor in the following terms:
+	</p>
+	<p title="Respondent's Argument">
+		―5. Demand notice by operational creditor.--(1) An operational creditor shall deliver to the corporate debtor, the following documents, namely--
+	</p>
+	<p title="Respondent's Argument">
+		 (a) a demand notice in Form 3; or (b) a copy of an invoice attached with a notice in Form 4.Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 23 of 63 (2) The demand notice or the copy of the invoice demanding
+	</p>
+	<p title="Respondent's Argument">
+		payment referred to in sub-section (2) of Section 8 of the Code, may be delivered to the corporate debtor,
+	</p>
+	<p title="Respondent's Argument">
+		(a) at the registered office by hand, registered post or speed post with acknowledgment due; or
+	</p>
+	<p title="Respondent's Argument">
+		(b) by electronic mail service to a whole time director or designated partner or key managerial personnel, if any, of the corporate debtor.
+	</p>
+	<p title="Respondent's Argument">
+		(3) A copy of demand notice or invoice demanding payment served under this rule by an operational creditor shall also be filed with an information utility, if any.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		6. Application by operational creditor.--
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		(1) An operational creditor, shall make an application for initiating the corporate insolvency resolution process against a corporate debtor under Section 9 of the Code in Form 5, accompanied with documents and records required therein and as specified in the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(2) The applicant under sub-rule (1) shall dispatch forthwith, a copy of the application filed with the adjudicating authority, by registered post or speed post to the registered office of the corporate debtor.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		*** FORM 3 [See clause (a) of sub-rule (1) of Rule 5] FORM OF DEMAND NOTICE/INVOICE DEMANDING PAYMENT UNDER THE INSOLVENCY AND BANKRUPTCY CODE, 2016 Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 24 of 63 [Under Rule 5 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016]
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		2. [Date] To, [Name and address of the registered office of the corporate debtor] From, [Name and address of the registered office of the operational creditor] Subject.--Demand notice/invoice demanding payment in respect of unpaid operational debt due from [corporate debtor] under the Code. Madam/Sir,
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		1. This letter is a demand notice/invoice demanding payment of an unpaid operational debt due from [name of corporate debtor].
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		2. Please find particulars of the unpaid operational debt below:
+	</p>
+	<p title="Analysis of the law">
+		PARTICULARS OF OPERATIONAL DEBT
+	</p>
+	<p title="Analysis of the law">
+		1. Total amount of debt, details of transactions on account of which debt fell due, and the date from which such debt fell due
+	</p>
+	<p title="Analysis of the law">
+		2. Amount claimed to be in default and the date on which the default occurred (attach the workings for computation of default in tabular form)
+	</p>
+	<p title="Analysis of the law">
+		3. Particulars of security held, if any, the date of its creation, its estimated value as per the creditor. Attach a copy of a certificate of registration of charge issued by the Registrar of Companies (if the corporate debtor is a company)
+	</p>
+	<p title="Analysis of the law">
+		4. Details of retention of title arrangements (if any) in respect of goods to which the operational debt refers
+	</p>
+	<p title="Analysis of the law">
+		5. Record of default with the information utility (if any) Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 25 of 63
+	</p>
+	<p title="Analysis of the law">
+		6. Provision of law, contract or other document under which debt has become due
+	</p>
+	<p title="Analysis of the law">
+		7. List of documents attached to this application in order to prove the existence of operational debt and the amount in default
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		3. If you dispute the existence or amount of unpaid operational debt (in default) please provide the undersigned, within ten days of the receipt of this letter, of the pendency of the suit or arbitration proceedings in relation to such dispute filed before the receipt of this letter/notice.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		4. If you believe that the debt has been repaid before the receipt of this letter, please demonstrate such repayment by sending to us, within ten days of receipt of this letter, the following:
+	</p>
+	<p title="Court's Reasoning">
+		(a) an attested copy of the record of electronic transfer of the unpaid amount from the bank account of the corporate debtor;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		or
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		(b) an attested copy of any record that [name of the operational creditor] has received the payment.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		5. The undersigned, hereby, attaches a certificate from an information utility confirming that no record of a dispute raised in relation to the relevant operational debt has been filed by any person at any information utility (if applicable)
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		6. The undersigned request you to unconditionally repay the unpaid operational debt (in default) in full within ten days from the receipt of this letter failing which we shall initiate a corporate insolvency resolution process in respect of [name of corporate debtor]. Yours sincerely, Signature of person authorised to act on behalf of the operational creditor Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 26 of 63 Name in block letters Position with or in relation to the operational creditor Address of person signing Instructions
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		1. Please serve a copy of this form on the corporate debtor, ten days in advance of filing an application under Section 9 of the Code.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		2. Please append a copy of such served notice to the application made by the operational creditor to the adjudicating authority. FORM4 [clause (b) of sub-rule (1) of Rule 5] FORM OF NOTICE WITH WHICH INVOICE DEMANDING PAYMENT IS TO BE ATTACHED [Under Rule 5 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016] [Date] To, [Name and address of registered office of the corporate debtor] From, [Name and address of the operational creditor] Subject.--Notice attached to invoice demanding payment Madam/Sir, [Name of operational creditor], hereby provides notice for repayment of the unpaid amount of INR [insert amount] that is in default as reflected in the invoice attached to this notice. In the event you do not repay the debt due to us within ten days of receipt of this notice, we may file an application before the adjudicating authority for initiating a corporate insolvency resolution process under Section 9 of the Code.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Yours sincerely, Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 27 of 63 Signature of person authorised to act on behalf of the operational creditor Name in block letters Position with or in relation to the operational creditor Address of person signing FORM 5 [sub-rule (1) of Rule 6] APPLICATION BY OPERATIONAL CREDITOR TO INITIATE CORPORATE INSOLVENCY RESOLUTION PROCESS UNDER THE CODE.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		[Under Rule 6 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016] [Date] To, The National Company Law Tribunal [Address] From, [Name and address for correspondence of the operational creditor] In the matter of [name of the corporate debtor] Subject.--Application to initiate corporate insolvency resolution process in respect of [name of the corporate debtor] under the Insolvency and Bankruptcy Code, 2016.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Madam/Sir, [Name of the operational creditor], hereby submits this application to initiate a corporate insolvency resolution process in the case of [name of corporate debtor]. The details for the purpose of this application are set out below:
+	</p>
+	<p title="Court's Reasoning">
+		Part I PARTICULARS OF APPLICANT
+	</p>
+	<p title="Court's Reasoning">
+		1. Name of operational creditor Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 28 of 63
+	</p>
+	<p title="Court's Reasoning">
+		2. Identification number of operational creditor (if any)
+	</p>
+	<p title="Court's Reasoning">
+		3. Address for correspondence of the operational creditor Part II PARTICULARS OF CORPORATE DEBTOR
+	</p>
+	<p title="Court's Reasoning">
+		1. Name of the corporate debtor
+	</p>
+	<p title="Court's Reasoning">
+		2. Identification number of corporate debtor
+	</p>
+	<p title="Court's Reasoning">
+		3. Date of Incorporation of corporate debtor
+	</p>
+	<p title="Court's Reasoning">
+		4. Nominal share capital and the paid-up share capital of the corporate debtor and/or details of guarantee clause as per memorandum of association (as applicable)
+	</p>
+	<p title="Court's Reasoning">
+		5. Address of the registered office of the corporate debtor
+	</p>
+	<p title="Court's Reasoning">
+		6. Name, address and authority of person submitting application on behalf of operational creditor (enclose authorisation)
+	</p>
+	<p title="Court's Reasoning">
+		7. Name and address of person resident in India authorised to accept the service of process on its behalf (enclose authorisation) Part III PARTICULARS OF THE PROPOSED INTERIM RESOLUTION PROFESSIONAL [IF PROPOSED]
+	</p>
+	<p title="Court's Reasoning">
+		1. Name, address, email address and the registration number of the proposed insolvency professional Part IV PARTICULARS OF OPERATIONAL DEBT
+	</p>
+	<p title="Court's Reasoning">
+		1. Total amount of debt, details of transactions on account of which debt fell due, and the date from which such debt fell due Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 29 of 63
+	</p>
+	<p title="Court's Reasoning">
+		2. Amount claimed to be in default and the date on which the default occurred (attach the workings for computation of amount and dates of default in tabular form) Part V PARTICULARS OF OPERATIONAL DEBT [DOCUMENTS, RECORDS AND EVIDENCE OF DEFAULT]
+	</p>
+	<p title="Court's Reasoning">
+		1. Particulars of security held, if any, the date of its creation, its estimated value as per the creditor. Attach a copy of a certificate of registration of charge issued by the registrar of companies (if the corporate debtor is a company)
+	</p>
+	<p title="Court's Reasoning">
+		2. Details of reservation/retention of title arrangements (if any) in respect of goods to which the operational debt refers
+	</p>
+	<p title="Court's Reasoning">
+		3. Particulars of an order of a court, tribunal or arbitral panel adjudicating on the default, if any (attach a copy of the order)
+	</p>
+	<p title="Court's Reasoning">
+		4. Record of default with the information utility, if any (attach a copy of such record)
+	</p>
+	<p title="Court's Reasoning">
+		5. Details of succession certificate, or probate of a will, or letter of administration, or court decree (as may be applicable), under the Indian Succession Act, 1925 (10 of 1925) (attach a copy)
+	</p>
+	<p title="Court's Reasoning">
+		6. Provision of law, contract or other document under which operational debt has become due
+	</p>
+	<p title="Court's Reasoning">
+		7. A statement of bank account where deposits are made or credits received normally by the operational creditor in respect of the debt of the corporate debtor (attach a copy)
+	</p>
+	<p title="Court's Reasoning">
+		8. List of other documents attached to this application in order to prove the existence of operational debt and the amount in default Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 30 of 63 I, [Name of the operational creditor/person authorised to act on behalf of the operational creditor] hereby certify that, to the best of my knowledge, [name of proposed insolvency professional], is fully qualified and permitted to act as an insolvency professional in accordance with the Code and the rules and regulations made thereunder. [WHERE APPLICABLE] [Name of the operational creditor] has paid the requisite fee for this application through [state means of payment] on [date].
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Yours sincerely, Signature of person authorised to act on behalf of the operational creditor Name in block letters Position with or in relation to the operational creditor Address of person signing Instructions Please attach the following to this application-- Annex I Copy of the invoice/demand notice as in Form 3 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016 served on the corporate debtor.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		Annex II Copies of all documents referred to in this application. Annex III Copy of the relevant accounts from the banks/financial institutions maintaining accounts of the operational creditor confirming that there is no payment of the relevant unpaid operational debt by the operational debtor, if available.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		Annex IV Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 31 of 63 Affidavit in support of the application in accordance with the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016. Annex V Written communication by the proposed interim resolution professional as set out in Form 2 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016. [WHERE APPLICABLE] Annex VI Proof that the specified application fee has been paid. Note.--Where workmen/employees are operational creditors, the application may be made either in an inpidual capacity or in a joint capacity by one of them who is duly authorised for the purpose.‖ *** INSOLVENCY AND BANKRUPTCY BOARD OF INDIA (INSOLVENCY RESOLUTION PROCESS FOR CORPORATE PERSONS) REGULATIONS, 20161 [AMENDED UPTO 25.07.2019] IBBI/2016-17/GN/REG004. - In exercise of the powers conferred under sections 5, 7, 9, 14, 15, 17, 18, 21, 24, 25, 29, 30, 196 and 208 read with section 240 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016), the Insolvency and Bankruptcy Board of India hereby makes the following Regulations, namely-
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		PROOF OF CLAIMS Regulation 7: Claims by operational creditors. (1) A person claiming to be an operational creditor, other than workman or employee of the corporate debtor, shall 12[submit claim with proof] to the interim resolution professional in person, by post or by electronic means in Form B of the Schedule:
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 32 of 63
+	</p>
+	<p title="Precedent Analysis">
+		Provided that such person may submit supplementary documents or clarifications in support of the claim before the constitution of the committee.
+	</p>
+	<p title="Precedent Analysis">
+		(2) The existence of debt due to the operational creditor under this Regulation may be proved on the basis of-
+	</p>
+	<p title="Precedent Analysis">
+		(a) the records available with an information utility, if any; or
+	</p>
+	<p title="Precedent Analysis">
+		(b) other relevant documents, including -
+	</p>
+	<p title="Precedent Analysis">
+		(i) a contract for the supply of goods and services with corporate debtor;
+	</p>
+	<p title="Precedent Analysis">
+		(ii) an invoice demanding payment for the goods and services supplied to the corporate debtor;
+	</p>
+	<p title="Precedent Analysis">
+		(iii) an order of a court or tribunal that has adjudicated upon the non-payment of a debt, if any;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		or
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		(iv) financial accounts Sec 5(6) of the Insolvency and Bankruptcy Code 2016:
+	</p>
+	<p title="Court's Reasoning">
+		(6) ―dispute‖ includes a suit or arbitration proceedings relating to--
+	</p>
+	<p title="Court's Reasoning">
+		(a) the existence of the amount of debt;
+	</p>
+	<p title="Court's Reasoning">
+		(b) the quality of goods or service; or
+	</p>
+	<p title="Court's Reasoning">
+		(c) the breach of a repsentation or warranty;
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		The requirement of the invoice along with the demand notice in Form 3 or Form 4 of the Adjudicating Authority Rules and discretionary power to deliver the demand notice U/S 8 of the Code, either in Form 3 or Form 4 of the Rules
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		31. Sec 8(1) of the I &amp; B Code 2016, provides that an operational creditor may, on the occurrence of a default, deliver a demand notice of the Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 33 of 63 unpaid operational debt, or copy of an invoice demanding payment of the amount involved.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		32. Ld. Sr. Counsel repsenting the Respondent No.1/Operational Creditor vehemently argued that the statutory requirement is only to give demand notice of the unpaid operational debt. The submission of the invoice may be needed if the demand is made by way of an invoice demanding payment. It is further stated that if the demand notice is given in Form 3, then the invoice is not a mandatory requirement. But if the notice is given in Form 4, then only, copy of the invoice demanding payment is to be delivered to the corporate debtor.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		33. Ld. Counsel for the Operational Creditor submits that it is the discretion of the Operational Creditor, to either send the demand notice under Form 3 or send an invoice demanding payment of the amount due as per Form 4 of the Adjudicating Authority Rules, 2016. In case, the operational creditor pfers for the first option; then in that situation, it is not required to send a copy of the invoice along with the Demand Notice.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		34. Ld. Counsel for the Operational Creditor further buttressed his argument, based on proforma of Form 4, as provided under the Adjudicating Authority Rules. The relevant portion of Form 4 is given as under:
+	</p>
+	<p title="Analysis of the law">
+		"To, [Name and address of registered office of the corporate debtor] From, [Name and address of the operational creditor] Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 34 of 63 Subject.--Notice attached to invoice demanding payment Madam/Sir, [Name of operational creditor], hereby provides notice for repayment of the unpaid amount of INR [insert amount] that is in default as reflected in the invoice attached to this notice.
+	</p>
+	<p title="Analysis of the law">
+		In the event you do not repay the debt due to us within ten days of receipt of this notice, we may file an application before the adjudicating authority for initiating a corporate insolvency resolution process under Section 9 of the Code."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		35. In the above portion of Form 4, the phrase, ―as reflected in the invoice attached to this notice", is specifically mentioned which shows that the invoice is mandatory along with the Notice in Form 4, whereas there is no such requirement with Form 3 notice. The relevant portion of Form 3 is provided herewith:
+	</p>
+	<p title="Precedent Analysis">
+		PARTICULARS OF OPERATIONAL DEBT
+	</p>
+	<p title="Precedent Analysis">
+		1. Total amount of debt, details of transactions on account of which debt fell due, and the date from which such debt fell due
+	</p>
+	<p title="Precedent Analysis">
+		2. Amount claimed to be in default and the date on which the default occurred (attach the workings for computation of default in tabular form)
+	</p>
+	<p title="Precedent Analysis">
+		3. Particulars of security held, if any, the date of its creation, its estimated value as per the creditor. Attach a copy of a certificate of registration of charge issued by the Registrar of Companies (if the corporate debtor is a company)
+	</p>
+	<p title="Precedent Analysis">
+		4. Details of retention of title arrangements (if any) in respect of goods to which the operational debt refers Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 35 of 63
+	</p>
+	<p title="Precedent Analysis">
+		5. Record of default with the information utility (if any)
+	</p>
+	<p title="Precedent Analysis">
+		6. Provision of law, contract or other document under which debt has become due
+	</p>
+	<p title="Precedent Analysis">
+		7. List of documents attached to this application in order to prove the existence of operational debt and the amount in default
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		36. Thus proforma of Form 3, mandates to mention the amount of debt; details of transactions on account of which debt fell due; and the date from which such debt fell due. In column 7 of the said proforma, the phrase, ―List of documents attached to this application in order to prove the existence of operational debt and the amount in default" is provided.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		37. Thus if the demand notice is sent in Form 3, then the Operational Creditor has to submit the document to prove the existence of operational debt and the amount in default along with the notice. The said document may either be invoice or any other document to prove the existence of the operational debt and the amount in default. This situation may arise when the operational debt, is of such nature where no invoice is generated. For example, if an operational debt is relating to the salary dues of an employee, then, in that case, the operational creditor will not have any invoice.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		38. It is pertinent to mention that Regulation 7 of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016 provides a list of documents which are to be Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 36 of 63 submitted by the operational creditors before the Resolution Professional, for filing its claim. Regulation 7 is as under:
+	</p>
+	<p title="Precedent Analysis">
+		"PROOF OF CLAIMS
+	</p>
+	<p title="Precedent Analysis">
+		7. Claims by operational creditors.
+	</p>
+	<p title="Precedent Analysis">
+		(1) A person claiming to be an operational creditor, other than workman or employee of the corporate debtor, shall 12[submit claim with proof] to the interim resolution professional in person, by post or by electronic means in Form B of the Schedule:
+	</p>
+	<p title="Precedent Analysis">
+		Provided that such person may submit supplementary documents or clarifications in support of the claim before the constitution of the committee.
+	</p>
+	<p title="Precedent Analysis">
+		(2) The existence of debt due to the operational creditor under this Regulation may be proved on the basis of-
+	</p>
+	<p title="Precedent Analysis">
+		 (a) the records available with an information utility, if any; or (b) other relevant documents, including - (i) a contract for the supply of goods and services with corporate debtor; (ii) an invoice demanding payment for the goods
+	</p>
+	<p title="Precedent Analysis">
+		and services supplied to the corporate debtor;
+	</p>
+	<p title="Precedent Analysis">
+		(iii) an order of a court or tribunal that has adjudicated upon the non-payment of a debt, if any;
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		or
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		(iv) financial accounts"
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 37 of 63
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		39. On perusal of the above Regulation, it is clear that to prove the existence of the operational debt; the operational creditor has to file its claim along with ‗an invoice demanding payment for the goods and services supplied to the Corporate Debtor'.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		40. It is necessary to mention that as per Form 5, for submission of an application by an Operational Creditor, the following documents are to be attached with the application:
+	</p>
+	<p title="Precedent Analysis">
+		"Instructions Please attach the following to this application--
+	</p>
+	<p title="Precedent Analysis">
+		Annex I Copy of the invoice/demand notice as in Form 3 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016 served on the corporate debtor.
+	</p>
+	<p title="Precedent Analysis">
+		Annex II Copies of all documents referred to in this application.
+	</p>
+	<p title="Precedent Analysis">
+		Annex III Copy of the relevant accounts from the banks/financial institutions maintaining accounts of the operational creditor confirming that there is no payment of the relevant unpaid operational debt by the operational debtor, if available.
+	</p>
+	<p title="Precedent Analysis">
+		Annex IV Affidavit in support of the application in accordance with the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016.
+	</p>
+	<p title="Precedent Analysis">
+		Annex V Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 38 of 63 Written communication by the proposed interim resolution professional as set out in Form 2 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016. [WHERE APPLICABLE] Annex VI Proof that the specified application fee has been paid.
+	</p>
+	<p title="Precedent Analysis">
+		Note.--Where workmen/employees are operational creditors, the application may be made either in an inpidual capacity or in a joint capacity by one of them who is duly authorised for the purpose."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		41. Annexure I of the said Form 5 contains the phrase, ―Copy of the invoice/demand notice as in Form 3 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016 served on the corporate debtor.‖ Thus, it is clear that copy of invoice/demand notice as noted in Form 3, is to be attached along with the application under Section 9 of the Code. Here the expssion, ―copy of invoice/demand notice" means that invoice raising the demand or demand notice is to be submitted as per the nature of the operational debt. For example, in cases where the operational debt is like salary dues, there can be no invoice. In such a scenario, the demand notice delivered in Form 3 can be submitted along with the application.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		42. However, if the operational debt is of nature where the invoice is generated as part of the transaction, then in such cases the invoice becomes an essential document to prove the existence of the debt, and thus it has to be submitted. In case of operational debt where the transaction does not involve the generation of the invoice, then as per column 7 of Form 3, documents to prove the existence of operational Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 39 of 63 debt and the amount in default are to be submitted along with the notice in Form 3.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		43. However, it cannot be the discretion of the Operational Creditor to deliver the Demand Notice in Form 3 even if the operational debt involves transactions where corresponding invoices are generated but are not filed in court on the ptext that the Operational Creditor has chosen to send the Notice in Form 3.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		44. The use of the phrase, ‗deliver a demand notice of unpaid operational debt or copy of an invoice demanding payment of the amount involved' in Section 8(1) does not provide the Operational Creditor, with the discretion to send the demand notice in Form 3 or Form 4 as per its convenience. Rather, it depends directly on the nature of the operational debt and applicability of Form 3 or Form 4 as per the nature of the transaction.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		45. It is important to mention that legislative provisions are made with a larger perspective to deal with all the eventualities that may arise in the implementation of the said provisions. Therefore, the use of the word ―OR‖ in Section 8 cannot be interpted as such, that the Insolvency and Bankruptcy Code has provided a choice or a discretion to an Operational Creditor, to provide an escape route from submission of the invoice, which can be treated as the most relevant document to prove the debt and amount in default.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 40 of 63
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		46. On perusal of the language of Section 8, it is clear that an Operational Creditor on the occurrence of default has been provided with the option of delivering a demand notice of the unpaid operational debt or raising an invoice demanding payment of the amount involved. The two options available for initiation of Corporate Insolvency Process are provided to deal with all the eventualities that may occur. For example, if an operational debt is in the nature of salary dues, then in that situation, the question of submitting an invoice does not arise. To deal with such a situation, Section 8 contains the provision for issuance of demand notice of the unpaid operational debt. Form 3 of the Adjudicating Authority Rules has only laid down the condition that the applicant has to give the details of the amount of debt, details of the transaction on account of which such debt fell due and the date from which such debt fell due, and as per Column 7 of the said Form 3, applicant has to attach the documents to prove the existence of operational debt and the amount in default. Likewise, where the operational debt involves the generation of the invoice, then in that case, invoice raising the demand may be sent to the Corporate Debtor demanding the invoice amount. In such a situation, the Operational Creditor has to issue the demand notice in Form 4 along with the invoice.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		47. Thus, it is clear that the choice of issuance of demand notice u/s 8(1) of the Insolvency and Bankruptcy Code 2016, either in Form 3 or Form 4, under the Insolvency and Bankruptcy Code Application to Adjudicating Authority Rules 2016, depends on the nature of Operational Debt. Section 8(1) does not provide the Operational Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 41 of 63 Creditor, with the discretion to send the demand notice either Form 3 or Form 4, as per its convenience. The applicability of Form 3 or Form 4 depends on whether the invoices were generated during the course of transaction or not. It is also made clear that the copy of the invoice is not mandatory if the demand notice is issued in Form 3 of the Insolvency and Bankruptcy Code Application to Adjudicating Authority Rules 2016 provided the documents to prove the existence of operational debt and the amount in default is attached with the application.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		48. It is also made clear that for filing application u/s 9 of Insolvency and Bankruptcy Code 2016, in case the demand notice is delivered in Form 3 of Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules 2016, then the submission of a copy of the invoice along with the application in Form 5 is not a mandatory requirement, provided the documents to prove the existence of operational debt and the amount in default is attached with the application.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		49. Learned Sr. Counsel for the Appellant - Corporate Debtor argued that the alleged debt does not qualify as an operational debt. It is stated by him that an operational debt can only arise against the provision of goods or services. In the psent case, the Respondent No.1 has failed to substantiate provision of a single good or services for which payment has remained outstanding. In the facts of the psent case, there can be no sale and supply of goods without a purchase order against which an invoice has been raised. In the absence of any supply or sale and any document to Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 42 of 63 substantiate the same, the Respondent No.1 would not be an Operational Creditor, and hence the Application under Section 9 would not be maintainable.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		50. The Operational Creditor/Respondent No.1 placed reliance on the definition of ‗claim' under the I&amp;B Code and argued that since the term ‗claim' has been used in the definition of the ‗operational debt', thus, even if the claims are disputed, the Respondent No.1 would be an Operational Creditor. As per provision of Section 8(1) of the Code, an Operational Creditor can deliver a demand notice only upon the occurrence of a ‗Default', which happens on non-payment of ‗Debt'. The word ‗Debt' has been defined to mean a liability or obligation in respect of the claim, which is due from any person and includes a financial debt and operational debt. Even otherwise, mere failure to reply to the demand notice does not extinguish the rights of the Operational Creditor to show the existence of a p-existing dispute. If there is no crystallization of the claim, there is no debt due or owed or default which the sine qua non for admission of an application under Section 9 of the Insolvency &amp; Bankruptcy Code, 2016.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		51. The Appellant - the Corporate Debtor, has emphasized on the Annexure A-4 of the Appeal paper book on page 119. Para 21 of the said registered notice sent to the Corporate Debtor, dated 26th March 2018 is reproduced herewith.
+	</p>
+	<p title="Precedent Analysis">
+		"7. Upon receipt of the goods from abroad as per the import plan, our client duly informed you, and you started picking up the quantities in parts. In the process, you picked up 6,527 TVs Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 43 of 63 during 21.08.2017 to 09.09.2017 and paid as per fixed agreed NLC's and for the balance quantity of 23,339 TVs you assured our client, that you shall soon issue necessary dispatch instructions/pick up schedule. It is a matter of record, and you are duly aware that our client effected aforesaid import exclusively for you as per the order given by you only.
+	</p>
+	<p title="Precedent Analysis">
+		8. Subsequently, you did not pick up the balance quantity up to end of December 2017 citing various reasons of which our clients were not concerned, like, having any space due to Diwali rush etc., and only picked up the partial stock of 1,531 TVs leaving a balanced stock of 21,808 TVs with our client.
+	</p>
+	<p title="Precedent Analysis">
+		21. Needless to say, that on account of breaches on your part for not picking up the stock imported exclusively for you within the time stipulated and even violating the "deal buy" arrangement you made our client suffer, for no fault, on account of the following:
+	</p>
+	<p title="Precedent Analysis">
+		(i) Forcing of reducing of fixed Rs. 6,80,45,344.00 agreed NLCs
+	</p>
+	<p title="Precedent Analysis">
+		(ii) Increase in import duty cost due Rs. 2,42,65,384.00 to delay
+	</p>
+	<p title="Precedent Analysis">
+		(iii) Interest cost till 14/3/18 on Rs. 2,16,05,826.00 inventory
+	</p>
+	<p title="Precedent Analysis">
+		(iv) Value of the inventory failed to Rs. 21,58,66,500.00 pick up
+	</p>
+	<p title="Precedent Analysis">
+		22. We state that you have failed to pick up the aforesaid balance quantity of the product specifically/exclusively imported for you, based on your others and assurances, thereby breached the terms of the agreement between the parties and further violated the arrangement agreed upon between the parties for "delay buy"
+	</p>
+	Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 44 of 63
+	<p title="Respondent's Argument" data-structure="RespArg">
+		and have caused losses to our clients. Thus, actions have not only caused losses to our aforesaid client, but you have acted in violation of the terms and agreement dated 29th December 2019 and also violated the agreed arrangement of "deal buy" fir no fault of our aforesaid client resulting in disputes and difference between the parties to be adjudicated by referring the same to the Arbitral Tribunal in terms of Clause 18 of the agreement dated 29.12.2016.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		In view of the Clause 18, before, we proceed to refer the matter to Arbitral Tribunal, we hereby call upon you to come forward and mutually settle the aforesaid dispute within a period of 30 days from date of receipt of this Notice. In the event of your failure, it would be deemed that you are not interested in settlement of disputes amicably and our aforesaid client shall be liberty to proceed further for appointment of an Arbitrator at your cost risk and consequences in terms of the aforesaid clause.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Copy of this notice is retained for further action. For Rajiv Garg &amp; Co.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		(Ashish Garg) Advocate"
+	</p>
+	<p title="Precedent Analysis">
+		(Quoted verbatim)
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		52. On perusal of the above notice, it is clear that the Operational Creditor gave the above-stated notice to the Corporate Debtor, on account of breaches on the part of the Corporate Debtor stock of 21,808 TVs, exclusively imported for the Corporate Debtor were not picked up by it. Therefore, the Operational Creditor gave the notice that this is a breach of the contract, which has caused the Operational Creditor to suffer, for no fault on account of the following:
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 45 of 63
+	</p>
+	<p title="Conclusion">
+		(i) Forcing of reducing of fixed agreed Rs. 6,80,45,344.00 NLCs
+	</p>
+	<p title="Conclusion">
+		(ii) Increase in import duty cost due to Rs. 2,42,65,384.00 delay
+	</p>
+	<p title="Conclusion">
+		(iii) Interest cost till 14/3/18 on Rs. 2,16,05,826.00 inventory
+	</p>
+	<p title="Conclusion">
+		(iv) Value of the inventory failed to pick Rs. 21,58,66,500.00 up
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		53. It is further stated in the notice that since the Corporate Debtor failed to pick up the balance quantity of the product exclusively imported for the Corporate Debtor based on the orders and assurances, therefore they have breached the terms of the agreement between the parties and have caused losses to the Operational Creditor. It also appears that on account of the dispute mentioned above and differences between the parties, Operational Creditor invoked Clause 18 of the Supply Agreement, dated 29th December 2016 and thereby gave notice to the Corporate Debtor to settle the matter within 30 days, failing which the operational creditor would have proceeded for appointment of an Arbitrator.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		54. On perusal of the above document, it is clear there was an existing dispute on 26th March 2018, i.e. before the initiation of CIRP. It is also apparent that the dispute between the parties was on account of not taking delivery of 21,808 TVs, which were imported by the Operational Creditor, based on the assurance by the Corporate Debtor. But the Corporate Debtor failed to pick up these goods. Therefore, the Operational Creditor sent the Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 46 of 63 notice to the corporate debtor to make the payment within 30 days, failing which Operational Credit threatened to refer the dispute to Arbitral Tribunal.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		55. Learned Counsel for the Operational Creditor submitted that by e-mail dated 21st May 2019, notice Dt.26th March 2018 was withdrawn, on the ptext that parties have decided to negotiate in good faith and arrive at an amicable solution to pending issues.
+	</p>
+	<p title="Respondent's Argument" data-structure="RespArg">
+		56. Learned Counsel for the Appellant contends that the entire claim of the Operational Creditor is based on the issue of not taking delivery of 21,808 TVs, which were exclusively imported, on the assurances of the Corporate Debtor. It is argued by the Learned Counsel for the Corporate Debtor that since the goods were not delivered and the alleged claim is on account of loss due to not picking up of 21,808 TVs, thus the claim cannot be termed as an operational debt.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		57. Learned Counsel for the Corporate Debtor has placed relied on the synopsis submitted by the Operational Creditor before the Adjudicating Authority. The said synopsis is on page 172 of the Appeal paper book. In this synopsis, it is specified by the Operational Creditor, that:
+	</p>
+	<p title="Precedent Analysis">
+		"5. After receiving the said Purchase Orders, the Operational Creditor imported and procured the required quantities of LED TVs, which were then delivered to the Corporate Debtors desired location.
+	</p>
+	<p title="Precedent Analysis">
+		8. ....... The Operational Creditor facing huge losses and a liquidity crunch agreed to offer the said discount on the condition that the Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 47 of 63 Corporate Debtor forthwith takes delivery of the remaining LED TVs purchased by him and make payment for the same.
+	</p>
+	<p title="Precedent Analysis">
+		10. Various emails, in demand for payment for the aforesaid LED TVs procured and imported for the Corporate Debtor from 11th October 2017 to 1st December 2017, were raised by the Operational Creditor pursuant to the import of the LED TVs based on the Purchase Order Emails to no avail. As of March 2018, the Corporate Debtor had failed to collect more than 70% of the stock as ordered by them. A copy of the emails by the operational creditor demanding payment is produced herewith as Annexure VII.
+	</p>
+	<p title="Precedent Analysis">
+		12. The Operational Creditor facing heavy financial losses issued a notice and invoked the Arbitration Clause of the Supply Agreement. The Corporate Debtor on receipt of the Arbitration Notice threatened to withdraw from the deal entirely and not collect any of the remaining shipments unless the Operational Creditor withdrew the Notice. The Corporate Debtor even sent a letter where they worded the withdrawal letter which they demanded that the Operational Creditor sign and send. There is currently no other dispute or litigation pending before any other Court or Tribunal in relation to the psent subject matter.
+	</p>
+	<p title="Precedent Analysis">
+		15. Even after the Operational Creditor to most of the Terms of the Corporate Debtor, the Corporate Debtor failed to collect all the LED TVs Ordered, failed to pay the excess charges and costs as promised and failed to honour its commitment. Due to the failure of the Corporate Debtor in fulfilling its commitment, the Operational Creditor was forced to unload the uncollected goods at heavily marked-down price just so that it could remain afloat."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(Quoted verbatim)
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		58. Based on the above synopsis it appears that the alleged claim relates to the demand for payment for the LED TVs, procured and imported for the Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 48 of 63 Corporate Debtor from 11th October 2017 to 1st December 2017. In the period above, till March 2018, the Corporate Debtor had failed to collect more than 70% of the stock of LED TVs, as ordered by them. The Corporate Debtor failed to collect the LED TVs; failed to pay the excess charges and costs as promised and failed to honour its commitment. Due to the failure of the Corporate Debtor in fulfilling its commitment, the Operational Creditor was forced to unload the uncollected goods at a heavily marked-down price so that it could remain afloat.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		59. Thus by its admission, the title and possession of alleged uncollected goods, never been passed onto Flipkart and the operational creditor sold it to 3rd parties at a heavily marked-down price. The claim of the operational creditor is not crystallised.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		60. It is pertinent to mention that the Demand Notice, which was issued to Corporate Debtor in Form-3 contains the particulars of the Operational Debt in column 1 of the ‗Particulars of the Operational Debt'. The details of ‗Operational Debt' in Form 3 is mentioned below:
+	</p>
+	<p title="Court's Reasoning">
+		1. The total amount of debt, The total amount of debt is Rs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		details, of transactions on 26,95,00,000/- (Rupees Twenty- account of which the debt fell due Six Crore and Ninety-Five Lakhs and the date from which the debt Only).
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		fell due.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Purchase Orders made vide emails as per the Supply Agreement dated 29th December 2016.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 49 of 63 Hereto annexed and marked as Annexure I is a copy of the Supply Agreement dated 29th December 2016 and Annexure-II are the Purchase Order Emails.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		7. List of documents attached to Annexure I: Supply Agreement this application in order to prove dated 29th December 2016.
+	</p>
+	<p title="Conclusion">
+		 the existence of the operational Annexure-II: Purchase debt and the amount in default. Orders/Emails Annexure III: Computation of Amount in a Tabular Form
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		61. On perusal of the above notice, it appears that in Form-III Operational Creditor has only mentioned the total amount of debt without giving any detail of the debt. The list of documents which are attached to the Form-III Demand Notice contains only Supply Agreement dated 29th December 2016, Purchase Order/E-mail and computation of amount in tabular form. As per Proforma of Form-III, then Operational Creditor had to attach the documents with the Notice to prove the existence of Operational Debt and the amount in default.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		62. In this case, Operational Creditor has annexed Supply Agreement, Purchase Order E-mail and Computation of amount in a tabular form. These documents are not sufficient to prove the existence of Operation Debt and the amount in default.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		63. It is also noticed that the Application filed in Form-5[ under sub- rule(1) of Rule-6 of Adjudicating Authority Rules] in Part-IV of column-1 Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 50 of 63 Particulars of Operational Debt is given, and in Part-V, Column-8, a list of documents attached with the Application is given, which is as under:
+	</p>
+	<p title="Precedent Analysis">
+		1. The total amount of debt, The total amount of debt is Rs.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		details of the transactions 26,95,00,000/- (Rupees Twenty-six on account of which the debt Crore and Ninety-Five Lakhs only).
+	</p>
+	<p title="Court's Reasoning">
+		 fell due, and the date from The Operational Creditor and which such debt fell due. Corporate debtor had entered into a Supply Agreement dt. 29th December 2016. Under this agreement, the Operational Creditor from time to time supplied LED TVs as per the requirement of the Corporate Debtor. The Operational Creditor had a running account with the Corporate Debtor. The Operational Creditor raised various demands and emails to the Corporate Debtor for the LED TVs procured, imported, delivered and left uncollected with the Operational Creditor. The various dates on which the debt fell due are as per the table/computation showing dates of default and amounts. 8. List of other documents A. Resolution for Authorisation. attached to this application B. Table/computation showing in order to prove the dates of default and amounts. existence of operational debt and the amount in default.Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 51 of 63 C. Purchase Order Emails. D. Replies of the Operational Creditor confirming the Purchase Order Emails. E. Emails by the Corporate debtor delaying the collection of goods due to unavailability of warehouse space. F. Emails of the Operational Creditor demanding balance Payment and requesting collection of uncollected goods. G. Customs Invoices paid by Operational Creditor (excess custom duty paid due to non- collection on time) H. Correspondence reiterating the Corporate Debtors promises detailing the pic-up schedule confirming the purchase of goods.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		64. The said Form -5 in Part-V mandates that relevant document under which the debt has become due must be annexed. To satisfy this requirement, the Operational Creditor has chosen only to produce the Supply Agreement and the projection e-mails, which by themselves can by no stretch of the imagination, constitute proof of debt. In Part V, Row -7 of the Form-5 under the Rules also mandates that statement of Bank Account Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 52 of 63 where the deposit is normally received, must be attached. Even this Bank Statement has not been attached by Operational Creditor. Keeping in mind the summary nature of the proceeding, the Bank Statement is a crucial document to help establish which amounts have been received and lack thereof merits rejection of Section 9 Application.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		65. The Operational Creditor, instead of producing the relevant document, has solely placed reliance on a few e-mails to allege that it had suffered losses on account of projections for the demand provided by the corporate debtor. The figures provided by corporate debtor are only projections for the ‗demands' or ‗demand assumptions' and does not constitute a binding Purchase Order under the Supply Agreement. It is, for this reason, the Operational Creditor time and again requested the Corporate Debtor for issuing Purchase Orders to undertake the supply of goods.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		66. As per Clause-2(a), Clause-4(a), Clause-4(b) and Clause 6(a) and (b) of the Supply Agreement, there was a formal agreement, wherein the Corporate Debtor was to issue a Purchase Order against which the Operational Creditor had to issue an invoice at the time of supply of goods, under which the amounts would become payable.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		67. However, the Operational Creditor has failed to provide any documentary evidence including but not limited Purchase Order, Invoices, Proof of any intimation of sale to the end customers or any post-delivery services in order to substantiate its alleged claim as is required before issuing a Demand Notice under Section 8(1) of the Code. Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 53 of 63
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		68. Learned Sr. Counsel of the Corporate Debtor has placed reliance on a judgment of the Hon'ble Supme Court in the case of Mobilox Innovations (P) Ltd. v. Kirusa Software (P) Ltd., (2018) 1 SCC 353: 2017 SCC OnLine SC 1154 : (2018) 1 SCC (Civ) 311 at page 394 Hon'ble Supme Court has held that:
+	</p>
+	<p title="Conclusion">
+		―34. Therefore, the adjudicating authority, when examining an application under Section 9 of the Act will have to determine:
+	</p>
+	<p title="Conclusion">
+		(i) Whether there is an ―operational debt‖ as defined exceeding Rs 1 lakh? (See Section 4 of the Act)
+	</p>
+	<p title="Conclusion">
+		(ii) Whether the documentary evidence furnished with the application shows that the aforesaid debt is due and payable and has not yet been paid? and
+	</p>
+	<p title="Conclusion">
+		(iii) Whether there is existence of a dispute between the parties or the record of the pendency of a suit or arbitration proceeding filed before the receipt of the demand notice of the unpaid operational debt in relation to such dispute?‖ If any one of the aforesaid conditions is lacking, the application would have to be rejected. Apart from the above, the adjudicating authority must follow the mandate of Section 9, as outlined above, and in particular the mandate of Section 9(5) of the Act, and admit or reject the application, as the case may be, depending upon the factors mentioned in Section 9(5) of the Act.‖
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		69. Learned Sr. Counsel for the corporate debtor has also placed reliance on the judgment of this Appellate Tribunal in case of Ramco Systems Ltd. Versus Spicejet Ltd., 2019 SCC OnLine NCLAT 354 has held that: Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 54 of 63
+	</p>
+	<p title="Precedent Analysis">
+		―10. There is nothing on the record to suggest that the invoices dated 23rd July 2014 were forwarded or received by the Respondent- ‗Spicejet Limited'. Therefore, the Demand Notice issued on 24th April 2017 as relates to invoice dated 23rd July 2014, though it cannot be held to be barred by limitation, but in the absence of specific evidence relating to invoices forwarded by the Appellant and there being a doubt, we hold that the Adjudicating Authority has rightly refused to entertain application under Section 9 which requires strict proof of debt and default.‖
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		70. Thus, it is clear that the Demand Notice issued under Section 8(1) of the Code against the Corporate Debtor in Form-3 was incomplete. It is also apparent that the Application filed in Form -5 under Rule 6(1) of the Adjudicating Authority Rules is also incomplete and the Operational Creditor has failed to produce invoices, purchase orders or any documents to prove its claim and has filed a defective Section 9 Application for initiation of Corporate Insolvency Resolution Process.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		71. It is also apparent from the record that Operational Debt can only arise against provisions of Goods or Services. In the psent case, the Operational Creditor has failed to substantiate the provision of a single good or service for which payment has remained outstanding. In the facts of the psent case, there can be no sale or supply of goods without a Purchase Order against which an Invoice has been raised. In the absence of any supply or sale and any document to substantiate the same, Respondent No. Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 55 of 63 1 cannot be the Operational Creditor. It appears from the record that the Respondent No. 1-Operational Creditor has filed this petition based on the loss suffered by him on account of not taking the delivery of goods which were imported and shipped based on the assurance given by the Corporate Debtor. It also appears that due to not taking the delivery of goods ordered, the Operational Creditor suffered a huge loss on account of this. Thus Operational Creditor issued notice as per Clause 18 of the Supply Agreement for making the payment within 30 days, failing which he threatened to refer the matter to the Arbitral Tribunal. The Operational Creditor has admitted this fact in its e-mail that the Corporate Debtor has failed to take delivery of about 21,808 LED TVs by which the Operational Creditor was forced to unload the uncollected goods at heavily marked down price.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		72. The Computation Chart, as is mentioned on page 182 of the Paper Book, shows that the Operational Creditor has filed its claim for the following amount:
+	</p>
+	<p title="Precedent Analysis">
+		 Heading Order The amount Unpaid Dates of Value (in received (in amount (in default. Crores) cores) crores) Value of goods 72.45 58.50 13.95 31.03.2019 Customs 5.25 31.03.2019 charges Interest @ 7.75 31.03.2019 12.65% onCompany Appeal (AT) (Insolvency) No. 1354 of 2019 Page 56 of 63 delayed payment till 31st March, 2019 Total 26.95
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		73. In the above computation chart value of goods is shown as 13.95 crores, whereas the Operational Creditor has not produced any record, any Purchase Order, Invoices or any other document to substantiate its claim. The Operational Creditor is claiming Rs 5.25 crores as Custom Charges, whereas Clause 5(d) of the Supply Agreement provides that no Custom Charge was payable by Flip cart to the Operational Creditor. The Operational Creditor has further claimed Rs. 7.75 Crores as interest amount but as per Clause 13 of the Supply Agreement, regarding limitation of liability of Flip cart, it is specified that maximum liability of Flip Cart shall not exceed Rs. 5000/-.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		74. The claims in the heads mentioned above, seeking damages on account of Custom Charges; interest charges; interest amount; and loss on account non-taking of delivery of items imported based on the order and assurance of the Corporate Debtor has not been crystallized, and the Adjudicating Authority under summary jurisdiction cannot adjudicate and determine the claim amount payable to the Operational Creditor.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		75. It is pertinent to mention that before issuance of Demand Notice under Section 8(1) of the Code, the Operational Creditor issued a notice against the Corporate Debtor for making the payment within 30 days, failing which the Operational Creditor threatened to refer the dispute to Arbitral Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 57 of 63 Tribunal. On perusal of the records, it appears that there is a p-existing dispute, but the Operational Creditor withdrew the Notice issued by it on the ptext that the corporate debtor would try to settle the dispute amicably. After that, the Operational Creditor issued Notice under Section 8(1) of the Code and initiated action against the Corporate Debtor under Section 9 of the Code. Withdrawal of the said Notice does not mean that the dispute ceased to exist. The entire claim of the Operational Creditor is based on the loss caused to it on account of not taking delivery of 21,808 LED TVs which were imported and shipped on the assurance of the Corporate Debtor. Resultantly, Operational creditor suffered a huge loss and had to pay customs charges in addition to the normal customs duty and also suffered losses due to clearance of stock of uncollected LED TVs at heavily marked down prices. The loss to the Operational Creditor is not crystallized. The Adjudicating Authority exercising summary jurisdiction cannot determine the claim amount and initiate the corporate insolvency resolution process, as per law laid down by the Hon'ble Supme Court in the case of ― Mobilox Innovations (P) Ltd. v. Kirusa Software (P) Ltd., (2018) 1 SCC 353: 2017 SCC OnLine SC 1154: (2018) 1 SCC (Civ) 311".
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		In the above case, the Hon'ble Supme Court has held that:
+	</p>
+	<p title="Precedent Analysis">
+		―37. It is now important to construe Section 8 of the Code. The operational creditors are those creditors to whom an operational debt is owed, and an operational debt, in turn, means a claim in respect of the provision of goods or services, including employment, or a debt in respect of repayment of dues arising under any law for the time being in force and payable to the Government or to a local authority. This has to be contrasted with Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 58 of 63 financial debts that may be owed to financial creditors, which was the subject-matter of the judgment delivered by this Court on 31.08.2017 in Innoventive Industries Ltd. vs. ICICI Bank [Innoventive Industries Ltd. vs. ICICI Bank, (2018) 1 SCC 407] (Civil Appeals Nos. 8337-38 of 2017.
+	</p>
+	<p title="Precedent Analysis">
+		―29. The scheme of Section 7 stands in contrast with the scheme under Section 8 where an operational creditor is, on the occurrence of a default, to first deliver a demand notice of the unpaid debt to the operational debtor in the manner provided in Section 8(1) of the Code. Under Section 8(2), the corporate debtor can, within a period of 10 days of receipt of the demand notice or copy of the invoice mentioned in sub-section (1), bring to the notice of the operational creditor the existence of a dispute or the record of the pendency of a suit or arbitration proceedings, which is p-existing -- i.e. before such notice or invoice was received by the corporate debtor. The moment there is existence of such a dispute, the operational creditor gets out of the clutches of the Code.
+	</p>
+	<p title="Precedent Analysis">
+		51. It is clear, therefore, that once the operational creditor has filed an application, which is otherwise complete, the adjudicating authority must reject the application under Section 9(5)(2)(d) if notice of dispute has been received by the operational creditor or there is a record of dispute in the information utility. It is clear that such notice must bring to the notice of the operational creditor the ―existence‖ of a dispute or the fact that a suit or arbitration proceeding relating to a dispute is pending between the parties. Therefore, all that the adjudicating authority is to see at this stage is whether there is a plausible contention which requires further investigation and that the ―dispute‖ is not a patently feeble legal argument or an assertion of fact unsupported by evidence. It is important to separate the grain from the chaff and to reject a spurious defence which is mere bluster. However, in doing so, the Court does not Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 59 of 63 need to be satisfied that the defence is likely to succeed. The Court does not at this stage examine the merits of the dispute except to the extent indicated above. So long as a dispute truly exists in fact and is not spurious, hypothetical or illusory, the adjudicating authority has to reject the application.‖
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		76. The Ld. Senior Counsel for the Operational Creditor argued that during pendency of the Section 9 Application and post the order of the stay by the Hon'ble High Court of Karnataka, the ‗Corporate Debtor' after reviewing the issues regarding deficient goods, has done the internal review by terms of the Supply Agreement and released the payment of Rs.42,96,688/- (Forty-two lacs ninety-six thousand and six hundred eighty- eight only) which was found to be due and payable. Though the Respondent No.1 / operational creditor does not admit that only an amount of Rs.42,96,668/- (Rupees forty-two lacs ninety-six thousand six hundred and sixty-eight only) is due, reiterates its claim in the application. It is said that ‗Corporate Debtor' is attempting to create an impssion that it has paid whatever was due. Nonetheless, even as per its showing, amount more than Rs.1,00,000/- (Rupees one lacs only) payable by the ‗Corporate Debtor' to the Respondent No.1, which amount the ‗Corporate Debtor' has remitted to the Respondent No.1, without prior intimation, after the admission of the application by the Adjudicating Authority.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		77. In reply to the above, Learned Senior Counsel for the Corporate Debtor contend that as per the terms of Supply Agreement, various purchase orders have been placed by the Flipkart, against which invoices have been issued. Post the issuance of debit notes, a total reconciled Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 60 of 63 amount of Rs. 85,99,97,332/- has been paid by the Corporate Debtor to the Operational Creditor. This total amount contains the amount of Rs.42,96,668/-, which was originally withheld by the Corporate Debtor owing to defective/delayed goods and was later on released by the Corporate Debtor on 05th and 06th November 2019. This amount was released purely as a gesture of goodwill and without pjudice to corporate debtor's right to claim.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		78. Learned Senior Counsel for the Operational Creditor submitted that since the Corporate Debtor had paid Rs.42,96,668/- after the admission of petition, therefore, it will be treated as an admission of the Corporate Debtor that amount of more than Rs.1,00,000/- payable by the Corporate Debtor to the Operational Creditor was due and payable on the date of admission. It is further said that the Corporate Debtor failed to pay the amount exceeding Rs.1,00,000/- even after the demand notice under Section 8(1) of the Code, therefore, Adjudicating Authority was fully justified in admitting the petition.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		79. The above contention cannot be accepted because we have found that demand notice delivered under Section 8(1) of the Code was not proper and was also incomplete. The Operational Creditor failed to submit any documents to prove in existence of the Operational debt and the amount in default. The Operational Creditor also failed to submit the copy of invoices and copies of all the documents referred in the application to be submitted in Form 5, under Section 9 of the Code. The Operational Creditor has failed to submit the relevant documents under which the debt has become due. The Operational Creditor has only filed the copy of the Supply Agreement, Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 61 of 63 and the projections email, which by themselves can by no stretch of the imagination constitute proof of debt. The Operational Creditor had not filed a copy of the bank statement. Instead of filing the relevant document, the Operational Creditor had solely placed reliance on a few emails to allege that he had suffered losses on account of projections for the demand provided by Flipkart. The figures provided by Flipkart were only projections that do not constitute the binding purchase order under the Supply Agreement. It is also clear that before issuance of demand notice, Operational Creditor had itself issued a notice against the Corporate Debtor with a request of making the payment within 30 days, failing which the dispute was said to be referred to the Arbitrator. This notice was withdrawn before issuance of demand notice under Section 8(1) of the Code. But by withdrawing the said notice, the dispute does not cease to exist. The entire claim of the Corporate Debtor is an uncrystallised claim which cannot be adjudicated by the Adjudicating Authority under summary jurisdiction. In the circumstances, it appears that the Appeal deserves to be allowed and impugned order passed by the Adjudicating Authority admitting the petition, deserves to be set aside.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		80. We set aside the impugned order dated 24th October 2019 passed by the Adjudicating Authority and the application filed under Section 9 by the Operational Creditor Cloudwalker Streaming Technologies Pvt Ltd., company petition -CP (IB)260/BB/2019 is Rejected. The Flipkart India Pvt Ltd (‗Corporate Debtor') is released from the ‗Corporate Insolvency Resolution Process'. ‗Interim Resolution Professional' will handover the records and Company Appeal (AT) (Insolvency) No. 1354 of 2019 Page 62 of 63 assets of the ‗Corporate Debtor' to the Promoter immediately, who will manage the ‗Corporate Debtor'. The Appeal is allowed with the aforesaid observations and directions. The Adjudicating Authority is directed to pass an order for payment of CIRP cost.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		81. The copy of the order may also be communicated to IBBI and Secretary, Ministry of Corporate Affairs for reconsideration of the ‗format of Application' in Form 5, under sub-rule (1) of Rule 6 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules 2016.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice Venugopal M.] Member (Judicial) (Kanthi Narahari) Member(Technical) [V. P. Singh] Member (Technical) NEW DELHI 24th FEBRUARY, 2020 pks/md Company Appeal (AT) (Insolvency) No. 1354 of 2019
+	</p>
+</p>
+</html>

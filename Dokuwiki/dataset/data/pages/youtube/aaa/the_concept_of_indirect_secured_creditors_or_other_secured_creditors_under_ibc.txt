@@ -1,0 +1,528 @@
+# The concept of “INDIRECT SECURED CREDITORS” or “OTHER SECURED CREDITORS” under IBC
+![](https://img.youtube.com/vi/UXcHuE-mFN4/hqdefault.jpg)
+7 months ago (Dec 25, 2023) — 1:06:32
+[https://youtube.com/watch?v=UXcHuE-mFN4](https://youtube.com/watch?v=UXcHuE-mFN4)
+
+
+## Summary
+Today's webinar discusses the filing of claims by creditors when a corporate debtor has pledged or mortgaged an asset to a claimant for a loan given to a third party. The definitions of 'creditor' and 'secured creditor' are explained, with a focus on the priority of distribution of assets in liquidation and resolution processes. The distinction between financial and operational creditors is discussed, along with the treatment of secured and unsecured creditors. Judicial pronouncements from the NCLAT and Supreme Court are cited to support the discussion. The Pioneer Urban judgment is highlighted for its emphasis on the time value of money and disbursement for a financial creditor.
+
+## 89th episode of AAA Weekly webinar Series
+0:06
+Good morning everyone and welcome back to our weekly webinar Series. Today is our 89th episode over to an thank you, anit. I am I like expecting a lot of questions today, because this subject that we have chosen is primarily based on the demand of various our wellwishers and also viewers. 
+
+0:34
+So before I start, I welcome all of you to our 89th episode of AAA weekly webinar series and the subject is which is purely a new subject. We have not dealt with this subject before. However, this is very important. See the various questions which came to me was that the corporate deor has not given loan to the claimant and the corporate deor has pledged or mortgaged one of its asset to the claimant. 
+
+1:17
+Loan has been given to another entity. asset of the corporate dator is pledged or mortgaged to give loan to that other entity. So the question is whether the claim can be filed before the corporate data, because there is no loan given to the corporate data. Secondly, there is no corporate guarantee given to the lender. So if there is no corporate guarantee, there is no loan, then what is the status of this transaction? 
+
+
+## Creditor classifications for Financial Creditor and Operating Creditor
+1:55
+And the transaction is that one of the asset of the corporate dator is mortgaged or pledged to the lenders and the loan has been given to a third party. Now we have so far understood that the meaning of the Creditor and there are only two kind of classifications in the creditors. One classification is financial creditor and operational creditor, and the second kind of classification is secured creditor and unsecured creditor. to understand these two classifications. 
+
+2:36
+Let us first of all see the definitions given in the code. The first definition is the definition given in Section 3, subsection 10, and that is the definition of creditor. In this definition, there are four kind of creditors have been defined. That mean means any person to whom a debt is owed and includes a financial creditor, an operational creditor, a secured creditor and an unsecured creditor, and a decree holder and a decree holder. 
+
+3:12
+So basically decree holder is also a creditor. That is also very clear in this definition under Section 3, subsection 10. Going forward another section three, subsection 30, defines the definition of secured credit and that is defined as a creditor on in who in favor of whom a security interest is created. then we go to section 331 and the definition of security interest is given. I think we are not dealing with that subject today. 
+
+
+## Security Interest: Section 53, Non Oban Law, Non Oban Law
+3:50
+Once we are clear that the security interest is created, then the today's discussion is applicable. Then we are not discussing the security interest. This is very clear that the security interest has to be there. Then only it will become secured creditor. Now then we go to section 53, which is the section which actually would be used for distribution of proceeds in the case of liquidation of the company. 
+
+4:22
+However, this section 53 is also used in section 30, subsection 4 of the IBC, which deals with the resolution plans. So section 3053 is important. Therefore it is used in the resolution plans as well as in the liquidation processes. first of all, let us see section 53 what it says about the creditors. Distribution of assets, section 53, non Oban law. 
+
+4:55
+So the after the cirp cost and the liquidation cost, the first priority is given to the Workman dues and secured creditor. Now the secured creditor. Only those secured creditor who has relinquished security interest in the manner set out in section 52. Now the secured creditor is the word very clearly: not a financial creditor. Not an operational creditor, not other creditor. Not direct creditor, not indirect creditor. The definition is only secured creditor. 
+
+
+## Corporate Guarantee: What is the Corporate Guarantee?
+5:33
+So this is where the secured creditor is basically inclusive of all kind of creditors. It may be. It may be Financial creditor, it may be operational creditor, it may be other creditor, it may be direct creditor, it may be indirect creditor. 
+
+5:51
+So these are the various categories that we have seen now practically in the professional, in the claims that yes, somebody is not an operational creditor, somebody is not a financial creditor, then it has to be something which is other creditor, direct creditor or indirect creditor, mostly indirect creditor, because the direct creditor will come under the operational creditor or means the direct creditor means that anyone who has given loan to the corporate data, of course then we when we go ahead, then we also see the Clause D which says find financial debt owed to unsecured creditor and the financial debt is defined under Section 5 subsection 8, a detailed definition, and in that detailed definition the corporate guarantee is also covered as a financial debt. 
+
+6:45
+Corporate guarantee is also covered as a financial debt, and it was a huge discussion amongst the professionals that once a company gives his own asset to secure a loan given to another entity, that also means that it is a deemed corporate guarantee. However, the Apex court has actually said in two, three times, in two, three cases, that corporate guarantee is a specific agreement. It cannot be a deemed agreement. 
+
+
+## Corporate Guarantee: What is the difference between corporate guarantee and f F
+7:21
+So in case there is no corporate guarantee agreement, then there is no corporate guarantee. There is no promise to pay and there is no promise to f F an obligation. It is only the property which is mod cased. So in case the lender is not able to monetize that property, then there is no promise. there is no obligation on the company, on the owner of the asset, to make payment to that loan. 
+
+7:51
+So this is very clear that when I give corporate guarantee along with an asset, then my responsibility ities to make payment and for making the payment, the lender can take the enforcement right on the security interest. 
+
+8:09
+However, when I have only given my property and in case that lender is not able to recover anything from that property, that lender cannot come back to the company, to the Corp dator, to claim that amount from other assets of the company. So that is the basic difference between the corporate guarantee and just giving one asset to another entity lender. so anit. 
+
+
+## How this is used in section 30, subsection 2 in the resolution process
+8:34
+I think this is very clear and when I was actually trying to see how this is used in section, how this is used in section 30, subsection 2 in the resolution process. 
+
+8:46
+First it is dealt in section 30, subsection 2, which provides that the amount payable to operational creditor should be at least the amount which would have been distributed to them as per the priority under section 53. So this is where the section 53 is being used. So section 53 is also important in resolution process. It is also important in liquidation process. So we can't say that it is only made in. So then section the SE. 
+
+9:16
+Then section 30, subsection 4. This is actually a very important. Then I say in section 36, section 4, the this was also amended section. it was amended section. So now let me let me read this a little carefully and I would say that this is the committee of creditors May approve a resolution plan, this. 
+
+
+## Decision Making of Financial Creditor
+9:41
+These are the mandatory conditions of resolution plan by vote of not less than 66% of the voting share of the financial creditor. That means only financial creditor will vote after considering its feasibility and viability. Feasibility viability is the responsibility of the committee of creditors and the manner of distribution proposed. The manner of distribution proposed is also supposed to be seen by the committee of creditors which may take into account which may take into account. 
+
+10:11
+It is not shall it is May the order of priority. Order of priority means whether it's a first charge. it's a second charge, subservient charge, order of priority amongst the creditors, as laid down in subsection one of section 53. So section 53 is also mentioned, because the order of priority is like first it will be cirp cost and it is secured creditor plus Workman parasu, then it is unsecured financial debt and then so on. 
+
+10:40
+Including now what it is saying after in the manner and considering including the priority and the value of the security interest. The first is the order of priority as per section 53. Then is the priority of charges, priority of charges like first charge, SE charge, suban charge, and also value of the security interest of the secured creditor. here the word is secured creditor when it comes to voting, the word is financial creditor. 
+
+
+## Financial Creditor Distribution: How to make distribution
+11:10
+Anit can you see in the second line the word used is financial creditor. Then we are saying that the how the distribution will be made it is the word used is secured creditor. That means voting will be done only by this financial creditor. However, the distribution will also be given to the secured creditor and such other requirement as may be specified by the board. So that is something which is very clear. 
+
+11:35
+Section 30, subsection 4 gives a power to the committee of creditors and the committee of creditors may also means should consider the order of priority value of security and the priority of charges of each secured creditor and not restricted to the financial creditors. 
+
+11:55
+So in a resolution plan also, the distribution will be as for secured creditor in the liquidation also, the distribution will be as per secured creditor, irrespective of the fact whether you are a financial creditor or you are an operational creditor or you are an other creditor or you are indirect creditor. The distribution will be as per the only and only definition, whether you are secured creditor or unsecured creditor. 
+
+
+## How to rank unsecured or secured creditor
+12:20
+So this is something which is very important that I wanted to say that then, of course, the other part of the mandatory contents of the resolution plan is that the code the. Therefore, the code makes a distinction between the financial and operational creditor, while simultaneously retaining the conventional classification of being secured or unsecured. secured or unsecured is definitely there and the distinction between the financial and operational creditor definitely is also agreed. 
+
+12:58
+Now the following de cell rank equally between amongst the following is importance equally of ranking between the Workman use and the debt or to secure creditor. That is what it means when we say the debt ranking equally between and amongst the following. So this is so. Now we actually can see the twofold distinction and distinction in the section 53. One is secured and unsecure and the operational and financial. 
+
+13:27
+So this part now we have tried to see that this is one part, which is the definitions secured creditor and financial creditor. So now I think anit we actually there are some questions. I can see the raised hands, but I think we can take something forward and then we should take the question: what do you say? Yeah, I think that's that would be great. Yeah, I thought that should be preferred. 
+
+
+## judgments that are a new judgment
+13:55
+Yeah, because see, like there are some more issues that we need to discuss, some more judgments that we need to discuss. Then we will take up the questions right then. We also now try to see what kind of judicial pronouncements have actually come on this subject. 
+
+14:11
+So we actually would like to see couple of judgments which are like let us start from one: Jr Agro Industries private limited versus swadish oil private limited, and not a very new judgment. But then it comes to unsecured creditor. unsecured Financial creditors appears in the fourth rank, but unsecured operational creditor comes in the sixth rank. That is where the distinction was trying to operational creditor and that kind of Distinction was defined in this. 
+
+14:43
+So therefore, the NCL alabad in fact in this case, held that since the term secured is used in section 53, subsection one, Clause B, and there is no indication of the type of debt that is financial or operational payable to such secured creditor. So the secured actually means whatever it could be. It could be operational, it could be Financial. It could be other. It could be direct. It could be indirect. 
+
+
+## Wayback 2018 judgment on Vitran Nigam limited versus ramanath private limited
+15:09
+Therefore it is it makes no difference to the treatment of the to the secured creditor, whether they are Financial, operational or other, and the secured creditors will be treated equally. this is the like Wayback 2018 judgment from NT alabad bench and then we also have this piman vidut Vitran Nigam limited versus ramanath private limited. 
+
+15:34
+For some point of time, this particular judgment was considered to be a kind of review of rainbow paper, but later on the rainbow paper's own review came. That order came. So still rainbow paper is considered to be applicable, so in this case also. 
+
+15:50
+The Honorable Supreme Court has tried to place a significant importance and emphasis on the waterfall mechanism under section 53. so the Apex court has defined the payment of debt to secured creditors who wave their security interest in favor of the liquidation and also said that the Workman. 
+
+
+## Creditor's debt is owed to a secured creditor
+16:15
+This is all defined kind something, then the debt owed to a secured creditor whenever such secured creditor has relinquished security interest in the manner this is also receives a fairly High priority. This is the observation, then the code balances the rights of secured creditor, who are either financial institutions service providers or classified as other secured creditors. 
+
+16:42
+Also ensures that the economic activity and Revival of a viable company is not hindered because it suffered or fallen into a financial crisis. so the secured creditor actually are being treated at fa fairly high priority and irrespective whether that person has provided security, provided funding or services or Goods or other kind of creditors. 
+
+17:12
+And then the code also has carefully thought out give options to secured creditor and balances their interest in whose favor the other creditors in a liquidation proceedings. The as we've already said that the financial creditor and financial debt has been defined in section five, subsection 5 and subsection 7 and and we carefully see that the financial creditor. 
+
+
+## Supreme Court judgment in pioneer Urban Land and infrastructure limited versus Union of India
+17:38
+So then we see the section five, subsection 8, and finally we see the supreme court judgment in the case of pioneer Urban Land and infrastructure limited versus Union of India. That is, the Judgment came in 2019. so in this judgment, the Apex court has already said that the definition of financial debt in Section 5 subsection 8 then goes on to state that debt must be disbursed against the consideration for the time value of money. 
+
+18:07
+Now the dispersement has already been defined in the in the in the law dictionaries. So let us start from the concept which has finally come into the vistra Judgment. It started somewhere in 2019, when this Pioneer Urban law and infrastructure limited judgment came, and the disbursement was considered to be a very important part of being a financial creditor. 
+
+18:32
+So when we are discussing the case that we are discussing, no dispersement has been made to the corporate data. Therefore, it is actually not fulfilling the requirement of section five subsection 8 regarding disbursement for the time value of money. so there is two. Two things are missing: disbursement to corporate data. Second, time value of money, because whatever the financial debt would be that financial debt would have some time value. 
+
+
+## Pioneer Urban judgment says no time value of money for the corporate deor
+19:01
+When I give my asset, when the corporate deor give an asset to secure the loan of another entity, there is no time value of money for the corporate deor. There is no dispersement to the corporate dator. There is no time value of money to the corporate dator. That's what the this. 
+
+19:20
+That's what this Pioneer Urban judgment is trying to say: the Act of paying out money commonly from fraud or in settlement of the debt on account of payable the money so paid and amount of money given for a particular purpose. now the Supreme Court has also said because these two things are in fact basically taken from the JP infratech limited, the IRP versus AIS bank. 
+
+19:46
+Now, in this, in this judgment, the expression means and includes, in fact has been very kindly elaborated on. The very same principle of interpretation indicated above makes it clear that for a for a person to become a creditor, there has to be a debt. For a person to become a creditor, there has to be a debt, and that is a liability or an obligation in respect of a claim which may be due from any person. 
+
+
+## What we are seeing in JP infr limited
+20:16
+See when the that the case that we are discussing. The corporate letteror has not taken any loan. The corporate dator has only given his asset to secure the loan given to another entity. that means the liability to pay back that loan is not on the corporate dat liability to pay back that loan is on that other entity. So I think this is what we are trying to clear so it doesn't become a financial debt. 
+
+20:43
+Then coming to the security secured creditor, Section 3, subsection 30 says the security interest is created. Yes, the security interest is created. The asset of the corporate dator is mortgaged to another lender and that lender has also created a security interest before the regist of companies, before cersi. So that security interest is very well evident that yes, the security interest has actually been created. 
+
+21:12
+So the again the definition of security interest was discussed in JP infr limited and the mortgage created. Any mortgage created in leads to a security interest. however, when all the defining Clauses are read together and harmoniously, it is clear that the legislature has maintained a distinction amongst the expression Financial creditor, operational creditor, secured creditor and unsecured creditor. This is what we are seeing since the beginning of this webinar today. 
+
+
+## JP infa judgment: Every secured creditor would be a creditor
+21:42
+So therefore, every secured creditor would be a creditor and every Financial creditor would also be a creditor, but every secured creditor may not be a financial creditor. This is what very clearly has been said in this JP infa judgment. So every secured creditor may not be a financial creditor. That has been said in this judgment. 
+
+22:02
+And then finally coming to the Judgment, which is the judgment on 4th of May 2023, that is the vistra itcl India limited versus dinar wut sub, and this was in the case of mtech Auto, a very large company, and this judgment has come from honorable Supreme Court. Now the this judgment has actually given a unique class of creditor, that is, indirect or other secured creditor. 
+
+22:34
+So this particular judgment has, for the first time, they have used the indirect or other secured creditor. So therefore this discussion, therefore this webinar, that what is this indirect or other secured creditor? What are their rights under resolution? What are their rights? What are their rights under the liquidation? So that is what we are going to discuss, and first of all, let us try to understand the facts of this case. 
+
+
+## Mtech Auto Limited borrowers, what is the basis of loan?
+23:03
+So this company, like mtech Auto limited. Mtech Auto limited was basically the company which has two companies: L&T Finance limited and KKR India Financial limited. They had actually given loan of about 500 CR to Brasco engineering and another Investment Company. So these are the two borrowers. So the borrowers are, let us try to say, the Brasco and wld. These are the two borrowers and the what is the basis of this loan? Mtech Auto. 
+
+23:39
+The borrowers, these are the. These are the group companies of mtech Auto. These are the brook group companies of the mtech auto. So the shares of mtech Auto, shares of mtech V, was mged to L&T finance and KK India Finance fincial services to take a loan of 500 crores. 
+
+24:02
+So then vistra itcl was appointed as the security Trustee of the creditors because this mtech created a first ranking exclusive pledge in favor of vistra being the security trustee for the creditors over 6.67% of its shareholding in GMT Auto. GMT Auto is a company again from the group company the like. Mtech Auto moded the shares of GMT Auto to L&T finance and KKR and the loan was taken by Brasco and wld. 
+
+
+## NT seeks vistra as a secured Financial creditor of mtech
+24:41
+Now the mtech auto in fact came in cirp and the Liberty house resolution plan and everything was that story, of course, is not really important in this case, and the then with VRA and the creditors filed an application NT seeking rpb directed to include vistra into the COC as a secured Financial creditor. That is the first time they filed their claim. in the second cirp process. 
+
+25:10
+Nclt dismissed that, saying that the approved the resolution plan of DVI resolution plan has already been approved. So DV is Dean value investors. So they said that it is and they cannot. Then NT again said the NT made some observations. 
+
+25:35
+Nclt said that the vistra and the creditors had not challenged the rejection of the RP of the vistra as a secured Financial creditor of mtech in 27, after which Liberty house group resolution was approved and therefore it was not open for vistra to raise this issue later in 2020. Mtech did not owe any financial debt to vistra as the creation of pledge did not amount to Grant of any guarantee or Indemnity by the mtech to the Creditor. 
+
+
+## cirp: What is the difference between VRA and Creditor?
+26:04
+This was the observation by anlat in this case of VRA and dinkar. now the word used here by anlat is the there is no guarantee or Indemnity. Now this guarantee or Indemnity word has been taken from section five, subsection 8 sub Clause I, there is in case there is a guantee or in case there is an Indemnity. That means it is a financial debt. So enat is first in said that there is no. 
+
+26:32
+There is there is no granty or there is no Indemnity. Therefore there is no Financial CR. Now, because of this, the vistra went to Supreme Court of India. Now the Supreme Court of India Supreme Court of India in fact had to deal with basically two legal issues: one, whether VRA and creditors be treated as secured creditors, vistra and creditor. The word is being used only because the vistra is a trustee and representing the creditors. 
+
+27:02
+So therefore the vistra and the Creditor word is being used, whether they should be treated as secured creditor. And secondly, what would be the treatment of Rights of a secured creditor who neither fell, who neither fell under the category of financial creditor nor under the operational creditor. So this was the two questions with the honorable Supreme Court. Now the Supreme Court says treatment of indirect secured creditors during cirp. 
+
+
+## Indirect secured creditors are not defined under the IBC particularly normally
+27:31
+Indirect secured creditors are not defined under the IBC particularly normally, a secured creditor is an entity that lends money to the corporate dator and some assets are pledged with him as a security. That is what is the normal definition of a secured creditor and in this in the. The Honorable Supreme Court. this the New Concept of indirect secur creditor was, in fact, is something which has come into this particular judgment only now. 
+
+28:04
+In this case, the it is saying that the corporate data utilized it its assets as collateral to secure the loan given to another company, other entity. These creditors do not actively participate or engage in the corporate datus operations. Their sole interest lies in selling the pledged shares. In this case it was shares. Now, in some cases it can be some property in it can be any asset. 
+
+28:33
+So in this is a case where the shares owned by the corporate data was pledged to give loan to another entity. We might have cases where the properties real estate properties owned by the corporate dator is mortgaged to lenders to secure the debt given to other entities. so it is absolutely similar. There is no difference in the definition of asset. Shares are assets. Similarly, real estate is also asset. So now in this case the question of law. 
+
+
+## cirp: What is the legal Provisions or considerations for indirect secured creditors?
+29:09
+In the case with the dealt with by. The Honorable, whether the whether the legal Provisions or considerations govern the treatment of indirect secured creditor during cirp, then there is no specific provision offering them special treatment concerning the mandatory contents of a resolution plan. So this was the this was a question of law, whereas I have already said that the secured creditor section 30, subsection 4 says that the secured creditor they would. 
+
+29:41
+The committee of creditors will decide.committee of creditors will decide how much to be given to each claimant. however, the committee of creditors may consider the prior the priority under section 53 and also the priority of charges and the value of security interest while allocating proceeds of resolution plan to the claimants. Now there is no specific prision. 
+
+30:18
+However, the Supreme Court says treating indirect secured creditors as Financial creditor of the corporate dator up to the amount of estimated value of the pledged share that was one option. This was also discussed in this particular judgment. One alternative is that we can consider the indirect secured creditor as Financial creditor to the extent of estimated value of the pledged shares, thereby making them a member of the committee of creditors and give them voting rights. 
+
+
+## Financial creditors: What is the legal ISS issue?
+30:49
+However, this proposed alternative is surrounded by myriad's legal issue. there are various legal ISS issues, which is which will come up in case we consider these creditors as Financial creditors. Now the first difficulty. The first difficulty would be: first of all, there is no de creditor relationship and the absence of time value of money which has actually been held. 
+
+31:14
+In the case of Anu Jan IRP for JP infr Tech limited versus AIS bank that we've already discussed. The Supreme Court has held for an entity to be classified as a financial creditor. As for Section Five subsection 7 of the IBC, the relationship between the financial creditor and corporator must exist primarily and financial debt must have been taken by the corpor dator from such creditor. 
+
+31:41
+So the first of all, the primary class from primary threshold is that first of all there should be a relationship of a debtor and creditor. However, the example that we are discussing today. The property of a particular company is mortgaged to lenders to secure a loan given to another entity. So there is no relationship of detor and creditor between the claimant and the corporate dator. 
+
+
+## Supreme Court says that the financial debt must involve the Essential Elements of the time value of money
+32:08
+It is Well the further the Supreme Court says that it is well settled that the financial debt must involve the Essential Elements of the time value of money. Because see, there is no interest which is coming on the corporate dator. There is no time value of money to the corporate dator. Whatever interest is being paid that is being paid by the other entity. So there is no time value of money. 
+
+32:30
+In this case this means that the financial creditor must receive something extra besides the principal amount from the corpor dator over a specific period. That extra is not coming. The corporator has only given one asset to another entity and that nothing other than asset whatever is recoverable from that asset that lender will recover. 
+
+32:51
+In case the lender is not able to recover then that money, that there is no recourse on the corporate data there is no recourse. So when there is no recourse, that means there is no guarantee. There is no Indemnity. When there is no guarantee, no Indemnity. That means section defination of section five, subsection 8 is not applicable on this particular example that we are discussing. then the second question. 
+
+
+## A pledge of share does not constitute financial debt. Pledge of share or even mortgage of
+33:15
+A pledge of share does not constitute financial debt. Pledge of share or even mortgage of a property both does not constitute financial debt. Now in this case, coming to this judgment again, it was argued that since the corporator has pledged its share to secure the loan given to a third party, it shall be treated. 
+
+33:36
+It shall be treated as a grunter and this grantee would fall within the umbrella of financial debt under Section 5, subsection 8, Clause I. As I said already, the said argument is completely untenable, as a fundamental difference exists between the pledge and grantee. Fundamental difference between pledge or mortgage one side, the other side is a guarantee. So there is no guarantee. It is only a pledge or a mortgage. 
+
+34:06
+Simply a pledge or mortgage doesn't mean guarantee, because the Supreme Court has already said in Phoenix Arc private limited versus kle by ramu by Patel, and this was said long back in 2019, and it was said that contract of guarantee involves two essential elements: one, a contract to perform the promise or discharge the liability. So these two elements are missing in this transaction. 
+
+
+## What are the legal hurdles going forward for indirect secured creditor
+34:37
+There is no contract between the lender and the corate dator to perform a promise. The asset has been given. You can recover from that asset. There is no further contract discharge the liability. There is no liability of the corporat to discharge that loan. So therefore a pledge. 
+
+34:56
+Therefore, a pledge or a mortgage cannot be equated with the contract of guarantee, as the liability of the corporate dat herein is restricted to the extent of the pledged share in the event of default by the borrower. The indirect secured creditor has a limited right to sell such shares or property, which does not necessitate the corporate dat to perform a promise or discharge the liability. 
+
+35:22
+So it is very clear this particular judgment VRA versus dinkar, it's actually very clear the even the options were discussed. In case we do this, then what are the legal hurdles? In case we do this, then what are the legal hurdles going forward? Now? The again this particular judgment is discussing unique status of financial creditor cannot be extended to indirect secured creditor. 
+
+
+## Aex Court says Financial creditors enjoy unique status owing to their involvement from initial stages with the
+35:49
+Now the aex court is trying to differentiate between the unique status of financial creditor and the indirect secured creditor. For this particular classification for the elaboration, the Supreme Court has relied upon their own decision in the case of Swiss ribbon private limited and others versus Union of India. 
+
+36:11
+In that case, the Apex Court held that in scheme of IBC, the financial creditors enjoy a unique status owing to their involvement from the very initial stages with the corporate data. Financial creditors are those who are involved with the company from the initial stages. They would understand ins and outs of the company. They would understand the economics of the company. They would also understand how to resolve. 
+
+36:41
+Therefore they have been given the unique status of a financial creditor and to participate into the committee of creditors and to approve a resolution plan or to reject a resolution plan. That unique status has been given to financial creditor and in case it is extended to the indirect Financial creditor. Indirect secured creditor, not Financial indirect secured creditor. Let us see what the court says. 
+
+
+## Indirect secured creditor is limited to realizing the security interest and recovering money from the co
+37:04
+The interest of indirect secur creditor is limited to realizing the security interest and recovering money from the corate data, nothing else. This case in the Anu Jan judgment observed that the indirect secured creditor have a remote connection with the corporate dator bre of any long term objective of Revival and growth, and they shall not be accorded the unique status of the financial CR creditor. 
+
+37:26
+That is something which is completely clear that the relationship of these lenders is only to recover their money totally breath of any long term objective of Revival or growth of the company. Therefore, they cannot stand shoulder toh shoulder with financial creditors. 
+
+37:50
+Now treatment what would be the treatment of index secured creditors during liquidation now give giving their rights and entitlements as provided to the secured creditors very clearly under Section 52, this vistra itcl India limited it is in this judgment it is said that the secured creditor will have the right to invoke section 52 and do not relinquish their security interest in favor of the Liquidator in case the company goes into liquidation, so they can actually sell their own pledged security outside the process of liquidation. 
+
+
+## Supreme Court says it does not say special protection for such indirect secured creditor at the stage of
+38:26
+Now the in the. Let us try to understand. The said observation has ra raised several concerns. Now the Supreme Court has said the IBC does not EnV say special protection for such indirect secured creditor at the stage of cir in liquidation. They have that protection. However, in the cirp when this judgment came. Actually, when this Sr steel judgment came, the section 30 subsection 4 was not there. Section 30 subsection 4 came later of. 
+
+38:56
+However, in this particular judgment during cirp, it is noted that the secured creditor as a category fall under the broader classification of financial creditor and receive substantial protection. However, indirect secured fin creditors not categorized as Financial creditor due to their restricted involvement in the CDs Affairs, providing them with an elevated level of protection would be illogical. that's what was held in Sr steel limited versus T Kumar Gupta. 
+
+39:24
+That was long back in 2019 and after that we actually have received this section 30 subsection 4 amendment in IBC. Now coming to the another question, restricting preferential treatment of secured creditor in liquidation to direct secured creditor under section 53. So in this case the I believe the court is again taking the taking whatever was held in JP infratech and in the case of Anu gen. So again section 52 is applicable to secured creditors. 
+
+
+## Supreme Court: They cannot be put on the same pedestal where the financial creditors are standing
+40:01
+They actually have a right to not to relinquish their security interest and they have a right to enforce their own security interest, recover their money and however the financial creditors it is held. where the later means the financial creditor like see this indirect secured creditor. They are not involved called in assessing the viability nor lending any money to the corporate dator. Therefore, putting them on an equal pedestal would do more harms than good. 
+
+40:36
+So the Supreme Court is very clear that the these lenders, they cannot be put on the same pedestal where the financial creditors are standing because they have no involvement in the. They have no involvement in the corporate data. But there was another issue which came now. 
+
+41:00
+The question came that the Clean Slate Theory now suppose mtech Auto has pledged shares and the shares were in cached by the other lender and the loan was given to the loan was given to the other entity. now in this case, the when this amount is recovered from the when the amount is recovered from the shares, then the resolution applicant will have the right to recover that kind of money from. 
+
+
+## mtech Auto will definitely go clean to any other person who actually is a successful resolution
+41:44
+The Entity for which the shares were pledged. However, in this particular case, the Clean Slate theory is not applicable because the because we are talking about mtech Auto. So mtech Auto will definitely go clean to any other person who actually is a successful resolution applicant. But the successful resolution applicant can recover that kind of money from those entities for which the share assets of the company has actually been enforced and it has been sold. 
+
+42:17
+Now coming to the Voting Rights. Vis is the other secured creditor. The section 21 says that the IRP shall constit Committee of creditors. the committee of creditors will comprise of all Financial creditors, where the corporate owes financial debt to two or more financial than the Consortium. Section 21 does not talk about the secured creditor, but it is only the financial creditor. So if someone is a financial creditor, will become part of the committee of creditors. 
+
+42:47
+If not, if not a financial creditor, then will not become part of the committee of creditor. This is very clear. According to the financial creditor is secured or unsecured will become COC members. On the other hand, all other secured creditor, including the secured operational creditor, other secured creditor or indirect secured creditor, will not have any voting right into the COC. 
+
+
+## GR vs. GR vs. GR vs.
+43:10
+So the finally conclusion in this case was that yes, the pledge of shares pledge of assets, mortgage of the assets of the corporate dator to GR to facilitate loan to other entities. The claimant will become other secured creditor or indirect secured creditor. They would not be able to participate into this Committee of creditors because the committee of creditor is restricted to financial creditor. 
+
+43:44
+Financial creditors are supposed to be those financial institutions who are involved in the company. They are involved in the growth of the company. They have seen the company right from the beginning. So these creditor have a limited interest of enforcing their own security interest, monetizing that security. And in case they are not able to monetize that prop security interest, that secured asset, then they would have no recourse on the corporate data. 
+
+44:13
+Therefore their status would be indirect secured creditor. I think now we can take up some questions, so I am just opening up the questions now. I will start with the first question that came in. Soes Shi ask is asking ABC private limited corporate guarant has given corporate guarantee for loan lent to XYZ. 
+
+
+## Private limited corporate garer is admitted to nclt and simultaneously or later to that
+44:47
+Private limited corporate garer is admitted to nclt and simultaneously or later to that XY Z is under default or leader to that XYZ is under default? Will lender of XYZ be treated as FC as they invoke CG later to ABC admitted to nclt? I believe there's a problem with the question. I think the I what I could understand about the question that this is a question regarding the corate guarantee. 
+
+45:23
+Now the corate guarantee is a I considered to be a financial Deb five subsection 8, Clause I, the only the only condition is that the corporate grantee should be invoked. So even if in some cases I have seen, then even if it is not invoked, a corporate guarantee would be entitled to a claim to the IRP, and IRP will admit that and it will be considered as a financial creditor. 
+
+45:52
+So in case any of the asset of the corporate dator is also mgas, then it will become secured Financial creditor. And in case there is no asset of the corporate dator, is morgas, it is only a simple corporate guarantee, then it will be unsecured Financial creditor. So this is this is this kind of clarity is very clear. 
+
+
+## rites Sha G: Should ABC borrower be admitted into NT?
+46:14
+I think we can even see in case rites is raised hand, in case he can speak and we can take. So I think I think R is only talking about a change in the evident. He's saying that the primary borrower, XYZ private limited, has not defaulted when ABC, which is the corporate garer, has been admitted into NT. 
+
+46:36
+I think the question is that if XY Z is not in default as on the CRP date, but the corporate guarant for XY Z's loan has gone into NT, will the? I think we can ask. We can ask from rites Sha G, in case you can just can unmute, can unmute, yeah now AUD. Yes, very much so my question is that whether the corporate, my borrower is in the default or not in default. 
+
+47:10
+Maybe one situation: my borrower is in default but I have not invoked my corporate guarantee. But later that corporate guarant is getting admitted to nclt CRP started and I am filing my claim as a fc and subsequently I'm mean before filing my claim I am invoking my guarantee but that is a later to NT admitted this corpor G? No, I think see, there are like. I will give you an example. 
+
+
+## No one company and there are five lenders. Maybe out of the five.
+47:42
+No one company and there are five lenders. Maybe out of the five. Two or three loans are bad and the rest of the loans are still standard. When the company goes into CI RP, everyone is supposed to file their claims, even if it is a standard or even if it is a NPA or it is a defaulted account. so in. 
+
+48:06
+Similarly, in the case of corporate guarantee, when my loan is standard, I have not invoked the corporate guarantee and the company has actually gone into insolvency. Then everyone will file their claim. So the corporate guarantee as such is covered under Section 5, sub Section 8, Clause I, and it is not really required that your debt. It is not really required that your debt also should be bad. 
+
+48:35
+You can still file your claim as corporate guarantee in case you have a specific asset on which the mortgage or charges created, then you would be secured Financial creditor. Otherwise you would be unsecured Financial creditor in the CP of that company and in the claim and in the and in the claim. 
+
+
+## Invocation of Corporate Guarantee is not mandatory before filing claim
+48:54
+One can easily say that this is against a corporate guarantee and the primary debt is not under default and I believe the RP will be, or IRP will be, Duty bound to admit the claim under that specific category, right. No, I'm saying like even if the debt is not under default, then liability has to be. Invocation of the guarantee is not mandatory. Claim has to be filed. Ination is not mandatory. Yes, please. 
+
+49:23
+So the question is invocation mandatory before filing the claim? No, invocation is not mandatory before filing the claim because the corporate guarantee is covered as a financial debt. As I have given you the example, the there may be three loans which are standard, but if the company goes into cirp, everyone is supposed to file their CLA. so that is, and M Tech Supreme Court decided I will forward that judgment to you. 
+
+49:51
+No, but that's a different judgment. Maybe that we are talking about this vistra it not VRA V. There is another judgment, also in Moto. Okay, so this like the and the Supreme Court said that it was not invoked? Yeah, it was. It was invoked related to company admitt to no see in mtech. Many things have happened because the most of the claims were in fact before. The Supreme Court when the resolution plan was approved. 
+
+
+## Supreme Court: What is POS, POS, etc.?
+50:22
+So that was also consideration before. The Honorable Supreme Court. Like in case we do it now, then it would be disturbing the entire the resolution process, because it was earlier gone to Liberty, then it went to another company and finally the plan was approved. so I know the Judgment that you're talking about, but then the Supreme Court has finally said, finally, in that Cas is said, that we don't want to interfere. 
+
+50:46
+But then my understanding is that for any other case, even if the corporate guarantee is not invoked, the claim can be submitted. Got it yeah, thank you, g. The next question is from Anil Sharma. G an sha is asking what enforcement or POS is possible on CD by a bank which has depos which has deposit of such collaterals. If there is no obligation to pay. It is merely a deposit of papers. 
+
+51:21
+It is merely a leon. So the mortgage is a security interest. So whenever there is a security interest, the enforcement of security interest is also applicable. The loan has been given to any other entity. however, the lender cannot recover more than the loan amount. 
+
+
+## Recovery remedy for security interest
+51:46
+The recovery is the recovery remedy is available under surfacey law and in other cases, in case the companies into liquidation, then the section 52 can be invoked and then and the security interest can be monetized, can be enforced or the Liquidator can sell those assets and then distribute it to them as per section 53. So all these remedies are available. 
+
+52:15
+Then we have Mr Rajesh gu saying that in case of insufficient value of security asset, whether all secured creditors having first, second and subsequent charge will rank paraso equal or not. But this is something which is still pending with this particular subject is pending before honorable Supreme Court in the case of Technology development board versus Anil gu. 
+
+52:43
+That judgment came from N8 and as per that judgment, there is only one category of secured creditor and irrespective of the first charge, second charge or perspective of the value of security interest, because there is no mention in that section. So therefore the nclat said that once a secured creditor is a secured creditor, maybe the security in with the value of security is only 1% or 100% or more than 100%. 
+
+
+## NT judgment stayed by honorable Supreme Court
+53:12
+On the other hand, whether he's got a second charge, Third charge or first charge, the section 53 says that once a person is a secured creditor, it will have that and it will have that priority means that it will have complete parasu allocation from the sale of assets. however, that particular judgment has been stayed by honorable Supreme Court and the Supreme Court is not adjudicating that subject and maybe waiting for an amendment in the act. 
+
+53:48
+So presently that matter is pending before but while but while that encl judgment is on is stayed by the Supreme Court. The NT judgment, which was overruled or which was reversed by encl perhaps will prevail. Where these charges are, you know first, second and third charges, and you know that will be that should be considered. Will you agree with that or you think there are? 
+
+54:15
+There are different views in the in the Professional Circle and some says that once the judgment is stayed, it would not be operational. It will not be applicable on any other person. However, now as an RP, we have two things to rely on. 
+
+
+## NT judgment from Ahmedabad nclt bench, and insolvency law
+54:32
+One is the one is the same case, the NT judgment from Ahmedabad nclt bench, and the other is the insolvency law committee report dated 26th March 2018, where the NT report has very clearly mentioned how the assets, how the proceeds, will be distributed among the secured creditors. 
+
+54:57
+In paragraph number 2.1 to paragraph number 26,7, anyone can read that at AAA we have been Distributing the assets as per the as per the directions, as per the law which is mentioned in the insolvency law committee report dated 26th March 2018. So any Liquidator can take its own legal opinion. 
+
+55:25
+We have taken legal opinion and we have been advised that it is the Liquidator can decide whether to go by NT nclat order or to go by the insolvency law committee. Because see the in case, we see the rationality is more and more because see the to support this insolvency law committee report. Already there is a judgment from Supreme Court in 2005 in the case of sidco leather versus IC bank. 
+
+
+## sidco leather versus IC bank, ICC Bank, INF, solen
+55:53
+Now, in that sidco leather versus IC bank, which was earlier winding up case and under the companies act, exactly same issue was handled and the Supreme Court has held that the priority of charges and the value of security interest will be considered by the official Liquidator while Distributing the proceeds of assets. so therefore we have two things: sidco Lether versus ICC Bank, INF, soleny law committee report and NT order. 
+
+56:20
+So we are actually getting an opinion from the lawyers that you can distribute as per insolvency law commit report after taking an undertaking from the lenders that in case the Supreme Court decide other way, then the appropriate Readjustment in the distribution will be done by using regulation 41 of the liquidation process regulations. Then there's a question from the question which says what will happen in case the CD Shares are extinguished. 
+
+56:49
+I think this must be pertaining to the pledge of shares that you were discussing. So in case this see that's the CD Shares are extinguished, mean see the any pledged Shares are extinguished. if the pledged shares are extinguished and there is no corporate guarantee, then the lender has got no record on the corporate data. So there is no claim on the corpor data. 
+
+
+## Corporate guarante, corporate guarantee, etc. if there is a claim,
+57:11
+If there is a claim and that is only restricted to the value of that security interest. Then there's a question where it's a case scenario where company has given pledge or pledge of shares and corporate guarantee. To the extent of pledge of shares for loan given to other company, the company who pledges the shares admitted to CRP whether the pledge of shares and corporate guarantee would be treated as secured Financial creditor. 
+
+57:36
+So I think these are two parts to the same thing. So pledge of shares is a different contract. Corporate guarante, separate pledge of shares pledge of shares with the corporate guarantee. however, the corporate guarante isct restricted to the value of those shares. So therefore the it will be a financial debt. 
+
+57:53
+Because see the guarantee is covered under Section 5, subsection 8, Clause I, and the value of the shares would be considered as the value of the claim. So value of shares as on a particular date, or value of the sh value of the share as on a particular date when the claim is been filed. So in that case, if the shares are not having any value, then the corporate guarantee will also not have any value. 
+
+
+## Corporate Guarantee: What is the Liquidation?
+58:16
+Yes, but then again that particular matter is pending with the Supreme Court. Whether the based on the security value of the security interest or par based on the claim that is something which is the same matter comes back, but then mostly it will be like that. So you opinion. 
+
+58:34
+So when the corporate guarantee happens in this kind of a scenario, is the corporate guarantee not understood to be the value which was the value of the shares as on the date of pledge? No, the corporate guarantee. If the corporate guarantee is there and if the value of the security is zero, then it will be considered as secured. 
+
+58:57
+However, while considering the allocation the Liquidator, in case the Liquidator will follow the insolvency law committee report, the Liquidator will not distribute anything to that particular person. distribution is a separate idea that he distribution can be SEC. So what process is required by private secured creditor to sell secured asset and collect loans given. So I think we're talking about Liquidations in liquidation. You have two options. 
+
+
+## Relinquish Security - Se regulation 37 mhm
+59:26
+One, you can relinquish the security and allow the Liquidator to collect the proceeds and distribute based on section 53 waterfall. Alternatively, you can choose not to relinquish your security. In case you do not relinquish your security and you are a private secured creditor without rights under surfacey, you might have the option to go to the court seek the exercise of the mortgage. I think there are see we can talk about SE regulation 37 mhm. 
+
+59:54
+We have regulation 37 in the liquidation process regulation which is which talks about realization of security interest by secured creditor and there is a process defined in this entire regulation and this particular process is applicable to all those private financers where the surfacey ACT is not applicable. 
+
+1:00:22
+So there is a complete process which is defined in regulation 37. I think we can go through that regulation and because this particular regulation is only for other than the surfacey entitled lenders. So ranan chakrabarti is asking what will be the ranking of secured creditors after the relinquish, if there is second charge how the situation will change. I think we've already taken care of this. 
+
+
+## Security crator after relinquish: Top priority under section 53
+1:00:50
+With respect to ranking of the security crator after the relinquish, of course they have the top priority under section 53 because after the relinquish they have that priority in line with the wages. If Financial creditor has funded corporate data by creating security interest over personal assets of the corporate data, personal assets of the corporate data for CRP of the CD that FC would be considered secured or unsecured. 
+
+1:01:21
+So the I think he meant personal assets of the promoter, personal assets of the promoter. The security is on personal assets but the claim is against the CD. So unsecured Financial Credit. So in liquidation bank has linished charges on CA value is rupees 10 lakhs. liquidation bank has linished charge on CD value is 10 lakhs if it has other assets of guar and one finance company has given not very clear. We have another hand rais. 
+
+1:02:04
+Maybe we can allow that person to speak and have that question as well. I think we couldn't understand the name. It is VA Samu and we. In case you can unmute yourself and you can explain your question please, sir, good afternoon. I am M from Chennai. Yes, good afternoon. Yes, sir, so in you one of the liquidation case the bank is having a charge on the current assets. 
+
+
+## Right the realized value was only around 10 lakhs. Right CD is having one corporate office.
+1:02:38
+Right the realized value was only around 10 lakhs. Right CD is having one corporate office. against that corporate office. One Finance company has given a loan of loan of three crores right the property was realized for two cres by option only mhm. Now bank is demanding equal proportion on the sharing of these two cres reled amount. Disp. I can understand. 
+
+1:03:09
+I can understand this is the exact matter which is pending before honorable Supreme Court in the case of Technology development board versus Anil goyel, and that matter is still going to take time because probably the Supreme Court is expecting some change in the law before they pass the order for the time being. 
+
+1:03:27
+In case you would not distribute as the as it is being asked by the bank, then the definitely bank will go and file an application and in some cases I have seen the NT has also given order as per the NCL order in actually it went to NT has given you ruling that after extinguishing the rights, relishing the right, you cannot ask for priority. Then now the case is spending with the encl. 
+
+
+## enet vs. Anil boel: if you want to know
+1:04:04
+What I want to know is the bank is having a charge on current assets only the value is only 10 ls and for the this finance company, they having exclusive charge on the corporate datar, corporate datar as only as such right shall I shall I proceed on now I keeping the money in the bank account, since there is a dispute R the. now the case is in encl. I think the case is before encl. 
+
+1:04:34
+At this stage you should not distribute or whether the NCL encl has given any directions or any stay. No sir, no stay was given, but it is going. It's only the heing stage. Only the NCL encl will also kind of wait for such de. But I have seen other in other cases. 
+
+1:05:00
+Enat will continue to take the same opinion as the anlat has taken in the case of Technology development board versus Anil boel, because in case they start taking a different view then the that means that the appeal before the Supreme Court will have no meaning. So enet will continue to say that all the secured credit will have parasu allocation of all the proceeds, whatever it come from whatever asset. 
+
+
+## How to distribute funds to lenders
+1:05:30
+But that particular obser, that particular way of distribution will disturb your lenders. I think it is better not to distribute the funds and wait for the judgment. That's what I can say. Okay, sir, thank you very nice, sir. Yeah, I can. We can conclude an or there some more questions. You feel, because we already like there are questions. 
+
+1:05:57
+So but I think we can conclude and there are some other questions, but I think we can take them offline. I will request those whose questions I could not take up to. Maybe you know, take it up with the softline, otherwise we will be, you know, spending a lot more time and extend the time Beyond one hour. Yeah, so thank you everyone. 
+
+1:06:18
+Thank you for joining in today and thank you for you know, once again to join us every week as this one. thank you, thank you, thank you very much, thank all. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

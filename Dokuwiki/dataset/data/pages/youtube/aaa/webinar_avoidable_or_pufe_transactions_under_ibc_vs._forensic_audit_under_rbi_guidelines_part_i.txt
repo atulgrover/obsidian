@@ -1,0 +1,965 @@
+# Webinar "Avoidable or PUFE Transactions under IBC Vs. Forensic Audit under RBI Guidelines" Part– I
+![](https://img.youtube.com/vi/GC4VYm97fZw/hqdefault.jpg)
+4 years ago (Jun 23, 2020) — 1:54:31
+[https://youtube.com/watch?v=GC4VYm97fZw](https://youtube.com/watch?v=GC4VYm97fZw)
+
+
+## Summary
+The webinar covers two parts: the first part focuses on the RBI guidelines for fraud detection and willful defaults, and the second part focuses on transactional audits under IBC. The RBI guidelines, applicable to all commercial banks except RRBs, aim to prevent and detect fraud, examine staff accountability, and manage fraud risks. The guidelines classify frauds based on the Indian Penal Code and cover misappropriation, criminal breach of trust, manipulation of books of account, and unauthorized credit facilities. The IBC defines fraud as any act with the objective of defrauding creditors. The RBI guidelines have a new framework for accounts with a balance of INR 60 crores and above and expose of INR 50 crores and above, with early warning signals, red-flagging, and reporting to the fraud monitoring group, SCBF, central repository of information, and central fraud monitoring cell. The IBC requires the RP to report frauds to the NCLT adjudicating authority, which passes an order, and IDBI takes criminal action if necessary.
+
+## Good evening, everyone. Good evening all the participants. We are again there and I believe we
+0:00
+Good evening, everyone. Good evening all the participants. We are again there and I believe we are all connected with all of you again. This is a maybe a kind of habit that we have developed now to be connected, to remain connected with you. I was actually talking with my family that I was thinking that I don't have any addiction. So now I think I also have an addiction of addiction of webinars, addiction of applause. 
+
+0:42
+You would be very happy that I normally become very happy when more the registrations are, and today also we have registrations to the extent of 2020 stations, and that's really a very good number forever for a subject which is only relevant to 3 000 insolvency professionals, bankers and Chartered Accountants, and like it was very difficult to understand that this is a subject which is even relevant for people other than insolvency professional. 
+
+1:18
+So I actually had to make some efforts to that. everyone understand that the first part is more relevant for bankers and the chartered accountants, the forensic auditors, and in the second part, which is more relevant for the insolvency professionals and the transactional auditors. 
+
+
+## The format of the bourbon is not really advisable
+1:37
+See the subject is so large that I was thinking that I should complete in one part, but it is not possible, because any bourbon are for more than two arts is not really advisable. It is people are not able to concentrate and it is not appreciated in the audience. So this is a now be kind of fabric that I say that I have developed. So the why we are waiting for the audience. 
+
+2:06
+We can talk about something again: the format of the bourbon. a few of our panelists are saying that they are also addicted, are saying that last Sunday they missed you because you didn't come for the symmetry. That is maybe two months now. I thought last Sunday I thought that I will first of all I will prepare and then only I will announce, but then unless you fix a date for yourself, it never gets done. 
+
+2:43
+So I could only do it because this time I fixed their date and then only because you see in this period the yesterday I had to go to Chandigarh, and I know Thursday and Friday I was getting up in the morning at 4 or 5 and then working for the entire day and doing the research for all this and then trying to add my own practical experiences after recalling my life at one point of time I had experience of what kind of event, so that was all listed in the PPT, so that when I shared with you, nothing is the loss. 
+
+
+## default means again the same type of a format
+3:15
+So I think you can tell something about default meant again the same kind of a format. So we will go by the same format that we have been following, where we will take questions every half an hour and I will keep going through the questions that come in from the audience and I will try and take most of the relevant questions at the appropriate time and take most questions possible, so as I as I as I'm giving an alert. 
+
+3:41
+The first part is much more important about the bank frauds and it is important for the early warning signal, the entire RBA structure with this receiver. They have two parallel structures: one for the willful default identification and action and the other is fraud detection, reporting and actions. 
+
+4:05
+These are two parallel structure which are going under the guidelines of RBI and there is only one circular which talks about the forensic audit and whereas this willful default circular doesn't even talk about forensic audit, the concept in IBC and the concept in RBI is much different. There a lot of differences between these two concepts. 
+
+
+## IBC law dot - What Is it?
+4:29
+There is nothing like preferential transactions under RBA and hardly there is a few undervalued transactions which are covered under our be a circular also, because in case it is done with the intent of fraud, then it can be covered under RBA. These framework even say like I would also like to share with you that this time we had a collaboration with IBC. Lord right dot. I am, in fact we are using IBC law dot. 
+
+5:01
+I yearn for our research for an TLT cases and CLA TK Supreme Court High Court anything related to IBC. We are using IBC law dot I am, so we found that appropriate for our profession, so we are happy to use that. We are also because here, in the second part, we have some very important case laws which we could get on IBC law dot I and only see like why this concept came in my mind. 
+
+5:32
+It was only because he like, as you all understand, maybe that I have more than I have an experience of about more than 700 C or C meetings where I've been personally or virtually present and I have seen in most Co sees. wherever we talk about appointment of transactional auditor or a forensic auditor, any member would say that we have already got it done, so there is no requirement for getting it done. 
+
+
+## IBC audit: Difference in IBC and transactional audit
+6:01
+However, it takes time in convincing them that it is a different audit and what you have got is a different audit. So based on this experience that I thought that the clarification between the forensic audit under RBI and the transactional audit for the sake of change in name under IBC there be clarity, has to be there. The difference must be understood by all, including the members of committee of creditors, including the herpes. 
+
+6:32
+So that was the objective. so in today's session, we would recover the RBI framework of Frost mustard master circular regarding frauds, much circular regarding the bill full defaults, and we in the in the also would like to compare that. What is the difference at each point of time? That I would try to relate to be IBC law and the RBI guidelines where the difference is. 
+
+7:05
+So this is the objective whoa like, in case we have all the. I think we can. No, again, we can start. Now it's already four, seven and I think whoever will join in can. Okay, so let me share my screen with you. So I'll share my screen with you. I believe my screen is visible to all of you. It is visible now, so I think I can. 
+
+
+## IBC Transactional Audit: How to handle audit
+7:36
+Okay, so as I said that this, the entire webinar, which is in two parts, would be on forensic audit, on drug ba guidelines and the transactional audit under IBC. 
+
+7:53
+However, the two parts have been divided in such a manner that the first part is primarily the RBI guidelines and the willful defaults and the action that the banks can take, the criminal actions that the banks can take, and also the kind of what are the frauds and what are the willful defaults. 
+
+8:13
+A complete definition and the complete framework that is under the RBI guidelines, along with comparisons with the IBC, whereas the second, where this second part would be primarily on the transaction audit, various case roles so far. How to handle audit. How to get cooperation from the promoters. How to finally take up this matter in the resolution plan, who will take the benefit. 
+
+
+## How the litigation would be handled once the reservation plan is approved and the RP is not working
+8:41
+How the litigation would be handled once the reservation plan is approved and the RP is not working. How the same will be contributed. Everything would be in the second part of the Bernard. However, both the parts are very, very important, because whenever you talk to banks regarding the transaction audit or forensic audit, the banks will definitely say that we've already got it done. 
+
+9:04
+So their objective is different, whereas the IPS or the RP the objective is different. That's very important for all of us to understand. So the for the first part, we say that the forensic audit under RBA guidelines and we will talk about red flag accounts and the willful defaults. 
+
+9:21
+So this the basic circular, which is the for the for the entire framework and the master circular was issued by RBI, which was dated 1st of July 2016 and based on this master circular, the entire fraud is a classification. It's reporting by the commercial banks. It is completely guided by this circular. 
+
+
+## The Internal Revenue Code of the Internal Revenue Code is a Code of Conduct
+9:44
+The circular is applicable to all the commercial banks in the country, except for the this are Arby's, the Regional Rural Banks, and it is the objective is basically the detection. in case we have to just see the first objective is we basically prevention and detection of Rod Tim taking time, the consequent actions, examining staff accountability and do effective fraud? 
+
+10:10
+The risk management stipulated timelines he's also given in the same circular for the Absinthe, which is actually responsibility of a bank. Faster dissemination of the information by the RBI to the banks on details of the fraud unscrupulous borrowers and related parties. This part is this is the most important difference is that when we talk about fraud, it also includes the staff of the bank, even if the fraud is only done by this stuff. 
+
+10:44
+The same circular is applicable. If the fraud is done in collaboration increments with the borrower, then also the same circular is applicable. and in case the fraud is done only by the borrower, then again the same circle is applicable. So the objectives are different and then we agree. We'll see what are the kind of classification of the fraud, the classification of the fraud. One will see then. 
+
+
+## Misappropriation and criminal breach of trust based on Indian Penal Code
+11:11
+I think most of the insolvency professionals will understand that this classification is different than the defraud but we talk about under the IBC. So this is the. Basically the frauds have been classified according to the presence of Indian Penal Code, so that the relevant section is applied. When we talk about the distaffs, accountability, then they are accurate and Prevention of Corruption Act, again they talk about the frauds by the borrower. 
+
+11:40
+Then the different regions of the Indian Penal Code is applied. so basic classification of the frauds is based on the Indian Penal Code, like the misappropriation and criminal breach of trust. Like when we talk about criminal breach of trust, it is much different from the breach of contract when a borrower takes known and there is a contract and then there is a possibility of breach of contract, maybe because of various circumstances. 
+
+12:04
+But then the breach of contract is not a fraud, but the breach of trust is a fraud. Somebody who is not able to pay the installment or not able to do the compliance is required by the bank is not a breach of trust, but it may be a breach of contract, whereas the breach of contract is not a fraud. Misappropriation, of course, is a fraud. 
+
+
+## Fraud ability in cashman through forged instruments, manipulation of books of account or through
+12:21
+Fraud ability in cashman through forged instruments, manipulation of books of account or through fictitious accounts and conversion of property. So the specious account is again and again being talked about as ready. Frauds are concerned, the officious accounts, manipulation of the books of account, and see like I also start feeling that the Chartered Accountants are actually taking a lot of risk in case they are compromising in the reporting. So that also has to be. 
+
+12:48
+I have tried to cover that, but also, although it may not be liked by some of the Chartered Accountant, but yes some of which are most of the Chartered Accountant. Food like that part is also covered under this webinar. Unauthorised credit facilities extended for reward or for illegal gratification. so this particular part is only for the bank staff. Cash shortages also for the bank staff. 
+
+13:11
+Cheating and forgery is again with maybe it is Bank staff or it is the borrower fraudulent transactions in robber involving foreign exchange. It may have a foreign, it may be a kind of the transaction with the connivance of the borrower and the and the banker. So like the fraudulent transactions involving foreign exchange, I think Nero Modi case or the Vikram could Harry case is known to all. 
+
+
+## What is fraud under the IBC?
+13:36
+So all those the cases are basically fraudulent transactions involving foreign exchange. Many of the type of fraud not coming under the specific heads as well. So that of three will depend. so like. Let us understand here that what is fraud under the IBC? The fraud under the IBC is whenever you do anything with your objective to defraud the creditors. So that is the definition of fraud. You do anything with the objective of defrauding the creditors. 
+
+14:05
+That is the only one definition of fraud there, whereas whenever there is a intentional transfer of property or assets to any other person, undervalued transfers, so in case the intent is also fraudulent, so then it can also be covered under Section 49 as fraudulent transactions, as against section 45, they are only onto value transactions are considered. 
+
+14:25
+So the objective is also different where, as I said, the preferential transactions are not there, as if fraud under the RBA guidelines. Where are the preferential transaction is? it is a transaction to be reported under IBC. 
+
+
+## forensic audit is much higher under IBC, whereas forensic audit is much higher under
+14:36
+So I think we are not even covering the 50 percent in the forensic audit that we are getting it done under our be a circular, whereas our scope of transactions is much higher under IBC, even if it is being restricted to the look back period. But yes, it is still much higher under the transaction audit as against the forensic audit. However, the forensic audit may even started. 
+
+15:01
+The banks might even say that it should be started at disbursement level, whereas the under IBC. The role of Twilight Zone is very, very important. I will come and explain to you in detail what is Twilight Zone. 
+
+15:19
+So this is in case this says these are the frauds, which then the yes, the r va has a new framework which is applicable to the accounts having Bangkok's positive 60 crores and above and wherever the expose it is 50 crores and above. 
+
+
+## Early Warning Signals: How to raise alert and then classify accounts as flagged
+15:37
+Then the entire framework is like and the first step is the early warning signals, and the bank has given about forty to forty three early warning signals for the guidance of the banker and in case they see any of the any one or more of the signals, then they can raise alert and then they can in case they find that yes the early warning signals are correct and serious, then they can even classify that account as it had a flagged account. 
+
+16:11
+So the this is a stepwise approach. so first of all the early warnings and then the red flagging of the accounts. So the moment red flagging is done, the moment red flagging is done immediately there they require fraud monitoring group of, or any other group constituted by the bank. 
+
+16:28
+So the banks are guided by the RBI that they will have a fraud monitoring group within the bank and it will immediately go to the SMG of the bank for next action. The army has also guided the banks that they would have one special committee of the board for monitoring and follow up of fraud. 
+
+
+## IBC constituted central repository of information on large credits
+16:47
+That is in short called SC BC, as constituted by the bank, and then the RBA has constituted central repository of information on large credits. See, are I L? see that's what is made by RBI and then the RBA has also made a central fraud monitoring cell, which is located in Bangalore. 
+
+17:12
+So this is a framework which the RBA has created: early warning signals, red flag of red flagging of the account and reporting to the FMC fmt of the same bank, then reporting to be a CBF of the same bank, then reporting to the central repository of the information of which is set up by the RBI and then reporting to the central fraud monitoring cell, Bangalore. 
+
+17:34
+So this is a complete approach, a step by step approach for any fraud which is more than 50 crores. so this framework has nothing common with the IBC has a different framework, IBC. 
+
+
+## RP is a red flag account for fraud, RP is a red flag,
+17:48
+Everything has to be done by the RP, even without audit, without the transaction or date with the transaction audit, the RP will give this reporting to the NC LT adjudicating Authority and C LT will pass an order and in case there is any criminal action has to be taken that would be taken by IDBI. Nobody else can take criminal actions for any fraud or any kind of offence committed under IBC. 
+
+18:16
+So when we see the time lines under this RBI guidelines, the entire framework says that whenever an account is classified as a red flag, then the account would be immediately reported to see our I L C platform and within 21 days it has to be reported to RBI and in case it is multi banking arrangements, so that the first two lines are basically for this single banking, single bank lending, and then now we start with the multiple banking arrangement, MB a and within this multiple banking, in case any bank finds a kind of governing signals and flagged it as a red flag account, then the bank will red flag it and bank will immediately call a meeting for the consortium jLF, so the JLS meeting it will be discussed and the jLF meeting will be called within 15 days. 
+
+19:18
+That's the obligation of the bank. As for the IPL guidelines. So this whenever there is an account where it has to be classified as a fraud sixty percent share of the total lending and that has to be that has to be consenting for flagging the accountants fraud account. So then the forensic audit has to be done. 
+
+
+## forensic audit of forensic audit - RB
+19:44
+So this is where these only these two lines are there in the paragraph in the entire RB, a circular, where it is said that the forensic auditor can be appointed by the banks and in case it is a multi banking arrangement than 60% share and it will be decided in case it is a single bank. When the bank can decide, bank alone can decide. The forensic audit has to be completed in three months time. 
+
+20:07
+Once the forensic audit is completed within 15 days again the jlf meeting has to be called and then the account has to be classified as a fraud and the after the forensic audit from the red flag account it would be classified as fraud account based on the report of the forensic audit. And in case the forensic audit is not giving any report, then the red flagging of ten of the account can also be listed. 
+
+20:35
+So the first step is early warning. Second step is red flag, then step in the forensic audit and after the report of the forensic audit either declared the account as fraud or take it back to the cautious account. So then the red flagging also would be lifted. 
+
+
+## Reporting Structure for Banks to RBA, RB, RB
+20:52
+So then within 30 days of the report, in case we consider, in case the banks decide to consider this account as fraud, then within 30 days they have to report to a CBI and there is a reporting structure, complete reporting structure. Then I am talking about this special framework for more than 50 crores, so that has to go to CBI and that to adjoin to director CBI New Delhi. 
+
+21:15
+So this report has to come to joint director a CBI. So for this purpose, like the if the bank and if the forensic audit is initiated by a private bank, then the private bank has no power to go to CBI, then the CBI complaint has to be filed by a public sector bank. 
+
+21:36
+However, in case the private bank has to take an action on its own, then the private bank can go to the serious of fraud investigation depart sell of the Ministry of Corporate Affairs. Now this is the structure for reporting frauds to RBA, the structures for reporting of fraud to RBI. The RB has first made a central fraud registry. 
+
+
+## Banks must file fraud report report for banks to RBI
+22:05
+This is a web based sub stable database and the banks are supposed to upload any information about fraud on the central fraud registry. Then there is another fraud monitoring return that is required to be filed by banks to RBI and the banks would be filing this return online whenever there is a fraud and even if there is a real fraud, then I think they are eternally required to be filed. 
+
+22:33
+Flash report for any fraud which is more than five crore is required within a week time of the fraud which is coming to the notice of the bank ordered Committee of the board shall monitor all the cases of the fraud in general. The banks are required to constitute a special committee, as I said that they are. Every bank is supposed to constitute one scbs and the other is the other. 
+
+22:56
+The other thing that I said, Wally, this was the fraud monitoring cell and the SCB. See this is what is required to be constituted by each bank. So this was the then once the RBA is informed and then it comes to the how to report the fraud to be CBI or State Police. 
+
+
+## RBA circular: amount of fraud, deep bank
+23:24
+The RBA circular is very clear that based on the two factors: one is the amount of the fraud and second is the deep bank. Is it a private bank or mix of the bank? So there are different powers with the private bank and there are different obligations with the public sector Bank, and that too based on the amount of fraud. Estimated amount of the fraud. So in case the fraud is it. 
+
+23:50
+In case the fraud is in a private bank or a foreign bank and the amount is rupees 1.000 bill 1 crore, it would be a to the ad. A failure would be filed with the State Police. So if it is up to 1 crore the private bank and the foreign bank, they can only go to State Police. Then the deep. 
+
+24:12
+If this fraud amount is estimated fraud amount is more than 1 crore, then the private banks and foreign banks. They can go to SFI you serious fraud investigation office, which is under the Ministry of Corporate Affairs Government of India. 
+
+
+## Public Sector Banks can go to CID or economic offence wing of CBI
+24:28
+The know reporting can be done by the public sector banks, SF IO, because the RBI circular very clearly says that the public sector banks can go to the CID or the economic offence, the things of the state government, State Police, or they can go to the CBI, whereas SF IO is for private sector bank and for foreign banks. 
+
+24:57
+So the then this the amount of estimated fraud is by the people in the public sector banks is between 1 lakh to 3 crores. then the complaint can be given to criminal investigation department of state government or economic offense wings of the state police when it is the vendor. 
+
+25:20
+When the when the amount is between three close to 25 crores, then the amount is between three close to 25 crores and where the spouse involvement is there where the complaint primary accused is. So then it will go to anti corruption Department, anti corruption branch of CBI and for the same amount of fraud, which is 3 crores to 25 crores, if there are other people involved, then it will go to economic offence wing of CBI. 
+
+
+## CBI complaint: When the fraud amount is between 25 crores and 50 crores, then
+25:50
+Now then this when the when the fraud amount is between 25 crores and 50 crores, then there is a banking security and fraud cell of CBI. The complaint would be filed with that self. I say, as you probably would understand, that the CBI has offices in all these states. So they are in all these states and depending upon the amount of the fraud and when it will go to CBI, the state offices. 
+
+26:18
+However, in case the fraud is more than 50 crores, then it will come to a joint director policy CBI headquarter New Delhi. So we have seen the nature of fraud, the identification of the frauds, the reporting of the frauds and the criminal complaint of the frauds. So this is what is the kind of structure that the RBI has made and indeed circular. So unki, is there any question till now? 
+
+26:51
+Because he this is now, I would be starting the early warning signals. so I will ask one question that has come up the system, mr I mean the unnie and he says that in case a private bank Redflex the account and intimates the consorted consortium in case where Reid banks in PSPs. So in that case, who will file the criminal complaint? 
+
+
+## Audit Committee of the borrower is not relevant
+27:15
+Another complaint will be filed by the by the public sector bank and whosoever is having the larger share in the debt that bank would be filed or the deed bank will file. Primarily the lead bank is also the person who actually score the larger here. However, in the in the most of the stressed cases, if some banks is possible to recover some amount, then they become little lesser in the amount. 
+
+27:38
+But the lead bank will file the complaint. In case there is no lead length than the larger that would, the bank will file a complaint. So another question is from mr Pathak. Humble say and he says audit committee is of the borrower. So audit committee of the borrower is not relevant here. But we are talking about the audit committee of the bank. 
+
+28:02
+Audit committee of the barber is not relevant here because the what we are trying to do is this are be a circular. Our gauge circular is not guiding the ball words whether they have audit committee but that the company law is definitely company law is guiding the corporates for having an audit committee. But this under this RBA a circular. There is no reference of any Audit Committee of the borrower. 
+
+
+## Who will file complaint if only AR CSR represent lenders
+28:25
+Another question and that who will file complaint if only AR CSR represent lenders. The AR C's are present lender, so they in fact are recovering the money on behalf of the banks and they are in case they find. In case they find any kind of fraud. I think they come in today. 
+
+28:49
+They fall into the shoes of the banker and all surfacey rights or all other rights of recovery and then probably they would also be able to take action. That's what is my common sense, which see Peaks, because he all the AR C's are enjoying the same right as the banks had it before assigning the DA to AR seas. 
+
+29:11
+So like in the earlier scenario, when it was even five percent and ninety five percent IRR security receipts. It was more of a recovery, both on behalf of the bank. But now, of course, when the scenario is changed, when the 90 percent is cash and ten percent is the security receipts, then it might be considered as a change. 
+
+
+## AR C's Are Not Covered Under the RBI Circular
+29:31
+But most of the AR C's have got no intention of filing criminal in green complaints and because this circular as such is not applicable to the our sees. the circular is very clearly applicable to the banks and that to all the scheduled banks except our B's a. Our C's are not covered under the circular a or C a TC like. 
+
+29:56
+They might even use any of the presence of the Indian Penal Code for putting some pressures, but they are not under obligation as the banks are. Then we have a question from mr cm seem as from mr C a lemon Rula. He says that what happens if the complaint is not filed by the responsible person in that case, where the forensic auditor is liable to do so? 
+
+30:22
+I don't think the principal conductor is only this way required to report and it is not the duty of the forensic audit or to report to police or to the economic offense ring or to CBI. another question is, I think I will just skip a few questions. So whether ECB lenders are covered under the RBI circular. 
+
+
+## RBA circular disc, if the ECB has been given, because even this,
+30:45
+RBA circular disc, our gopher cougar is not covering, if the ECB has been given, because even this, the foreign branches of Indian banks. To my understanding, the foreign branches of the Indian banks are also not scheduled bank in India. The RBA circular is not even applicable to the foreign branches of the Indian banks because the foreign branches of the Indian banks are not even shedule to banks in India. 
+
+31:14
+If any one consortium member classified account or a fail and subsequently fraud, whether all the other members are required to follow the scene. This question. so mr uation it no, it is not necessary that every should everyone should follow, because, as I said that the 60% consent is required before the account is classified as the fraud in case of multi banking arrangement. So in case it's a single bank, then of course there is no question. 
+
+31:40
+And in case of multi bank, 60% of the total debt owning the banks, we will take a call on consensual basis and one bank should not go and cannot go to file a complaint, criminal complaint. I think we're all. 
+
+
+## Banker can declare it as fraud individually be as far as the declare equation of Florida have seen
+31:57
+The banker can banks normally declare it as fraud individually be as far as the declare equation of Florida have seen, because the one bank can declare it today and then the banks try to, because I have seen in various cases see one important part that I would like to say here. 
+
+32:14
+See, whenever we file an application to an CLP for fraud for undervalued transaction with the with the fraudulent intent, the banks take the cognizance and banks normally got an information from our audit and the banks also try to immediately start a separate parallel proceedings of red flagging and then fraud and then reporting to the authorities for criminal action. 
+
+32:47
+So the whenever a fraud application is filed by an insolvency, professional RP or a liquidator, so that should be considered, as multiple activities will be started against the promoters, because the banks will also not keep quiet, because there is nothing which stops the bank because other the banks are not absorb from their responsibilities. In kzr he files a complaint to adjudicating authority and then the banks are not absorbed. 
+
+
+## What is the definition of fraud for Indian Penal Code?
+33:13
+They rather the banks become more responsibility and more responsible. Because now the issue has come to the public surface and it has been reported. It has been the information has been publicly available to everyone. The variable there is been a fraud as reported by an auditor and also as determined by the RP. So then the multiple proceeding starts. one is the RBA and the other is the IBC. Yes, some people then. I think so. 
+
+33:46
+One question that is coming is that what is the definition of fraud for these guidelines and you know how do they define fraud? Or is it required to be? In general parlance? I see, I think, as I said, that the categories of the fraud has been taken as per the Indian Penal Code of the Indian good. Now Indian Penal Code has divided various kinds of offenses into various categories. 
+
+34:17
+So the categories that has been chosen by RBI for fraud, those are very clear. In my second slide, in fact, I completely clarified that the be kind of breach of trust as against be breach of contract misappropriation. then I said that this fraud circular of RBI is applicable to stars as well as to borrower and as well as a combination of the stars and the borrower where this is the. 
+
+
+## Bankruptcy and Compliance Stress: What is the ratio of the circular
+34:45
+This particular circular is more relevant for staff for frauds and also because the staffs rather than the borrower fraud. Everything has to have the same structure of reporting and criminal complaint. So I think you can continue now and I will keep answering, keep asking the relevant questions as and when. So I think this is all this was relevant. 
+
+35:09
+Okay, so the as ready early warning signals are concerned, the anyone who has been doing banking, or mostly Chartered Accountants, also would be very, very kind of hands on experiences with many of them. and then what actually the signals are whenever a person is under financial stress. So financial stress or even compliance stress. 
+
+35:33
+So if you see, like the this is a list which is given and they in the RBI circular, and I just want to just talk about the ratio of the list and not will go through the entire 43 points that has been given. So one particular category of this is their like non compliances of various laws whenever there is a possible. 
+
+
+## How to get a loan in the Banks
+35:56
+Whenever the there are signals that the borrower is not complying to various law, or depositing the taxes late or depositing the workmen obligations delayed, that should be considered a very, very big Barney bouncing of these checks which are received from the high value clients that also be taken as a very big signal. 
+
+36:27
+Then of course there are many things like kite flying, evergreening of the account, the delay in the realization of the bills, frequent invocation of the bank run prison lot of credit. So like the categories are primarily where the borrowers are always asking for additional facilities. See, you know there used to be a system of four Chuck refer. If the bankers are also connected with me today, they would recall the HF chakra for system. 
+
+37:02
+Still I think it is working in some of the banks, which I prefer is like my limited said particular my limit, and every day I need some additional amount and normally the public sector bank branch Mendell will having some power to give some temporary Tod temporary overdraft. 
+
+
+## Bank Mandir: What is the legal non compliance, what is the LC?
+37:19
+So the borrower's will come to the bank Mandir everyday for some kind of for temporary overdraft and the checks will come in the chakra for register and the bankers would have proved with the branchman that would have proved it by using his own powers. So I think that is now reducing a lot, because the banks are not comfortable with that system. 
+
+37:40
+If the private banks had never introduced the system or the public sector banks actually had the system of TOD. If the frequent requirements of the Tod is also a very big, very big warning signal, then the inspections are not getting done. Stock inspections are not like the then the. So these are the various categories. One category is the financial stress which can be seen by cheque bouncing LC like revolving or bank guarantee invocation. 
+
+38:19
+The other is the compliance is the deficiency and the third part is the non transparency in the in the behavior of the borrower. So there are morally three kind of classification that I can do: the legal non compliance, anything which normally financial stress will need to, and then the lack of transparency. So this is all listed here. 
+
+
+## Early Warning Signals for Bankers
+38:46
+So these are early warning signals and the banks have been given this and a kind of for the banks. I most of the bankers are trained enough to kind of understand all these warning signals, and the chartered accountants doing the audits of these companies are also understanding that the companies under financial stress. So these warning signals are also helpful for the chartered accountants who are doing the statutory audit of the bad companies. 
+
+39:16
+They can also see the signals and in case they see that these signals are very high, so they can also be alert by signing the balance sheets. They would also be very particular in verification of the current assets of the company and then the fixed asset from the expenditure see once the warning signals are given. That means that everyone will become cautious, not only the bankers but also the auditor and will be suppliers also. 
+
+39:43
+So these early warning signals should become very, very popular. So I don't want to spend more and more time on this, because otherwise these two arts would not be sufficient for completion. So I can actually develop on each and every signal individually, but that would take a lot of time. so these are in total in numbers 43, and the last is like the resignation of key personnel. 
+
+
+## warning signals for a company that is not profitable
+40:09
+And that too is also that is also considered to be a very big warning signal when the key people start leaving the company. And then another warning signal, which I would come later on is the felix thing. When the when the promoters start another company and try to transfer the business or do the similar business in that company, that should be taken as a very big bargaining signal, because that is called cynic sings. 
+
+40:37
+And then the other thing which is called is the even if the business is not profitable. But the promoters will always prepare a rosy balance sheet and the promoters will always show some kind of profit and very small profit. but high turnover a very small profit and high turnover also leads to a very big bargaining signal because the turnover is generated to avail more credit facilities. Profit is not declared to save income tax. 
+
+41:08
+So these are very because he you would see that we in companies the turnover is increasing and their requirement of working capital is increasing. Their business cycle is increasing, but the profit is not increasing because in case they declare profit it could be taxable and the tax will have to go. So these are various warning signals. Then we come to the red flagging. Be the red flagging and the warning signals are actually seen. 
+
+
+## Evergreening: How to Create a Business Cycle
+41:37
+The red flagging is a little advanced stage which is called as official status. The warning signals will read two RFA's straightness of the account. so the warning signals primarily would lead to red flagging, and the red flagging is only on akane kind of a. It's basically issuing guarded warning to the bankers and the stakeholders by just saying: of the account is red flagged. 
+
+42:09
+These are some of the illustrations which I was trying to explain and I can even take some time over here and explaining whenever the red flagging is done, or this is this can be used as an early warning signals also. So the concept of evergreening is that never comes down the red that is repaid in one account and fresh loan is taken in another account. That's called evergreening. 
+
+42:39
+The bank might say that the accounts are standard, but the total that would increase over here, over here, over here. so this is what is the red, this evergreening of the account business cycle in some of the companies. You would see be it is continuously going up and when tea will go up, the central debt RISM go up and the borrower will always come to the bank. That my business cycle has increased. 
+
+
+## How to Show Stocks receivables in India
+43:06
+I need to give more credit to customers and I have more variety of goods now. So my inventory has increased, whereas all that is in some cases only because of availing more credit facilities, third party confirmation of the receivables are not available. Physical verification of the inventory or the fixed assets is not allowed or not liked by the promoters. Market credit is also increasing constantly. so the balance sheet credit side is increasing. 
+
+43:34
+When the balance sheet credit side is increasing and because these genuine loans definitely has to become in the balance sheet. So when the credit side is ballooning, then the debit side, the asset side of the balance sheet has to match. 
+
+43:50
+So for matching the asset side rather than showing losses over there, the companies would show stock other current assets receivables such what is the normal tendency that we will seen for this plus so many years and this has been very prevalent in India and even abroad. The primary reason is that the detection of default was not there. Nobody was interested in detecting a default. Nobody was interested in interested in reporting a default. 
+
+
+## Banks wanted to continue with borrower because they are because of their own profitability
+44:27
+The banks were also interested in continuing with the borrower because they are because of their own profitability in the branch balance sheet, in the region balance sheet, in the zone balance sheet, in the bank balance sheet. So they based on all these reasons, these defaults were not even detected or reported by anyone. So those the defaults. Finally it was continued and it took a turn off, a fraud. 
+
+44:49
+At the end of it, regular capital expenditures are also increasing and I would actually given a example here when I was. I am the liquidator of Rea agro limited and I have a building at bowel which is constructed on about seven acres of land and the buildings. Current market value is nine crore. 
+
+45:11
+So when I look at the balance sheet, the balance sheet, the debt balance, that building capitalized at 1210 crowds in the balance sheet and that to audit a balance sheet nobody every year the bill, the money was diverted to the building for two reasons: because we won that the company wanted to show to be banks that yes we have storage capacity and other that we all the losses were being parked at Capital Asset or capacity Quebec. 
+
+
+## Bank Boosters Boost Loans with Money
+45:43
+So in case they don't show cap back then it would have been shown as the stock or as the losses both had already saturated. So the only option left with the promoters were to capitalize it as a building, because that's something that you can construct yourself by just making some entries in the books of accounts. so the chocolate accountants can also see that there are some clients. 
+
+46:10
+They will always talk about how to take more loans and they will also talk about the balance sheet that is more suitable for Bank for taking and enhancing loans. 
+
+46:20
+They always offer high interest rates and they the other important part of these sort of borrowers is that they were actually live a very luxurious life and they would live their life, which is beyond their means and only to show to others that the business is doing well. 
+
+
+## How to do business with the bank
+46:38
+They would have good luxury cars and very big luxurious offices so that people come and they get some satisfaction that the company is the big and the company is working well. they also unusually close association with the vendors or customers, the regular parties, with creditors. So the any person who at least doing more socializing with the, with the, with the suppliers, that also means that he would like to take more credit. 
+
+47:12
+The delegation of authority in the Accounts Department is very less the anyone who actually is coming to the banks himself and he is not delegating the work to the entire Accounts Department and they he would have only one or two runners and then would himself handle the banking. 
+
+47:31
+So he always he himself will be available for any bank meeting, so he would not have CF, for he would not have an accountant to talk to the bankers. so this is a very big signal that he's doing something fishy and he has all the time to deal with the bank. So when would he be doing business? So any person who is enjoying larger facilities and still dealing with the bank himself. 
+
+
+## Dom B company scenario: How to buy raw material without a deposit
+47:54
+That is a very big signal and that needs to be investigated. So, as I said, the business cycle starts increasing and the higher inventory of raw material work in progress, finished goods and higher credit periods, the that actually means that the losses are path to be current assets. Be as I said this Dom B company scenario. I will explain in my coming slide button. 
+
+48:21
+Zombie companies diversion of finds the funds out by padding up the purchases for the purpose of personal use of the funds, because this is also one of the very important part of the manipulation of books of account. Then when we purchase raw material without actual physical movement of goods and we paycheck and something, somebody can take the cash back. 
+
+48:46
+The increasing the closing stock always to declare the profit and the normal scenario that we have seen some people they are not even making entries for the rejections or the debit note they should by the customers, not regarding the purchase bills for showing higher amount of profit. so the ballooning or swelling of the fixed assets without corresponding increase in the capacity. 
+
+
+## Third party confirmation: How to report fraud accounts for audit
+49:12
+That also has to be inspected and seen very carefully by the fixed assets are increasing while the can complete turnover is the capacity is not increasing. Asset verification is a primary duty of the auditor. In case it is not verifiable, see the nowadays the auditors Duty is also like kind of increasing manifold. The one very important part that we used to do is the bill to Bill. Reconciliation is very important. 
+
+49:39
+Third party confirmation is also very important. Asset verification is the primary duty of the auditor and in case not verified, it has to be reported. Auditors responsibility in reporting is the same as this. So when this evergreening that we discussed business cycle, the third party confirmation that we have discussed. so these are ready scenario that we have. 
+
+50:01
+We talked about the early warning signals and these the next level of signals, which are the which leads to an account for red flagging. Once the account is red flagged, than the reporting then the forensic audit, if the foreign see called it finds some fraudulent entries, then declaring it as a fraud account. than the reporting of the fraud account to various reporting structure that has been made by RBI and also made within the bank. 
+
+
+## CBI will take criminal action under RBI's fraud category
+50:37
+Then once the reporting has been done to RBI is done based on the amount of fraud, it has to be reported to either state police state CID or economic offense wing of state or the cbi state level CVA department and if the fraud is more than 50 crore then the joint director policy at new delhi office of CBI. So these are the kind of structure that we have under the fraud category of banks. 
+
+51:16
+So the criminal action that we have also seen that they be the CBI will take criminal actions. in my coming slide, I would also show under what section the CBI normally take the criminal action and see what is the kind of the criminal action. Possibilities are there, but then in the mean time that I think we should also talk about the master circular on willful defaults, because these are two separate framework. 
+
+51:45
+One is the fraud and the other is the willful default, and there is a little similarity in the two and not the very huge similarity in the two. The fraud is got a separate framework and separate structure, RBA, whereas the willful default has a got a separate structure under the bank's own policy then on committees are there, but the reporting structure is also different in the billfold apart. 
+
+
+## Master circular for willful default is again 1st July, but it is the 2016
+52:18
+The master circular for the willful default is again 1st July, but it is the 2015, whereas the master circular for fraud is the 2016. So this circular is also applicable to all the scheduled banks, in excluding the Regional Rural Banks and already notified financial institutions. On willful defaults of more than 25 lakhs, so any default less than 25 lakh. This circular is not applicable. 
+
+52:52
+The it should be that it should be a debt which is on account of the banking transactions, including off balance sheet transaction such as derivatives, guarantees, letter of credit see, there are about 30 circulars which has been issued by RBI on the willful default and however everything has been consolidated in the master circular and there is no mention of a forensic audit in this way in this framework. so the toothed parallel prevail the proceedings. 
+
+53:24
+One is for the wilful defaulter and the other is for fraud in the wilful defaulters list or whatever. When classify a person as a wilful defaulter, then there is no forensic audit concept under the wilful defaulters. But whereas in the fraud there is a forensic audit concept. So what is wilful default? Very clearly? We actually have to understand what is a wilful default and what is a fraud. 
+
+
+## The default in repayment obligations is a wilful default
+53:54
+We have already seen fraud or in case need be, I would again come back to go back to the same slide for kind of a revision. What was the fraud, which also included the fraud done by the staff employee or a banker and all they did a frauds done by the borrower. 
+
+54:14
+So in the willful defaults, the one is that the default in payment of obligation, even when it has the capacity to honor the Fed operation. So this is a very big girl scenario that the borrower has the money, has the capacity but is not honoring the repayment obligations. This is a wilful default. Secondly, the default in repayment obligations where the funds have been diverted. 
+
+54:42
+Funds have been diverted and it is diverted within the business or it is diverted outside the business. So they both are the both are considered to be willful default. And then is the disposing or removing any of the fixed assets or movable assets of the company which is given to the bank as a security. 
+
+
+## Willful default is a must for bank to classify accounts
+55:06
+So whenever the bank goes and find that the stock is not there and the bank can always classify an account as willful default, because in hasty, in case the stock statements submitted by a borrower is 100 crores and Bank finds a stock which is much less than 100 crores, the bank can say that it is a willful default and the drying powers were being taken by the borrower on a fraudulent declaration, knowingly that the stock is not there. 
+
+55:37
+He submitted a stock statement which was false. That is called falsification of books off account. So that is also considered at times fraud, but mostly it would be considered as a willful default because he actually is. he would be considered as disposing of or the removing the stocks while it was there sometimes before. The identification of the willful default should be made keeping in with the fact record. 
+
+56:05
+So it is also mentioned very clearly that it should not be an isolated transaction basis. It should be only on a track record in case there are multiple incidences of willful default or some kind of kind of. Some people are regularly doing these kind of things, then only they should be considered as a wilful defaulter. The default must be intentional, deliberate and calculated. 
+
+
+## Can the government borrow funds for a long term working capital?
+56:31
+As I said, the statement of stocks or statement of Sentri debtors, given that should be simply by not paying the money of the bank, would not be considered as a willful default. It has to be intentional, deliberate and calculated. the grunters and the corporate gruntal also would be considered as a virtual willful default or incase they belong to the same promoters. 
+
+56:53
+However, we differ from September 2014. Even if the grunters are non group companies, they also would be considered as a wilful defaulter. So this is the willful default where the categories are totally different. The default is totally different as compared to the fraud coming the going forward. Again, this is a as I said that the diversion of funds is defined separately under this circular caihou what is by version of funds. 
+
+57:31
+The amount is again 25 lakhs and above and the diversion of friend is actually very, very simple in most of the businesses that you would see that this kind of diversion is mostly done when the short term working capital funds are used for long term purposes and without any confirmation from the bank. The deploying borrowed the funds for the purpose of creation assets other than those for which it was sanctioned. 
+
+
+## Transferring forward funds to subsidy group complete or other corporates
+57:59
+Transferring forward funds to subsidy group complete or other corporates by whatever modalities, to see somebody taking loan here and then finally investing it somewhere else. Routing of the funds to these, to any bank other than the lender bank and see like this, is something that they will mingi current accounts with some other banks so that the bank should not take the convergence they take control over the current assets or current funds of the bank company. 
+
+58:23
+So the open account in some other banks. Investment in other companies by way of acquiring equities that instruments without any approval of the lenders. Short, following deployment of funds vis a vis, the amount dispersed, like if the bank has given a loan of, say, 20 crores, whereas the amount deployed in acquiring that asset is much lesser. so that's called the. That's called the diversion of funds. 
+
+58:46
+So the devotion of funds is a anything which is more than 25 lakhs would be considered a diversion and in case the bank tries to find, the bank will find this. In most of the cases, this is a very easy to find the diversion in most of the financial statement. Siphoning of the funds is also one of the one of the causes of willful default, again for more than 25 lakh. 
+
+
+## Money siphoning of banks, money siphoning of banks
+59:16
+It was on the diversion of funds again 20 like 25 lakhs. and above siphoning of the funds. Cycling is again defined as the in case the funds borrowed from the banks are utilized for the filling of the funds. Where the funds are taken for some other purpose and utilized for some other purpose. That's the siphoning of the front and use of the funds are to be monitored by the lenders. 
+
+59:41
+That's the requirement of the are be a circular, meaningful scrutiny of the quarterly progress reports and it is also stated in that obvious software like what kind of monitoring is required. So meaningful scrutiny of the quarterly progress reports, operating statements, balance sheets of the borrower's, regular inspection of the borrowed assets, periodic Cecropia, scrutiny of the borrow books of account and only on account, periodic visits to the assisted unit system of periodic stroke or delayed. 
+
+1:00:10
+We all have comprehensive management audit. It's important. I think part what the participant would like to understand is like: what are the penal measures if a person is declared as willful defaulter? Number one is the no additional facilities. 
+
+
+## wilful defaulter debarred from institutional finance for five years
+1:00:37
+So once a person is declared as a wilful defaulter, he would be debarred from any institutional finance for a period of five years from the date of removal of their name from the list of wilful defaulters as published disseminated by RBI or the credit information companies. I have company credit information companies also. 
+
+1:00:59
+Even when viola was researching, I could also find a few facts about the condition information companies, the legal process against the borrower grunters and the foreclosure of the recovery dues they deceive their loan accounts can be foreclosed. that's also one of the penal measures which is listed in the RBI circular. The lenders may take initiate criminal proceedings against even full defaulters wherever necessary. 
+
+1:01:21
+Whenever possible, the banks and the financial institution should adopt a proactive approach for change of the management. As you understand, the change of management is now allowed under the surface. He act also, and it is also like a BC, is also something which can be used. 
+
+
+## RBI circular says that the promoters should not accept the resolution plan
+1:01:38
+So see whenever we talk to our bankers that the promoters are interested in giving a resolution plan and in the meantime we talk about that the application is being filed for fraud, then there's no banker is interested in accepting there is a mutual plan which is coming from the promoter, even if it is MSME, because they would say that the RBA circular would hit us because the RBI circular is one kind one side it is suggesting that we should start criminal proceedings against the promoters. 
+
+1:02:07
+They be the transactional audit has shown that there have been fraud. they would have declared by now the wilful defaulters, and then any proposal coming from the promoters is not accepted normally by the committee of creditors, when it is mostly the public sector banks. 
+
+1:02:23
+And the reason is this circular which says that the foreclosure, no additional facility is the change of management, that everything is a kind of scenario which suggests them that they should not accept the resolution plan from the same promoters, although we have facilitated this in the insolvency and bankruptcy while just amending the section 29 a for MSME by section 248. however, the banks are not really. 
+
+
+## Why the banks are not interested in a proposal from the same promoters
+1:02:55
+The banks are not really comfortable with accepting the reservation plans from the same promoters where the they have been declared as wilful defaulters or they have been declared as fraud, or where the reason that we feel that the our committee is never interested in a proposal from the promoters where the promoters are also classified as wilful defaulters and our P is ready to file an application for fraud or any kind of transactions. 
+
+1:03:27
+So this is also one of the reasons, then, why we normally feel why the banks are not interested. So these are the circulars of RBI which actually exist that they should not further do this any kind of thing without change of management. so this is very important for all my participants, my friends who are Chartered Accountants. Like me, and as my son is also a chartered accountant, I am also a chartered accountant. 
+
+1:03:57
+So this is the kind of question that we all should use. It is very clearly written in the circular RBA for wilful defaulters that wherever the bank find that the oddity, the oddity is a wilful defaulter and there is some role of the Chartered Accountants, also the auditors also. So what is the role of the auditors in this case? Falsification of the accounts on the part of the borrower? 
+
+
+## RBA circular: How to file complaint against auditor of borrower
+1:04:25
+If it is, if it is observed that the auditors were negligent or deficient in conducting the audit, then what are the responsibilities of the bank? So this is carefully all the chartered accountant must give here to this particular blind so the in case the of the borrower is classified as wilful defaulter, then the it is the duty of the bank under the RBA circular to file a formal complaint against the auditor of the borrower to the following parties: one to Institute of Chartered Accountants of India to examing and fix the accountability of the auditors to while the disciplinary action is initiated or is pending before I cai, the complaint may also be forwarded to RBI, the Department of Banking Supervision central office of the RBA. 
+
+1:05:21
+The complaint has to be formally given also to IBA, Indian Banking Association, for recording and circulated three names of the CA forms amongst all the banks, who should consider this aspect before assigning any work to them. RBI should also share such information with other financial sector regulators, Ministry of Corporate Affairs and CAG. So this is what is written in the circular. The banks are under obligation to do this. 
+
+1:05:55
+Now, who are the financial sector regulators as of today? Maybe it keeps on increasing. Today we have see other than the RBI. We have say B. We have Insurance Regulatory and Development Authority of India. We have forward market Commission of India. We have this pension front Regulatory and Development Authority of India. So this is these are the financial sector regulators. 
+
+
+## Credit Information Companies Act 2005 & Regulations of India
+1:06:19
+So in case the any of our borrower is the classified as wilful defaulter, and it is also the reason is also shown on us that the falsification of the books of Conn's has been done. it has not been properly deported, it has not been qualified, then these are the actions which the bank is supposed to take. This is the action which are done they supposed to take against the auditing firm. 
+
+1:06:47
+Then the reporting of the borrower to the credit information companies. This the regulation, the credit information companies. I will just give you a little bit of background. The Reserve Bank of India has an exercise of powers conferred by section 5 of the credit information company's Regulation Act 2005 and the rules and regulations framed there under granted certificates of registration to 4 companies and the disability at. 
+
+1:07:20
+We know for the time being that we know one that was no civil. But there are three others which have been given the certificate to do this business of credit information companies like Experian credit information company of India, Private Limited. Equifax credit Information Services Private Limited, Cir c I crie f Highmark credit information system Private Limited. So like we say then one is this symbol but there are three others. 
+
+
+## Equifax Identifier for wilful defaulter
+1:07:50
+I have also started seeing this Equifax, some of the information that comes to us from Equifax. They have also started scouring our C credit, the credit history. They have also started scoring. So that's also kind of these are the three or four companies which are there for information. So the de villefort defaulter, the wilful defaulter, would be reported to credit information companies. 
+
+1:08:26
+Now this is the mechanism that the RBI has provided for identification of any wilful defaulter, one that the. There is a first is an identification committee. First of all, there is a proposal which moves from the branches for a wilful defaulter. It actually goes to another and official identification committee in identification committee, which is headed by an executive director of the company, and also to the officers of GM or d GM. 
+
+1:08:55
+The committee will issue a show cause notice to the borrower and they will give a personal hearing to a borrower. That's very important part of the process. then this entire thing will go to the review committee, which would be headed by the chairman and the managing director of the company, along with the, along with the two independent directors and known as the Ketil directors of the bank for the review committee. 
+
+
+## Identifiers: What is the Willful default in the process of identification
+1:09:22
+So then in case the identification committee and review committee both are saying yes, then only a person can be identified as wilful defaulter and the reporting will start only thereafter see most of the chartered accountants must have seen that their clients, they come to them and they seek suggestions that they have been called for a personal or a video meeting with the executive director in the process of identification of a wilful defaulter, because they would make a representation there that we are not willful default or it was a business failure and we have no other assets which actually can be considered as siphoned off or diverted from the business and we have no capability to pay. 
+
+1:10:11
+So this is the willful defaults in the process of identification. of course there has been some relief which is given to the directors who are non promoters of the non whole time directors and the action can be taken only against an officer who is in default. That's defined under second to subsection 60 of the Companies Act. So in case somebody is not a whole time director or a promoter director, then of course it is. 
+
+1:10:38
+They can be exempted from declaring as being declared a very willful default. So what kind of criminal action now let us understand? Once a person is declared as a willful default, what kind of criminal action can be taken against the wilful defaulters? So the first of all I said that it is. It is the sense that the breach of trust or cheating has to be there in the operations of the borrower. 
+
+
+## Banks Use Indian Penal Code for Criminal Action against Banks
+1:11:06
+Then the banks must monitor the end use of the funds. Then there may be some wrong certification by the borrower. So these are kind of forgery, breach of trust, cheating, wrong certification. These are some of the where the criminal action can be taken by the banks against the borrower's. So these are the two sections where the of Indian Penal Code which are used by the banks for taking any criminal action against the borrower's. 
+
+1:11:41
+One section is 4:03, which is which talks about dishonestly misappropriating any movable property to his own use. So most of the movable property which are hypothecated to the banks or pledged to banks, in case any borrower dishonestly misappropriates that property shall be punishable with imprisonment up to two years or with fine or both. 
+
+1:12:07
+That's section 4,0.3 and another section is for 1/2 of the Indian Penal Code which is used and that is cheating wherever by deceiving any person fraudulently or dishonestly induces the person so deceive to deliver any property to any person or to consent that any person shall detain any property or intentionally induce the person so deceived to do or omit to do so. This is a cheating. 
+
+
+## Section 2, Section 4,0.3 & 4 month 5
+1:12:35
+Section 2, section 4,0.3 & 4 month 5 are the sections under the Indian Penal Code which are used. So before even taking the criminal action by the banks, there is a process required and that process is the bank must have a board approved, transparent mechanism. The powers are not with the branches. The powers are not with the reason. 
+
+1:13:01
+The powers are basically with the complete mechanism that the bank has to make and under the bank they have to put a complete transparent system so that somebody's come criminal complaint is filed. It is also held in various cases that the breach of contract is not criminal, is not a crime, simply by if somebody is not able to honor the commitments of payment of interest and installments, that's not a crime. 
+
+1:13:37
+The only right of the aggrieved parties to approach the Civil Code to attach and sell securities like the banks can go to Civil Code and attach cell and the unencumbered properties we have in each of contract cannot give rise to criminal prosecution under Section 420 also unless the fraudulent or dishonest intent is shown right at the beginning of the transaction. so one focus is on the transaction. 
+
+
+## Defrauding Banks: What is the wrong intent?
+1:14:04
+Whenever a transaction is done later on the transaction may turn out to be causing losses to the banks, but the defraud the. The Provident intent has to be seen at the time of the transaction, not later on if the Provident intent at the time of taking loan was not there. However, later on the intent changed because of the circumstances that is the excluded from the criminal action. 
+
+1:14:37
+So the anything which is the right from the beginning is a is a kind of planned action to take long plants action to defraud the banks. Otherwise the later on, while somebody's taking surveys action at that time it would not be considered as if it is a fraud. 
+
+1:15:01
+So at the time of doing the fraud, the intent has to be there and later on it may see it is exempted, like later on if the transaction gets converted into a loss to the bank that is exempted. 
+
+
+## New Act 2013: Criminal Action for Banks, Banks, Companies
+1:15:15
+That's not it say it said we're like kind of a judicial decisions that I am referring to, so it may not be appropriate for the banks to file criminal action against those borrowers who have pre had done business for many years and their track record is good. The intent was good then they took loan. 
+
+1:15:38
+However, later on, maybe for the purpose of saving the company, they might have done something which is the incorrect or mitches which is offensive to the banks. but that doesn't mean that the intent at the time of the intent at the time of transaction was bad. 
+
+1:15:57
+Then, in this, a new complete Act 2013, a new section was inserted within section 447. In that section also the new offense of the fraud in relation to the affairs of the company, which provides that any act or omission, concealment of any facts or abuse of position committed by any person with the intent to deceive or injure the interest of the company or its shareholders or creditors burger or creditor, since the creditor word is here whether or not there is a wrongful gain or loss can be investigated by a serious fraud investigation office established under the Act, and any violation is punishable with imprisonment of up to ten years. 
+
+
+## Case of willful defaults can therefore be interested to SFI you to investigate whether such default
+1:16:45
+Case of willful defaults can therefore be interested to SFI you to investigate whether such defaults amounts to serious fraud under Section 447 of the complete act or not. So this is also being used as probably it would also share the be most of the cases which goes to SFI or edy. Those are all bank fraud. So on tip you can also share because you also attended one of the EDR. 
+
+1:17:17
+Basically there is a there is a very interesting certificate course from ICAI which is called anti money laundering laws and that takes care of PMLA. That takes care of SFI. Oh that takes care of how the IDI has powers under PMLA, and my experience was pretty good. there was. There was a lot of good faculty there, which basically on both sites. 
+
+1:17:44
+So he some people came in from the department who were talking about the department side, and they were also independent professionals who are dealing with how the IDI takes up such matters, and so basically the idea is that you has to be criminal action which is pending or which is received. 
+
+
+## Can the independent director also be classified as a wilful defaulter
+1:18:01
+It has to be charged sheet and based on that, then the IDI or the SFI, or this start normally start taking action against the, the person who is who is a who with whom there is an allegation that he has committed a fraud or committed or siphoning or something like that. So I am getting any questions here, because I think that we can. We have we have a kingdom between. it should take some questions. 
+
+1:18:26
+So one question is: can the can the independent director also be classified as a wilful defaulter? So my study, as I said, that section 2 subsection 60 of the Companies Act that defines the whole term directors see that defines an officer. I think the officer is responsible, and this definition of an independent director does not make him responsible. For this. I mean what do you say uncle about it even I think so. 
+
+1:18:53
+I think normally normal circumstances it will not be, unless and until you know what happens is that an independent director was the was the perhaps the person who's responsible or who was actively involved in that decision making process. So unless and until that is proved, it will be difficult to put the onus on the independent director. so then we have what is the. 
+
+
+## What is the exact difference between diversion and siphoning or funds?
+1:19:16
+So there is a question from two people which says that what is the exact difference between diversion and siphoning or funds? If diversion is also for unrelated operations, so diversion one I said the diversion is from long term. The short term losses to long term. That is also a diversion from short term uses to some unrelated business is also a diversion within the company and siphoning off primarily is the taking it outside the company. 
+
+1:19:51
+So I think of taking it outside, whereas the diversion of funds within the company within the serac divergence mostly will be linked to the intended use. engage alone to get a term loan and you ended up, you know, or you took the loan to buy inventory or use it for working capital and you ended up buying something else. So I think that will be diversion. You ended up putting the money into your subsidiary company. 
+
+1:20:14
+Siphoning also means like for the personal benefit. That also is very clearly mentioned in siphoning. The deciphering of fund is for personal benefit, whereas the diversion of funds may be from category to category and from the business to another business, from the company to another company of the group, whereas the siphoning is whereas the money has a free been completely vanished and nobody knows that who where has been taken, where it has been taken. 
+
+
+## RBI Guidelines: Where forensic auditor is supposed to conclude existence of fraud or not
+1:20:43
+So that's what is completely siphoning, where the normally it's Prada meant also. so mr Pradeep Srivastava is asking a very important question and I just lost his question. Give me a second. Yeah, so he says where the forensic auditor is supposed to conclude existence of fraud or not in his report, the forensic auditor. As far as this RBI guidelines are concerned, RBI is not saying or putting any responsibility on a forensic auditor. 
+
+1:21:20
+RBI is not even putting any responsibility on the forensic auditor. Our bie is only trying to gather the information from a forensic auditor and then the banker has to take an opinion whether it's a fraud. As for the RBA guidelines or not, see the this is a liquid, the RBA. The forensic auditor will determine the intent. That's never seen. That's never possible. The intent would be it's based on the various track records of the borrower. 
+
+1:21:54
+The bank will decide the intent. The bank will decide the track record. The bank will determine the transaction. Bank will report it. The forensic auditor will only highlight the transactions which appears to be a problem and in this insolvency law also, the forensic auditor is only highlighting the transactions the RP has to determine. RP has to determine the transactions are undervalued, preferential, extortionate or fragment. It is the duty of the RP, not the forensic auditor. 
+
+
+## if the bankers have suffered because of fraud, why should they go to RBA circular
+1:22:32
+The forensic auditor can highlight the effects regarding the bogus Ness of any transaction in genuineness of any party, the KYC, doubtful kyc of the parties, known existing parties. Based on all these facts and the evidences, the RP will determine the transaction. yes, uncle, your uncle Kearney G. There's a question from Ken Kolker me and which says that whether public sector bank and file complaint to CBI if there is fraud under Section 447 of Companies Act. 
+
+1:23:12
+So the if the bankers have suffered. If the bankers are feeling that yes, there is a fraud and they have suffered because of that fraud, definitely they have to use this RBA circular, then why should they go to section 457 of the company? 
+
+1:23:27
+That because if the bankers are involved so they have this RBA circular, they have a complete reporting structure at what kind of amount of fraud, at what port, starting from the state police to the state CID to economic offense wing to the various departments of CBI and finally, if the fraud is more than 50 crores to the joint director of CBI. So there is a complete structure there under the RBI guidelines. 
+
+
+## Why should they go to the compressor?
+1:23:55
+Why should they go to the compressor? Because if they are three bankers are the creditors, but in case there are other people who are the creditors, they, where the RBA circular is not applicable, they should actually use this section 457 of the compressor, not the bankers. Minister, so these Kira is asking that is there any case of unintentional wilful default? 
+
+1:24:17
+There are many such scenarios unintentional wilful default, like when this transaction takes place at that particular transaction time. It was ten years back. For the last ten years, the business was being done very clearly and there was no, there was no default. There was no fraudulent transaction. Everything was going very good. So then the loan was taken. It was good. 
+
+1:24:40
+Now, since maybe something has happened, maybe some losses have happened and because to hide losses, the promoters may do some kind of dishonest or falsification of books, and in that particular scenario it is never seen that the promoters have taken away the money to another, or there is no diversion of funds. There is no siphoning of funds. 
+
+
+## Bankers breach of contract - if you are breaching trust
+1:25:03
+So, then in those cases, I think, even if the bankers have suffered as I said, that the breach of contract is not a breach of trust. The breach of trust is that the bank's normally, when they give loan, they trust a person that you have my inventory, you have my asset, and in case you are actually breaching the trust by selling those assets and siphoning of the money. 
+
+1:25:25
+When you are selling this talk and siphoning of the money, that becomes the intent. When you siphon off and take it away for your personal gains, that becomes the intent. 
+
+1:25:36
+In fact, there are many such scenarios where the banks have decided to not do declare a person as a willful default and the if we see this total number of defaults in the country and the total number of wilful defaulters declared by the banks as per the RBI list, and there is a huge number of defaulters who have not been able to pay their loan but they are not willful defaulters as declared by the banks, the huge number there. 
+
+
+## 
+1:26:06
+So I think you can resume and if I have more questions, I can take them up. so this is one sec segment of my PPT which I prepared for most of the auditors in our country, because what I feel is that this scenario is changing and under the changing scenario, the role of this luxury auditor is also changing. So first of all, I would like to highlight what scenario is changing. 
+
+1:26:31
+The first part that I would say is this scenario like since these four vinci law has come and the insolvency professional IR PRP has powers to take information from the auditor. So in case the information is not given by the auditor, the auditor, the IP can also file a complaint that the auditor is not sharing the information. So there has to be some change in the bill that the Chartered Accountants are doing the audit. 
+
+1:26:58
+Some kind of Records has to be kept with the auditors that they can share later whenever it is asked by anyone who's in any RP. Second scenario is that now the deduction of default have suddenly started very free as fast. 
+
+
+## 
+1:27:14
+For the last so many years, the company was showing profit with just enhancing the asset side of the balance sheet by just increasing the receivables or the stocks and suddenly, when the stocks was 200 crore only one year, this rocks came down to zero, and that also would be highlighting the kind of willful default or fraud by the borrower's. 
+
+1:27:36
+So whenever there is a willful default, see like even normal circumstances, in case we see the last 30,40 years in the country, the banks are not ready to detect or declare a fraud, or even not a fraud, but then they default. The banks are not ready to detect a default, but now the default can be detected by any employee. 
+
+1:27:59
+It can be detected by any creditor, it may it be a small or big, and the company can actually go to insolvency very quickly. The auditor would not even come to know that last year this company was healthy, as known to us, and suddenly this company has gone to insolvency and later on it was found by the RP that we stopped what 200 lorries are free nothing. 
+
+
+## 
+1:28:23
+Similarly, there is a section 71 under the IBC which talks about the punishment for falsification of books off account. Any person alters or falsify any books, papers or securities, make any false works prominent and clean the books of account with the intent of defrauding the creditors. There is an imprisonment between three to five, three to five years. Section 147 of the companies Act will the punishment for the contravention that's also. 
+
+1:28:50
+There is an imprisonment also where the for willful and with the intent to deceive the creditors and the shareholders. 147 further provides that the auditor will define the remuneration taken from the company and pay compensation and damages to members, creditors and government authorities. I think this particular subsection was taken away later on the National Financial Reporting Authority has also been set up now, with vast powers. 
+
+1:29:20
+Of course not applicable to all the companies so far, but gradually this Authority will have the powers to review various balance sheets and also pinpoint in case of any difficulty. So like the C like this, these are the changing scenario seven. The scenarios are changing. The standards of the auditing has to be seen very carefully. The kuroh should be reported well the listing agreement section clause 41 of the listing agreement is also required. 
+
+
+## 
+1:29:54
+The fraud reporting bill central government is also required by the auditor. so when the auditors are finding some kind of willful default or some kind of fraud, there are responsibilities on the auditor that they have to report it and that report. The auditor should be prepared now to handle the kind of frauds or willful defaults by the body oddity. The auditor needs to now educate himself about the detail to do diligence. 
+
+1:30:25
+The RB master circular is very clear about the wilful defaulters, because it has to be reported to four or five authorities in case the bill full default. It is also seen that the willful default has also been with the connivance of the auditor by falsification of the books of accounts. That also has to be seen whenever we try to see. We should also try to whenever we are auditing. 
+
+1:30:52
+We should try to find out what kind of statements are given to the banks and what kind of statements were audited by us. In my personal case, I audited one balance sheet and finally I got a balance sheet from a bank along with a letter that this balance sheet has been filed. They submitted to us, which apparently has been signed by you there. 
+
+
+## 
+1:31:10
+I mean when I matched the balance sheet with my audited balance sheet, there was a huge difference. My signatures was the same. However, the figure of these sails and the figure of the purchase was completely changed and huge crores of rupees were added there. So immediately I submitted a police report and later on that particular scenario went up to a very big crime. 
+
+1:31:35
+So we were saved, because whenever this report came to us, we immediately in from the bank that this is not the balance that we signed and immediately also filed a fire. So now there is a possibility of various forensic audits by the bank or by the IP. As I said the so based on these amendments, the auditors duties are in fact increasing. Divided auditors duties are increasing, so their risk is increasing. 
+
+1:32:10
+So I am saying that they should be more cautious in signing the balance sheets. So this is the this is the part that we would like to say that this is for the banks, this is for the frauds and this is for the willful defaults. I would be starting be now the transaction or it under the IBC and the practical difficulties, which would be more interesting to the audience because this is a new subject. 
+
+
+## 
+1:32:36
+Before I do that I would see in case there is any question from uncle. So we are at. We are 10 minutes to 6 o clock, so I think what we can, so you can decide how much you want to take it forward. With respect to the IBC transaction audits, I will speak out some questions. 
+
+1:32:56
+So I think we will spend this time on the on this questions and because he will start this subject of transaction audit, because this would be very practical, because we have gone through many such audits and we've gone through many such cases as Triple A insolvency. we might have filed more than 70 applications to the do diecutting Authority for section 43,45.66. So this all this experience that we would share with the participants. 
+
+1:33:30
+So that would be really good. That would be on next Sunday. But like let's see what are the questions today and what I'm doing is I'm trying to take those questions. 
+
+
+## 
+1:33:39
+They're relevant to today's slides and I am kind of I am assuming that your presentation next Sunday will be covering the IBC related questions with respect to transaction or dirt in other parts some of the IBC, the first of all, we should take this, the wilful defaulters, and I will give priority on those questions. so mr Neame logy. 
+
+1:34:03
+He's are seeing that directors are not personal characters, but they have diverted funds and have and has done all wilful defaulters activities and business is now closed with huge Bank outstanding. Can we restrict directors to leave the country or impound the passport under sections of criminal action for wilful defaulters? 
+
+1:34:24
+Yes you see, in case the bank the as per the entire process defined under the RBI circulars, wilful defaulter or the red flagging of the account fraud account once the fraud account is declared, than the complaint to the complaint to CBI once the CBI is a sabancý compared to CBI is filed. 
+
+
+## 
+1:34:49
+The CBI will only do some initial investigation for because it I have seen CBI taking actions in three or four days and I have been given to understand by various Bank that in some of these states the CBI is very active in some of the fraud which had less than 25 crores. but in case of Delhi, where the frauds of more than 50 code comes, this also is very active nowadays. 
+
+1:35:13
+And in Punjab we have seen lot of searches, lot of raids and even in my case row to Mexico. I wrote to make of Kanpur. I have seen during cir pd raids was conducted and that was also within about 15 days of the complaint filed by banco brother. So for the for the participants. 
+
+1:35:33
+I would be very happy to share with you that the why I took up this, the fraud subject, have one that I also wanted to update myself, because see the banks are kind enough to give us the all the big names in the country who have done fraud with the bank, starting with the Nero Modi companies to marry proxy companies, like with Angela gem vikram Qatari companies and they don't do mala companies and even otherwise this wherever they say be defaults, unauthorized collective schemes see various such companies where the assets are attached by the investigation agencies against the criminal offences. 
+
+
+## 
+1:36:18
+Those are with us. so like. It was very, very important for us to understand why the banks are actually trying to go through their own process, while the IBC has a complete process of, first of all, a dedication from the mclp and then the special codes under in under the Companies Act under section 236 of the IBC, where the IBB I would be the prosecutor say. 
+
+1:36:44
+I want you to understand very clearly, of course, like in my experience I have dealt in the past, lot of people under stress, a lot of wilful defaulters I have represented before the banks are on behalf of my clients, that this person is not a wilful defaulter I have even represented before the branches, or this is not a fraud. This is a business scenario. 
+
+1:37:08
+So I have done a lot, but I just wanted to update myself because of the various fraud cases that has come to Tripoli, and I wanted to understand the bank's mindset when they are not accepting the resignation plant from the promoter, when the promoters behavior their intent is not clean. So that very important part that I have seen. So what the question is coming? 
+
+
+## 
+1:37:34
+That's very clear that if CBI tries investigation, then the CBI definitely would hold the passport and would not allow any foreign travel. So however, the as far as the foreign travel is concerned, this is considered to be a fundamental right and a person can specifically apply to the code for one or two, even if then I have seen them leave. 
+
+1:38:00
+Some people are getting their passport back for a travel and then they come back, they also have to suppose to give it back to the investigating agencies well take up the next question. Mr Siddiq Kira is putting up a very interesting question. He says that in forensic order divorce there's generally a disclaimer that this report is only for perusal of the member banks and should be should not be used for any other purpose. 
+
+1:38:25
+Are they justified so? And also, I think, beyond this, what we can also briefly talk about is the disclaimer that otherwise make the forensic audit unusable? I would. This is a very important question. I thought that I would be taking it again on the next Sunday because this is a very important. 
+
+
+## 
+1:38:41
+Like the role of the disclaimer, in fact have diminished our efforts for finding default, because the disclaimer is given by the forensic auditors was huge the kind of disclaimer that they had given one that this report cannot be used by anybody else other than the RP. Second, that the information given by the RP or by the company was not was was not verified independently by us. 
+
+1:39:07
+Thirdly, the document given by the RP or the company was not independently verified by us. The words used by like the transactions are suspected to be like this. The transactions are so well why I am convinced the with one scenario that we are the auditors are not supposed to determine the transaction under the under relevant section. 
+
+1:39:35
+They have to highlight a transaction and it is the duty of the insolvency professional to determine the transaction under what section it will fall. Cheaper than the reason of the most of the international brands while they give this kind of disclaimer is that if the same report is used by the bank for a complaint to CBI, then the same auditor might be called. The same auditor might be called for verification for witness to CBI proceedings. 
+
+
+## 
+1:40:09
+That's what they scare then. That is the reason that they write so in one or two cases. Then when we insisted that we have to use this report and we need your consent, because the bank's wanted to use the same report for filing fraud under RBI framework, and then we approach the same international firm that we want to use this report, and then the international firm came out with a proposal that if you want to use this report for the RBI, for the RBA framework, then we would charge this much now and later on, in case we are invited for any clarification, then based on the per hour per day, that would be charges, and in case we would be called for any hearings, then this would be the charges, and they were asking the creditors to sign that arrangement. 
+
+1:41:03
+Then only they will give a permission. so that was a scenario. Of course, like when we now appoint a forensic auditor, we are saying that the first and foremost, that the arrangement that is that we give to all the forensic auditors, that this particular report can be used by the RP and any of the members of the committee of creditors. 
+
+1:41:24
+So this we have solved now and this is mostly accepted by the firm, leaving some which are not accepting. So this is the keep anything. Another question is whether bank should share forensic audit report with the RP. certainly yes, because the banks, in case the banks, will share the, because I can, even I am even convinced with this subject. 
+
+
+## 
+1:41:47
+If the banks have got this forensic audit done very recently and the books of accounts are very small and the RP says RP finds himself capable to do and find the transactions, then the RP can even use that report and determine some of the transactions which are in the look back period and report to adjudicating Authority. 
+
+1:42:08
+Even if the bank has already used that report, even if the bank has already used that report under the RBA framework, the RP can still use that report, determine some of the transactions without even waiting for the report of his own transaction auditor, or even not appoint his own transaction auditor. 
+
+1:42:27
+Because I would come to the next part of the webinar, where I would actually say that this appointment of a forensic audit or a transactional auditor under IBC is not mandatory. If the insolvency professional himself can do that, then also it will be considered as that he's done his part, because the only thing that he's trying to say that in case he this is just for the sake of shifting the responsibility to somebody else. 
+
+
+## 
+1:42:52
+And secondly, nobody can say that a enthrall vinci professional would also be forensic audit or and would be an expert in finding the transactions, because you form the insolvency professional can be an engineer. He can be a management person. He can be a complete secretary. he can be a cost accountant, not necessarily the all the insolvency professionals will be chartered accountant. 
+
+1:43:14
+And that too specializing in to the forensic audit, yes, but in case some insolvency professional is able to justify that, I have done it myself. Nobody can accuse him that he has not done his part later on by not appointing a transactional auditor. Yes, and kitnik for sure. 
+
+1:43:34
+Then, of course, conclusiveness of the forensic audit report brought in a lot of comments that RBIs instructions I ABS instructions require the forensic audit reports to be conclusive, and I think that's also already taken care of. I will dislike the I be as concerned idea is working under the RBI framework, when every RBI, in their circular, has never said that the forensic auditors should classify it as a fraud? 
+
+
+## 
+1:44:04
+Forensic audit or is it is to be appointed, but it is the iba saying that it has to be conclusive. Are the i? If the forensic auditor has highlighted the transactions, what further conclusion is required from the auditor should he, should he become adjudicated? 
+
+1:44:25
+Good person I think that he has highlighted a transaction, whether it is Provident or it is a transactional, or it is on account of the stress that has to be decided by the committee's which are made under the RBI guidelines and the transactions highlighting is the job of the foreign key character. the way I see it is that the powerful in secret or a transaction or interval work is. He will look at all the transactions. 
+
+1:44:53
+He will enumerate them. He will also give a chance to the promoter in some circumstances that he can explain some transactions and those allegations counter the counter proof, counter documents that he has received. 
+
+
+## 
+1:45:06
+He will simply put in a report with all the facts around that around the transactions and if there are no transactions that he is able to find which can result in you know, some kind of some kind of a diversion or siphoning off, then there is no evidence in the report. I think the other. the other part, which has been in one of my case, the Ann CLT bench. 
+
+1:45:31
+You know an open court said and that you had, you're filing the application without even determining the transaction. You're filing the a and an application under Section 43,45.66 without even determining. Let me understand. When you determine the transaction. Let me understand where you, where you have given your note while determining the transaction. You can take the. You can take the clue from the forensic audit report, but determination is your role. 
+
+1:46:03
+That was announced by one of the NCL team member and that's not something which is required by the forensic audit or forensic auditor has to give a report which should be clear, transactions, which should be supported by the documents, and he should not give a disclaimer like that. the documents are not verified by him, he should not give a disclaimer that the further information was asked, what I was not given to us. 
+
+
+## 
+1:46:28
+So these kind of disclaimer in fact not giving any result. So the as a disclaimer that it would not be used by any other person. That's only a financial implication. Even if it is used. Nobody can say that the information given in this report cannot be used because the financial arrangement has not been done by the with the auditors. So that nobody can say the coats will say that the SA report is signed by Francie. 
+
+1:46:55
+Quality of the transactions are supported by document, even if the transactions are reported without the. If you see, I can report a transaction without even attaching the forensic audit report. I can report a transaction with the ledger accounts with the other evidences and even if it is not there. In fact, I have filed many such collection application which are which are not covered by the forensic auditor or the track by the transactional auditor. 
+
+1:47:21
+But I have filed those transactions as available transaction. So link. After the transactions are concerned, the transaction should have proof. The transaction should have all the documents to verify and make a case, because the case is not based on the forensic auditor's report. Case is based on the documents and the report may be, even if it is written in the report, but there is no document to substantiate. 
+
+
+## 
+1:47:48
+That report would not be considered as complete and that would not be considered as the application would not be accepted by the adjudicating authority. here's some key, so I think I have covered most of the questions that we had. With respect to one question is that is non cooperation by borrower considered as an early warning signal or fraud non compression by the borrower in while delimited by winding information while dealing with the bank? 
+
+1:48:23
+Of course, because he like I, said that this is one of the early warning signals that the borrower is not submitting the financial statement. Borrower is not submitting the stock statement. Borrower is not submitting the renewal proposal. Borrower is not liking when the bank is visiting the bank already always trying to defer the banks with it for verification of the current herself. That's a very big signal. 
+
+1:48:45
+That means that the borrower is actually trying to hide something. if the borrower is not transparent, that's a very big. But then I am not sure whether you are asking about the non cooperation during the insolvency process or non cooperation in the normal banking operation. If it is during the insolvency. Non cooperation, of course, that we all are facing then incorporation and like non providing information which is sufficient for the forensic auditor. 
+
+
+## 
+1:49:13
+But that of course is one of the issues. I think if the tea or if the promoters are not cooperating with respect to providing any report, any information with respect to evaluation and with respect to anything else, and I'm talking about an insolvency case, ERP motto. 
+
+1:49:31
+So there you can't really say that there is a there is a fraud or there is diversion or there's some problem with those transactions, when you not even looked at those transactions. What you can do it at the most is say that go to the Goodwin CLT and say that the promoters are not providing information. Haci, but that's not really effective nowadays. 
+
+1:49:56
+That in case I go to an TLT and say that the promoters are not providing information, but I understand it that we should use other methods for taking information from the promoters. Of course application has to be filed and the effectiveness of 19.2 application of course has been reduced over the time. Presently it is not giving much result at some of the benches. it is giving some good results at some of the benches. 
+
+
+## 
+1:50:22
+But at some benches it is not giving good results. But then yes, that as an insolvency profession we don't have any other option except to file their application. And but it is not being considered as very positive by the bench is also the benches are saying that the once application is filed, the insolvency professionals about making efforts to get the information or to obtain the information. 
+
+1:50:42
+What I am trying to say that while the application is filed, we should also try to get the information. We should also try to explore the possibilities of getting information from third parties. we should go to the income tax department, we should go to the registers, which we should go to various of the department that we have powers to cut the information, but in the then it will be considered as yes. 
+
+1:51:01
+We have made the efforts, so simply by finding an application under Section nineteen in Subsection 2 and not making any further efforts to get the information, not even going to the office of the company where the records are there and trying to find out the file, because he in many cases, when I was asking the information and I filed the application and then the promoters actually reported in the day, they submitted a big and heated argument that the entire company was into the possession and custody of the RP. 
+
+
+## 
+1:51:31
+We had all the information. we had all the documents but we were not giving. We were not given any access, so we couldn't file that and then it was like then a video or the film was it was the joint inspection of the premises was done and then finally they said that the documents were here and since this particular premises was in the custody of the RP for one year, so we don't know where the document has gone now. 
+
+1:51:57
+So we have no information, because we were not allowed to be there in the office for one year. So now we have come into the office and we are not finding documents. So we are unable to provide those documents because we've seen that it has been taken away by the RP. Even these kind of allegations has come to us. 
+
+1:52:14
+So this is the everyone will prepare for their defence, so we actually have to be very cautious. This transaction audit under IBC is a very, very important issue. There are a lot of questions. 
+
+
+## 
+1:52:24
+I think that the next session that we would have on the next Sunday may be in case we would stretch it little longer, because I would like to complete it for the entire research that I have done until I think we can compare the area. So we're ten minutes above time and I think we can thank everyone and I regret the technical difficulty that we had today and we will. 
+
+1:52:45
+We will be using the same link, so you don't need to register again for the next webinar, because it is part of the series and the and you will automatically get emailed from zoom with respect to the visits. 
+
+1:52:59
+With respect to the next webinar, the recording of this webinar and the recording of the next webinar would be available on our YouTube channel, Tripoli insolvency professionals, and that would be uploaded tomorrow so that would be seen and see that in any case, the entire the PPT is also available in the recording so that can always be seen and in case there is any specific word or any specific section is required for anyone that can be seen from that recording itself. 
+
+
+## 
+1:53:31
+So thank you very much. chair parties. We apologize for the technical failure for about ten minutes in between, and I think that this particular session was not exciting as the next one would be. The next one is the very current and of course, this is also very current. People say the most of the cases that we are handling. 
+
+1:53:52
+The banks are taking action under the RBI framework also while the RP is taking the action under the insolvency law. So we need to understand both while we are conducting our insolvency practice, while we are a3 understanding voice. So this is a what is final from us. Thank you very much and as I always say that there is nothing. There is no objective of this. These webinars. It is only our way of learning. Thank you very much, thank everyone, thank you. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

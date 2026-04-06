@@ -1,0 +1,112 @@
+~~NOTOC~~
+
+## 1. Claim-Related Actions
+
+  *  Summarize admitted and rejected claims.
+  *  Extract claim amounts, categories, and supporting documents.
+  *  Classify claims into financial, operational, employee, statutory.
+  *  Validate claims against ledger entries or bank statements.
+  *  Format claim registers in IBBI-compliant templates.
+  *  Reconcile creditor claims with company books.
+
+---
+
+## 2. CoC & Resolution Plan Actions
+
+  *  Draft CoC meeting minutes or agendas.
+  *  Compare multiple resolution plans on feasibility, viability, compliance.
+  *  Score resolution plans using defined evaluation matrices.
+  *  Translate CoC decisions into legally compliant summaries.
+  *  Highlight deviations from Section 30(2) and Regulations.
+  *  Simulate recovery distribution under different scenarios.
+
+---
+
+## 3. Compliance & Regulatory Actions
+
+  *  Generate IBC forms (A–H) with structured data.
+  *  Review documents for compliance with IBBI/NCLT requirements.
+  *  Detect timeline delays against 180/330-day CIRP limits.
+  *  Compile regulatory filings for NCLT or IBBI.
+  *  Interpret new circulars and summarize implications.
+
+---
+
+## 4. Valuation & Financial Analysis Actions
+
+  *  Analyze valuation reports (fair, liquidation value).
+  *  Break down financial ratios relevant to insolvency.
+  *  Project recovery outcomes for different classes of creditors.
+  *  Identify inconsistencies in the IM and financials.
+  *  Normalize financial data for IM preparation.
+  *  Benchmark debtor performance against industry standards.
+
+---
+
+## 5. Forensic & Avoidance Transaction Actions
+
+  *  Investigate related-party transactions.
+  *  Flag preferential, undervalued, or fraudulent transactions.
+  *  Trace fund flow patterns for anomalies.
+  *  Compile evidence for Section 43, 45, 50, 66 applications.
+  *  Summarize forensic findings for CoC.
+
+---
+
+## 6. Liquidation Process Actions
+
+  *  Prepare e-auction notices and asset sale summaries.
+  *  Map assets to valuation and reserve prices.
+  *  Order stakeholders in waterfall sequence under Section 53.
+  *  Compute distribution amounts per stakeholder group.
+  *  Document liquidation process steps for filings.
+  *  Track realization vs. expected recovery.
+
+---
+
+## 7. Outreach & Communication Actions
+
+  *  Draft public announcements under Regulation 6/12.
+  *  Compose letters/notices to creditors.
+  *  Explain process steps in simple or expert language.
+  *  Clarify rejection reasons for claims.
+  *  Prepare bidder outreach messages or EOI materials.
+
+---
+
+## 8. Data & Information Memorandum Actions
+
+  *  Assemble IM sections (assets, liabilities, litigation, operations).
+  *  Structure IM data for VDR distribution.
+  *  Summarize key operational or financial risks.
+  *  Extract litigation details from MCA/ROC filings.
+  *  Organize documents for rapid access.
+
+---
+
+## 9. Decision Support Actions
+
+  *  Rank potential bidders based on eligibility and financial strength.
+  *  Optimize distribution outcomes for value maximization.
+  *  Recommend procedural steps for compliance issues.
+  *  Predict success probability of resolution vs. liquidation.
+  *  Aggregate IRP/RP progress metrics into dashboards.
+
+---
+
+## 10. Knowledge Transformation Actions
+
+  *  Explain IBC sections in plain, expert, or judge-level language.
+  *  Simplify complex legal or financial concepts.
+  *  Rewrite documents in formal legal tone.
+  *  Translate legal jargon into layperson summaries.
+  *  Contrast differences between CIRP and liquidation obligations.
+
+---
+
+# Universal HIGH-IMPACT IBC Targeted Verbs
+
+Use these often — they are powerful and safe:
+
+Summarize, Extract, Classify, Compare, Validate, Organize, Draft, Outline, Interpret, Analyze, Explain, Map, Format, Generate, Evaluate, Detect, Prioritize, Compile, Compute, Normalize, Highlight, Clarify
+

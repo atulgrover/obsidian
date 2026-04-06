@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://www.resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.resolutionbazaar.com/feed.php">
+        <title>RESOLUTION BAZAAR - claimants:claim_forms:vol_liquidation_process</title>
+        <description>AI AGENTS - INSOLVENCY PROCESSES</description>
+        <link>https://www.resolutionbazaar.com/</link>
+        <image rdf:resource="https://www.resolutionbazaar.com/lib/exe/fetch.php/wiki:dokuwiki.svg" />
+       <dc:date>2025-07-28T14:56:42+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php/claimants:claim_forms:vol_liquidation_process:civlp_form_c?rev=1745251708&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php/claimants:claim_forms:vol_liquidation_process:civlp_form_d?rev=1745251739&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php/claimants:claim_forms:vol_liquidation_process:civlp_form_e?rev=1745251792&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php/claimants:claim_forms:vol_liquidation_process:civlp_form_f?rev=1747502585&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://www.resolutionbazaar.com/lib/exe/fetch.php/wiki:dokuwiki.svg">
+        <title>RESOLUTION BAZAAR</title>
+        <link>https://www.resolutionbazaar.com/</link>
+        <url>https://www.resolutionbazaar.com/lib/exe/fetch.php/wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php/claimants:claim_forms:vol_liquidation_process:civlp_form_c?rev=1745251708&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:08:28+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>civlp_form_c</title>
+        <link>https://www.resolutionbazaar.com/doku.php/claimants:claim_forms:vol_liquidation_process:civlp_form_c?rev=1745251708&amp;do=diff</link>
+        <description>Voluntary Liquidation Form C - Proof of Claim by Financial Creditors</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php/claimants:claim_forms:vol_liquidation_process:civlp_form_d?rev=1745251739&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:08:59+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>civlp_form_d</title>
+        <link>https://www.resolutionbazaar.com/doku.php/claimants:claim_forms:vol_liquidation_process:civlp_form_d?rev=1745251739&amp;do=diff</link>
+        <description>Voluntary Liquidation Form D - Proof of Claim by Workman or Employee</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php/claimants:claim_forms:vol_liquidation_process:civlp_form_e?rev=1745251792&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-21T16:09:52+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>civlp_form_e</title>
+        <link>https://www.resolutionbazaar.com/doku.php/claimants:claim_forms:vol_liquidation_process:civlp_form_e?rev=1745251792&amp;do=diff</link>
+        <description>Voluntary Liquidation Form E - Proof of Claim by Authorised Representative of Workman/Employee</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php/claimants:claim_forms:vol_liquidation_process:civlp_form_f?rev=1747502585&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-17T17:23:05+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>civlp_form_f</title>
+        <link>https://www.resolutionbazaar.com/doku.php/claimants:claim_forms:vol_liquidation_process:civlp_form_f?rev=1747502585&amp;do=diff</link>
+        <description>Corporate Insolvency VOLUNTARY LIQUIDATION Form F</description>
+    </item>
+</rdf:RDF>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://resolutionbazaar.com/feed.php">
+        <title>RESOLUTION BAZAAR</title>
+        <description>DIGITAL AGENTS FOR IBC PROCESSES</description>
+        <link>https://resolutionbazaar.com/</link>
+        <image rdf:resource="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-05-05T03:19:17+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=start&amp;rev=1746373795&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=stakeholders:committee_creditors&amp;rev=1746369576&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=stakeholders:personal_guarantors&amp;rev=1746369566&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=stakeholders:insolvency_applicants&amp;rev=1746369557&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=stakeholders:claimant_creditors&amp;rev=1746369545&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=stakeholders:investor_applicants&amp;rev=1746369535&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=stakeholders:forensic_auditors&amp;rev=1746369526&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=stakeholders:corporate_debtors&amp;rev=1746369518&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=stakeholders:registered_valuers&amp;rev=1746369508&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=investors:investment_teasers:teasers:the_bombay_burmah_trading_employees_welfare_company_limited&amp;rev=1746360153&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=investors:investment_teasers:teasers:bareilly_highways_project_limited&amp;rev=1746359891&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=investors:investment_teasers:teasers:millennium_education_foundation&amp;rev=1746359694&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=agentic_framework:communication_management_system&amp;rev=1746347887&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=agentic_framework:document_management_system&amp;rev=1746347865&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=professionals:case_management_system&amp;rev=1746347842&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=agentic_framework:document_agents&amp;rev=1746342556&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=agentic_framework:communication_agents&amp;rev=1746342535&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?image=agentic_framework%3Apasted%3A20250504-070408.png&amp;ns=agentic_framework%3Apasted&amp;rev=1746342248&amp;tab_details=history&amp;media_do=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?image=professionals%3Apasted%3A20250504-065423.png&amp;ns=professionals%3Apasted&amp;rev=1746341663&amp;tab_details=history&amp;media_do=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?image=professionals%3Apasted%3A20250504-065144.png&amp;ns=professionals%3Apasted&amp;rev=1746341504&amp;tab_details=history&amp;media_do=diff&amp;do=media"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>RESOLUTION BAZAAR</title>
+        <link>https://resolutionbazaar.com/</link>
+        <url>https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=start&amp;rev=1746373795&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T15:49:55+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>start</title>
+        <link>https://resolutionbazaar.com/doku.php?id=start&amp;rev=1746373795&amp;do=diff</link>
+        <description>Insolvency &amp; Bankruptcy Code (IBC2016)
+
+communication_management_system
+  COMMUNICATION MANAGEMENT SYSTEM  Generative chatbots serve as a communication platform where stakeholders can seek answers to their queries regarding the insolvency process. These chatbots provide instant responses, helping to manage stakeholder expectations and reduce the workload of IPs by addressing routine inquiries.</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=stakeholders:committee_creditors&amp;rev=1746369576&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T14:39:36+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>committee_creditors</title>
+        <link>https://resolutionbazaar.com/doku.php?id=stakeholders:committee_creditors&amp;rev=1746369576&amp;do=diff</link>
+        <description>Agentic Services for Committee of Creditors
+
+CREDITOR COMMITTEES - The Committee of Creditors (CoC) is formed by financial creditors and plays a pivotal role in CIRP. It evaluates resolution plans, monitors the insolvency professional’s actions, and ensures decisions align with value maximization and fairness. The CoC serves as the final authority on accepting or rejecting resolution plans. Committee of Creditors plays a central role in the insolvency resolution process, and AI-driven agents can…</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=stakeholders:personal_guarantors&amp;rev=1746369566&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T14:39:26+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>personal_guarantors</title>
+        <link>https://resolutionbazaar.com/doku.php?id=stakeholders:personal_guarantors&amp;rev=1746369566&amp;do=diff</link>
+        <description>Agentic Services for Personal Guarantors
+
+PERSONAL GUARANTORS - Personal guarantors are individuals who have provided guarantees for debts owed by corporate debtors. Under IBC, they can be held liable for repayment in case of default, making them integral to recovering dues during insolvency processes. Personal Guarantors play a significant role in the insolvency process, and AI-driven agents can assist in tracing these individuals, guiding them on their liabilities, and facilitating their repre…</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=stakeholders:insolvency_applicants&amp;rev=1746369557&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T14:39:17+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>insolvency_applicants</title>
+        <link>https://resolutionbazaar.com/doku.php?id=stakeholders:insolvency_applicants&amp;rev=1746369557&amp;do=diff</link>
+        <description>Agentic Services for Applicants
+
+IBC APPLICANTS - Insolvency applicants initiate CIRP by filing an application with the National Company Law Tribunal (NCLT). They can be financial creditors, operational creditors, or even corporate debtors themselves seeking resolution of their financial distress.</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=stakeholders:claimant_creditors&amp;rev=1746369545&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T14:39:05+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>claimant_creditors</title>
+        <link>https://resolutionbazaar.com/doku.php?id=stakeholders:claimant_creditors&amp;rev=1746369545&amp;do=diff</link>
+        <description>Agentic Services for Claimants
+
+CLAIMANTS - Creditor claimants are individuals or entities with financial claims against the corporate debtor. They include financial creditors, operational creditors, and secured creditors, each with distinct rights under the IBC framework. Their claims are verified and prioritized during CIRP to ensure equitable distribution of recovered assets. Claimants play a pivotal role in guiding creditors through the claim submission, verification, and status tracking pro…</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=stakeholders:investor_applicants&amp;rev=1746369535&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T14:38:55+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>investor_applicants</title>
+        <link>https://resolutionbazaar.com/doku.php?id=stakeholders:investor_applicants&amp;rev=1746369535&amp;do=diff</link>
+        <description>Agentic Services for Investors
+
+RESOLUTION APPLICANTS - Resolution applicants propose plans for reviving or restructuring the corporate debtor’s operations. Their plans are evaluated by the CoC for feasibility, compliance with legal norms, and alignment with creditor interests. Insolvency Applicants can benefit from specialized AI agents designed to assist them in navigating the complexities of submitting resolution plans. These agents help applicants understand eligibility criteria and guide th…</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=stakeholders:forensic_auditors&amp;rev=1746369526&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T14:38:46+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>forensic_auditors</title>
+        <link>https://resolutionbazaar.com/doku.php?id=stakeholders:forensic_auditors&amp;rev=1746369526&amp;do=diff</link>
+        <description>Agentic Services for Auditors
+
+FORENSIC AUDITORS - Forensic auditors investigate financial irregularities and fraudulent transactions within the corporate debtor’s accounts. Their findings help insolvency professionals and creditor committees identify potential recoverable assets and assess compliance with legal norms. Forensic Auditors Forensic Auditors play a critical role in insolvency proceedings by automating the extraction and analysis of financial data from company records. Their primary …</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=stakeholders:corporate_debtors&amp;rev=1746369518&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T14:38:38+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>corporate_debtors</title>
+        <link>https://resolutionbazaar.com/doku.php?id=stakeholders:corporate_debtors&amp;rev=1746369518&amp;do=diff</link>
+        <description>Agentic Services for Debtors
+
+CORPORATE DEBTORS - Corporate debtors are entities that have defaulted on their financial obligations, triggering insolvency proceedings under the IBC. They are central to the resolution process, as their assets and operations are managed to maximize value for creditors. During the Corporate Insolvency Resolution Process (CIRP), control shifts from the corporate debtor&#039;s management to insolvency professionals. Corporate Debtors can benefit significantly from special…</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=stakeholders:registered_valuers&amp;rev=1746369508&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T14:38:28+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>registered_valuers</title>
+        <link>https://resolutionbazaar.com/doku.php?id=stakeholders:registered_valuers&amp;rev=1746369508&amp;do=diff</link>
+        <description>Agentic Services for Valuers
+
+REGISTERED VALUERS - Registered valuers assess the fair market value of a corporate debtor’s assets during CIRP. Their valuations guide resolution plans and liquidation strategies to ensure transparency and accountability in asset disposition. Registered Valuers Registered Valuers play a critical role in the insolvency process by providing accurate valuations of distressed assets, ensuring transparency and informed decision-making. By leveraging AI-driven solutions,…</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=investors:investment_teasers:teasers:the_bombay_burmah_trading_employees_welfare_company_limited&amp;rev=1746360153&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T12:02:33+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>the_bombay_burmah_trading_employees_welfare_company_limited - [**Call to Action**] </title>
+        <link>https://resolutionbazaar.com/doku.php?id=investors:investment_teasers:teasers:the_bombay_burmah_trading_employees_welfare_company_limited&amp;rev=1746360153&amp;do=diff</link>
+        <description>**Investment Opportunity in Prominent Integrated Solutions Provider - U74999MH1983PLC030940**
+
+**Executive Summary**
+
+- Company Name: [Name Unavailable]
+- CIN: U74999MH1983PLC030940
+- Core Business: Specializing in a broad range of services across sectors including project management, consultancy, and subcontracting for various industries.
+-</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=investors:investment_teasers:teasers:bareilly_highways_project_limited&amp;rev=1746359891&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T11:58:11+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>bareilly_highways_project_limited - [Call to Action] </title>
+        <link>https://resolutionbazaar.com/doku.php?id=investors:investment_teasers:teasers:bareilly_highways_project_limited&amp;rev=1746359891&amp;do=diff</link>
+        <description>Investment Teaser: Strategic Investment Opportunity in Rapidly-Growing Construction and Infrastructure Entity
+
+Executive Summary
+
+- Company Name: [Company Name]
+- CIN: U45204DL2010PLC203042
+- Core Business: Specializes in construction and infrastructure development, focusing on both public and private sector projects.
+-</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=investors:investment_teasers:teasers:millennium_education_foundation&amp;rev=1746359694&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T11:54:54+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>millennium_education_foundation</title>
+        <link>https://resolutionbazaar.com/doku.php?id=investors:investment_teasers:teasers:millennium_education_foundation&amp;rev=1746359694&amp;do=diff</link>
+        <description>Investment Opportunity: Millennium Education Foundation
+
+This investment teaser presents a unique opportunity in India&#039;s education sector through Millennium Education Foundation, a Delhi-based education entity currently undergoing corporate restructuring. The foundation represents a potential acquisition or turnaround opportunity for strategic investors interested in establishing presence in India&#039;s growing education market.</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=agentic_framework:communication_management_system&amp;rev=1746347887&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T08:38:07+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>communication_management_system</title>
+        <link>https://resolutionbazaar.com/doku.php?id=agentic_framework:communication_management_system&amp;rev=1746347887&amp;do=diff</link>
+        <description>Communication Management System - ChatIBC.com
+
+
+
+&lt;https://chatibc.com&gt;
+
+	*  Summarization
+	*  Question Answering
+	*  Insolvency Research
+	*  Professional Selection
+	*  Schedule Appointments
+	*  Caselaws &amp; Statutes</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=agentic_framework:document_management_system&amp;rev=1746347865&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T08:37:45+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>document_management_system</title>
+        <link>https://resolutionbazaar.com/doku.php?id=agentic_framework:document_management_system&amp;rev=1746347865&amp;do=diff</link>
+        <description>Document Management System
+
+ 
+
+ 
+
+
+
+
+
+	*  Claim Forms
+	*  EOI Forms</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=professionals:case_management_system&amp;rev=1746347842&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T08:37:22+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>case_management_system</title>
+        <link>https://resolutionbazaar.com/doku.php?id=professionals:case_management_system&amp;rev=1746347842&amp;do=diff</link>
+        <description>CASE MANAGEMENT SYSTEM
+
+
+
+
+
+
+
+
+	*  Leads Management
+	*  Compliance Management
+	*  Claim Management</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=agentic_framework:document_agents&amp;rev=1746342556&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T07:09:16+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>document_agents - ↷ Page name changed from agentic_framework:document_agents to agentic_framework:document_management_system</title>
+        <link>https://resolutionbazaar.com/doku.php?id=agentic_framework:document_agents&amp;rev=1746342556&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=agentic_framework:communication_agents&amp;rev=1746342535&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T07:08:55+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>communication_agents - ↷ Page name changed from agentic_framework:communication_agents to agentic_framework:communication_management_system</title>
+        <link>https://resolutionbazaar.com/doku.php?id=agentic_framework:communication_agents&amp;rev=1746342535&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?image=agentic_framework%3Apasted%3A20250504-070408.png&amp;ns=agentic_framework%3Apasted&amp;rev=1746342248&amp;tab_details=history&amp;media_do=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T07:04:08+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>20250504-070408.png - created</title>
+        <link>https://resolutionbazaar.com/doku.php?image=agentic_framework%3Apasted%3A20250504-070408.png&amp;ns=agentic_framework%3Apasted&amp;rev=1746342248&amp;tab_details=history&amp;media_do=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://resolutionbazaar.com/lib/exe/fetch.php?w=500&amp;amp;h=500&amp;amp;tok=4a9b03&amp;amp;media=agentic_framework:pasted:20250504-070408.png&quot; alt=&quot;20250504-070408.png&quot; loading=&quot;lazy&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?image=professionals%3Apasted%3A20250504-065423.png&amp;ns=professionals%3Apasted&amp;rev=1746341663&amp;tab_details=history&amp;media_do=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T06:54:23+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>20250504-065423.png - created</title>
+        <link>https://resolutionbazaar.com/doku.php?image=professionals%3Apasted%3A20250504-065423.png&amp;ns=professionals%3Apasted&amp;rev=1746341663&amp;tab_details=history&amp;media_do=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://resolutionbazaar.com/lib/exe/fetch.php?w=500&amp;amp;h=500&amp;amp;tok=cc7473&amp;amp;media=professionals:pasted:20250504-065423.png&quot; alt=&quot;20250504-065423.png&quot; loading=&quot;lazy&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?image=professionals%3Apasted%3A20250504-065144.png&amp;ns=professionals%3Apasted&amp;rev=1746341504&amp;tab_details=history&amp;media_do=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-05-04T06:51:44+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>20250504-065144.png - created</title>
+        <link>https://resolutionbazaar.com/doku.php?image=professionals%3Apasted%3A20250504-065144.png&amp;ns=professionals%3Apasted&amp;rev=1746341504&amp;tab_details=history&amp;media_do=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://resolutionbazaar.com/lib/exe/fetch.php?w=500&amp;amp;h=500&amp;amp;tok=9927e4&amp;amp;media=professionals:pasted:20250504-065144.png&quot; alt=&quot;20250504-065144.png&quot; loading=&quot;lazy&quot; width=&quot;500&quot; height=&quot;500&quot; /&gt;</description>
+    </item>
+</rdf:RDF>

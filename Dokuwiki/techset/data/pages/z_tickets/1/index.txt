@@ -1,0 +1,28 @@
+~~NOTOC~~
+====== 1 - resolutionbazaar@gmail.com ======
+{{tag>Ticket Low 2025 November}}
+----
+<block float-right>
+{{tag-button>closed:error|Mark as Closed}}
+{{tag-button>solved:success|Mark as Solved}}
+{{tag-button>archived|Archive}}
+</block>
+===== Ticket Information =====
+|  <barcode type="UPCA" scale="4" size="64px" value="1" />  ||||
+^ ID | 1 ^ Created | 2025-11-13 12:01 |
+^ Priority | Low ||
+
+===== Contact Information =====
+^ Name | SONAL GROVER |
+^ Email | [[resolutionbazaar@gmail.com]] |
+^ Phone Number | 09876222999 |
+
+===== Gallery =====
+{{gallery>.}}
+
+===== Issue =====
+<block box>
+rtghjkgmghhjk
+</block>
+
+~~DISCUSSION|Notes~~

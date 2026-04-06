@@ -1,0 +1,7 @@
+**I. Core Resolution Division**
+Agents handling the lifecycle of insolvency, restructuring, and liquidation.
+
+  * Process Navigation Agents
+    * [[rbz_agenbots:insolvency_agents:core_resolution:process_navigation_agents:Insolvency Process Navigator Agent (IPNA)]]
+    * [[rbz_agenbots:insolvency_agents:core_resolution:process_navigation_agents:Resolution Timeline Tracker (RTT)]]
+    * [[rbz_agenbots:insolvency_agents:core_resolution:process_navigation_agents:Procedural Compliance Auditor (PCA)]]

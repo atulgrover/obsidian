@@ -1,0 +1,116 @@
+a:9:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:0;}i:2;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"{";}i:2;i:1;}i:3;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2;}i:4;a:3:{i:0;s:12:"preformatted";i:1;a:1:{i:0;s:6688:""agentName": "Resolution Plan Evaluation Agent (RPEA)",
+"agentDescription": "Analyzes and evaluates resolution plans submitted by Resolution Applicants (RAs) during a corporate insolvency resolution process (CIRP). Assesses plans against statutory requirements (e.g., IBC), financial feasibility, viability, potential outcomes for stakeholders, and provides comparative insights to aid the Committee of Creditors (CoC) and Resolution Professional (RP) in identifying the most viable options.",
+"version": "1.0",
+"status": "Conceptual",
+"goals": [
+  "Verify submitted resolution plans for mandatory compliance with applicable laws (e.g., Sections 30(2) and 52 of the IBC).",
+  "Assess the financial feasibility and viability of each proposed resolution plan (funding sources, projections, assumptions).",
+  "Quantify the projected recovery for different classes of creditors (financial, operational, secured, unsecured) under each plan.",
+  "Compare the projected recoveries under each plan against the estimated liquidation value.",
+  "Evaluate the capabilities and track record of the Resolution Applicant (where information is available).",
+  "Analyze the proposed treatment of stakeholders (employees, government dues, etc.).",
+  "Identify potential risks and weaknesses associated with each resolution plan.",
+  "Generate standardized comparison reports and scorecards based on predefined evaluation criteria.",
+  "Provide objective, data-driven insights to support the CoC's decision-making process."
+],
+"keyCapabilities": [
+  "Compliance Checking: Validates plans against a checklist derived from legal requirements (e.g., IBC provisions regarding payment priorities, plan contents, mandatory clauses).",
+  "Financial Plan Analysis: Extracts and analyzes projected financial statements (P&L, Balance Sheet, Cash Flow) included in the plan.",
+  "Feasibility Assessment: Analyzes proposed funding arrangements (source, certainty, timeliness) and the reasonableness of financial projections.",
+  "Recovery Calculation: Models the distribution waterfall based on the plan's proposal and admitted claims data for each creditor class.",
+  "Liquidation Value Comparison: Compares calculated recoveries with the provided liquidation value estimates.",
+  "Assumption Analysis: Flags key assumptions in the financial projections for sensitivity analysis or further scrutiny.",
+  "Risk Identification: Identifies potential execution risks, funding risks, market risks, or regulatory hurdles based on plan details.",
+  "Comparative Scoring/Ranking: Scores or ranks plans based on configurable criteria (e.g., compliance score, % recovery for FCs, % recovery for OCs, feasibility score, timeline).",
+  "Data Extraction (NLP/Parsing): Extracts key information (e.g., payment amounts, timelines, security offers) from potentially unstructured plan documents.",
+  "Reporting Engine: Generates comprehensive evaluation summaries and side-by-side comparison reports."
+],
+"targetUsers": [
+  "Resolution Professionals (RPs)",
+  "Members of the Committee of Creditors (CoC)",
+  "Advisors to the CoC / RP (Legal, Financial)",
+  "NCLT (indirectly, via reports submitted by RP/CoC)"
+],
+"inputDataRequirements": [
+  "Submitted Resolution Plan Documents (PDF, DOCX, potentially structured formats)",
+  "Information Memorandum (IM) of the Corporate Debtor.",
+  "List of Creditors with details of Admitted Claims (amount, class, security interest).",
+  "Valuation Reports (Fair Value and Liquidation Value).",
+  "Corporate Debtor's historical financial data.",
+  "Evaluation Matrix / Criteria defined by the CoC/RP (if any).",
+  "Details/Background Information on the Resolution Applicant (if available/required).",
+  "Relevant NCLT orders or directions."
+],
+"outputFormats": [
+  "Compliance Checklist Report (Pass/Fail/Query for each item).",
+  "Financial Feasibility & Viability Assessment Report/Score.",
+  "Projected Recovery Analysis Report (by creditor class, comparison to liquidation value).",
+  "Risk Assessment Summary for each plan.",
+  "Comparative Analysis Report / Scorecard of all submitted plans.",
+  "Detailed Evaluation Report per plan (PDF, HTML).",
+  "Structured data output (JSON/CSV) summarizing key findings for further analysis."
+],
+"potentialBenefits": [
+  "Standardizes and accelerates the evaluation process for multiple resolution plans.",
+  "Provides objective, data-driven comparisons to support CoC decision-making.",
+  "Ensures all mandatory legal compliance points are systematically checked.",
+  "Highlights financial feasibility concerns and risks early.",
+  "Improves transparency in the evaluation process.",
+  "Reduces manual effort in extracting data and calculating recoveries.",
+  "Helps maximize stakeholder value by identifying the most viable plan.",
+  "Provides documented rationale for plan selection or rejection."
+],
+"requiredTools": [
+  {
+    "toolCategory": "Data Acquisition & Parsing",
+    "tools": [
+      "File Parsers (PDFMiner, Apache Tika, libraries for DOCX)",
+      "Optical Character Recognition (OCR) Tools (Tesseract, Cloud OCR APIs - if plans are scanned images)",
+      "Natural Language Processing (NLP) Libraries (spaCy, NLTK, Transformers - for Named Entity Recognition, information extraction)",
+      "Spreadsheet Processing Libraries (Pandas)",
+      "Database Connectors (to access claims data)"
+    ]
+  },
+  {
+    "toolCategory": "Data Processing & Financial Analysis",
+    "tools": [
+      "Data Manipulation Libraries (Pandas, NumPy)",
+      "Financial Calculation Libraries (or custom logic)",
+      "Statistical Libraries (SciPy)"
+    ]
+  },
+  {
+    "toolCategory": "Compliance & Rule Engine",
+    "tools": [
+      "Rule Engines (Drools, or custom Python/Java logic)",
+      "Checklist Management tools/features"
+    ]
+  },
+  {
+    "toolCategory": "Modeling & Scoring",
+    "tools": [
+       "Custom scripting (Python, R) for recovery modeling, feasibility scoring, comparative ranking."
+    ]
+  },
+  {
+    "toolCategory": "Data Storage",
+    "tools": [
+       "Relational Databases (PostgreSQL, MySQL - to store parsed data, claims, evaluation results, compliance status)"
+    ]
+  },
+  {
+    "toolCategory": "Reporting & Visualization",
+    "tools": [
+       "Reporting Libraries (ReportLab, FPDF, JasperReports)",
+       "Data Visualization Libraries (Matplotlib, Seaborn, Plotly - for charts in reports)",
+       "Spreadsheet Generation Libraries (openpyxl, Apache POI)"
+    ]
+  },
+  {
+    "toolCategory": "Workflow & User Interface (Optional)",
+    "tools": [
+      "Web Frameworks (Flask, Django, React, Angular - for user interaction)",
+      "Workflow Engines (Airflow, Prefect - to manage the evaluation pipeline)"
+    ]
+  }
+]";}i:2;i:2;}i:5;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2;}i:6;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"}";}i:2;i:6924;}i:7;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:6924;}i:8;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:6924;}}

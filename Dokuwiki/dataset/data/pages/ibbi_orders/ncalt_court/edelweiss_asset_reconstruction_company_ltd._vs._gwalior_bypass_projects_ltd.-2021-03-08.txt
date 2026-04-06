@@ -1,0 +1,217 @@
+<html>
+<div>
+	<h2>
+		Edelweiss Asset Reconstruction ... vs Gwalior Bypass Projects Ltd on 8 March, 2021
+	</h2>
+	<p>
+		NATIONAL COMPANY LAW APPELLATE TRIBUNAL NEW DELHI Company Appeal (AT) (Ins) No.1186 of 2019[Arising out of Order dated 12.09.2019 passed by National Company LawTribunal, Principal Bench, New Delhi in CA-1475(PB)/2019 in IB1140(ND)/2018]IN THE MATTER OF: Before NCLT Before NCLATEdelweiss Asset Applicant/ AppellantReconstruction Company Financial CreditorLtd., acting in its capacityas Trustee for EARC Trust-SC 251Office atEdelweiss House,Off. CST Road,Kalina,Mumbai - 400098 Vs.Gwalior Bypass Projects Corporate Debtor RespondentLtd.(through ResolutionProfessionalShri Shailesh Verma)1st Floor, Ashoka Estate,Barakhamba Road,New Delhi - 110 001For Appellant: Shri Abhijeet Sinha, Shri Atul Sharma, Ms. Renuka Iyer, Shri Manubhav Anand and Shri Aditya Vashisth, Advocates Ms. Aayushi Choudhary, party in person (EARCL)For Respondent: Shri Abhinav Vashishth, Sr. Advocate with Shri Manmeet Singh, Shri A. Robin Frey, Ms. Priya Siny, Advocates (for RP) 2 JUDGEMENT
+	</p>
+	<p title="Issue" data-structure="Issue">
+		(08th March, 2021) A.I.S. Cheema, J. :
+	</p>
+	<p title="Issue">
+		1. This Appeal has been filed by the Appellant against the Impugned Order dated 12th September, 2019 passed by the Adjudicating Authority (National Company Law Tribunal, Principal Bench at New Delhi) in CA-
+	</p>
+	<p title="Issue" data-structure="Issue">
+		1475(PB)/2019 in CP/IB 1140(ND)/2018. The Application filed by the Appellant was rejected and hence, the psent Appeal.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		The issue involved in this matter is that if CIRP (Corporate Insolvency Resolution Process) has been initiated against the principal borrower, could the Appellant have filed claim in CIRP initiated against the Corporate Guarantor.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		2. A few facts may be referred for the context.
+	</p>
+	<p title="Fact">
+		a) Adel Landmarks Ltd. (then Era Landmark Ltd.) - principal borrower had applied for loan on 24th September, 2013 to ECL Finance Ltd., a non-banking financial company, seeking financial assistance of INR 170 Crores.
+	</p>
+	<p title="Fact">
+		b) The loan was granted and interest was specified. Loan Agreement was executed on 07.10.2013. Principal borrower along with co-
+	</p>
+	<p title="Issue" data-structure="Issue">
+		guarantors executed security/transaction documents.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		c) There was default and account was declared NPA by the NBFC on 31.12.2015.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		Company Appeal (AT) (Ins) No.1186 of 2019 3
+	</p>
+	<p title="Fact" data-structure="Facts">
+		d) The NBFC assigned the debt to the Appellant on 23rd March, 2017.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		e) Subsequently, the Corporate Debtor - Gwalior Bypass Projects Ltd.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		secured the debt of Adel Landmarks Ltd. by executing Guarantee Agreement dated 3rd May, 2018. Thus, it is guarantor.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		f) On 10th July, 2018, the Appellant by Notice dated 2nd July, 2018 recalled the loan seeking repayment from principal borrower and also invoked corporate guarantee dated 3rd May, 2018.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		g) The Appellant filed Application under Section 7 of Insolvency and Bankruptcy Code, 2016 (IBC - in short) in CP No.1083(PB)/2018 and the same was admitted on 5th December, 2018 against principal borrower -
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		Adel Landmarks Ltd.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		h) ICICI Bank filed another Application under Section 7 of IBC against Corporate Debtor - Gwalior Bypass Projects Ltd. which was admitted on 29th May, 2019.
+	</p>
+	<p title="Issue" data-structure="Issue">
+		i) Appellant filed Form 'C' in CIRP against Corporate Debtor for Rs.4,587,862,930/- on 11th June, 2019.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		j) On 19th June, 2019, IRP rejected the claim of the Appellant relying on Judgement of National Company Law Appellate Tribunal (NCLAT - in short) in the matter of "Dr. Vishnu Kumar Agarwal Vs M/s. Piramal Company Appeal (AT) (Ins) No.1186 of 2019 4 Enterprises Ltd." - Company Appeal (AT) (Ins) No.346 of 2018 decided on 8th January, 2019.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		k) Appellant filed Application CA 1475 (PB)/2019 before the Adjudicating Authority. After hearing, the Application was rejected relying on same Judgement in the matter of "Piramal" on 12th September, 2019 and thus, the Appeal.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		l) The above are broad facts and developments in the psent matter regarding which there is no issue as such.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		3. Learned Counsel for the Appellant has argued that the law on the issue has now been explained in Judgements passed by the Hon'ble Supme Court as well as this Tribunal in the matter of "State Bank of India vs. Athena Energy Ventures Pvt. Ltd." - Company Appeal (AT) (Ins) No.633 of 2020 dated 24th November, 2020.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		4. The learned Counsel for the Respondent - Resolution Professional, however, is still relying on the Judgement in the matter of "Piramal". It is then added and argued that the debt regarding which dispute is raised in the psent Appeal has been subsequently noticed by the Resolution Professional (in view of audit observing that the transaction was not in ordinary course and) that the debt is required to be avoided under Section 66 of IBC for which Avoidance Application has already been filed before the Adjudicating Authority. The same is yet to be decided. Learned Counsel for Appellant has stated that guarantee issued even during Company Appeal (AT) (Ins) No.1186 of 2019 5 recovery proceedings made Corporate Debtor/Guarantor liable as was seen in the matter of "Ascot Realty Private Limited vs. Ajay Kumar Agarwal" - Company Appeal (AT) (Ins) No.658 of 2020 dated 15th October, 2020. It is added that the issue, however, is yet not decided before Adjudicating Authority.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		5. Counsel for Appellant submitted that keeping the Appellant outside the COC (Committee of Creditors), Resolution Plan has been passed and it is pending for decision before the Adjudicating Authority. It is not denied that the Avoidance Application has been filed. We had after hearing parties on 8th February, 2021, passed Interim Orders requesting the Adjudicating Authority not to pronounce Orders regarding acceptance of the Resolution Plan, till decision of this Appeal.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		6. Perusal of the Impugned Order shows that in the background of the facts as mentioned above, the Adjudicating Authority had in Impugned Order observed as under:-
+	</p>
+	<p title="Precedent Analysis">
+		"16. Hon'ble NCLAT has settled the proposition of law in this respect in the case of Dr. Vishnu Kumar Agarwal Vs M/s. Piramal Enterprises Ltd. Company Appeal (AT) (Insolvency) No.346 of 2018 decided on 08.01.2019 with the following observations:
+	</p>
+	<p title="Precedent Analysis">
+		"Admittedly, for same set of debts, claim cannot be filed by same 'Financial Creditor' in two separate 'Corporate Insolvency Resolution Processes'."
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		17. The finding of the Hon'ble NCLAT that for the same set of debt, claim cannot be filed by same 'Financial Creditor' in two separate 'Corporate Insolvency Resolution Processes' has not yet been Company Appeal (AT) (Ins) No.1186 of 2019 6 varied, modified or set-aside nor has been stayed. Judicial discipline therefore demands that the pcedent laid down by Hon'ble Appellate Court needs to be followed.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		18. The view taken by the Hon'ble Appellate Tribunal is binding on us as per the principles of stare decisis and the pcedent.
+	</p>
+	<p title="Fact" data-structure="Facts">
+		19. The claim of the applicant being a repetition of the claim which already stands admitted in other insolvency process, cannot again be admitted in the psent CIRP."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		With such observations, the Adjudicating Authority dismissed the Application.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		7. Similar issue had come up before us in the matter of "State Bank of India vs. Athena Energy" (referred supra) and we had occasion to revisit Judgement in the matter of "Piramal" to consider if interptation of law as laid down in the matter of "Piramal", was still required to be followed.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		We had observed as under:-
+	</p>
+	<p title="Precedent Analysis">
+		"11. Having heard Counsel for both sides and having gone through the record, it appears appropriate for us to first refer to Judgement in the matter of Piramal.
+	</p>
+	<p title="Precedent Analysis">
+		11.1. The two Appeals Company Appeal (AT) (Ins) No. 346 of 2018 and Company Appeal (AT) (Ins) 347 of 2018 were filed by shareholder against different Orders of Adjudicating Authority by which Orders CIRP was initiated against the two Corporate Guarantors. In that matter, the Principal Borrower was one "All India Society for Advance Education and Research" which was not a Company. Financial Creditor was "M/s. Piramal Enterprises Ltd." which granted amount of Rs.38 Crores to the Borrower which amount was guaranteed by two Corporate Guarantors - Sunrise Naturopath and Resorts Pvt.
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Ins) No.1186 of 2019 7 Ltd. (Corporate Guarantor No.1) and Sun System Institute of Information Technology Pvt. Ltd. (Corporate Guarantor No.2). It appears that two separate Applications under Section 7 of IBC were filed against both the Guarantors and the Application against Guarantor No.2 was admitted on 24th May, 2018 and against Guarantor No.1 on 31st May, 2018. In both the proceedings, same amount was claimed and the debt amount and amount of default and date of default were same.
+	</p>
+	<p title="Precedent Analysis">
+		11.2. Thus, the issues raised in Para - 15 of the Judgement were:-
+	</p>
+	<p title="Precedent Analysis">
+		"15. The questions arise for consideration in these appeals are:
+	</p>
+	<p title="Precedent Analysis">
+		i. Whether the 'Corporate Insolvency Resolution Process' can be initiated against a 'Corporate Guarantor', if the 'Principal Borrower' is not a 'Corporate Debtor' or 'Corporate Person'? and;
+	</p>
+	<p title="Precedent Analysis">
+		ii. Whether the 'Corporate Insolvency Resolution Process' can be initiated against two 'Corporate Guarantors' simultaneously for the same set of debt and default?"
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		11.3. The first issue was answered against the Appellant. We are concerned with the second issue. This Tribunal while dealing with the above second issue referred to Judgement in the matter of "Innoventive Industries Ltd. vs. ICICI Bank"
+	</p>
+	<p title="Precedent Analysis">
+		(2018 1 SCC 407) where scheme of the Code was discussed by the Hon'ble Supme Court. This Court has then taken note of the definition of Financial Creditor and financial debt and in para - 29 of the Judgement, raised question whether for same very claim and for same very default, the Application under Section 7 against the other Corporate Debtor (Guarantor No.1) can be "initiated". It was then reasoned in para - 30 that moment the Application against Guarantor No.2 was admitted the Guarantor No.1 could say that debt in question was not due as it was not payable in law, having shown the same Company Appeal (AT) (Ins) No.1186 of 2019 8 debt payable by Guarantor No.2 which had already been initiated against Corporate Guarantor No.2. It was observed in para - 31 that admittedly (?) for same set of debt claim cannot be filed by same Financial Creditor in two separate CIRPs and so two applications can not be admitted simultaneously. With such observation, finding is recorded in para - 32 which paragraph we have reproduced above. The result was that, in Piramal, although Financial Creditor took pains to secure same amount by ensuring that two Corporate Guarantors are there (which is not prohibited by law) the Corporate Guarantor No. 1 simply walked away only because, CIRP had already been initiated against Corporate Guarantor No. 2. Thus Guarantor No. 1 escaped payment (which has not been found to be the object of IBC - See Para 25 of Judgment in the matter of V. Ramakrishna (Supra.)).
+	</p>
+	<p title="Issue" data-structure="Issue">
+		12. Considering the issues which were before this Tribunal when matter of Piramal was decided, it is clear that the Issue No.2 was relating to question whether CIRP can be initiated against two Corporate Guarantors simultaneously for same set of debt and default. The issue was not whether Application can be filed against the Principal Borrower as well as the Corporate Guarantor. The observations made in para - 32 of the Judgement that second application for same set of claim and default can not be admitted against the Corporate Guarantor or Principal Borrower was not an issue in the matter of Piramal.
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		13. Apart from this, the observations in the Judgement in the matter of Piramal do not appear to have noticed Sub-Sections 2 and 3 of Section 60 of IBC. It would be appropriate to reproduce Section 60(1) to (3) which reads as under:-
+	</p>
+	<p title="Analysis of the law">
+		"60. Adjudicating Authority for corporate persons.--
+	</p>
+	<p title="Analysis of the law">
+		(1) The Adjudicating Authority, in relation to insolvency resolution and liquidation for corporate persons including corporate debtors Company Appeal (AT) (Ins) No.1186 of 2019 9 and personal guarantors thereof shall be the National Company Law Tribunal having territorial jurisdiction over the place where the registered office of the corporate person is located.
+	</p>
+	<p title="Analysis of the law">
+		(2) Without pjudice to sub-section (1) and notwithstanding anything to the contrary contained in this Code, where a corporate insolvency resolution process or liquidation proceeding of a corporate debtor is pending before a National Company Law Tribunal, an application relating to the insolvency resolution or [liquidation or bankruptcy of a corporate guarantor or personal guarantor of such corporate debtor] shall be filed before such National Company Law Tribunal.
+	</p>
+	<p title="Analysis of the law">
+		(3) An insolvency resolution process or [liquidation or bankruptcy proceeding of a corporate guarantor or personal guarantor, as the case may be, of the corporate debtor] pending in any Court or tribunal shall stand transferred to the Adjudicating Authority dealing with insolvency resolution process or liquidation proceeding of such corporate debtor."
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		In Sub-Section 2, the earlier words were "bankruptcy of a personal guarantor of such corporate debtor". These words were later on substituted by the words "liquidation or bankruptcy of a corporate guarantor or personal guarantor as the case may be, of such Corporate Debtor". These words were substituted by the Insolvency and Bankruptcy Code (Second Amendment) Act, 2018 Act 26 of 2018. This amendment was published in Government Gazette on 17th August, 2018 and this amendment was inserted with retrospective effect from 6th June, 2018. We have referred to these details as Hon'ble Supme Court of India in Judgement in the matter of "State Bank of India versus V. Ramakrishnan &amp; Anr." (which was pronounced on 14th August, 2018 three days before the above Notification) ((2018) 17 SCC 394) discussed Section 60(2) and (3) as they stood before Company Appeal (AT) (Ins) No.1186 of 2019 10 this amendment was enforced. We will refer to the above Judgement in the matter of "Ramakrishnan" later. At psent, we have referred to the above provision which had come on the statute book when Act 26 of 2018 was enforced and the Judgement in the matter of Piramal which was passed on 8th January, 2019 did not notice the above amendment. If the above provisions of Section 60(2) and (3) are kept in view, it can be said that IBC has no aversion to simultaneously proceeding against the Corporate Debtor and Corporate Guarantor. If two Applications can be filed, for the same amount against Principal Borrower and Guarantor keeping in view the above provisions, the Applications can also be maintained. It is for such reason that Sub-Section (3) of Section 60 provides that if insolvency resolution process or liquidation or bankruptcy proceedings of a Corporate Guarantor or Personal Guarantor as the case may be of the Corporate Debtor is pending in any Court or Tribunal, it shall stand transferred to the Adjudicating Authority dealing with insolvency resolution process or liquidation proceeding of such Corporate Debtor. Apparently and for obvious reasons, the law requires that both the proceedings should be before same Adjudicating Authority.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		14. It would be appropriate now to refer to the observations made by the Insolvency Law Committee in its Report of February, 2020. Relevant part of the Report has been filed by the Appellant as Annexure
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		- C (Diary No.23383). Para 7 of the Report is as follows:-
+	</p>
+	<p title="Court's Reasoning">
+		Company Appeal (AT) (Ins) No.1186 of 2019 11 Company Appeal (AT) (Ins) No.1186 of 2019 12 Company Appeal (AT) (Ins) No.1186 of 2019 13 Company Appeal (AT) (Ins) No.1186 of 2019 14
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		15. The learned Counsel for the Appellant is relying on the above observations of the ILC to argue that the Creditor cannot be restrained from initiating CIRP against both the Principal Borrower as well as the surety and also maintaining the same. The learned Counsel submitted that when remedy is available against both, Application can be maintained against both and only at the stage of disbursement, adjustment may have to be made.
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		16. We find substance in the arguments being made by the learned Counsel for Appellant which are in tune with the Report of ILC. The ILC in para - 7.5 rightly referred to subsequent Judgement of "Edelweiss Asset Reconstruction Company Ltd. v. Sachet Infrastructure Ltd. and Ors." dated 20th September, 2019 which permitted simultaneously initiation of CIRPs against Principal Borrower and its Corporate Guarantors. In that matter Judgment in the matter of Pirmal was relied on but the larger Bench mooted the idea of group Corporate Insolvency Resolution Process in para - 34 of the Judgement. The ILC thus rightly observed that provisions are there in the form of Section 60(2) and (3) and no amendment or legal changes were required at the moment. We are also of the view that simultaneously remedy is central to a contract of guarantee and where Principal Borrower and surety are undergoing CIRP, the Creditor should be able to file claims in CIRP of both of them. The IBC does not pvent this. We are unable to agree with the arguments of Learned Counsel for Respondent that when for same debt claim is made in CIRP against Borrower, in the CIRP against Guarantor the amount must be said to be not due or not payable in law. Under the Contract of Guarantee, it is only when the Creditor would receive amount, the question of no more due or adjustment would arise. It would be a matter of adjustment when the Creditor receives debt due from the Borrower/Guarantor in the respective CIRP that the same should be taken note of and adjusted in the other CIRP. This can be conveniently done, more so when IRP/RP in both the CIRP is same. Insolvency and Bankruptcy Board of India may have to lay down regulations to guide IRP/RPs in this regard.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Ins) No.1186 of 2019 15
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		17. The Hon'ble Supme Court in the matter of V. Ramakrishnan dealt with Section 60(2) and (3) of IBC in Paragraphs - 24 and 25 of the Judgement, Hon'ble Supme Court observed as under:-
+	</p>
+	<p title="Precedent Analysis">
+		"24. The scheme of Sections 60(2) and (3) is thus clear - the moment there is a proceeding against the corporate debtor pending under the 2016 Code, any bankruptcy proceeding against the individual personal guarantor will, if already initiated before the proceeding against the corporate debtor, be transferred to the National Company Law Tribunal or, if initiated after such proceedings had been commenced against the corporate debtor, be filed only in the National Company Law Tribunal. However, the Tribunal is to decide such proceedings only in accordance with the Presidency-Towns Insolvency Act, 1909 or the Provincial Insolvency Act, 1920, as the case may be. It is clear that sub-section (4), which states that the Tribunal shall be vested with all the powers of the Debt Recovery Tribunal, as contemplated under Part III of this Code, for the purposes of sub-section (2), would not take effect, as the Debt Recovery Tribunal has not yet been empowered to hear bankruptcy proceedings against individuals under Section 179 of the Code, as the said Section has not yet been brought into force. Also, we have seen that Section 249, dealing with the consequential amendment of the Recovery of Debts Act to empower Debt Recovery Tribunals to try such proceedings, has also not been brought into force. It is thus clear that Section 2(e), which was brought into force on 23.11.2017 would, when it refers to the application of the Code to a personal guarantor of a corporate debtor, apply only for the limited purpose contained in Section 60(2) and (3), as stated hereinabove. This is what is meant by strengthening the Corporate Insolvency Resolution Process in the Statement of Objects of the Amendment Act, 2018.
+	</p>
+	<p title="Precedent Analysis">
+		Company Appeal (AT) (Ins) No.1186 of 2019 16
+	</p>
+	<p title="Precedent Analysis">
+		25. Section 31 of the Act was also strongly relied upon by the Respondents. This Section only states that once a Resolution Plan, as approved by the Committee of Creditors, takes effect, it shall be binding on the corporate debtor as well as the guarantor. This is for the reason that otherwise, under Section 133 of the Indian Contract Act, 1872, any change made to the debt owed by the corporate debtor, without the surety's consent, would relieve the guarantor from payment. Section 31(1), in fact, makes it clear that the guarantor cannot escape payment as the Resolution Plan, which has been approved, may well include provisions as to payments to be made by such guarantor. This is perhaps the reason that Annexure VI(e) to Form 6 contained in the Rules and Regulation 36(2) referred to above, require information as to personal guarantees that have been given in relation to the debts of the corporate debtor. Far from supporting the stand of the respondents, it is clear that in point of fact, Section 31 is one more factor in favour of a personal guarantor having to pay for debts due without any moratorium applying to save him."
+	</p>
+	<p title="Precedent Analysis" data-structure="Precedent">
+		18. We have already mentioned that when Hon'ble Supme Court was dealing with Section 60(2), it was in the context of bankruptcy of Personal Guarantor and the Act 26 of 2018 was yet not published. The above para - 24 of the Judgement in the matter of Ramakrishnan can be conveniently read keeping in view the substituted provisions as per Act 26 of 2018. In place of Personal Guarantor, one can read "Corporate Guarantor" and with suitable changes, scheme of Section 60(2) and (3) can be appciated from that angle also. The issue involved in the matter of "Ramakrishnan" was whether Section 14 of IBC will provide for a moratorium for the limited period mentioned in the Code, on admission of an insolvency petition would the same apply to Personal Guarantor of a Corporate Debtor. The issue was answered in negative by the Hon'ble Supme Court. The Hon'ble Supme Court in such context made observations as above in Paragraphs - 24 and 25 of the Judgement.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Company Appeal (AT) (Ins) No.1186 of 2019 17
+	</p>
+	<p title="Analysis of the law" data-structure="Section">
+		19. It is clear that in the matter of guarantee, CIRP can proceed against Principal Borrower as well as Guarantor. The law as laid down by the Hon'ble High Courts for the respective jurisdictions, and law as laid down by the Hon'ble Supme Court for the whole country is binding. In the matter of Piramal, the Bench of this Appellate Tribunal "interpted" the law. Ordinarily, we would respect and adopt the interptation but for the reasons discussed above, we are unable to interpt the law in the manner it was interpted in the matter of Piramal. For such reasons, we are unable to uphold the Judgement as passed by the Adjudicating Authority."
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(We mention that in above para - 13 in the Judgement of "Athena Energy" where we have referred to "(2018) 17 SCC 394" - it is from SCC Online Web Edition).
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		8. For above reasons discussed by us in the matter of "Athena Energy", we find that the psent Appeal is required to be allowed. We do not find that there is bar for the Financial Creditor to proceed against the principal borrower as well as Corporate Guarantor at the same time, either in CIRPs or file claims in both CIRPs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		9.(A) For the above reasons, the psent Appeal is allowed.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		Impugned Order is quashed and set aside. We find that the claim submitted by the Appellant was required to be considered by the IRP/RP in the CIRP proceedings. The matter is remitted back to the Adjudicating Authority and the Adjudicating Authority is requested to pass further Orders with regard to the claim made by the Appellant which was required to be considered by the IRP/RP. The Resolution Plan pending for Company Appeal (AT) (Ins) No.1186 of 2019 18 approval before the Adjudicating Authority may be sent back to COC for reconsideration in view of the psent Orders in Appeal.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(B) It is made clear that the Adjudicating Authority may separately decide the Avoidance Application on its merits in accordance with law which is stated to have been filed. We have not expssed any view on the said controversy.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(C) Appeal is disposed accordingly. No costs.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		[Justice A.I.S. Cheema] Member (Judicial) [V.P. Singh] Member (Technical) rs Company Appeal (AT) (Ins) No.1186 of 2019
+	</p>
+</div>
+</html>

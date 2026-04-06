@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar - talk:investors</title>
+        <description>Digital Agents for IBC Processes</description>
+        <link>https://resolutionbazaar.com/</link>
+        <image rdf:resource="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-04-17T07:12:51+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=talk:investors:investor_agents&amp;rev=1743696409&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://resolutionbazaar.com/</link>
+        <url>https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=talk:investors:investor_agents&amp;rev=1743696409&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T16:06:49+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>investor_agents</title>
+        <link>https://resolutionbazaar.com/doku.php?id=talk:investors:investor_agents&amp;rev=1743696409&amp;do=diff</link>
+        <description>Games Resolution Applicants Play
+
+Resolution applicants (RAs), who are potential investors aiming to take over and revive an insolvent company, may sometimes employ certain tactics to acquire the company at a reduced cost, or otherwise ensure terms that primarily favor their own interests, often at the expense of creditors or other stakeholders. Here are some common strategies RAs may use to manipulate the insolvency resolution process, along with the implications:
+Strategic Underbidding with In…</description>
+    </item>
+</rdf:RDF>

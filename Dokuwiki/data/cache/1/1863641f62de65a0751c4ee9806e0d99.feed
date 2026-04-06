@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://www.resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.resolutionbazaar.com/feed.php">
+        <title>RESOLUTION BAZAAR - insolvency_agents:agents:applicant_agents</title>
+        <description>AI AGENTS - INSOLVENCY PROCESSES</description>
+        <link>https://www.resolutionbazaar.com/</link>
+        <image rdf:resource="https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-07-16T03:48:36+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:cdpa&amp;rev=1744444836&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:cima&amp;rev=1744443726&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:ddva&amp;rev=1744443528&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:fara&amp;rev=1744443795&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:icfaa&amp;rev=1744443657&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:lpclra&amp;rev=1744444550&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:rpea&amp;rev=1744444764&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:scma&amp;rev=1744444668&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>RESOLUTION BAZAAR</title>
+        <link>https://www.resolutionbazaar.com/</link>
+        <url>https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:cdpa&amp;rev=1744444836&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T08:00:36+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cdpa</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:cdpa&amp;rev=1744444836&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Court Decision Prediction Agent (CDPA)&quot;,
+&quot;agentDescription&quot;: &quot;Utilizes predictive analytics and NLP on historical case law, judgments, and relevant legal precedents to forecast potential court decisions (e.g., by NCLT/NCLAT) related to insolvency applications and proceedings. Helps insolvency applicants and their counsel prepare for different outcomes by providing data-informed insights for strategic case preparation and argumentation. *This agent provides analytical support and …</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:cima&amp;rev=1744443726&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T07:42:06+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cima</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:cima&amp;rev=1744443726&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Creditor Information Management Agent (CIMA)&quot;,
+&quot;agentDescription&quot;: &quot;Centralizes, manages, validates, and analyzes creditor data and claims throughout the insolvency resolution process (CIRP) or liquidation. Ensures accurate record-keeping, facilitates claim verification, supports Committee of Creditors (CoC) formation, and tracks communications related to claims.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Maintain a comprehensive and accurate database of all potent…</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:ddva&amp;rev=1744443528&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T07:38:48+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ddva</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:ddva&amp;rev=1744443528&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Default Detection and Verification Agent (DDVA)&quot;,
+&quot;agentDescription&quot;: &quot;Analyzes financial data, payment records, and contractual obligations to detect potential and actual defaults by debtors. Automates the process of gathering, verifying, and organizing evidence required to support insolvency applications filed by creditors or corporate debtors.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Continuously monitor debtor accounts receivable/payable schedules against con…</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:fara&amp;rev=1744443795&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T07:43:15+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>fara</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:fara&amp;rev=1744443795&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Financial Analysis and Risk Assessment Agent (FARA)&quot;,
+&quot;agentDescription&quot;: &quot;Performs in-depth financial analysis of the corporate debtor during the insolvency process. Assesses financial health, business viability, estimates recovery potential for stakeholders (including applicants), identifies risks inherent in the process, and provides insights for evaluating potential restructuring or resolution pathways.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Analyze the cor…</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:icfaa&amp;rev=1744443657&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T07:40:57+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>icfaa</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:icfaa&amp;rev=1744443657&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Insolvency Case Filing Automation Agent (ICFAA)&quot;,
+&quot;agentDescription&quot;: &quot;Automates the end-to-end preparation and compilation of insolvency petition documents required for filing with the adjudicating authority (e.g., NCLT under IBC). Ensures accuracy, completeness, and compliance with procedural requirements, streamlining the initiation of the insolvency process.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Automate the generation of specific application forms (e.g., …</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:lpclra&amp;rev=1744444550&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T07:55:50+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>lpclra</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:lpclra&amp;rev=1744444550&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Legal Precedent and Case Law Research Agent (LPCLRA)&quot;,
+&quot;agentDescription&quot;: &quot;Leverages AI and NLP to search, retrieve, and analyze relevant legal precedents, statutes, and case law specific to insolvency matters (e.g., under IBC). Assists applicants and their legal counsel in understanding the legal landscape, identifying supporting and potentially challenging precedents, and sourcing data-driven insights for legal argumentation. *This agent provides research support and does not …</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:rpea&amp;rev=1744444764&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T07:59:24+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>rpea</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:rpea&amp;rev=1744444764&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Resolution Plan Evaluation Agent (RPEA)&quot;,
+&quot;agentDescription&quot;: &quot;Analyzes and evaluates resolution plans submitted by Resolution Applicants (RAs) during a corporate insolvency resolution process (CIRP). Assesses plans against statutory requirements (e.g., IBC), financial feasibility, viability, potential outcomes for stakeholders, and provides comparative insights to aid the Committee of Creditors (CoC) and Resolution Professional (RP) in identifying the most viable options.&quot;,
+&quot;ver…</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:scma&amp;rev=1744444668&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-12T07:57:48+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>scma</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=insolvency_agents:agents:applicant_agents:scma&amp;rev=1744444668&amp;do=diff</link>
+        <description>{
+&quot;agentName&quot;: &quot;Stakeholder Communication and Management Agent (SCMA for Applicants)&quot;,
+&quot;agentDescription&quot;: &quot;Facilitates and tracks communication initiated by an insolvency applicant (Creditor or Corporate Debtor) with relevant parties like the corporate debtor, other potential creditors, legal counsel, proposed IPs, and courts, particularly during the application preparation and filing stage. Automates routine notifications and updates related to the application process.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;sta…</description>
+    </item>
+</rdf:RDF>

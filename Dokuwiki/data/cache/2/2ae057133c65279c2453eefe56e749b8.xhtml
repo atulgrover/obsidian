@@ -1,0 +1,136 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Regulatory Compliance and Reporting Agent (RCRA)&quot;,
+&quot;agentDescription&quot;: &quot;Monitors corporate actions and ensures adherence to legal and regulatory requirements, particularly under relevant insolvency frameworks like India&#039;s Insolvency and Bankruptcy Code (IBC). Automates the preparation and facilitates the submission of mandatory reports, filings, and documentation to regulatory bodies (e.g., NCLT, IBBI) and stakeholders.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Track all relevant statutory deadlines for filings and reporting under the applicable insolvency laws (e.g., IBC timelines).&quot;,
+  &quot;Maintain an up-to-date repository of required forms, templates, and reporting formats.&quot;,
+  &quot;Automate the population of regulatory forms using verified corporate data.&quot;,
+  &quot;Generate accurate reports for submission (e.g., List of Creditors, Asset Memorandums, Compliance Certificates, Progress Reports).&quot;,
+  &quot;Monitor corporate actions (e.g., transactions, resolutions) for potential compliance flags under insolvency regulations (e.g., preferential, undervalued transactions during look-back periods) - *for review by professionals, does not provide legal advice*.&quot;,
+  &quot;Maintain a comprehensive audit trail of compliance activities and report submissions.&quot;,
+  &quot;Facilitate timely submission of documents to relevant portals or authorities (where technically feasible through APIs or structured exports).&quot;,
+  &quot;Alert relevant users (e.g., Insolvency Professional, Legal team) about upcoming deadlines and potential compliance issues.&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Regulatory Knowledge Base: Stores and updates key provisions, timelines, and forms related to the relevant insolvency law (e.g., IBC, 2016 and subsequent regulations).&quot;,
+  &quot;Data Integration: Connects to internal systems (ERP, Finance, Legal) to pull necessary data for reporting.&quot;,
+  &quot;Template Management: Stores and manages official regulatory document templates.&quot;,
+  &quot;Automated Form Filling: Populates predefined fields in templates based on integrated data.&quot;,
+  &quot;Report Generation Engine: Creates structured reports in required formats (PDF, specified e-formats).&quot;,
+  &quot;Deadline Tracking &amp; Alerting: Manages critical dates and sends reminders.&quot;,
+  &quot;Compliance Rule Engine (Basic): Applies predefined rules to flag potentially non-compliant actions for human review based on transaction data and timelines.&quot;,
+  &quot;Audit Trail Logging: Records all data pulls, report generation activities, user actions, and submission confirmations.&quot;,
+  &quot;Submission Formatting: Prepares data/documents in formats suitable for upload to regulatory portals (e.g., NCLT e-filing, IBBI reporting).&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Insolvency Professionals (IPs) / Resolution Professionals (RPs)&quot;,
+  &quot;Liquidators&quot;,
+  &quot;Corporate Debtor&#039;s Compliance/Legal/Secretarial Teams&quot;,
+  &quot;Finance Departments supporting the IP/RP&quot;,
+  &quot;External Legal Counsel&quot;,
+  &quot;Turnaround Consultants&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Access to Corporate Financial Data (updated Balance Sheet, P&amp;L, Cash Flow)&quot;,
+  &quot;Detailed List of Creditors (Financial, Operational, Secured, Unsecured, etc.) with claims data.&quot;,
+  &quot;Detailed Asset Register / Information Memorandum data.&quot;,
+  &quot;Employee Records and Dues information.&quot;,
+  &quot;Details of Transactions (especially within look-back periods defined by law).&quot;,
+  &quot;Copies of Key Contracts and Agreements.&quot;,
+  &quot;Board Resolutions and Meeting Minutes relevant to finance/insolvency.&quot;,
+  &quot;Official Regulatory Forms and Templates.&quot;,
+  &quot;Case specific information (e.g., Date of Commencement of Insolvency, NCLT Orders, specific instructions).&quot;,
+  &quot;User inputs for specific data points not available automatically.&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Completed Regulatory Forms (e.g., PDF, required e-filing formats)&quot;,
+  &quot;Compliance Checklists and Status Reports&quot;,
+  &quot;Specific reports required under law (e.g., List of Creditors, Asset Lists, Information Memorandum components, various Forms under IBC).&quot;,
+  &quot;Audit Logs and Activity Reports&quot;,
+  &quot;Deadline Calendars and Alert Notifications (Email, SMS, In-App)&quot;,
+  &quot;Structured data files (CSV, JSON, XML) formatted for submission portals.&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Ensures timely and accurate regulatory filings, avoiding penalties.&quot;,
+  &quot;Reduces manual effort and time spent on preparing repetitive reports.&quot;,
+  &quot;Improves consistency and accuracy of data across multiple submissions.&quot;,
+  &quot;Provides a centralized system for managing compliance obligations.&quot;,
+  &quot;Facilitates better oversight and monitoring for the Insolvency Professional/RP.&quot;,
+  &quot;Reduces risk of missing critical deadlines.&quot;,
+  &quot;Creates a reliable audit trail for regulatory scrutiny.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Data Acquisition &amp; Integration&quot;,
+    &quot;tools&quot;: [
+      &quot;Database Connectors (SQL - for ERP, Financial Systems)&quot;,
+      &quot;Spreadsheet Processing Libraries (e.g., Pandas, Apache POI)&quot;,
+      &quot;API Clients (for connecting to internal APIs)&quot;,
+      &quot;File Parsers (PDF parsers - potentially using OCR for scanned docs, XML/JSON parsers)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Processing &amp; Management&quot;,
+    &quot;tools&quot;: [
+      &quot;Data Manipulation Libraries (e.g., Pandas, NumPy)&quot;,
+      &quot;Data Validation Libraries (e.g., Cerberus, Pydantic)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Rule Engine &amp; Logic&quot;,
+    &quot;tools&quot;: [
+      &quot;Business Rule Management System (BRMS) (e.g., Drools, ODM) or Custom coded rule logic (Python/Java)&quot;,
+      &quot;Date/Time Libraries for accurate timeline calculations&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Document &amp; Report Generation&quot;,
+    &quot;tools&quot;: [
+      &quot;PDF Generation Libraries (e.g., ReportLab, iTextSharp, FPDF)&quot;,
+      &quot;Template Engines (e.g., Jinja2, Apache Velocity)&quot;,
+      &quot;Office Document Libraries (for reading/writing .docx, .xlsx - e.g., python-docx, openpyxl)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Storage&quot;,
+    &quot;tools&quot;: [
+      &quot;Relational Databases (e.g., PostgreSQL, MySQL - for structured data, rules, templates, audit logs)&quot;,
+      &quot;Document Databases (Optional, for storing templates or unstructured report data)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Workflow &amp; Scheduling&quot;,
+    &quot;tools&quot;: [
+      &quot;Workflow Engines (e.g., Airflow, Prefect, Camunda)&quot;,
+      &quot;Task Schedulers (e.g., Cron, Windows Task Scheduler)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Alerting &amp; Notification&quot;,
+    &quot;tools&quot;: [
+      &quot;Email Service APIs (e.g., SendGrid, AWS SES)&quot;,
+      &quot;SMS Gateway APIs (e.g., Twilio)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;User Interface (If applicable)&quot;,
+    &quot;tools&quot;: [
+      &quot;Web Frameworks (e.g., Flask, Django, React, Angular)&quot;
+    ]
+  },
+   {
+    &quot;toolCategory&quot;: &quot;External Integration (Optional)&quot;,
+    &quot;tools&quot;: [
+      &quot;APIs for E-filing portals (Highly dependent on availability and stability provided by regulatory bodies)&quot;
+    ]
+  }
+]</pre>
+
+<p>
+}
+</p>

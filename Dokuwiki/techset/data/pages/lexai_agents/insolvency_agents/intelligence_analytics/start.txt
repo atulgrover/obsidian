@@ -1,0 +1,15 @@
+{{tagfilter>Agentic Store=store:.*=store:insolvency_agents|Division=division:.*=division:intelligence_analytics|Cluster=cluster:.*|Agent=agent:.*}}
+
+
+**V. Intelligence & Analytics Division**
+Predictive, prescriptive, and sentiment-based analytics agents.
+
+  * Predictive Intelligence Agents
+    * [[rbz_agenbots:insolvency_agents:intelligence_analytics:predictive_intelligence:Default Forecasting Agent (DFA)]]
+    * [[rbz_agenbots:insolvency_agents:intelligence_analytics:predictive_intelligence:Fraud Risk Detection Agent (FRDA)]]
+    * [[rbz_agenbots:insolvency_agents:intelligence_analytics:predictive_intelligence:Recovery Value Predictor (RVP)]]
+    * [[rbz_agenbots:insolvency_agents:intelligence_analytics:predictive_intelligence:Sentiment Analysis Agent (SAA)]]
+  * Strategic Analytics Agents
+    * [[rbz_agenbots:insolvency_agents:intelligence_analytics:strategic_analytics:Resolution Success Predictor (RSP)]]
+    * [[rbz_agenbots:insolvency_agents:intelligence_analytics:strategic_analytics:Scenario Simulation Agent (SSA)]]
+    * [[rbz_agenbots:insolvency_agents:intelligence_analytics:strategic_analytics:Performance Benchmarking Agent (PBA)]]

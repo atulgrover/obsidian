@@ -1,0 +1,7 @@
+2. Fact & Evidence Extraction Agent
+
+The Fact & Evidence Extraction Agent intelligently mines documents, emails, and statements to identify verifiable facts, dates, and evidentiary elements relevant to the dispute. Using entity recognition and semantic analysis, it links facts to supporting exhibits—contracts, invoices, minutes, or correspondence—creating traceable connections between claims and proofs.
+
+It can categorize evidence by source (e.g., creditor, debtor, third party) and type (financial, legal, operational) to help professionals validate assertions quickly. This structured evidence map allows for easy cross-referencing during hearings or audits, reducing the likelihood of oversight or duplication.
+
+The agent also flags missing or weak evidentiary support for particular claims, prompting users to request clarifications or additional documents. This proactive validation ensures that every case file is factually strong and compliant with procedural standards before submission to the adjudicating authority or mediation forum.

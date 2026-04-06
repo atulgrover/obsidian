@@ -1,0 +1,412 @@
+<html>
+<div>
+	<h1>
+		Whether an Unsecured Financial Creditor being a dissentient to Resolution Plan can be provided NIL amount against its admitted claim whereas Operational Creditor has been provided certain amount &ndash; Metro Infrastructure Development Ltd. Vs. Anil Kohli RP of Eastern Silk Industries Pvt Ltd. and Ors. &ndash; NCLT Kolkata Bench
+	</h1>
+	<div>
+		February 8, 2024
+	</div>
+	<p>
+		In this important judgment on NIL payment to Unsecured Dissenting Financial Creditor, Hon&rsquo;ble NCLT holds that: (i) The Committee of Creditors cannot turn volta face by allocating &ldquo;No&rdquo; payment towards the &ldquo;Unsecured Financial Creditor&rdquo; who is &ldquo;not related party&rdquo;, against its admitted claim by quoting a reason that the total admitted claims of the Secured Financial Creditors is more than the Liquidation Value of the Corporate Debtor and therefore, in the case of liquidation of the Corporate Debtor, the Applicant herein being an Unsecured Financial Creditor as per Section 53 of the Code, shall be entitled to NIL value. (ii) This would mean only two things, i.e., if the liquidation value was available to the Operational Creditors, then it cannot be said that the same was not available to the DFC who rank above to the Operational Creditors under Section 53(1)(a) of the Code. If this inference is not correct, then the only other inference that could be drawn is an apparent discrimination and arbitrariness on the part of the CoC. (iii) The unsecured financial creditor though dissentient to the plan cannot be paid NIL by quoting a reason that liquidation value is not available to them whereas the Operational Creditor has been provided certain amount who comes in the lower rank to the unsecured creditors in accordance with the waterfall mechanism provided under Section 53(1) of the Code. (iv) The provision of allocating &ldquo;NIL&rdquo; amount to a DFC is contrary to the true import of the Essar Steel judgment as well as the provisions of the Section 30(2)(b) of the Code. As such it is patently erroneous and grossly disproportionate vis-&agrave;-vis other stakeholders. (v) AA disapproves an allocation of &ldquo;NIL&rdquo; amount to a Dissenting Financial Creditor (DFC) simply because the Plan value is way less than the liquidation value and the secured creditors are allocated way less than their claim or security interest.
+	</p>
+</div>
+<div>
+	<div>
+		<div>
+			<div>
+				<div>
+					<p>
+						<strong>
+							 IN THE NATIONAL COMPANY LAW TRIBUNAL
+						</strong>
+						<br />
+						 Kolkata Bench
+					</p>
+					<p>
+						<strong>
+							 Metro Infrastructure Development Ltd.
+						</strong>
+						<br />
+						 v.
+						<br />
+						<strong>
+							 Anil Kohli, RP and Ors.
+						</strong>
+					</p>
+					<p>
+						I.A. (IB) No(s). 1573/KB/2023, 869/KB/2023, 813/KB/2023, 513/KB/2023, 510/KB/2023 in C.P. (IB) No. 588/KB/2020
+						<br />
+						 Decided on 31-Jan-24
+					</p>
+					<p>
+						<em>
+							 Coram: Ms. Bidisha Banerjee (Judicial Member) and Shri Arvind Devanathan (Technical Member)
+						</em>
+					</p>
+					<p>
+						<strong>
+							 Add. Info:
+						</strong>
+					</p>
+					<p>
+						<em>
+							 Corporate Debtor
+						</em>
+						 : Eastern Silk Industries Pvt. Ltd.
+					</p>
+					<p>
+						<em>
+							 For Appellant(s) and f
+						</em>
+						<em>
+							 or Respondent(s):
+						</em>
+						 For R-2 to R-6 in I.A. (I.B.C)/869(KB)2023: Mr. Rishav Banerjee, Adv. Mr. Rajarshi Banerjee, Adv., For R-8 in I.A. (I.B.C)/869(KB)2023: Mr. Jishnu Saha, Sr. Adv. Mr. Ishaan Saha, Adv., Mr. Aishwarya Kr. Awasthi, Adv., for the Resolution Professional: Mr. Abhishek Anand, Adv., Mr. Karan Kohli, Adv., Mr. Sajal Jain, Adv., Mr. Supriyo Banerjee, Adv., for the Suspended Board of Directors: Ms. Sneha Singhania, Adv. Ms. Sreenita Thakker, Adv., for the Committee of Creditors in I.A. (I.B.C)/1573(KB)2023: Mr. Rishav Banerjee, Adv. Mr. Rajarshi Banerjee, Adv., for the Suspended Board of Directors in I.A. (I.B.C)/513(KB)2023: Mr. Ratnanko Banerji, Sr. Adv. Mr. K. Thaker, Adv., Mr. S. Thaker, Adv., Ms. Sneha Singhania, Adv, for R-2 to R-8 in I.A. (I.B.C)/513(KB)2023, I.A. (I.B.C)/813(KB)2023 and I.A. (I.B.C)/869(KB)2023: Mr. Rajarshi Banerjee, Adv.&nbsp;
+					</p>
+					<hr />
+					<p>
+						<strong>
+							 Brief about the decision:
+						</strong>
+					</p>
+					<p>
+						<strong>
+							 I.A. (IB) No. 1573/KB/2023
+						</strong>
+					</p>
+					<p>
+						<em>
+							<strong>
+								 Facts of the case
+							</strong>
+						</em>
+					</p>
+					<ul>
+						<li>
+							This IA filed under Section 60(5) of IBC, by Metro Infrastructure Development Ltd. who is an Unsecured Financial Creditor of the Corporate Debtor.
+						</li>
+						<li>
+							The Applicant herein is an Unsecured Financial Creditor of the&nbsp;Corporate Debtor whose claim of Rs. 15,69,13,000/- was admitted&nbsp;by the Resolution Professional and the Applicant&nbsp;has a 1.73% voting share in the Committee of Creditors.
+						</li>
+						<li>
+							The Applicant is aggrieved by the decision of the CoC the allotment&nbsp;of NIL Payment against its admitted claim in the Resolution Plan&nbsp;though payments have been allocated to the Operational&nbsp;Creditors, against the Government Dues etc., in the Resolution&nbsp;Plan. The Applicant is also a Dissenting Financial Creditor and has voted against the&nbsp;Resolution Plan.
+						</li>
+						<li>
+							It is claimed that the Resolution Plan submitted&nbsp;by the SRA violates the provisions of the Code, 2016. The&nbsp;Resolution Plan provides payment to the Operational Creditors&nbsp;who stand below the Applicant (unsecured financial creditor) in&nbsp;the order of priority in terms of Section 53 of the I&amp;B code, but NIL&nbsp;to the Applicant.
+						</li>
+					</ul>
+					<p>
+						<em>
+							<strong>
+								 Issue
+							</strong>
+						</em>
+					</p>
+					<p>
+						Whether an Unsecured Financial Creditor being a dissentient to the Resolution Plan can be provided NIL amount against its admitted claim by the Resolution Professional.
+					</p>
+					<p>
+						<em>
+							<strong>
+								 Decision of Adjudicating Authority
+							</strong>
+						</em>
+					</p>
+					<p>
+						The Adjudicating Authority refers the following judgments:
+					</p>
+					<ul>
+						<li>
+							<em>
+								 Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta&nbsp;(2019) 07 SC
+							</em>
+							 : the DFCs are entitled to at least a minimum amount that was not payable earlier. The stand that DFCs are entitled to a minimum only if the plan value is more than to the liquidation value applicable to such Dissenting Financial Creditors is not substantiated.
+							<strong>
+								 (p26)
+							</strong>
+						</li>
+						<li>
+							<em>
+								 India Resurgence Arc Private Limited vs. Amit Metaliks
+							</em>
+							<em>
+								 Limited&nbsp;(2021) 87 SC
+							</em>
+							 : The decision establishes the proposition that a dissenting financial&nbsp;creditor is entitled to a minimum pay-out but not entitled to a sum&nbsp;equivalent to the value of its security interest.
+							<strong>
+								 (p27-28)
+							</strong>
+						</li>
+						<li>
+							<em>
+								 Indian Bank vs. Charu Desai, Erstwhile RP and Chairman of Monitoring Committee of GB Global Ltd.&nbsp;(2022) 335 NCLAT.
+							</em>
+						</li>
+						<li>
+							<em>
+								 DBS Bank Limited, Singapore vs. Ruchi Soya Industries Limited&nbsp;(2024) 01 SC.
+							</em>
+						</li>
+					</ul>
+					<p>
+						Hon&rsquo;ble Adjudicating Authority holds that:
+					</p>
+					<ul>
+						<li>
+							Section 30(2)(b) of the Code envisages that the Resolution Professional shall examine the plan received by him to confirm that the resolution plan allocates the payment of debts of Financial Creditors either secured or unsecured in such manner as may be specified by the Board which shall not be less than the amount to be paid to such creditors in the event of a liquidation of the corporate debtor under p 53; or the amount that would have been paid to such creditors, if the amount to be distributed under the resolution plan had been distributed in accordance with the order of priority in sub-p (1) of p 53, whichever is higher.
+							<strong>
+								 (p33.1)
+							</strong>
+						</li>
+						<li>
+							The Committee of Creditors cannot turn volta face by allocating &ldquo;No&rdquo; payment towards the &ldquo;Unsecured Financial Creditor&rdquo; who is &ldquo;not related party&rdquo;, against its admitted claim by quoting a reason that the total admitted claims of the Secured Financial Creditors is more than the Liquidation Value of the Corporate Debtor and therefore, in the case of liquidation of the Corporate Debtor, the Applicant herein being an Unsecured Financial Creditor as per Section 53 of the Code, shall be entitled to NIL value.
+							<strong>
+								 (p33.2)
+							</strong>
+						</li>
+						<li>
+							In the case in hand, the Operational Creditors have been paid despite the fact that liquidation value is NIL even for the unsecured creditors, who stand higher in the pedestal under Section 53(1) of the Code.
+						</li>
+						<li>
+							<strong>
+								 This would mean only two things, i.e., if the liquidation value was available to the Operational Creditors, then it cannot be said that the same was not available to the DFC who rank above to the Operational Creditors under Section 53(1)(a) of the Code. If this inference is not correct, then the only other inference that could be drawn is an apparent discrimination and arbitrariness on the part of the CoC.
+							</strong>
+							 Their conduct does not balance the interest of all the stakeholders enshrined under the objectives of the Code. Thus, the case laws relied by the Learned Counsel for the Respondent is distinguishable to the given the fact and circumstances of the case in hand. This view is further fortified by the observations made by the Hon&rsquo;ble Apex Court in the
+							<em>
+								 Committee of Creditors of Essar Steel India Ltd. Vs. Satish Kumar Gupta &amp; Ors.
+							</em>
+							 reported at
+							<em>
+								 (2019) 07 SC
+							</em>
+							 .
+							<strong>
+								 (p32)
+							</strong>
+						</li>
+						<li>
+							<strong>
+								 The unsecured financial creditor though dissentient to the plan cannot be paid NIL by quoting a reason that liquidation value is not available to them whereas the Operational Creditor has been provided certain amount who comes in the lower rank to the unsecured creditors in accordance with the waterfall mechanism provided under Section 53(1) of the Code.(p33)
+							</strong>
+						</li>
+						<li>
+							In the Suasth Healthcare Foundation reported in
+							<em>
+								 (2023) 1000 NCLT
+							</em>
+							 upon examination of the implication of Section 30(2)(b) of the Code in the light of the decision of the Hon&rsquo;ble Apex Court in
+							<em>
+								 Committee of Creditors of Essar Steel India Ltd. Vs. Satish Kumar Gupta &amp; Ors.
+							</em>
+							 reported at
+							<em>
+								 (2019) 07 SC
+							</em>
+							 .
+						</li>
+						<li>
+							Hence, we are of the considered opinion that
+							<strong>
+								 the provision of allocating &ldquo;NIL&rdquo; amount to a DFC is contrary to the true import of the Essar Steel (supra) judgment as well as the provisions of the Section 30(2)(b) of the Code. As such it is patently erroneous and grossly disproportionate vis-&agrave;-vis other stakeholders.(p35)
+							</strong>
+						</li>
+						<li>
+							We are conscious of the legal position that the &ldquo;Commercial Wisdom&rdquo; of the CoC is supreme and cannot be interfered with when it comes to approving a resolution plan, yet it is incumbent upon this Adjudicating Authority to restrict itself to the four corners of the statute keeping the legislative intent intact and not to render a decision contrary to the view and established as propounded by the Hon&rsquo;ble Apex Court, when it comes to allocation of an amount to a particular class of creditor. We reiterate that the observation of the Hon&rsquo;ble Apex Court in the
+							<em>
+								 Essar Steel (supra)
+							</em>
+							 and in
+							<em>
+								 DBS Bank Limited (supra)
+							</em>
+							 to frame our view.
+							<strong>
+								 (p36)
+							</strong>
+						</li>
+						<li>
+							Therefore,
+							<strong>
+								 this Adjudicating Authority disapproves an allocation of &ldquo;NIL&rdquo; amount to a Dissenting Financial Creditor (DFC) simply because the Plan value is way less than the liquidation value and the secured creditors are allocated way less than their claim or security interest.(p37)
+							</strong>
+						</li>
+						<li>
+							As allocation of an amount is not the task of this Adjudicating Authority, it leaves upon the CoC of Eastern Silk Industries&nbsp;Limited (Corporate Debtor herein) to take a rational and pragmatic&nbsp;view to allocate a reasonable amount within the realm of its&nbsp;&ldquo;Commercial Wisdom&rdquo; to Metro Infrastructure Development&nbsp;Limited, the Applicant herein, against its admitted claim.
+							<strong>
+								 (p38)
+							</strong>
+						</li>
+						<li>
+							In terms of foregoing discussions and direction, this Application being I.A. (IB) No. 1573/KB/2023 is allowed and disposed of.
+							<strong>
+								 (p40)
+							</strong>
+						</li>
+					</ul>
+					<p>
+						<strong>
+							 I.A. (IB) No. 869/KB/2023
+						</strong>
+					</p>
+					<p>
+						This Application is preferred by one Mr. Sundeep Shah, who is a promoter and suspended managing director of Eastern Silk Industries Limited (Corporate Debtor herein). The Applicant has filed this application objecting to the Resolution Plan submitted by Bauman Dekor Private Limited (&ldquo;BDPL&rdquo;) which was approved by the CoC of the Corporate Debtor as the same is not compliant with the I&amp;B Code and CIRP Regulations, 2016.
+					</p>
+					<p>
+						The Adjudicating Authority holds that:
+					</p>
+					<ul>
+						<li>
+							In is evident that the Applicant is the erstwhile promoter and suspended managing director of the Corporate Debtor. We find that it is for the applicant to raise question regarding the distribution of proposed amount whether complies the provisions as provided under Section 30(2)(b) read with Section 53 of the Code. The CoC has approved the plan within its ambit of &ldquo;Commercial Wisdom&rdquo;.
+							<strong>
+								 (p65)
+							</strong>
+						</li>
+						<li>
+							The Committee of Creditors within its ambit of &ldquo;Commercial Wisdom&rdquo; has taken the decision and the Adjudicating Authority have very limited scope to interfere into their decision which is unanimously taken. In this context, we would refer the judgment of Hon&rsquo;ble Apex Court in
+							<em>
+								 Kalpraj Dharamshi v. Kotak Investment Advisors Ltd.
+								<strong>
+									 (2021) 40 SC
+								</strong>
+							</em>
+							<strong>
+								 (p66)
+							</strong>
+						</li>
+						<li>
+							Further, we are conscious of the judgment of Hon&rsquo;ble Supreme Court of India in
+							<em>
+								 Swiss Ribbons Pvt Ltd. vs. Union of India
+							</em>
+							 reported in&nbsp;(2019) 03 SC&nbsp;and the recent decision of the Hon&rsquo;ble NCLAT in
+							<em>
+								 Sandeep Gupta v. JM Financial Asset Reconstruction Company Ltd. reported in&nbsp;(2024) 16 NCLAT
+							</em>
+							 that if the Committee of Creditors arbitrarily rejects a just settlement and/or withdrawal claim, NCLT, and thereafter, NCLAT can always set aside such decision under Section 60 of the Code.
+							<strong>
+								 (p70)
+							</strong>
+						</li>
+						<li>
+							We find that the CoC has allowed the applicant to submit the settlement proposal and also allowed to revise it on several occasions, and before rejecting the revised settlement proposal submitted by the applicant, the RP placed the same before the CoC and the CoC after long discussions and deliberations has rejected the revised settlement proposal in its 10th meeting held on 13.02.2023. Thus, we are of the considered opinion that the decision of the CoC is not arbitrary but is holistic and unanimous.
+							<strong>
+								 (p70)
+							</strong>
+						</li>
+						<li>
+							In terms of foregoing discussions, we would infer that there is no merit in the application and accordingly, we do not have any hesitation to dismiss the application being I.A. (IB) No. 869/KB/2023.
+							<strong>
+								 (p71)
+							</strong>
+						</li>
+					</ul>
+					<p>
+						<strong>
+							 I.A. (IB) No. 813/KB/2023
+						</strong>
+					</p>
+					<p>
+						This application has been preferred under Section 60(5) of the I&amp;B Code by Mr. Sundeep Shah, an erstwhile Promoter and managing director of the Corporate Debtor (&ldquo;Applicant&rdquo;) against the Resolution Professional (RP) Mr. Anil Kohli of Eastern Silk Industries Limited (Corporate Debtor) and the members of the CoC of the Corporate Debtor.
+					</p>
+					<p>
+						The Adjudicating Authority holds that:
+					</p>
+					<ul>
+						<li>
+							The CoC in its commercial wisdom has decided to go ahead with the resolution plan of Baumann Dekor Private Limited. In all the CoC meetings, it is relevant to note that in both 10th and 11th CoC meetings convened on 13.02.2023 and 03.03.2023 respectively, the Applicant was present and there was no recording of any objection to the resolutions passed in such meetings by the Applicant.92. We have already taken a view in I.A. (IB) No. 869/KB/2023 that we are conscious of the judgment of Hon&rsquo;ble Supreme Court of India in
+							<em>
+								 Swiss Ribbons Pvt Ltd. vs. Union of India
+							</em>
+							 (supra) and the recent decision of the Hon&rsquo;ble NCLAT in
+							<em>
+								 Sandeep Gupta v. JM Financial Asset Reconstruction Company Ltd. reported in (2024) 16 NCLAT
+							</em>
+							 that if the Committee of Creditors arbitrarily rejects a just settlement and/or withdrawal claim, NCLT, and thereafter, NCLAT can always set aside such decision under Section 60 of the Code. We have noted that the CoC has allowed the applicant to submit the settlement proposal and also allowed to revise it on several occasions, and before rejecting the revised settlement proposal submitted by the applicant, the RP placed the same before the CoC and the CoC after long discussions and deliberations has rejected the revised settlement proposal in its 10th meeting held on 13.02.2023. Hence, we are of the considered opinion that the decision of the CoC is not arbitrary but is holistic and unanimous.
+							<strong>
+								 (p91)
+							</strong>
+						</li>
+						<li>
+							Further, we have noted that on the 11th CoC meeting held on 03.03.2023, the CoC approved the Resolution Plan submitted by the BDPL with an 88.30% voting share within its &lsquo;commercial wisdom&rsquo;. Thus, the Revised Settlement Proposal of the Applicant has failed to achieve the majority vote for its approval and thus, we find that the applicant is not maintainable.
+							<strong>
+								 (p94)
+							</strong>
+						</li>
+						<li>
+							Accordingly, we dismiss the Application being I.A. (IB) No. 813/KB/2023.
+							<strong>
+								 (p94)
+							</strong>
+						</li>
+					</ul>
+					<p>
+						<strong>
+							 I.A. (IB) No. 513/KB/2023
+						</strong>
+					</p>
+					<ul>
+						<li>
+							This application has been preferred under Section 60(5) of the I&amp;B Code by Mr. Sundeep Shah, an erstwhile Promoter and managing director of the Corporate Debtor (&ldquo;Applicant&rdquo;) against the Resolution Professional (RP) Mr. Anil Kohli of Eastern Silk Industries Limited and the members of the CoC.
+						</li>
+						<li>
+							In terms of discussions and decisions taken in I.A. (IB) No. 869/KB/2023 and I.A. (IB) No. 813/KB/2023, we dismiss this application being I.A. (IB) No. 513/KB/2023 as infructuous.
+							<strong>
+								 (p98-99)
+							</strong>
+						</li>
+					</ul>
+					<p>
+						<strong>
+							 I.A. (IB) No. 510/KB/2023 (Resolution Plan)
+						</strong>
+					</p>
+					<p>
+						This instant application is filed under Section 30(6) read with Section 31(1) of the Insolvency and Bankruptcy Code, 2016 read with Regulation 39(4) of the CIRP Regulations, 2016 by Mr. Anil Kohli, Resolution Professional of Eastern Silk Industries Limited, Corporate Debtor herein, seeking approval and final sanction of the Revised Resolution Plan dated 02.01.2023 and addendums dated 04.02.2023 and 25.02.2023 from this Adjudicating Authority as approved by the CoC in the&nbsp;matter of CIRP of the&nbsp;Corporate debtor.
+					</p>
+					<p>
+						The Adjudicating Authority holds that:
+					</p>
+					<ul>
+						<li>
+							It is evident from the valuation reports annexed to the Resolution Plan that the average fair value is Rs. 1,04,29,78,400/- and the average liquidation value is Rs. 79,14,62,075/-, however, the plan value is only Rs. 61.11 Crore, which is nearly 30% less than the liquidation value. We have noted that the CoC of the Corporate Debtor had negotiated on several occasions to enhance the value. While we find that the CoC had taken steps to maximize the wealth of the Corporate Debtor but still has not been able to maximize the wealth to its full potential, when the plan value is 30% less than the liquidation value.
+							<strong>
+								 (p133)
+							</strong>
+						</li>
+						<li>
+							Be that as it may, we rely on the Hon&rsquo;ble Supreme Court&rsquo;s Judgment rendered in the case of
+							<em>
+								 Maharashtra Seamless Limited v. Padmanabhan Venkatesh &amp; Ors.&nbsp;(2020) 03 SC
+							</em>
+							 , wherein the Hon&rsquo;ble Apex Court had held that &ldquo;No provision in the Code or Regulations has been brought to our notice under which the bid of any Resolution Applicant has to match liquidation value arrived at in the manner provided in Clause 35 of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016.&rdquo; Relying on the said judgment, we proceed to examine the other aspects of the plan for the purpose of approval or otherwise.
+							<strong>
+								 (p134)
+							</strong>
+						</li>
+						<li>
+							Subject to the directions made above as well as in in I.A. 1573/KB/2023, the Resolution Plan dated 02.01.2023 and addendums dated 04.02.2023 and 25.02.2023, submitted by Mr. Ajay Bikram Singh through Baumann Dekor Private Limited is hereby
+							<strong>
+								 APPROVED
+							</strong>
+							 and
+							<strong>
+								 FINALLY SANCTIONED
+							</strong>
+							 by this Adjudicating Authority. The Resolution Plan shall form part of this Order and shall be read along with this order for implementation. The Resolution Plan thus approved shall be binding on the Corporate Debtor and other stakeholders involved in terms of p 31 of the Code, so that the revival of the Corporate Debtor Company shall come into force with immediate effect.
+							<strong>
+								 (p151)
+							</strong>
+						</li>
+						<li>
+							We are of the view that no purposes would be served in sending the Resolution Plan back to the CoC for this purpose only and to come back to us once again for approval. This will only delay the resolution of the Corporate Debtor further. Therefore, we approve this Application seeking the approval of Resolution Plan subject to the direction given in
+							<strong>
+								 I.A. (IB) No. 1573/KB/2023.(p152)
+							</strong>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</html>

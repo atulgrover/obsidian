@@ -1,0 +1,18 @@
+===== Guestbook =====
+<form>
+action pagemod _self add_comment
+fieldset "Write new comment"
+textbox  "Name" "=@NAME@"
+textarea "Comment" /^((?!<\/nowiki>).|\n)*$/
+submit
+</form>
+
+
+===== entry=====
+<datatables ordering="0">
+^Entry^<pagemod add_comment output_after>
+|<WRAP group><WRAP half column><WRAP left round box 60%> {{:wiki:logo.png?30}}:  <nowiki>@@Comment@@</nowiki> </WRAP></WRAP><WRAP half column></WRAP></WRAP>@@Name@@ //@@meta.date.format.r@@://|</pagemod>
+|<WRAP group><WRAP half column><WRAP left round box 60%> {{:wiki:logo.png?30}}:  <nowiki>jhjlhjk</nowiki> </WRAP></WRAP><WRAP half column></WRAP></WRAP>Atul Grover //Sun, 09 Nov 2025 06:03:39 +0000://|
+
+
+</datatables>

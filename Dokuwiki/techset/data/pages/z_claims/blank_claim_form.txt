@@ -1,0 +1,109 @@
+~~NOTOC~~
+
+<WRAP group>
+<WRAP column 70%>
+
+<form>
+
+action template :claims:@@process_type@@:@@claimant_type@@ :claims:filled:@@claimid@@
+
+
+fieldset "Process Details"
+select "process_type" "resolution_cirp|liquidation_cilp|voluntary_liquidation_civlp"
+select "claimant_type" "authorized_representative|financial_creditor|operational_creditor|creditor_class|other_creditor|workmen_employees|home_buyers"
+
+fieldset "Debtor Details"
+static "Some static text that could be an agreement"
+struct_schema "debtor_details" !
+
+Fieldset "Professional's Details"
+static "Some static text that could be an agreement"
+struct_schema "professional_details" !
+
+Fieldset "Claimant Details"
+static "Some static text that could be an agreement"
+struct_schema "claimant_details" !
+
+Fieldset "Claim Details"
+static "Some static text that could be an agreement"
+struct_schema "claim_details" !
+
+Fieldset "Claim Questions"
+static "Some static text that could be an agreement"
+struct_schema "claim_questions" !
+
+Fieldset "Bank Details"
+static "Some static text that could be an agreement"
+struct_schema "bank_details" !
+
+Fieldset "Document Attachments"
+Yesno attachments
+
+Fieldset "Upload Documents" attachments
+File file1 ..: !
+File file2 ..: !
+File file3 ..: !
+File file4 ..: !
+File file5 ..: !
+
+Fieldset "Create your Claim"
+Hiddenautoinc claimid
+Hidden created "=%Y-%m-%d %H:%M"
+
+submit "Submit Claim"
+
+</form>
+
+</WRAP>
+
+<WRAP column 25%>
+\\
+
+Process Details - Provide basic information about the insolvency process.
+  * process-type: Select the type of process (e.g., CIRP, Liquidation, Personal Guarantor process).
+  * process-commencement-date: Enter the official start date in dd-mm-yyyy format.
+
+Professional's Details - This section contains the Insolvency Professional’s (IP) details. Usually pre-filled. Confirm accuracy.
+  * professional-name
+  * professional-address
+  * professional-email
+  * professional-phone
+
+Claimant Details - Provide your personal or entity information.
+  * claimant-name: Your full legal name / company name.
+  * claimant-address: Complete communication address.
+  * claimant-type: Choose: Financial Creditor / Operational Creditor / Employee / Other.
+  * claimant-email: Valid email for communication.
+  * claimant-phone: Mobile number.
+  * claimant-pan-no: PAN number (mandatory for entities/individuals).
+  * claimant-aadhar-no: Aadhaar number (if applicable).
+  * claimant-entity: Type of entity (Individual, Proprietorship, Partnership, LLP, Company).
+
+Claim Details - Explain the financial claim.
+  * claim-principal-amount: Principal outstanding in INR.
+  * claim-interest-amount: Interest claimed till commencement date.
+  * claim-interest-calculation: Basis of interest: rate, period, and calculation method.
+  * claim-nature: Nature of claim (e.g., loan, supply of goods/services, dues, damages).
+
+Claim Questions - Describe the background and supporting details.
+  * details-document-list: List all documents attached (invoices, agreements, ledgers, bank statements).
+  * details-debt-incurred: How and why the debt arose.
+  * details-mutual-dealing: Any mutual transactions or adjustments.
+  * details-security-held: Details of security, collateral, guarantees (if any).
+  * details-assignment-transfer: If the claim was assigned or transferred, provide details.
+  * details-dispute-story: Any disputes related to the debt.
+  * details-litigation-story: Ongoing or past litigation, arbitration, notices.
+
+Bank Details -Details for receiving payments (if distributions happen).
+  * bank-name
+  * bank-account-no
+  * bank-ifsc-code
+  * bank-branch-address
+
+Document Attachments - Upload all supporting documents. Ensure files are clear and legible.
+  * attachments: Agreements, invoices, loan documents, security documents, bank statements, correspondence, court orders, etc.
+
+Click Submit Claim after verifying all information. Keep a copy of the acknowledgment for your records.
+
+</WRAP>
+</WRAP>

@@ -1,0 +1,554 @@
+# A Deep Dive into Proposed Amendments to IBBI Regulations and New Liquidation Progress Report Format
+![](https://img.youtube.com/vi/qvowAfRYlro/hqdefault.jpg)
+7 days ago (Jul 1, 2024) — 1:09:03
+[https://youtube.com/watch?v=qvowAfRYlro](https://youtube.com/watch?v=qvowAfRYlro)
+
+## Morning everyone and welcome back to our weekly webinar series.
+0:07
+Morning everyone and welcome back to our weekly webinar series. We are discussing very important discussion papers today over to Ana. Thank youit welcome to 116th episode of triaa weekly webinar series. 
+
+0:23
+As usual, we are very happy to be connected with you, and the subject that we have taken up is the two discussion papers released by ibbi: one on 19th June 2024 regarding proposed amendments in cirp regulations, and the other is regarding the liquidation regulations, which is providing a format for quarterly returns which are required to be filed by. The Liquidators. So we will discuss in detail the first. 
+
+1:05
+We will start with the proposed amendments in the cirp regulations. See the when we see again, as ibbi is very active based on the feedbacks, so the various feedbacks that they have been receiving is the valuation process during cirp, so the present process of appointing valuers, and also the directions to the valuers how to conduct the valuation, since the company's registered valuers and valuation rules 2017 has already been notified under rule 8 sub rule 2, the evaluation rules have been provided and it is already mentioned there that a register valuer May obtain inputs for their valuation report or get a separate valuation for any asset class from other registered valuers. 
+
+
+## CP regulation: the first registered valer will be appointed within 7 Days of the appointment of
+2:13
+So therefore the original valer he would always be responsible and he would be responsible for the valer that he has appointed for other class of assets that is already there in rule 8 sub rule 2 of the companies registered valuers and valuation rules 2017 now the present regulations 27 of CP regulation says that the two registered valuers will be appointed within 7 Days of the appointment of the IRP with the appointment of the RP, but not later than 4.7th Day from the insolvency commencement date to determine fair value and liquidation value of the cor. 
+
+3:09
+Regulation 35 of CP regulation says that the valuation can be conducted for different asset classes by different valuers. regulation 35, sub regulation one and the Clause B ISS the. 
+
+3:30
+If the two estimates of a value in an asset class are significantly different, or on receipt of a proposal to appoint a third registered valuer from the committee of creditors, the resolution professional May appoint a third registered valer for an asset class for submitting an estimate of value and separately the significantly different is again defined there. Now what is feedback? What are the issues involved? 
+
+
+## unified valuation approach for smaller companies
+4:02
+One that multiple valuations are required for different class of assets and there may be some kind of inconsistencies or increase or decrease in the value, and the process also increases. The unified valuation approach may lead to some disputes and delays, and also it is inconsistent to the valuation rules under the company's Act. 
+
+4:30
+So therefore the ibbi thought that it all should be aligned and the requirement of two registered valuers that may be even simplified for smaller companies, smaller companies, including msme. So the other important issue was to align with the valuation rules. 
+
+4:55
+So I think there is some background, also some kind of judgment like kushman and Wakefield India private limited judgment versus Union of India, where Delhi high court have actually commented on the valuation rules 2017 and the observations was that these rules are valid and these rules they have not. 
+
+
+## ibbi's registered valuers and valuation rules are replaced with companies registered
+5:22
+They have not seen any kind of inconsistency in the rules, so the rules have actually been a kind of also have the test of the Delhi High Court. Even the even the ministry of corporate Affair, also have given a notification on 23rd of October 2017 where it is said that for the purpose of section 247 of the companies act, the ibbi is the regulatory Authority and the powers of the government of India under Section 458 of the companies Act was in fact delegated to ibbi. Now let us see the proposed amendment presently. 
+
+6:12
+In regulation 2035 of the cirb regulation, the wording used is that the value and the liquidation value computed in accordance with internationally accepted valuation standards now internationally accepted valuation standards are now replaced with the terms of company's registered valuers and valuation rules 2017. So basically in the anit, I think you would be able to explain it better, because see you do a lot of valuation every day. 
+
+6:49
+So what is the company's registered valuers and valuation rules and how? Why this is internationally accepted? Valuation standards are replaced with companies registered value and valuation rules. What is this particular reason for changing this? And according to you? Because see, you have a lot of experience of valuation. Yes, an so, two, three reasons. One ibbi is in the process of drafting valuation. 
+
+
+## Internationally Accepted valuation standards in India
+7:17
+You know standards, so in time there will be a possibility that India will have their own valuation standards, and those valuation standards will then be rather be the valuation standards that are required to be followed as per the company's registered value and valuation rules. So one they would want that to be in Synergy. It should not be that this rule. 
+
+7:40
+These regulations talk about internationally accepted valuation standards and the rules which are implicated or other required to be followed by registered valuers say a specific other standard. That's one part. Second part is that currently the rules talk about op two options to choose from for the valuers. One it says internationally accepted valuation standards or the valuation standard which is notified or which is prescribed by the rvo for its members. 
+
+8:11
+Currently all rvos apart from IC a valuation stand IA rvo have has notified and said that its members have to follow the international valuation standards as notified by IVs. IVs ivsc is the international body which comes out with International valuation standards. Now this International valuation standard is different from internationally accepted valuation standards. Internationally accepted valuation standards can be more other also. so there's a valuation standard in the US. 
+
+
+## International valuation standards - A review of valuation standards
+8:45
+There's a valuation standard in the UK, in the in the Europe, in Europe, called ton toova. So there various valuation standards across the globe. But most of the rvos in India have accepted or rather adopted International valuation standards. So this is what the I think this is a one streamlining that rather than double reference in both the rules. 
+
+9:06
+They have simply said that the standards should be those standards that are, you know those requirements that are already stated in the regulations and in future maybe the regulations can also come out with a change depending on when we have our own standards or when the rvu keep changing their applicable standard. 
+
+9:25
+Now within this proposed Amendment one that the internationally accepted valuation standard is replaced with the terms of companies registered Valu than valuation rules 2017, and I also see that the companies registered value and valuation rules also have an option of internationally accepted valuation standard. 
+
+
+## 81 registered valuers and valuation rule: registered valuers must conduct valuation
+9:52
+Yeah, so rule 81 of registered valuers and valuation rule say that the registered valuer shall conduct the value considering conduct the valuation, complying with rule 18 of the standards of the of the of these rules. Rule 18 says that Indian standards will be notified. 
+
+10:12
+Whenever they are notified, then it also has a provisor that till the time these rules are not notified, then internationally accepted valuation standards or valuation standard adopted by the rvu can be used by the registered valuers. No, within this regulation itself. 
+
+10:29
+Now the ibbi is also proposing, as a provisor, provided that the resolution professional shall facilitate a meeting wherein the registered valuers shall explain the methodology being adopted to arrive at valuation to the members of the committee before completion of the estimates and further the subsequent paragraphs in the proposed amendment regulation, where two registered valuers have been appointed and the estimate of values are significantly different, or on receipt of a proposal to appoint a third value from the committee of creditors, the resolution professional May appoint a third registered valuer and for submitting estimates of the value of the assets, again the average of the two highest would be considered as the value and the difference would be 25%. 
+
+
+## Companies Rules: International accepted valuation standards and valuation rules
+11:23
+So this is where the amendments are one. in this amendment we have seen the companies rules. Valuation rules will be adopted and valuation rule has both options: internationally accepted valuation standards as well as valuation rules. 
+
+11:42
+Secondly, the other parties that the discussion with the valers and the committee of creditors, and that is regarding the methodology adopted to arrive at the valuation estimates is part of this regulation and then how to arrive at the liquidation value or the fair value when there are more than one registered valuer is appointed in any case. Now this is one part of the Amendment and the other Val. 
+
+12:17
+Other Amendment which is proposed through this discussion paper is one valuation estimate for companies up to a certain asset size and for msme. so there are two things: one that the some Court observations are also there, like in the case of SSS ribbon private limited. The court observed that there should be some relaxation in the process for msme and also for that reason even section 240a was also inserted. 
+
+
+## ibbi proposal to appoint only one valer for ms
+12:46
+However, the regulation 27, regulation 35, is the same for smaller sized companies, asset size smaller or even for the msme. But therefore the feedback which was going to ibbi was higher cost delay in getting the report, inconsistency in the two reports and then finally the delay in the resolution process. so. 
+
+13:16
+Therefore, now the proposal is from ibbi to amend the regulations that the corporate deor having size of the assets as per the latest audited balance sheets, which is up to 1 000 CR, or the company in case it is classified as msme, then there is a requirement of appointing only one valer. So when we are saying only one valer, then it is also very clear. However, the COC has been given a power. 
+
+13:50
+If the COC wants that more than one valer is to be appointed, then COC can appoint two valuers if necessary, and in case the two values are giving significantly different valuations, then again the third Val can be appointed. however, this particular decision has been left to the committee of creditors, because the committee of creditors would know in each case what is the importance of valuation and how imp intricate the valuation is. 
+
+
+## RP is under obligation to appoint registered valuers in insolvency law
+14:20
+So therefore, looking into the complexity involved, the committee of creditors can take a decision whether they would like to go for two valers or they would like to go one valuation. So this is also since there may be in future, there may be a possibility that the government is thinking of kind of introducing the insolvency law for partnership firms for individuals other than personal grunters. 
+
+14:48
+So therefore this kind of relaxation for msme is also a kind of welcome. so the even Swiss rebon has also said in the case of even insolvency law committee also said that this is something which some kind of relaxation is required for smaller companies. Now let us understand what is the proposed amendment in regulation 27, which is the starting section where the RP is under obligation to appoint valuers. 
+
+15:17
+Now the present regulation says that the RP is supposed to appoint two registered valuers and now the regulation says that the res the osed regulation is the resolution professional shall, within 7 days from his appointment, but not later than 47th Day from the in insolvency commencement date, appoint registered valuers to determine the fair value and liquidation value of the corporate dat in accordance with the regulation 35, as under now in the regulation in the regulation the Clause a see and the further in regulation 27, it is said that one registered value in case the corporate data is msme or its asset size, up to rupees 1 000 CR as per the latest available balance sheet, provided that the committee may decide with reasons to be recorded 2,2 registered value in case asset size is small in case the company's MSM still the committee of. 
+
+
+## Appoint two registered valuers for creditors
+16:25
+Creditor has the power to appoint two registered valuers, but the committee of creditors will have to record reasons why they want two registered valuers. That it is a thoughtful decision. It is not a decision which is just by impulsive. Then in case the assets are more than 1 000 CR as per the latest book value and the company is not msme, then the requirement is to appoint two registered bance. 
+
+16:57
+Then the requirement is two registered valuers. Now in this case anit, when we say the word class of asset has been removed. Now it is proposed that for each class it is now removed earlier. it was very clear that in case we read regulation 35, it is very clear that for each asset class, the value has to be appointed to estimate of a value in an asset class. Now that asset class word has been removed. 
+
+17:37
+So that means that a one valer can be appointed and that valer can also take input from the other experts. So this is which is the significant part of the amendment, that instead of six valuers instead of valer for each class of assets like land and building plant and Machinery, Securities and financial assets, now there is a requirement of appointing one valer and the power has been given to that valer to take input and also take separate reports if required from other valers. So anit, I think you need to provide some more input on this. 
+
+
+## 82 of company's registered value and valuation rules envisages the idea
+18:19
+What is this significant and one valer and he has the power to take input from the other valuers or from experts. I think you need to explain this in detail. So basically, rule 82 of company's registered value and valuation rules envisages the idea, rather even seven. 7 C also talks about that. So 7 C talks about conditions of registration and 7 talks about conditions of registration. 
+
+18:53
+7c says that the registered valuer shall not conduct valuation of the assets or classes of assets other than for which he or he or he or she has been registered by. The Authority. then 82 talks about. 
+
+19:09
+It simply says that the registered valuer May obtain inputs for his valuation report or get a separate valuation for an asset class conducted from another registered valuer, in which case he shall fully disclose the details of the inputs and the particulars Etc of the other registered value in his report. 
+
+
+## Regardless of inputs or valuation by the other registered valuer, the original registered value should
+19:27
+And then it also says is that irrespective of the nature of inputs or valuation by the other registered valuer, the original registered value should continue to be responsible and liable towards the valuation report. 
+
+19:41
+So this is all centered around the idea that there is a possibility that let's say I'm giving you some, giving you an example that a Securities of financial assets valuer is given the task of valuing the company as a going concern and he finds that there are certain non operating assets in the company, which might be a land and building, might be a plant and machinery, and he now wants to get a valuation done for those assets so that he can add that value in the total value and then give a value to the client. 
+
+20:10
+So in that case he has to go to a go to another registered value, take his report and make that report a part of his own report, and then he can say that yes, this is what I have trusted on. I have ensured that this report is also as per the standards, as per the regulations, and I have taken this value, so the ownership does not change. 
+
+
+## IBC Report: What Is the Value for the Assignment?
+20:29
+He continues to be responsible for that report as well, but he can trust on an independent valuers report to come out with the value for the assignment that was given to him. 
+
+20:40
+Now, if we invisage from the IBC perspective, now that one person says that I am, I am bidding for I am quoting for the valuation assignment of all three asset classes and that person says that I am, let's say the land and building valuer and the P&M valuer and SFA valuer will be this person and this person who will be who will I will be asking for giving me the report. 
+
+21:04
+So with the new regulations, the report or the Mandate can be given to that one person and that the other two people then can give support services in respect of giving that report to that person. This is what is in resarch. Now that this is this can happen now. Earlier we have seen practically what has happened is that there are certain individual valuers who work together. 
+
+
+## How to get appointed for the Liquidators
+21:27
+They would, you know, give a code together and they will give three different quotes for three different asset classes. Their appointment will happen in different man in different, differently by three appointment letters, but in a way they are working together. So this is a way out for them to escape the requirement of an RVE and still work as a team. so now I believe that if the entity is getting appointed. 
+
+21:54
+The Entity will again can always be appointed the way it was appointed earlier, for all C asset class entities. Partners can then work there. If the entity does not have, let's say, a specific partner for a specific asset class,. The Entity can choose to Outsource that work to another registered valuer and make that report part of their own report. That's also possible. So these are the changes that have happened. 
+
+22:17
+So now anit let us understand the. For the Liquidators or for the resolution professionals, it is not mandatory to issue six engagement letters: two valuers land and building two valuers planted machinery and two valuers for Securities and financial assets. the Liquidators and the resolution professionals are only supposed to issue two engagement letters. 
+
+
+## engagement letter: valers, valers, valers, valers
+22:44
+In that engagement letter they can also say that for other class of assets, you are authorized to take input or you are authorized to appoint other valers in case in case in case the appointment letter is being issued to a person who is not an entity who is not an so in case the entity also for all three asset classes. There are entities which are only for two asset classes. One asset classes. 
+
+23:07
+If the entity is for all three asset classes, the award can be given without this clause. also so in case the. This Clause can be given in the case of entity as well as in the case of individuals, because, see the basically the risk of the entire risk lies with the primary value. So there can be secondary valuers. This the risk of secondary valuers are not. They are not responsible towards the regulator. 
+
+23:34
+They are responsible towards the primary valer. They are responsible to the regulator also, but it becomes a dual responsibility. The person who is getting the work done from that valure. He also shares the responsibility. So see what do you think it is a this is something which is required, or this is a. This is a way out. 
+
+
+## dividing assets that go concern entity assets within different asset classes
+23:57
+This is a way out that has been thought of, because the feedback that went to ibvi was and I have given this feedback myself multiple times that let's say there is a going concern entity and that going concern entity has to be valued. Maybe you know, using multiple methods for the entity as a whole. Now dividing those that entity's assets going concern entity assets within different asset classes has always been a challenge. 
+
+24:22
+So we traditionally have always given one report for all three asset classes wherever the company is a going concern and wherever it is. You know the valuation methodology that can be applied is to Value the assets independently and or peace me basis. then we have given the value separately, but with the new regulations that came in earlier, where the requirement to compare the value was on an asset class level changed. 
+
+24:48
+That created a problem that many times the classification with respect to a particular asset class was a problem. Many of times there were certain assets which were belonging to the company which were a question as to where do you park them? Now? In one of the cases I remember that there was certain litigation that was happening with respect to a land. now. 
+
+
+## Right against this land is something that can be considered as a land and building asset also
+25:07
+We said that this right against this land is something that can be considered as a land and building asset also and as an SFA asset also, because it's not a land and building right, but it is a right in a land and building. So there can be complex assets in a company like that. Similarly, in case of a going concern, there can be intangible assets which are not part of books of accounts. 
+
+25:27
+There can be Goodwill that is not part of the books of accounts. Now, in case somebody says that okay, you value the asset separately and value the going concern entity separately, there might be some values which are not making any sense at all. So in one in few of our cases, we also found paintings. we also found jewelry, which is neither the part of which is nowhere in the three classes clity. 
+
+25:51
+So you kind of say that okay, these are maybe SFA assets, because they're clearly not land and building or P&M ass. You put them in the remaining categ. There are specialized people. They value the artifacts. They value the so rule. So rule A2. Rule A2 allows you to appoint those experts. Rule A2 is very clear that you can appoint experts or valuers were required with respect to certain asset classes. So this is now. 
+
+
+## Q&A: What is the difference between the two amendments?
+26:19
+I think this is the time that on these two value the two amendments, we can take questions and we can also take some people who are who want to say ask question. 
+
+26:30
+So one question that has come from Ravi G is that in some cases the RPS are appointing the values but even after five months there are, they're not able to provide provisional balance sheet as on CRP commencement date because of non cooperation from the promoters AS Val they're protecting, they're sending regular reminders, but they're not getting this information. 
+
+26:50
+So my answer to Ravi G is that, RI, you can always talk to the RP in this case and understand that you can give a report which is based on an earlier balance sheet, because the provisional balance sheet or balance sheet has only one role to play, which is that whatever is the that one role to play, that is that whatever are the Assets in the financial statements are covered or taken care of by the Valu, in case the latest balance sheet is not available, you can use the earlier balance sheet. 
+
+
+## RP entrusts SF value to carry out CD's valuation under IBC
+27:18
+I don't think this is a deal breaker for the RP or the value. You can actually proceed with valuing those assets which are physically available out of the assets which are which were reflecting in the re balance sheet of the company. then Amir G are saying that is it mandatory for RP to entrust the SFA value to carry out CD's valuation under IBC? What about valuation during liquidation? SFA value is not mandatory. 
+
+27:46
+In any case, you one can always appoint other valuers. SFA Valu is required to be appointed only where you know. We feel that the there are SFA assets in the company which are requiring a valuation. 
+
+27:58
+But now, as for the proposed valuation regulations, even the resolution professional can appoint a SF valuer and then it becomes the duty of the SF valer to engage somebody who can value land and building and also to engage somebody who can value plant and machinery and other assets if any, like the artifacts like the jewelry or any other. I opinion. I'm of the opinion that can be the other way around. 
+
+
+## Amir G is asking the question of SF Val.
+28:26
+Also, there is no mandate that it has to be an SF Val. It can be land and building valer who is getting everything else done from other Val, any one Val. No, there is no requirement per se in these changes that have come out that only an SFA valuer is required to be appointed. 
+
+28:41
+No, I think anyone who has a better connect in the market, who has a better credibility in the market, he will fetch the assignment and he will be able to give the work to Landon building valer and to plant valer and to the jewelry valuation and to the like artifacts valuation, that kind of the one value that will be engaging. He will be taking the decisions about the other values. 
+
+29:07
+So this is what is the present regulation and any other question? Then we have Mr iswaran. He says that there is a method open for valuation valuers for to for Enterprise value of the asset which is defective. I didn't understand the question Amir G is asking. Do all the three asset class values present before COC to explain the valuation mechanism or as per the revised regulations of IBC? So it is up to the valuer? 
+
+
+## How to authenticate work of a valuer
+29:37
+Like we always, when we present the valuation reports, we take our team along with us, not only the registered value partners, and so the objective is that if there is any question at all which needs to be answered, it can be taken care of by our team. So we never say that others are required or not. 
+
+29:56
+So I think if somebody has done the work and he can be part of a meeting and you can clarify, if any, if there are any questions, that's always better then gtia G is saying as discussed a valuer as for the proposed amendment can take inputs. Is the term input inclusive of report? If yes, my question is how one valuer can authenticate work of the other valuer. It's not Au authentication. 
+
+30:21
+It is taking responsibility that the valuation report is as per the regulations. As per the rules, all the components or contents which are required to be part of a report are already there in that report, so that I believe one valuer can always understand that whether these 8,10.20 requirements are taken care of by the value he's working with or not he continues to be. this is like a. 
+
+
+## yogesh gup G says he's a good valer
+30:45
+It's like if you delegate some work, you continue to be responsible. It's like that theory. No, even otherwise the wording mentioned there is the take input or take a report from other valer. So even input and a report, both are the options available. 
+
+31:04
+And in case the input is taken, I believe it is the duty of the appointed valer to create evidences about the source of this information in case he has got it some from some other expert. That's what we feel, then. I'm asking yogesh gup G to speak. He has raised his hand on same continuation of the last question. 
+
+31:35
+I mean can the valer do the job of plant and Machinery SFA valuer do the job of a plant and Machinery valuation or land and building valuation on its own, or he is compulsorily required to take the exports opinion on the valuation of plant and machinery and land and building rule 7c bar the value from taking up the valuation of an asset class for which he's not registered. 
+
+
+## What is the logic behind this change?
+32:03
+So therefore the possibility of him doing the valuation on his own is not available at all. So what is the logic behind this change? If one Val is appointed logico required logic is that the ibbi, I believe in IBC process was discomforted by three valuation reports coming in and then the three valuation reports being matched with the other report. so. 
+
+32:29
+Therefore they change the mechanism that one report will come and one report will take care of all the asset classes and that report or that value can be compared with the other report. That is the idea. So issuing six engagement letters as against now one or two, depending upon the size of the corporate data. Okay, thank you, your voice is coming very low. I will. I will try and correct that. 
+
+33:00
+Then we have Mr PK Mishra and Mr anela if they can speak. Yeah, good morning. My question is very simple. What about the disclosure requirement in terms of when we find one valer for all the classic class of ass and he point like a to more value, different class of assets, then how we control the disclosure requirement? Very interesting question. 
+
+
+## Disclosure requirements for registered Vals
+33:34
+So disclosure requirements also need to be perhaps have that Amendment, because you are sharing information with the third party which is not perhaps interacting with the RP directly. So whenever you're sharing the disclosure requirements, whenever you're po pointing a maybe a third or fourth value to work with the registered Val, maybe an updated disclosure has to go to the RP's office. 
+
+33:58
+So the disclosure regarding two things anit one is the disclosure about any relationship with the corporate data. That, of course, is a separate disclosure. And the second is the disclosure about appointing another valer for some part of the valuation assignment and also disclosure for taking inputs from other valuers. 
+
+34:23
+So I believe, in the morning, me and you were reading some of the rules of the valuation rules and it was very clear that a particular asset would not be valued by a valuer in case he is not registered for that. I think that particular regul rule. 
+
+
+## SFA Valuer Will Not Conduct Assessment of Plant Machinery and Land Building
+34:42
+We have to show it on the screen to everyone that as per this rule, a SFA valuer will not be able to give any comment on the valuation of planted machinery and land Building. That rule is significant that we discussed before the webinar anit in the morning early morning today. Yeah, I can share it on the screen right now. So 7 C is what this is. 
+
+35:10
+So it says that the conditions of registration, the registration granted under rule six, shall be subject to the condition that the valuer shall, in his capacity as registered valer, not conduct valuation of the asset or assets or classes of assets other than for which he it has been registered by. The Authority. So this is what we're talking about. 
+
+35:31
+This is very clear that if a person is registered for land and building, he will not conduct valuation of other assets other than land Building. Yeah, even if he's given the assignment, but then he will Outsource it to somebody else, and that Outsourcing also should be disclosed to the RP and the RP can disclose this further to the creditors Committee of creditors. 
+
+
+## RP or Liquidator appointed valer appoint somebody as to more valuation
+35:57
+So that means if the registered valer which appointed by the RP or Liquidator and that valer appoint somebody as to more valuation valer, then he has to get the disclosure in same way as RP get from the appointed Val because how he will know what is the relation with between the third valer or fourth Bel with the CD and all. 
+
+36:24
+I think this is a indirect appointment of a professional which is the professional appointed by a professional. I believe presently the ibbi has not made any regulation for a for a then it is the duty of the primary professional to take similarly confidentiality undertaking from the other valuers who are getting appointed. In case of employees, the undertaking is always there in the appointment letter. 
+
+36:59
+But in the case of engaging another professional, I think the it is the duty of the appointed valer to take this kind of confidentiality undertaking from the other professionals who are being shared the information. Okay, thank you me. We have a question from Amir G sir. Good morning, sir. Sir, this is regarding 82 rule number 82 we are discussing here. 
+
+
+## Rule 81: Will the valer make valuation report as per internationally accepted valuation standards
+37:34
+I'm talking about rule number 81 wherein it is mentioned that the valer shall make valuation report as per internationally accepted valuation standards B valuation standards adopted by any registered valuers organization as a valer, whether the valer can use both the valuation standards because here there is no, there is no or it's no. It says or it says or INE read there is no or mention in here. Sir. third. It was. 
+
+38:07
+It was amended in 22 on 22nd November 22. Perhaps you are reading the earlier version, earlier version. Yeah, then okay, sir, okay, because in one of my report this is the revised version. It says: or see right, sir, okay, thank you very. It was already amended in 2022. So I think Mr pank Tia is also. Pank tala is our Kolkata based partner. He is also interested in speaking or he's also interested in asking a question. 
+
+38:45
+Yes, pank G. So basically my question, my view on this disclosure only so, MH, this was, I think, the way you have clarified. I am also thinking that way that the valuer the appointed valuer by the IRP or RP, as the case may be has to do this compliance at their end by taking this disclosure from the respective third valer with whom they are appointing and then can disclose themselves or can be done through the IRP or RP. Yes, I believe, yes, I think so very C, then a maybe you can say what you want to say. 
+
+
+## IBI Modified the Regulation to appoint three independent valers
+39:30
+Sir, yeah, good afternoon, in fact, in fact, the present proposal of amendment. I don't think that is required. I don't know why IBI is doing it, as per the Clause previously explained, where a valer can take a input from other valer or say, give the assignment to the other Val when there are number of assets within the assignment asset classes within the assignment. 
+
+40:03
+So in fact, if I remember correctly, when we started this in 2018 or early 19, I used to do similar kind of assignment, where I used to take the assignment and then it was being distributed among two more asset classes and there inputs were taken and then one combined valuation report we used to submit it. That was the modity. 
+
+40:28
+I don't know in between verbally what ibbi changed it and told the RPS to appoint three individual valers. there was that is nowhere mention in the regulation that three independent valers have to be appointed asset class wise. No, it is mentioned in the regulations. 
+
+
+## RP will appoint a third Val, even the sign
+40:50
+It is mentioned that in case the two valuation estimates received from two different valuers and that to for different classes, if those are significantly different from each other, then the committee of creditors will RP will decide to appoint a third Val, even the sign. I'm not referring to that, sir, I'm not referring to that. What I am referring. 
+
+41:13
+Three asset classes, like any, I means your insolvency assignment will have a three asset classes invol there land and building plant and machinery and Financial. It is comination of. We understand your question. It's a combination of valuation rules and also the regulations, the regulations when they defined, significantly different. they also refer to class of class of creditor class of assets. 
+
+41:45
+However, in the case of valuation rules anit, you can also point out the relevant rules, where it is said that the valer registered valer can only do valuation of those assets for which he is registered. So for other assets, it is either we have to appoint because see this Outsourcing the work or taking the input from experts. That was not there in the regulation. 
+
+
+## Val valuation for land, building plant, machinery, securities
+42:12
+So it was very clear that for each class of asset, the valuer has to be appointed because this rule, this regulation was not there, which is being inserted now. So therefore it was required to appoint and get a Val valuation separately for land and building plant and machinery and securities and financial assets. It was required that because why it was required? because the because the valers, because the valers were you take up? 
+
+42:44
+No, so you mean to say because this is existing in registered Val were rule since beginning, about the asset classes taking the expert opinion and all that Clause is since beginning itself. So you mean to say that this had to be brought in CP regulation. No, I think I think what we have clarified here is that the regulations required the value to be compared on asset class basis. 
+
+43:18
+Also it says that the Valu should be appointed for you know the for the whole valuation purpose. so when we read do both these Clauses together, the normal sense came out that we have to appoint either an entity which is qualified to take up valuation for multiple asset classes, or we have to appoint three different valuers for three different asset classes. There was no. 
+
+
+## Appoint a land and building value and then appoint other asset classes value
+43:43
+There's no Clarity on the fact that I can appoint a land and building value and then he will be indeed appointing other two asset classes value. So now, with these changes in the regulations, it has emerged now that rather it has is a direction towards the idea that we have to get the valuation done from one person. 
+
+44:02
+He will appoint two more valuers in case he wants to do that in case the asset classes are there all right. okay, I think Mr iswaran, who is our partner from, I also. Yeah, I also asked him to speak. Maybe isan G can unmute himself and say and speak. M morning, good morning, sir, morning, see. My question is: see. There are certain assets are the basic thing to create income. 
+
+44:37
+So land for the land and building. If the land is classified in the Wetland as a wet land, then for valuation purpose we cannot give you the dry land valuation. Similarly, if the assets, building and other things also is located in the Wetland, that there also in a wetland the promoter is not supposed to a license to construct building. but in particular one particular case which I'm also involved. 
+
+
+## Income from land and building valuers
+45:07
+The land is in the land classification is wetland and the building is constructed, is house, is without license, but that unit is making income of average 1,5 CR per month. So that mean even the asset is defective, but income is there. So in that case there is a method called to my information, Enterprise Value based on the last five years profit turnover and all the same. That is my question. 
+
+45:37
+This also is done by the land and building valuers. Not, we are not giving to investment valuation. I correct in this case? No, I believe I believe you are correct by saying that. but then somehow, because of the fire drill at this hotel where I'm staying today at Mumbai, there is a mock fire drill, so there was lot of noise. So therefore I could not hear anit. In case you can, you could hear. 
+
+46:10
+You can answer this. So, Mr. So what I think what I can ask is Mr E to just repeat that question, part of it. If you can just repeat, please, I will. I will particular the CD is cre having income from land and building. This is asset M. This land and building is situated in a defective way. That means the land, entire land is a dry land and in Kerala, in Wetland, it's AG land. 
+
+
+## Invest in a Land Value for a Land, but it is not worth it
+46:47
+They are not supposed to construct anything there. But this particular CD years back without obtaining licenses, has constructed all the land building and rooms and all and once the valuator is appointed. The valuation has also done. But valuators are not able to give the price for a wet dry land because the land is classified as wet land. That means if the particular land is me getting at least five lakhs per perent. They were not. 
+
+47:22
+They were not able to put that value. They were able to put only one lakh. Similarly, so understood the question. The unit is producing more, not less than 1,5 to two CR per month. Also so valuation point of view Che the value of the land value will be very low. so I told them we don't to consider Enterprise Value because was last five years. 
+
+47:50
+We understood now one that it is a question of unauthorized construction on a land now, but then this unauthorized construction by virtue of some time it is still having some value. The registered valer, I think, will make an estimate based on the income that particular unauthorized construction is earning and based on the capitalization method of the earning. 
+
+
+## Land Building Value: What is the best value for land and building valuation
+48:13
+And then the also the registered valuer will also see that in case of the law is enforced, then that building can be even erased, it can be removed from that land. Then what would be the value? I think the best estimate would be take a mean of these two values. one is the present value based on the income and the other is the income in case this law is enforced. 
+
+48:41
+And then what would be the value so mean of these two can be the best value for such assets. Anit is a registered value. He can even he can even suggest anything better than what I said. So this is a clear case of land and building valuation only. There is no other asset involved here. 
+
+48:57
+But land Building valuation can also be done using income method and you know wherever the properties are leased out, the properties having some rental income. It is possible to estimate the future cash flows and value the land and building accordingly. And of course there's always this idea of providing for any un U unsanctioned unregulated construction. there are two ways to go about it. 
+
+
+## How to appoint a land and building valuer for a dry land
+49:19
+One, if there is any compounding or any way, any expense which can be incurred to regularize this, or any conversion charge for converting this wet to dry land that is taken care of. Otherwise, the other alternative is to put in a risk premium and then, using that risk premium, you discount the cash flows with a with a higher number, decreasing the value to that extent. 
+
+49:40
+So this is the normally the practice in this kind of evaluation. My point is: under the new change law will there is any change because third need to under the new Under the new regulation also, you will be required to appoint a land and building value or even earlier for this kind of an asset in the company. 
+
+49:58
+You would have required to appoint a land and building valuer because there are no other operations in the company. Now I will give you another example. Let's say that this building is not rented out and this building is being used by the company to generate cash flows doing some business now. 
+
+
+## Property and Building Assessment: How to Value the company as a going concern
+50:14
+In that case, there will now be a requirement to Value the company as a going concern and also value maybe the land and building separately, in case you would want to do have that happen. 
+
+50:23
+So therefore, then you will have two asset classes coming in, but since this building is earning rental income, it is a clear case of land and building valuation only unless and until you have some other Assets in the company, which are SFA or P&M assets. 
+
+50:38
+So we need to cover more and I think we have to move to the next part of the amendment, which is the appointment of authorized representative in the case of class of creditors, so the presently the ibbi has seen that the difficulties are being felt by the while the is appointed and the AR is appointed like IRP has to identify. Let us understand the present process. 
+
+
+## IRP has to identify three proposed ARs and IRP has to take their consent within the
+51:08
+IRP has to identify three proposed ARs and IRP has to take their consent within the first three days so that their name is published along with the form a inviting the claims. then I see even this is also a very herculan job to find out three people and that two from the same city or same state, from the same state where most of the class of creditors are residing or having their operations or business. 
+
+51:41
+Then the voting. Everyone who would be submitting their claims will have to choose one out of the three ARS then comes is the highest number of the consents received. Then the IRP will see who has got the highest number. Then accordingly the IRP will file an application before the adjudicated Authority for approval of the AR, so that the AR gets appropriate powers from the order of the nclt and then the first meeting will take place. 
+
+52:16
+Now the issues are that the RP is doing everything correctly, the claims are being verified, the maximum number of preferences have been seen and the RP has filed the application for approval of the appointment of AR before adjudicating Authority. But somehow, for some reasons, that order for appointment of the air is not received before the first meeting, because the first meeting has to be done within 30 days so thereafter. 
+
+
+## What is the position of the AR has actually been. It is only the maximum consents given
+52:41
+Now what is the position of the AR has actually been. It is only the maximum consents given by the Home, by the class of creditors, and then the application has been submitted. Order has not come. The AR cannot function. 
+
+52:59
+AR cannot come in the meeting AR because this is what is thought now when we do this, it actually will cause some kind of inconvenience and the rights of the class of creditors will actually get kind of like Disturbed. So therefore the ibbi thought that there should be some amendments in the regulations. 
+
+53:21
+Now the there are two things that has been allowed by the ibbi: one that even if the adjudicating authority has not given the approval, the AR can be can attend the meetings of the committee of creditors and AR can come and appoint as interim AR can also work as interim a till the time the order is received. 
+
+
+## Appointment of AR: Appointment of adjudicating authority
+53:47
+Also it is recommended then, when an application is submitted to adjudicating Authority for approval of the AR, there should be one of the ground that the this person, the proposed air, are being admitted as interim authorized representative and is taking Powers take Taking participation in the process, and that should also be ratified. So this kind of prayer is also recommended and because this is also based on various judgments where these kind of disputes were raised. 
+
+54:24
+And now the amendment rule 16a is amended and there is a provisor which is being added and the provisor says the provided that the insolvency professional selected under subregulation one to act as the AR for a class of creditor shall be entitled to attend the meeting of the committee of creditors and perform such duties as provided under Section 25A, from the date of submission of the application for his appointment as authorized representative to the adjudicating Authority, till such date of his confirmation by. 
+
+55:00
+The adjudicating Authority. now this is the scenario, and I believe in the proposed regulation. It is not said, but in the Preamble it is also said that While submitting the application to the adjudicating authority, it should also be said that the AR is participating in the minutes in case the order is delayed, so that the adjudicating authority can also ratify all the actions taken by the AR before the date of the appointment. 
+
+
+## A welcome amendment to adjudicating Authority
+55:32
+However, after the date of submission of the application to adjudicating Authority. So any comment on this from your side an I think this is fair. I don't see anything else that I can add to it. So in fact, anyway I would not comment. But then I say this: this is a welcome. 
+
+55:55
+This was a need which in fact we felt in various cases and we felt that the in case the AR is not representing in the class of creditors how the meeting would be conducted, the right rights of that class of creditors would be adversely impacted. 
+
+56:10
+So we in fact allowed in some of the cases, after taking permission from the committee of creditors, to admit AR in the meeting and also to conduct the voting through the AR, so that in fact we have done in some cases just to take look in look after the interest of the class of so an. The next amendment is the release of guarantees in the resolution plan. So this is also based on various contradictory judgments. 
+
+
+## judgment which is lit Kumar Jan versus Union of India
+56:37
+So one judgment which is lit Kumar Jan versus Union of India, which is regarding the kind of constitutional validity of initiating insolvency process of personal grunters. In this judgment it was very clearly said that the grter liability the when the resolution plan is approved and the resolution plan is also approved by the committee of creditors, that will not be considered as the wer of the W of the personal grunters. 
+
+57:16
+So it is very clear that even after the resolution plan is approved, the Financial creditor who has the corporate guarantee or personal grante, they can proceed against the grunters. So the grunters can be corporate grunter or it can be personal grunters. But the grunters can be proceeded against by the creditors even after the resolution plan is approved. now in this case this one, this is very clear that the this kind of judgments were also there. 
+
+57:48
+But in case we see, like the lit Kumar Jan like, it was very clear and in some of the other judgments, in some of the other judgments, like the in enet judgment in SVA family welfare trust versus uas energy limited. So in this case the resolution plan was approved, where the personal grunter responsibility was also kind of settled and that was also kind of waved in the resolution plan. 
+
+
+## NT rejected resolution plan and anlat referred the Judgment of Vija
+58:22
+So there a question was arised that like: what about the rights of Bank OFA, who has not voted in favor of the resolution plan and Bank OFA is a like kind of abstaining or is a dissenting creditor? 
+
+58:38
+Now the NT rejected the resolution plan and anlat on an appeal enat in fact approved the resolution plan enat also referred the Judgment of Vijay Kumar Jan versus Standard Chartered Bank, where it was observed that approval of resolution plan binds personal grunters and may scale down the debt of the principal letter, thereby affecting the personal gr liability lit Kumar Jan was also referred.commercial wisdom of the committee of creditors were also referred, but the decision was that yes, the personal guarantee can also be resolved through a resolution plan. 
+
+59:19
+That was the decision of anlat in this case, which is the ujas energy limited. but looking into this, the ibbi thought that it is better to clarify this because there are a lot of litigation which is like around this issue. Now, in the regulation 37, one resolution, like reduction in the amount payable to the creditors, is 37f. 
+
+
+## resolving corporate guarantee - 37f regulation F
+59:45
+Now, in this 37f, a provisor has been added, which is regulation 37 sub regulation F A provisor provided that a resolution plan shall not prevent the creditors from enforcing their rights against the grunters of the corporator. That means the resolving personal guarantee or resolving corporate guarantee is not possible through the resolution plan now. So the corporate guarantee and personal guarantee in case it has to be resolved it has to be resolved separately. 
+
+1:00:23
+It cannot be clubbed together with a resolution plan. that is something which is primarily to prevent various kind of kences, various kind of conflicting judgments. So this clarification is the most welcome clarification that should be like honored. So then coming to the another note on the format of the liquidation process report, now the format on the liquidation process report, in case we try to see that is something which is a simply a format. 
+
+1:01:03
+It is not a discussion paper. It was released on 21st of June 2024. However, this format again it was like public comments was report invited instead of discussion paper. ibba has called it as a format and this is also have reference to a Circ circular of the ibbi dated 22nd of February 2024, which actually says that this progress report quarterly progress report should be also shared with the stakeholders consultation committee, provided they issue a confidentiality undertaking. 
+
+
+## Liquidation Process: How to calculate valuations
+1:01:40
+So this was also a reason this was also a way the stakeholder consultation committee or all the stakeholders are kind of appraised about the liquidation process. Now this format is in fact very EXT ensive, so this will increase a lot of work for the Liquidators. So this has the details, like all the details of the liquidation process is actually covered in this quarterly report format. 
+
+1:02:08
+Details of the corporate data, like the name of the Liquidator, whether it's a going concern or not. valuation processes. The valuation during the liquidation process. Insolvent sequenc dat. Professionals appointed with the date, then synopsis of whether the what was the reasons of the comp going into liquidation. Present status of the process in English. Then the list of the various events actions like from the liquidation commencement date to the previous progress report. 
+
+1:02:37
+Everything has to be mentioned date wise, like for that all one quarter date. Wise progress has to be mentioned in this progress report and the summary of receipt and payment is separate and detailed summary detailed receipt and payment account is separate. So summary of the receipts are also categorized. What was the original balance? What is the now received? 
+
+
+## Payments made, payments made, how statutory authorities went concern Revenue
+1:02:58
+What are the payments made and then the how the money has come in from the sale of assets, from assignments of asset receivables, recovery and recovery from statutory authorities going concern Revenue. All this has to be mentioned separately and then all payments have to be mentioned separately. One is that the even the nonf fund based exposure of the banks is also supposed to be mentioned in this format. How many per forance grantees are outstanding? 
+
+1:03:27
+How many Financial grantees are outstanding? How many letter of credits are outstanding? How many Comfort letters are outstanding? All these are called non fund based exposure and what is the total outstanding? How are the these being attended to? So then the distribution made to each and every creditor. That is also supposed to be mentioned. there are lot of an exit that we are supposed to appoint. 
+
+1:03:52
+That means wherever we appoint a professional, the one document has to be attached. That means engagement letter or in case cation of professional, then also a kind of document which is evidencing the cation of that appointment of a professional. Then the any kind of security interest which is not relinquished in favor of liquidation estate. 
+
+
+## What was the gap between the meetings?
+1:04:16
+The Liquidator is supposed to keep a track of it and supposed to keep report on it and supposed to see the information, seek the information from those persons who have the security interest of those assets and also keep a track when it was sold and for how much it was sold and whether there was any account which has to come back to Liquidator, any asset which has not been put up for sale and why it has not been put up for sale. 
+
+1:04:40
+All this is a detailed information and also constitution of the stakeholders consultation Committee. In case there are many workmen, in case there are many employees, then the Liquidator has to facilitate them to appoint one representative. In case there are many government authorities, then the Liquidator has to actually facilitate them to appoint one representative. 
+
+1:05:05
+In case there are many shareholders, then the Liquidator has to facilitate them to appoint one person who has three representing the stakeholders, similarly operational creditors, similarly home buyers, similarly Venture creditors. So the Liquidator has to facilitate a process where they would appoint their representative to participate into the ass CC. Then the when? How many meetings happened? What was the gap between the meetings? Why the meeting delayed? Why the meeting was not there? 
+
+
+## Review of the Liquidator's quarterly statements
+1:05:35
+As for the remind as for the revised regulations, so considering this like the job of the Liquidator has increased to a great extent, the scope of work of each professional has to be mentioned. Engagement letter was issued or not, date of appointment, fees, payable everything and is supposed to be reported every quarter and this report will also go to stakeholders, consultation committee members. assets put up put up for sale? 
+
+1:06:07
+How many failed auctions, assets which are not being put up for sales? Buet transaction details, other litigation pending what kind of recovery processes are being conducted? Detailed receipt and payment account. All this has become part of the quarterly exercise for each case. So this is what anit we have today. Already it is one hour or 7 minutes. 
+
+1:06:35
+I think I don't think we have now time for adding more questions, but still we can take only two questions about, and that should not be about valuation. That should be the other amendments to the cirp and also the format for liquidation quarterly statements. 
+
+
+## What will be the status of AR proposed by him?
+1:06:54
+So I will try and find out a question is that if IP has been replaced in first COC meeting and AR is not appointed, what will be the status of AR proposed by him? No, that status will continue because that AR is not proposed by the IRP. That has been opted by the claimants. 
+
+1:07:16
+So the irps only have made an application to adjudicating Authority and that application will continue and that application will be decided by the adjudicator Authority and that person will continue in case it is appointed by. The adjudicating Authority. Thra is asking: can the AR vote behalf? Can a vote on behalf of the class of creditors before he's officially appointed by NT? 
+
+1:07:40
+No, he cannot do that because otherwise also the AR doesn't have any power to vote he now, after this proposed amendment, he will be. He will be considered as interim a and he will be doing all the functions of a. This is after the amendment. Now this amendment is proposed that he would be functioning before the order of the adjudicating authority and he will be functioning fully without any restriction. 
+
+
+## Application for Guarantee: Personal respons, granter are still responsible for Guarantee
+1:08:05
+However, the application will also contain a kind of clause informing. The adjudicating Authority that the AR is also functioning from the date of submission of application to n the. Another question is that if creditors have accepted extinguishment of debt in residuation plan, then personal guaran is still responsible for Guarantee. Personal respons, personal granter are responsible for Guarantee. There is no. even if they have extinguished the debt is extinguished in the resolution plan. 
+
+1:08:42
+That is the clarification also that has come in now. Yeah, I think that's about it. yep, so I think thank you very much again a pleasure to be connected with you and as we always say that this is our way of learning. thank you, thank you, thank you everyone. 
+
+
+
+Transcribed with [Scribe](https://www.appblit.com/scribe)

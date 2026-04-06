@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://www.resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar - professionals</title>
+        <description>Digital Agents for IBC Processes</description>
+        <link>https://www.resolutionbazaar.com/</link>
+        <image rdf:resource="https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-04-27T18:17:03+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:case_management_system&amp;rev=1745573818&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.resolutionbazaar.com/doku.php?id=professionals:directory_map&amp;rev=1745638288&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://www.resolutionbazaar.com/</link>
+        <url>https://www.resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:case_management_system&amp;rev=1745573818&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-25T09:36:58+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>case_management_system</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:case_management_system&amp;rev=1745573818&amp;do=diff</link>
+        <description>CASE MANAGEMENT SYSTEM
+
+
+
+
+
+
+PROCESS WORKFLOWS
+
+	*  Leads Management
+	*  Compliance Management
+	*  Claim Management</description>
+    </item>
+    <item rdf:about="https://www.resolutionbazaar.com/doku.php?id=professionals:directory_map&amp;rev=1745638288&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-26T03:31:28+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>directory_map</title>
+        <link>https://www.resolutionbazaar.com/doku.php?id=professionals:directory_map&amp;rev=1745638288&amp;do=diff</link>
+        <description></description>
+    </item>
+</rdf:RDF>

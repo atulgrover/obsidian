@@ -1,0 +1,36 @@
+<html>
+<p>
+	<p>
+		<p>
+			Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.
+		</p>
+	</p>
+	<h2>
+		National Company Law Appellate Tribunal
+	</h2>
+	<h2>
+		Uttrakhand Power Corporation Ltd vs M/S. Ang Industries Ltd on 24 January, 2018
+	</h2>
+	<p>
+		 NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI Company Appeal (AT) (Insolvency) No. 298 of 2017IN THE MATTER OF:Uttrakhand Power Corporation Ltd. ...AppellantVs.M/s. ANG Industries Ltd. ...RespondentPresent:For Appellant: - Shri Pradeep Misra, AdvocateFor Respondent:- Shri Ishaan Madan and Ms. Sakshee Sharma, Advocates ORDER
+	</p>
+	<p title="Fact" data-structure="Facts">
+		24.01.2018- The appellant - Uttarakhand Power Corporation Ltd. was supplying electricity to the Corporate Debtor - M/s. ANG Industries Ltd. Due to failure of payment, the electricity supply was disconnected on 28th August, 2017. In the meantime, an application for Insolvency Resolution Process under Section 10 was filed by the Corporate Applicant wherein the Adjudicating Authority (National Company Law Tribunal), New Delhi Bench passed order on 31st August, 2017 admitting the application and imposed moratorium in terms of the Insolvency and Bankruptcy Code, 2016. The Insolvency Resolution Professional was supposed to ensure that the company remains on-going, therefore, he filed an application for restoration of electricity, which was allowed by the Adjudicating Authority by the impugned order dated 9th October, 2017. The appellant - Uttarakhand Power Corporation Ltd. restored electricity on 12th October, 2017 but having not paid 2 the outstanding dues challenged the impugned order dated 9th October, 2017 in this appeal.
+	</p>
+	<p title="Petitioner's Argument" data-structure="PetArg">
+		2. We have heard the learned counsel appearing on behalf of the appellant and the learned counsel for the Insolvency Resolution Professional.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		3. Taking into consideration the fact that the order of moratorium has been passed by the Adjudicating Authority on 31st August, 2017, we are of the view that the appellant - Uttarakhand Power Corporation Ltd. cannot recover any amount due for the period prior to 31st August, 2017 though it will be open the appellant to submit the claim before the Resolution Professional. Insofar as the current charges are concerned, we hold that the appellant is entitled to the electricity supply charges from the date of restoration of electricity i.e. from 12th October, 2017 and the Resolution Professional is required to pay the amount on behalf of the Corporate Debtor on month-to-month basis.
+	</p>
+	<p title="Court's Reasoning" data-structure="CDiscource">
+		4. In these circumstances, we direct the respondent - M/s. ANG Industries Ltd. / Insolvency Resolution Professional to pay the current electricity charges to the appellant for the period from 12th October, 2017 onwards. The appellant will raise the electricity bill for the period from 12th October, 2017 to 31st October, 2017; November, 2017 and December, 2017. The respondent - Corporate Applicant through Resolution Professional will pay the outstanding dues in instalments - first instalment for the month of October, 2017 to be paid by 15th February, 2018, and the dues for the month Company Appeal (AT) (Insolvency) No. 298 of 2017 3 of November be paid by 28th February, 2018; dues for the month of December, 2017 be paid by 15th March, 2018 and the dues for January, 2018 and February, 2018 be paid by 31st March, 2018. If the respondent fails to pay the amount within the stipulated period or in two consecutive months, it will be open to the appellant to give notice and disconnect the electricity supply of the Corporate Debtor.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		5. The appeal stands disposed of with the aforesaid observations. No cost.
+	</p>
+	<p title="Conclusion" data-structure="Conclusion">
+		(Justice S.J. Mukhopadhaya) Chairperson (Justice Bansi Lal Bhat) Member(Judicial)
+	</p>
+</p>
+</html>

@@ -1,0 +1,61 @@
+====== Companies Act 2013 ======
+
+{{tablelayout?colwidth="70px,150px,350px,250px,70px"&rowsHeaderSource=1}}
+^ Chap ^ Entity ^ Company Rules Title ^ code ^ Year ^
+| 00 | The Companies | Sections | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_sections:start]] | 2013 |
+| 01 | The Companies | Specification of definitions details | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap01_cc_sodd_2014]] | 2014 |
+| 01 | The Companies | Restriction on number of layers | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap01_cc_rnol_2017]] | 2017 |
+| 02 | The Companies | Incorporation | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap02_cc_incorp_2014]] | 2014 |
+| 03 | The Companies | Listing of equity shares in permissible jurisdictions | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap_03_cc_lespj_2024]] | 2024 |
+| 03 | The Companies | Prospectus and Allotment of Securities | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap03_cc_pas_2014]] | 2014 |
+| 03 | The Companies | Issue of Global Depository Receipts | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap03_cc_igdr_2014]] | 2014 |
+| 04 | The Companies | Share Capital and Debentures | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap04_cc_scd_2014]] | 2014 |
+| 04 | The National Company Law Tribunal | Procedure for reduction of share capital of Company | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap04_nclt_prsc_2016]] | 2016 |
+| 05 | The Companies | Acceptance of Deposits | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap05_cc_aod_2014]] | 2014 |
+| 06 | The Companies | Registration of Charges | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap06_cc_roc_2014]] | 2014 |
+| 07 | The Companies | Management and Administration | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap07_cc_maa_2014]] | 2014 |
+| 07 | The Companies | Significant Beneficial Owners | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap07_cc_sbo_2018]] | 2018 |
+| 08 | The Companies | Declaration and Payment of Dividend | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap08_cc_dpd_2014]] | 2014 |
+| 08 | The Investor Education and Protection Fund Authority | Appointment of Chairperson and Members holding of meetings and provision for offices and officers | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap08_iepfa_acm_2016]] | 2016 |
+| 08 | The Investor Education and Protection Fund Authority | Accounting Audit Transfer and Refund | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap08_iepfa_aatr_2016]] | 2016 |
+| 08 | The Investor Education and Protection Fund Authority | Recruitment Salary and other Terms and Conditions of Service of General Manager and Assistant General Manager | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap08_iepfa_rst_2017]] | 2017 |
+| 08 | The Investor Education and Protection Fund Authority | Manner of Recruitment and Terms and Conditions of Service of Public Relation Officer and Assistant Manager | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap08_iepfa_mrt_2024]] | 2024 |
+| 09 | The Companies | Accounts | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap09_cc_acc_2014]] | 2014 |
+| 09 | The Companies | Filing of Documents and Forms in Extensible Business Reporting Language | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap09_cc_fdf_2015]] | 2015 |
+| 09 | The Companies | Indian Accounting Standards | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap09_cc_ias_2015]] | 2015 |
+| 09 | The Companies | Corporate Social Responsibility Policy | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap09_cc_csrp_2014]] | 2014 |
+| 09 | The National Financial Reporting Authority | Manner of Appointment and other Terms and Conditions of Service of Chairperson and Members | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap09_nfra_moa_2018]] | 2018 |
+| 09 | The National Financial Reporting Authority | Rules | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap09_nfra_rules_2018]] | 2018 |
+| 09 | The National Financial Reporting Authority | Recruitment Salary Allowances and Other Terms and Conditions of Service of Secretary Officers and Other Employees of Authority | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap09_nfra_rsa_2019]] | 2019 |
+| 09 | The National Financial Reporting Authority | Meeting for Transaction of Business | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap09_nfra_mtb_2019]] | 2019 |
+| 09 | The Companies | Accounting  Standards | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap09_cc_actstd_2021]] | 2021 |
+| 09 | The National Financial Reporting Authority | Appointment of Part-time members  | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap09_nfra_aptm_2022]] | 2022 |
+| 10 | The Companies | Audit and Auditors | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap10_cc_aaa_2014]] | 2014 |
+| 10 | The Companies | Cost Records and Audit | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap10_cc_cra_2014]] | 2014 |
+| 11 | The Companies | Appointment and Qualification of Directors | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap11_cc_aqd_2014]] | 2014 |
+| 11 | The Companies | Creation and Maintenance of databank of Independent Directors | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap11_cc_cmdid_2019]] | 2019 |
+| 12 | The Companies | Meetings of Board and its Powers | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap12_cc_mbp_2014]] | 2014 |
+| 13 | The Companies | Appointment and Remuneration of Managerial Personnel | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap13_cc_armp_2014]] | 2014 |
+| 14 | The Companies | Inspection Investigation and Inquiry | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap14_cc_iii_2014]] | 2014 |
+| 14 | The Companies | Arrests in connection with Investigation by serious Fraud Investigation Office | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap14_cc_acisfi_2017]] | 2017 |
+| 15 | The Companies | Compromises Arrangements and Amalgamations | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap15_cc_caa_2016]] | 2016 |
+| 17 | The Companies | Registered Valuers and Valuation | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap17_cc_rvv_2017]] | 2017 |
+| 18 | The Companies | Removal of Name of Companies from Register of Companies | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap18_cc_rncrc_2016]] | 2016 |
+| 20 | The Companies | Winding Up | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap20_cc_wup_2020]] | 2020 |
+| 21 | A The Producer Companies |  | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap21_prod_co_2021]] | 2021 |
+| 21 | The Companies | Authorized to Register | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap21_cc_atr_2014]] | 2014 |
+| 22 | The Companies | Registration of Foreign Companies | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap22_cc_rfc_2014]] | 2014 |
+| 24 | The Companies | Registration Offices and Fees | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap24_cc_roff_2014]] | 2014 |
+| 26 | The Nidhi | Rules | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap26_nidhi_rules_2014]] | 2014 |
+| 27 | National Company Appellate Law Tribunal |  | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap27_nclat_rules_2016]] | 2016 |
+| 27 | National Company Law Appellate Tribunal | Recruitment Salary and other Terms and Conditions of Service of Staff Car Drivers | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap27_nclat_rst_2020]] | 2020 |
+| 27 | National Company Law Tribunal |  | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap27_nclt_rules_2016]] | 2016 |
+| 27 | National Company Law Tribunal and National Company Law Appellate Tribunal | Procedure for investigation of misbehavior or incapacity of Chairperson President and other Members | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap27_nclt_pimic_2020]] | 2020 |
+| 27 | The Companies | Transfer of Pending Proceedings | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap27_cc_tpp_2016]] | 2016 |
+| 27 | The National Company Law Appellate Tribunal | Salaries and Allowances and other terms and conditions of service of the Chairperson and other Members | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap27_nclat_sat_2015]] | 2015 |
+| 27 | The National Company Law Appellate Tribunal | Recruitment Salary and other Terms and Conditions of Service of Officers and other Employees | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap27_nclat_rst_2020]] | 2020 |
+| 27 | The National Company Law Tribunal | Salary Allowances and other Terms and Conditions of Service of President and other Members | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap27_nclt_sat_2015]] | 2015 |
+| 27 | The National Company Law Tribunal | Recruitment Salary and other Terms and Conditions of Service of Officers and other Employees | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap27_nclt_rst_2020]] | 2020 |
+| 28 | The Companies | Mediation and Conciliation | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap28_cc_mac_2016]] | 2016 |
+| 29 | The Companies | Adjudication of Penalties | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap29_cc_aop_2014]] | 2014 |
+| 29 | The Companies | Miscellaneous | [[rbz_datasets:insolvency_chatbot:laws_companies_act:mca_rules:mca_rules_chap29_cc_misc_2014]] | 2014 |

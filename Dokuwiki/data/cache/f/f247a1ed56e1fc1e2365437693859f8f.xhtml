@@ -1,0 +1,122 @@
+
+<p>
+{
+</p>
+<pre class="code">&quot;agentName&quot;: &quot;Audit Trail Reconstruction Agent (ATRA)&quot;,
+&quot;agentDescription&quot;: &quot;Reconstructs complex and potentially obscured financial transaction pathways from disparate data sources (bank statements, ledgers, etc.) to trace the flow of funds. Identifies hidden connections, intermediary entities, and the ultimate source/destination of funds, specifically aiding in the investigation of suspected PUFE transactions by providing a clear timeline and visual representation of financial activities.&quot;,
+&quot;version&quot;: &quot;1.0&quot;,
+&quot;status&quot;: &quot;Conceptual&quot;,
+&quot;goals&quot;: [
+  &quot;Accurately link related debit and credit transactions across multiple accounts, entities, and time periods.&quot;,
+  &quot;Reconstruct end-to-end transaction flows, even when obscured by multiple intermediary steps or entities.&quot;,
+  &quot;Visualize the movement of specific funds or assets over time.&quot;,
+  &quot;Identify circular transaction patterns (round-tripping) or unusual layering techniques.&quot;,
+  &quot;Map reconstructed transaction trails against relevant look-back periods for PUFE analysis.&quot;,
+  &quot;Correlate reconstructed trails with known parties (debtor, related parties, suspicious entities).&quot;,
+  &quot;Generate a verifiable and clear timeline of relevant financial activities.&quot;,
+  &quot;Provide supporting evidence for forensic analysis and potential recovery actions.&quot;
+],
+&quot;keyCapabilities&quot;: [
+  &quot;Multi-Source Data Integration: Merges data from bank statements, general ledgers, payment systems, and potentially other relevant sources.&quot;,
+  &quot;Transaction Matching Engine: Uses sophisticated algorithms (rules-based, fuzzy matching, potentially ML) to link related transactions based on identifiers (ref numbers), amounts (allowing for fees/FX), dates, and counterparty information.&quot;,
+  &quot;Sequence &amp; Flow Analysis: Orders linked transactions chronologically to build pathways.&quot;,
+  &quot;Graph Data Modeling: Represents accounts/entities as nodes and transactions as edges to model complex relationships and flows.&quot;,
+  &quot;Pathfinding Algorithms: Uses graph algorithms to find paths between specific start/end points (e.g., trace funds from debtor&#039;s main account to an unknown offshore entity).&quot;,
+  &quot;Timeline Generation: Creates chronological sequences of reconstructed flows, highlighting key events.&quot;,
+  &quot;Visualization: Generates flowcharts, Sankey diagrams, or network graphs illustrating transaction trails.&quot;,
+  &quot;Entity Resolution: Helps consolidate potentially fragmented views of the same entity across different data sources.&quot;,
+  &quot;Data Cleansing &amp; Enrichment: Handles data inconsistencies and potentially enriches data with external information (e.g., identifying beneficiary bank locations).&quot;,
+  &quot;Filtering &amp; Focus: Allows auditors to focus reconstruction efforts on specific accounts, time periods, transaction types, or flagged entities.&quot;,
+  &quot;Documentation Linking: Ability to link reconstructed transaction steps back to source documents/evidence (if available from DAVA/repository).&quot;
+],
+&quot;targetUsers&quot;: [
+  &quot;Forensic Auditors&quot;,
+  &quot;Insolvency Professionals / Resolution Professionals / Liquidators&quot;,
+  &quot;Legal Counsel involved in asset tracing and recovery&quot;
+],
+&quot;inputDataRequirements&quot;: [
+  &quot;Comprehensive Bank Statements (Essential - detailed transaction data).&quot;,
+  &quot;General Ledger (GL) / Sub-Ledger Data (Essential - internal view).&quot;,
+  &quot;Outputs from TPRA (Initial suspicious transactions to trace).&quot;,
+  &quot;Accounts Payable/Receivable details.&quot;,
+  &quot;Contracts and Agreements (context for payments).&quot;,
+  &quot;List of Known Related Parties &amp; Potential Suspect Entities.&quot;,
+  &quot;Relevant look-back period dates (e.g., from Insolvency Commencement Date).&quot;,
+  &quot;Potentially, wire transfer details (SWIFT messages - if available).&quot;
+],
+&quot;outputFormats&quot;: [
+  &quot;Reconstructed Transaction Flow Reports (Narrative or structured descriptions).&quot;,
+  &quot;Visual Transaction Flow Diagrams (e.g., PNG, SVG, interactive graph formats).&quot;,
+  &quot;Detailed Chronological Timelines of Fund Movements.&quot;,
+  &quot;List of Identified Intermediary Entities/Accounts involved in specific trails.&quot;,
+  &quot;Data Export for Graph Analysis Tools (e.g., GEXF, GraphML, CSV edge/node lists).&quot;,
+  &quot;Summary Report linking reconstructed trails to potential PUFE indicators.&quot;,
+  &quot;Audit log detailing the reconstruction steps and data sources used.&quot;
+],
+&quot;potentialBenefits&quot;: [
+  &quot;Unravels complex financial schemes designed to hide asset dissipation.&quot;,
+  &quot;Provides clear, intuitive visualization of fund flows, aiding understanding and explanation.&quot;,
+  &quot;Significantly reduces manual effort required for tracing funds through multiple hops.&quot;,
+  &quot;Identifies previously unknown accounts or entities used in suspicious activities.&quot;,
+  &quot;Strengthens evidence base for PUFE avoidance applications and recovery actions.&quot;,
+  &quot;Allows for more comprehensive forensic analysis by connecting disparate transactions.&quot;
+],
+&quot;requiredTools&quot;: [
+  {
+    &quot;toolCategory&quot;: &quot;Data Acquisition &amp; Integration&quot;,
+    &quot;tools&quot;: [
+      &quot;Database Connectors (SQL, etc.)&quot;,
+      &quot;File Parsers (CSV, Excel, PDF - especially text layer, MT940)&quot;,
+      &quot;OCR Tools (Tesseract, Cloud OCR APIs)&quot;,
+      &quot;ETL Tools (Pandas, Spark, Talend, etc.)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Processing &amp; Analysis&quot;,
+    &quot;tools&quot;: [
+      &quot;Data Manipulation Libraries (Pandas, Dask/Spark for large scale)&quot;,
+      &quot;Fuzzy Matching Libraries (e.g., FuzzyWuzzy, RapidFuzz)&quot;,
+      &quot;Entity Resolution Libraries/Frameworks (e.g., Zingg, custom logic)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Graph Processing &amp; Analysis&quot;,
+    &quot;tools&quot;: [
+      &quot;Graph Libraries (NetworkX - essential for analysis and algorithm implementation)&quot;,
+      &quot;Graph Databases (Highly Recommended: Neo4j, TigerGraph, ArangoDB - for storing, querying, and analyzing relationships efficiently)&quot;,
+      &quot;Graph Query Languages (e.g., Cypher for Neo4j, GSQL for TigerGraph)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Machine Learning (Optional)&quot;,
+    &quot;tools&quot;: [
+      &quot;ML Frameworks (Scikit-learn - e.g., for enhancing matching algorithms)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Data Storage&quot;,
+    &quot;tools&quot;: [
+      &quot;Graph Databases (as above, primary store for reconstructed trails)&quot;,
+      &quot;Relational Databases (for metadata, reference data)&quot;,
+      &quot;Data Lakes (for raw source data)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Visualization &amp; Reporting&quot;,
+    &quot;tools&quot;: [
+      &quot;Graph Visualization Tools/Libraries (Gephi, Cytoscape.js, PyVis, Graphistry, Neo4j Bloom)&quot;,
+      &quot;Reporting Libraries (ReportLab, FPDF)&quot;,
+      &quot;Business Intelligence Tools (Optional, for timeline views - Tableau, Power BI)&quot;
+    ]
+  },
+  {
+    &quot;toolCategory&quot;: &quot;Workflow Orchestration&quot;,
+    &quot;tools&quot;: [
+       &quot;Workflow Management Tools (Airflow, Prefect) &quot;
+     ]
+  }
+]</pre>
+
+<p>
+}
+</p>

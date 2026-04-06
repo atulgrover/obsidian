@@ -1,0 +1,1 @@
+2025-04-10 07:04:37		JSON::encode() is deprecated. It was called from action_plugin_move_rename::handle_ajax() in /home/resokied/public_html/dataset/lib/plugins/move/action/rename.php:125 json_encode should be used instead!

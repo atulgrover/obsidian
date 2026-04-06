@@ -1,0 +1,3 @@
+~~NOSIDEBAR~~ 
+{searchform}
+{{indexmenu>rbz_documents:#1|js navbar nocookie}}

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://resolutionbazaar.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://resolutionbazaar.com/feed.php">
+        <title>Resolution Bazaar</title>
+        <description>AI Agents for IBC Processes</description>
+        <link>https://resolutionbazaar.com/</link>
+        <image rdf:resource="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg" />
+       <dc:date>2025-04-03T08:35:31+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_schedule-ii&amp;rev=1743662238&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_h&amp;rev=1743662214&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_g&amp;rev=1743662204&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_f&amp;rev=1743662191&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_e&amp;rev=1743662180&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_d&amp;rev=1743662167&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_c&amp;rev=1743662151&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_b&amp;rev=1743662141&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_a&amp;rev=1743662128&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_h&amp;rev=1743661973&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_g&amp;rev=1743661962&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_fa&amp;rev=1743661951&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_f&amp;rev=1743661939&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_e&amp;rev=1743661928&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_d&amp;rev=1743661916&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_ca&amp;rev=1743661903&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_c&amp;rev=1743661888&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_b&amp;rev=1743661877&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_ab&amp;rev=1743661863&amp;do=diff"/>
+                <rdf:li rdf:resource="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_aa&amp;rev=1743661851&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg">
+        <title>Resolution Bazaar</title>
+        <link>https://resolutionbazaar.com/</link>
+        <url>https://resolutionbazaar.com/lib/exe/fetch.php?media=wiki:dokuwiki.svg</url>
+    </image>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_schedule-ii&amp;rev=1743662238&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:37:18+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>civlp_schedule-ii</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_schedule-ii&amp;rev=1743662238&amp;do=diff</link>
+        <description>Corporate Insolvency VOLUNTARY LIQUIDATION Schedule II
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_h&amp;rev=1743662214&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:36:54+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>civlp_form_h</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_h&amp;rev=1743662214&amp;do=diff</link>
+        <description>Corporate Insolvency VOLUNTARY LIQUIDATION Form H
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_g&amp;rev=1743662204&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:36:44+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>civlp_form_g</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_g&amp;rev=1743662204&amp;do=diff</link>
+        <description>Corporate Insolvency VOLUNTARY LIQUIDATION Form G
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_f&amp;rev=1743662191&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:36:31+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>civlp_form_f</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_f&amp;rev=1743662191&amp;do=diff</link>
+        <description>Corporate Insolvency VOLUNTARY LIQUIDATION Form F
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_e&amp;rev=1743662180&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:36:20+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>civlp_form_e</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_e&amp;rev=1743662180&amp;do=diff</link>
+        <description>Corporate Insolvency VOLUNTARY LIQUIDATION Form E
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_d&amp;rev=1743662167&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:36:07+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>civlp_form_d</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_d&amp;rev=1743662167&amp;do=diff</link>
+        <description>Corporate Insolvency VOLUNTARY LIQUIDATION Form D
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_c&amp;rev=1743662151&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:35:51+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>civlp_form_c</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_c&amp;rev=1743662151&amp;do=diff</link>
+        <description>Corporate Insolvency VOLUNTARY LIQUIDATION Form C
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_b&amp;rev=1743662141&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:35:41+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>civlp_form_b</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_b&amp;rev=1743662141&amp;do=diff</link>
+        <description>Corporate Insolvency VOLUNTARY LIQUIDATION Form B
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_a&amp;rev=1743662128&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:35:28+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>civlp_form_a</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:vol_liquidation_forms:civlp_form_a&amp;rev=1743662128&amp;do=diff</link>
+        <description>Corporate Insolvency VOLUNTARY LIQUIDATION Form A
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_h&amp;rev=1743661973&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:32:53+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_h</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_h&amp;rev=1743661973&amp;do=diff</link>
+        <description>Corporate Insolvency RESOLUTION Form H
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_g&amp;rev=1743661962&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:32:42+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_g</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_g&amp;rev=1743661962&amp;do=diff</link>
+        <description>Corporate Insolvency RESOLUTION Form G
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_fa&amp;rev=1743661951&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:32:31+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_fa</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_fa&amp;rev=1743661951&amp;do=diff</link>
+        <description>Corporate Insolvency RESOLUTION Form FA
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_f&amp;rev=1743661939&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:32:19+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_f</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_f&amp;rev=1743661939&amp;do=diff</link>
+        <description>Corporate Insolvency RESOLUTION Form F
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_e&amp;rev=1743661928&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:32:08+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_e</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_e&amp;rev=1743661928&amp;do=diff</link>
+        <description>Corporate Insolvency RESOLUTION Form E
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_d&amp;rev=1743661916&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:31:56+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_d</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_d&amp;rev=1743661916&amp;do=diff</link>
+        <description>Corporate Insolvency RESOLUTION Form D
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_ca&amp;rev=1743661903&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:31:43+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_ca</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_ca&amp;rev=1743661903&amp;do=diff</link>
+        <description>Corporate Insolvency RESOLUTION Form CA
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_c&amp;rev=1743661888&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:31:28+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_c</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_c&amp;rev=1743661888&amp;do=diff</link>
+        <description>Corporate Insolvency RESOLUTION Form C
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_b&amp;rev=1743661877&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:31:17+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_b</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_b&amp;rev=1743661877&amp;do=diff</link>
+        <description>Corporate Insolvency RESOLUTION Form B
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_ab&amp;rev=1743661863&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:31:03+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_ab</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_ab&amp;rev=1743661863&amp;do=diff</link>
+        <description>Corporate Insolvency RESOLUTION Form AB
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+    <item rdf:about="https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_aa&amp;rev=1743661851&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2025-04-03T06:30:51+00:00</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cirp_form_aa</title>
+        <link>https://resolutionbazaar.com/doku.php?id=rbz_services:ibc_forms:resolution_forms:cirp_form_aa&amp;rev=1743661851&amp;do=diff</link>
+        <description>Corporate Insolvency RESOLUTION Form AA
+
+asdfasdfasda dfghfghjh asdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjhasdfasdfasda dfghfghjhasdfasdfasda dfghfghjh dfghfghjh</description>
+    </item>
+</rdf:RDF>

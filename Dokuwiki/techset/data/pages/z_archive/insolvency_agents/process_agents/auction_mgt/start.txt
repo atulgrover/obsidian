@@ -1,0 +1,4 @@
+AI Agents in Auction Management
+  - 1. Auction Design Agent (Setup and Process Memorandum)
+  - 2. Bidder Matching Agent (Bidder Selection and Outreach)
+  - 3. Fraud Detection Agent (Preventing Collusion and Ensuring Integrity)
