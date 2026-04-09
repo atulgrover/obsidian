@@ -1,7 +1,0 @@
-**Appeal Screening Agent**
-
-The Appeal Screening Agent reviews post-decision outcomes to determine whether there are valid grounds for appeal or review. It analyzes tribunal orders, party submissions, and compliance status to identify potential procedural or substantive lapses that could justify an appeal. This ensures timely and well-founded escalation of cases when warranted under the Insolvency and Bankruptcy Code (IBC).
-
-The agent cross-references outcomes with legal precedents and statutory requirements to evaluate the likelihood of success on appeal. It flags inconsistencies, overlooked evidence, or errors in application of law, helping insolvency professionals prepare targeted appellate strategies.
-
-By automating the screening process, it reduces human oversight and improves efficiency in identifying appeal-worthy cases. It thus supports stronger governance, informed decision-making, and judicial discipline across insolvency and dispute resolution processes.

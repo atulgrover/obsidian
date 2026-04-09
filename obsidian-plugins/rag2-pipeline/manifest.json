@@ -1,0 +1,9 @@
+{
+	"id": "rag2-pipeline",
+	"name": "RAG2 Pipeline",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Orchestrate PDF → vault markdown → chunks → LightRAG pipeline from Obsidian",
+	"author": "RAG2",
+	"isDesktopOnly": false
+}

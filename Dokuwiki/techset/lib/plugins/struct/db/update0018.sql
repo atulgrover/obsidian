@@ -1,3 +1,0 @@
--- this migration is handled in action/migration.php in migration18()
---
--- drop temp table left over by migration 16

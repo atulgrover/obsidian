@@ -1,6 +1,0 @@
-==== Recovery of Debts and Bankruptcy Act, 1993 ====
-  * [[rbz_datasets:insolvency_chatbot:laws_recovery_debt:rdba_sections]]
-  * [[rbz_datasets:insolvency_chatbot:laws_recovery_debt:drt_rcf_rules]]
-  * [[rbz_datasets:insolvency_chatbot:laws_recovery_debt:drt_efr_rules]]
-  * [[rbz_datasets:insolvency_chatbot:laws_recovery_debt:drat_procd_rules]]
-  * [[rbz_datasets:insolvency_chatbot:laws_recovery_debt:drt_procd_rules]]

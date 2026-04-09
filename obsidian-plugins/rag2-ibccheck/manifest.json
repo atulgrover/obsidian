@@ -1,0 +1,9 @@
+{
+	"id": "rag2-ibccheck",
+	"name": "RAG2 IBC Check",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "IBC compliance check — 20 mandatory requirements matrix for resolution plans",
+	"author": "RAG2",
+	"isDesktopOnly": false
+}

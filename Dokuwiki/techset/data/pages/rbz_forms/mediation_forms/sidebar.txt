@@ -1,3 +1,0 @@
-~~NOSIDEBAR~~ 
-{searchform}
-{{indexmenu>rbz_forms:mediation_forms[#1]|js}}

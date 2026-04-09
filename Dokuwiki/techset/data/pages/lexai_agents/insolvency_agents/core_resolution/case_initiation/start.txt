@@ -1,8 +1,0 @@
-**I. Core Resolution Division**
-Agents handling the lifecycle of insolvency, restructuring, and liquidation.
-
-  * Case Initiation Agents
-    * [[rbz_agenbots:insolvency_agents:core_resolution:case_initiation_agents:Debtor Discovery Agent (DDA)]]
-    * [[rbz_agenbots:insolvency_agents:core_resolution:case_initiation_agents:Insolvency Petition Drafting Agent (IPDA)]]
-    * [[rbz_agenbots:insolvency_agents:core_resolution:case_initiation_agents:Legal Filing Automation Agent (LFAA)]]
-    * [[rbz_agenbots:insolvency_agents:core_resolution:case_initiation_agents:Jurisdiction Validator Agent (JVA)]]

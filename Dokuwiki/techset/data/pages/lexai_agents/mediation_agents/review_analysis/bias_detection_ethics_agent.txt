@@ -1,7 +1,0 @@
-**Bias Detection & Ethics Agent**
-
-The Bias Detection & Ethics Agent ensures neutrality and fairness throughout the resolution or mediation process. It uses natural language processing and data analysis to detect potential bias in communication, decision-making, or outcome patterns. This maintains the ethical integrity of proceedings handled by insolvency professionals or mediators.
-
-The agent monitors for preferential treatment, conflict of interest indicators, or sentiment imbalances across stakeholder communications. When detected, it provides anonymized reports or alerts to oversight bodies for corrective action.
-
-By embedding ethical compliance into every stage of the process, it strengthens institutional trust, aligns with professional conduct standards, and promotes equitable outcomes under IBC frameworks.

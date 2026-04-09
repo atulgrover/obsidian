@@ -1,4 +1,0 @@
-  * Document Creation (DocAssemble)
-  * Document Management (Mayan)
-  * Document Processing (n8n)
-  * Task-Timeline Management (Tenzu)

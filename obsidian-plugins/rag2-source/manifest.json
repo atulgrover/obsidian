@@ -1,0 +1,9 @@
+{
+	"id": "rag2-source",
+	"name": "RAG2 Source Viewer",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "View parsed PDF documents with section tree, full text, and metadata tabs",
+	"author": "RAG2",
+	"isDesktopOnly": false
+}

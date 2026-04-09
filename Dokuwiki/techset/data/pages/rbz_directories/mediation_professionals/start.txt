@@ -1,4 +1,0 @@
-  * https://mediators.ushahidi.io/map
-  * https://mediators.api.ushahidi.io/api/v3/posts
-
-{{url>http://mediators.ushahidi.io/map 100%,800px}}

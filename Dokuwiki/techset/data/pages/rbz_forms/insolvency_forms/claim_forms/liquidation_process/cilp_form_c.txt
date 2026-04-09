@@ -1,5 +1,0 @@
-{{tag>judicial_process:insolvency_process form_type:claim_forms process_type:liquidation_process stakeholder_type:operational_creditor}}
-
-===== Liquidation Process Form C - Proof of Claim by Operational Creditors except Workmen and Employees =====
-{{pdfjs 200em,600px> pdf:liquidation_process_form_c.pdf}}
-

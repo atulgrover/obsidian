@@ -1,6 +1,0 @@
-{{tag>judicial_process:insolvency_process form_type:application_forms process_type:insolvency_initiation stakeholder_type:corporate_lawyer}}
-
-====== APPLICATION BY CORPORATE APPLICANT TO INITIATE CIRP ====== 
-Insolvency Initiastion - Application Form 6  -  {{pdf:insolvency_application_form6.pdf}}
-
-{{pdfjs 200em,500px> pdf:insolvency_application_form6.pdf}}

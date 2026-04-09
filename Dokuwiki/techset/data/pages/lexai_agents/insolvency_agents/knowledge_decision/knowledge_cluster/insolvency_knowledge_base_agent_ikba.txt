@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:knowledge_decision cluster:knowledge_cluster agent:insolvency_knowledge_base_agent}}
-
-====== insolvency_knowledge_base_agent ======
-
-coming soon ...

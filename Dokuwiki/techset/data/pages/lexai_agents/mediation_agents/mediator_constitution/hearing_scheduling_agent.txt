@@ -1,7 +1,0 @@
-3. Hearing/Scheduling Agent
-
-The Hearing and Scheduling Agent manages the logistical coordination of mediation or arbitration sessions, ensuring all stakeholders are aligned on dates, formats, and locations. It integrates with digital calendars, automatically proposes meeting slots, and synchronizes participant availability to finalize hearing schedules efficiently.
-
-This agent accommodates hybrid and virtual formats by generating meeting links, sending calendar invites, and setting automated reminders to participants. It can also handle rescheduling requests, ensuring minimal disruptions and maintaining compliance with prescribed process timelines.
-
-By maintaining an audit trail of communications and confirmed schedules, the Hearing/Scheduling Agent ensures procedural transparency and punctuality. It greatly reduces manual coordination efforts, enabling mediators and insolvency professionals to focus on substantive dispute resolution rather than administrative follow-ups.

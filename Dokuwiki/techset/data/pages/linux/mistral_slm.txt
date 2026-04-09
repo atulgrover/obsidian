@@ -1,5 +1,0 @@
-  * Mistral 7B (via Unsloth)
-    * Very easy LoRA + QLoRA 
-    * Great performance
-    * Lots of tutorials
-    * Can train on 24GB (e.g., RTX 3090/4090)

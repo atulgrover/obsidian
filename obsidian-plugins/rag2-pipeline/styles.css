@@ -1,0 +1,25 @@
+/* RAG2 Pipeline — Obsidian plugin styles */
+
+.rag2-pipeline { padding: 16px; font-family: var(--font-interface); }
+.pipeline-header h2 { margin: 0 0 4px; color: var(--text-normal); }
+.pipeline-subtitle { color: var(--text-muted); font-size: 12px; margin: 0 0 16px; }
+.pipeline-section { margin-bottom: 20px; padding: 12px; background: var(--background-secondary); border-radius: 8px; }
+.pipeline-section h3 { margin: 0 0 8px; font-size: 14px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
+.pipeline-input { width: 100%; padding: 8px 12px; margin-bottom: 8px; background: var(--background-primary); border: 1px solid var(--background-modifier-border); border-radius: 6px; color: var(--text-normal); font-size: 14px; }
+.pipeline-btn-row { display: flex; gap: 8px; }
+.pipeline-btn { padding: 8px 16px; border: none; border-radius: 6px; cursor: pointer; font-size: 13px; background: var(--interactive-normal); color: var(--text-normal); }
+.pipeline-btn.primary { background: var(--interactive-accent); color: var(--text-on-accent); }
+.pipeline-btn.accent { background: #7c3aed; color: white; }
+.pipeline-btn.success { background: #059669; color: white; }
+.pipeline-btn.small { padding: 4px 10px; font-size: 12px; }
+.pipeline-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.pipeline-drop-zone { border: 2px dashed var(--background-modifier-border); border-radius: 8px; padding: 20px; text-align: center; color: var(--text-muted); margin-top: 8px; cursor: pointer; }
+.pipeline-drop-zone.dragover { border-color: var(--interactive-accent); background: var(--background-modifier-hover); }
+.pipeline-status { margin: 12px 0; padding: 8px 12px; background: var(--background-primary-alt); border-radius: 6px; }
+.pipeline-status-text { font-size: 13px; color: var(--text-muted); }
+.pipeline-source-list { max-height: 200px; overflow-y: auto; }
+.pipeline-source-item { display: flex; justify-content: space-between; align-items: center; padding: 6px 8px; border-radius: 4px; cursor: pointer; }
+.pipeline-source-item:hover { background: var(--background-modifier-hover); }
+.source-name { font-size: 13px; color: var(--text-normal); flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.source-badge { padding: 2px 8px; border-radius: 10px; font-size: 10px; color: white; }
+.error { color: var(--text-error); }

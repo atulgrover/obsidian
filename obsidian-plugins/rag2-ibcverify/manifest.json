@@ -1,0 +1,9 @@
+{
+	"id": "rag2-ibcverify",
+	"name": "RAG2 IBC Verify",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "IBC structural verification — deterministic vector matching for 20 mandatory requirements",
+	"author": "RAG2",
+	"isDesktopOnly": false
+}

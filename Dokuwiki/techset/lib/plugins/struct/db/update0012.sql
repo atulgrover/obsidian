@@ -1,3 +1,0 @@
--- this migration is handled in action/migrations.php in migration12()
---
--- it adds the 'latest' column to all multi_* tables (ALTER TABLE)

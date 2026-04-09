@@ -1,4 +1,0 @@
-{{tag>judicial_process:insolvency_process form_type:claim_forms process_type:voluntary_liquidation stakeholder_type:financial_creditor}}
-
-===== Voluntary Liquidation Form C - Proof of Claim by Financial Creditors =====
-{{pdfjs 200em,500px> pdf:vol_liquidation_process_form_c.pdf}}

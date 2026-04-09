@@ -1,0 +1,9 @@
+{
+	"id": "rag2-chunkaudit",
+	"name": "RAG2 Chunk Audit",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Per-chunk ingestion audit — status dashboard with re-ingest capability",
+	"author": "RAG2",
+	"isDesktopOnly": false
+}

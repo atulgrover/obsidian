@@ -1,6 +1,0 @@
-filter:
-    excluded_paths:
-        - doc/*
-        - tests/*
-        - example/*
-        - vendor/*

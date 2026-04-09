@@ -1,7 +1,0 @@
-base   oauthgoogle
-author Andreas Gohr
-email  dokuwiki@cosmocode.de
-date   2024-08-12
-name   oauth Google Service
-desc   Google Service for use with the oAuth Plugin
-url    https://www.dokuwiki.org/plugin:oauthgoogle

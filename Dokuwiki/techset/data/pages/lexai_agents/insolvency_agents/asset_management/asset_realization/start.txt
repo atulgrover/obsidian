@@ -1,8 +1,0 @@
-**IV. Asset Management Division**
-Responsible for tracing, valuing, securing, and disposing of assets.
-
-  * [[rbz_agenbots:insolvency_agents:asset_management:start|Asset Realization Cluster]]
-    * [[rbz_agenbots:insolvency_agents:asset_management:asset_realization_cluster:Auction Management Agent (AMA)]]
-    * [[rbz_agenbots:insolvency_agents:asset_management:asset_realization_cluster:Bidder Matching Engine (BME)]]
-    * [[rbz_agenbots:insolvency_agents:asset_management:asset_realization_cluster:Asset Marketing Agent (AMA2)]]
-    * [[rbz_agenbots:insolvency_agents:asset_management:asset_realization_cluster:Recovery and Distribution Agent (RDA)]]

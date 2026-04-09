@@ -1,0 +1,16 @@
+.rag2-chunkaudit { padding: 16px; }
+.audit-header { display: flex; justify-content: space-between; align-items: center; padding: 16px 20px; background: linear-gradient(135deg, #1e3a5f, #1e1b4b); border-radius: 8px 8px 0 0; }
+.audit-header h2 { margin: 0; color: var(--text-normal); font-size: 16px; }
+.audit-btn { padding: 8px 16px; background: #059669; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px; }
+.audit-btn:disabled { opacity: 0.5; }
+.audit-summary { display: flex; gap: 16px; padding: 12px 20px; background: var(--background-secondary); }
+.stat { font-size: 14px; }
+.stat.ingested { color: #22c55e; } .stat.failed { color: #ef4444; } .stat.pending { color: #f59e0b; }
+.audit-input { width: 100%; padding: 8px 12px; margin-bottom: 12px; background: var(--background-primary); border: 1px solid var(--background-modifier-border); border-radius: 6px; color: var(--text-normal); }
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; padding: 8px 12px; background: var(--background-secondary); color: var(--text-muted); font-size: 11px; text-transform: uppercase; }
+td { padding: 8px 12px; border-bottom: 1px solid var(--background-modifier-border); color: var(--text-normal); font-size: 13px; }
+.chunk-id { font-family: var(--font-monospace); color: var(--interactive-accent); }
+.stage-badge { background: var(--background-secondary); color: var(--text-muted); padding: 2px 8px; border-radius: 4px; font-size: 11px; }
+.empty-state { text-align: center; padding: 40px; color: var(--text-faint); }
+.loading { text-align: center; padding: 40px; color: var(--text-faint); }

@@ -1,4 +1,0 @@
-{{tag>judicial_process:insolvency_process form_type:claim_forms process_type:resolution_process stakeholder_type:creditors_in_class}}
-
-====== Resolution Process Form CA Financial Creditors in a Class ======
-{{pdfjs 200em,500px> pdf:resolution_process_form_ca.pdf}}

@@ -1,7 +1,0 @@
-﻿base   twofactoraltemail
-author Andreas Gohr, Michael Wilmes
-email  dokuwiki@cosmocode.de
-date   2023-01-08
-name   Two Factor Authentication - Alternate Email Plugin
-desc   Alternate email support plugin for the Twofactor authentication plugin.
-url    https://www.dokuwiki.org/plugin:twofactoraltemail

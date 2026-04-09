@@ -1,8 +1,0 @@
-<form>
-action template playground:claims:new_claim:
-select "process" "fast_track_process|liquidation_process|resolution_process|voluntary_liquidation"
-select "stakeholder" "operational_creditors_except_workers_employees|financial_creditors|financial_creditors_in_a_class|workmen_employees|authorised_representative_of_workman_employee|creditors_other_than_financial_operational_creditors"
-submit
-</form>
-
-

@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:asset_management cluster:asset_discovery agent:asset_realization_agent}}
-
-====== Asset Realization Agent ======
-
-Responsible for transforming identified assets into recoverable value through sale, lease, securitization, or settlement. It evaluates disposal routes (auction, direct sale, strategic investor, etc.), simulates expected recovery under each option, and coordinates workflows between valuers, auctioneers, and creditors to maximize realization proceeds.

@@ -1,7 +1,0 @@
-**Enforcement Tracker Agent**
-
-The Enforcement Tracker Agent manages the post-award enforcement process when parties fail to comply with settlement or adjudicated obligations. It identifies non-compliance events, initiates reminders or demand notices, and supports the preparation of enforcement petitions or applications under the IBC or Arbitration and Conciliation Act.
-
-It maintains a repository of all enforcement actions—such as execution proceedings, asset attachments, or recovery follow-ups—ensuring a structured view of compliance enforcement history. The agent also assists professionals by recommending the next procedural steps based on the default type and jurisdictional rules.
-
-By automating this workflow, the agent minimizes delays in enforcing awards and strengthens the deterrence effect of non-compliance. It ensures consistent, lawful, and timely enforcement of obligations, safeguarding creditor interests and maintaining procedural rigor.

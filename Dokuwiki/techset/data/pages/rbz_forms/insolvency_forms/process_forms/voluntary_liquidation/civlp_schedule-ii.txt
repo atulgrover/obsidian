@@ -1,4 +1,0 @@
-{{tag>judicial_process:insolvency_process form_type:process_forms process_type:voluntary_liquidation stakeholder_type:insolvency_professional}}
-
-====== Corporate Insolvency VOLUNTARY LIQUIDATION Schedule II ======
-{{pdfjs 200em,500px> pdf:vol_liquidation_process_schedule_ii.pdf}}

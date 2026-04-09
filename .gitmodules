@@ -1,0 +1,6 @@
+[submodule "Header"]
+	path = Header
+	url = https://github.com/Samir1145/header.git
+[submodule "Dokuwiki/lib/tpl/writr"]
+	path = Dokuwiki/lib/tpl/writr
+	url = https://github.com/LaswitchTech/writr

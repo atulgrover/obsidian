@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:core_resolution cluster:case_initiation agent:jurisdiction_validator_agent}}
-
-====== jurisdiction_validator Agent ======
-
-coming soon ...

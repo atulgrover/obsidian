@@ -1,1 +1,0 @@
-ALTER TABLE titles ADD COLUMN lastsummary NOT NULL DEFAULT '';

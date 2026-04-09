@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:core_resolution cluster:closure_liquidation agent:post_closure_review_agent}}
-
-====== post_closure_review_agent ======
-
-coming soon ...

@@ -1,7 +1,0 @@
-**I. Core Resolution Division**
-Agents handling the lifecycle of insolvency, restructuring, and liquidation.
-
-  * Closure & Liquidation Agents
-    * [[rbz_agenbots:insolvency_agents:core_resolution:closure_liquidation_agents:Liquidation Distribution Planner (LDP)]]
-    * [[rbz_agenbots:insolvency_agents:core_resolution:closure_liquidation_agents:Recovery Monitoring Agent (RMA)]]
-    * [[rbz_agenbots:insolvency_agents:core_resolution:closure_liquidation_agents:Post-Closure Review Agent (PCRA)]]

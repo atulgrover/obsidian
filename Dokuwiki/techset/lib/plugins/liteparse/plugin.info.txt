@@ -1,7 +1,0 @@
-base    liteparse
-author  Your Name
-email   your@email.com
-date    2024-05-20
-name    LiteParse Integration
-desc    Imports markdown via LiteParse service
-url     http://dokuwiki.org/plugin:liteparse

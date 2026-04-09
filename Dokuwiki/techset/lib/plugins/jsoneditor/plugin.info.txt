@@ -1,7 +1,0 @@
-base   jsoneditor
-author Janez Paternoster
-email  janez.paternoster@siol.net
-date   2023-10-26
-name   JSON Editor Plugin
-desc   Integrate schema based JSON editor into json plugin.
-url    https://www.dokuwiki.org/plugin:jsoneditor

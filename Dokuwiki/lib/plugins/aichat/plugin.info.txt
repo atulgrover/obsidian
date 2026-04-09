@@ -1,8 +1,0 @@
-base   aichat
-author Andreas Gohr
-email  gohr@cosmocode.de
-date   2025-04-01
-name   aichat plugin
-desc   Chat with a LLM about the contents of your wiki
-url    https://www.dokuwiki.org/plugin:aichat
-minphp 8.1

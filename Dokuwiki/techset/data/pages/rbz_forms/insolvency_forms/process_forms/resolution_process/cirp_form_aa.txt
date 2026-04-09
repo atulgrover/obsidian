@@ -1,4 +1,0 @@
-{{tag>judicial_process:insolvency_process form_type:process_forms process_type:resolution_process stakeholder_type:insolvency_professional}}
-
-====== Resolution Process Form AA ======
-{{pdfjs 200em,500px> pdf:resolution_process_form_aa.pdf}}

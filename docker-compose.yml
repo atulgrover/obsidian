@@ -1,0 +1,239 @@
+# RAG2 Stack — Full microservices deployment
+#
+# All services run via Docker Compose:
+#   docker compose up -d       — start everything
+#   docker compose down         — stop containers
+#   docker compose down -v      — stop and wipe data
+#
+# Services:
+#   LiteParse      :5001   (Node.js PDF parser)
+#   PageIndex      :5002   (Python section tree builder)
+#   SemChunk       :5003   (Python semantic chunker)
+#   Vault Pipeline  :5004   (Python vault orchestrator)
+#   RAG2-Web       :5173   (Svelte frontend dev server)
+#   LightRAG       :8020   (Python ingestion + query + compliance)
+#   SBERT          :8021   (Python InLegal-SBERT embeddings)
+#   Postgres       :5432   (PostgreSQL + AGE + pgvector)
+
+services:
+
+  # ──────────────────────────────────────────────────────────
+  # PostgreSQL with Apache AGE (graph) + pgvector (vectors)
+  # ──────────────────────────────────────────────────────────
+  postgres:
+    build:
+      context: ./postgres-service
+      dockerfile: Dockerfile
+    container_name: rag2-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: lightrag
+      POSTGRES_USER: lightrag
+      POSTGRES_PASSWORD: lightrag
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./postgres-init/init.sql:/docker-entrypoint-initdb.d/01-init.sql
+      - ./postgres-init/02-metadata-migration.sql:/docker-entrypoint-initdb.d/02-metadata-migration.sql
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U lightrag -d lightrag"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  # ──────────────────────────────────────────────────────────
+  # InLegal-SBERT — OpenAI-compatible /v1/embeddings endpoint
+  # ──────────────────────────────────────────────────────────
+  sbert:
+    build:
+      context: ./sbert-service
+      dockerfile: Dockerfile
+    container_name: rag2-sbert
+    restart: unless-stopped
+    environment:
+      SBERT_MODEL: bhavyagiri/InLegal-Sbert
+    volumes:
+      - sbert_cache:/root/.cache/huggingface
+    ports:
+      - "8021:8021"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8021/health')"]
+      interval: 10s
+      timeout: 10s
+      retries: 20
+      start_period: 60s
+
+  # ──────────────────────────────────────────────────────────
+  # LightRAG — ingestion + query + compliance API
+  # ──────────────────────────────────────────────────────────
+  lightrag:
+    build:
+      context: ./lightrag-service
+      dockerfile: Dockerfile
+    container_name: rag2-lightrag
+    restart: unless-stopped
+    environment:
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: "5432"
+      POSTGRES_DB: lightrag
+      POSTGRES_USER: lightrag
+      POSTGRES_PASSWORD: lightrag
+      AGE_GRAPH_NAME: lightrag_graph
+      SARVAM_API_KEY: ${SARVAM_API_KEY}
+      SARVAM_BASE_URL: https://api.sarvam.ai/v1
+      SARVAM_MODEL: sarvam-m
+      EMBEDDING_URL: http://sbert:8021/v1/embeddings
+      EMBEDDING_DIM: "768"
+      EMBEDDING_MAX_TOKENS: "512"
+      CONTEXTUAL_RETRIEVAL: "true"
+      ENTITY_TYPES: '["Person","Organization","Location","CourtTribunal","StatuteProvision","LegalConcept","RegulatoryInstrument","PartyRole","CaseReference"]'
+    volumes:
+      - lightrag_data:/data
+    ports:
+      - "8020:8020"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8020/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 15
+      start_period: 30s
+    depends_on:
+      postgres:
+        condition: service_healthy
+      sbert:
+        condition: service_healthy
+
+  # ──────────────────────────────────────────────────────────
+  # LiteParse — PDF parser (Node.js)
+  # ──────────────────────────────────────────────────────────
+  liteparse:
+    build:
+      context: ./liteparse-server
+      dockerfile: Dockerfile
+    container_name: rag2-liteparse
+    restart: unless-stopped
+    ports:
+      - "5001:5001"
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://localhost:5001/health').then(r=>r.ok?process.exit(0):process.exit(1)).catch(()=>process.exit(1))"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  # ──────────────────────────────────────────────────────────
+  # PageIndex — section tree builder (Python/FastAPI)
+  # ──────────────────────────────────────────────────────────
+  pageindex:
+    build:
+      context: ./pageindex-service
+      dockerfile: Dockerfile
+    container_name: rag2-pageindex
+    restart: unless-stopped
+    environment:
+      OLLAMA_URL: http://host.docker.internal:11434/api/generate
+      OLLAMA_MODEL: ministral-3:14b-cloud
+    ports:
+      - "5002:5002"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5002/"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  # ──────────────────────────────────────────────────────────
+  # SemChunk — semantic chunker (Python/FastAPI)
+  # ──────────────────────────────────────────────────────────
+  semchunk:
+    build:
+      context: ./semchunk-service
+      dockerfile: Dockerfile
+    container_name: rag2-semchunk
+    restart: unless-stopped
+    ports:
+      - "5003:5003"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5003/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  # ──────────────────────────────────────────────────────────
+  # Vault Pipeline — orchestrator (Python/FastAPI)
+  # Reads/writes Obsidian vault (markdown + YAML frontmatter)
+  # ──────────────────────────────────────────────────────────
+  vault-pipeline:
+    build:
+      context: ./vault-pipeline
+      dockerfile: Dockerfile
+    container_name: rag2-vault-pipeline
+    restart: unless-stopped
+    environment:
+      VAULT_ROOT: /vault
+      LITEPARSE_URL: http://liteparse:5001
+      PAGEINDEX_URL: http://pageindex:5002
+      SEMCHUNK_URL: http://semchunk:5003
+      LIGHTRAG_URL: http://lightrag:8020
+    volumes:
+      - vault_data:/vault
+    ports:
+      - "5004:5004"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5004/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    depends_on:
+      liteparse:
+        condition: service_healthy
+      pageindex:
+        condition: service_healthy
+      semchunk:
+        condition: service_healthy
+      lightrag:
+        condition: service_healthy
+
+  # ──────────────────────────────────────────────────────────
+  # RAG2-Web — Svelte frontend (dev server)
+  # ──────────────────────────────────────────────────────────
+  rag2-web:
+    build:
+      context: ./rag2-web
+      dockerfile: Dockerfile
+    container_name: rag2-web
+    restart: unless-stopped
+    environment:
+      VITE_VAULT_URL: http://localhost:5004
+      VITE_LIGHTRAG_URL: http://localhost:8020
+    volumes:
+      - ./rag2-web/src:/app/src
+    ports:
+      - "5173:5173"
+    depends_on:
+      vault-pipeline:
+        condition: service_healthy
+
+  # ──────────────────────────────────────────────────────────
+  # pgAdmin — PostgreSQL web UI
+  # ──────────────────────────────────────────────────────────
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: rag2-pgadmin
+    restart: unless-stopped
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@rag2.local
+      PGADMIN_DEFAULT_PASSWORD: admin
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+    ports:
+      - "5050:80"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+volumes:
+  postgres_data:
+  sbert_cache:
+  lightrag_data:
+  vault_data:
+  pgadmin_data:

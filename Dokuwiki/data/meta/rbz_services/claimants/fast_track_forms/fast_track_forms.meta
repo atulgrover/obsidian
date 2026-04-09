@@ -1,9 +1,0 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1743427446;s:8:"modified";i:1743365136;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:47:"Claim Submission Fast Track Resolutions (CIFTP)";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:45:"claim_submission_fast_track_resolutions_ciftp";s:5:"title";s:47:"Claim Submission Fast Track Resolutions (CIFTP)";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:160:"Claim Submission Fast Track Resolutions (CIFTP)
-
-	* CIFTP Form A
-	* CIFTP Form B
-	* CIFTP Form C
-	* CIFTP Form D
-	* CIFTP Form E
-	* CIFTP Form F
-	* CIFTP Form G";}s:8:"relation";a:2:{s:10:"references";a:7:{s:45:"services:claims:resolution_ciftp:ciftp_form_a";b:0;s:45:"services:claims:resolution_ciftp:ciftp_form_b";b:0;s:45:"services:claims:resolution_ciftp:ciftp_form_c";b:0;s:45:"services:claims:resolution_ciftp:ciftp_form_d";b:0;s:45:"services:claims:resolution_ciftp:ciftp_form_e";b:0;s:45:"services:claims:resolution_ciftp:ciftp_form_f";b:0;s:45:"services:claims:resolution_ciftp:ciftp_form_g";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:0;}s:11:"last_change";b:0;s:6:"plugin";a:1:{s:13:"plugin_acmenu";a:1:{s:6:"sub_ns";a:4:{i:0;s:39:"rbz_services:claimants:fast_track_forms";i:1;s:22:"rbz_services:claimants";i:2;s:12:"rbz_services";i:3;s:0:"";}}}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1743427446;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";b:0;}}

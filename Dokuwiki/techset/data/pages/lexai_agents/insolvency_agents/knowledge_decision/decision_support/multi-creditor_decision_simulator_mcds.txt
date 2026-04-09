@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:knowledge_decision cluster:sdecision_support agent:multi_creditor_decision_simulator}}
-
-====== multi_creditor_decision_simulator ======
-
-coming soon ...

@@ -1,7 +1,0 @@
-5. Negotiation Bot / Offer Matching Agent
-
-The Negotiation Bot / Offer Matching Agent facilitates the exchange and evaluation of offers, counteroffers, and settlement options between parties. It captures proposal terms in structured formats and uses algorithms to identify zones of possible agreement (ZOPA).
-
-By comparing multiple offers on key parameters—monetary value, payment terms, or non-financial conditions—it highlights overlaps or trade-offs that can lead to resolution. The bot can simulate potential settlement outcomes and present balanced compromise options.
-
-Its automated negotiation analytics support mediators and IPs in steering discussions toward realistic solutions faster. The result is a data-informed, transparent, and efficient bargaining process consistent with fair practice principles under the IBC and mediation rules.

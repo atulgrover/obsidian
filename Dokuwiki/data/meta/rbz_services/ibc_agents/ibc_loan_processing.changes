@@ -1,6 +1,0 @@
-1743532133	49.43.99.57	C	rbz_services:ibc_agents:loans	admin	created		15
-1743533846	127.0.0.1	D	rbz_services:ibc_agents:ibc_interim_finance		removed - external edit (Unknown date)		0
-1743533847	49.43.99.57	C	rbz_services:ibc_agents:ibc_interim_finance	admin	↷ Page name changed from rbz_services:ibc_agents:loans to rbz_services:ibc_agents:ibc_interim_finance		15
-1743569761	127.0.0.1	D	rbz_services:ibc_agents:ibc_loan_processing		removed - external edit (Unknown date)		0
-1743569762	49.43.99.57	C	rbz_services:ibc_agents:ibc_loan_processing	admin	↷ Page name changed from rbz_services:ibc_agents:ibc_interim_finance to rbz_services:ibc_agents:ibc_loan_processing		15
-1743569941	49.43.99.57	E	rbz_services:ibc_agents:ibc_loan_processing	admin			1887

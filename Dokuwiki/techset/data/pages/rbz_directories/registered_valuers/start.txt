@@ -1,4 +1,0 @@
-  * https://valuers.ushahidi.io/map
-  * https://valuers.api.ushahidi.io/api/v3/posts
-
-{{url>http://valuers.ushahidi.io/map 100%,800px}}

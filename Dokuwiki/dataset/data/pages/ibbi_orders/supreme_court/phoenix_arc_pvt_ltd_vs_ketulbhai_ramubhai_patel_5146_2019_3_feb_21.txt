@@ -1,253 +1,0 @@
-<div>
-	<div>
-		<p>
-			Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.
-		</p>
-	</div>
-	<h2>
-		Supreme Court of India
-	</h2>
-	<h2>
-		Phoenix Arc Pvt. Ltd. vs Ketulbhai Ramubhai Patel on 3 February, 2021
-	</h2>
-	<h3>
-		Equivalent citations: AIR 2021 SUPREME COURT 875, AIRONLINE 2021 SC 46
-	</h3>
-	<h3>
-		Author: Ashok Bhushan
-	</h3>
-	<h3>
-		Bench: M.R. Shah, R. Subhash Reddy, Ashok Bhushan
-	</h3>
-	<p>
-		 1 REPORTABLE IN THE SUPREME COURT OF INDIA CIVIL APPELLATE JURISDICTION CIVIL APPEAL NO.5146 of 2019 PHOENIX ARC PVT. LTD. ...APPELLANT(S) VERSUS KETULBHAI RAMUBHAI PATEL ...RESPONDENT(S) J U D G M E N T
-	</p>
-	<p title="Issue" data-structure="Issue">
-		ASHOK BHUSHAN,J.
-	</p>
-	<p title="Issue" data-structure="Issue">
-		This appeal under Section 62 of the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as &ldquo;Code&rdquo;) has been filed questioning the judgment of the National Company Law Appellate Tribunal, New Delhi dated 09.04.2019 dismissing the Company Appeal filed by the appellant. The Company Appeal was filed by the appellant against order dated 22.02.2019 of National Company Law Tribunal, Mumbai Bench rejecting the Miscellaneous Application filed by the appellant Signature Not Verified Digitally signed by MEENAKSHI KOHLI Date: 2021.02.03 under Section 60(5)(c) of the Code holding that the 16:58:53 IST Reason:
-	</p>
-	<blockquote title="Issue">
-		appellant is not the financial creditor of the  2 corporate debtor, Doshion Veolia Water Solutions Private Limited.
-	</blockquote>
-	<p title="Issue" data-structure="Issue">
-		2. Brief facts of this case for deciding this appeal are:
-	</p>
-	<blockquote title="Issue">
-		L &amp; T Infrastructure Finance Company Limited advanced the financial facility to Doshion Limited, a Company incorporated and registered under the Companies Act, 1956. A Facility Agreement dated 12.05.2011 was executed between the Doshion Limited (borrower) and L &amp; T Infrastructure Finance Company Limited (lender) advancing to the borrower a financial facility of Rs.40 crores repayable in 72 structured monthly instalments. Schedule IV of the facility agreement dealt with &ldquo;Security Creation&rdquo;.
-	</blockquote>
-	<p title="Fact" data-structure="Facts">
-		The Board of Directors of Doshion Veolia Water Solutions Private Limited (corporate debtor) passed a Resolution on 26.07.2011 to give Non-Disposal Undertaking in favour of L &amp; T Infrastructure Finance Company Limited whereby Board was authorised to provide an undertaking to the effect that 100% of  3 their shareholding in Gondwana Engineers Limited (GEL) shall not be disposed of so long as any amounts were due and payable and outstanding under the financial assistance proposed to be provided by L&amp;T Infra to borrower. On 10.01.2012 a Pledge Agreement was executed between Doshion Veolia Water Solutions Private Limited and L&amp;T Infrastructure Finance Company Limited by which agreement 40,160 shares of Gondwana Engineers Limited were pledged as a security. On 10.01.2012 a deed of undertaking was also executed by Doshion Veolia Water Solutions Private Limited in favour of L&amp;T Infrastructure Finance Co.Ltd. By agreement dated 30.12.2013 L&amp;T Infrastructure assigned all rights, title and interest in the financial facility including any security, interest therein in favour of Phoenix ARC Pvt. Ltd., the appellant under Section 5 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002. The borrower, Doshion Limited failed to repay as per agreed terms dated 12.05.2011. The appellant issued a  4 notice dated 19.02.2014 and recalled the financial facility. The appellant filed O.A.No.325 of 2016 before the Debts Recovery Tribunal, Ahmedabad which is said to be pending.
-	</p>
-	<p title="Fact" data-structure="Facts">
-		3. On 31.08.2018, Bank of Baroda filed Company Petition No.CP(IB)1752/MB/2017 before the Adjudicating Authority under Section 7 of the Code to initiate the corporate insolvency resolution process in respect of the Doshion Veolia Water Solutions Private Limited (Corporate Debtor). By order dated 31.08.2018, the Adjudicating Authority admitted the Company Petition and the corporate insolvency resolution process began. The respondent was appointed as the Interim Resolution Professional of the corporate debtor which was later confirmed as the Resolution Professional of the corporate debtor. Pursuant to the commencement of corporate insolvency resolution process in respect of the corporate debtor, the appellant filed its claim for an amount of Rs.83,49,85,667/- with the respondent. The  5 respondent vide email dated 20.09.2018 expssed an opinion that as per the Pledge Agreement submitted by the appellant, the corporate debtor&rsquo;s liability was restricted to pledge of the shares only. The respondent sought further documents in respect of the appellant&rsquo;s claim. Although additional documents were submitted by the appellant, the respondent by email dated 23.11.2018 reiterated the earlier view.
-	</p>
-	<p title="Fact" data-structure="Facts">
-		4. The appellant filed M.A.No.1514 of 2018 before the National Company Law Tribunal, Bench at Mumbai in Company Petition No.CP(IB)1752/MB/2017 seeking a direction to the respondent to admit the claim of the appellant as a financial debt with all consequential benefits including voting rights in the Committee of creditors of the corporate debtor. The appellant stated that pledge of the shares by the corporate debtor was in essence a guarantee for financial debt and, therefore, appellant was a financial creditor of the corporate debtor. The Resolution Professional vide email dated 04.12.2018 rejected the claim of the  6 appellant as financial creditor of the corporate debtor on the ground that there was no separate Deed of Guarantee in favour of the Assignor. The respondent filed an affidavit in reply before the Adjudicating Authority. After hearing the parties, the Adjudicating Authority passed an order dated 22.02.2019 rejecting the Miscellaneous Application filed by the appellant. The Adjudicating Authority held that the applicant&rsquo;s status as financial creditor of the corporate debtor is not proved in the light of Section 5(8) of the Code.
-	</p>
-	<p title="Petitioner's Argument" data-structure="PetArg">
-		5. Aggrieved by the judgment of the Adjudicating Authority, the appeal was filed by the appellant before the Appellate Tribunal. The Appellate Tribunal held that pledge of shares in question do not amount to &ldquo;disbursement of any amount against the consideration for the time value of money&rdquo; and it do not fall within sub-clause (f) of sub-section (8) of Section 5 as suggested by the learned counsel for the appellant. The Appellate Authority finding no merit  7 in the appeal, dismissed the appeal. Aggrieved by the judgment of the Appellate Tribunal, the appellant has filed the psent appeal.
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		6. We have heard Shri K.V. Vishwanathan, learned senior counsel for the appellant, Ms. Ami Jain, learned counsel for the respondent. We have also heard learned counsel for the Bank of Baroda as intervenor.
-	</p>
-	<p title="Petitioner's Argument" data-structure="PetArg">
-		7. Shri K.V. Vishwanathan, learned senior counsel, submits that the appellant is a financial creditor within the meaning of Section 5 sub-section (8)(i) of the Code. He submits that liability of the corporate debtor, who is surety, is co-extensive to that of debtor and the creditor has full rights to pursue his liability against the surety even before the creditor. There is a debt which is payable by the corporate debtor to the appellant and for securing that debt, the corporate debtor has created a security interest in favour of the Assignor that is L&amp;T Infrastructure Ltd. The L&amp;T Infrastructure Ltd.  8 having assigned all its rights and obligations to the appellant vide Assignment dated 30.12.2013, the appellant has stepped into the shoes of L&amp;T Infrastructure Ltd. The parent Company of corporate debtor Doshion Ltd. took a credit facility from the pdecessor of the appellant and the corporate debtor undertook a liability by creating a security interest in the form of shares of Gondwana Engineers Limited. The psent case is covered by Section 5(8)(b) read with 5(i), not accepting the appellant as financial creditor would have effect of leaving the appellant effectively remediless inasmuch as the appellant cannot enforce the guarantee during the subsistence of moratorium period and once the resolution plan is passed without any redress to the appellant in the Financial Plan, the said resolution plan would be binding upon the appellant whereupon the appellant shall be gravely pjudiced since nothing could then be recoverable from the corporate debtor. The corporate debtor in effect has provided a guarantee to L&amp;T Infrastructure Ltd. whereby the corporate  9 debtor guarantees L&amp;T Infrastructure the debts due from Doshion Ltd. and in case of non-payment, a charge subsisted upon the 100% shareholding of Gondwana Engineers Ltd. As the corporate debtor has secured the payment of the loan, the liability of corporate debtor to L&amp;T Infrastructure became co- extensive to that of Doshion Ltd. under Section 128 of the Indian Contract Act, 1872 which, inter alia, financial creditor to the appellant herein and the loan was advanced for interest and the said loan was secured by the corporate debtor.
-	</p>
-	<p title="Respondent's Argument" data-structure="RespArg">
-		8. Learned counsel further submits that the judgment of this Court in Anuj Jain, Interim Resolution Professional for Jaypee Infratech Limited vs. Axis Bank Limited and others, (2020) 8 SCC 401, relied by the learned counsel for the respondent is distinguishable from the facts of the psent case. He submits that any security that would permit the right of action against the third party that is not the borrower, would amount to guarantee. The mere  10 fact that corporate debtor has not borrowed money from the appellant, it cannot absolve the corporate debtor from its liability as guarantor. He submits that term guarantee is not to be understood narrowly and it has to be understood to include any security created by third party to secure repayment of financial debt including a pledge of shares. The pledge of shares by corporate debtor to secure the loan advanced to the parent Company of the corporate debtor amounts to a guarantee. He lastly submits that judgment of Anuj Jain needs to be clarified to the effect that it has been rendered in a specific facts scenario which does not apply to the psent case at all.
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		9. Ms. Ami Jain, learned counsel, appearing for the respondent submits that the appellant is not a creditor of any nature whatsoever of the corporate debtor. The appellant has no right of recovery of any debt from the corporate debtor and has a limited right of enforcing and realising the value of its security in the shape of the shares held by the  11 corporate debtor in its subsidiary, that is, Gondwana Engineers Ltd. which is pledged with the appellant as a security for the loan given to its parent Company, viz. Doshion Ltd. in accordance with the Pledge Agreement dated 10.01.2012. The pledge is not, in any manner, a guarantee under the Contract Act. Section 5(8)(i) of the Code takes within its sweep only any liability arising out of a guarantee for any of the items referred to in sub-clauses (a) to (h) of Section 5(8) of the Code, and not any other instrument in the nature of a guarantee. The pledge of shares cannot be equated with the guarantee as both are absolutely different in terms of their ramification and implication. The corporate debtor has not entered into any contract of guarantee with the appellant to perform the promise, or discharge the liability of a third party in case of his default. In the event of default by the borrower, the appellant has the limited right to realise the money by sale of shares pledged without requiring the corporate debtor to perform the promise, or discharge  12 the liability as no promise is given by the corporate debtor to repay the debt recoverable from the borrower.
-	</p>
-	<p title="Petitioner's Argument" data-structure="PetArg">
-		10. Learned counsel for the respondent submits that the National Company Law Tribunal has rightly rejected the claim of the appellant as financial creditor. It is further submitted that the appellant has already initiated proceedings at the Debt Recovery Tribunal, Ahmedabad for realisation of its dues which is an admitted fact. In the Code nowhere pledge is mentioned. The appellant cannot claim their pledge agreement dated 10.01.2012 as guarantee as there is no Deed of Guarantee on the record. The Code does not deal with recovery.
-	</p>
-	<p title="Petitioner's Argument" data-structure="PetArg">
-		11. Learned counsel appearing for Bank of Baroda/Intervenor referring to objects and reasons of Insolvency and Bankruptcy Code contends that the purpose and object of the Code is entirely different. It is not a mechanism for recovery of any amount. The  13 appellant has already moved to Debt Recovery Tribunal, Ahmedabad.
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		12. We have considered the submissions of the learned counsel for the parties and have perused the records.
-	</p>
-	<p title="Issue" data-structure="Issue">
-		13. The only question to be considered in this appeal is as to whether the appellant is a financial creditor within the meaning of Section 5(8) of the Code on the strength of pledge agreement dated 10.01.2012 and Deed of Undertaking dated 10.01.2012 entered into with L&amp;T Infrastructure.
-	</p>
-	<p title="Petitioner's Argument" data-structure="PetArg">
-		14. We may first notice the transaction in question on the basis of which the appellant claims to be treated as financial creditor qua corporate debtor.
-	</p>
-	<p title="Precedent Analysis" data-structure="Precedent">
-		15. The Facility Agreement dated 12.05.2011 was executed between the Doshian Ltd. and the L&amp;T Infrastructure Finance Company Ltd. The corporate debtor was not a party to the Facility Agreement. It was the Doshion Ltd., the borrower who was to repay  14 the loan of Rs.40 crores. Schedule-IV of Facility Agreement is &ldquo;Security Creation&rdquo; which is a part of the Facility Agreement, is as follows:
-	</p>
-	<blockquote title="Precedent Analysis">
-		&ldquo;SCHEDULE-IV SECURITY CREATION The Facility (together with all principal interest, liquidated damages, fees costs, charges, expenses and other monies and all other amounts stipulated and payable to the Lender) shall be secured by:
-	</blockquote>
-	<blockquote title="Precedent Analysis">
-		1.Second pari-passu charge on all current assets of the Borrower.
-	</blockquote>
-	<blockquote title="Precedent Analysis">
-		2.Second pari-passu charge on all current assets of Gondwana Engineers Limited (GEL).
-	</blockquote>
-	<blockquote title="Precedent Analysis">
-		3.Pledge of 100% equity shares together with all accretions thereon of the GEL.
-	</blockquote>
-	<blockquote title="Precedent Analysis">
-		4.Personal guarantee of promoters of DL namely Ashit Dhirajilal Doshi, Dhirajilal Shivlal Doshi and Rakshit Dhirajlal Doshi.
-	</blockquote>
-	<blockquote title="Precedent Analysis">
-		5.Debt Service Reserve Account (DSRA) in the form of LC/BG for 3 months of interest and principal payments.
-	</blockquote>
-	<blockquote title="Precedent Analysis">
-		6.Demand Promissory Note.
-	</blockquote>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		If, at any time during the subsistence of the Facility, the Lender is of the opinion that the security provided by the Borrower has become inadequate to cover the Facility then outstanding, then, on the Lender advising the Borrower to that effect, the Borrower shall provide and furnish to the Lender, to the satisfaction of the Lender, such additional  15 security as may be acceptable to the Lender to cover such deficiency.&rdquo;
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		16. Item No.3 of Schedule IV, as noted above, is Pledge of 100% equity shares together with all accretions thereon of the GEL. There is Second pari- passu charge on all current assets of the GEL as per Schedule IV.
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		17. The Pledge Agreement dated 10.01.2012 was entered into between the corporate debtor and L&amp;T Infrastructure Finance Co. Ltd. Schedule II contains details of the Securities which are 40,160 shares of GEL. The corporate debtor has pledged in favour of lender, the securities, the Clauses of the Pledge Agreement clearly describe the nature of the security created by the Pledge Agreement. It is relevant to notice Clause 2(iii) which is to the following effect:
-	</p>
-	<blockquote title="Court's Reasoning">
-		&ldquo;2(iii) The Obligors hereby agree and confirm that the pledge created/to be created in terms of this Agreement shall be a continuing security for the payment of the Secured Obligations and the due  16 performance by the Obligors of their obligations hereunder.&rdquo;
-	</blockquote>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		18. The shares of GEL were pledged with L&amp;T Infrastructure as security. The Deed of Undertaking which was given on the same day, i.e., 10.01.2012 is also to the same effect.
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		19. Now, we may look into the provisions of the Insolvency and Bankruptcy Code, 2016 relevant for the psent controversy. Part II of Chapter I of the Code deals with Insolvency Resolution Liquidation for Corporate Persons. Section 5 is the definition clause. Section 5(7) defines &ldquo;financial creditor&rdquo; in the following words:
-	</p>
-	<blockquote title="Analysis of the law">
-		&ldquo;Section 5(7) &ldquo;financial creditor&rdquo; means any person to whom a financial debt is owed and includes a person to whom such debt has been legally assigned or transferred to;&rdquo;
-	</blockquote>
-	<p title="Analysis of the law" data-structure="Section">
-		20. What is &lsquo;financial debt&rsquo; is defined in Section 5(8) which is to the following effect:  17
-	</p>
-	<blockquote title="Analysis of the law">
-		&ldquo;Section 5(8) &ldquo;financial debt&rdquo; means a debt along with interest, if any, which is disbursed against the consideration for the time value of money and includes&mdash;
-	</blockquote>
-	<blockquote title="Analysis of the law">
-		(a) money borrowed against the payment of interest;
-	</blockquote>
-	<blockquote title="Analysis of the law">
-		(b) any amount raised by acceptance under any acceptance credit facility or its de- materialised equivalent;
-	</blockquote>
-	<blockquote title="Analysis of the law">
-		(c) any amount raised pursuant to any note purchase facility or the issue of bonds, notes, debentures, loan stock or any similar instrument;
-	</blockquote>
-	<blockquote title="Analysis of the law">
-		(d) the amount of any liability in respect of any lease or hire purchase contract which is deemed as a finance or capital lease under the Indian Accounting Standards or such other accounting standards as may be pscribed;
-	</blockquote>
-	<blockquote title="Analysis of the law">
-		(e) receivables sold or discounted other than any receivables sold on non-recourse basis;
-	</blockquote>
-	<blockquote title="Analysis of the law">
-		(f) any amount raised under any other transaction, including any forward sale or purchase agreement, having the commercial effect of a borrowing;
-	</blockquote>
-	<blockquote title="Analysis of the law">
-		(g) any derivative transaction entered into in connection with protection against or benefit from fluctuation in any rate or price and for calculating the value of any derivative transaction, only the market value of such transaction shall be taken into account;
-	</blockquote>
-	<blockquote title="Analysis of the law">
-		(h) any counter-indemnity obligation in respect of a guarantee, indemnity, bond, documentary letter of credit or any other instrument issued by a bank or financial institution;
-	</blockquote>
-	 18
-	<blockquote title="Analysis of the law">
-		(i) the amount of any liability in respect of any of the guarantee or indemnity for any of the items referred to in sub-clauses (a) to (h) of this clause;&rdquo;
-	</blockquote>
-	<p title="Petitioner's Argument" data-structure="PetArg">
-		21. Whether the corporate debtor owed any financial debt to the appellant so as to treat the appellant as financial creditor is the question to be answered. The definition of &lsquo;financial debt&rsquo; as contained in Section 5(8) contains the expssions &ldquo;means&rdquo; and &ldquo;includes&rdquo;. The definition begins with the words &ldquo;financial debt&rdquo; means 'a debt alongwith interest, if any, which is disbursed against the consideration for the time value of money and includes'... The main part of the definition, thus, provides that financial debt means a debt &ldquo;which is disbursed against the consideration for the time value of money&rdquo;. The definition in the second part gives instances which also includes financial debt. Learned counsel for the appellant in his submission has relied on Section 5(8)(i) to support his claim that the appellant is the financial creditor. Learned counsel for the appellant has referred both sub-clause (b) and sub-  19 clause (i) and submits that credit facility which was extended to the borrower is referable to Section 5(8)
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		(b) and the corporate debtor pledged his share to give indemnity for credit facility and which is in a sense of guarantee. The debt is a financial debt within the meaning of Section 5(8)(i) and the appellant is the financial creditor. There can be no dispute that credit facility given by the Assignor to borrower by Facility Agreement dated 12.05.2011 is a credit facility which can be covered under Section 5(8)(b). A bare perusal of Section 5(8)(i) indicates that it contemplates amount of any liability in respect of any of the guarantee or indemnity for any of the items referred to in sub-clauses(a) to (h) of clause (8). Sub-clause (i) uses two expssions &ldquo;guarantee&rdquo; and &ldquo;indemnity&rdquo; for any of the items referred to in sub-clauses (a) to (h).
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		22. Chapter VIII of the Indian Contract Act, 1872 deals with &ldquo;Of Indemnity and Guarantee&rdquo;. Section 124 defines &ldquo;Contract of indemnity&rdquo; and Section 126  20 defines &ldquo;Contract of guarantee&rdquo;. Section 126 which is relevant for the psent case is as follows:
-	</p>
-	<blockquote title="Analysis of the law">
-		&ldquo; Section 126. &ldquo;Contract of guarantee&rdquo;, &ldquo;surety&rdquo;, &ldquo;principal debtor&rdquo; and &ldquo;creditor&rdquo;.&mdash;A &ldquo;contract of guarantee&rdquo; is a contract to perform the promise, or discharge the liability, of a third person in case of his default. The person who gives the guarantee is called the &ldquo;surety&rdquo;; the person in respect of whose default the guarantee is given is called the &ldquo;principal debtor&rdquo;, and the person to whom the guarantee is given is called the &ldquo;creditor&rdquo;. A guarantee may be either oral or written.&rdquo;
-	</blockquote>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		23. As clear from the definition a contract of guarantee is a contract to perform the promise, or discharge the liability, of a third person in case of his default. The psent is not a case where the corporate debtor has entered into a contract to perform the promise, or discharge the liability of borrower in case of his default. The Pledge Agreement is limited to pledge 40,160 shares as security. The corporate debtor has never promised to discharge the liability of borrower. The Facility Agreement under which the borrower was bound by the terms and  21 conditions and containing his obligation to repay the loan security for performance are all contained in the Facility Agreement. A contract of guarantee contains a guarantee &ldquo;to perform the promise or discharge the liability of third person in case of his default&rdquo;. Thus, key words in Section 126 are contract &ldquo;to perform the promise&rdquo;, or &ldquo;discharge the liability&rdquo;, of a third person. Both the expssions &ldquo;perform the promise&rdquo; or &ldquo;discharge the liability&rdquo; relate to &ldquo;a third person&rdquo;. The Pledge Agreement dated 10.01.2012 does not contain any contract that the promise which was made by the borrower in the Facility Agreement dated 12.05.2011 to discharge the liability of debt of Rs.40 crores is undertaken by the corporate debtor. It was the borrower who had promised to repay the loan of Rs.40 crores in Facility Agreement dated 12.05.2011 and it was borrower who had undertaken to discharge the liability towards lender. The Pledge Agreement dated 10.01.2012 does not contain any contract that corporate debtor has contracted to perform the  22 promise, or discharge the liability of the third person. The Pledge Agreement is limited to pledge of 40,160 shares of GEL only. We have noticed above that in the Facility Agreement there is a Security Creation by way of Schedule IV in which 100% equity shares of GEL were pledged by the borrower and second pari-passu charge on all current assets of the GEL was also created as security for loan. It transpires that since some shares of GEL were also with the corporate debtor who is subsidiary Company of Doshion Ltd. the same was also pledged with the lender as additional security by a subsequent agreement dated 10.01.2012.
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		24. The Pledge Agreement and undertaking given, entered between Assignor and corporate debtor cannot be termed as contract of guarantee within the meaning of Section 126.
-	</p>
-	 23
-	<p title="Analysis of the law" data-structure="Section">
-		25. The expssion &ldquo;pledge&rdquo; is separately dealt with in the Indian Contact Act, 1872. Section 172 defines 'pledge' in the following words:
-	</p>
-	<blockquote title="Analysis of the law">
-		&ldquo;Section 172. "Pledge", "pawnor", and "pawnee" defined.-The bailment of goods as security for payment of a debt or performance of a promise is called "pledge". The bailor is in this case called the "pawnor". The bailee is called "pawnee".:&rdquo;
-	</blockquote>
-	<p title="Analysis of the law" data-structure="Section">
-		26. The word 'guarantee' and 'indemnity' as occurring in Section 5(8)(i) has not been defined in the Code. Section 3 sub-section (37) of the Code provides that words and expssions used but not defined in the Code but defined in the Indian Contract Act, 1872 shall have the meanings respectively assigned to them.
-	</p>
-	<p title="Precedent Analysis" data-structure="Precedent">
-		27. Learned counsel for the appellant has referred to a judgment of the Bombay High Court in the Indian Law Reports, Volume LV 1931, 617, Jagjivandas Jethalal and another vs. King Hamilton &amp; Co., which was case arising out of the suit filed to enforce an equitable mortgage of an immovable property. The  24 defendants as owners of the immovable property in question created an equitable mortgage upon it as sureties for the firm of Sarda &amp; Sons who owed money to the plaintiff. The Bombay High Court had occasion to consider Section 126 of the Contract Act in the above case. Noticing the arguments based on Section 126 of the Indian Contract Act raised by the respondent, the Bombay High Court noticed following at page 684:
-	</p>
-	<blockquote title="Precedent Analysis">
-		"......Mr. Desai's answer to that is that the defendants here were not sureties. He relies on section 126 of the Indian Contract Act which provides that a &ldquo;contract of guarantee&rdquo; is a contract to perform the promise or discharge the liability of a third person in case of his default, and the person who gives the guarantee is called the &ldquo;surety&rdquo;. Mr. Desai says that here there was no personal obligation on the defendents to pay anything: they merely handed over their property as security, and that being so, there was no contract to perform the promise or discharge the liability of a third person. Then he says that in section 135, which provides that a contract between the creditor and the principal debtor by which the creditor makes a composition with, or promises to give time to, or not to sue, the principal debtor, dishcarges the surety unless the surety assents to such contract, th word &ldquo;surety&rdquo; must have  25 the same meaning as in section 126, and therefore a person who merely deposits the documents as security is not a surety within section 135. There may possibly be something in that argument on the wording of the sections, but it has been held often that the Indian Contract Act is not exhaustive, and, therefore, one has to consider apart from the Act what the general is.&rdquo;
-	</blockquote>
-	<blockquote title="Precedent Analysis">
-		28. The Bombay High Court although observed that on plain reading of Section 126, there may be some substance in the submission of Mr. Desai but Bombay High Court proceeded to examine the general law. The judgment of the Bombay High Court relied by the learned counsel for the appellant was on its own facts and has no bearing on interptation of Section 5(8)(i) with reference to Section 126 of Contract Act.
-	</blockquote>
-	<blockquote title="Precedent Analysis">
-		29. The learned counsel for the respondent has placed heavy reliance on two-Judge Bench judgment of this Court in Jaypee Infratech Limited vs. Axis Bank Limited (supra). One of the issues which came before this Court was as to whether the respondent (lenders  26 of JAL) could be financial creditors of the corporate debtor JIL on the strength of the mortgages created by corporate debtor as collateral securities of its holding Co. JIL. In the above case, the AXIS Bank had lent finance to Jaiprakash Associates Ltd.(JAL), the holding company, Jaypee Infratech Ltd.(JIL) had mortgaged several properties as collateral securities for the loans and advances made by the Axis Bank to JAL. Interim Resolution Professional has rejected the claim of the Asix Bank to be recognised as financial creditor of corporate debtor (JIL). The National Company Law Tribunal has approved the decision of Interm Resolution Professional rejecting the claim of Axis Bank as financial creditor against which appeal was filed before the Appellate Tribunal which was allowed. The corporate debtor had filed an appeal before this Court in which appeal one of the issues was as to whether the Axis Bank can be recognised as financial creditor of the corporate debtor on the strength of the mortgaged by the JIL, corporate debtor of its holding Co. JAL. This Court after  27 noticing the facts, noted rival submissions of the parties on the above issue in detail. The two earlier judgments of this Court, namely, Swiss Ribbons (P) Ltd. v. Union of India, (2019) 4 SCC 17 and Pioneer Urban Land &amp; Infrastructure Ltd. v. Union of India, (2019) 8 SCC 416 were extensively noted. Paragraphs 46 to 50.2 contain elaborate discussion regarding the essentials of &ldquo;financial debt&rdquo; and &ldquo;financial creditor&rdquo; which are to the following effect:
-	</blockquote>
-	<p title="Precedent Analysis">
-		 &ldquo;46. Applying the aforementioned fundamental principles to the definition
-	</p>
-	<blockquote title="Precedent Analysis">
-		occurring in Section 5(8) of the Code, we have not an iota of doubt that for a debt to become 'financial debt' for the purpose of Part II of the Code, the basic elements are that it ought to be a disbursal against the consideration for time value of money. It may include any of the methods for raising money or incurring liability by the modes pscribed in Sub-
-	</blockquote>
-	<p title="Analysis of the law" data-structure="Section">
-		clauses (a) to (f) of Section 5(8); it may also include any derivative transaction or counter-indemnity obligation as per Sub- clauses (g) and (h) of Section 5(8); and it may also be the amount of any liability in respect of any of the guarantee or indemnity for any of the items referred to in Sub- clauses (a) to (h). The requirement of existence of a debt, which is disbursed against the consideration for the time value of money, in our view, remains an essential part even in respect of any of the transactions/dealings stated in Sub-clauses  28
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		(a) to (i) of Section 5(8), even if it is not necessarily stated therein. In any case, the definition, by its very frame, cannot be read so expansive, rather infinitely wide, that the root requirements of 'disbursement' against 'the consideration for the time value of money' could be forsaken in the manner that any transaction could stand alone to become a financial debt. In other words, any of the transactions stated in the said Sub-clauses
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		(a) to (i) of Section 5(8) would be falling within the ambit of 'financial debt' only if it carries the essential elements stated in the principal Clause or at least has the features which could be traced to such essential elements in the principal clause. In yet other words, the essential element of disbursal, and that too against the consideration for time value of money, needs to be found in the genesis of any debt before it may be treated as 'financial debt' within the meaning of Section 5(8) of the Code. This debt may be of any nature but a part of it is always required to be carrying, or corresponding to, or at least having some traces of disbursal against consideration for the time value of money.
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		47. As noticed, the root requirement for a creditor to become financial creditor for the purpose of Part II of the Code, there must be a financial debt which is owed to that person. He may be the principal creditor to whom the financial debt is owed or he may be an assignee in terms of extended meaning of this definition but, and nevertheless, the requirement of existence of a debt being owed is not forsaken.  29
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		48. It is also evident that what is being dealt with and described in Section 5(7) and in Section 5(8) is the transaction vis-a-vis the corporate debtor. Therefore, for a person to be designated as a financial creditor of the corporate debtor, it has to be shown that the corporate debtor owes a financial debt to such person. Understood this way, it becomes clear that a third party to whom the corporate debtor does not owe a financial debt cannot become its financial creditor for the purpose of Part II of the Code.
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		49. Expounding yet further, in our view, the peculiar elements of these expssions "financial creditor" and " financial debt", as occurring in Sections 5(7) and 5(8), when visualised and compared with the generic expssions "creditor" and "debt" respectively, as occurring in Sections 3(10) and 3(11) of the Code, the scheme of things envisaged by the Code becomes clearer. The generic term "creditor" is defined to mean any person to whom the debt is owed and then, it has also been made clear that it includes a 'financial creditor', a 'secured creditor', an 'unsecured creditor', an 'operational creditor', and a 'decree-holder'. Similarly, a "debt" means a liability or obligation in respect of a claim which is due from any person and this expssion has also been given an extended meaning to include a 'financial debt' and an 'operational debt'.
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		49.1. The use of the expssion "means and includes" in these clauses, on the very same principles of interptation as indicated above, makes it clear that for a person to  30 become a creditor, there has to be a debt i.e., a liability or obligation in respect of a claim which may be due from any person. A "secured creditor" in terms of Section 3(30) means a creditor in whose favour a security interest is created; and "security interest", in terms of Section 3(31), means a right, title or interest or claim of property created in favour of or provided for a secured creditor by a transaction which secures payment for the purpose of an obligation and it includes, amongst others, a mortgage. Thus, any mortgage created in favour of a creditor leads to a security interest being created and thereby, the creditor becomes a secured creditor. However, when all the defining clauses are read together and harmoniously, it is clear that the legislature has maintained a distinction amongst the expssions 'financial creditor', 'operational creditor', 'secured creditor' and 'unsecured creditor'. Every secured creditor would be a creditor; and every financial creditor would also be a creditor but every secured creditor may not be a financial creditor. As noticed, the expssions "financial debt" and "financial creditor", having their specific and distinct connotations and roles in insolvency and liquidation process of corporate persons, have only been defined in Part II whereas the expssions "secured creditor" and "security interest" are defined in Part I.
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		50. A conjoint reading of the statutory provisions with the enunciation of this Court in Swiss Ribbons (supra), leaves nothing to doubt that in the scheme of the IBC, what is intended by the expssion 'financial creditor' is a person who has direct engagement in the functioning of the corporate debtor; who is  31 involved right from the beginning while assessing the viability of the corporate debtor; who would engage in restructuring of the loan as well as in reorganisation of the corporate debtor's business when there is financial stress. In other words, the financial creditor, by its own direct involvement in a functional existence of corporate debtor, acquires unique position, who could be entrusted with the task of ensuring the sustenance and growth of the corporate debtor, akin to that of a guardian. In the context of insolvency resolution process, this class of stakeholders namely, financial creditors, is entrusted by the legislature with such a role that it would look forward to ensure that the corporate debtor is rejuvenated and gets back to its wheels with reasonable capacity of repaying its debts and to attend on its other obligations. Protection of the rights of all other stakeholders, including other creditors, would obviously be concomitant of such resurgence of the corporate debtor.
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		50.1. Keeping the objectives of the Code in view, the position and role of a person having only security interest over the assets of the corporate debtor could easily be contrasted with the role of a financial creditor because the former shall have only the interest of realising the value of its security (there being no other stakes involved and least any stake in the corporate debtor's growth or equitable liquidation) while the latter would, apart from looking at safeguards of its own interests, would also and simultaneously be interested in rejuvenation, revival and growth of the corporate debtor. Thus understood, it is clear that if the former i.e., a person having only security interest over the assets of the  32 corporate debtor is also included as a financial creditor and thereby allowed to have its say in the processes contemplated by Part II of the Code, the growth and revival of the corporate debtor may be the casualty. Such result would defeat the very objective and purpose of the Code, particularly of the provisions aimed at corporate insolvency resolution.
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		50.2. Therefore, we have no hesitation in saying that a person having only security interest over the assets of corporate debtor (like the instant third party securities), even if falling within the description of 'secured creditor' by virtue of collateral security extended by the corporate debtor, would nevertheless stand outside the sect of 'financial creditors' as per the definitions contained in Sub-sections (7) and (8) of Section 5 of the Code. Differently put, if a corporate debtor has given its property in mortgage to secure the debts of a third party, it may lead to a mortgage debt and, therefore, it may fall within the definition of 'debt' Under Section 3(10) of the Code. However, it would remain a debt alone and cannot partake the character of a 'financial debt' within the meaning of Section 5(8) of the Code.&rdquo;
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		30. This Court held that a person having only security interest over the assets of corporate debtor, even if falling within the description of 'secured creditor' by virtue of collateral security  33 extended by the corporate debtor, would not be covered by the financial creditors as per definitions contained in sub-section (7) and (8) of Section 5. What has been held by this Court as noted above is fully attracted in the psent case where corporate debtor has only extended a security by pledging 40,160 shares of GEL. The appellant at best will be secured debtor qua above security but shall not be a financial creditor within the meaning of Section 5 sub-sections (7) and (8).
-	</p>
-	<p title="Respondent's Argument" data-structure="RespArg">
-		31. Mr. Vishwanathan tried to distinguish the judgment of this Court in Jaypee Infratech Limited (supra) by contending that the above judgment has been rendered in the specific facts scenario which does not apply to the psent case at all. Shri Vishwanathan submits that in Jaypee Infratech Limited case (supra) corporate debtor had created mortgage for the loan obtained by the parent Company and no benefit of such loan has been received by the corporate debtor whereas in the psent case corporate debtor has been the direct and real  34 beneficiary of the loan advanced by Assigner to the parent Company of the corporate debtor. The above point as contended by the learned counsel does not commend us. The psent is also a case where only security was created by the corporate debtor in 40,160 shares of GEL, there was no liability to repay the loan taken by the borrower on the corporate debtor in the psent case. At best the Pledge Agreement and Agreement of undertaking executed on 10.01.2012, that is, subsequent to Facility Agreement, is security in favour of Lender-Assignor who at best will be secured creditor qua corporate debtor and not the financial creditor qua corporate debtor.
-	</p>
-	<p title="Conclusion" data-structure="Conclusion">
-		32. We may notice that the Appellate Tribunal has dealt with Section 5(8)(f) while rejecting the claim of the appellant as to be the financial creditor. It appears that the submission based on Section 5(8) (i) was not addressed before the Appellate Tribunal which has now been pssed before us. We, thus, uphold the decision of the Resolution Professional as approved  35 by the NCLAT as correct. The appellant is not financial creditor of the corporate debtor. Hence, Miscellaneous Application was rightly rejected by the Adjudicating Authority. We, however, make it clear that observations made by us in this judgment are only for deciding the claim of the appellant as the financial creditor within the meaning of Section 5(7) and 5(8) of the Code and shall have no bearing on any other proceedings undertaken by the appellant to establish any of its right in accordance with law. We, thus, do not find any merit in this appeal. The appeal is dismissed. No costs.
-	</p>
-	<p title="Conclusion" data-structure="Conclusion">
-		 ( ASHOK BHUSHAN )
-	</p>
-	<p title="Precedent Analysis" data-structure="Precedent">
-		( R. SUBHASH REDDY )
-	</p>
-	<p title="Precedent Analysis" data-structure="Precedent">
-		( M.R. SHAH ) New Delhi, February 03, 2021.
-	</p>
-	
-</div>

@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:legal_compliance cluster:legal_cluster agent:court_decision_predictor}}
-
-====== court_decision_predictor ======
-
-coming soon ...

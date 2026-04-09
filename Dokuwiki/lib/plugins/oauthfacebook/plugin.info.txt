@@ -1,7 +1,0 @@
-base   oauthfacebook
-author Andreas Gohr
-email  dokuwiki@cosmocode.de
-date   2022-01-13
-name   oauth Facebook Service
-desc   Facebook Service for use with the oAuth Plugin
-url    https://www.dokuwiki.org/plugin:oauthgoogle

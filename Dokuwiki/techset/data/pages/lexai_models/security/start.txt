@@ -1,9 +1,0 @@
-**LexAI**, the leading generative AI platform for the insolvency and restructuring ecosystem, is proud to announce the formation of its **Security Advisory Board**. The Board comprises information security experts and technology advisors from institutions that partner with LexAI, as well as from the infrastructure ecosystem supporting its secure AI operations.
-
-The **Security Advisory Board** will play a key role in enhancing LexAI’s already robust data protection framework. LexAI’s security infrastructure adheres to global best practices, with enterprise-grade encryption, regulatory compliance controls, and vetted partnerships with secure sub-processors — all designed to safeguard highly confidential insolvency and financial data.
-
-The Board will advise **LexAI’s leadership team**, led by **IP Adv. Atul Grover**, in defining next-generation security protocols for developing and deploying generative AI systems that handle sensitive financial, legal, and creditor information. As generative AI continues to transform professional and regulatory workflows, LexAI remains committed to evolving its data governance framework to ensure trust, transparency, and compliance.
-
-> “AI in insolvency requires the highest level of confidentiality, integrity, and accountability,” said **Atul Grover, Founder of LexAI**. “The Security Advisory Board enables us to proactively set new standards for secure AI deployment in regulated domains. Our mission is to empower professionals to leverage AI confidently — knowing that their data, and that of their clients, is protected, private, and used solely for their benefit.”
-
-Modern generative AI has the power to redefine financial resolution, legal analytics, and governance. LexAI’s Security Advisory Board will ensure that as this transformation unfolds, **security, privacy, and compliance remain at the core of AI innovation** in the insolvency and restructuring ecosystem.

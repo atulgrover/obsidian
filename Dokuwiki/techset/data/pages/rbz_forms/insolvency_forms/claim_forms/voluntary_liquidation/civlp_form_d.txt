@@ -1,4 +1,0 @@
-{{tag>judicial_process:insolvency_process form_type:claim_forms process_type:voluntary_liquidation stakeholder_type:workmen_employees}}
-
-====== Voluntary Liquidation Form D - Proof of Claim by Workman or Employee ======
-{{pdfjs 200em,500px> pdf:vol_liquidation_process_form_d.pdf}}

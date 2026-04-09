@@ -77,12 +77,30 @@ function isAddressLine(text) {
 }
 
 /**
+ * Detect if text is a legal footnote/amendment annotation.
+ * These appear in ALL CAPS in Indian legal PDFs but are editorial notes, not headings.
+ * e.g. "Substituted by Notification No. IBBI/2018-19/GN/REG032, dated 5th October, 2018"
+ */
+function isFootnoteAnnotation(text) {
+  // Bare form: "Substituted by Notification No. ..."
+  if (/^(substituted|omitted|inserted|amended|added|deleted|replaced|renumbered)\s+by\b/i.test(text)) return true;
+  // Number-prefixed form: "26 Substituted by ...", "45 Clause (j) omitted by ..."
+  if (/^\d+\s+(substituted|omitted|inserted|amended|added|deleted|replaced|renumbered)\s+by\b/i.test(text)) return true;
+  if (/^\d+\s+(clause|sub-regulation|regulation|proviso|explanation)\s+.{0,40}(omitted|substituted|inserted|deleted)\b/i.test(text)) return true;
+  // Concatenated forms: "73Substitutedby..." or "73 Substitutedby..." (space missing within word)
+  if (/^\d+\s*(substituted|omitted|inserted|amended|added|deleted|replaced)/i.test(text)) return true;
+  return false;
+}
+
+/**
  * Detect if a line is a header
  */
 function detectHeader(line, avgFontSize) {
   const text = line.text.trim();
   // Address lines look like large-font text but are not headings
   if (isAddressLine(text)) return false;
+  // Editorial footnotes/amendment annotations are not headings
+  if (isFootnoteAnnotation(text)) return false;
   if (text === text.toUpperCase() && text.length > 3 && text.length < 80) return true;
   if (avgFontSize > 14 && text.length < 100) return true;
   if (/^\d+(\.\d+)*\s+[A-Z]/.test(text)) return true;
@@ -158,6 +176,36 @@ function detectTables(paragraphs) {
 }
 
 /**
+ * Determine heading level from content patterns + font size.
+ * Pattern-based rules take priority over font size so documents that use
+ * consistent 12pt fonts (e.g. legal regulations) still get a proper hierarchy.
+ *
+ * H1 → Chapter / Part / Schedule / Act title
+ * H2 → ALL CAPS section titles, numbered top-level sections (1., 2.)
+ * H3 → Sub-sections (1.1, 1.2), mixed-case short headings
+ */
+function getHeadingLevel(text, avgFontSize) {
+  // Font size always wins for very large text
+  if (avgFontSize > 18) return 1;
+  if (avgFontSize > 14) return 2;
+
+  // Chapter / Part / Schedule / Form headings → H1
+  if (/^(CHAPTER|PART|SCHEDULE|FORM|ANNEXURE)\b/i.test(text)) return 1;
+
+  // ALL CAPS text (short) → H2
+  if (text === text.toUpperCase() && text.length > 3 && text.length < 120) return 2;
+
+  // Numbered section depth: "1." or "1. Title" → H2; "1.1" → H3
+  const numMatch = text.match(/^(\d+)(\.(\d+))*/);
+  if (numMatch) {
+    const dots = (numMatch[0].match(/\./g) || []).length;
+    return dots === 0 ? 2 : 3;
+  }
+
+  return 3;
+}
+
+/**
  * Finalize paragraph object - clean up text by removing internal line breaks
  */
 function finalizeParagraph(p) {
@@ -182,7 +230,7 @@ function finalizeParagraph(p) {
     width: Math.max(...p.lines.flatMap(l => l.items.map(i => (i.x || 0) + (i.width || 0)))) -
            Math.min(...p.lines.flatMap(l => l.items.map(i => i.x || 0))),
     isHeading: p.isHeader || false,
-    headingLevel: p.isHeader ? (p.avgFontSize > 18 ? 1 : (p.avgFontSize > 14 ? 2 : 3)) : 0,
+    headingLevel: p.isHeader ? getHeadingLevel(cleanText, p.avgFontSize) : 0,
     isList: p.isList || false,
     isFooter: p.isFooter || false,
     isTable: false,

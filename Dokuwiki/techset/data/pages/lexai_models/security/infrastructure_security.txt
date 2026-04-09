@@ -1,1 +1,0 @@
-Built on a scalable and resilient cloud architecture, our platform leverages industry-leading services AWS/GCP, coupled with containerized environments (Docker, Kubernetes) for seamless security, monitoring, and auto-scaling. 

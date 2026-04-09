@@ -1,7 +1,0 @@
-{{tag>judicial_process:insolvency_process form_type:application_forms process_type:insolvency_initiation stakeholder_type:corporate_lawyer}}
-
-====== FORM OF DEMAND NOTICE/ INVOICE DEMANDING PAYMENT ====== 
-Insolvency initiation - Application Form 3 - {{pdf:insolvency_application_form3.pdf}}
-{{pdfjs 200em,500px> pdf:insolvency_application_form3.pdf}}
-
-

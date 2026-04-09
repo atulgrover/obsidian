@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:intelligence_analytics cluster:predictive_intelligence agent:default_forecasting_agent}}
-
-====== default_forecasting_agent ======
-
-coming soon ...

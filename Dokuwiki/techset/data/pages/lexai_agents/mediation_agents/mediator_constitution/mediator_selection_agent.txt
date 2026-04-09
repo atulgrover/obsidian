@@ -1,7 +1,0 @@
-1. Mediator/Arbitrator Selection Agent
-
-The Mediator/Arbitrator Selection Agent assists in constituting the mediation panel or nominating a qualified neutral for a specific dispute. It references pre-approved empanelment lists, qualifications, experience records, and domain expertise to shortlist suitable mediators or arbitrators for the case. This ensures that every appointment is transparent, compliant with institutional or IBBI mediation rules, and suited to the dispute’s subject matter.
-
-The agent uses predefined filters—such as sector expertise, geographic proximity, language preference, and prior case performance—to recommend the most appropriate professional. It can also assign mediators automatically through randomized or weighted allocation methods to maintain impartiality and avoid bias in selection.
-
-Once the mediator or panel is finalized, the agent generates appointment documentation, notifications, and digital acceptance requests. This digital workflow reduces administrative overhead, accelerates the constitution process, and ensures that appointments are traceable and auditable, strengthening confidence among disputing parties.

@@ -1,3 +1,0 @@
--- this migration is handled in action/migration.php in migration16()
---
--- unifies page and lookup schemas

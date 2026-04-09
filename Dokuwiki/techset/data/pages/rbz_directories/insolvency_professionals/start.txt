@@ -1,4 +1,0 @@
-  * https://professionals.ushahidi.io/map
-  * https://professionals.api.ushahidi.io/api/v3/posts
-
-{{url>http://professionals.ushahidi.io/map 100%,800px}}

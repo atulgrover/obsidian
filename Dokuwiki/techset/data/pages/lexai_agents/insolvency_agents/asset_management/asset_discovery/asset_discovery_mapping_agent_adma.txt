@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:asset_management cluster:asset_discovery agent:asset_discovery_mapping_agent}}
-
-====== Asset Discovery Mapping Agent ======
-
-This agent identifies, catalogs, and geolocates assets linked to the corporate debtor using structured (ROC filings, bank records) and unstructured data (emails, invoices, public databases). It creates an asset inventory map — physical, digital, and financial — tagging ownership, encumbrances, and current status to assist insolvency professionals in early-stage resolution and valuation.

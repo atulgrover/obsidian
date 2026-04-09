@@ -1,7 +1,0 @@
-**Portfolio Performance Agent**
-
-The Portfolio Performance Agent offers a macro-level view of all active and completed insolvency or resolution assignments. It consolidates case data to evaluate the overall health, progress, and financial impact of the professional’s portfolio. Metrics include total realizations, recovery timelines, and case completion rates.
-
-It helps professionals allocate resources efficiently by identifying high-risk or underperforming cases. Trend analysis and predictive insights guide strategy for future assignments and improve stakeholder confidence in case management performance.
-
-The agent also generates analytical summaries suitable for regulatory reporting, investor presentations, or internal audits—providing a transparent, data-backed perspective on organizational effectiveness.

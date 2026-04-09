@@ -1,7 +1,0 @@
-3. Sentiment & Tone Analysis Agent
-
-The Sentiment & Tone Analysis Agent processes the linguistic content of party communications—emails, submissions, or spoken dialogue—to assess tone (positive, neutral, negative) and sentiment strength. It helps mediators understand underlying attitudes and shifts in stance throughout the process.
-
-By continuously analyzing text and speech, the agent can flag moments when communication becomes adversarial or conciliatory. This allows professionals to guide the discussion strategically, promoting constructive dialogue.
-
-Over time, the agent compiles sentiment trend reports, showing how each party’s tone evolved. These insights can inform mediation strategy, post-session evaluations, and even automated feedback for improving negotiation outcomes.

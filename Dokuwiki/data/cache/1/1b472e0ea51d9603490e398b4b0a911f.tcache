@@ -1,1 +1,0 @@
-a:3:{i:0;a:4:{s:5:"label";a:2:{i:0;s:6:"Status";i:1;s:7:"Version";}s:13:"tagExpression";a:2:{i:0;s:9:"status:.*";i:1;s:10:"version:.*";}s:12:"selectedTags";a:2:{i:0;a:1:{i:0;s:12:"status:ready";}i:1;a:0:{}}s:19:"pagesPerMatchedTags";a:2:{i:0;a:0:{}i:1;a:0:{}}}i:1;a:0:{}i:2;a:0:{}}

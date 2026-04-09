@@ -1,4 +1,0 @@
-==== Securitisation SARFAESI Act, 2002 ====
-  * [[rbz_datasets:insolvency_chatbot:laws_sarfaesi_act:sarfaesi_sections]]
-  * [[rbz_datasets:insolvency_chatbot:laws_sarfaesi_act:sarfaesi_sie_rules]]
-  * [[rbz_datasets:insolvency_chatbot:laws_sarfaesi_act:sarfaesi_cr_rules]]

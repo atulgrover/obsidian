@@ -1,7 +1,0 @@
-7. Argument Mapping Agent
-
-The Argument Mapping Agent visually organizes the logical flow of arguments, counterarguments, and evidentiary support presented during negotiation or hearing. It helps mediators and professionals understand the structure of reasoning and identify gaps or fallacies.
-
-The agent captures each claim, supporting fact, and rebuttal, displaying them in linked nodes or flow diagrams. This structured visualization clarifies each side’s strengths and weaknesses, aiding in balanced evaluation.
-
-By maintaining live, evolving maps of the discussion, it provides mediators with a clear overview of progress and contention areas. The Argument Mapping Agent enhances comprehension, transparency, and analytical depth in negotiation and adjudicatory processes.

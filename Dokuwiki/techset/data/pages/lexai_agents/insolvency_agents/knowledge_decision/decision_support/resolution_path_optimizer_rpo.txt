@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:knowledge_decision cluster:sdecision_support agent:resolution_path_optimizer}}
-
-====== resolution_path_optimizer ======
-
-coming soon ...

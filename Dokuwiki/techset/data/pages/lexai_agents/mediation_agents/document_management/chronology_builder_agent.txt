@@ -1,7 +1,0 @@
-3. Chronology Builder Agent
-
-The Chronology Builder Agent constructs an accurate, event-based timeline from all documents and communications associated with a case. It automatically extracts and orders key dates—such as contract execution, default occurrence, demand notices, and NCLT filings—to visualize the complete factual progression.
-
-This chronological mapping helps professionals identify causation patterns, procedural lapses, or periods of inactivity that may influence legal interpretation or negotiation strategy. It also assists in validating whether statutory notices, declarations, and filings were made within prescribed timelines under the IBC or mediation rules.
-
-The agent outputs a structured, interactive timeline or report that can be easily inserted into pleadings, information memoranda, or hearing briefs. By converting unstructured document data into a coherent event sequence, the Chronology Builder Agent enhances clarity, supports compliance verification, and strengthens the factual narrative for effective case presentation.

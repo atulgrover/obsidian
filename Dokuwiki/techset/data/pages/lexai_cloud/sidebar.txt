@@ -1,5 +1,0 @@
-~~NOSIDEBAR~~ 
-{searchform}
-{{indexmenu>lexai_models:#2|js navbar nocookie}}
-{{indexmenu>lexai_languages:#2|js navbar nocookie}}
-{{indexmenu>lexai_taxonomies:#2|js navbar nocookie}}

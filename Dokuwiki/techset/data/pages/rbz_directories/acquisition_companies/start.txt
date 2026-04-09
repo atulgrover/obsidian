@@ -1,4 +1,0 @@
-  * https://resolutionassets.ushahidi.io/map
-  * https://resolutionassets.api.ushahidi.io/api/v3/posts
-
-{{url>http://resolutionassets.ushahidi.io/map 100%,800px}}

@@ -1,4 +1,0 @@
-{{tag>judicial_process:insolvency_process form_type:claim_forms process_type:liquidation_process stakeholder_type:authorised_representative}}
-
-===== Liquidation Process Form F - Proof of claim by Authorised Representative of Worker or Employees =====
-{{pdfjs 200em,500px> pdf:liquidation_process_form_f.pdf}}

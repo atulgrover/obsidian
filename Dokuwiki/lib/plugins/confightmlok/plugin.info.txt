@@ -1,7 +1,0 @@
-base   confightmlok
-author Luis Machuca Bezzaza
-email  lambalicious [at] tuta [dot] io
-date   2023-07-12
-name   config:htmlok Plugin
-desc   Enables raw HTML like the old 'config:htmlok' behaviour.
-url    http://dokuwiki.org/plugin:confightmlok

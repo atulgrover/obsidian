@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:asset_management cluster:asset_discovery agent:intangible_asset_identifier}}
-
-====== Intangible Asset Identifier ======
-
-Specialized in identifying and valuing non-physical assets — trademarks, copyrights, patents, goodwill, software licenses, and customer data. It scans IP registries, digital platforms, and contract repositories to capture and assess the economic potential of intangible resources, ensuring full inclusion in resolution and liquidation value assessments.

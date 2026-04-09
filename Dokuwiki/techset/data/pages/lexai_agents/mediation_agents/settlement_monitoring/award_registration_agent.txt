@@ -1,7 +1,0 @@
-**Award Registration Agent**
-
-The Award Registration Agent ensures that every settlement agreement or adjudicated award is duly registered, recorded, and disseminated across required regulatory and institutional systems. It facilitates electronic submission of awards to NCLT, IBBI, or other statutory repositories, maintaining traceability and legal enforceability.
-
-This agent validates documentation, assigns unique registration IDs, and links them to the respective insolvency case record. It ensures all relevant annexures, compliance certificates, and consent forms are attached before submission. This prevents procedural lapses and ensures proper recognition of the award.
-
-Beyond registration, it maintains an indexed archive for easy retrieval during audits, appeals, or compliance reviews. The agent thus enhances administrative efficiency, data integrity, and transparency across post-resolution documentation workflows.

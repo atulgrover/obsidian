@@ -1,3 +1,0 @@
--- this migration is handled in action/migration.php in migration17()
---
--- fix data not properly migrated by 16

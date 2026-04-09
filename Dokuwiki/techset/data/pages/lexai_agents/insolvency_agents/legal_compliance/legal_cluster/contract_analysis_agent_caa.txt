@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:legal_compliance cluster:legal_cluster agent:contract_analysis_agent}}
-
-====== contract_analysis_agent ======
-
-coming soon ...

@@ -1,3 +1,0 @@
--- this migration is handled in action/migrations.php in migration19()
---
--- it adds 'published' column to all tables (ALTER TABLE)

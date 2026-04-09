@@ -1,5 +1,0 @@
-The Dispute Categorization Agent automatically classifies disputes based on their nature—contractual, financial, operational, employment-related, or regulatory. It applies NLP and rule-based models to identify the type and sub-type of conflict using submitted documents or summaries.
-
-This classification is critical in determining the appropriate resolution mechanism under the IBC or mediation frameworks, such as whether the dispute falls under Section 7 (financial), Section 9 (operational), or pre-pack mediation under Section 54A. Proper categorization ensures procedural alignment and correct forum selection.
-
-The agent produces a concise dispute taxonomy report, helping Insolvency Professionals and Mediators allocate resources, assign experts, and determine complexity levels early. It forms the foundation for subsequent eligibility, jurisdiction, and readiness assessments.

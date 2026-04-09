@@ -1,4 +1,0 @@
-{{tag>judicial_process:insolvency_process form_type:process_forms process_type:voluntary_liquidation stakeholder_type:insolvency_professional}}
-
-====== Public Announcement - Corporate Voluntary Liquidation - CIVLP Form A ======
-{{pdfjs 200em,500px> pdf:vol_liquidation_process_form_a.pdf}}

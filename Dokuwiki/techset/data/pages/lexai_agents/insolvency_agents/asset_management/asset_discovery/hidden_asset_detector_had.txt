@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:asset_management cluster:asset_discovery agent:hidden_asset_detector_agent}}
-
-====== Hidden Asset Detector ======
-
-This agent leverages forensic accounting, transaction pattern analysis, and entity-link graphs to uncover concealed or diverted assets — such as related-party transactions, offshore holdings, or benami properties. It cross-references corporate disclosures with financial trails, blockchain records, and director relationships to trace recoverable assets otherwise hidden from books.

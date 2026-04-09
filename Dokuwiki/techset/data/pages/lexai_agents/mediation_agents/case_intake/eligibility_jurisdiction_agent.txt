@@ -1,5 +1,0 @@
-The Eligibility and Jurisdiction Agent evaluates whether the case qualifies for mediation or insolvency proceedings under applicable laws. It verifies thresholds like default amount, party status, and legal standing as per IBC or mediation regulations.
-
-It cross-references statutory criteria (for instance, Section 4 thresholds or entity eligibility under Section 3(7)) and ensures that the filing or mediation request falls within the correct adjudicatory or institutional jurisdiction. If jurisdiction is unclear, the agent suggests the appropriate forum (NCLT, DRT, or mediation centre).
-
-This automated legal pre-screening prevents time loss from invalid filings or jurisdictional objections, enabling professionals to proceed confidently. The output includes a compliance checklist and eligibility certificate, supporting defensible case initiation.

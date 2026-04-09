@@ -1,176 +1,0 @@
-<div>
-	<div>
-		<p>
-			Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.
-		</p>
-	</div>
-	<h2>
-		Supreme Court of India
-	</h2>
-	<h2>
-		Sandeep Khaitan vs Jsvm Plywood Industries Ltd. on 22 April, 2021
-	</h2>
-	<h3>
-		Author: K.M. Joseph
-	</h3>
-	<h3>
-		Bench: Uday Umesh Lalit, Indira Banerjee, K.M. Joseph
-	</h3>
-	<p>
-		 1 REPORTABLE IN THE SUPREME COURT OF INDIA CRIMINAL APPELLATE JURISDICTION CRIMINAL APPEAL NO.447 OF 2021 (Arising out of SLP (CRL.) No. 1549 of 2021) SANDEEP KHAITAN, RESOLUTION PROFESSIONAL FOR NATIONAL PLYWOOD INDUSTRIES LTD. &hellip; APPELLANT(S) VERSUS JSVM PLYWOOD INDUSTRIES LTD. &amp; Anr. &hellip; RESPONDENT(S) J U D G M E N T
-	</p>
-	<p title="Issue" data-structure="Issue">
-		K.M. JOSEPH, J.
-	</p>
-	<p title="Issue" data-structure="Issue">
-		Leave granted.
-	</p>
-	<p title="Issue" data-structure="Issue">
-		1. The appeal is directed against order dated 04.02.2021 passed by the Hon&rsquo;ble High Court of Guwahati. In the impugned order, the High Court has allowed an interlocutory application filed by Signature Not Verified Digitally signed by Indu Marwah Date: 2021.04.22 the Respondent No. 1 to allow it to operate its 15:30:43 IST Reason: bank account maintained with the ICICI Bank  2 Bhubaneswar and to unfreeze the bank account of its creditors over which the lien has been created and the accounts frozen pursuant to the lodging of an FIR by the appellant before us. It was made subject to conditions.
-	</p>
-	<p title="Fact" data-structure="Facts">
-		2. An application under Section 7 of the Insolvency and Bankruptcy Code, 2016, hereinafter referred to as the IBC was admitted on 26.08.2019 against one National Plywood Industries Limited (NPIL). The Appellant was appointed as the Interim Resolution Professional. A moratorium also came to be passed by the very same order within the meaning of Section 14 of the IBC. The Appellant came to be appointed as the Resolution Professional by an order dated 08.11.2019. In the meantime, the Respondent No.1 claiming to be an operational creditor lay the claim for the amounts due to it from the Corporate Debtor before the Appellant vide communication dated 22.11.2019. It would appear that the former Managing Director of the Corporate Debtor challenged the order of the NCLT, Guwahati,  3 admitting the application under Section 7. The NCLAT by order dated 24.11.2019 dismissed the appeal interalia holding that the application under Section 7 was not barred by limitation. Civil Appeal No. 9142 of 2019 filed by the former Managing Director of the Corporate Debtor came to be however allowed by this Court by an order dated 20.01.2020. The NCLT was directed to consider the matter in accordance with law. It would appear that on 28.01.2020 interlocutory application 7 of 2020 filed by the former Managing Director of the Corporate Debtor seeking an injunction restraining the Respondents therein from interfering in the operation of the Corporate Debtor and to disperse the cost of the CIRP was disposed of interalia as follows: -
-	</p>
-	<blockquote title="Fact">
-		i. &ldquo;Today the Respondents submitted across the Bar that except ratifying the expenses of the IRP, no major decisions have been taken by the COC in the yesterday&rsquo;s COC meeting. Both the respondents informed that they are conscious  4 about the order passes by the Hon&rsquo;ble Supme Court and the legal consequences thereof. ii. In view of the above submissions of the respondents, this Tribunal expects that the respondents would maintain status-quo in respect of the IRP proceedings. As the main company petition was remanded back to the Hon&rsquo;ble NCLAT for fresh disposal in accordance with law, this Tribunal is of the considered opinion that the petitioner has to approach the Hon&rsquo;ble NCLAT for any further directions in the above matter and accordingly above application stands disposed of with the above observations. Even otherwise, the order of admission of the company petition has not attained finality and, therefore, no interim orders as prayed for needs to be passed today. iii. In the result, IA No. 07 of 2020 is disposed of with the above observations.&rdquo; Thereafter there is order dated 20.03.2020 passed which we will advert to.
-	</blockquote>
-	 5
-	<blockquote title="Fact">
-		3. It is the case of the Appellant that the former Managing Director of the Corporate Debtor in conspiracy with the Respondent No.1 engaged in an illegal transaction to the tune of Rs. 32.50 lakhs without authority from the Appellant and in violation of Section 14 of the IBC. It is his complaint that initially, the Managing Director made a transaction of Rs. 500. Thereafter, he proceeded by virtue of 4 consecutive transactions to transfer a sum of Rs. 32.50 lakhs to the Respondent No. 1. It is also complaint of the Appellant that the former Managing Director proceeded to transfer another sum of Rs. 3.29 lakhs from another account and the amount was transferred to his close associate.
-	</blockquote>
-	<blockquote title="Fact">
-		4. On 23.04.2020, the Appellant filed a cyber complaint. This was followed on the same date by filing an application under Section 19 read with Section 23 (2) of the IBC alleging non corporation by the pvious management of the Corporate Debtor.
-	</blockquote>
-	<p title="Fact" data-structure="Facts">
-		On 27.04.2020, the Appellant got lodged an FIR. On  6 04.05.2020 the ICICI Bank created a lien upon the bank account of the Respondent No. 1 based on the allegedly illegal transaction. The next development to be noticed is the order dated 20.05.2020 passed by the NCLT, Guwahati. The order is passed in I.A. No. 37 of 2020. The relief sought therein was for direction to the Directors of the Corporate Debtor to hand over the management of the company. The order reflects the controversy relating to the payment of Rs. 32.50 lakhs violating the moratorium. Tribunal finds that the directors of the Corporate Debtor were not giving maximum assistance. On the basis of its findings the tribunal issued directions to the suspended Board of the Corporate Debtor to cooperate with the Appellant. The Auditors were to complete the audit expeditiously interalia. More importantly the Directors were directed to refund the amount withdrawn less the amount if any paid to the alleged supplier as the cost of raw materials. The interlocutory application was posted before the  7 regular bench for hearing after lifting the lockdown.
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		5. A perusal of the order reveals that the Directors of the company sought to defend the withdrawal of Rs.32.50 lakhs as one intended to pay for the raw materials. It is further noticed that the Tribunal noticed that there was no proof for the same. More importantly it was found that even if done to discharge debt due to supplies during the CIRP, without permission and knowledge of the Resolution Professional, it was in violation of Section 14 of the Code.
-	</p>
-	<p title="Precedent Analysis" data-structure="Precedent">
-		6. The Appellant moved an application for review of the order dated 20.05.2020. The Tribunal in its order dated 05.06.2020 noticed the limitations flowing from Rules 154 and 155 of the NCLT, Rules, 2016 in the matter of review. It is observed that for the reasons highlighted in the 20.05.2020 the former Directors of the Corporate Debtor are found prima facie liable to refund the amount  8 unauthorisedly withdrawn from the account of the Corporate Debtor. It is also noticed that the Directors of the suspended board were not made respondents. The application for review came to be dismissed.
-	</p>
-	<p title="Issue" data-structure="Issue">
-		7. The genesis of the impugned order is the FIR lodged against the Appellant and arose from the payment effected into the account of Respondent No.1 in a sum of Rs. 32.50 lakhs. The said FIR came to be challenged in a petition under Section 482 of the Cr.P.C. by the Respondent No.1 by filing Criminal Petition No. 454 of 2020. In the same the Appellant also filed I.A. No. 453 of 2020.
-	</p>
-	<p title="Fact" data-structure="Facts">
-		8. On 19.01.2021 the NCLT, Guwahati passed an order in I.A No. 37 of 2020. By the said order the Appellant was directed to discharge his duties as per the provisions of the IBC. Thereafter, it also passed the following directions: -
-	</p>
-	<blockquote title="Fact">
-		i. &ldquo;The Learned Counsel for the Respondents has confirmed that the Suspended Management has been co-operating and providing assistance to  9 RP to complete the CIRP in time. The Corporate Debtor is directed to submit its reply Affidavit to the allegations made relating to the transactions of Rs. 35.795 lakhs serving a copy upon the RP.
-	</blockquote>
-	<blockquote title="Fact">
-		ii. Any amount of the Corporate Debtor lying in any Bank is to be transferred to the account being operated by the RP. Banks having account of the Corporate Debtor are directed to lift the lien, if any, on any amount of the Corporate Debtor and allow the operation of the account by the RP only.
-	</blockquote>
-	<blockquote title="Fact">
-		iii. The RP is directed to utilize the funds of the Corporate Debtor under CIRP judiciously keeping the Unit in its full operation.&rdquo;
-	</blockquote>
-	<p title="Issue" data-structure="Issue">
-		9. Thereafter, in the petition filed by the Respondent No.1 under Section 482, the High Court admitted the petition. The case was directed to be listed for regular hearing in usual course. (According to the Appellant the High Court had directed investigation to be continued. This is  10 not seen reflected in the order which is produced). In the I.A No. 453 of 2020 filed in the Section 482 resulting in the impugned order, the prayers sought has already been noted. It is to allow the Respondent No.1 and its creditors to operate their bank account over which lien has been created and those accounts which have been frozen based on the FIR dated 27.04.2020.
-	</p>
-	<p title="Precedent Analysis" data-structure="Precedent">
-		THE IMPUGNED ORDER
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		10. After noticing the contentions of the parties, the Learned Single Judge in the impugned order proceeds to hold as follows:-
-	</p>
-	<blockquote title="Court's Reasoning">
-		i. &ldquo;From the material on record, it is apparent that there was business relation between the petitioner company and the NPIL, which is evident from the various documents annexed to the petition. Only question raised in this FIR is that the money was transferred by the suspended CMD without any authority, inasmuch as, the entire state of affairs of NPIL was  11 vested with the Respondent No. 2, who has been appointed as resolution professional. Only incriminating allegation against the petitioner is that the suspended CMD has personal interest in the petitioner company being an associate company, which is however, a disputed fact required to be investigated by police.
-	</blockquote>
-	<blockquote title="Court's Reasoning">
-		ii. Be that as it may, having considered the entire gamut of the matter and the nature of accusation brought against the psent petitioner, I am of the view that freezing of all the bank account as indicated above would certainly cause unnecessary hardship, which may not be necessary for the investigation of the psent FIR in view of the nature of the accusation made therein as well as in view of the offer made by the petitioner to furnish a bond. Therefore, in my consider view, the petitioner is entitled to the interim relief as sought for. Accordingly, it is provided that the lien created upon the bank account  12 no. 149905001306 maintained with the ICICI Bank Limited, Chandrasekarpur Branch, Bhubaneswar be lifted, the petitioner and its creditors shall be allowed to operate the bank account over which lien has been created and the accounts have been frozen pursuant to the instruction of the Respondent No. 2 in connection with Margherita P.S. Case No. 0112/2020, until further order of the Court. iii. It is however, made clear that the interim relief granted to the petitioner as above with regard to unfreezing the bank account and lifting of lien shall be subject to the condition that the petitioner shall withdraw the WP (C) No. 118/2020 filed before the Itanagar Permanent Bench of this Court and furnishing an indemnity bond undertaking to refund the amount of Rs. 32.50 Lakhs if required, subject to final outcome of the criminal case.&rdquo;  13
-	</blockquote>
-	<p title="Respondent's Argument" data-structure="RespArg">
-		11. We heard the Learned Counsel for the Appellant Shri Anand Varma and the Learned Counsel for the Respondent No. 1, Shri Harish Pandey. The State is repsented by Shri Shuvodeep Roy.
-	</p>
-	<p title="Precedent Analysis" data-structure="Precedent">
-		SUBMISSIONS
-	</p>
-	<p title="Respondent's Argument" data-structure="RespArg">
-		12. The Learned Counsel for the Appellant contended that the impugned order proceeds on an erroneous basis namely that the allegations about the co-accused (former Managing Director of the Corporate Debtor) having an interest in the Respondent No.1 Company was a disputed fact which had to be investigated. It is the case of the Appellant that there is a report of the auditing firm. Also, the said finding of the High Court is contrary to the documents of the Respondent No. 1 itself. It is also urged that the High Court itself has permitted the investigation to go on in the petition under section 482. Secondly, he pointed out that the impugned order was contrary to Section 14 of the IBC. He drew support from the judgment  14 of this Court in P Mohanraj vs. M/S. Shah Brothers Ispat Pvt. Ltd. in Civil Appeal No. 10355 of 2018. According to him, the whole purpose of the moratorium would be defeated if members of the pvious management of the Corporate Debtor are left free to transfer the funds of the Corporate Debtor. The Respondent No. 1 was a related party of the Corporate Debtor. He reiterates that with the appointment of Appellant as the Resolution Professional under Section 25 (2)a of the IBC he is to take custody and control of all the assets of the Corporate Debtor. Finally, he also emphasized the nature of the jurisdiction under Section 482 of the Cr.P.C. The High Court has overlooked the limits of its power in passing the impugned order, he complains. He points out that the order admitting the application under section (7) has not been stricken by the remand by this Court of the appeal against the order admitting the application.
-	</p>
-	 15
-	<p title="Petitioner's Argument" data-structure="PetArg">
-		13. Per contra Shri Harish Pandey, Learned Counsel, contended that the order may not be interfered by this Court. The Respondent No.1 was a related party and it was always known to be such related party. He referred to the fact that the Respondent No.1 was supplier of raw material to the Corporate Debtor. He pointed out goods worth more than Rs.2 crores have been supplied by it to the Corporate Debtor. Payments were being made. In fact, a sum of more than Rs.39 lakhs is further due from the Corporate Debtor to the Respondent No. 1. It is emphasized as a MSME it would cause grave pjudice to it if the impugned order is set aside.
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		14. It is the case of the Respondent No. 1 further that the business relationship between the Respondent No. 1 and Corporate Debtor has existed for more than 15 years. The Corporate Debtor has been declared a sick industry on 18.04.2006. It was nursed back by the Respondent No. 1. Our attention is drawn to the minutes of the first  16 meeting of the Committee of Creditors dated 23.09.2019. The minutes reveal that committee of creditors observes that a substantial part of the raw materials is purchased from Respondent No.1 and that the relatives of the Corporate Debtor directors or shareholders hold more than 51 percent shareholding of the first respondent. It is further noted that the processes to assess the veracity and reasonableness of the transaction in such situation were let known and the purchases/sales must be benchmarked against arm&rsquo;s length transactions and open market transactions. (We may also notice that the meeting resolved that all the banks were to act on the instructions of the appellant interalia.) It is the case of the Respondent No. 1 that right from the beginning, it was known that the Respondent No. 1 was a related party. It is the further case of the Respondent No. 1 that its claim for over 6 crores of rupees was vetted, verified and admitted by the Appellant. After the commencement of CIRP Respondent No. 1 had made regular substantial supplies to the  17 Corporate Debtor for which the payment were being made (they relate to the period from 26.08.2019 to 31.03.2020). This is shown as amounting to Rs. 2,70,84,982. The Respondent No. 1 lays store by the order of the NCLT, Guwahati dated 28.01.2020 which we have already referred to. E-mails addressed to the Appellant to clarify did not evoke any response. In March 2020, orders were placed by the Corporate Debtor for approximately Rs. 30 lakhs. The lockdown intervened. On 18.04.2020 it is not disputed that the Corporate Debtor made a payment of Rs 32.50 lakhs through online net banking transfer against material supplied during the period that the corporate debtor was under
-	</p>
-	<blockquote title="Court's Reasoning">
-		CIRP. The Learned Counsel for the Respondent No.1 would point out that the order of the NCLT dated 20.05.2020 passed by the NCLT directed the directors of the Corporate Debtor to refund the amount withdrawn less any amount supplied to the alleged supplier. It is therefore, pointed out creating a lien on the accounts of the Respondent no. 1 was not justified. The Learned Counsel also  18 drew our attention to the order dated 24.03.2021 passed by the NCLT Guwahati Bench. This is in an effort at showing the manner in which the appellant has been functioning. The Tribunal in the said order refers to the Impugned Order and the Interim order passed by this Court in this matter. The Tribunal noted that the production has been suspended and layoff notice is also issued in regard to the Corporate Debtor. The objectives of the IBC are being defeated on the basis of the claims and the FIR interalia. The Appellant was directed to file the copy of the FIR in this case among other documents. The Learned counsel for the Respondent no. 1 would submit that the having regard to the orders passed by the tribunal the Impugned Order passed by the High Court may not be interfered with. Having regard to the dismissal of the review petition filed against the 20.05.2020 there is no merit in the psent appeal.
-	</blockquote>
-	<blockquote title="Court's Reasoning">
-		15. The Learned Counsel for the Appellant would point out that the Appellant is pvented from  19 disbursing the salary of the workers. Nearly four months&rsquo; salary would be disbursed with the amount which was paid by the former management without any authority as noticed. It is the case of Appellant that the transactions between the Respondent No.1 and the Corporate Debtor was not authorised by the Appellant during the period from 21.02.2020 to 27.04.2020.
-	</blockquote>
-	<p title="Conclusion" data-structure="Conclusion">
-		FINDINGS
-	</p>
-	<p title="Court's Reasoning" data-structure="CDiscource">
-		16. The contours of the jurisdiction under 482 of the Cr.P.C. are far too well settled to require articulation or reiteration. Undoubtedly, in this case by 26.08.2019 an application filed under section 7 of the IBC was admitted, the appellant appointed as the interim resolution professional and what is more a moratorium declared. With the declaration of the moratorium the prohibitions as enacted in section 14 came into force. It is clear that the assets of the company would include the amounts lying to the credit in the bank accounts.  20 There cannot be any dispute that well after the order under section 14 was passed, a sum of Rs. 32.50 lakhs has been remitted into the account of Respondent No.1 company. No doubt it is the definite case of the Respondent No.1 that it has had business relations with the Corporate Debtor since more than 15 years and that the amount remitted in its account repsented the price of the materials supplied to the Corporate Debtor. Apart from this amount a sum of rupees more than Rs.39 lakhs is still due. It is to be noticed that though an appeal was filed against the order admitting the petition under Section 7 the same was dismissed by the NCLAT. The appellate order was undoubtedly set aside by this court and the appeal remanded to the NCLT for its consideration. We would think that setting aside the appellate order of the NCLAT by this court and remanding the appeal would not have the effect of setting aside the order admitting the application. Initially, as was noticed by us an order was passed on 28.02.2020. The ambiguity created by the said order  21 was removed by the subsequent order of the Tribunal dated 20.03.2020. In other words, by the order dated 20.03.2020 the NCLT, Guwahati ordered that the appellant was at liberty to act as per law and the words used in the earlier order dated 28.02.2020 relied upon by the Respondent No.1 were found to be a mere casual observation which did not culminate into any direction. We need not say anything further particularly in view of the fact that there is an FIR and which is pending consideration in the High Court also. It is significant only for us to notice that the Appellant is essentially aggrieved by the transactions repsenting a sum of Rs. 32.50 lakhs all of which took place after order dated 20.03.2020.
-	</p>
-	<p title="Conclusion" data-structure="Conclusion">
-		17. It may be true that in the interim order passed by the NCLT Guwahati, the Tribunal had directed the Directors to refund the amount of the Corporate Debtor less any amount paid for supplies. It is also true that the review petition filed by the  22 Appellant is dismissed, essentially based on the limitations on the power of review.
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		18. The provisions of the IBC contemplate resolution of the insolvency if possible, in the first instance and should it not be possible, the winding up of the Corporate Debtor. The role of the insolvency professional is neatly carved out. From the date of admission of application and the appointment of Interim Resolution Professional, the management of the affairs of the Corporate Debtor is to vest in the Interim Resolution Professional. With such appointment, the powers of the Board of Directors or the partners of the Corporate Debtor as the case may be are to stand suspended. Section 17 further declares that the powers of the Board of Directors or partners are to be exercised by the Interim Resolution Professional. The financial institutions are to act on the instructions of the Interim Resolution Professional. Section 14 is emphatic, subject to the provisions of sub section (2) and (3). The  23 impact of the moratorium includes prohibition of transferring, encumbering, alienating or disposing of by the Corporate Debtor of any of its assets.
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		19. Sub section 2 reads as follows:-
-	</p>
-	<blockquote title="Analysis of the law">
-		&ldquo;The supply of essential goods or services to the corporate debtor as may be specified shall not be terminated or suspended or interrupted during moratorium period.&rdquo;
-	</blockquote>
-	<p title="Analysis of the law" data-structure="Section">
-		20. Essential goods and services referred to in Section 14(2) has been defined by Regulations. Regulation 32 of the INSOLVENCY AND BANKRUPTCY BOARD OF INDIA (INSOLVENCY RESOLUTION PROCESS FOR CORPORATE PERSONS) REGULATIONS, 2016, reads as follows:-
-	</p>
-	<blockquote title="Analysis of the law">
-		"Essential Supplies.
-	</blockquote>
-	<blockquote title="Analysis of the law">
-		The essential goods and services referred to in section 14(2) shall mean-
-	</blockquote>
-	<blockquote title="Analysis of the law">
-		i. Electricity;
-	</blockquote>
-	 24
-	<p title="Analysis of the law">
-		 ii. water;iii. telecommunication services; and iv. information technology services,
-	</p>
-	<blockquote title="Analysis of the law">
-		to the extent these are not a direct input to the output produced or supplied by the corporate debtor.
-	</blockquote>
-	<blockquote title="Analysis of the law">
-		Illustration- Water supplied to a corporate debtor will be essential supplies for drinking and sanitation purposes, and not for generation of hydro-electricity.&rdquo;
-	</blockquote>
-	<p title="Analysis of the law" data-structure="Section">
-		21. Also, undoubtedly Section (2A) of Section 14 of the THE INSOLVENCY AND BANKRUPTCY CODE, 2016 provides as follows:
-	</p>
-	<blockquote title="Analysis of the law">
-		&ldquo;Where the interim resolution professional or resolution professional, as the case may be, considers the supply of goods or services critical to protect and pserve the value of the corporate debtor and manage the operations of such corporate debtor as a going concern, then the supply of such goods or services shall not be terminated, suspended or interrupted during the period of  25 moratorium, except where such corporate debtor has not paid dues arising from such supply during the moratorium period or in such circumstances as may be specified.&rdquo;
-	</blockquote>
-	<p title="Analysis of the law" data-structure="Section">
-		22. This provision was inserted with effect from 28.12.2019. No doubt under this provision goods or services not covered by Section 14(2) are also covered. The call however is to be taken by the IRP/RP. Raw material supply could fall within the provision. The IRP/RP must take a decision guided purely by the object of the IBC and the provisions and the factual matrix.
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		23. With the appointment of Committee of Creditors, a Resolution Professional is to be appointed. The Resolution Professional is thereafter to conduct the resolution process and manage the operations. Section 23 (2) makes it clear that his power is the same as the powers of the Interim Resolution Professional. Undoubtedly, the Resolution Professional is bound to seek prior  26 approval of the Committee of Creditors in maters covered by Section 28.
-	</p>
-	<p title="Analysis of the law" data-structure="Section">
-		24. We have to also in this context bear in mind that the High Court appears to have, in passing the impugned order, which is an interim order for that matter, overlooked the salutary limits on its power under Section 482. The power under Section 482 may not be available to the Court to countenance the breach of a statuary provision. The words &lsquo;to secure the ends of justice&rsquo; in Section 482 cannot mean to overlook the undermining of a statutory dictate, which in this case is the provisions of Section 14, and Section 17 of the IBC.
-	</p>
-	<p title="Conclusion" data-structure="Conclusion">
-		25. It would appear to us that having regard to the orders passed by the NCLT admitting the application, under Section 7, and also the ordering of moratorium under Section 14 of the IBC and the orders which have been passed by the tribunal otherwise, the impugned order of the High Court  27 resulting in the Respondent No. 1 being allowed to operate the account without making good the amount of Rs 32.50 lakhs to be placed in the account of the Corporate Debtor cannot be sustained. The Learned Counsel for the Appellant has also no objection in the Respondent No. 1 being allowed to operate its account subject to it remitting an amount of Rs. 32.50 lakhs into the account of the Corporate Debtor. In such circumstances, Appeal is allowed. The Impugned order is modified as follows:
-	</p>
-	<blockquote title="Conclusion">
-		i. The Respondent No.1 is allowed to operate its account subject to it to first remitting into the account of the Corporate Debtor, the amount of Rs 32.50 lakhs which stood paid to it by the management of the Corporate Debtor. The assets of the Corporate Debtor shall be managed strictly in terms of the provisions of the IBC. The Appellant as RP will bear in mind the provision of Section 14 (2A) and the object of IBC. We however make it clear that our order shall not be taken as our pronouncement on the  28 issues arising from the FIR including the petition pending under Section 482 of the Cr.P.C.
-	</blockquote>
-	<blockquote title="Conclusion">
-		ii. We also make it clear that the judgment will not stand in the way of the Respondent No.1 pursuing its claim with regard to its entitlement to a sum of Rs.32.50 lakhs and any other sum from the Corporate Debtor or any other person in the appropriate forum and in accordance with law. There will be no order as to costs.
-	</blockquote>
-	<blockquote title="Conclusion">
-		(UDAY UMESH LALIT)
-	</blockquote>
-	<blockquote title="Conclusion">
-		(K.M. JOSEPH) New Delhi, April 22, 2021.
-	</blockquote>
-	
-</div>

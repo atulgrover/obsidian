@@ -1,7 +1,0 @@
-4. Dialogue Flow Agent
-
-The Dialogue Flow Agent manages structured conversational flow in mediation or hearing settings, ensuring that discussions stay goal-oriented. It organizes dialogue into stages—opening statements, issue framing, bargaining, and closure—while prompting adherence to agreed agendas.
-
-It assists mediators by generating dynamic prompts or rephrased questions to keep discussions productive and balanced. The agent can also identify when a conversation is looping or deviating from core issues, offering subtle nudges to redirect focus.
-
-This structured conversational control enhances procedural discipline and clarity in negotiations. The Dialogue Flow Agent thereby ensures efficient use of session time while maintaining neutrality and coherence in dialogue management.

@@ -1,3 +1,0 @@
-~~NOSIDEBAR~~ 
-
-{{indexmenu>z_tickets[#1]|js}} 

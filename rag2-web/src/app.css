@@ -1,0 +1,10 @@
+/* RAG2-Web — minimal reset */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html, body, #app { height: 100%; width: 100%; }
+body { font-family: system-ui, -apple-system, sans-serif; background: #0f0d2e; color: #e0e7ff; }
+a { color: #818cf8; }
+button { cursor: pointer; }
+input, select, textarea { font-family: inherit; }
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #1a1744; }
+::-webkit-scrollbar-thumb { background: #312e81; border-radius: 3px; }

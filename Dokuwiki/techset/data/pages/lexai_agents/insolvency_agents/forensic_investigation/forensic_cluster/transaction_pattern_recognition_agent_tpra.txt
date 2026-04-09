@@ -1,5 +1,0 @@
-{{tag>store:insolvency_agents division:forensic_investigation cluster:forensic_cluster agent:transaction_pattern_recognition_agent}}
-
-====== transaction_pattern_recognition_agent ======
-
-coming soon ...

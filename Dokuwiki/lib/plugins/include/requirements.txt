@@ -1,2 +1,0 @@
-# requirements for testing
-https://github.com/michitux/dokuwiki-plugin-move.git      lib/plugins/move
