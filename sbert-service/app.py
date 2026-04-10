@@ -30,7 +30,16 @@ def health():
     return {"status": "ok", "model": MODEL_NAME}
 
 
+@app.get("/v1/models")
+def list_models():
+    return {
+        "object": "list",
+        "data": [{"id": MODEL_NAME, "object": "model", "owned_by": "sbert"}],
+    }
+
+
 @app.post("/v1/embeddings")
+@app.post("/embeddings")
 def embeddings(req: EmbeddingRequest):
     texts = [req.input] if isinstance(req.input, str) else req.input
     vecs = model.encode(texts, normalize_embeddings=True, show_progress_bar=False)

@@ -65,7 +65,9 @@ services:
       start_period: 60s
 
   # ──────────────────────────────────────────────────────────
-  # LightRAG — ingestion + query + compliance API
+  # LightRAG — standard built-in API server
+  # WebUI: http://localhost:8020
+  # Docs:  http://localhost:8020/docs
   # ──────────────────────────────────────────────────────────
   lightrag:
     build:
@@ -74,20 +76,30 @@ services:
     container_name: rag2-lightrag
     restart: unless-stopped
     environment:
+      # Postgres storage backend
       POSTGRES_HOST: postgres
       POSTGRES_PORT: "5432"
-      POSTGRES_DB: lightrag
+      POSTGRES_DATABASE: lightrag
       POSTGRES_USER: lightrag
       POSTGRES_PASSWORD: lightrag
-      AGE_GRAPH_NAME: lightrag_graph
-      SARVAM_API_KEY: ${SARVAM_API_KEY}
-      SARVAM_BASE_URL: https://api.sarvam.ai/v1
-      SARVAM_MODEL: sarvam-m
-      EMBEDDING_URL: http://sbert:8021/v1/embeddings
+      LIGHTRAG_KV_STORAGE: PGKVStorage
+      LIGHTRAG_VECTOR_STORAGE: PGVectorStorage
+      LIGHTRAG_GRAPH_STORAGE: PGGraphStorage
+      LIGHTRAG_DOC_STATUS_STORAGE: PGDocStatusStorage
+      # LLM — Ollama local
+      LLM_BINDING: ollama
+      LLM_BINDING_HOST: http://host.docker.internal:11434
+      LLM_MODEL: ministral-3:14b-cloud
+      # Embeddings — SBERT (OpenAI-compatible)
+      EMBEDDING_BINDING: openai
+      EMBEDDING_BINDING_HOST: http://sbert:8021
+      EMBEDDING_MODEL: bhavyagiri/InLegal-Sbert
       EMBEDDING_DIM: "768"
-      EMBEDDING_MAX_TOKENS: "512"
-      CONTEXTUAL_RETRIEVAL: "true"
+      EMBEDDING_BINDING_API_KEY: "dummy"
+      # Entity types for legal domain
       ENTITY_TYPES: '["Person","Organization","Location","CourtTribunal","StatuteProvision","LegalConcept","RegulatoryInstrument","PartyRole","CaseReference"]'
+      # No auth for local dev
+      LIGHTRAG_API_KEY: ""
     volumes:
       - lightrag_data:/data
     ports:
@@ -97,7 +109,7 @@ services:
       interval: 10s
       timeout: 5s
       retries: 15
-      start_period: 30s
+      start_period: 60s
     depends_on:
       postgres:
         condition: service_healthy
@@ -174,6 +186,25 @@ services:
       PAGEINDEX_URL: http://pageindex:5002
       SEMCHUNK_URL: http://semchunk:5003
       LIGHTRAG_URL: http://lightrag:8020
+      OLLAMA_URL: http://host.docker.internal:11434
+      OLLAMA_MODEL: ministral-3:14b-cloud
+      SBERT_URL: http://sbert:8021
+      # ── Parser config ──────────────────────────────────────
+      # Set LLAMA_PARSE_API_KEY to use LlamaParse (cloud, recommended).
+      # Leave empty to use LiteParse (local, offline-safe).
+      LLAMA_PARSE_API_KEY: "llx-JmEsUk8llkicHeRo95EjXWiZy9lt1d4zEruADMdfChCtlHsH"
+      # Set PRIVATE_MODE=true to always use LiteParse regardless of key.
+      PRIVATE_MODE: "false"
+      # ── LLM provider ───────────────────────────────────────
+      # Options: ollama (default/local) | claude | openai
+      LLM_PROVIDER: "ollama"
+      ANTHROPIC_API_KEY: ""
+      OPENAI_API_KEY: ""
+      # Model selection (light = fast/cheap, heavy = quality)
+      LLM_MODEL_CLAUDE: "claude-haiku-4-5-20251001"
+      LLM_MODEL_CLAUDE_HEAVY: "claude-sonnet-4-6"
+      LLM_MODEL_OPENAI: "gpt-4o-mini"
+      LLM_MODEL_OPENAI_HEAVY: "gpt-4o"
     volumes:
       - vault_data:/vault
     ports:
@@ -221,7 +252,7 @@ services:
     container_name: rag2-pgadmin
     restart: unless-stopped
     environment:
-      PGADMIN_DEFAULT_EMAIL: admin@rag2.local
+      PGADMIN_DEFAULT_EMAIL: admin@rag2.com
       PGADMIN_DEFAULT_PASSWORD: admin
     volumes:
       - pgadmin_data:/var/lib/pgadmin

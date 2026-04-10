@@ -25,6 +25,8 @@ export interface SectionMeta {
   page_start: number;
   page_end: number;
   word_count: number;
+  breadcrumb?: string;
+  llm_summary?: string;
 }
 
 export interface ChunkMeta {
@@ -231,8 +233,14 @@ export const vault = {
   getTree: (slug: string) =>
     api<Record<string, unknown>>(`/vault/sources/${slug}/tree`),
 
+  /** Delete a source document from the vault */
+  deleteSource: (slug: string) =>
+    api<{ success: boolean; slug: string; removed: string[] }>(`/vault/sources/${slug}`, {
+      method: 'DELETE',
+    }),
+
   /** Run a single pipeline stage */
-  runStage: (stage: 'parse' | 'cleanse' | 'enrich' | 'index' | 'chunk' | 'embed', slug: string, maxTokens = 512, overlapTokens = 75) =>
+  runStage: (stage: 'parse' | 'cleanse' | 'extract' | 'index' | 'enrich' | 'chunk' | 'embed' | 'karpathy', slug: string, maxTokens = 512, overlapTokens = 75) =>
     api<Record<string, unknown>>(`/vault/stage/${stage}`, {
       method: 'POST',
       body: JSON.stringify({ slug, max_tokens: maxTokens, overlap_tokens: overlapTokens }),

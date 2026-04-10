@@ -1,0 +1,32 @@
+{
+  "type": "object",
+  "properties": {
+    "corporate_debtor": {"type": "string"},
+    "case_number": {"type": "string"},
+    "insolvency_professional": {"type": "string"},
+    "cirp_commencement_date": {"type": "string", "description": "YYYY-MM-DD"},
+    "industry_sector": {"type": "string"},
+    "business_description": {"type": "string", "description": "Brief description of business operations"},
+    "total_assets_inr": {"type": "integer"},
+    "total_liabilities_inr": {"type": "integer"},
+    "net_worth_inr": {"type": "integer"},
+    "revenue_inr": {"type": "integer", "description": "Annual revenue from most recent financial year"},
+    "ebitda_inr": {"type": "integer"},
+    "fair_value_inr": {"type": "integer"},
+    "liquidation_value_inr": {"type": "integer"},
+    "employee_count": {"type": "integer"},
+    "key_assets": {"type": "array", "items": {"type": "string"}},
+    "key_litigations": {"type": "array", "items": {"type": "string"}},
+    "creditors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {"type": "string"},
+          "creditor_type": {"type": "string"},
+          "amount_claimed_inr": {"type": "integer"}
+        }
+      }
+    }
+  }
+}

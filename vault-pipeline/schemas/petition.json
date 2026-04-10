@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "case_number": {"type": "string"},
+    "court": {"type": "string"},
+    "filing_date": {"type": "string", "description": "YYYY-MM-DD"},
+    "petition_type": {"type": "string", "description": "Section 7, 9, or 10"},
+    "petitioner": {"type": "string"},
+    "corporate_debtor": {"type": "string"},
+    "default_amount_inr": {"type": "integer", "description": "Total claimed default amount in INR integer"},
+    "debt_date": {"type": "string", "description": "Date of original debt/facility in YYYY-MM-DD"},
+    "default_date": {"type": "string", "description": "Date of default in YYYY-MM-DD"},
+    "ibc_sections": {"type": "array", "items": {"type": "string"}},
+    "parties": {"type": "array", "items": {"type": "string"}}
+  }
+}

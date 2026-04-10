@@ -32,6 +32,8 @@ VAULT_DIRS = [
     "_templates",    # Obsidian note templates
     "_attachments",  # Binary files (PDFs, images)
     "_karpathy",     # Local search index (RAG2-Desk only)
+    "_global",       # Global cross-document indexes (HNSW, BM25)
+    "matters",       # Matter groups (cross-document)
 ]
 
 
@@ -415,3 +417,107 @@ def read_tree_json(vault_root: str | Path, slug: str) -> Optional[Dict[str, Any]
         return None
     with open(path, "r", encoding="utf-8") as f:
         return _json.load(f)
+
+
+# ──────────────────────────────────────────────────────────────
+# Tables JSON — structured table extraction (_tables.json)
+# ──────────────────────────────────────────────────────────────
+
+def write_tables_json(vault_root: str | Path, slug: str, data: Dict[str, Any]) -> Path:
+    """Write structured table data extracted by the parser (LlamaParse or LiteParse).
+
+    Schema:
+      { schema_version: "1.0", parser: str, total_tables: int,
+        tables: [ { table_id, page, caption, headers[], rows[][], markdown,
+                    context_before, context_after } ] }
+    """
+    path = Path(vault_root) / "sources" / slug / "_tables.json"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        _json.dump(data, f, ensure_ascii=False, indent=2)
+    return path
+
+
+def read_tables_json(vault_root: str | Path, slug: str) -> Optional[Dict[str, Any]]:
+    """Read the cached tables JSON. Returns None if not yet extracted."""
+    path = Path(vault_root) / "sources" / slug / "_tables.json"
+    if not path.exists():
+        return None
+    with open(path, "r", encoding="utf-8") as f:
+        return _json.load(f)
+
+
+def write_table_note(
+    vault_root: str | Path,
+    slug: str,
+    table_id: str,
+    *,
+    page: int,
+    caption: str,
+    headers: List[str],
+    rows: List[List[str]],
+    markdown: str,
+    context_before: str = "",
+    context_after: str = "",
+) -> Path:
+    """Write sources/{slug}/tables/table-{id}-{caption}.md — one note per table."""
+    caption_slug = make_slug(caption) if caption else "table"
+    filename = f"table-{table_id}-{caption_slug}.md"
+
+    metadata = {
+        "type": "table-note",
+        "source": f"[[sources/{slug}/_index]]",
+        "table_id": table_id,
+        "page": page,
+        "caption": caption,
+        "headers": headers,
+        "rows_count": len(rows),
+        "has_structured_data": True,
+        "pipeline_stage": "indexed",
+    }
+
+    body = ""
+    if context_before:
+        body += f"**Context:** {context_before.strip()}\n\n"
+    body += markdown
+    if context_after:
+        body += f"\n\n*{context_after.strip()}*"
+    body += f"\n\n*Source: Page {page}*"
+
+    return write_note(vault_root, f"sources/{slug}/tables/{filename}", metadata, body)
+
+
+def read_all_tables(vault_root: str | Path, slug: str) -> List["VaultNote"]:
+    """Read all table notes for a source document."""
+    tables_dir = Path(vault_root) / "sources" / slug / "tables"
+    if not tables_dir.exists():
+        return []
+    notes = []
+    for f in sorted(tables_dir.glob("table-*.md")):
+        post = _fm_load(f)
+        notes.append(VaultNote(path=f, metadata=dict(post.metadata), body=post.content))
+    return notes
+
+
+def write_akn_json(vault_root: str | Path, slug: str, data: Dict[str, Any]) -> Path:
+    """Write AKN-lite annotation as JSON alongside _parse.json."""
+    path = Path(vault_root) / "sources" / slug / "_akn.json"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        _json.dump(data, f, ensure_ascii=False, indent=2)
+    return path
+
+
+def read_akn_json(vault_root: str | Path, slug: str) -> Optional[Dict[str, Any]]:
+    """Read the AKN-lite annotation. Returns None if stage_akn hasn't run."""
+    path = Path(vault_root) / "sources" / slug / "_akn.json"
+    if not path.exists():
+        return None
+    with open(path, "r", encoding="utf-8") as f:
+        return _json.load(f)
+
+
+def _fm_load(path: Path):
+    """Lazy import of frontmatter.load to avoid circular import."""
+    import frontmatter
+    return frontmatter.load(path)

@@ -29,11 +29,11 @@
   let sourceMeta: Record<string, unknown> = $state({});
 
   const stages = [
-    { id: 'parse', label: 'Parse', icon: 'P' },
-    { id: 'cleanse', label: 'Cleanse', icon: 'C' },
-    { id: 'enrich', label: 'Enrich', icon: 'E' },
-    { id: 'index', label: 'Index', icon: 'I' },
-    { id: 'chunk', label: 'Chunk', icon: 'K' },
+    { id: 'parse',    label: 'Parse',    icon: 'P' },
+    { id: 'cleanse',  label: 'Cleanse',  icon: 'C' },
+    { id: 'enrich',   label: 'Enrich',   icon: 'E' },
+    { id: 'index',    label: 'Index',    icon: 'I' },
+    { id: 'chunk',    label: 'Chunk',    icon: 'K' },
   ];
 
   async function loadSources() {
@@ -89,7 +89,7 @@
     processingResult = null;
     error = '';
 
-    const stageNames = ['parse', 'cleanse', 'index', 'chunk', 'embed'];
+    const stageNames = ['parse', 'cleanse', 'extract', 'index', 'enrich', 'chunk', 'embed', 'karpathy'];
 
     try {
       const results: Record<string, unknown> = {};
@@ -129,9 +129,28 @@
     const map: Record<string, string> = {
       uploaded: '#6b7280',
       liteparse: '#6366f1', pageindex: '#8b5cf6', semchunk: '#a855f7',
+      extracted: '#f59e0b', enriched: '#0ea5e9',
       ingested: '#22c55e', verified: '#16a34a', error: '#ef4444',
     };
     return map[stage] || '#6b7280';
+  }
+
+  async function deleteSource(slug: string, e: MouseEvent) {
+    e.stopPropagation();
+    if (!confirm(`Delete "${slug}" from vault? This cannot be undone.`)) return;
+    try {
+      await vault.deleteSource(slug);
+      if (selectedSlug === slug) { selectedSlug = ''; sourceMeta = {}; }
+      await loadSources();
+    } catch (err: any) {
+      error = err.message;
+    }
+  }
+
+  async function reingestSource(slug: string, e: MouseEvent) {
+    e.stopPropagation();
+    await selectSource(slug);
+    await processPdf();
   }
 
   $effect(() => { if (sources.length === 0) loadSources(); });
@@ -177,16 +196,29 @@
         <div class="empty-sm">No sources yet.</div>
       {:else}
         {#each sources as src}
-          <button
+          <div
             class="source-item"
             class:selected={selectedSlug === src.slug}
+            role="button"
+            tabindex="0"
             onclick={() => selectSource(src.slug)}
+            onkeydown={(e) => e.key === 'Enter' || e.key === ' ' ? selectSource(src.slug) : null}
           >
             <span class="source-name">{src.filename || src.slug}</span>
-            <span class="source-stage" style="background:{stageColor(src.pipeline_stage)}">
-              {src.pipeline_stage}
+            <span class="source-actions">
+              <button
+                class="icon-btn reingest-btn"
+                title="Re-ingest"
+                onclick={(e) => reingestSource(src.slug, e)}
+                disabled={processing}
+              >&#x21BB;</button>
+              <button
+                class="icon-btn delete-btn"
+                title="Delete"
+                onclick={(e) => deleteSource(src.slug, e)}
+              >&#x2715;</button>
             </span>
-          </button>
+          </div>
         {/each}
       {/if}
     </div>
@@ -272,10 +304,10 @@
 </div>
 
 {#if error}
-  <div class="error-toast" onclick={() => error = ''}>
+  <button class="error-toast" onclick={() => error = ''}>
     {error}
     <span class="close">&times;</span>
-  </div>
+  </button>
 {/if}
 
 <style>
@@ -323,13 +355,25 @@
 
   .source-item {
     display: flex; justify-content: space-between; align-items: center;
-    width: 100%; padding: 8px 12px; background: transparent; border: none;
+    width: 100%; padding: 8px 12px; background: transparent;
     border-bottom: 1px solid #1e1b4b; cursor: pointer; text-align: left; color: #c4b5fd;
   }
   .source-item:hover { background: rgba(79, 70, 229, 0.15); }
+  .source-item:hover .source-actions { opacity: 1; }
   .source-item.selected { background: #312e81; }
-  .source-name { font-size: 12px; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .source-stage { padding: 1px 6px; border-radius: 8px; font-size: 9px; color: white; }
+  .source-name { font-size: 12px; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-right: 6px; }
+  .source-actions { display: flex; gap: 2px; align-items: center; opacity: 0; transition: opacity 0.15s; flex-shrink: 0; }
+  .source-item.selected .source-actions { opacity: 1; }
+  .icon-btn {
+    background: transparent; border: none; cursor: pointer;
+    padding: 2px 5px; border-radius: 3px; font-size: 13px; line-height: 1;
+    transition: background 0.15s;
+  }
+  .reingest-btn { color: #818cf8; }
+  .reingest-btn:hover:not(:disabled) { background: rgba(99, 102, 241, 0.2); }
+  .reingest-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+  .delete-btn { color: #f87171; }
+  .delete-btn:hover { background: rgba(239, 68, 68, 0.15); }
 
   .pdf-panel { flex: 1; min-width: 0; border-right: 1px solid #312e81; display: flex; flex-direction: column; }
   .pdf-empty { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; color: #6b7280; }
@@ -377,6 +421,7 @@
     background: #7f1d1d; color: #fca5a5; padding: 10px 20px; border-radius: 6px;
     font-size: 13px; cursor: pointer; z-index: 1000;
     display: flex; align-items: center; gap: 12px;
+    border: none; font-family: inherit;
   }
   .close { font-size: 18px; }
 </style>

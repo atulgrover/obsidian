@@ -36,6 +36,7 @@ from contextlib import asynccontextmanager
 from typing import List, Optional, Dict, Any, Tuple
 
 import httpx
+import numpy as np
 import psycopg2
 import psycopg2.extras
 from fastapi import FastAPI, HTTPException, Query
@@ -130,9 +131,8 @@ POSTGRES_USER     = os.environ["POSTGRES_USER"]
 POSTGRES_PASSWORD = os.environ["POSTGRES_PASSWORD"]
 AGE_GRAPH_NAME    = os.getenv("AGE_GRAPH_NAME", "lightrag_graph")
 
-SARVAM_API_KEY    = os.environ["SARVAM_API_KEY"]
-SARVAM_BASE_URL   = os.getenv("SARVAM_BASE_URL", "https://api.sarvam.ai/v1")
-SARVAM_MODEL      = os.getenv("SARVAM_MODEL", "sarvam-m")
+OLLAMA_BASE_URL   = os.getenv("OLLAMA_BASE_URL", "http://host.docker.internal:11434/v1")
+OLLAMA_MODEL      = os.getenv("OLLAMA_MODEL", "ministral-3:14b-cloud")
 
 EMBEDDING_URL     = os.environ["EMBEDDING_URL"]
 EMBEDDING_DIM     = int(os.getenv("EMBEDDING_DIM", 768))
@@ -144,15 +144,15 @@ _CONTEXT_SEMAPHORE   = asyncio.Semaphore(5)
 
 
 # ─────────────────────────────────────────────────────────────
-# LLM — Sarvam AI
+# LLM — Ollama (local)
 # ─────────────────────────────────────────────────────────────
 async def sarvam_llm(prompt, system_prompt=None, history_messages=[], **kwargs):
     return await openai_complete_if_cache(
-        SARVAM_MODEL, prompt,
+        OLLAMA_MODEL, prompt,
         system_prompt=system_prompt,
         history_messages=history_messages,
-        base_url=SARVAM_BASE_URL,
-        api_key=SARVAM_API_KEY,
+        base_url=OLLAMA_BASE_URL,
+        api_key="ollama",
         **kwargs,
     )
 
@@ -169,7 +169,7 @@ async def sbert_embed(texts: List[str]) -> List[List[float]]:
         resp.raise_for_status()
         data = resp.json()
     items = sorted(data["data"], key=lambda x: x["index"])
-    return [item["embedding"] for item in items]
+    return np.array([item["embedding"] for item in items], dtype=np.float32)
 
 
 # ─────────────────────────────────────────────────────────────
@@ -1515,8 +1515,6 @@ async def compliance_check(req: ComplianceCheckRequest):
 #   GET  /matter/compare        → plan_comparison view across a matter
 #   POST /matter/compliance/human → record human verification / override
 # ═════════════════════════════════════════════════════════════════════════════
-
-import numpy as np
 
 
 class MatterSetupRequest(BaseModel):

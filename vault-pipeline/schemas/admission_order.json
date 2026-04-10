@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties": {
+    "case_number": {"type": "string"},
+    "court": {"type": "string"},
+    "order_date": {"type": "string", "description": "YYYY-MM-DD"},
+    "judges": {"type": "array", "items": {"type": "string"}},
+    "corporate_debtor": {"type": "string"},
+    "petitioner": {"type": "string", "description": "Creditor or corporate debtor who filed the petition"},
+    "petition_type": {"type": "string", "description": "Section 7, 9, or 10"},
+    "default_amount_inr": {"type": "integer", "description": "Debt default amount in INR integer"},
+    "cirp_commencement_date": {"type": "string", "description": "YYYY-MM-DD"},
+    "interim_rp": {"type": "string", "description": "Name of Interim Resolution Professional appointed"},
+    "moratorium_start_date": {"type": "string", "description": "YYYY-MM-DD"},
+    "ibc_sections": {"type": "array", "items": {"type": "string"}}
+  }
+}

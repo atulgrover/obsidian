@@ -1,0 +1,122 @@
+{
+  "type": "object",
+  "properties": {
+    "doc_type": {
+      "type": "string",
+      "description": "Document classification: resolution_plan_order, interim_order, admission_order, liquidation_order, nclt_order, nclat_order, appeal_order, petition, information_memorandum, other"
+    },
+    "case_number": {
+      "type": "string",
+      "description": "NCLT/NCLAT case number e.g. IB-761(ND)/2022 or CP(IB)/123/MB/2021"
+    },
+    "court": {
+      "type": "string",
+      "description": "Full court/tribunal name and bench e.g. National Company Law Tribunal (NCLT), New Delhi Bench"
+    },
+    "order_date": {
+      "type": "string",
+      "description": "Date of order in YYYY-MM-DD format"
+    },
+    "judges": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Full names and designations of judges/members on the bench"
+    },
+    "corporate_debtor": {
+      "type": "string",
+      "description": "Full legal name of the corporate debtor company (CIN if mentioned)"
+    },
+    "resolution_applicant": {
+      "type": "string",
+      "description": "Full name of the successful resolution applicant (SRA)"
+    },
+    "insolvency_professional": {
+      "type": "string",
+      "description": "Full name of the Resolution Professional (RP) or Interim RP"
+    },
+    "petition_type": {
+      "type": "string",
+      "description": "IBC petition section: Section 7 (financial creditor), Section 9 (operational creditor), Section 10 (corporate debtor)"
+    },
+    "cirp_commencement_date": {
+      "type": "string",
+      "description": "CIRP commencement date in YYYY-MM-DD"
+    },
+    "admission_date": {
+      "type": "string",
+      "description": "Date when NCLT admitted the petition in YYYY-MM-DD"
+    },
+    "ibc_sections": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "All IBC/IBBI sections cited e.g. ['30(6)', '31(1)', '7', '29A']"
+    },
+    "parties": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "All parties with roles e.g. 'State Bank of India (Financial Creditor)'"
+    },
+    "resolution_amount_inr": {
+      "type": "integer",
+      "description": "Total resolution plan amount in INR integer (no commas/symbols). E.g. 506700000 for \u20b950.67 crore"
+    },
+    "liquidation_value_inr": {
+      "type": "integer",
+      "description": "Liquidation value of corporate debtor assets in INR integer"
+    },
+    "fair_value_inr": {
+      "type": "integer",
+      "description": "Fair value of corporate debtor assets in INR integer"
+    },
+    "total_admitted_inr": {
+      "type": "integer",
+      "description": "Total claims admitted by RP across all creditor classes in INR integer"
+    },
+    "upfront_inr": {
+      "type": "integer",
+      "description": "Upfront payment amount on approval/closing day in INR integer"
+    },
+    "payment_timeline_months": {
+      "type": "integer",
+      "description": "Total payment timeline in months from plan approval"
+    },
+    "haircut_pct": {
+      "type": "number",
+      "description": "Haircut percentage = (1 - resolution_amount / total_admitted) * 100. E.g. 56.91"
+    },
+    "coc_approval_pct": {
+      "type": "number",
+      "description": "CoC vote percentage in favour of resolution plan. Must be >= 66% per Section 30(4)"
+    },
+    "cirp_cost_inr": {
+      "type": "integer",
+      "description": "Total CIRP process costs / resolution professional fees in INR integer"
+    },
+    "fc_recovery_pct": {
+      "type": "number",
+      "description": "Financial creditor recovery % = fc_amount_under_plan / fc_amount_admitted * 100"
+    },
+    "section_29a_compliant": {
+      "type": "boolean",
+      "description": "Whether the resolution applicant was confirmed eligible under Section 29A"
+    },
+    "creditors": {
+      "type": "array",
+      "description": "All creditors with their admitted claims and plan recovery",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {"type": "string"},
+          "creditor_type": {
+            "type": "string",
+            "description": "financial, operational, workmen, employees, government"
+          },
+          "amount_claimed_inr": {"type": "integer"},
+          "amount_admitted_inr": {"type": "integer"},
+          "amount_under_plan_inr": {"type": "integer"},
+          "voting_share_pct": {"type": "number"}
+        }
+      }
+    }
+  }
+}

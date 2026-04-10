@@ -1,0 +1,42 @@
+[
+  {
+    "type": "resolution_plan_order",
+    "description": "NCLT order approving an insolvency resolution plan under IBC Section 30(6)/31(1). Contains: CoC vote percentages, payment schedule to creditors, haircut/recovery amounts, approval of resolution applicant, moratorium cessation, monitoring committee."
+  },
+  {
+    "type": "admission_order",
+    "description": "NCLT order admitting a petition under IBC Section 7, 9, or 10 and commencing CIRP. Contains: appointment of Interim Resolution Professional (IRP), moratorium declaration, CIRP commencement date, debt default amount."
+  },
+  {
+    "type": "liquidation_order",
+    "description": "NCLT order directing liquidation of corporate debtor under IBC Section 33. Contains: appointment of liquidator, liquidation commencement, rejection of resolution plans, distribution waterfall under Section 53."
+  },
+  {
+    "type": "information_memorandum",
+    "description": "Information Memorandum (IM) prepared by Resolution Professional under IBC Regulation 36. Contains: corporate debtor business overview, financial statements, asset details, valuation reports, encumbrances, litigation summary, employee details."
+  },
+  {
+    "type": "resolution_plan",
+    "description": "Resolution plan document submitted by a resolution applicant (SRA) to the CoC. Contains: proposed payment amounts to each creditor class, funding sources, implementation milestones, Section 29A eligibility declaration."
+  },
+  {
+    "type": "petition",
+    "description": "Petition filed to initiate CIRP under IBC Section 7 (financial creditor), Section 9 (operational creditor), or Section 10 (corporate debtor itself). Contains: default amount, debt evidence, creditor/debtor details."
+  },
+  {
+    "type": "interim_order",
+    "description": "Interlocutory or interim NCLT/NCLAT order during ongoing CIRP proceedings. Contains: hearing dates, procedural directions, stay/extension orders, interim relief on specific IAs (interlocutory applications)."
+  },
+  {
+    "type": "appeal_order",
+    "description": "NCLAT or Supreme Court order in an appeal against an NCLT order. Contains: grounds of appeal, appellate bench, challenge to resolution plan or liquidation, Section 61/62 IBC references."
+  },
+  {
+    "type": "valuation_report",
+    "description": "Registered valuer report determining fair value and liquidation value of corporate debtor assets under CIRP Regulation 27. Contains: valuation methodology, asset schedules, fair value, liquidation value."
+  },
+  {
+    "type": "other",
+    "description": "Any IBC-related document not matching the above categories: committee minutes, form submissions, compliance certificates, miscellaneous orders."
+  }
+]

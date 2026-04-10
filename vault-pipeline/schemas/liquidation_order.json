@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "case_number": {"type": "string"},
+    "court": {"type": "string"},
+    "order_date": {"type": "string", "description": "YYYY-MM-DD"},
+    "judges": {"type": "array", "items": {"type": "string"}},
+    "corporate_debtor": {"type": "string"},
+    "liquidator": {"type": "string", "description": "Name of appointed liquidator"},
+    "liquidation_commencement_date": {"type": "string", "description": "YYYY-MM-DD"},
+    "liquidation_value_inr": {"type": "integer"},
+    "reason_for_liquidation": {"type": "string", "description": "Why liquidation was ordered: no plan, plan rejected, CoC vote, etc."},
+    "ibc_sections": {"type": "array", "items": {"type": "string"}}
+  }
+}

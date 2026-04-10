@@ -64,7 +64,7 @@
       <h3>Section Summaries ({sections.length})</h3>
       <div class="sections-list">
         {#each sections as sec}
-          <div class="sec-item" onclick={() => toggle(sec.filename)}>
+          <div class="sec-item" role="button" tabindex="0" onclick={() => toggle(sec.filename)} onkeydown={(e) => e.key === 'Enter' || e.key === ' ' ? toggle(sec.filename) : null}>
             <div class="sec-row">
               <span class="sec-toggle">{expanded.has(sec.filename) ? '▼' : '▶'}</span>
               <span class="sec-level">L{sec.level}</span>
@@ -76,7 +76,10 @@
               {/if}
             </div>
             {#if expanded.has(sec.filename)}
-              <div class="sec-body">{sec.title}</div>
+              <div class="sec-body">
+                {#if sec.breadcrumb}<div class="breadcrumb">{sec.breadcrumb}</div>{/if}
+                {#if sec.llm_summary}<div class="summary">{sec.llm_summary}</div>{:else}<em>No summary yet — run Enrich stage</em>{/if}
+              </div>
             {/if}
           </div>
         {/each}
@@ -107,7 +110,9 @@
   .sec-pages { color: #6b7280; font-size: 10px; }
   .sec-words { color: #6b7280; font-size: 10px; }
   .leaf-badge { font-size: 9px; background: #1e3a1e; color: #22c55e; padding: 1px 4px; border-radius: 3px; }
-  .sec-body { padding: 4px 8px 8px 28px; font-size: 11px; color: #818cf8; font-style: italic; }
+  .sec-body { padding: 4px 8px 8px 28px; font-size: 11px; color: #818cf8; }
+  .breadcrumb { font-size: 10px; color: #6b7280; margin-bottom: 4px; }
+  .summary { color: #c4b5fd; }
 
   .loading, .error, .empty { padding: 32px; text-align: center; color: #818cf8; }
   .error { color: #ef4444; }

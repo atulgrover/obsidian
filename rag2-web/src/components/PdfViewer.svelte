@@ -69,7 +69,7 @@
               <input type="text" bind:value={annoText} placeholder="Note text..." />
               <div class="color-pick">
                 {#each colors as c}
-                  <button class="color-dot" style="background:{c}" class:active={annoColor === c} onclick={() => annoColor = c}></button>
+                  <button class="color-dot" style="background:{c}" class:active={annoColor === c} onclick={() => annoColor = c} aria-label="Select color {c}"></button>
                 {/each}
               </div>
               <button class="save-btn" onclick={saveAnnotation} disabled={!annoText.trim()}>Save</button>
@@ -90,7 +90,7 @@
       {#if showIframe}
         <iframe src={url} title="PDF Viewer" class="pdf-iframe"></iframe>
       {:else}
-        <div class="anno-canvas" onclick={handleCanvasClick}>
+        <div class="anno-canvas" role="button" tabindex="0" onclick={handleCanvasClick} onkeydown={(e) => e.key === 'Enter' || e.key === ' ' ? handleCanvasClick(e as any) : null}>
           <iframe src={url} title="PDF Background" class="pdf-iframe-bg"></iframe>
           {#each annotations as anno, i}
             <div

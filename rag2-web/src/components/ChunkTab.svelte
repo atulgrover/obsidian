@@ -102,7 +102,7 @@
   {:else}
     <div class="chunks-list">
       {#each chunks as chunk, i}
-        <div class="chunk-item" onclick={() => toggle(i)}>
+        <div class="chunk-item" role="button" tabindex="0" onclick={() => toggle(i)} onkeydown={(e) => e.key === 'Enter' || e.key === ' ' ? toggle(i) : null}>
           <div class="chunk-row">
             <span class="chunk-toggle">{expanded.has(i) ? '▼' : '▶'}</span>
             <span class="chunk-id">#{i + 1}</span>
@@ -170,6 +170,5 @@
   .context-label { color: #a78bfa; font-weight: bold; }
   .chunk-body { white-space: pre-wrap; font-size: 11px; color: #c4b5fd; max-height: 200px; overflow-y: auto; margin: 0; }
 
-  .loading, .error, .empty { padding: 32px; text-align: center; color: #818cf8; }
-  .error { color: #ef4444; }
+  .loading, .empty { padding: 32px; text-align: center; color: #818cf8; }
 </style>
