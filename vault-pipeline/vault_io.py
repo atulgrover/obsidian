@@ -283,6 +283,7 @@ def write_chunk_note(
     doc_date: str = "",
     parties: List[str] | None = None,
     statutory_refs: List[str] | None = None,
+    akn_element: str = "",
 ) -> Path:
     """Write a chunks/{slug}/chunk-{nnn}.md chunk note."""
     metadata = {
@@ -309,6 +310,8 @@ def write_chunk_note(
         metadata["parties"] = parties
     if statutory_refs:
         metadata["statutory_refs"] = statutory_refs
+    if akn_element:
+        metadata["akn_element"] = akn_element
 
     filename = f"chunk-{chunk_index + 1:03d}.md"  # chunk-001.md, chunk-002.md, ...
     return write_note(vault_root, f"chunks/{slug}/{filename}", metadata, content)
@@ -459,6 +462,8 @@ def write_table_note(
     markdown: str,
     context_before: str = "",
     context_after: str = "",
+    doc_meta: Dict[str, Any] | None = None,
+    ibc_table_type: str = "",
 ) -> Path:
     """Write sources/{slug}/tables/table-{id}-{caption}.md — one note per table."""
     caption_slug = make_slug(caption) if caption else "table"
@@ -475,6 +480,12 @@ def write_table_note(
         "has_structured_data": True,
         "pipeline_stage": "indexed",
     }
+    if ibc_table_type:
+        metadata["ibc_table_type"] = ibc_table_type
+    if doc_meta:
+        for k, v in doc_meta.items():
+            if v:
+                metadata[k] = v
 
     body = ""
     if context_before:

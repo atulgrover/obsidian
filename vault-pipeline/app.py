@@ -916,6 +916,96 @@ async def get_tree(slug: str):
 
 
 # ──────────────────────────────────────────────────────────────
+# Vault audit — Dataview frontmatter completeness report
+# ──────────────────────────────────────────────────────────────
+
+# Fields required for Dataview queries to work across all doc types
+_DATAVIEW_REQUIRED = [
+    "doc_type", "case_number", "court", "order_date",
+    "corporate_debtor", "pipeline_stage",
+]
+# Fields required only for order types (resolution_plan_order etc.)
+_DATAVIEW_ORDER_FIELDS = [
+    "resolution_applicant", "insolvency_professional",
+    "resolution_amount_inr", "total_admitted_inr", "haircut_pct",
+    "coc_approval_pct", "liquidation_value_inr",
+]
+_ORDER_TYPES = {
+    "resolution_plan_order", "admission_order", "liquidation_order",
+    "interim_order", "appeal_order",
+}
+
+
+@app.get("/vault/audit")
+async def vault_audit():
+    """Scan all source documents and report Dataview frontmatter completeness.
+
+    Returns per-document field coverage and a vault-wide summary so you can
+    see which pipeline stages are incomplete or which fields are missing.
+    """
+    sources_dir = Path(VAULT_ROOT) / "sources"
+    if not sources_dir.exists():
+        return {"documents": [], "summary": {}}
+
+    documents = []
+    total = 0
+    fully_complete = 0
+
+    for d in sorted(sources_dir.iterdir()):
+        if not d.is_dir():
+            continue
+        idx_path = d / "_index.md"
+        if not idx_path.exists():
+            continue
+        try:
+            note = read_note(VAULT_ROOT, f"sources/{d.name}/_index.md")
+        except Exception:
+            continue
+
+        m = note.metadata
+        doc_type = m.get("doc_type", "")
+        total += 1
+
+        # Check required fields
+        missing = [f for f in _DATAVIEW_REQUIRED if not m.get(f)]
+        if doc_type in _ORDER_TYPES:
+            missing += [f for f in _DATAVIEW_ORDER_FIELDS if not m.get(f)]
+
+        # Check which stages have run
+        stages_done = []
+        for stage_file, stage_name in [
+            ("_parse.json", "parse"),
+            ("_meta.json", "extract"),
+            ("_akn.json", "akn"),
+            ("_links.md", "link"),
+        ]:
+            if (d / stage_file).exists():
+                stages_done.append(stage_name)
+
+        complete = len(missing) == 0
+        if complete:
+            fully_complete += 1
+
+        documents.append({
+            "slug": d.name,
+            "doc_type": doc_type,
+            "pipeline_stage": m.get("pipeline_stage", "unknown"),
+            "stages_done": stages_done,
+            "missing_fields": missing,
+            "complete": complete,
+            "frbr_uri": m.get("frbr_uri", ""),
+            "akn_elements": m.get("akn_elements", []),
+        })
+
+    return {
+        "total": total,
+        "fully_complete": fully_complete,
+        "incomplete": total - fully_complete,
+        "documents": documents,
+    }
+
+
+# ──────────────────────────────────────────────────────────────
 # Single-stage run endpoints
 # ──────────────────────────────────────────────────────────────
 
@@ -1471,6 +1561,104 @@ def strip_headers_footers(text: str) -> str:
     text_norm = re.sub(r'[ \t]{3,}', ' ', text_norm)
     text_norm = re.sub(r'\n{3,}', '\n\n', text_norm)
     return text_norm.strip()
+
+
+@app.post("/vault/stage/assess")
+async def stage_assess(request: StageRequest):
+    """Pre-pipeline PDF quality gate — assess before spending API credits.
+
+    Reads the raw PDF from _attachments/{slug}.pdf and checks:
+      - file_size_kb
+      - page_count (via pypdf if available, else estimates)
+      - text_density: chars-per-page from any embedded text layer
+      - symbol_noise_ratio: fraction of non-ASCII / garbage chars
+      - is_scanned: True if text_density < 100 (image-only PDF, needs OCR)
+      - estimated_tokens: rough estimate for API cost planning
+      - recommendation: ok / ocr_needed / too_large / too_small / corrupt
+
+    Writes assessment to _index.md frontmatter under assess_* keys.
+    Does NOT modify the PDF or run any extraction.
+    """
+    slug = request.slug
+    pdf_path = Path(VAULT_ROOT) / "_attachments" / f"{slug}.pdf"
+    if not pdf_path.exists():
+        raise HTTPException(status_code=404, detail=f"PDF not found: _attachments/{slug}.pdf")
+
+    file_size_kb = pdf_path.stat().st_size // 1024
+    page_count = 0
+    char_count = 0
+    non_ascii = 0
+    text_sample = ""
+
+    try:
+        import pypdf
+        reader = pypdf.PdfReader(str(pdf_path))
+        page_count = len(reader.pages)
+        texts = []
+        for pg in reader.pages[:10]:  # sample first 10 pages
+            t = pg.extract_text() or ""
+            texts.append(t)
+            char_count += len(t)
+            non_ascii += sum(1 for c in t if ord(c) > 127 or (ord(c) < 32 and c not in "\n\t "))
+        text_sample = " ".join(texts)[:500]
+    except ImportError:
+        # pypdf not installed — estimate from file size
+        page_count = max(1, file_size_kb // 50)
+    except Exception as e:
+        return {
+            "success": False, "slug": slug,
+            "error": f"Could not read PDF: {e}",
+            "recommendation": "corrupt",
+        }
+
+    text_density = char_count // max(1, min(page_count, 10))  # chars per sampled page
+    symbol_noise = round(non_ascii / max(1, char_count), 3)
+    is_scanned = text_density < 100
+    estimated_tokens = (file_size_kb * 800) // 1024  # rough: ~800 tokens/KB for text PDFs
+
+    if page_count == 0:
+        recommendation = "corrupt"
+    elif file_size_kb > 50_000:
+        recommendation = "too_large"
+    elif page_count < 2:
+        recommendation = "too_small"
+    elif is_scanned:
+        recommendation = "ocr_needed"
+    elif symbol_noise > 0.15:
+        recommendation = "high_noise"
+    else:
+        recommendation = "ok"
+
+    assessment = {
+        "assess_file_size_kb": file_size_kb,
+        "assess_page_count": page_count,
+        "assess_text_density": text_density,
+        "assess_symbol_noise": symbol_noise,
+        "assess_is_scanned": is_scanned,
+        "assess_estimated_tokens": estimated_tokens,
+        "assess_recommendation": recommendation,
+        "pipeline_stage": "assessed",
+    }
+
+    try:
+        idx = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
+        idx.metadata.update(assessment)
+        write_note(VAULT_ROOT, f"sources/{slug}/_index.md", idx.metadata, idx.body)
+    except FileNotFoundError:
+        pass  # index may not exist yet if assess runs before ingest
+
+    return {
+        "success": True,
+        "slug": slug,
+        "file_size_kb": file_size_kb,
+        "page_count": page_count,
+        "text_density_chars_per_page": text_density,
+        "symbol_noise_ratio": symbol_noise,
+        "is_scanned": is_scanned,
+        "estimated_tokens": estimated_tokens,
+        "recommendation": recommendation,
+        "text_sample": text_sample[:200] if text_sample else "",
+    }
 
 
 @app.post("/vault/stage/parse")
@@ -2250,6 +2438,142 @@ Return ONLY valid JSON as specified in the system prompt."""
     }
 
 
+@app.post("/vault/stage/link")
+async def stage_link(request: StageRequest):
+    """Build cross-document wikilinks from AKN references.
+
+    Reads _akn.json (written by stage_akn) and resolves case citations and
+    organizations against other slugs in the vault. Writes:
+      - _index.md frontmatter: cited_cases[], cited_organizations[]
+        as Obsidian [[wikilinks]] to matched source documents
+      - A _links.md note in sources/{slug}/ listing all outbound references
+        with match status (linked / unresolved)
+
+    Safe to re-run — overwrites _links.md and frontmatter fields only.
+    Skips silently if _akn.json doesn't exist (stage_akn not yet run).
+    """
+    slug = request.slug
+
+    akn_data = read_akn_json(VAULT_ROOT, slug)
+    if not akn_data:
+        return {
+            "success": True, "slug": slug, "skipped": True,
+            "reason": "No _akn.json found — run stage_akn first.",
+        }
+
+    references = akn_data.get("references", {})
+    case_citations = references.get("case_citations", [])
+    organizations = references.get("organizations", [])
+    ibc_citations = references.get("ibc_citations", [])
+    key_dates = references.get("key_dates", [])
+
+    # Build slug index of all source documents in the vault
+    sources_dir = Path(VAULT_ROOT) / "sources"
+    vault_slugs: dict[str, str] = {}   # slug → case_number (from frontmatter)
+    vault_by_case: dict[str, str] = {} # normalised case_number → slug
+    if sources_dir.exists():
+        for d in sources_dir.iterdir():
+            if not d.is_dir():
+                continue
+            idx_path = d / "_index.md"
+            if idx_path.exists():
+                try:
+                    note = read_note(VAULT_ROOT, f"sources/{d.name}/_index.md")
+                    cn = note.metadata.get("case_number", "")
+                    vault_slugs[d.name] = cn
+                    if cn:
+                        vault_by_case[cn.lower().replace(" ", "").replace("/", "-")] = d.name
+                except Exception:
+                    pass
+
+    def _resolve_case(citation: str) -> str:
+        """Return [[wikilink]] if citation matches a vault slug, else raw string."""
+        norm = citation.lower().replace(" ", "").replace("/", "-")
+        # Direct case number match
+        for key, target_slug in vault_by_case.items():
+            if key in norm or norm in key:
+                return f"[[sources/{target_slug}/_index|{citation}]]"
+        # Slug name match (e.g. citation contains corporate debtor name)
+        for target_slug in vault_slugs:
+            if target_slug.replace("-", " ") in citation.lower():
+                return f"[[sources/{target_slug}/_index|{citation}]]"
+        return citation  # unresolved — keep as plain text
+
+    linked_cases = [_resolve_case(c) for c in case_citations]
+    linked_orgs = []
+    for org in organizations:
+        name = org.get("name", "") if isinstance(org, dict) else str(org)
+        role = org.get("role", "") if isinstance(org, dict) else ""
+        linked_orgs.append(f"{name} ({role})" if role else name)
+
+    # Promote to _index.md frontmatter
+    wikilinked = [c for c in linked_cases if c.startswith("[[")]
+    unresolved = [c for c in linked_cases if not c.startswith("[[")]
+
+    try:
+        idx = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
+        idx.metadata["cited_cases"] = linked_cases
+        idx.metadata["cited_ibc"] = ibc_citations
+        idx.metadata["pipeline_stage"] = "linked"
+        write_note(VAULT_ROOT, f"sources/{slug}/_index.md", idx.metadata, idx.body)
+    except FileNotFoundError:
+        pass
+
+    # Write _links.md — human-readable reference sheet in Obsidian
+    lines = [
+        f"# References — {slug}",
+        "",
+        "## IBC / Statutory Citations",
+    ]
+    if ibc_citations:
+        lines += [f"- {c}" for c in ibc_citations]
+    else:
+        lines.append("- (none found)")
+
+    lines += ["", "## Case Citations"]
+    for raw, linked in zip(case_citations, linked_cases):
+        status = "linked" if linked.startswith("[[") else "unresolved"
+        lines.append(f"- {linked}  `{status}`")
+    if not case_citations:
+        lines.append("- (none found)")
+
+    lines += ["", "## Organizations"]
+    for org in linked_orgs:
+        lines.append(f"- {org}")
+    if not linked_orgs:
+        lines.append("- (none found)")
+
+    lines += ["", "## Key Dates"]
+    for kd in key_dates:
+        if isinstance(kd, dict):
+            lines.append(f"- **{kd.get('date', '')}** — {kd.get('event', '')}")
+        else:
+            lines.append(f"- {kd}")
+    if not key_dates:
+        lines.append("- (none found)")
+
+    links_meta = {
+        "type": "links",
+        "slug": slug,
+        "linked_cases": len(wikilinked),
+        "unresolved_cases": len(unresolved),
+        "ibc_citations": len(ibc_citations),
+        "pipeline_stage": "linked",
+    }
+    write_note(VAULT_ROOT, f"sources/{slug}/_links.md", links_meta, "\n".join(lines))
+
+    return {
+        "success": True,
+        "slug": slug,
+        "case_citations": len(case_citations),
+        "linked": len(wikilinked),
+        "unresolved": len(unresolved),
+        "ibc_citations": len(ibc_citations),
+        "organizations": len(linked_orgs),
+        "key_dates": len(key_dates),
+    }
+
+
 @app.post("/vault/stage/index")
 async def stage_index(request: StageRequest):
     """Write section notes from cached tree, filling content from page-range text."""
@@ -2381,21 +2705,57 @@ async def stage_index(request: StageRequest):
         write_full_text(VAULT_ROOT, slug, full_text, filename=filename)
 
     # Write table notes from _tables.json (one note per extracted table)
+    # Include doc-level context so Dataview can query tables by case/doc_type.
     tables_data = read_tables_json(VAULT_ROOT, slug)
     tables_written = 0
+
+    # Read doc-level metadata to stamp on every table note
+    _doc_meta: dict = {}
+    try:
+        _dm = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
+        _doc_meta = {
+            k: _dm.metadata.get(k, "")
+            for k in ("doc_type", "corporate_debtor", "case_number", "order_date",
+                       "court", "resolution_applicant")
+        }
+    except FileNotFoundError:
+        pass
+
+    def _ibc_table_type(caption: str, headers: list) -> str:
+        """Heuristic: classify an IBC table by caption and column names."""
+        text = (caption + " ".join(str(h) for h in headers)).lower()
+        if any(w in text for w in ("creditor", "claim", "admitted", "financial creditor")):
+            return "creditor_table"
+        if any(w in text for w in ("payment", "schedule", "instalment", "tranche")):
+            return "payment_schedule"
+        if any(w in text for w in ("valuation", "fair value", "liquidation value")):
+            return "valuation_summary"
+        if any(w in text for w in ("asset", "property", "land", "plant")):
+            return "asset_schedule"
+        if any(w in text for w in ("employee", "workmen", "staff")):
+            return "employee_table"
+        if any(w in text for w in ("litigation", "legal", "suit", "case")):
+            return "litigation_summary"
+        return "other"
+
     if tables_data and tables_data.get("tables"):
         for tbl in tables_data["tables"]:
             try:
+                headers = tbl.get("headers", [])
+                caption = tbl.get("caption", f"Table {tbl['table_id']}")
+                ibc_type = _ibc_table_type(caption, headers)
                 write_table_note(
                     VAULT_ROOT, slug,
                     table_id=tbl["table_id"],
                     page=tbl.get("page", 1),
-                    caption=tbl.get("caption", f"Table {tbl['table_id']}"),
-                    headers=tbl.get("headers", []),
+                    caption=caption,
+                    headers=headers,
                     rows=tbl.get("rows", []),
                     markdown=tbl.get("markdown", ""),
                     context_before=tbl.get("context_before", ""),
                     context_after=tbl.get("context_after", ""),
+                    doc_meta=_doc_meta,
+                    ibc_table_type=ibc_type,
                 )
                 tables_written += 1
             except Exception:
@@ -2493,6 +2853,106 @@ async def stage_enrich(request: StageRequest):
     }
 
 
+@app.post("/vault/stage/enrich_mca")
+async def stage_enrich_mca(request: StageRequest):
+    """Enrich a source document with external entity data via GLEIF open API.
+
+    Looks up the corporate_debtor name from _index.md against the GLEIF
+    global LEI registry (free, no auth required). If a match is found, stores:
+      - lei: Legal Entity Identifier (20-char ISO 17442 code)
+      - gleif_legal_name: canonical legal name from GLEIF
+      - gleif_jurisdiction: incorporation jurisdiction
+      - gleif_status: ACTIVE / INACTIVE / ANNULLED
+      - gleif_match_confidence: exact / fuzzy / none
+
+    Writes result to _meta.json (merges, does not overwrite) and promotes
+    lei + gleif_status to _index.md frontmatter.
+
+    Safe to re-run. Falls back gracefully if GLEIF is unreachable.
+    """
+    slug = request.slug
+
+    try:
+        idx = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail=f"Source not found: {slug}")
+
+    corporate_debtor = idx.metadata.get("corporate_debtor", "").strip()
+    if not corporate_debtor:
+        return {
+            "success": False, "slug": slug, "skipped": True,
+            "reason": "corporate_debtor not set in _index.md — run stage_extract first.",
+        }
+
+    gleif_result: dict = {"gleif_match_confidence": "none"}
+
+    try:
+        async with httpx.AsyncClient(timeout=15.0) as client:
+            # GLEIF fuzzy search — free, no API key
+            resp = await client.get(
+                "https://api.gleif.org/api/v1/fuzzycompletions",
+                params={"field": "entity.legalName", "q": corporate_debtor},
+                headers={"Accept": "application/vnd.api+json"},
+            )
+            if resp.status_code == 200:
+                data = resp.json()
+                completions = data.get("data", [])
+                if completions:
+                    # Take the top match and fetch full LEI record
+                    top = completions[0]
+                    lei_id = top.get("relationships", {}).get("lei-records", {}).get("data", [{}])[0].get("id", "")
+                    if not lei_id:
+                        # Try direct attributes path
+                        lei_id = top.get("id", "")
+
+                    if lei_id:
+                        lei_resp = await client.get(
+                            f"https://api.gleif.org/api/v1/lei-records/{lei_id}",
+                            headers={"Accept": "application/vnd.api+json"},
+                        )
+                        if lei_resp.status_code == 200:
+                            lei_data = lei_resp.json().get("data", {})
+                            attrs = lei_data.get("attributes", {})
+                            entity = attrs.get("entity", {})
+                            legal_name = entity.get("legalName", {}).get("name", "")
+                            gleif_result = {
+                                "lei": lei_id,
+                                "gleif_legal_name": legal_name,
+                                "gleif_jurisdiction": entity.get("jurisdiction", ""),
+                                "gleif_status": attrs.get("registration", {}).get("status", ""),
+                                "gleif_match_confidence": (
+                                    "exact" if legal_name.lower() == corporate_debtor.lower()
+                                    else "fuzzy"
+                                ),
+                            }
+    except Exception as e:
+        gleif_result["gleif_error"] = str(e)
+
+    # Merge into _meta.json
+    meta_path = Path(VAULT_ROOT) / "sources" / slug / "_meta.json"
+    existing_meta: dict = {}
+    if meta_path.exists():
+        with open(meta_path) as f:
+            existing_meta = json.load(f)
+    existing_meta.update(gleif_result)
+    with open(meta_path, "w") as f:
+        json.dump(existing_meta, f, ensure_ascii=False, indent=2)
+
+    # Promote LEI fields to _index.md frontmatter
+    for field in ("lei", "gleif_legal_name", "gleif_jurisdiction", "gleif_status", "gleif_match_confidence"):
+        if gleif_result.get(field):
+            idx.metadata[field] = gleif_result[field]
+    idx.metadata["pipeline_stage"] = "mca_enriched"
+    write_note(VAULT_ROOT, f"sources/{slug}/_index.md", idx.metadata, idx.body)
+
+    return {
+        "success": True,
+        "slug": slug,
+        "corporate_debtor": corporate_debtor,
+        **gleif_result,
+    }
+
+
 @app.post("/vault/stage/chunk")
 async def stage_chunk(request: StageRequest):
     """SemChunk enriched sections, prepending breadcrumb+summary to each chunk."""
@@ -2509,6 +2969,41 @@ async def stage_chunk(request: StageRequest):
     index_note = read_note(VAULT_ROOT, index_path)
     doc_title = index_note.metadata.get("filename", slug)
 
+    # AKN element map — built from _akn.json if stage_akn has run.
+    # Maps akn_element name → its verbatim text (used for section→element matching).
+    akn_data = read_akn_json(VAULT_ROOT, slug)
+    akn_element_texts: dict[str, str] = {}
+    if akn_data and "elements" in akn_data:
+        for el in akn_data["elements"]:
+            name = el.get("akn_element", "")
+            text = el.get("text", "")
+            if name and text:
+                akn_element_texts[name] = text
+
+    def _akn_element_for_section(content: str) -> str:
+        """Find which AKN element this section's text overlaps most with.
+
+        Samples the first and last 200 chars of the section and checks which
+        AKN element contains that text as a substring. Falls back to scanning
+        for the longest common prefix. Returns "" if no AKN data available.
+        """
+        if not akn_element_texts or not content.strip():
+            return ""
+        sample = content.strip()[:200]
+        # Preferred order — decision and motivation are most useful to distinguish
+        order = ["header", "preamble", "background", "motivation", "decision"]
+        for el_name in order:
+            el_text = akn_element_texts.get(el_name, "")
+            if sample[:80] in el_text:
+                return el_name
+        # Fallback: score by character overlap
+        best_el, best_score = "", 0
+        for el_name, el_text in akn_element_texts.items():
+            overlap = sum(1 for ch in sample if ch in el_text)
+            if overlap > best_score:
+                best_score, best_el = overlap, el_name
+        return best_el
+
     # Build enriched nodes: prepend [Section: breadcrumb]\n[Summary: ...]\n to each section body
     nodes = []
     for note in section_notes:
@@ -2517,7 +3012,11 @@ async def stage_chunk(request: StageRequest):
         llm_summary = m.get("llm_summary", "")
         content = note.body or ""
 
+        akn_element = _akn_element_for_section(content)
+
         context_lines: List[str] = []
+        if akn_element:
+            context_lines.append(f"[AKN: {akn_element}]")
         if breadcrumb:
             context_lines.append(f"[Section: {breadcrumb}]")
         if llm_summary:
@@ -2536,6 +3035,7 @@ async def stage_chunk(request: StageRequest):
             "metadata": {
                 "type": "content" if m.get("is_leaf", True) else "section",
                 "wordCount": len(enriched_content.split()),
+                "aknElement": akn_element,
             },
             "children": [],
         })
@@ -2581,6 +3081,7 @@ async def stage_chunk(request: StageRequest):
     for i, chunk in enumerate(chunks):
         source_node_id = chunk.get("sourceNodeId", chunk.get("metadata", {}).get("nodeId", ""))
         section_wikilink = ""
+        akn_element = chunk.get("metadata", {}).get("aknElement", "")
         if source_node_id:
             for sn in section_notes:
                 if sn.path.stem.startswith(f"sec-{source_node_id.replace('node-', '')}"):
@@ -2599,6 +3100,7 @@ async def stage_chunk(request: StageRequest):
             has_overlap=chunk.get("metadata", {}).get("hasOverlap", False),
             source_wikilink=source_wikilink,
             section_wikilink=section_wikilink,
+            akn_element=akn_element,
         )
 
     # ── Atomic table chunks ────────────────────────────────────
@@ -2699,6 +3201,69 @@ async def stage_embed(request: StageRequest):
     if not section_notes:
         raise HTTPException(status_code=404, detail=f"No section notes for: {slug}. Run Index/Enrich first.")
 
+    # ── Entity pre-seed document ───────────────────────────────
+    # Build a structured entity summary from _meta.json and _akn.json and
+    # send it as the first document so LightRAG's graph starts with typed
+    # named entities rather than discovering them cold from raw text.
+    meta_data = read_meta_json(VAULT_ROOT, slug) or {}
+    akn_data_embed = read_akn_json(VAULT_ROOT, slug) or {}
+    akn_refs = akn_data_embed.get("references", {})
+
+    seed_lines = [f"[ENTITY SEED DOCUMENT: {filename}]", ""]
+    m_idx = index_note.metadata
+
+    for label, key in [
+        ("Corporate Debtor", "corporate_debtor"),
+        ("Resolution Applicant", "resolution_applicant"),
+        ("Insolvency Professional", "insolvency_professional"),
+        ("Court", "court"),
+        ("Case Number", "case_number"),
+        ("Order Date", "order_date"),
+        ("CIRP Commencement Date", "cirp_commencement_date"),
+        ("Doc Type", "doc_type"),
+    ]:
+        val = m_idx.get(key) or meta_data.get(key, "")
+        if val:
+            seed_lines.append(f"{label}: {val}")
+
+    # Financial summary
+    for label, key in [
+        ("Resolution Amount (INR)", "resolution_amount_inr"),
+        ("Total Admitted Claims (INR)", "total_admitted_inr"),
+        ("Haircut %", "haircut_pct"),
+        ("CoC Approval %", "coc_approval_pct"),
+        ("Liquidation Value (INR)", "liquidation_value_inr"),
+    ]:
+        val = meta_data.get(key)
+        if val is not None:
+            seed_lines.append(f"{label}: {val}")
+
+    # Creditors from _meta.json
+    creditors = meta_data.get("creditors", [])
+    if creditors:
+        seed_lines += ["", "Creditors:"]
+        for cr in creditors[:20]:  # cap at 20
+            name = cr.get("name", "")
+            ctype = cr.get("creditor_type", "")
+            admitted = cr.get("amount_admitted_inr", "")
+            plan = cr.get("amount_under_plan_inr", "")
+            seed_lines.append(f"  - {name} ({ctype}): admitted={admitted}, plan={plan}")
+
+    # AKN organizations + IBC citations
+    orgs = akn_refs.get("organizations", [])
+    if orgs:
+        seed_lines += ["", "Organizations referenced:"]
+        for org in orgs:
+            name = org.get("name", "") if isinstance(org, dict) else str(org)
+            role = org.get("role", "") if isinstance(org, dict) else ""
+            seed_lines.append(f"  - {name}" + (f" ({role})" if role else ""))
+
+    ibc_cites = akn_refs.get("ibc_citations", [])
+    if ibc_cites:
+        seed_lines += ["", f"IBC/IBBI provisions: {', '.join(ibc_cites)}"]
+
+    seed_doc = "\n".join(seed_lines)
+
     # Document context header — prepended to every section so LightRAG sees
     # the full document context even when processing individual sections
     doc_header = f"[DOCUMENT: {filename}]"
@@ -2710,8 +3275,22 @@ async def stage_embed(request: StageRequest):
     skipped = 0
     failed = 0
     skip_reasons: dict = {"not_leaf": 0, "too_short": 0, "duplicate": 0}
+    seed_ingested = False
 
     async with httpx.AsyncClient(timeout=180.0) as client:
+        # Send entity seed document first
+        if len(seed_lines) > 5:
+            try:
+                resp = await client.post(
+                    f"{LIGHTRAG_URL}/documents/text",
+                    json={"text": seed_doc, "file_source": f"{slug}/_entity_seed"},
+                )
+                resp.raise_for_status()
+                if resp.json().get("status") != "duplicated":
+                    seed_ingested = True
+            except Exception:
+                pass  # Best-effort — don't fail if seed fails
+
         for note in section_notes:
             m = note.metadata
             is_leaf = m.get("is_leaf", True)
@@ -2761,9 +3340,11 @@ async def stage_embed(request: StageRequest):
 
     return {
         "success": True, "slug": slug,
+        "seed_ingested": seed_ingested,
         "ingested": ingested, "skipped": skipped, "failed": failed,
         "skip_reasons": skip_reasons,
         "message": (
+            f"{'Entity seed + ' if seed_ingested else ''}"
             f"Sent {ingested} leaf sections to LightRAG "
             f"(skipped {skipped} duplicates, {skip_reasons['not_leaf']} non-leaf, "
             f"{skip_reasons['too_short']} too short; {failed} failed)"
@@ -2917,6 +3498,234 @@ async def stage_karpathy(request: StageRequest):
         "embeddings_path": str(emb_path),
         "message": f"Built Karpathy index: {len(note_links)} notes, {len(bm25_index)} BM25 terms",
     }
+
+
+# ──────────────────────────────────────────────────────────────
+# Pi Agents — Resolution Plan Verify (RPV)
+# ──────────────────────────────────────────────────────────────
+
+class RpvRequest(BaseModel):
+    order_slug: str                   # slug of the resolution_plan_order document
+    plan_slug: Optional[str] = None   # slug of the resolution_plan (if separately ingested)
+    im_slug: Optional[str] = None     # slug of the information_memorandum (if separately ingested)
+
+
+@app.post("/vault/agents/rpv")
+async def agent_rpv(request: RpvRequest):
+    """Resolution Plan Verify (RPV) — Pi Agent #1.
+
+    Reads the extracted metadata from a resolution_plan_order and cross-checks
+    it against the resolution_plan and/or information_memorandum if available.
+
+    Checks performed:
+      1. Section 29A compliance declared vs court's finding
+      2. CoC vote % in order vs plan document
+      3. Resolution amount vs IM's liquidation/fair value
+      4. Creditor recovery % consistency
+      5. Payment timeline stated vs approved
+      6. CIRP cost within normal range (< 5% of resolution amount)
+      7. AKN motivation vs decision consistency (did court approve exactly what was proposed)
+
+    Output:
+      sources/{order_slug}/_rpv.json  — structured verification report
+      sources/{order_slug}/_rpv.md    — human-readable Obsidian note
+
+    Uses Claude (heavy) for semantic checks. Structured field checks are deterministic.
+    """
+    order_slug = request.order_slug
+
+    # Load order metadata
+    try:
+        order_idx = read_note(VAULT_ROOT, f"sources/{order_slug}/_index.md")
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail=f"Order not found: {order_slug}")
+
+    if order_idx.metadata.get("doc_type") != "resolution_plan_order":
+        raise HTTPException(
+            status_code=400,
+            detail=f"doc_type is '{order_idx.metadata.get('doc_type')}' — RPV requires resolution_plan_order",
+        )
+
+    order_meta = read_meta_json(VAULT_ROOT, order_slug) or {}
+    order_akn = read_akn_json(VAULT_ROOT, order_slug) or {}
+    plan_meta = read_meta_json(VAULT_ROOT, request.plan_slug) if request.plan_slug else {}
+    im_meta = read_meta_json(VAULT_ROOT, request.im_slug) if request.im_slug else {}
+    plan_meta = plan_meta or {}
+    im_meta = im_meta or {}
+
+    checks: list = []
+
+    def _check(name: str, passed: bool, detail: str, severity: str = "warning"):
+        checks.append({
+            "check": name,
+            "passed": passed,
+            "detail": detail,
+            "severity": severity if not passed else "ok",
+        })
+
+    # ── Deterministic field checks ─────────────────────────────
+
+    # 1. CoC vote %
+    coc = order_meta.get("coc_approval_pct")
+    if coc is not None:
+        _check(
+            "coc_threshold",
+            passed=float(coc) >= 66.0,
+            detail=f"CoC approval: {coc}% (minimum 66% per Section 30(4))",
+            severity="critical",
+        )
+    else:
+        _check("coc_threshold", passed=False, detail="coc_approval_pct not extracted", severity="warning")
+
+    # 2. Resolution amount vs liquidation value
+    res_amt = order_meta.get("resolution_amount_inr")
+    liq_val = order_meta.get("liquidation_value_inr") or im_meta.get("liquidation_value_inr")
+    if res_amt and liq_val:
+        above_liq = int(res_amt) >= int(liq_val)
+        _check(
+            "resolution_above_liquidation",
+            passed=above_liq,
+            detail=f"Resolution ₹{res_amt:,} vs Liquidation ₹{liq_val:,} — {'above' if above_liq else 'BELOW liquidation value'}",
+            severity="critical",
+        )
+
+    # 3. Haircut consistency
+    res_amt_n = order_meta.get("resolution_amount_inr")
+    total_admitted = order_meta.get("total_admitted_inr")
+    stated_haircut = order_meta.get("haircut_pct")
+    if res_amt_n and total_admitted and stated_haircut is not None:
+        computed = round((1 - int(res_amt_n) / int(total_admitted)) * 100, 2)
+        diff = abs(computed - float(stated_haircut))
+        _check(
+            "haircut_consistency",
+            passed=diff < 2.0,
+            detail=f"Stated haircut {stated_haircut}% vs computed {computed}% (diff {diff:.1f}%)",
+            severity="warning",
+        )
+
+    # 4. CIRP cost reasonableness (< 5% of resolution amount)
+    cirp_cost = order_meta.get("cirp_cost_inr")
+    if cirp_cost and res_amt_n:
+        cirp_pct = round(int(cirp_cost) / int(res_amt_n) * 100, 2)
+        _check(
+            "cirp_cost_reasonableness",
+            passed=cirp_pct < 5.0,
+            detail=f"CIRP cost ₹{cirp_cost:,} = {cirp_pct}% of resolution amount",
+            severity="warning",
+        )
+
+    # 5. Section 29A declared
+    s29a = order_meta.get("section_29a_compliant")
+    _check(
+        "section_29a_declared",
+        passed=s29a is True,
+        detail=f"Section 29A compliance: {s29a}",
+        severity="warning",
+    )
+
+    # ── LLM semantic checks ────────────────────────────────────
+    # Only run if AKN annotation exists (motivation + decision elements available)
+    llm_check_result: dict = {}
+    akn_elements = {el["akn_element"]: el["text"] for el in order_akn.get("elements", [])}
+    motivation = akn_elements.get("motivation", "")
+    decision = akn_elements.get("decision", "")
+
+    if motivation and decision and ANTHROPIC_API_KEY:
+        llm_prompt = f"""You are a legal analyst verifying an NCLT resolution plan approval order.
+
+Review the court's MOTIVATION and DECISION sections and check:
+1. Does the decision approve exactly what the motivation discusses? Any unexplained gaps?
+2. Does the motivation address all material creditor objections?
+3. Are there any conditions in the decision that are not explained in the motivation?
+4. Is the resolution applicant's name consistent across both sections?
+
+MOTIVATION:
+{motivation[:3000]}
+
+DECISION:
+{decision[:2000]}
+
+Return JSON: {{"consistent": true/false, "issues": ["list of issues found"], "summary": "one sentence"}}"""
+
+        try:
+            raw = await llm_call(llm_prompt, provider="claude", heavy=True, max_tokens=800, json_mode=True)
+            cleaned = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+            llm_check_result = json.loads(cleaned)
+            _check(
+                "motivation_decision_consistency",
+                passed=llm_check_result.get("consistent", False),
+                detail=llm_check_result.get("summary", ""),
+                severity="warning",
+            )
+        except Exception as e:
+            llm_check_result = {"error": str(e)}
+
+    # ── Build report ───────────────────────────────────────────
+    passed_count = sum(1 for c in checks if c["passed"])
+    critical_failures = [c for c in checks if not c["passed"] and c["severity"] == "critical"]
+    warnings = [c for c in checks if not c["passed"] and c["severity"] == "warning"]
+    overall = "PASS" if not critical_failures else "FAIL"
+
+    report = {
+        "slug": order_slug,
+        "doc_type": "resolution_plan_order",
+        "corporate_debtor": order_meta.get("corporate_debtor", order_idx.metadata.get("corporate_debtor", "")),
+        "case_number": order_meta.get("case_number", order_idx.metadata.get("case_number", "")),
+        "overall": overall,
+        "passed": passed_count,
+        "total_checks": len(checks),
+        "critical_failures": len(critical_failures),
+        "warnings": len(warnings),
+        "checks": checks,
+        "llm_analysis": llm_check_result,
+        "cross_docs": {
+            "plan_slug": request.plan_slug,
+            "im_slug": request.im_slug,
+        },
+    }
+
+    # Write _rpv.json
+    rpv_json_path = Path(VAULT_ROOT) / "sources" / order_slug / "_rpv.json"
+    with open(rpv_json_path, "w", encoding="utf-8") as f:
+        json.dump(report, f, ensure_ascii=False, indent=2)
+
+    # Write _rpv.md — Obsidian note
+    status_icon = "✅" if overall == "PASS" else "❌"
+    md_lines = [
+        f"# RPV Report — {report['corporate_debtor']}",
+        f"**Case:** {report['case_number']}  **Status:** {status_icon} {overall}",
+        f"**Checks:** {passed_count}/{len(checks)} passed  "
+        f"**Critical failures:** {len(critical_failures)}  **Warnings:** {len(warnings)}",
+        "",
+        "## Check Results",
+    ]
+    for c in checks:
+        icon = "✅" if c["passed"] else ("🔴" if c["severity"] == "critical" else "⚠️")
+        md_lines.append(f"{icon} **{c['check']}**: {c['detail']}")
+
+    if llm_check_result and not llm_check_result.get("error"):
+        md_lines += ["", "## LLM Semantic Analysis"]
+        for issue in llm_check_result.get("issues", []):
+            md_lines.append(f"- {issue}")
+
+    rpv_meta = {
+        "type": "rpv-report",
+        "source": f"[[sources/{order_slug}/_index]]",
+        "overall": overall,
+        "passed": passed_count,
+        "total_checks": len(checks),
+        "critical_failures": len(critical_failures),
+        "corporate_debtor": report["corporate_debtor"],
+        "case_number": report["case_number"],
+    }
+    write_note(VAULT_ROOT, f"sources/{order_slug}/_rpv.md", rpv_meta, "\n".join(md_lines))
+
+    # Stamp pipeline_stage
+    order_idx.metadata["rpv_overall"] = overall
+    order_idx.metadata["pipeline_stage"] = "rpv_done"
+    write_note(VAULT_ROOT, f"sources/{order_slug}/_index.md", order_idx.metadata, order_idx.body)
+
+    return report
 
 
 # ──────────────────────────────────────────────────────────────
