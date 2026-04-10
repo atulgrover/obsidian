@@ -3,7 +3,19 @@
 
   let { slug = '' } = $props();
 
-  let parseData: Record<string, unknown> | null = $state(null);
+  type ParsePage = {
+    pageNum: number;
+    paragraphs?: Array<Record<string, any>>;
+  };
+
+  type ParseData = {
+    metadata?: Record<string, number>;
+    text?: string;
+    markdown?: string;
+    pages?: ParsePage[];
+  };
+
+  let parseData: ParseData | null = $state(null);
   let loading = $state(false);
   let error = $state('');
   let viewMode: 'text' | 'markdown' | 'paragraphs' = $state('markdown');
@@ -22,15 +34,17 @@
     }
   }
 
-  function getPages(): any[] {
-    return (parseData?.pages as any[]) || [];
+  function getPages(): ParsePage[] {
+    return parseData?.pages || [];
   }
 
   function getParagraphs(page: any): any[] {
     return page?.paragraphs || [];
   }
 
-  const meta = $derived(parseData?.metadata as Record<string, number> || {});
+  function getMeta(): Record<string, number> {
+    return parseData?.metadata || {};
+  }
 </script>
 
 <div class="parse-tab">
@@ -42,8 +56,8 @@
     <div class="empty">No parse data. Run the pipeline first.</div>
   {:else}
     <div class="meta-bar">
-      <span class="chip">Pages: {meta.totalPages || 0}</span>
-      <span class="chip">Chars: {(meta.characterCount || 0).toLocaleString()}</span>
+      <span class="chip">Pages: {getMeta().totalPages || 0}</span>
+      <span class="chip">Chars: {(getMeta().characterCount || 0).toLocaleString()}</span>
       <span class="chip">Paragraphs: {getPages().reduce((n: number, p: any) => n + (p.paragraphs?.length || 0), 0)}</span>
     </div>
 

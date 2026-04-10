@@ -86,10 +86,11 @@ services:
       LIGHTRAG_VECTOR_STORAGE: PGVectorStorage
       LIGHTRAG_GRAPH_STORAGE: PGGraphStorage
       LIGHTRAG_DOC_STATUS_STORAGE: PGDocStatusStorage
-      # LLM — Ollama local
-      LLM_BINDING: ollama
-      LLM_BINDING_HOST: http://host.docker.internal:11434
-      LLM_MODEL: ministral-3:14b-cloud
+      # LLM — OpenAI
+      LLM_BINDING: openai
+      LLM_BINDING_HOST: https://api.openai.com
+      LLM_MODEL: gpt-4o-mini
+      OPENAI_API_KEY: "${OPENAI_API_KEY:-}"
       # Embeddings — SBERT (OpenAI-compatible)
       EMBEDDING_BINDING: openai
       EMBEDDING_BINDING_HOST: http://sbert:8021
@@ -192,21 +193,21 @@ services:
       # ── Parser config ──────────────────────────────────────
       # Set LLAMA_PARSE_API_KEY to use LlamaParse (cloud, recommended).
       # Leave empty to use LiteParse (local, offline-safe).
-      LLAMA_PARSE_API_KEY: "llx-JmEsUk8llkicHeRo95EjXWiZy9lt1d4zEruADMdfChCtlHsH"
+      LLAMA_PARSE_API_KEY: "${LLAMA_PARSE_API_KEY:-}"
       # Set PRIVATE_MODE=true to always use LiteParse regardless of key.
       PRIVATE_MODE: "false"
       # ── LLM provider ───────────────────────────────────────
       # Options: ollama (default/local) | claude | openai
-      LLM_PROVIDER: "ollama"
+      LLM_PROVIDER: "openai"
       ANTHROPIC_API_KEY: ""
-      OPENAI_API_KEY: ""
+      OPENAI_API_KEY: "${OPENAI_API_KEY:-}"
       # Model selection (light = fast/cheap, heavy = quality)
       LLM_MODEL_CLAUDE: "claude-haiku-4-5-20251001"
       LLM_MODEL_CLAUDE_HEAVY: "claude-sonnet-4-6"
       LLM_MODEL_OPENAI: "gpt-4o-mini"
       LLM_MODEL_OPENAI_HEAVY: "gpt-4o"
     volumes:
-      - vault_data:/vault
+      - ./vault:/vault
     ports:
       - "5004:5004"
     healthcheck:
@@ -266,5 +267,4 @@ volumes:
   postgres_data:
   sbert_cache:
   lightrag_data:
-  vault_data:
   pgadmin_data:

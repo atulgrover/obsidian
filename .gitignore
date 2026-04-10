@@ -9,3 +9,7 @@ build/
 .pytest_cache/
 venv/
 .venv/
+pipeline_test.log
+vault-pipeline/pipeline_test.log
+vault-pipeline/.obsidian/
+vault/

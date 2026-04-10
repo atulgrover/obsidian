@@ -12,11 +12,16 @@ Also provides vault CRUD endpoints for the web frontend.
 
 from __future__ import annotations
 
+import asyncio
 import json
+import logging
+import math
 import os
 import re
 import tempfile
+import time
 from collections import Counter
+from contextlib import contextmanager
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
@@ -36,6 +41,7 @@ from vault_io import (
     read_all_tables,
     read_note,
     read_parse_json,
+    read_sidecar_json,
     read_tables_json,
     read_tree_json,
     update_pipeline_stage,
@@ -45,6 +51,7 @@ from vault_io import (
     write_full_text,
     write_parse_json,
     write_section_note,
+    write_sidecar_json,
     write_source_index,
     write_table_note,
     write_tables_json,
@@ -87,6 +94,34 @@ LLM_MODEL_OPENAI = os.environ.get("LLM_MODEL_OPENAI", "gpt-4o-mini")
 LLM_MODEL_OPENAI_HEAVY = os.environ.get("LLM_MODEL_OPENAI_HEAVY", "gpt-4o")
 
 # ──────────────────────────────────────────────────────────────
+# Logging
+# ──────────────────────────────────────────────────────────────
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)-8s] %(name)s — %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+)
+logger = logging.getLogger("vault-pipeline")
+
+
+@contextmanager
+def stage_log(stage: str, slug: str = "", **kw):
+    """Context manager: logs stage start, finish, elapsed time, and any error."""
+    extras = "  ".join(f"{k}={v}" for k, v in kw.items())
+    logger.info(f"▶ START   stage={stage:<22} slug={slug}  {extras}".rstrip())
+    t0 = time.perf_counter()
+    try:
+        yield logger
+        elapsed = time.perf_counter() - t0
+        logger.info(f"✓ DONE    stage={stage:<22} slug={slug}  elapsed={elapsed:.2f}s")
+    except Exception as exc:
+        elapsed = time.perf_counter() - t0
+        logger.error(f"✗ ERROR   stage={stage:<22} slug={slug}  elapsed={elapsed:.2f}s  error={exc!r}")
+        raise
+
+
+# ──────────────────────────────────────────────────────────────
 # App
 # ──────────────────────────────────────────────────────────────
 
@@ -99,6 +134,26 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+# Request/response timing middleware — logs every endpoint call
+from starlette.middleware.base import BaseHTTPMiddleware
+from starlette.requests import Request as StarletteRequest
+
+
+class RequestLogMiddleware(BaseHTTPMiddleware):
+    async def dispatch(self, request: StarletteRequest, call_next):
+        t0 = time.perf_counter()
+        response = await call_next(request)
+        elapsed = time.perf_counter() - t0
+        logger.info(
+            f"HTTP {request.method} {request.url.path}"
+            f"  status={response.status_code}  elapsed={elapsed:.2f}s"
+        )
+        return response
+
+
+app.add_middleware(RequestLogMiddleware)
 
 
 @app.on_event("startup")
@@ -641,6 +696,15 @@ class FullPipelineRequest(BaseModel):
     url: str
     max_tokens: int = 512
     overlap_tokens: int = 75
+    # Intelligence stages — set to False to skip if API keys not available
+    run_classify: bool = True
+    run_extract: bool = True
+    run_akn: bool = True
+    run_multipass: bool = True
+    run_structure: bool = True
+    run_canvas: bool = True
+    run_dashboard: bool = True
+    run_embed: bool = True
 
 
 class FullPipelineUploadResponse(BaseModel):
@@ -651,39 +715,122 @@ class FullPipelineUploadResponse(BaseModel):
 
 @app.post("/vault/full-pipeline")
 async def full_pipeline(request: FullPipelineRequest):
-    """Run all three stages: ingest → chunk → ingest-lightrag."""
-    # Stage 1
+    """Run the complete IBC document pipeline.
+
+    Stage order:
+      assess → parse → cleanse → classify → extract → akn → extract_multipass
+      → link → index → enrich → enrich_mca → structure → chunk → embed
+      → canvas → dashboard
+
+    All intelligence stages are opt-in via boolean flags — set to False
+    when API keys are unavailable or for speed.
+    """
+    stages: dict = {}
+
+    # ── parse ─────────────────────────────────────────────────
     stage1 = await ingest_pdf(IngestPdfRequest(
         url=request.url,
         max_tokens=request.max_tokens,
         overlap_tokens=request.overlap_tokens,
     ))
-
+    stages["parse"] = stage1.dict() if hasattr(stage1, "dict") else stage1
     if not stage1.success:
-        return {"success": False, "stage": 1, "error": stage1.message}
+        return {"success": False, "failed_at": "parse", "stages": stages}
 
-    # Stage 2
-    stage2 = await chunk_from_vault(ChunkFromVaultRequest(
-        slug=stage1.slug,
+    slug = stage1.slug
+    sr = StageRequest(slug=slug)
+
+    # ── classify ──────────────────────────────────────────────
+    if request.run_classify:
+        try:
+            stages["classify"] = await stage_classify(sr)
+        except Exception as e:
+            stages["classify"] = {"success": False, "error": str(e)}
+
+    # ── extract ───────────────────────────────────────────────
+    if request.run_extract:
+        try:
+            stages["extract"] = await stage_extract(sr)
+        except Exception as e:
+            stages["extract"] = {"success": False, "error": str(e)}
+
+    # ── akn ───────────────────────────────────────────────────
+    if request.run_akn:
+        try:
+            stages["akn"] = await stage_akn(sr)
+        except Exception as e:
+            stages["akn"] = {"success": False, "error": str(e)}
+
+    # ── extract_multipass ─────────────────────────────────────
+    if request.run_multipass and ANTHROPIC_API_KEY:
+        try:
+            stages["extract_multipass"] = await stage_extract_multipass(sr)
+        except Exception as e:
+            stages["extract_multipass"] = {"success": False, "error": str(e)}
+
+    # ── link ──────────────────────────────────────────────────
+    try:
+        stages["link"] = await stage_link(sr)
+    except Exception as e:
+        stages["link"] = {"success": False, "error": str(e)}
+
+    # ── index ─────────────────────────────────────────────────
+    try:
+        stages["index"] = await stage_index(sr)
+    except Exception as e:
+        stages["index"] = {"success": False, "error": str(e)}
+
+    # ── enrich ────────────────────────────────────────────────
+    try:
+        stages["enrich"] = await stage_enrich(sr)
+    except Exception as e:
+        stages["enrich"] = {"success": False, "error": str(e)}
+
+    # ── enrich_mca ────────────────────────────────────────────
+    try:
+        stages["enrich_mca"] = await stage_enrich_mca(sr)
+    except Exception as e:
+        stages["enrich_mca"] = {"success": False, "error": str(e)}
+
+    # ── structure ─────────────────────────────────────────────
+    if request.run_structure:
+        try:
+            stages["structure"] = await stage_structure(sr)
+        except Exception as e:
+            stages["structure"] = {"success": False, "error": str(e)}
+
+    # ── chunk ─────────────────────────────────────────────────
+    stage_chunk_result = await chunk_from_vault(ChunkFromVaultRequest(
+        slug=slug,
         max_tokens=request.max_tokens,
         overlap_tokens=request.overlap_tokens,
     ))
+    stages["chunk"] = stage_chunk_result.dict() if hasattr(stage_chunk_result, "dict") else stage_chunk_result
+    if not stage_chunk_result.success:
+        return {"success": False, "failed_at": "chunk", "stages": stages}
 
-    if not stage2.success:
-        return {"success": False, "stage": 2, "error": stage2.message}
+    # ── embed ─────────────────────────────────────────────────
+    if request.run_embed:
+        try:
+            stages["embed"] = await stage_embed(sr)
+        except Exception as e:
+            stages["embed"] = {"success": False, "error": str(e)}
 
-    # Stage 3
-    stage3 = await ingest_lightrag(IngestLightragRequest(slug=stage1.slug))
+    # ── canvas ────────────────────────────────────────────────
+    if request.run_canvas:
+        try:
+            stages["canvas"] = await stage_canvas(sr)
+        except Exception as e:
+            stages["canvas"] = {"success": False, "error": str(e)}
 
-    return {
-        "success": True,
-        "slug": stage1.slug,
-        "stages": {
-            "ingest_pdf": stage1.dict(),
-            "chunk": stage2.dict(),
-            "ingest_lightrag": stage3.dict(),
-        },
-    }
+    # ── dashboard ─────────────────────────────────────────────
+    if request.run_dashboard:
+        try:
+            stages["dashboard"] = await stage_dashboard(sr)
+        except Exception as e:
+            stages["dashboard"] = {"success": False, "error": str(e)}
+
+    return {"success": True, "slug": slug, "stages": stages}
 
 
 @app.post("/vault/full-pipeline-upload", response_model=FullPipelineUploadResponse)
@@ -1690,7 +1837,8 @@ async def stage_parse(request: StageRequest):
         filename = f"{slug}.pdf"
 
     # Parse
-    parse_data, tables_data = await _run_parse(slug, pdf_bytes, filename)
+    with stage_log("parse", slug, file=filename):
+        parse_data, tables_data = await _run_parse(slug, pdf_bytes, filename)
 
     # Persist
     write_parse_json(VAULT_ROOT, slug, parse_data)
@@ -1700,6 +1848,7 @@ async def stage_parse(request: StageRequest):
     total_chars = parse_data.get("metadata", {}).get("characterCount", len(parse_data.get("text", "")))
     parser_used = parse_data.get("parser", "liteparse")
     tables_found = tables_data.get("total_tables", 0)
+    logger.info(f"  parse result: parser={parser_used}  pages={total_pages}  chars={total_chars:,}  tables={tables_found}")
 
     # Update _index.md with page/char counts and new stage
     try:
@@ -1853,6 +2002,14 @@ async def stage_cleanse(request: StageRequest):
     write_parse_json(VAULT_ROOT, slug, clean_parse)
 
     # Rebuild PageIndex tree from cleaned text
+    # PageIndex requires "filename" in liteparse_result
+    if "filename" not in clean_parse:
+        # Try to recover filename from index note frontmatter, then fall back to slug
+        try:
+            idx_note = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
+            clean_parse["filename"] = idx_note.metadata.get("filename", f"{slug}.pdf")
+        except Exception:
+            clean_parse["filename"] = f"{slug}.pdf"
     async with httpx.AsyncClient(timeout=120.0) as client:
         resp = await client.post(
             f"{PAGEINDEX_URL}/build-tree",
@@ -1913,10 +2070,6 @@ def read_meta_json(vault_root: str, slug: str) -> Optional[dict]:
 #              file_input for extract must be a file_id, NOT a parse_job_id
 # ──────────────────────────────────────────────────────────────
 
-# IBC document classification rules — loaded from schemas/classification_rules.json.
-# Edit that file to add/remove/modify doc types. No code change needed.
-IBC_CLASSIFICATION_RULES = _load_schema("classification_rules.json")
-
 # Schema registry — maps doc_type → extraction schema.
 # Schemas live in vault-pipeline/schemas/*.json — edit them there, no code change needed.
 
@@ -1924,6 +2077,10 @@ _SCHEMAS_DIR = Path(__file__).parent / "schemas"
 
 def _load_schema(filename: str) -> dict:
     return json.loads((_SCHEMAS_DIR / filename).read_text())
+
+# IBC document classification rules — loaded from schemas/classification_rules.json.
+# Edit that file to add/remove/modify doc types. No code change needed.
+IBC_CLASSIFICATION_RULES = _load_schema("classification_rules.json")
 
 IBC_EXTRACTION_SCHEMA = _load_schema("ibc_extraction.json")
 ADMISSION_ORDER_SCHEMA = _load_schema("admission_order.json")
@@ -2071,6 +2228,7 @@ async def stage_classify(request: StageRequest):
     except FileNotFoundError:
         pass
 
+    logger.info(f"  classify result: doc_type={cls['doc_type']}  confidence={cls['confidence']}")
     return {
         "success": True,
         "slug": slug,
@@ -2279,6 +2437,11 @@ async def stage_extract(request: StageRequest):
         "coc_approval_pct", "liquidation_value_inr",
     ) if meta.get(k) is not None}
 
+    logger.info(
+        f"  extract result: method={extract_method}  schema={schema_used}"
+        f"  doc_type={meta.get('doc_type','?')}  creditors={len(meta.get('creditors') or [])}"
+        f"  fields={list(financial_fields.keys())}"
+    )
     return {
         "success": True,
         "slug": slug,
@@ -2306,9 +2469,9 @@ _AKN_ORDER_TYPES = {
 }
 
 # Max characters of document text sent to the LLM for AKN annotation.
-# NCLT orders are typically 5k–40k chars. We cap at 40k to stay within
-# Claude Sonnet's context while covering even lengthy resolution plan orders.
-_AKN_MAX_CHARS = 40_000
+# NCLT orders are typically 5k–40k chars. We cap at 20k — motivation/decision
+# are rarely beyond the midpoint, and header/preamble are trivially identifiable.
+_AKN_MAX_CHARS = 20_000
 
 
 @app.post("/vault/stage/akn")
@@ -2355,6 +2518,19 @@ async def stage_akn(request: StageRequest):
             "reason": f"doc_type '{doc_type}' is not a court order — AKN annotation not applicable.",
         }
 
+    # Skip if already annotated (avoid re-billing on re-runs)
+    if not getattr(request, "force", False):
+        existing_akn = read_akn_json(VAULT_ROOT, slug)
+        if existing_akn and existing_akn.get("elements"):
+            return {
+                "success": True,
+                "slug": slug,
+                "skipped": True,
+                "reason": "_akn.json already exists — pass force=true to re-annotate.",
+                "frbr_uri": existing_akn.get("frbr_uri", ""),
+                "elements": [el.get("akn_element") for el in existing_akn.get("elements", [])],
+            }
+
     # Get full document text, truncate to avoid context overflow
     full_text = parse_data.get("text", "")
     if not full_text:
@@ -2384,10 +2560,10 @@ Return ONLY valid JSON as specified in the system prompt."""
     raw = await llm_call(
         user_prompt,
         system=_AKN_SYSTEM_PROMPT,
-        max_tokens=8000,
+        max_tokens=4000,
         json_mode=True,
-        provider="claude",
-        heavy=True,
+        provider="openai",
+        heavy=False,
     )
 
     # Parse LLM response
@@ -2426,6 +2602,12 @@ Return ONLY valid JSON as specified in the system prompt."""
     except FileNotFoundError:
         pass
 
+    logger.info(
+        f"  akn result: elements={elements_found}  frbr={akn_data.get('frbr_uri','?')}"
+        f"  refs_cases={len(akn_data.get('references',{}).get('case_citations',[]))}"
+        f"  refs_ibc={len(akn_data.get('references',{}).get('ibc_citations',[]))}"
+        + ("  [TRUNCATED]" if truncated else "")
+    )
     return {
         "success": True,
         "slug": slug,
@@ -2700,6 +2882,34 @@ async def stage_index(request: StageRequest):
         children=children,
     )
 
+    # Merge-back fields set by earlier stages (classify, extract) that write_source_index would erase.
+    # write_source_index creates a minimal fresh _index.md — we need to restore richer metadata.
+    if index_note:
+        _preserve_fields = (
+            "doc_type", "case_number", "court", "order_date", "judges",
+            "corporate_debtor", "resolution_applicant", "insolvency_professional",
+            "classification_confidence", "classification_reasoning",
+            "classify_parse_job_id", "llamacloud_file_id",
+            "petition_type", "cirp_commencement_date", "admission_date",
+            "ibc_sections", "parties",
+            "resolution_amount_inr", "liquidation_value_inr", "fair_value_inr",
+            "total_admitted_inr", "upfront_inr", "payment_timeline_months",
+            "haircut_pct", "coc_approval_pct", "cirp_cost_inr",
+            "fc_recovery_pct", "section_29a_compliant",
+            "extract_method", "pipeline_stage",
+        )
+        try:
+            new_idx = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
+            for k in _preserve_fields:
+                v = index_note.metadata.get(k)
+                if v is not None and v != "" and v != [] and k not in new_idx.metadata:
+                    new_idx.metadata[k] = v
+            # Always overwrite pipeline_stage with the caller's intended value
+            new_idx.metadata["pipeline_stage"] = "pageindex"
+            write_note(VAULT_ROOT, f"sources/{slug}/_index.md", new_idx.metadata, new_idx.body)
+        except FileNotFoundError:
+            pass
+
     full_text = (parse_data or {}).get("text", "")
     if full_text:
         write_full_text(VAULT_ROOT, slug, full_text, filename=filename)
@@ -2761,6 +2971,7 @@ async def stage_index(request: StageRequest):
             except Exception:
                 pass  # Best-effort — don't fail stage on table write error
 
+    logger.info(f"  index result: sections={len(section_notes)}  tables={tables_written}")
     return {
         "success": True, "slug": slug,
         "sections": len(section_notes),
@@ -2823,29 +3034,38 @@ async def stage_enrich(request: StageRequest):
 
     enriched = 0
     skipped = 0
-    for note in section_notes:
+
+    # Parallel enrichment with bounded concurrency (12 simultaneous LLM calls max)
+    sem = asyncio.Semaphore(12)
+
+    async def enrich_note(note):
         breadcrumb = build_breadcrumb(note)
         content = note.body or ""
-
         if len(content.strip()) >= 80:
-            llm_summary = await get_llm_summary(
-                str(note.metadata.get("title", note.path.stem)),
-                content,
-                breadcrumb,
-            )
-            enriched += 1
+            async with sem:
+                llm_summary = await get_llm_summary(
+                    str(note.metadata.get("title", note.path.stem)),
+                    content,
+                    breadcrumb,
+                )
+            result = "enriched"
         else:
             llm_summary = ""
-            skipped += 1
-
+            result = "skipped"
         new_meta = dict(note.metadata)
         new_meta["breadcrumb"] = breadcrumb
         new_meta["llm_summary"] = llm_summary
         new_meta["pipeline_stage"] = "enriched"
         write_note(VAULT_ROOT, f"sources/{slug}/sections/{note.path.name}", new_meta, content)
+        return result
+
+    results = await asyncio.gather(*[enrich_note(n) for n in section_notes])
+    enriched = results.count("enriched")
+    skipped = results.count("skipped")
 
     update_pipeline_stage(VAULT_ROOT, f"sources/{slug}/_index.md", "enriched")
 
+    logger.info(f"  enrich result: enriched={enriched}  skipped={skipped}")
     return {
         "success": True, "slug": slug,
         "enriched": enriched, "skipped": skipped,
@@ -3168,6 +3388,7 @@ async def stage_chunk(request: StageRequest):
 
     update_pipeline_stage(VAULT_ROOT, f"sources/{slug}/_index.md", "semchunk")
 
+    logger.info(f"  chunk result: text_chunks={chunk_offset}  table_chunks={table_chunks_written}  total={total_chunk_count}  tokens={total_tokens:,}")
     return ChunkFromVaultResponse(
         success=True, slug=slug,
         total_chunks=total_chunk_count, total_tokens=total_tokens,
@@ -3338,6 +3559,7 @@ async def stage_embed(request: StageRequest):
 
     update_pipeline_stage(VAULT_ROOT, f"sources/{slug}/_index.md", "ingested")
 
+    logger.info(f"  embed result: seed={seed_ingested}  ingested={ingested}  skipped={skipped}  failed={failed}")
     return {
         "success": True, "slug": slug,
         "seed_ingested": seed_ingested,
@@ -3648,7 +3870,7 @@ DECISION:
 Return JSON: {{"consistent": true/false, "issues": ["list of issues found"], "summary": "one sentence"}}"""
 
         try:
-            raw = await llm_call(llm_prompt, provider="claude", heavy=True, max_tokens=800, json_mode=True)
+            raw = await llm_call(llm_prompt, provider="openai", heavy=False, max_tokens=500, json_mode=True)
             cleaned = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
             llm_check_result = json.loads(cleaned)
             _check(
@@ -3766,6 +3988,1424 @@ async def compliance_check(request: dict):
         resp = await client.post(f"{LIGHTRAG_URL}/compliance/check", json=request)
         resp.raise_for_status()
         return resp.json()
+
+
+# ──────────────────────────────────────────────────────────────
+# stage_extract_multipass — Sprint 2: 4 parallel Claude Haiku passes
+# Produces: _entities.json, _timeline.json, _obligations.json, _citations.json
+# ──────────────────────────────────────────────────────────────
+
+_MULTIPASS_MAX_CHARS = 20_000  # same budget as stage_akn
+
+
+@app.post("/vault/stage/extract_multipass")
+async def stage_extract_multipass(request: StageRequest):
+    """Run 4 parallel Claude Haiku extraction passes over the full document text.
+
+    Pass B: Named entities (parties, judges, advocates, key companies)
+    Pass D: Timeline events (all dated events chronologically)
+    Pass E: Obligations (all SHALL/MUST/DIRECTED TO items)
+    Pass F: Legal citations (IBC sections, case citations, IBBI regulations)
+
+    Outputs (written to sources/{slug}/):
+      _entities.json, _timeline.json, _obligations.json, _citations.json
+
+    Skip-if-done: skips individual passes whose output file already exists
+    unless force=true.
+    """
+    slug = request.slug
+    force = getattr(request, "force", False)
+
+    parse_data = read_parse_json(VAULT_ROOT, slug)
+    if parse_data is None:
+        raise HTTPException(status_code=404, detail=f"No parse data for: {slug}. Run Parse first.")
+
+    full_text = parse_data.get("text", "")
+    if not full_text:
+        full_text = "\n\n".join(p.get("text", "") for p in parse_data.get("pages", []) if p.get("text"))
+    text = full_text[:_MULTIPASS_MAX_CHARS]
+
+    passes = {
+        "_entities.json": {
+            "system": "You are a legal entity extraction expert for Indian insolvency (IBC) proceedings.",
+            "prompt": (
+                f"Extract all named entities from this IBC document.\n"
+                f"Return ONLY valid JSON:\n"
+                f'{{"parties": [{{"name": str, "role": str, "type": "company|person|court|regulator"}}], '
+                f'"judges": [{{"name": str, "designation": str}}], '
+                f'"advocates": [{{"name": str, "representing": str}}], '
+                f'"resolution_professional": {{"name": str, "registration": str}}, '
+                f'"key_companies": [{{"name": str, "cin": str, "role": str}}]}}\n\n'
+                f"Document:\n{text}"
+            ),
+            "max_tokens": 2000,
+        },
+        "_timeline.json": {
+            "system": "You are a legal timeline extraction expert for Indian insolvency (IBC) proceedings.",
+            "prompt": (
+                f"Extract all dated events from this IBC document in chronological order.\n"
+                f"Return ONLY valid JSON:\n"
+                f'{{"events": [{{"date": "YYYY-MM-DD", "event": str, "significance": "high|medium|low"}}]}}\n'
+                f"Use null for dates that cannot be parsed. Include: CIRP commencement, CoC meetings, "
+                f"resolution plan submission, CoC approval, order date, payment milestones.\n\n"
+                f"Document:\n{text}"
+            ),
+            "max_tokens": 2000,
+        },
+        "_obligations.json": {
+            "system": "You are a legal obligations extraction expert for Indian insolvency (IBC) proceedings.",
+            "prompt": (
+                f"Extract all obligations from this IBC document — every SHALL, MUST, IS DIRECTED TO, "
+                f"IS REQUIRED TO, IS HEREBY ORDERED TO clause.\n"
+                f"Return ONLY valid JSON:\n"
+                f'{{"obligations": [{{"party": str, "obligation": str, "deadline": str_or_null, '
+                f'"ibc_basis": str_or_null, "severity": "mandatory|directory"}}]}}\n\n'
+                f"Document:\n{text}"
+            ),
+            "max_tokens": 2000,
+        },
+        "_citations.json": {
+            "system": "You are a legal citation extraction expert for Indian insolvency law.",
+            "prompt": (
+                f"Extract all legal citations from this IBC document.\n"
+                f"Return ONLY valid JSON:\n"
+                f'{{"ibc_sections": [{{"section": str, "context": str}}], '
+                f'"case_citations": [{{"case_name": str, "citation": str, "principle": str}}], '
+                f'"regulations": [{{"reg": str, "context": str}}]}}\n\n'
+                f"Document:\n{text}"
+            ),
+            "max_tokens": 2000,
+        },
+    }
+
+    results: dict = {}
+    errors: dict = {}
+
+    async def run_pass(filename: str, cfg: dict) -> None:
+        if not force and read_sidecar_json(VAULT_ROOT, slug, filename) is not None:
+            results[filename] = "skipped"
+            return
+        try:
+            raw = await llm_call(
+                cfg["prompt"],
+                system=cfg["system"],
+                max_tokens=cfg["max_tokens"],
+                json_mode=True,
+                provider="openai",
+                heavy=False,
+            )
+            cleaned = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+            data = json.loads(cleaned)
+            data["slug"] = slug
+            data["source"] = "extract_multipass"
+            write_sidecar_json(VAULT_ROOT, slug, filename, data)
+            results[filename] = "ok"
+        except Exception as e:
+            errors[filename] = str(e)
+            results[filename] = "error"
+
+    await asyncio.gather(*[run_pass(fn, cfg) for fn, cfg in passes.items()])
+
+    update_pipeline_stage(VAULT_ROOT, f"sources/{slug}/_index.md", "multipass_extracted")
+
+    return {
+        "success": len(errors) == 0,
+        "slug": slug,
+        "results": results,
+        "errors": errors,
+        "message": f"Multipass extract done — {sum(1 for v in results.values() if v == 'ok')} passes ran, "
+                   f"{sum(1 for v in results.values() if v == 'skipped')} skipped, "
+                   f"{len(errors)} errors.",
+    }
+
+
+# ──────────────────────────────────────────────────────────────
+# stage_structure — Sprint 2: per-section financial YAML + aggregate
+# Produces: typed section_type frontmatter + aggregated _index.md fields
+# ──────────────────────────────────────────────────────────────
+
+# Rule-based section type classification by title keywords (checked in order)
+_SECTION_TYPE_RULES: list[tuple[list[str], str]] = [
+    (["committee of creditor", "coc composition", "constitution of coc"], "creditor-claims"),
+    (["financial proposal", "resolution amount", "payment plan", "payment schedule",
+      "proposed payment", "financial terms", "upfront payment"], "payment-plan"),
+    (["resolution applicant", "resolution plan applicant", "successful resolution"], "ra-profile"),
+    (["background", "facts of the case", "cirp commencement", "brief facts",
+      "brief background", "chronology"], "cirp-background"),
+    (["direction", "accordingly", "in view of the above", "operative order",
+      "in the result", "order accordingly"], "operative-order"),
+    (["coc approval", "voting result", "voting percentage", "approval of coc",
+      "approval percentage", "coc vote"], "coc-vote"),
+    (["valuation", "fair value", "liquidation value", "registered valuer"], "valuation"),
+    (["section 29a", "eligibility", "29a compliance"], "eligibility"),
+    (["cirp cost", "insolvency resolution cost", "cost of cirp"], "cirp-costs"),
+    (["monitoring committee", "implementation", "implementation schedule"], "implementation"),
+]
+
+
+def _classify_section_type(title: str, content: str) -> str:
+    """Classify a section by type using title + content keyword rules."""
+    combined = (title + " " + content[:500]).lower()
+    for keywords, stype in _SECTION_TYPE_RULES:
+        if any(kw in combined for kw in keywords):
+            return stype
+    return "other"
+
+
+def _extract_financial_fields(section_type: str, content: str, meta: dict) -> dict:
+    """Extract simple financial fields deterministically from known section content."""
+    fields: dict = {}
+    if section_type == "coc-vote":
+        # Look for percentage patterns like "91.3%" or "91.30 %"
+        pct_matches = re.findall(r'(\d+\.?\d*)\s*%', content)
+        if pct_matches:
+            candidates = [float(p) for p in pct_matches if 50 <= float(p) <= 100]
+            if candidates:
+                fields["coc_approval_pct"] = max(candidates)
+        date_match = re.search(r'(\d{1,2})[\/\-\.](\d{1,2})[\/\-\.](\d{2,4})', content)
+        if date_match:
+            fields["approval_date_raw"] = date_match.group(0)
+    elif section_type == "valuation":
+        # Look for INR amounts (crore/lakh patterns)
+        crore_matches = re.findall(r'(?:Rs\.?|INR|₹)\s*(\d+(?:,\d+)*(?:\.\d+)?)\s*(?:crore|cr\.?)', content, re.IGNORECASE)
+        if crore_matches:
+            amounts = [float(v.replace(",", "")) * 10_000_000 for v in crore_matches]
+            if len(amounts) >= 2:
+                fields["fair_value_inr"] = int(max(amounts))
+                fields["liquidation_value_inr"] = int(min(amounts))
+    elif section_type == "cirp-costs":
+        crore_matches = re.findall(r'(?:Rs\.?|INR|₹)\s*(\d+(?:,\d+)*(?:\.\d+)?)\s*(?:crore|cr\.?)', content, re.IGNORECASE)
+        if crore_matches:
+            fields["cirp_cost_inr"] = int(float(crore_matches[0].replace(",", "")) * 10_000_000)
+    return fields
+
+
+@app.post("/vault/stage/structure")
+async def stage_structure(request: StageRequest):
+    """Classify each section by type and extract typed financial YAML into frontmatter.
+
+    For each section note in sources/{slug}/sections/:
+      1. Classify section_type using title + content keyword rules
+      2. Extract financial fields deterministically (regex for amounts/percentages)
+      3. For ambiguous sections, call Claude Haiku for LLM classification
+      4. Stamp section_type + financial fields into section note frontmatter
+
+    Then aggregate typed financial data into _index.md frontmatter:
+      total_admitted_inr, liquidation_value_inr, resolution_amount_inr,
+      haircut_pct, fc_recovery_pct, coc_approval_pct, cirp_cost_inr
+
+    Cross-field validation:
+      - resolution_amount_inr > liquidation_value_inr
+      - coc_approval_pct >= 66.0 (Section 30(4))
+    """
+    slug = request.slug
+
+    try:
+        idx = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail=f"Source not found: {slug}")
+
+    section_notes = read_all_sections(VAULT_ROOT, slug)
+    if not section_notes:
+        return {"success": False, "slug": slug, "reason": "No section notes found — run Index first."}
+
+    # Read existing meta for context
+    meta: dict = {}
+    meta_path = Path(VAULT_ROOT) / "sources" / slug / "_meta.json"
+    if meta_path.exists():
+        with open(meta_path) as f:
+            meta = json.load(f)
+
+    typed_sections: list[dict] = []
+    aggregated: dict = {}
+
+    for note in section_notes:
+        title = str(note.metadata.get("title", note.path.stem))
+        content = note.body or ""
+
+        # Rule-based classification
+        section_type = _classify_section_type(title, content)
+
+        # LLM fallback only for genuinely ambiguous sections (type=other) with enough content
+        if section_type == "other" and len(content.strip()) > 300:
+            try:
+                type_prompt = (
+                    f"Classify this section from an NCLT IBC court order into ONE of these types:\n"
+                    f"creditor-claims | payment-plan | ra-profile | cirp-background | "
+                    f"operative-order | coc-vote | valuation | eligibility | cirp-costs | "
+                    f"implementation | other\n\n"
+                    f"Section title: {title}\n"
+                    f"Section content (first 400 chars): {content[:400]}\n\n"
+                    f"Return ONLY the type label, nothing else."
+                )
+                llm_type = await llm_call(type_prompt, max_tokens=20, provider="openai", heavy=False)
+                llm_type = llm_type.strip().lower().split()[0]
+                valid_types = {
+                    "creditor-claims", "payment-plan", "ra-profile", "cirp-background",
+                    "operative-order", "coc-vote", "valuation", "eligibility",
+                    "cirp-costs", "implementation", "other"
+                }
+                if llm_type in valid_types:
+                    section_type = llm_type
+            except Exception:
+                pass
+
+        # Deterministic financial field extraction
+        financial_fields = _extract_financial_fields(section_type, content, meta)
+
+        # Stamp section_type + financial fields into section note frontmatter
+        new_meta = dict(note.metadata)
+        new_meta["section_type"] = section_type
+        new_meta.update(financial_fields)
+        new_meta["pipeline_stage"] = "structured"
+        write_note(VAULT_ROOT, f"sources/{slug}/sections/{note.path.name}", new_meta, content)
+
+        typed_sections.append({"section": note.path.name, "type": section_type, "fields": financial_fields})
+
+        # Aggregate financial fields to document level
+        for k, v in financial_fields.items():
+            if k not in aggregated:
+                aggregated[k] = v
+
+    # Promote key meta fields from _meta.json to aggregated if not already found
+    for field in ("resolution_amount_inr", "liquidation_value_inr", "total_admitted_claims_inr",
+                  "haircut_pct", "fc_recovery_pct"):
+        if field not in aggregated and field in meta:
+            val = meta[field]
+            if val is not None:
+                aggregated[field] = val
+
+    # Cross-field validation
+    validation_warnings: list[str] = []
+    res_amt = aggregated.get("resolution_amount_inr")
+    liq_val = aggregated.get("liquidation_value_inr")
+    coc_pct = aggregated.get("coc_approval_pct")
+    cirp_cost = aggregated.get("cirp_cost_inr")
+
+    if res_amt and liq_val:
+        if res_amt <= liq_val:
+            validation_warnings.append(
+                f"resolution_amount_inr ({res_amt:,}) ≤ liquidation_value_inr ({liq_val:,}) — violates IBC Section 30(2)(b)"
+            )
+    if coc_pct and coc_pct < 66.0:
+        validation_warnings.append(f"coc_approval_pct ({coc_pct}%) < 66% — does not meet Section 30(4) threshold")
+    if res_amt and cirp_cost:
+        cirp_pct = (cirp_cost / res_amt) * 100
+        if cirp_pct > 5:
+            validation_warnings.append(f"CIRP cost is {cirp_pct:.1f}% of resolution amount — unusually high (>5%)")
+
+    # Write aggregated fields + validation warnings to _index.md
+    idx_meta = dict(idx.metadata)
+    idx_meta.update(aggregated)
+    if validation_warnings:
+        idx_meta["data_quality_warnings"] = validation_warnings
+    idx_meta["pipeline_stage"] = "structured"
+    write_note(VAULT_ROOT, f"sources/{slug}/_index.md", idx_meta, idx.body)
+
+    return {
+        "success": True,
+        "slug": slug,
+        "sections_typed": len(typed_sections),
+        "aggregated_fields": list(aggregated.keys()),
+        "validation_warnings": validation_warnings,
+        "section_breakdown": {
+            stype: sum(1 for s in typed_sections if s["type"] == stype)
+            for stype in set(s["type"] for s in typed_sections)
+        },
+    }
+
+
+# ──────────────────────────────────────────────────────────────
+# stage_canvas — Sprint 2: Obsidian Canvas JSON from PageIndex tree
+# Produces: sources/{slug}/_canvas.json
+# ──────────────────────────────────────────────────────────────
+
+_CANVAS_NODE_W = 260
+_CANVAS_NODE_H = 60
+_CANVAS_H_GAP = 40   # horizontal gap between siblings
+_CANVAS_V_GAP = 120  # vertical gap between levels
+
+
+def _build_canvas_layout(nodes: list[dict], edges: list[dict], tree: dict, slug: str, x: int = 0, y: int = 0) -> int:
+    """Recursively lay out canvas nodes. Returns the total width consumed by this subtree."""
+    node_id = str(tree.get("id", "root"))
+    section_file = tree.get("file", "")
+    title = tree.get("title", node_id)
+    children = tree.get("children", [])
+
+    if not children:
+        # Leaf node
+        nodes.append({
+            "id": node_id,
+            "type": "file",
+            "file": section_file,
+            "x": x,
+            "y": y,
+            "width": _CANVAS_NODE_W,
+            "height": _CANVAS_NODE_H,
+            "label": title[:40],
+        })
+        return _CANVAS_NODE_W
+
+    # Lay out children first to know total width
+    child_x = x
+    child_widths: list[int] = []
+    child_node_ids: list[str] = []
+
+    for child in children:
+        child_id = str(child.get("id", ""))
+        child_node_ids.append(child_id)
+        w = _build_canvas_layout(nodes, edges, child, slug, x=child_x, y=y + _CANVAS_V_GAP)
+        child_widths.append(w)
+        child_x += w + _CANVAS_H_GAP
+
+    total_width = sum(child_widths) + _CANVAS_H_GAP * (len(children) - 1)
+    center_x = x + total_width // 2 - _CANVAS_NODE_W // 2
+
+    nodes.append({
+        "id": node_id,
+        "type": "file",
+        "file": section_file,
+        "x": center_x,
+        "y": y,
+        "width": _CANVAS_NODE_W,
+        "height": _CANVAS_NODE_H,
+        "label": title[:40],
+    })
+
+    for child_id in child_node_ids:
+        edges.append({
+            "id": f"edge-{node_id}-{child_id}",
+            "fromNode": node_id,
+            "toNode": child_id,
+            "fromSide": "bottom",
+            "toSide": "top",
+        })
+
+    return max(total_width, _CANVAS_NODE_W)
+
+
+@app.post("/vault/stage/canvas")
+async def stage_canvas(request: StageRequest):
+    """Generate an Obsidian Canvas JSON file from the PageIndex tree.
+
+    Reads sources/{slug}/_tree.json and produces sources/{slug}/_canvas.json
+    in Obsidian Canvas format. Each tree node becomes a canvas card linked to
+    its section note file. Parent→child relationships become edges.
+
+    No LLM call — purely deterministic from _tree.json.
+    """
+    slug = request.slug
+
+    tree = read_tree_json(VAULT_ROOT, slug)
+    if tree is None:
+        raise HTTPException(status_code=404, detail=f"No tree data for: {slug}. Run Index first.")
+
+    # Enrich tree nodes with file paths by matching section notes
+    section_notes = read_all_sections(VAULT_ROOT, slug)
+    section_map: dict[str, str] = {}
+    for note in section_notes:
+        # Match by section id embedded in filename (sec-{id}-...)
+        m = re.match(r"sec-(\d+)-", note.path.name)
+        if m:
+            section_map[m.group(1)] = f"sources/{slug}/sections/{note.path.name}"
+
+    def enrich_tree(node: dict) -> dict:
+        node_id = str(node.get("id", ""))
+        node["file"] = section_map.get(node_id, f"sources/{slug}/_index.md")
+        node["children"] = [enrich_tree(c) for c in node.get("children", [])]
+        return node
+
+    # _tree.json may be a list (multiple roots) or a dict
+    if isinstance(tree, list):
+        roots = [enrich_tree(n) for n in tree]
+    else:
+        roots = [enrich_tree(tree)]
+
+    canvas_nodes: list[dict] = []
+    canvas_edges: list[dict] = []
+    x_offset = 0
+
+    for root in roots:
+        w = _build_canvas_layout(canvas_nodes, canvas_edges, root, slug, x=x_offset, y=0)
+        x_offset += w + _CANVAS_H_GAP * 3
+
+    canvas = {"nodes": canvas_nodes, "edges": canvas_edges}
+
+    canvas_path = Path(VAULT_ROOT) / "sources" / slug / "_canvas.json"
+    canvas_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(canvas_path, "w", encoding="utf-8") as f:
+        json.dump(canvas, f, ensure_ascii=False, indent=2)
+
+    return {
+        "success": True,
+        "slug": slug,
+        "nodes": len(canvas_nodes),
+        "edges": len(canvas_edges),
+        "canvas_path": str(canvas_path),
+    }
+
+
+# ──────────────────────────────────────────────────────────────
+# stage_dashboard — Sprint 2: _financials.md with Dataview blocks
+# Produces: sources/{slug}/_financials.md
+# ──────────────────────────────────────────────────────────────
+
+def _fmt_inr(val: Any) -> str:
+    """Format an INR integer value as readable crore/lakh string."""
+    if val is None:
+        return "—"
+    try:
+        v = int(val)
+        if v >= 10_000_000:
+            return f"₹{v / 10_000_000:.2f} Cr"
+        if v >= 100_000:
+            return f"₹{v / 100_000:.2f} L"
+        return f"₹{v:,}"
+    except (TypeError, ValueError):
+        return str(val)
+
+
+@app.post("/vault/stage/dashboard")
+async def stage_dashboard(request: StageRequest):
+    """Generate _financials.md — a pre-built Dataview dashboard note.
+
+    Reads _index.md frontmatter and _meta.json, then produces a markdown note
+    with pre-built Dataview query blocks that render live inside Obsidian:
+      - Document summary (case info, key figures)
+      - Creditor recovery table
+      - Cross-matter comparison query (all resolution_plan_orders in vault)
+
+    No LLM call — template-driven from extracted frontmatter.
+    """
+    slug = request.slug
+
+    try:
+        idx = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail=f"Source not found: {slug}")
+
+    m = idx.metadata
+    meta: dict = {}
+    meta_path = Path(VAULT_ROOT) / "sources" / slug / "_meta.json"
+    if meta_path.exists():
+        with open(meta_path) as f:
+            meta = json.load(f)
+
+    # Helper to get field from index or meta
+    def field(key: str, default: Any = None) -> Any:
+        return m.get(key) or meta.get(key) or default
+
+    doc_type = field("doc_type", "other")
+    case_number = field("case_number", "")
+    court = field("court", "")
+    order_date = field("order_date", "")
+    corporate_debtor = field("corporate_debtor", slug)
+    resolution_applicant = field("resolution_applicant", "")
+    res_amt = field("resolution_amount_inr")
+    liq_val = field("liquidation_value_inr")
+    total_admitted = field("total_admitted_claims_inr") or field("total_admitted_inr")
+    haircut = field("haircut_pct")
+    coc_pct = field("coc_approval_pct")
+    cirp_cost = field("cirp_cost_inr")
+    creditors: list = meta.get("creditors", [])
+
+    # Build creditor recovery table
+    creditor_rows = ""
+    for c in creditors:
+        name = c.get("name", "")
+        admitted = c.get("amount_inr") or c.get("admitted_claim_inr", "")
+        recovery = c.get("recovery_amount_inr", "")
+        pct = c.get("recovery_pct") or c.get("voting_share_pct", "")
+        ctype = c.get("type", "")
+        creditor_rows += f"| {name} | {ctype} | {_fmt_inr(admitted)} | {_fmt_inr(recovery)} | {pct or '—'}% |\n"
+
+    if not creditor_rows:
+        creditor_rows = "| — | — | — | — | — |\n"
+
+    warnings = m.get("data_quality_warnings", [])
+    warning_block = ""
+    if warnings:
+        warning_block = "\n> [!warning] Data Quality Warnings\n"
+        for w in warnings:
+            warning_block += f"> - {w}\n"
+
+    dashboard_md = f"""---
+type: financial-dashboard
+source: "[[sources/{slug}/_index]]"
+slug: {slug}
+generated_at: {__import__('datetime').datetime.utcnow().strftime('%Y-%m-%d')}
+---
+
+# Financial Dashboard — {corporate_debtor}
+
+{warning_block}
+## Case Summary
+
+| Field | Value |
+|---|---|
+| **Case** | {case_number} |
+| **Court** | {court} |
+| **Order Date** | {order_date} |
+| **Corporate Debtor** | {corporate_debtor} |
+| **Resolution Applicant** | {resolution_applicant or '—'} |
+| **Doc Type** | {doc_type} |
+
+## Key Financial Figures
+
+| Metric | Value |
+|---|---|
+| Total Admitted Claims | {_fmt_inr(total_admitted)} |
+| Resolution Amount | {_fmt_inr(res_amt)} |
+| Liquidation Value | {_fmt_inr(liq_val)} |
+| Haircut | {f"{haircut:.1f}%" if haircut else "—"} |
+| CoC Approval | {f"{coc_pct:.1f}%" if coc_pct else "—"} |
+| CIRP Costs | {_fmt_inr(cirp_cost)} |
+
+## Creditor Recovery
+
+| Creditor | Type | Admitted Claim | Recovery | Recovery % |
+|---|---|---|---|---|
+{creditor_rows}
+
+## Cross-Matter Comparison (live Dataview)
+
+```dataview
+TABLE corporate_debtor, resolution_amount_inr, haircut_pct, coc_approval_pct, order_date
+FROM "sources"
+WHERE type = "source-document" AND doc_type = "resolution_plan_order"
+SORT order_date DESC
+```
+
+## All Sources in This Vault
+
+```dataview
+TABLE doc_type, corporate_debtor, order_date, pipeline_stage
+FROM "sources"
+WHERE type = "source-document"
+SORT order_date DESC
+```
+"""
+
+    write_note(
+        VAULT_ROOT,
+        f"sources/{slug}/_financials.md",
+        {
+            "type": "financial-dashboard",
+            "source": f"[[sources/{slug}/_index]]",
+            "slug": slug,
+        },
+        dashboard_md.split("---", 2)[-1].strip(),
+    )
+
+    return {
+        "success": True,
+        "slug": slug,
+        "doc_type": doc_type,
+        "corporate_debtor": corporate_debtor,
+        "fields_rendered": [
+            k for k in ["resolution_amount_inr", "liquidation_value_inr", "haircut_pct",
+                         "coc_approval_pct", "cirp_cost_inr", "total_admitted_claims_inr"]
+            if field(k) is not None
+        ],
+        "creditors": len(creditors),
+        "warnings": len(warnings),
+    }
+
+
+# ══════════════════════════════════════════════════════════════
+# Sprint 3 — Global Index: cross-doc search, matters, entities,
+#             precedent graph
+# ══════════════════════════════════════════════════════════════
+
+# ──────────────────────────────────────────────────────────────
+# Helpers
+# ──────────────────────────────────────────────────────────────
+
+def _global_dir() -> Path:
+    return Path(VAULT_ROOT) / "_global"
+
+
+def _matters_dir() -> Path:
+    return Path(VAULT_ROOT) / "matters"
+
+
+def _load_global_bm25() -> dict:
+    p = _global_dir() / "bm25.json"
+    if not p.exists():
+        return {}
+    with open(p) as f:
+        return json.load(f)
+
+
+def _load_global_embeddings() -> list:
+    p = _global_dir() / "embeddings.json"
+    if not p.exists():
+        return []
+    with open(p) as f:
+        return json.load(f)
+
+
+def _tokenize(text: str) -> list[str]:
+    stop = {
+        "the","a","an","and","or","of","in","to","for","with","on","at","by",
+        "is","are","was","were","be","been","that","this","it","as","from","has",
+        "its","not","but","they","their","which","who","also","been","have",
+    }
+    tokens = re.findall(r'\b[a-zA-Z]{3,}\b', text.lower())
+    return [t for t in tokens if t not in stop]
+
+
+def _bm25_score(query_tokens: list[str], note: dict, idf: dict, avgdl: float, k1: float = 1.5, b: float = 0.75) -> float:
+    tf_map = note.get("tf", {})
+    dl = note.get("dl", 1)
+    score = 0.0
+    for token in query_tokens:
+        if token not in idf or token not in tf_map:
+            continue
+        tf = tf_map[token]
+        idf_val = idf[token]
+        score += idf_val * (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * dl / max(avgdl, 1)))
+    return score
+
+
+def _cosine(a: list[float], b: list[float]) -> float:
+    try:
+        import numpy as np
+        av, bv = np.array(a, dtype=float), np.array(b, dtype=float)
+        na, nb = np.linalg.norm(av), np.linalg.norm(bv)
+        if na == 0 or nb == 0:
+            return 0.0
+        return float(np.dot(av, bv) / (na * nb))
+    except Exception:
+        return 0.0
+
+
+def _rrf(ranks: list[dict[str, int]], k: int = 60) -> dict[str, float]:
+    """Reciprocal Rank Fusion across multiple ranked lists."""
+    scores: dict[str, float] = {}
+    for rank_list in ranks:
+        for doc_id, rank in rank_list.items():
+            scores[doc_id] = scores.get(doc_id, 0.0) + 1.0 / (k + rank + 1)
+    return scores
+
+
+# ──────────────────────────────────────────────────────────────
+# POST /vault/global/index  — build global BM25 + embedding index
+# ──────────────────────────────────────────────────────────────
+
+class GlobalIndexRequest(BaseModel):
+    force: bool = False   # rebuild even if already exists
+
+
+@app.post("/vault/global/index")
+async def global_index_build(request: GlobalIndexRequest):
+    """Build the global cross-document search index.
+
+    Reads all per-doc _karpathy/{slug}/note-*.md and embeddings.json files,
+    then writes to _global/:
+      bm25.json       — corpus-level BM25 index with true IDF across all docs
+      embeddings.json — flat list of all embeddings with provenance
+      manifest.json   — which slugs are indexed + build timestamp
+
+    Safe to re-run (incremental: only adds slugs not in manifest unless force=True).
+    """
+    _global_dir().mkdir(parents=True, exist_ok=True)
+
+    # Load existing manifest
+    manifest_path = _global_dir() / "manifest.json"
+    manifest: dict = {}
+    if manifest_path.exists() and not request.force:
+        with open(manifest_path) as f:
+            manifest = json.load(f)
+    indexed_slugs: set = set(manifest.get("slugs", []))
+
+    # Discover all slugs with karpathy indexes
+    karp_root = Path(VAULT_ROOT) / "_karpathy"
+    all_slugs = [d.name for d in karp_root.iterdir() if d.is_dir()] if karp_root.exists() else []
+    new_slugs = [s for s in all_slugs if s not in indexed_slugs] if not request.force else all_slugs
+
+    if not new_slugs and not request.force:
+        return {
+            "success": True,
+            "message": "Global index already up to date.",
+            "indexed_slugs": list(indexed_slugs),
+            "new_slugs": [],
+        }
+
+    # ── Load existing global state (for incremental updates) ──
+    existing_emb: list = [] if request.force else _load_global_embeddings()
+    existing_bm25: dict = {} if request.force else _load_global_bm25()
+
+    # Remove entries for slugs being reprocessed
+    reprocess = set(new_slugs)
+    existing_emb = [e for e in existing_emb if e.get("slug") not in reprocess]
+    existing_notes = {
+        nid: n for nid, n in existing_bm25.get("notes", {}).items()
+        if n.get("slug") not in reprocess
+    }
+
+    new_embeddings: list = []
+    new_notes: dict = {}   # note_global_id → {slug, dl, tf, meta}
+
+    for slug in new_slugs:
+        karp_dir = karp_root / slug
+
+        # Load per-doc embeddings
+        emb_path = karp_dir / "embeddings.json"
+        if emb_path.exists():
+            with open(emb_path) as f:
+                doc_embs = json.load(f)
+            for e in doc_embs:
+                new_embeddings.append({
+                    "id": f"{slug}/{e['id']}",
+                    "slug": slug,
+                    "note_id": e["id"],
+                    "embedding": e.get("embedding", []),
+                    "meta": {
+                        "page_start": e.get("page_start", 0),
+                        "page_end": e.get("page_end", 0),
+                        "breadcrumb": e.get("breadcrumb", ""),
+                    },
+                })
+
+        # Build per-note TF from note markdown files
+        for note_path in sorted(karp_dir.glob("note-*.md")):
+            try:
+                import frontmatter as _fm
+                post = _fm.load(note_path)
+                body = post.content or ""
+                tokens = _tokenize(body)
+                tf: dict[str, int] = {}
+                for tok in tokens:
+                    tf[tok] = tf.get(tok, 0) + 1
+                global_id = f"{slug}/{note_path.stem}"
+                new_notes[global_id] = {
+                    "slug": slug,
+                    "note_id": note_path.stem,
+                    "dl": len(tokens),
+                    "tf": tf,
+                    "meta": {
+                        "page_start": post.metadata.get("page_start", 0),
+                        "page_end": post.metadata.get("page_end", 0),
+                        "breadcrumb": post.metadata.get("breadcrumb", ""),
+                        "akn_element": post.metadata.get("akn_element", ""),
+                    },
+                }
+            except Exception:
+                continue
+
+    # ── Merge and compute corpus-level IDF ────────────────────
+    all_notes = {**existing_notes, **new_notes}
+    all_embeddings = existing_emb + new_embeddings
+
+    N = len(all_notes)
+    avgdl = sum(n["dl"] for n in all_notes.values()) / max(N, 1)
+
+    # Document frequency per term
+    df: dict[str, int] = {}
+    for note in all_notes.values():
+        for term in note["tf"]:
+            df[term] = df.get(term, 0) + 1
+
+    # IDF: BM25+ formula
+    idf: dict[str, float] = {}
+    for term, freq in df.items():
+        idf[term] = math.log((N - freq + 0.5) / (freq + 0.5) + 1)
+
+    bm25_index = {
+        "schema_version": "1.0",
+        "total_notes": N,
+        "avgdl": avgdl,
+        "idf": idf,
+        "notes": all_notes,
+    }
+
+    # ── Write global files ────────────────────────────────────
+    with open(_global_dir() / "bm25.json", "w") as f:
+        json.dump(bm25_index, f, ensure_ascii=False)
+
+    with open(_global_dir() / "embeddings.json", "w") as f:
+        json.dump(all_embeddings, f, ensure_ascii=False)
+
+    all_indexed = list(indexed_slugs | set(new_slugs)) if not request.force else all_slugs
+    manifest = {
+        "built_at": __import__("datetime").datetime.utcnow().isoformat(),
+        "slugs": all_indexed,
+        "total_notes": N,
+        "total_embeddings": len(all_embeddings),
+        "vocab_size": len(idf),
+    }
+    with open(manifest_path, "w") as f:
+        json.dump(manifest, f, ensure_ascii=False, indent=2)
+
+    return {
+        "success": True,
+        "new_slugs": new_slugs,
+        "total_slugs": len(all_indexed),
+        "total_notes": N,
+        "total_embeddings": len(all_embeddings),
+        "vocab_size": len(idf),
+        "avgdl": round(avgdl, 1),
+    }
+
+
+# ──────────────────────────────────────────────────────────────
+# POST /vault/global/search  — unified BM25 + semantic + RRF
+# ──────────────────────────────────────────────────────────────
+
+class GlobalSearchRequest(BaseModel):
+    query: str
+    top_k: int = 10
+    mode: str = "hybrid"          # bm25 | semantic | hybrid
+    filter_slug: Optional[str] = None
+    filter_doc_type: Optional[str] = None
+    filter_akn_element: Optional[str] = None
+
+
+@app.post("/vault/global/search")
+async def global_search(request: GlobalSearchRequest):
+    """Unified cross-document search using BM25 + cosine similarity + RRF.
+
+    Modes:
+      bm25     — keyword search with corpus-level IDF
+      semantic — cosine similarity over SBERT embeddings
+      hybrid   — RRF fusion of BM25 + semantic ranks (default)
+
+    Filters:
+      filter_slug        — restrict to a single document
+      filter_doc_type    — e.g. 'resolution_plan_order'
+      filter_akn_element — e.g. 'motivation'
+
+    Returns top_k results with slug, note_id, score, snippet, metadata.
+    """
+    bm25_data = _load_global_bm25()
+    emb_data = _load_global_embeddings()
+
+    if not bm25_data and not emb_data:
+        raise HTTPException(status_code=404, detail="Global index not built. Run POST /vault/global/index first.")
+
+    query_tokens = _tokenize(request.query)
+    idf = bm25_data.get("idf", {})
+    avgdl = bm25_data.get("avgdl", 100)
+    notes = bm25_data.get("notes", {})
+
+    # Apply filters
+    def passes_filter(slug: str, meta: dict) -> bool:
+        if request.filter_slug and slug != request.filter_slug:
+            return False
+        if request.filter_doc_type:
+            pass   # doc_type not stored per-note; skip for now
+        if request.filter_akn_element and meta.get("akn_element") != request.filter_akn_element:
+            return False
+        return True
+
+    results: list[dict] = []
+
+    # ── BM25 ranking ──────────────────────────────────────────
+    bm25_scores: dict[str, float] = {}
+    if request.mode in ("bm25", "hybrid") and query_tokens:
+        for note_id, note in notes.items():
+            slug = note.get("slug", "")
+            if not passes_filter(slug, note.get("meta", {})):
+                continue
+            score = _bm25_score(query_tokens, note, idf, avgdl)
+            if score > 0:
+                bm25_scores[note_id] = score
+
+    # ── Semantic ranking ──────────────────────────────────────
+    sem_scores: dict[str, float] = {}
+    query_embedding: list[float] = []
+    if request.mode in ("semantic", "hybrid") and emb_data:
+        # Get query embedding from SBERT
+        try:
+            async with httpx.AsyncClient(timeout=15.0) as client:
+                resp = await client.post(
+                    f"{SBERT_URL}/v1/embeddings",
+                    json={"input": request.query, "model": "inlegal-sbert"},
+                )
+                resp.raise_for_status()
+                query_embedding = resp.json()["data"][0]["embedding"]
+        except Exception:
+            query_embedding = []
+
+        if query_embedding:
+            for entry in emb_data:
+                slug = entry.get("slug", "")
+                if not passes_filter(slug, entry.get("meta", {})):
+                    continue
+                emb = entry.get("embedding", [])
+                if not emb:
+                    continue
+                note_global_id = f"{slug}/{entry['note_id']}"
+                sem_scores[note_global_id] = _cosine(query_embedding, emb)
+
+    # ── RRF fusion ────────────────────────────────────────────
+    if request.mode == "hybrid" and bm25_scores and sem_scores:
+        bm25_ranked = {k: i for i, k in enumerate(sorted(bm25_scores, key=bm25_scores.get, reverse=True))}
+        sem_ranked = {k: i for i, k in enumerate(sorted(sem_scores, key=sem_scores.get, reverse=True))}
+        fused = _rrf([bm25_ranked, sem_ranked])
+        final_scores = fused
+    elif request.mode == "semantic" or (request.mode == "hybrid" and sem_scores):
+        final_scores = sem_scores
+    else:
+        final_scores = bm25_scores
+
+    # ── Build result list ─────────────────────────────────────
+    top = sorted(final_scores.items(), key=lambda x: x[1], reverse=True)[:request.top_k]
+
+    for note_global_id, score in top:
+        parts = note_global_id.split("/", 1)
+        slug = parts[0]
+        note_id = parts[1] if len(parts) > 1 else ""
+        note_meta = notes.get(note_global_id, {}).get("meta", {})
+
+        # Load snippet from karpathy note file
+        snippet = ""
+        note_path = Path(VAULT_ROOT) / "_karpathy" / slug / f"{note_id}.md"
+        if note_path.exists():
+            try:
+                import frontmatter as _fm
+                post = _fm.load(note_path)
+                snippet = (post.content or "")[:300]
+            except Exception:
+                pass
+
+        results.append({
+            "id": note_global_id,
+            "slug": slug,
+            "note_id": note_id,
+            "score": round(score, 4),
+            "snippet": snippet,
+            "page_start": note_meta.get("page_start", 0),
+            "page_end": note_meta.get("page_end", 0),
+            "breadcrumb": note_meta.get("breadcrumb", ""),
+            "akn_element": note_meta.get("akn_element", ""),
+            "bm25_score": round(bm25_scores.get(note_global_id, 0), 4),
+            "sem_score": round(sem_scores.get(note_global_id, 0), 4),
+        })
+
+    return {
+        "success": True,
+        "query": request.query,
+        "mode": request.mode,
+        "total_results": len(results),
+        "results": results,
+    }
+
+
+# ──────────────────────────────────────────────────────────────
+# POST /vault/global/matter_group — group docs by case/debtor
+# ──────────────────────────────────────────────────────────────
+
+@app.post("/vault/global/matter_group")
+async def global_matter_group():
+    """Detect and group source documents into matters.
+
+    Groups slugs by shared case_number (primary) or corporate_debtor (fallback).
+    For each matter group writes:
+      matters/{matter-id}/_index.md  — links all slugs, cross-matter Dataview query
+      matters/{matter-id}/_timeline.md — merged timeline from all _timeline.json in matter
+
+    Safe to re-run — overwrites existing matter notes.
+    """
+    _matters_dir().mkdir(parents=True, exist_ok=True)
+
+    sources_dir = Path(VAULT_ROOT) / "sources"
+    if not sources_dir.exists():
+        return {"success": False, "reason": "No sources in vault."}
+
+    # Collect all slugs with their key fields
+    docs: list[dict] = []
+    for slug_dir in sources_dir.iterdir():
+        if not slug_dir.is_dir():
+            continue
+        idx_path = slug_dir / "_index.md"
+        if not idx_path.exists():
+            continue
+        try:
+            import frontmatter as _fm
+            post = _fm.load(idx_path)
+            docs.append({
+                "slug": slug_dir.name,
+                "case_number": (post.metadata.get("case_number") or "").strip().upper(),
+                "corporate_debtor": (post.metadata.get("corporate_debtor") or "").strip().lower(),
+                "doc_type": post.metadata.get("doc_type", "other"),
+                "order_date": post.metadata.get("order_date", ""),
+            })
+        except Exception:
+            continue
+
+    # ── Group by case_number (exact) then corporate_debtor (fuzzy) ──
+    import difflib
+
+    matters: dict[str, list[dict]] = {}   # matter_key → [doc, ...]
+
+    assigned: set = set()
+    # Pass 1: group by case_number
+    case_map: dict[str, str] = {}   # case_number → matter_key
+    for doc in docs:
+        cn = doc["case_number"]
+        if not cn:
+            continue
+        if cn not in case_map:
+            matter_key = make_slug(cn)
+            case_map[cn] = matter_key
+            matters[matter_key] = []
+        matters[case_map[cn]].append(doc)
+        assigned.add(doc["slug"])
+
+    # Pass 2: unassigned docs — fuzzy match on corporate_debtor
+    unassigned = [d for d in docs if d["slug"] not in assigned]
+    for doc in unassigned:
+        cd = doc["corporate_debtor"]
+        if not cd:
+            continue
+        best_key = None
+        best_ratio = 0.0
+        for mkey, mdocs in matters.items():
+            for md in mdocs:
+                ratio = difflib.SequenceMatcher(None, cd, md["corporate_debtor"]).ratio()
+                if ratio > best_ratio:
+                    best_ratio = ratio
+                    best_key = mkey
+        if best_ratio >= 0.80 and best_key:
+            matters[best_key].append(doc)
+            assigned.add(doc["slug"])
+        else:
+            # New matter based on debtor name
+            matter_key = make_slug(cd) or make_slug(doc["slug"])
+            matters.setdefault(matter_key, []).append(doc)
+            assigned.add(doc["slug"])
+
+    # ── Write matter notes ─────────────────────────────────────
+    matters_written = []
+    for matter_key, group_docs in matters.items():
+        if len(group_docs) < 1:
+            continue
+
+        slugs = [d["slug"] for d in group_docs]
+        case_number = next((d["case_number"] for d in group_docs if d["case_number"]), "")
+        corporate_debtor = next((d["corporate_debtor"] for d in group_docs if d["corporate_debtor"]), matter_key)
+        doc_types = list({d["doc_type"] for d in group_docs})
+
+        # Collect and merge timelines
+        all_events: list[dict] = []
+        for doc in group_docs:
+            timeline = read_sidecar_json(VAULT_ROOT, doc["slug"], "_timeline.json")
+            if timeline and "events" in timeline:
+                for ev in timeline["events"]:
+                    ev["_source_slug"] = doc["slug"]
+                    all_events.append(ev)
+
+        # Sort by date
+        all_events.sort(key=lambda e: (e.get("date") or "9999-99-99"))
+
+        # Write _index.md
+        matter_meta = {
+            "type": "matter-index",
+            "matter_id": matter_key,
+            "case_number": case_number,
+            "corporate_debtor": corporate_debtor,
+            "doc_types": doc_types,
+            "slugs": slugs,
+            "total_docs": len(slugs),
+        }
+        slug_links = "\n".join(f"- [[sources/{s}/_index]]" for s in slugs)
+        matter_body = f"# Matter: {corporate_debtor.title()}\n\n"
+        if case_number:
+            matter_body += f"**Case:** {case_number}\n\n"
+        matter_body += f"**Documents ({len(slugs)}):**\n{slug_links}\n\n"
+        matter_body += "## All Documents in This Matter\n\n"
+        matter_body += "```dataview\n"
+        matter_body += f'TABLE doc_type, order_date, pipeline_stage\nFROM "sources"\nWHERE contains(file.path, "{matter_key}")\nSORT order_date ASC\n'
+        matter_body += "```\n"
+
+        write_note(VAULT_ROOT, f"matters/{matter_key}/_index.md", matter_meta, matter_body)
+
+        # Write _timeline.md
+        if all_events:
+            timeline_meta = {
+                "type": "matter-timeline",
+                "matter_id": matter_key,
+                "corporate_debtor": corporate_debtor,
+                "total_events": len(all_events),
+            }
+            timeline_rows = "| Date | Event | Significance | Source |\n|---|---|---|---|\n"
+            for ev in all_events:
+                date = ev.get("date") or "—"
+                event = ev.get("event", "").replace("|", "\\|")[:80]
+                sig = ev.get("significance", "medium")
+                src = ev.get("_source_slug", "")
+                timeline_rows += f"| {date} | {event} | {sig} | [[sources/{src}/_index\\|{src}]] |\n"
+            timeline_body = f"# Timeline: {corporate_debtor.title()}\n\n{timeline_rows}"
+            write_note(VAULT_ROOT, f"matters/{matter_key}/_timeline.md", timeline_meta, timeline_body)
+
+        matters_written.append({"matter_id": matter_key, "slugs": slugs, "events": len(all_events)})
+
+    return {
+        "success": True,
+        "matters_written": len(matters_written),
+        "matters": matters_written,
+    }
+
+
+# ──────────────────────────────────────────────────────────────
+# POST /vault/global/entity_resolve — canonical entity registry
+# ──────────────────────────────────────────────────────────────
+
+@app.post("/vault/global/entity_resolve")
+async def global_entity_resolve():
+    """Build canonical entity registry from all _entities.json files.
+
+    Reads sources/{slug}/_entities.json for every slug, deduplicates entities
+    by name similarity (≥0.85 ratio) + role, and writes:
+      _global/entities.json — canonical registry with aliases + appears_in list
+
+    Useful for: cross-doc entity resolution, Pi agent entity lookup,
+    LightRAG entity deduplication.
+    """
+    import difflib
+
+    _global_dir().mkdir(parents=True, exist_ok=True)
+    sources_dir = Path(VAULT_ROOT) / "sources"
+    if not sources_dir.exists():
+        return {"success": False, "reason": "No sources in vault."}
+
+    # Collect all entities from all slugs
+    raw_entities: list[dict] = []
+    for slug_dir in sources_dir.iterdir():
+        if not slug_dir.is_dir():
+            continue
+        slug = slug_dir.name
+        entities_data = read_sidecar_json(VAULT_ROOT, slug, "_entities.json")
+        if not entities_data:
+            continue
+        for party in entities_data.get("parties", []):
+            party["_slug"] = slug
+            party["_category"] = "party"
+            raw_entities.append(party)
+        for company in entities_data.get("key_companies", []):
+            company["_slug"] = slug
+            company["_category"] = "company"
+            raw_entities.append(company)
+        for judge in entities_data.get("judges", []):
+            judge["_slug"] = slug
+            judge["_category"] = "judge"
+            raw_entities.append(judge)
+
+    # Cluster by name similarity
+    canonical: list[dict] = []
+
+    def find_cluster(name: str, role: str) -> int | None:
+        name_lower = name.lower()
+        for i, cluster in enumerate(canonical):
+            ratio = difflib.SequenceMatcher(None, name_lower, cluster["canonical_name"].lower()).ratio()
+            if ratio >= 0.85:
+                return i
+            for alias in cluster.get("aliases", []):
+                ratio2 = difflib.SequenceMatcher(None, name_lower, alias.lower()).ratio()
+                if ratio2 >= 0.85:
+                    return i
+        return None
+
+    for entity in raw_entities:
+        name = (entity.get("name") or "").strip()
+        role = (entity.get("role") or entity.get("designation") or "").strip()
+        slug = entity.get("_slug", "")
+        category = entity.get("_category", "party")
+        if not name:
+            continue
+
+        cluster_idx = find_cluster(name, role)
+        if cluster_idx is not None:
+            c = canonical[cluster_idx]
+            if name != c["canonical_name"] and name not in c["aliases"]:
+                c["aliases"].append(name)
+            if slug not in c["appears_in"]:
+                c["appears_in"].append(slug)
+        else:
+            canonical.append({
+                "canonical_name": name,
+                "aliases": [],
+                "role": role,
+                "category": category,
+                "appears_in": [slug],
+                "cin": entity.get("cin", ""),
+            })
+
+    registry = {
+        "built_at": __import__("datetime").datetime.utcnow().isoformat(),
+        "total_entities": len(canonical),
+        "entities": canonical,
+    }
+
+    with open(_global_dir() / "entities.json", "w") as f:
+        json.dump(registry, f, ensure_ascii=False, indent=2)
+
+    # Categorise for response
+    by_category: dict[str, int] = {}
+    for e in canonical:
+        by_category[e["category"]] = by_category.get(e["category"], 0) + 1
+
+    return {
+        "success": True,
+        "total_entities": len(canonical),
+        "by_category": by_category,
+        "entities_path": str(_global_dir() / "entities.json"),
+    }
+
+
+# ──────────────────────────────────────────────────────────────
+# POST /vault/global/precedent_graph — build citation graph
+# ──────────────────────────────────────────────────────────────
+
+@app.post("/vault/global/precedent_graph")
+async def global_precedent_graph():
+    """Build a precedent citation graph from all _citations.json files.
+
+    Reads sources/{slug}/_citations.json for every slug and:
+      1. Writes _global/citations.json — flat edge list: (slug → cited_case)
+      2. Pushes each citation as a LightRAG entity relation so the graph
+         becomes queryable via LightRAG: "what cases does X cite?"
+
+    Each edge: {source_slug, cited_case_name, citation_str, principle}
+    """
+    _global_dir().mkdir(parents=True, exist_ok=True)
+    sources_dir = Path(VAULT_ROOT) / "sources"
+    if not sources_dir.exists():
+        return {"success": False, "reason": "No sources in vault."}
+
+    all_edges: list[dict] = []
+    slug_case_map: dict[str, str] = {}  # slug → case_number (for labelling nodes)
+
+    # Build slug → case_number map from _index.md
+    for slug_dir in sources_dir.iterdir():
+        if not slug_dir.is_dir():
+            continue
+        idx_path = slug_dir / "_index.md"
+        if idx_path.exists():
+            try:
+                import frontmatter as _fm
+                post = _fm.load(idx_path)
+                slug_case_map[slug_dir.name] = post.metadata.get("case_number", slug_dir.name)
+            except Exception:
+                slug_case_map[slug_dir.name] = slug_dir.name
+
+    # Collect citation edges
+    for slug_dir in sources_dir.iterdir():
+        if not slug_dir.is_dir():
+            continue
+        slug = slug_dir.name
+        citations_data = read_sidecar_json(VAULT_ROOT, slug, "_citations.json")
+        if not citations_data:
+            continue
+
+        source_label = slug_case_map.get(slug, slug)
+
+        for cite in citations_data.get("case_citations", []):
+            cited_name = (cite.get("case_name") or "").strip()
+            if not cited_name:
+                continue
+            all_edges.append({
+                "source_slug": slug,
+                "source_case": source_label,
+                "cited_case": cited_name,
+                "citation_str": cite.get("citation", ""),
+                "principle": cite.get("principle", ""),
+            })
+
+    # Write flat edge list
+    graph_data = {
+        "built_at": __import__("datetime").datetime.utcnow().isoformat(),
+        "total_edges": len(all_edges),
+        "edges": all_edges,
+    }
+    with open(_global_dir() / "citations.json", "w") as f:
+        json.dump(graph_data, f, ensure_ascii=False, indent=2)
+
+    # Push to LightRAG as entity relations
+    lightrag_pushed = 0
+    lightrag_errors = 0
+    if all_edges:
+        try:
+            async with httpx.AsyncClient(timeout=60.0) as client:
+                # Build a structured text that LightRAG will parse into entities + relations
+                graph_text_parts = []
+                for edge in all_edges:
+                    graph_text_parts.append(
+                        f"Case '{edge['source_case']}' (slug: {edge['source_slug']}) "
+                        f"cites '{edge['cited_case']}'. "
+                        f"{edge['principle']}"
+                    )
+                graph_text = "\n".join(graph_text_parts)
+                resp = await client.post(
+                    f"{LIGHTRAG_URL}/documents/text",
+                    json={
+                        "text": graph_text,
+                        "metadata": {"type": "precedent-citation-graph", "source": "global_precedent_graph"},
+                    },
+                )
+                if resp.status_code < 300:
+                    lightrag_pushed = len(all_edges)
+                else:
+                    lightrag_errors = len(all_edges)
+        except Exception as e:
+            lightrag_errors = len(all_edges)
+
+    # Node summary
+    nodes: set = set()
+    for e in all_edges:
+        nodes.add(e["source_case"])
+        nodes.add(e["cited_case"])
+
+    return {
+        "success": True,
+        "total_edges": len(all_edges),
+        "total_nodes": len(nodes),
+        "lightrag_pushed": lightrag_pushed,
+        "lightrag_errors": lightrag_errors,
+        "citations_path": str(_global_dir() / "citations.json"),
+    }
+
+
+# ──────────────────────────────────────────────────────────────
+# GET /vault/global/status — Sprint 3 index health check
+# ──────────────────────────────────────────────────────────────
+
+@app.get("/vault/global/status")
+async def global_status():
+    """Return current state of all global indexes."""
+    g = _global_dir()
+    manifest_path = g / "manifest.json"
+    manifest = {}
+    if manifest_path.exists():
+        with open(manifest_path) as f:
+            manifest = json.load(f)
+
+    entities_path = g / "entities.json"
+    entities_count = 0
+    if entities_path.exists():
+        with open(entities_path) as f:
+            entities_count = json.load(f).get("total_entities", 0)
+
+    citations_path = g / "citations.json"
+    citations_count = 0
+    if citations_path.exists():
+        with open(citations_path) as f:
+            citations_count = json.load(f).get("total_edges", 0)
+
+    matters_dir = _matters_dir()
+    matter_count = len([d for d in matters_dir.iterdir() if d.is_dir()]) if matters_dir.exists() else 0
+
+    return {
+        "bm25_built": (g / "bm25.json").exists(),
+        "embeddings_built": (g / "embeddings.json").exists(),
+        "manifest": manifest,
+        "entities_count": entities_count,
+        "citations_edges": citations_count,
+        "matters_count": matter_count,
+    }
 
 
 if __name__ == "__main__":

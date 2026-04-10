@@ -1,6 +1,5 @@
 <script lang="ts">
   import { vault } from '../api/vault';
-  import MarkdownViewer from './MarkdownViewer.svelte';
 
   let { slug = '' } = $props();
 
@@ -98,7 +97,6 @@
   .meta-key { font-size: 10px; color: #6b7280; text-transform: uppercase; display: block; }
   .meta-val { font-size: 12px; color: #e0e7ff; }
 
-  .sections-list { }
   .sec-item { cursor: pointer; }
   .sec-row {
     display: flex; align-items: center; gap: 6px; padding: 5px 8px; font-size: 12px; color: #c4b5fd;

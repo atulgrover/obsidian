@@ -3,7 +3,27 @@
 
   let { slug = '' } = $props();
 
-  let treeData: Record<string, unknown> | null = $state(null);
+  type TreeNode = {
+    id: string;
+    level: number;
+    title?: string;
+    summary?: string;
+    pageStart?: number;
+    pageEnd?: number;
+    depth?: number;
+    children?: TreeNode[];
+    metadata?: Record<string, any>;
+  };
+
+  type FlatTreeNode = TreeNode & {
+    depth: number;
+  };
+
+  type TreeData = {
+    tree?: TreeNode;
+  };
+
+  let treeData: TreeData | null = $state(null);
   let loading = $state(false);
   let error = $state('');
   let expanded: Set<string> = $state(new Set());
@@ -29,9 +49,9 @@
   }
 
   // Flatten tree into a list for rendering (no recursion in template)
-  function flattenTree(node: any, depth: number = 0): any[] {
+  function flattenTree(node: TreeNode | null | undefined, depth: number = 0): FlatTreeNode[] {
     if (!node) return [];
-    const items: any[] = [];
+    const items: FlatTreeNode[] = [];
     for (const child of (node.children || [])) {
       items.push({ ...child, depth });
       if (expanded.has(child.id) && child.children && child.children.length > 0) {
@@ -41,13 +61,19 @@
     return items;
   }
 
-  function countNodes(node: any): number {
+  function countNodes(node: TreeNode | null | undefined): number {
     if (!node) return 0;
-    return 1 + (node.children || []).reduce((n: number, c: any) => n + countNodes(c), 0);
+    return 1 + (node.children || []).reduce((n: number, c: TreeNode) => n + countNodes(c), 0);
   }
 
-  const tree = $derived(treeData?.tree as Record<string, any> || null);
-  const items = $derived(tree ? flattenTree(tree) : []);
+  function getTree(): TreeNode | null {
+    return treeData?.tree || null;
+  }
+
+  function getItems(): FlatTreeNode[] {
+    const tree = getTree();
+    return tree ? flattenTree(tree) : [];
+  }
 </script>
 
 <div class="cleanse-tab">
@@ -59,12 +85,12 @@
     <div class="empty">No tree data. Run Cleanse first.</div>
   {:else}
     <div class="meta-bar">
-      <span class="chip">Nodes: {countNodes(tree)}</span>
-      <span class="chip">Sections: {(tree?.children || []).length}</span>
+      <span class="chip">Nodes: {countNodes(getTree())}</span>
+      <span class="chip">Sections: {(getTree()?.children || []).length}</span>
     </div>
 
     <div class="content">
-      {#each items as item}
+      {#each getItems() as item}
         <div class="tree-node" style="padding-left: {item.depth * 20 + 8}px">
           <button class="node-row" onclick={() => toggle(item.id)}>
             {#if item.children && item.children.length > 0}
@@ -98,7 +124,6 @@
 
   .content { flex: 1; overflow-y: auto; padding: 8px 0; }
 
-  .tree-node { }
   .node-row {
     display: flex; align-items: center; gap: 6px; padding: 4px 8px; cursor: pointer;
     font-size: 12px; color: #c4b5fd; background: none; border: none; width: 100%; text-align: left;

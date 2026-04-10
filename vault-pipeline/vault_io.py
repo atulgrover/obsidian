@@ -532,3 +532,28 @@ def _fm_load(path: Path):
     """Lazy import of frontmatter.load to avoid circular import."""
     import frontmatter
     return frontmatter.load(path)
+
+
+# ──────────────────────────────────────────────────────────────
+# Generic sidecar JSON — _timeline.json, _obligations.json, etc.
+# ──────────────────────────────────────────────────────────────
+
+def write_sidecar_json(vault_root: str | Path, slug: str, filename: str, data: Dict[str, Any]) -> Path:
+    """Write any sidecar JSON file under sources/{slug}/{filename}.
+
+    Used for _timeline.json, _obligations.json, _entities.json, _citations.json.
+    """
+    path = Path(vault_root) / "sources" / slug / filename
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        _json.dump(data, f, ensure_ascii=False, indent=2)
+    return path
+
+
+def read_sidecar_json(vault_root: str | Path, slug: str, filename: str) -> Optional[Dict[str, Any]]:
+    """Read a sidecar JSON file. Returns None if not yet produced."""
+    path = Path(vault_root) / "sources" / slug / filename
+    if not path.exists():
+        return None
+    with open(path, "r", encoding="utf-8") as f:
+        return _json.load(f)

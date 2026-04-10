@@ -8,33 +8,61 @@
   import IndexTab from './components/IndexTab.svelte';
   import ChunkTab from './components/ChunkTab.svelte';
 
+  type Pane = 'sources' | 'document' | 'pipeline';
+  type TabId = 'parse' | 'cleanse' | 'enrich' | 'chunk' | 'index';
+  type StepState = 'pending' | 'running' | 'done' | 'failed';
+  type ThemeMode = 'dark' | 'light';
+
   let sources: SourceMeta[] = $state([]);
   let selectedSlug = $state('');
-  let activePanel = $state('parse');
+  let activePanel: TabId = $state('parse');
+  let activePane: Pane = $state('sources');
   let loading = $state(false);
   let error = $state('');
+  let showAdvanced = $state(false);
+  let theme: ThemeMode = $state('dark');
 
-  // Upload controls
   let pipelineUrl = $state('');
   let pipelineFile: File | null = $state(null);
   let pipelineMode: 'url' | 'file' = $state('file');
   let uploading = $state(false);
 
-  // Processing controls
   let processing = $state(false);
   let processingStage = $state('');
   let processingResult: Record<string, unknown> | null = $state(null);
 
-  // Source data
   let sourceMeta: Record<string, unknown> = $state({});
 
-  const stages = [
-    { id: 'parse',    label: 'Parse',    icon: 'P' },
-    { id: 'cleanse',  label: 'Cleanse',  icon: 'C' },
-    { id: 'enrich',   label: 'Enrich',   icon: 'E' },
-    { id: 'index',    label: 'Index',    icon: 'I' },
-    { id: 'chunk',    label: 'Chunk',    icon: 'K' },
+  const stageSequence = [
+    { id: 'parse', label: 'Parse', short: 'P' },
+    { id: 'cleanse', label: 'Cleanse', short: 'C' },
+    { id: 'extract', label: 'Extract', short: 'X' },
+    { id: 'index', label: 'Index', short: 'I' },
+    { id: 'enrich', label: 'Enrich', short: 'E' },
+    { id: 'chunk', label: 'Chunk', short: 'K' },
+    { id: 'embed', label: 'Embed', short: 'B' },
+    { id: 'karpathy', label: 'Karpathy', short: 'R' },
+  ] as const;
+
+  const tabs: Array<{ id: TabId; label: string; advanced?: boolean }> = [
+    { id: 'parse', label: 'Parse' },
+    { id: 'cleanse', label: 'Structure' },
+    { id: 'enrich', label: 'Enrichment' },
+    { id: 'chunk', label: 'Chunks' },
+    { id: 'index', label: 'Vault', advanced: true },
   ];
+
+  const stageRank: Record<string, number> = {
+    uploaded: 0,
+    liteparse: 1,
+    pageindex: 2,
+    extracted: 3,
+    indexed: 4,
+    enriched: 5,
+    semchunk: 6,
+    ingested: 7,
+    verified: 8,
+  };
 
   async function loadSources() {
     loading = true;
@@ -54,12 +82,12 @@
     try {
       const src = await vault.getSource(slug);
       sourceMeta = src.metadata;
+      activePane = 'document';
     } catch (e: any) {
       error = e.message;
     }
   }
 
-  // Step 1: Upload/Download PDF → save to vault → show in viewer
   async function uploadPdf() {
     uploading = true;
     error = '';
@@ -82,29 +110,26 @@
     }
   }
 
-  // Step 2: Process the PDF through the pipeline
   async function processPdf() {
     if (!selectedSlug) return;
     processing = true;
     processingResult = null;
     error = '';
-
-    const stageNames = ['parse', 'cleanse', 'extract', 'index', 'enrich', 'chunk', 'embed', 'karpathy'];
+    activePane = 'pipeline';
 
     try {
       const results: Record<string, unknown> = {};
 
-      for (const stage of stageNames) {
-        processingStage = stage;
+      for (const stage of stageSequence) {
+        processingStage = stage.id;
         try {
-          const resp = await vault.runStage(stage as any, selectedSlug);
-          results[stage] = resp;
-          // Refresh source metadata after each stage
+          const resp = await vault.runStage(stage.id, selectedSlug);
+          results[stage.id] = resp;
           const src = await vault.getSource(selectedSlug);
           sourceMeta = src.metadata;
         } catch (e: any) {
-          results[stage] = { error: e.message };
-          break; // Stop pipeline on error
+          results[stage.id] = { error: e.message };
+          break;
         }
       }
 
@@ -127,12 +152,71 @@
 
   function stageColor(stage: string): string {
     const map: Record<string, string> = {
-      uploaded: '#6b7280',
-      liteparse: '#6366f1', pageindex: '#8b5cf6', semchunk: '#a855f7',
-      extracted: '#f59e0b', enriched: '#0ea5e9',
-      ingested: '#22c55e', verified: '#16a34a', error: '#ef4444',
+      uploaded: '#64748b',
+      liteparse: '#2563eb',
+      pageindex: '#7c3aed',
+      extracted: '#ea580c',
+      indexed: '#0ea5e9',
+      enriched: '#0891b2',
+      semchunk: '#8b5cf6',
+      ingested: '#16a34a',
+      verified: '#15803d',
+      error: '#dc2626',
     };
-    return map[stage] || '#6b7280';
+    return map[stage] || '#475569';
+  }
+
+  function stageLabel(stage: string): string {
+    const map: Record<string, string> = {
+      uploaded: 'Uploaded',
+      liteparse: 'Parsed',
+      pageindex: 'Structured',
+      extracted: 'Extracted',
+      indexed: 'Indexed',
+      enriched: 'Enriched',
+      semchunk: 'Chunked',
+      ingested: 'Embedded',
+      verified: 'Verified',
+      error: 'Error',
+    };
+    return map[stage] || stage || 'Unknown';
+  }
+
+  function createdAtLabel(value: string): string {
+    if (!value) return 'No timestamp';
+    const date = new Date(value);
+    if (Number.isNaN(date.getTime())) return value;
+    return date.toLocaleDateString(undefined, {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric',
+    });
+  }
+
+  function inferStepState(stage: string): StepState {
+    const result = processingResult?.[stage] as Record<string, unknown> | undefined;
+    if (result?.error) return 'failed';
+    if (processing && processingStage === stage) return 'running';
+    if (result) return 'done';
+
+    const currentStage = String(sourceMeta.pipeline_stage || '');
+    const currentRank = stageRank[currentStage] || 0;
+    const stagePosition = stageSequence.findIndex((item) => item.id === stage) + 1;
+    if (!processing && currentRank >= stagePosition) return 'done';
+    return 'pending';
+  }
+
+  function stepMessage(stage: string): string {
+    const result = processingResult?.[stage] as Record<string, unknown> | undefined;
+    if (result?.error) return String(result.error);
+    const state = inferStepState(stage);
+    if (state === 'running') return 'In progress';
+    if (state === 'done') return 'Completed';
+    return 'Waiting';
+  }
+
+  function visibleTabs() {
+    return tabs.filter((tab) => showAdvanced || !tab.advanced);
   }
 
   async function deleteSource(slug: string, e: MouseEvent) {
@@ -140,7 +224,11 @@
     if (!confirm(`Delete "${slug}" from vault? This cannot be undone.`)) return;
     try {
       await vault.deleteSource(slug);
-      if (selectedSlug === slug) { selectedSlug = ''; sourceMeta = {}; }
+      if (selectedSlug === slug) {
+        selectedSlug = '';
+        sourceMeta = {};
+        activePane = 'sources';
+      }
       await loadSources();
     } catch (err: any) {
       error = err.message;
@@ -153,20 +241,58 @@
     await processPdf();
   }
 
-  $effect(() => { if (sources.length === 0) loadSources(); });
+  function toggleAdvanced() {
+    showAdvanced = !showAdvanced;
+    if (!showAdvanced && activePanel === 'index') activePanel = 'parse';
+  }
+
+  function toggleTheme() {
+    theme = theme === 'dark' ? 'light' : 'dark';
+  }
+
+  $effect(() => {
+    if (sources.length === 0) loadSources();
+  });
+
+  $effect(() => {
+    if (typeof window === 'undefined') return;
+    const saved = window.localStorage.getItem('rag2-theme') as ThemeMode | null;
+    if (saved === 'dark' || saved === 'light') {
+      theme = saved;
+      return;
+    }
+    theme = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+  });
+
+  $effect(() => {
+    if (typeof document === 'undefined') return;
+    document.documentElement.dataset.theme = theme;
+    window.localStorage.setItem('rag2-theme', theme);
+  });
 </script>
 
+<div class="mobile-nav">
+  <button class:active={activePane === 'sources'} onclick={() => activePane = 'sources'}>Sources</button>
+  <button class:active={activePane === 'document'} onclick={() => activePane = 'document'} disabled={!selectedSlug}>Document</button>
+  <button class:active={activePane === 'pipeline'} onclick={() => activePane = 'pipeline'} disabled={!selectedSlug}>Pipeline</button>
+</div>
+
 <div class="app">
-  <!-- Left sidebar -->
-  <aside class="sidebar">
+  <aside class="sidebar" class:mobile-hidden={activePane !== 'sources'}>
     <div class="logo">
-      <h1>RAG2</h1>
-      <span class="subtitle">Resolution Bazaar</span>
+      <div class="logo-row">
+        <div>
+          <h1>RAG2</h1>
+          <span class="subtitle">Resolution Bazaar</span>
+        </div>
+        <button class="theme-toggle" onclick={toggleTheme}>
+          {theme === 'dark' ? 'Light' : 'Dark'}
+        </button>
+      </div>
     </div>
 
-    <!-- Upload section -->
     <div class="upload-section">
-      <h3>Upload PDF</h3>
+      <h3>Add Document</h3>
       <div class="mode-tabs">
         <button class="mode-tab" class:active={pipelineMode === 'file'} onclick={() => pipelineMode = 'file'}>Local File</button>
         <button class="mode-tab" class:active={pipelineMode === 'url'} onclick={() => pipelineMode = 'url'}>From URL</button>
@@ -174,24 +300,24 @@
       {#if pipelineMode === 'file'}
         <label class="file-label">
           <input type="file" accept=".pdf" onchange={handleFileInput} />
-          {pipelineFile ? pipelineFile.name : 'Choose PDF...'}
+          {pipelineFile ? pipelineFile.name : 'Choose a PDF to inspect'}
         </label>
       {:else}
         <input type="text" bind:value={pipelineUrl} placeholder="https://example.com/document.pdf" />
       {/if}
-      <button onclick={uploadPdf} disabled={uploading || (pipelineMode === 'url' ? !pipelineUrl : !pipelineFile)}>
-        {uploading ? 'Uploading...' : 'Upload & View'}
+      <button class="upload-btn" onclick={uploadPdf} disabled={uploading || (pipelineMode === 'url' ? !pipelineUrl : !pipelineFile)}>
+        {uploading ? 'Uploading...' : 'Add To Workspace'}
       </button>
     </div>
 
-    <!-- Source list -->
     <div class="source-list">
       <div class="source-header">
-        <h3>Sources</h3>
+        <h3>Workspace</h3>
         <button class="refresh-btn" onclick={loadSources} disabled={loading}>Refresh</button>
       </div>
+
       {#if loading}
-        <div class="loading-sm">Loading...</div>
+        <div class="loading-sm">Loading documents...</div>
       {:else if sources.length === 0}
         <div class="empty-sm">No sources yet.</div>
       {:else}
@@ -204,11 +330,21 @@
             onclick={() => selectSource(src.slug)}
             onkeydown={(e) => e.key === 'Enter' || e.key === ' ' ? selectSource(src.slug) : null}
           >
-            <span class="source-name">{src.filename || src.slug}</span>
-            <span class="source-actions">
+            <div class="source-main">
+              <div class="source-topline">
+                <span class="source-name">{src.filename || src.slug}</span>
+                <span class="source-stage" style="background:{stageColor(src.pipeline_stage)}">{stageLabel(src.pipeline_stage)}</span>
+              </div>
+              <div class="source-meta">
+                <span>{src.total_pages || 0} pages</span>
+                <span>{(src.total_chars || 0).toLocaleString()} chars</span>
+                <span>{createdAtLabel(src.created_at)}</span>
+              </div>
+            </div>
+            <div class="source-actions">
               <button
                 class="icon-btn reingest-btn"
-                title="Re-ingest"
+                title="Re-run pipeline"
                 onclick={(e) => reingestSource(src.slug, e)}
                 disabled={processing}
               >&#x21BB;</button>
@@ -217,55 +353,44 @@
                 title="Delete"
                 onclick={(e) => deleteSource(src.slug, e)}
               >&#x2715;</button>
-            </span>
+            </div>
           </div>
         {/each}
       {/if}
     </div>
   </aside>
 
-  <!-- Middle: PDF Viewer -->
-  <section class="pdf-panel">
+  <section class="pdf-panel" class:mobile-hidden={activePane !== 'document'}>
     {#if selectedSlug}
       <PdfViewer url={vault.getPdfUrl(selectedSlug)} />
     {:else}
-      <div class="pdf-empty">
-        <div class="pdf-empty-icon">&#128196;</div>
-        <p>Upload a PDF or select a source</p>
+      <div class="panel-empty">
+        <div class="panel-empty-icon">&#128196;</div>
+        <p>Select a document to preview it.</p>
       </div>
     {/if}
   </section>
 
-  <!-- Right: Pipeline tabs -->
-  <section class="content-panel">
+  <section class="content-panel" class:mobile-hidden={activePane !== 'pipeline'}>
     {#if !selectedSlug}
       <div class="welcome">
-        <h2>RAG2 &mdash; Resolution Bazaar</h2>
-        <p>Upload a PDF to start the pipeline.</p>
-        <div class="pipeline-flow">
-          <div class="flow-step"><span class="flow-num">1</span> Parse: PDF &rarr; Text</div>
-          <div class="flow-arrow">&rarr;</div>
-          <div class="flow-step"><span class="flow-num">2</span> Cleanse: Structure</div>
-          <div class="flow-arrow">&rarr;</div>
-          <div class="flow-step"><span class="flow-num">3</span> Enrich: Summaries</div>
-          <div class="flow-arrow">&rarr;</div>
-          <div class="flow-step"><span class="flow-num">4</span> Index: Save</div>
-          <div class="flow-arrow">&rarr;</div>
-          <div class="flow-step"><span class="flow-num">5</span> Chunk & Embed</div>
-        </div>
+        <h2>Document Pipeline</h2>
+        <p>Add a PDF, select it from the workspace, then run the processing stages.</p>
       </div>
     {:else}
-      <!-- Process button + status -->
-      <div class="process-bar">
-        <div class="process-left">
-          <span class="slug-label">{selectedSlug}</span>
-          {#if sourceMeta.pipeline_stage && sourceMeta.pipeline_stage !== 'uploaded'}
-            <span class="stage-chip" style="background:{stageColor(sourceMeta.pipeline_stage as string)}">{sourceMeta.pipeline_stage}</span>
-          {/if}
+      <div class="pipeline-header">
+        <div class="pipeline-header-main">
+          <div class="pipeline-title-row">
+            <h2>{selectedSlug}</h2>
+            <span class="stage-chip" style="background:{stageColor(String(sourceMeta.pipeline_stage || 'uploaded'))}">
+              {stageLabel(String(sourceMeta.pipeline_stage || 'uploaded'))}
+            </span>
+          </div>
+          <p>Track processing, inspect structure, and review chunk quality from one panel.</p>
         </div>
-        <div class="process-right">
+        <div class="pipeline-header-actions">
           {#if processing}
-            <span class="processing-label">Processing: {processingStage}...</span>
+            <span class="processing-label">Running {processingStage}...</span>
           {/if}
           <button class="process-btn" onclick={processPdf} disabled={processing || sourceMeta.pipeline_stage === 'ingested'}>
             {#if processing}
@@ -273,19 +398,41 @@
             {:else if sourceMeta.pipeline_stage === 'ingested'}
               Completed
             {:else}
-              Process
+              Run Pipeline
             {/if}
           </button>
         </div>
       </div>
 
+      <div class="stepper-card">
+        <div class="stepper-header">
+          <h3>Pipeline Progress</h3>
+          <button class="advanced-toggle" onclick={toggleAdvanced}>
+            {showAdvanced ? 'Hide Vault Debug' : 'Show Vault Debug'}
+          </button>
+        </div>
+        <div class="stepper-grid">
+          {#each stageSequence as stage, index}
+            <div class={`step-card state-${inferStepState(stage.id)}`}>
+              <div class="step-card-top">
+                <span class="step-index">{index + 1}</span>
+                <span class="step-short">{stage.short}</span>
+              </div>
+              <div class="step-name">{stage.label}</div>
+              <div class="step-message">{stepMessage(stage.id)}</div>
+            </div>
+          {/each}
+        </div>
+      </div>
+
       <div class="tab-bar">
-        {#each stages as s}
-          <button class="tab" class:active={activePanel === s.id} onclick={() => activePanel = s.id}>
-            <span class="tab-icon">{s.icon}</span> {s.label}
+        {#each visibleTabs() as tab}
+          <button class="tab" class:active={activePanel === tab.id} onclick={() => activePanel = tab.id}>
+            {tab.label}
           </button>
         {/each}
       </div>
+
       <div class="panel-content">
         {#if activePanel === 'parse'}
           <ParseTab slug={selectedSlug} />
@@ -293,10 +440,10 @@
           <CleanseTab slug={selectedSlug} />
         {:else if activePanel === 'enrich'}
           <EnrichTab slug={selectedSlug} />
-        {:else if activePanel === 'index'}
-          <IndexTab slug={selectedSlug} />
         {:else if activePanel === 'chunk'}
           <ChunkTab slug={selectedSlug} />
+        {:else if activePanel === 'index'}
+          <IndexTab slug={selectedSlug} />
         {/if}
       </div>
     {/if}
@@ -311,117 +458,524 @@
 {/if}
 
 <style>
-  :global(body) { margin: 0; background: #0f0d2e; color: #e0e7ff; font-family: system-ui, -apple-system, sans-serif; }
+  :global(body) { margin: 0; color: var(--text); font-family: var(--font-ui); }
   :global(*) { box-sizing: border-box; }
 
-  .app { display: flex; height: 100vh; }
+  .mobile-nav {
+    display: none;
+    gap: 8px;
+    padding: 12px;
+    background: var(--bg-panel-strong);
+    border-bottom: 1px solid var(--border);
+  }
+  .mobile-nav button {
+    flex: 1;
+    padding: 10px 12px;
+    border: 1px solid var(--border-strong);
+    border-radius: 999px;
+    background: var(--bg-card-soft);
+    color: var(--text);
+    font-size: 12px;
+  }
+  .mobile-nav button.active {
+    background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+    border-color: transparent;
+    color: white;
+  }
+  .mobile-nav button:disabled { opacity: 0.45; }
+
+  .app {
+    display: flex;
+    height: 100vh;
+    background:
+      var(--bg-app);
+  }
 
   .sidebar {
-    width: 280px; min-width: 280px; background: #1a1744; border-right: 1px solid #312e81;
-    display: flex; flex-direction: column; overflow-y: auto;
+    width: 360px;
+    min-width: 360px;
+    background: var(--bg-panel-strong);
+    border-right: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
   }
-  .logo { padding: 16px; border-bottom: 1px solid #312e81; }
-  .logo h1 { margin: 0; font-size: 20px; color: #a78bfa; }
-  .logo .subtitle { font-size: 11px; color: #6b7280; }
 
-  .upload-section { padding: 12px; border-bottom: 1px solid #312e81; }
-  .upload-section h3 { margin: 0 0 6px; font-size: 12px; color: #818cf8; text-transform: uppercase; }
-  .mode-tabs { display: flex; gap: 4px; margin-bottom: 6px; }
-  .mode-tab {
-    flex: 1; padding: 5px; background: #0f0d2e; border: 1px solid #312e81;
-    border-radius: 4px; color: #818cf8; cursor: pointer; font-size: 11px; text-align: center;
+  .logo {
+    padding: 22px 20px 18px;
+    border-bottom: 1px solid var(--border);
   }
-  .mode-tab.active { background: #4f46e5; color: white; border-color: #4f46e5; }
+  .logo-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .logo h1 {
+    margin: 0;
+    font-size: 24px;
+    color: var(--text-strong);
+    letter-spacing: 0.05em;
+  }
+  .logo .subtitle {
+    display: inline-block;
+    margin-top: 6px;
+    font-size: 11px;
+    color: var(--accent-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+  }
+  .theme-toggle {
+    padding: 8px 11px;
+    border: 1px solid var(--border-strong);
+    border-radius: 999px;
+    background: var(--bg-card-soft);
+    color: var(--text);
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .upload-section {
+    padding: 16px 20px 18px;
+    border-bottom: 1px solid var(--border);
+  }
+  .upload-section h3 {
+    margin: 0 0 10px;
+    font-size: 12px;
+    color: var(--accent-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+  }
+  .mode-tabs {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 10px;
+  }
+  .mode-tab {
+    flex: 1;
+    padding: 8px 10px;
+    background: var(--bg-card-deep);
+    border: 1px solid var(--border-strong);
+    border-radius: 999px;
+    color: var(--text);
+    font-size: 12px;
+  }
+  .mode-tab.active {
+    background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+    border-color: transparent;
+    color: white;
+  }
   .file-label {
-    display: block; padding: 8px 10px; background: #0f0d2e; border: 1px dashed #312e81;
-    border-radius: 4px; color: #6b7280; font-size: 12px; text-align: center;
-    cursor: pointer; margin-bottom: 6px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    display: block;
+    padding: 14px 12px;
+    margin-bottom: 10px;
+    background: var(--bg-card-deep);
+    border: 1px dashed var(--border-soft);
+    border-radius: 16px;
+    color: var(--text-muted);
+    font-size: 12px;
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
   .file-label input[type="file"] { display: none; }
   .upload-section input[type="text"] {
-    width: 100%; padding: 6px 10px; background: #0f0d2e; border: 1px solid #312e81;
-    border-radius: 4px; color: #e0e7ff; font-size: 12px; margin-bottom: 6px;
+    width: 100%;
+    padding: 12px 14px;
+    margin-bottom: 10px;
+    background: var(--bg-card-deep);
+    border: 1px solid var(--border-strong);
+    border-radius: 16px;
+    color: var(--text);
+    font-size: 13px;
   }
-  .upload-section button {
-    width: 100%; padding: 7px; background: #4f46e5; color: white; border: none;
-    border-radius: 4px; cursor: pointer; font-size: 12px;
+  .upload-btn {
+    width: 100%;
+    padding: 11px 14px;
+    background: linear-gradient(135deg, #f97316, #ea580c);
+    color: white;
+    border: none;
+    border-radius: 16px;
+    font-size: 13px;
+    font-weight: 800;
   }
-  .upload-section button:disabled { opacity: 0.5; }
+  .upload-btn:disabled { opacity: 0.5; }
 
-  .source-list { flex: 1; overflow-y: auto; }
-  .source-header { display: flex; justify-content: space-between; align-items: center; padding: 8px 12px; }
-  .source-header h3 { margin: 0; font-size: 12px; color: #818cf8; text-transform: uppercase; }
-  .refresh-btn { background: transparent; border: 1px solid #312e81; color: #818cf8; padding: 3px 6px; border-radius: 3px; cursor: pointer; font-size: 10px; }
+  .source-list {
+    flex: 1;
+    overflow-y: auto;
+    padding-bottom: 14px;
+  }
+  .source-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 20px 12px;
+  }
+  .source-header h3 {
+    margin: 0;
+    font-size: 12px;
+    color: var(--accent-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+  }
+  .refresh-btn {
+    padding: 5px 10px;
+    border: 1px solid var(--border-soft);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--text);
+    font-size: 11px;
+  }
 
   .source-item {
-    display: flex; justify-content: space-between; align-items: center;
-    width: 100%; padding: 8px 12px; background: transparent;
-    border-bottom: 1px solid #1e1b4b; cursor: pointer; text-align: left; color: #c4b5fd;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin: 0 14px 10px;
+    padding: 14px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-strong);
+    border-radius: 20px;
+    cursor: pointer;
   }
-  .source-item:hover { background: rgba(79, 70, 229, 0.15); }
-  .source-item:hover .source-actions { opacity: 1; }
-  .source-item.selected { background: #312e81; }
-  .source-name { font-size: 12px; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-right: 6px; }
-  .source-actions { display: flex; gap: 2px; align-items: center; opacity: 0; transition: opacity 0.15s; flex-shrink: 0; }
-  .source-item.selected .source-actions { opacity: 1; }
+  .source-item:hover {
+    border-color: var(--accent-soft);
+    transform: translateY(-1px);
+  }
+  .source-item.selected {
+    background: linear-gradient(135deg, color-mix(in srgb, var(--accent) 14%, transparent), color-mix(in srgb, var(--accent-strong) 10%, transparent));
+    border-color: var(--accent-soft);
+  }
+  .source-main {
+    flex: 1;
+    min-width: 0;
+  }
+  .source-topline {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+  .source-name {
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text-strong);
+  }
+  .source-stage {
+    padding: 4px 9px;
+    border-radius: 999px;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: white;
+    flex-shrink: 0;
+  }
+  .source-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: 11px;
+    color: var(--text-muted);
+  }
+  .source-actions {
+    display: flex;
+    gap: 4px;
+    flex-shrink: 0;
+  }
   .icon-btn {
-    background: transparent; border: none; cursor: pointer;
-    padding: 2px 5px; border-radius: 3px; font-size: 13px; line-height: 1;
-    transition: background 0.15s;
+    padding: 7px 9px;
+    border: 1px solid var(--border-soft);
+    border-radius: 10px;
+    background: var(--bg-card-deep);
+    line-height: 1;
   }
-  .reingest-btn { color: #818cf8; }
-  .reingest-btn:hover:not(:disabled) { background: rgba(99, 102, 241, 0.2); }
-  .reingest-btn:disabled { opacity: 0.4; cursor: not-allowed; }
-  .delete-btn { color: #f87171; }
-  .delete-btn:hover { background: rgba(239, 68, 68, 0.15); }
+  .reingest-btn { color: var(--accent-soft); }
+  .delete-btn { color: #fb7185; }
+  .reingest-btn:disabled { opacity: 0.4; }
 
-  .pdf-panel { flex: 1; min-width: 0; border-right: 1px solid #312e81; display: flex; flex-direction: column; }
-  .pdf-empty { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; color: #6b7280; }
-  .pdf-empty-icon { font-size: 48px; margin-bottom: 12px; }
-
-  .content-panel { flex: 1; min-width: 0; display: flex; flex-direction: column; }
-
-  .welcome { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; padding: 32px; }
-  .welcome h2 { color: #a78bfa; margin-bottom: 8px; }
-  .welcome p { color: #6b7280; margin-bottom: 24px; }
-  .pipeline-flow { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; justify-content: center; }
-  .flow-step { display: flex; align-items: center; gap: 4px; color: #c4b5fd; font-size: 12px; }
-  .flow-num { background: #4f46e5; color: white; width: 18px; height: 18px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 10px; }
-  .flow-arrow { color: #6b7280; font-size: 14px; }
-
-  .process-bar {
-    display: flex; align-items: center; justify-content: space-between;
-    padding: 8px 16px; background: #1a1744; border-bottom: 1px solid #312e81; flex-shrink: 0;
+  .pdf-panel {
+    flex: 1.08;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid var(--border);
+    background: var(--bg-canvas);
   }
-  .process-left { display: flex; align-items: center; gap: 8px; }
-  .slug-label { font-size: 13px; color: #c4b5fd; font-weight: bold; }
-  .stage-chip { padding: 2px 8px; border-radius: 8px; font-size: 10px; color: white; }
-  .process-right { display: flex; align-items: center; gap: 8px; }
-  .processing-label { font-size: 11px; color: #f59e0b; }
+
+  .content-panel {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    background: var(--bg-panel);
+  }
+
+  .welcome,
+  .panel-empty {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 32px;
+    color: var(--text-muted);
+    text-align: center;
+  }
+  .welcome h2 {
+    margin: 0 0 8px;
+    font-size: 30px;
+    color: var(--text-strong);
+  }
+  .panel-empty-icon {
+    font-size: 46px;
+    margin-bottom: 14px;
+  }
+
+  .pipeline-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 22px 22px 16px;
+    border-bottom: 1px solid var(--border);
+  }
+  .pipeline-header-main h2 {
+    margin: 0;
+    font-size: 24px;
+    color: var(--text-strong);
+  }
+  .pipeline-header-main p {
+    margin: 8px 0 0;
+    color: var(--text-muted);
+    font-size: 13px;
+  }
+  .pipeline-title-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .stage-chip {
+    padding: 5px 10px;
+    border-radius: 999px;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: white;
+  }
+  .pipeline-header-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+  .processing-label {
+    font-size: 11px;
+    color: var(--warning);
+  }
   .process-btn {
-    padding: 6px 20px; background: #22c55e; color: white; border: none;
-    border-radius: 4px; cursor: pointer; font-size: 13px; font-weight: bold;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #22c55e, var(--success));
+    color: white;
+    font-size: 13px;
+    font-weight: 800;
   }
-  .process-btn:disabled { opacity: 0.5; background: #6b7280; }
+  .process-btn:disabled { opacity: 0.5; }
 
-  .tab-bar { display: flex; background: #1a1744; border-bottom: 1px solid #312e81; flex-shrink: 0; }
+  .stepper-card {
+    padding: 16px 22px 18px;
+    border-bottom: 1px solid var(--border);
+  }
+  .stepper-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+  .stepper-header h3 {
+    margin: 0;
+    font-size: 12px;
+    color: var(--accent-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+  }
+  .advanced-toggle {
+    padding: 6px 11px;
+    border: 1px solid var(--border-soft);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--text);
+    font-size: 11px;
+  }
+  .stepper-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 10px;
+  }
+  .step-card {
+    min-height: 98px;
+    padding: 12px;
+    border: 1px solid var(--border-strong);
+    border-radius: 18px;
+    background: var(--bg-card);
+  }
+  .step-card-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 14px;
+  }
+  .step-index,
+  .step-short {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 800;
+  }
+  .step-index {
+    background: color-mix(in srgb, var(--text-faint) 25%, transparent);
+    color: var(--text);
+  }
+  .step-short {
+    background: color-mix(in srgb, var(--text-strong) 10%, transparent);
+    color: var(--text-strong);
+  }
+  .step-name {
+    margin-bottom: 6px;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text-strong);
+  }
+  .step-message {
+    font-size: 11px;
+    color: var(--text-muted);
+    line-height: 1.4;
+  }
+  .step-card.state-done {
+    border-color: color-mix(in srgb, var(--success) 50%, transparent);
+    background: color-mix(in srgb, var(--success) 16%, var(--bg-card));
+  }
+  .step-card.state-done .step-index {
+    background: #22c55e;
+    color: white;
+  }
+  .step-card.state-running {
+    border-color: color-mix(in srgb, var(--accent) 55%, transparent);
+    background: color-mix(in srgb, var(--accent) 15%, var(--bg-card));
+  }
+  .step-card.state-running .step-index {
+    background: var(--accent);
+    color: white;
+  }
+  .step-card.state-failed {
+    border-color: color-mix(in srgb, var(--danger) 55%, transparent);
+    background: color-mix(in srgb, var(--danger) 12%, var(--bg-card));
+  }
+  .step-card.state-failed .step-index {
+    background: var(--danger);
+    color: white;
+  }
+
+  .tab-bar {
+    display: flex;
+    gap: 8px;
+    padding: 12px 22px;
+    border-bottom: 1px solid var(--border);
+    overflow-x: auto;
+  }
   .tab {
-    padding: 8px 14px; background: transparent; border: none; border-bottom: 2px solid transparent;
-    cursor: pointer; color: #818cf8; font-size: 13px;
+    padding: 9px 14px;
+    border: 1px solid var(--border-strong);
+    border-radius: 999px;
+    background: var(--bg-card-soft);
+    color: var(--text);
+    font-size: 13px;
   }
-  .tab:hover { background: rgba(79, 70, 229, 0.1); }
-  .tab.active { border-bottom-color: #a78bfa; color: white; background: #1e1b4b; }
-  .tab-icon { margin-right: 3px; font-size: 11px; }
+  .tab.active {
+    background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+    border-color: transparent;
+    color: white;
+  }
 
-  .panel-content { flex: 1; overflow-y: auto; }
-  .loading-sm, .empty-sm { text-align: center; padding: 12px; color: #6b7280; font-size: 12px; }
+  .panel-content {
+    flex: 1;
+    overflow-y: auto;
+  }
+
+  .loading-sm,
+  .empty-sm {
+    padding: 16px 20px;
+    color: var(--text-faint);
+    font-size: 12px;
+  }
 
   .error-toast {
-    position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%);
-    background: #7f1d1d; color: #fca5a5; padding: 10px 20px; border-radius: 6px;
-    font-size: 13px; cursor: pointer; z-index: 1000;
-    display: flex; align-items: center; gap: 12px;
-    border: none; font-family: inherit;
+    position: fixed;
+    left: 50%;
+    bottom: 20px;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 12px;
+    background: color-mix(in srgb, var(--danger) 75%, #111827);
+    color: #fecaca;
+    font-size: 13px;
+    z-index: 1000;
   }
   .close { font-size: 18px; }
+
+  @media (max-width: 1200px) {
+    .stepper-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 960px) {
+    .mobile-nav { display: flex; }
+    .app {
+      display: block;
+      height: calc(100vh - 61px);
+    }
+    .sidebar,
+    .pdf-panel,
+    .content-panel {
+      width: 100%;
+      min-width: 0;
+      height: 100%;
+      border-right: none;
+    }
+    .mobile-hidden { display: none; }
+    .pipeline-header {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .stepper-card,
+    .tab-bar {
+      padding-left: 14px;
+      padding-right: 14px;
+    }
+    .stepper-grid {
+      grid-template-columns: 1fr;
+    }
+  }
 </style>

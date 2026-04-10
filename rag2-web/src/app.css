@@ -1,10 +1,78 @@
-/* RAG2-Web — minimal reset */
+/* RAG2-Web theme system */
+:root {
+  color-scheme: dark;
+  --font-ui: "SF Pro Display", "Avenir Next", "Segoe UI", sans-serif;
+  --bg-app:
+    radial-gradient(circle at top left, rgba(14, 165, 233, 0.12), transparent 30%),
+    radial-gradient(circle at top right, rgba(249, 115, 22, 0.08), transparent 22%),
+    #07111f;
+  --bg-panel: rgba(7, 17, 31, 0.94);
+  --bg-panel-strong: rgba(8, 16, 29, 0.96);
+  --bg-card: rgba(13, 22, 39, 0.92);
+  --bg-card-soft: #0d1627;
+  --bg-card-deep: #0c1728;
+  --bg-canvas: #09111e;
+  --bg-code: #050b16;
+  --border: #1d2b45;
+  --border-strong: #22304a;
+  --border-soft: #334155;
+  --text: #e2e8f0;
+  --text-strong: #f8fafc;
+  --text-muted: #94a3b8;
+  --text-faint: #64748b;
+  --accent: #0ea5e9;
+  --accent-strong: #2563eb;
+  --accent-soft: #7dd3fc;
+  --success: #16a34a;
+  --warning: #f59e0b;
+  --danger: #dc2626;
+  --shadow-lg: 0 24px 60px rgba(2, 6, 23, 0.35);
+  --scroll-track: #0f172a;
+  --scroll-thumb: #334155;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg-app:
+    radial-gradient(circle at top left, rgba(14, 165, 233, 0.09), transparent 32%),
+    radial-gradient(circle at top right, rgba(249, 115, 22, 0.07), transparent 24%),
+    #eef4fb;
+  --bg-panel: rgba(248, 250, 252, 0.94);
+  --bg-panel-strong: rgba(255, 255, 255, 0.96);
+  --bg-card: rgba(255, 255, 255, 0.96);
+  --bg-card-soft: #f8fafc;
+  --bg-card-deep: #f1f5f9;
+  --bg-canvas: #eaf1f8;
+  --bg-code: #f8fafc;
+  --border: #d7e1ee;
+  --border-strong: #cbd5e1;
+  --border-soft: #b8c6d8;
+  --text: #334155;
+  --text-strong: #0f172a;
+  --text-muted: #64748b;
+  --text-faint: #94a3b8;
+  --accent: #0284c7;
+  --accent-strong: #2563eb;
+  --accent-soft: #0369a1;
+  --success: #15803d;
+  --warning: #d97706;
+  --danger: #dc2626;
+  --shadow-lg: 0 24px 50px rgba(148, 163, 184, 0.22);
+  --scroll-track: #e2e8f0;
+  --scroll-thumb: #94a3b8;
+}
+
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html, body, #app { height: 100%; width: 100%; }
-body { font-family: system-ui, -apple-system, sans-serif; background: #0f0d2e; color: #e0e7ff; }
-a { color: #818cf8; }
-button { cursor: pointer; }
+body {
+  font-family: var(--font-ui);
+  background: var(--bg-app);
+  color: var(--text);
+  transition: background-color 180ms ease, color 180ms ease;
+}
+a { color: var(--accent-strong); }
+button { cursor: pointer; font-family: inherit; }
 input, select, textarea { font-family: inherit; }
-::-webkit-scrollbar { width: 6px; }
-::-webkit-scrollbar-track { background: #1a1744; }
-::-webkit-scrollbar-thumb { background: #312e81; border-radius: 3px; }
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: var(--scroll-track); }
+::-webkit-scrollbar-thumb { background: var(--scroll-thumb); border-radius: 999px; }
