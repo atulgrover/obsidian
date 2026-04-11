@@ -34,6 +34,8 @@ logger = logging.getLogger("vault-pipeline")
 _mws_fail_count: int = 0
 _MWS_MAX_FAILS: int = 3  # suppress logging after this many failures
 _MWS_ENABLED: bool = True  # global toggle
+_ensured_wikis: set = set()  # track slugs that have had their wiki ensured
+_ensure_lock = asyncio.Lock()  # prevent concurrent wiki creation for same slug
 
 
 def _schedule_wiki(coro):
@@ -46,39 +48,59 @@ def _schedule_wiki(coro):
     global _mws_fail_count, _MWS_ENABLED
 
     if not _MWS_ENABLED:
+        logger.debug("MWS disabled — skipping wiki write")
         return
 
     try:
         loop = asyncio.get_running_loop()
-        loop.create_task(coro)
+        task = loop.create_task(coro)
+        logger.debug(f"Scheduled wiki task: {coro}")
     except RuntimeError:
         # No running event loop — can't schedule
-        pass
+        logger.warning(f"No running event loop — can't schedule wiki write: {coro}")
 
 
-async def _wiki_write_with_retry(func, *args, **kwargs):
-    """Execute a wiki_io write with error handling and retry tracking."""
+async def _wiki_write_with_retry(func, *args, slug: str = "", **kwargs):
+    """Execute a wiki_io write with error handling and retry tracking.
+
+    Ensures the wiki exists before writing (idempotent check).
+    """
     global _mws_fail_count, _MWS_ENABLED
 
+    # Ensure the wiki exists before any write
+    if slug and slug not in _ensured_wikis:
+        await _ensure_wiki_async(slug)
+
     try:
-        await func(*args, **kwargs)
+        result = await func(*args, **kwargs)
         _mws_fail_count = 0  # reset on success
+        logger.debug(f"Wiki write succeeded: {func.__name__}")
+        return result
     except Exception as e:
         _mws_fail_count += 1
         if _mws_fail_count <= _MWS_MAX_FAILS:
-            logger.warning(f"MWS write failed ({_mws_fail_count}): {e}")
+            logger.warning(f"MWS write failed ({_mws_fail_count}) [{func.__name__}]: {e}")
         elif _mws_fail_count == _MWS_MAX_FAILS + 1:
             logger.error(f"MWS write failed {_mws_fail_count} times — suppressing further warnings until restart")
         # Don't disable entirely — MWS might come back up
 
 
 async def _ensure_wiki_async(slug: str, description: str = ""):
-    """Ensure a wiki exists for this slug."""
-    try:
-        client = get_client()
-        await wiki_io.init_wiki(client, slug, description)
-    except Exception:
-        pass  # _wiki_write_with_retry will handle error logging
+    """Ensure a wiki exists for this slug. Idempotent — only creates once per slug."""
+    global _ensured_wikis
+    if slug in _ensured_wikis:
+        return
+    async with _ensure_lock:
+        # Double-check after acquiring lock (another task may have created it)
+        if slug in _ensured_wikis:
+            return
+        try:
+            client = get_client()
+            await wiki_io.init_wiki(client, slug, description)
+            _ensured_wikis.add(slug)
+            logger.info(f"Wiki ensured: {slug}")
+        except Exception as e:
+            logger.warning(f"Failed to ensure wiki for {slug}: {e}")
 
 
 # ──────────────────────────────────────────────────────────────
@@ -100,11 +122,7 @@ def write_source_index(
     children: List[str] | None = None,
     pipeline_stage: str = "liteparse",
 ) -> Path:
-    """Write source index to vault, then mirror to TiddlyWiki (fire-and-forget).
-
-    This is always the first write for a new document, so we also ensure
-    the wiki exists before writing.
-    """
+    """Write source index to vault, then mirror to TiddlyWiki (fire-and-forget)."""
     result = vault_io.write_source_index(
         vault_root, slug,
         filename=filename, total_pages=total_pages, total_chars=total_chars,
@@ -112,10 +130,9 @@ def write_source_index(
         parties=parties, statutory_refs=statutory_refs, children=children,
         pipeline_stage=pipeline_stage,
     )
-    # Ensure wiki exists before first write
-    _schedule_wiki(_ensure_wiki_async(slug, filename))
     _schedule_wiki(_wiki_write_with_retry(
         wiki_io.write_source_index, get_client(), slug,
+        slug=slug,
         filename=filename, total_pages=total_pages, total_chars=total_chars,
         source_url=source_url, doc_type=doc_type, doc_date=doc_date,
         parties=parties, statutory_refs=statutory_refs, children=children,
@@ -135,6 +152,7 @@ def write_full_text(
     result = vault_io.write_full_text(vault_root, slug, text, filename=filename)
     _schedule_wiki(_wiki_write_with_retry(
         wiki_io.write_full_text, get_client(), slug, text, filename=filename,
+        slug=slug,
     ))
     return result
 
@@ -167,6 +185,7 @@ def write_section_note(
     )
     _schedule_wiki(_wiki_write_with_retry(
         wiki_io.write_section_note, get_client(), slug, section_id,
+        slug=slug,
         level=level, heading_level=heading_level, title=title,
         content=content, summary=summary,
         page_start=page_start, page_end=page_end,
@@ -197,32 +216,13 @@ def write_chunk_note(
     statutory_refs: List[str] | None = None,
     akn_element: str = "",
 ) -> Path:
-    """Write chunk note to vault, then mirror to TiddlyWiki."""
-    result = vault_io.write_chunk_note(
-        vault_root, slug, chunk_index,
-        total_chunks=total_chunks, content=content,
-        parent_context=parent_context,
-        page_start=page_start, page_end=page_end,
-        token_count=token_count, level=level,
-        has_overlap=has_overlap,
-        source_wikilink=source_wikilink, section_wikilink=section_wikilink,
-        doc_type=doc_type, doc_date=doc_date,
-        parties=parties, statutory_refs=statutory_refs,
-        akn_element=akn_element,
-    )
-    _schedule_wiki(_wiki_write_with_retry(
-        wiki_io.write_chunk_note, get_client(), slug, chunk_index,
-        total_chunks=total_chunks, content=content,
-        parent_context=parent_context,
-        page_start=page_start, page_end=page_end,
-        token_count=token_count, level=level,
-        has_overlap=has_overlap,
-        source_wikilink=source_wikilink, section_wikilink=section_wikilink,
-        doc_type=doc_type, doc_date=doc_date,
-        parties=parties, statutory_refs=statutory_refs,
-        akn_element=akn_element,
-    ))
-    return result
+    """No-op — chunks are RAG artifacts for LightRAG only.
+
+    Neither vault nor TiddlyWiki receives chunk data.
+    Returns a dummy path for API compatibility.
+    """
+    dummy_path = Path(vault_root) / "chunks" / slug / f"chunk-{chunk_index + 1:03d}.md"
+    return dummy_path
 
 
 def write_chunk_index(
@@ -234,18 +234,9 @@ def write_chunk_index(
     document_title: str = "",
     document_summary: str = "",
 ) -> Path:
-    """Write chunk index to vault, then mirror to TiddlyWiki."""
-    result = vault_io.write_chunk_index(
-        vault_root, slug,
-        total_chunks=total_chunks, total_tokens=total_tokens,
-        document_title=document_title, document_summary=document_summary,
-    )
-    _schedule_wiki(_wiki_write_with_retry(
-        wiki_io.write_chunk_index, get_client(), slug,
-        total_chunks=total_chunks, total_tokens=total_tokens,
-        document_title=document_title, document_summary=document_summary,
-    ))
-    return result
+    """No-op — chunk index is a RAG artifact, not needed in vault or TiddlyWiki."""
+    dummy_path = Path(vault_root) / "chunks" / slug / "_index.md"
+    return dummy_path
 
 
 def write_table_note(
@@ -273,6 +264,7 @@ def write_table_note(
     )
     _schedule_wiki(_wiki_write_with_retry(
         wiki_io.write_table_note, get_client(), slug, table_id,
+        slug=slug,
         page=page, caption=caption, headers=headers, rows=rows,
         markdown=markdown, context_before=context_before,
         context_after=context_after, doc_meta=doc_meta,
@@ -297,6 +289,7 @@ def update_pipeline_stage(
     if slug and tiddler_title:
         _schedule_wiki(_wiki_write_with_retry(
             wiki_io.update_pipeline_stage, get_client(), slug, tiddler_title, new_stage,
+            slug=slug,
         ))
     return result
 
@@ -313,14 +306,20 @@ def write_note(
     """Write a generic note to vault, then mirror to TiddlyWiki.
 
     For the wiki mirror, pass slug + tiddler_title + tags.
+    Notes under chunks/ are RAG artifacts — skip both vault and TiddlyWiki.
     """
-    result = vault_io.write_note(vault_root, rel_path, metadata, body)
+    if str(rel_path).startswith("chunks/"):
+        # Chunks are RAG artifacts — skip vault and TiddlyWiki entirely
+        return Path(vault_root) / rel_path
+    else:
+        result = vault_io.write_note(vault_root, rel_path, metadata, body)
 
     if slug and tiddler_title:
         fields = {k: str(v) if not isinstance(v, str) else v
                   for k, v in metadata.items() if k != "type"}
         _schedule_wiki(_wiki_write_with_retry(
             wiki_io.write_note_generic, get_client(), slug, tiddler_title,
+            slug=slug,
             text=body, tags=tags, fields=fields,
         ))
     return result
@@ -335,6 +334,7 @@ def write_parse_json(vault_root: str | Path, slug: str, data: Dict[str, Any]) ->
     result = vault_io.write_parse_json(vault_root, slug, data)
     _schedule_wiki(_wiki_write_with_retry(
         wiki_io.write_parse_json, get_client(), slug, data,
+        slug=slug,
     ))
     return result
 
@@ -344,6 +344,7 @@ def write_tree_json(vault_root: str | Path, slug: str, data: Dict[str, Any]) -> 
     result = vault_io.write_tree_json(vault_root, slug, data)
     _schedule_wiki(_wiki_write_with_retry(
         wiki_io.write_tree_json, get_client(), slug, data,
+        slug=slug,
     ))
     return result
 
@@ -353,6 +354,7 @@ def write_tables_json(vault_root: str | Path, slug: str, data: Dict[str, Any]) -
     result = vault_io.write_tables_json(vault_root, slug, data)
     _schedule_wiki(_wiki_write_with_retry(
         wiki_io.write_tables_json, get_client(), slug, data,
+        slug=slug,
     ))
     return result
 
@@ -362,6 +364,7 @@ def write_akn_json(vault_root: str | Path, slug: str, data: Dict[str, Any]) -> P
     result = vault_io.write_akn_json(vault_root, slug, data)
     _schedule_wiki(_wiki_write_with_retry(
         wiki_io.write_akn_json, get_client(), slug, data,
+        slug=slug,
     ))
     return result
 
@@ -373,5 +376,6 @@ def write_sidecar_json(
     result = vault_io.write_sidecar_json(vault_root, slug, filename, data)
     _schedule_wiki(_wiki_write_with_retry(
         wiki_io.write_sidecar_json, get_client(), slug, filename, data,
+        slug=slug,
     ))
     return result

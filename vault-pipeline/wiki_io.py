@@ -1,21 +1,31 @@
 """
 Wiki I/O — TiddlyWiki MWS equivalent of vault_io.py.
 
-Maps all Obsidian vault operations to TiddlyWiki tiddler operations.
+Maps Obsidian vault operations to TiddlyWiki tiddler operations.
 Each PDF document corresponds to one wiki (recipe) in MWS, named by slug.
 
+Tag hierarchy model:
+  Each section tiddler is tagged with:
+    - The document slug (e.g. "demo-resolution-plan") → groups all sections in one doc
+    - The parent section title → TiddlyWiki renders this as a tag tree
+    - Content tags (doc_type, IBC section refs) → cross-document navigation
+
+  This gives a collapsible tag tree in TiddlyWiki:
+    demo-resolution-plan
+    ├── Section 1: demo-resolution-plan.pdf
+    │   ├── Section 10: IBBI/IPA-001/...
+    │   └── Section 14: Resolution Applicant...
+    └── Section 2: Untitled
+
 Tiddler naming convention:
-  - "Source Index"          → sources/{slug}/_index.md
-  - "Full Text"            → sources/{slug}/full-text.md
-  - "Section {id}: {title}" → sources/{slug}/sections/sec-{id}-{title}.md
-  - "Chunk {nnn}"          → chunks/{slug}/chunk-{nnn}.md
-  - "Chunk Index"           → chunks/{slug}/_index.md
-  - "Table {id}: {caption}" → sources/{slug}/tables/table-{id}-{caption}.md
-  - "Parse Data"            → sources/{slug}/_parse.json
-  - "Tree Data"             → sources/{slug}/_tree.json
-  - "Tables Data"           → sources/{slug}/_tables.json
-  - "AKN Data"              → sources/{slug}/_akn.json
-  - etc.
+  - "Source Index"               → document dashboard
+  - "Full Text"                  → complete document text
+  - "Section {id}: {title}"      → section paragraph (tagged with hierarchy)
+  - "Table {id}: {caption}"      → extracted table
+  - JSON sidecars                → Parse Data, Tree Data, etc.
+
+Chunk tiddlers are NO LONGER written — chunks are RAG artifacts
+that go to LightRAG only, not TiddlyWiki.
 
 All functions are async and take (client: MWSClient, slug: str, ...) instead of
 (vault_root: str | Path, slug: str, ...).
@@ -58,7 +68,9 @@ def _make_tags(*tags: str) -> str:
     """Format tags for TiddlyWiki (space-separated, [[brackets]] for multi-word)."""
     parts = []
     for t in tags:
-        if " " in t:
+        if not t:
+            continue
+        if " " in t or "/" in t:
             parts.append(f"[[{t}]]")
         else:
             parts.append(t)
@@ -79,6 +91,33 @@ def _deserialize_list(s: Optional[str]) -> List[str]:
         return result if isinstance(result, list) else []
     except (json.JSONDecodeError, TypeError):
         return []
+
+
+def _extract_section_title(parent: str) -> str:
+    """Extract a TiddlyWiki-compatible tag from a parent wikilink.
+
+    Turns '[[sources/slug/sections/sec-1-foo.md]]' into 'Section 1: foo'
+    or returns the raw string if it's already a tiddler title like 'Section 1: foo'.
+    """
+    if not parent:
+        return ""
+    # If it's already a tiddler title reference like [[Section 1: foo]]
+    stripped = parent.strip("[]")
+    if stripped.startswith("Section "):
+        return stripped
+    # Vault-style wikilink: [[sources/slug/sections/sec-N-title.md]]
+    # Extract section ID and title from filename
+    if "sections/" in stripped:
+        filename = stripped.split("sections/")[-1].rstrip(".md")
+        # sec-N-title -> Section N: title
+        if filename.startswith("sec-"):
+            parts = filename[4:].split("-", 1)
+            sec_num = parts[0]
+            sec_title = parts[1].replace("-", " ") if len(parts) > 1 else ""
+            if sec_title:
+                return f"Section {sec_num}: {sec_title}"
+            return f"Section {sec_num}"
+    return stripped
 
 
 # ──────────────────────────────────────────────────────────────
@@ -114,7 +153,10 @@ async def write_source_index(
     children: List[str] | None = None,
     pipeline_stage: str = "liteparse",
 ) -> None:
-    """Write the Source Index tiddler. Parallel to vault_io.write_source_index()."""
+    """Write the Source Index tiddler — the document dashboard.
+
+    Tagged with the slug so all sections can find their root.
+    """
     now = datetime.now(timezone.utc).isoformat()
     fields = {
         "slug": slug,
@@ -132,19 +174,29 @@ async def write_source_index(
         fields["parties"] = _serialize_list(parties)
     if statutory_refs:
         fields["statutory_refs"] = _serialize_list(statutory_refs)
-    if children:
-        fields["children"] = _serialize_list(children)
 
+    # Build dashboard body
     body = f"# {filename}\n\n"
     body += f"**Pages:** {total_pages} | **Characters:** {total_chars:,}\n\n"
     if source_url:
         body += f"**Source:** [{source_url}]({source_url})\n\n"
+    if doc_type and doc_type != "other":
+        body += f"**Type:** {doc_type}\n\n"
+    if doc_date:
+        body += f"**Date:** {doc_date}\n\n"
+    if parties:
+        body += f"**Parties:** {', '.join(parties)}\n\n"
     body += f"**Pipeline stage:** {pipeline_stage}\n"
+
+    # Tag with slug + doc_type so sections can reference it
+    tags = [slug]
+    if doc_type and doc_type != "other":
+        tags.append(doc_type)
 
     await client.put_tiddler(
         slug, "Source Index",
         text=body,
-        tags=_make_tags("source-document"),
+        tags=_make_tags(*tags),
         fields=fields,
     )
 
@@ -156,7 +208,7 @@ async def write_full_text(
     *,
     filename: str,
 ) -> None:
-    """Write the Full Text tiddler. Parallel to vault_io.write_full_text()."""
+    """Write the Full Text tiddler — complete document text."""
     fields = {
         "source": "[[Source Index]]",
         "filename": filename,
@@ -164,7 +216,7 @@ async def write_full_text(
     await client.put_tiddler(
         slug, "Full Text",
         text=text,
-        tags=_make_tags("full-text"),
+        tags=_make_tags(slug, "full-text"),
         fields=fields,
     )
 
@@ -186,32 +238,49 @@ async def write_section_note(
     children: List[str] | None = None,
     is_leaf: bool = False,
 ) -> None:
-    """Write a Section tiddler. Parallel to vault_io.write_section_note()."""
+    """Write a Section tiddler with tag-based hierarchy.
+
+    Tags create a navigable tree in TiddlyWiki:
+      - slug → groups all sections in this document
+      - parent section title → TiddlyWiki renders parent→child tree
+      - doc-level tags for cross-document navigation
+
+    Content is the clean paragraph text (no enrichment headers).
+    """
     tiddler_title = f"Section {section_id}: {title}"
+    parent_tag = _extract_section_title(parent)
+
     fields = {
-        "source": "[[Source Index]]",
         "level": str(level),
         "heading_level": str(heading_level),
         "page_start": str(page_start),
         "page_end": str(page_end),
         "word_count": str(word_count),
-        "summary": summary,
         "is_leaf": str(is_leaf).lower(),
         "pipeline_stage": "pageindex",
         "section_id": section_id,
     }
-    if parent:
-        fields["parent"] = parent
+    if summary:
+        fields["summary"] = summary
     if children:
         fields["children"] = _serialize_list(children)
+
+    # Build tag hierarchy: slug + parent section + doc tag
+    tags = [slug]
+    if parent_tag:
+        tags.append(parent_tag)
 
     await client.put_tiddler(
         slug, tiddler_title,
         text=content,
-        tags=_make_tags("section-node"),
+        tags=_make_tags(*tags),
         fields=fields,
     )
 
+
+# ──────────────────────────────────────────────────────────────
+# Chunk operations — stubs only (chunks go to LightRAG, not TiddlyWiki)
+# ──────────────────────────────────────────────────────────────
 
 async def write_chunk_note(
     client: MWSClient,
@@ -234,40 +303,8 @@ async def write_chunk_note(
     statutory_refs: List[str] | None = None,
     akn_element: str = "",
 ) -> None:
-    """Write a Chunk tiddler. Parallel to vault_io.write_chunk_note()."""
-    tiddler_title = f"Chunk {chunk_index + 1:03d}"
-    fields = {
-        "source": source_wikilink or "[[Source Index]]",
-        "section": section_wikilink,
-        "chunk_index": str(chunk_index),
-        "total_chunks": str(total_chunks),
-        "page_start": str(page_start),
-        "page_end": str(page_end),
-        "token_count": str(token_count),
-        "level": str(level),
-        "parent_context": parent_context,
-        "has_overlap": str(has_overlap).lower(),
-        "pipeline_stage": "semchunk",
-        "lightrag_ingested": "false",
-        "ingested_at": "",
-    }
-    if doc_type:
-        fields["doc_type"] = doc_type
-    if doc_date:
-        fields["doc_date"] = doc_date
-    if parties:
-        fields["parties"] = _serialize_list(parties)
-    if statutory_refs:
-        fields["statutory_refs"] = _serialize_list(statutory_refs)
-    if akn_element:
-        fields["akn_element"] = akn_element
-
-    await client.put_tiddler(
-        slug, tiddler_title,
-        text=content,
-        tags=_make_tags("contextualized-chunk"),
-        fields=fields,
-    )
+    """No-op — chunks are RAG artifacts, sent to LightRAG only."""
+    pass
 
 
 async def write_chunk_index(
@@ -279,25 +316,8 @@ async def write_chunk_index(
     document_title: str = "",
     document_summary: str = "",
 ) -> None:
-    """Write the Chunk Index tiddler. Parallel to vault_io.write_chunk_index()."""
-    fields = {
-        "source": "[[Source Index]]",
-        "total_chunks": str(total_chunks),
-        "total_tokens": str(total_tokens),
-        "document_title": document_title,
-        "document_summary": document_summary,
-        "pipeline_stage": "semchunk",
-    }
-    body = f"# Chunks: {document_title or slug}\n\n"
-    body += f"**Total chunks:** {total_chunks} | **Total tokens:** {total_tokens:,}\n\n"
-    body += f"**Pipeline stage:** semchunk\n"
-
-    await client.put_tiddler(
-        slug, "Chunk Index",
-        text=body,
-        tags=_make_tags("chunk-index"),
-        fields=fields,
-    )
+    """No-op — chunk index is a RAG artifact, not needed in TiddlyWiki."""
+    pass
 
 
 async def update_pipeline_stage(
@@ -306,7 +326,7 @@ async def update_pipeline_stage(
     tiddler_title: str,
     new_stage: str,
 ) -> None:
-    """Update the pipeline_stage field in a tiddler. Parallel to vault_io.update_pipeline_stage()."""
+    """Update the pipeline_stage field in a tiddler."""
     tiddler = await client.get_tiddler(slug, tiddler_title)
     if tiddler is None:
         logger.warning(f"Tiddler '{tiddler_title}' not found in wiki '{slug}'")
@@ -339,10 +359,9 @@ async def write_table_note(
     doc_meta: Dict[str, Any] | None = None,
     ibc_table_type: str = "",
 ) -> None:
-    """Write a Table tiddler. Parallel to vault_io.write_table_note()."""
+    """Write a Table tiddler — tagged with slug for document grouping."""
     tiddler_title = f"Table {table_id}: {caption}"
     fields = {
-        "source": "[[Source Index]]",
         "table_id": table_id,
         "page": str(page),
         "caption": caption,
@@ -366,10 +385,15 @@ async def write_table_note(
         body += f"\n\n*{context_after.strip()}*"
     body += f"\n\n*Source: Page {page}*"
 
+    # Tag with slug so tables appear in the document's tag tree
+    tags = [slug, "table"]
+    if ibc_table_type:
+        tags.append(ibc_table_type)
+
     await client.put_tiddler(
         slug, tiddler_title,
         text=body,
-        tags=_make_tags("table-note"),
+        tags=_make_tags(*tags),
         fields=fields,
     )
 
@@ -378,40 +402,20 @@ async def write_table_note(
 # Read operations
 # ──────────────────────────────────────────────────────────────
 
-async def read_all_chunks(client: MWSClient, slug: str) -> List[WikiNote]:
-    """Read all chunk tiddlers for a wiki, sorted by chunk_index.
-    Parallel to vault_io.read_all_chunks().
-    """
-    tiddlers = await client.get_tiddlers_by_tag(slug, "contextualized-chunk")
-    chunks = []
-    for t in tiddlers:
-        full = await client.get_tiddler(slug, t.get("title", ""))
-        if full is None:
-            continue
-        metadata = {k: v for k, v in full.items() if k not in ("text",)}
-        metadata["fields"] = full.get("fields", {})
-        chunks.append(WikiNote(
-            title=full.get("title", ""),
-            metadata=metadata,
-            body=full.get("text", ""),
-        ))
-    # Sort by chunk_index field
-    chunks.sort(key=lambda n: int(n.metadata.get("fields", {}).get("chunk_index", "0")))
-    return chunks
-
-
 async def read_all_sections(client: MWSClient, slug: str) -> List[WikiNote]:
-    """Read all section tiddlers for a wiki.
-    Parallel to vault_io.read_all_sections().
-    """
-    tiddlers = await client.get_tiddlers_by_tag(slug, "section-node")
+    """Read all section tiddlers for a wiki."""
+    tiddlers = await client.get_tiddlers_by_tag(slug, slug)
     sections = []
     for t in tiddlers:
         full = await client.get_tiddler(slug, t.get("title", ""))
         if full is None:
             continue
+        # Only return tiddlers that are sections (have section_id field)
+        fields = full.get("fields", {})
+        if "section_id" not in fields:
+            continue
         metadata = {k: v for k, v in full.items() if k not in ("text",)}
-        metadata["fields"] = full.get("fields", {})
+        metadata["fields"] = fields
         sections.append(WikiNote(
             title=full.get("title", ""),
             metadata=metadata,
@@ -421,10 +425,8 @@ async def read_all_sections(client: MWSClient, slug: str) -> List[WikiNote]:
 
 
 async def read_all_tables(client: MWSClient, slug: str) -> List[WikiNote]:
-    """Read all table tiddlers for a wiki.
-    Parallel to vault_io.read_all_tables().
-    """
-    tiddlers = await client.get_tiddlers_by_tag(slug, "table-note")
+    """Read all table tiddlers for a wiki."""
+    tiddlers = await client.get_tiddlers_by_tag(slug, "table")
     tables = []
     for t in tiddlers:
         full = await client.get_tiddler(slug, t.get("title", ""))
@@ -446,7 +448,7 @@ async def read_all_tables(client: MWSClient, slug: str) -> List[WikiNote]:
 
 async def write_parse_json(client: MWSClient, slug: str, data: Dict[str, Any]) -> None:
     """Cache the LiteParse response as a JSON tiddler."""
-    await client.put_json_tiddler(slug, "Parse Data", data, tags=_make_tags("parse-data"))
+    await client.put_json_tiddler(slug, "Parse Data", data, tags=_make_tags(slug, "parse-data"))
 
 
 async def read_parse_json(client: MWSClient, slug: str) -> Optional[Dict[str, Any]]:
@@ -456,7 +458,7 @@ async def read_parse_json(client: MWSClient, slug: str) -> Optional[Dict[str, An
 
 async def write_tree_json(client: MWSClient, slug: str, data: Dict[str, Any]) -> None:
     """Cache the PageIndex tree as a JSON tiddler."""
-    await client.put_json_tiddler(slug, "Tree Data", data, tags=_make_tags("tree-data"))
+    await client.put_json_tiddler(slug, "Tree Data", data, tags=_make_tags(slug, "tree-data"))
 
 
 async def read_tree_json(client: MWSClient, slug: str) -> Optional[Dict[str, Any]]:
@@ -466,7 +468,7 @@ async def read_tree_json(client: MWSClient, slug: str) -> Optional[Dict[str, Any
 
 async def write_tables_json(client: MWSClient, slug: str, data: Dict[str, Any]) -> None:
     """Write structured table data as a JSON tiddler."""
-    await client.put_json_tiddler(slug, "Tables Data", data, tags=_make_tags("tables-data"))
+    await client.put_json_tiddler(slug, "Tables Data", data, tags=_make_tags(slug, "tables-data"))
 
 
 async def read_tables_json(client: MWSClient, slug: str) -> Optional[Dict[str, Any]]:
@@ -476,7 +478,7 @@ async def read_tables_json(client: MWSClient, slug: str) -> Optional[Dict[str, A
 
 async def write_akn_json(client: MWSClient, slug: str, data: Dict[str, Any]) -> None:
     """Write AKN-lite annotation as a JSON tiddler."""
-    await client.put_json_tiddler(slug, "AKN Data", data, tags=_make_tags("akn-data"))
+    await client.put_json_tiddler(slug, "AKN Data", data, tags=_make_tags(slug, "akn-data"))
 
 
 async def read_akn_json(client: MWSClient, slug: str) -> Optional[Dict[str, Any]]:
@@ -495,6 +497,7 @@ _SIDECAR_TITLE_MAP = {
     "_entities.json": "Entities Data",
     "_citations.json": "Citations Data",
     "_meta.json": "Meta Data",
+    "_rpv.json": "RPV Data",
 }
 
 
@@ -504,14 +507,10 @@ async def write_sidecar_json(
     filename: str,
     data: Dict[str, Any],
 ) -> None:
-    """Write any sidecar JSON as a tiddler.
-    Parallel to vault_io.write_sidecar_json().
-
-    Used for _timeline.json, _obligations.json, _entities.json, _citations.json.
-    """
+    """Write any sidecar JSON as a tiddler."""
     title = _SIDECAR_TITLE_MAP.get(filename, filename.replace("_", " ").replace(".json", " Data").title())
     tag_name = filename.replace("_", "").replace(".json", "-data")
-    await client.put_json_tiddler(slug, title, data, tags=_make_tags(tag_name))
+    await client.put_json_tiddler(slug, title, data, tags=_make_tags(slug, tag_name))
 
 
 async def read_sidecar_json(

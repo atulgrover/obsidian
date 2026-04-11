@@ -663,11 +663,6 @@ async def chunk_from_vault(request: ChunkFromVaultRequest):
             )
             chunks = chunker.generate_chunks(tree)
             _write_chunks_to_vault(request.slug, chunks, tree.title, tree.summary)
-            max_tokens=request.maxTokens,
-            overlap_tokens=request.overlapTokens,
-        )
-        chunks = chunker.generate_chunks(tree)
-        _write_chunks_to_vault(request.slug, chunks, tree.title, tree.summary)
 
         return ChunkFromVaultResponse(
             success=True,

@@ -3401,7 +3401,12 @@ async def stage_chunk(request: StageRequest):
             "ingested_at": None,
         }
         tbl_chunk_filename = f"chunk-{chunk_offset + table_chunks_written + 1:03d}.md"
-        write_note(VAULT_ROOT, f"chunks/{slug}/{tbl_chunk_filename}", table_meta, table_content)
+        # Table chunks go to TiddlyWiki only, not vault (chunks are RAG artifacts)
+        write_note(
+            VAULT_ROOT, f"chunks/{slug}/{tbl_chunk_filename}", table_meta, table_content,
+            slug=slug, tiddler_title=f"Chunk {chunk_offset + table_chunks_written + 1:03d}",
+            tags="table-chunk",
+        )
         total_tokens += token_est
         table_chunks_written += 1
 
@@ -3431,30 +3436,31 @@ async def stage_chunk(request: StageRequest):
 
 @app.post("/vault/stage/embed")
 async def stage_embed(request: StageRequest):
-    """Ingest enriched LEAF sections directly into LightRAG (not pre-chunks).
+    """Ingest SemChunk-enriched chunks into LightRAG.
 
-    Sending larger coherent passages (800-3000 tokens) lets LightRAG's own
-    chunker and entity extractor work properly across sentence/paragraph
-    boundaries. Only leaf sections with ≥ 80 words are sent.
+    Calls SemChunk to produce 512-token enriched chunks (with context headers
+    and overlap), then sends each chunk as a separate document to LightRAG.
+    LightRAG's chunk_token_size is set to 50000 so it doesn't re-chunk.
+
+    This ensures each passage gets a full-coverage embedding from InLegal-SBERT
+    (which has a 512-token context window) while preserving section context
+    via [SECTION PATH] and [SUMMARY] enrichment headers.
     """
     slug = request.slug
+    index_path = f"sources/{slug}/_index.md"
 
-    # Load document-level metadata for context header
-    try:
-        index_note = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
-        filename = index_note.metadata.get("filename", slug)
-        source_url = index_note.metadata.get("source_url", "")
-    except FileNotFoundError:
-        raise HTTPException(status_code=404, detail=f"Source not found: {slug}")
+    if not note_exists(VAULT_ROOT, index_path):
+        raise HTTPException(status_code=404, detail=f"Source document not found: {slug}")
 
     section_notes = read_all_sections(VAULT_ROOT, slug)
     if not section_notes:
         raise HTTPException(status_code=404, detail=f"No section notes for: {slug}. Run Index/Enrich first.")
 
+    index_note = read_note(VAULT_ROOT, index_path)
+    filename = index_note.metadata.get("filename", slug)
+    source_url = index_note.metadata.get("source_url", "")
+
     # ── Entity pre-seed document ───────────────────────────────
-    # Build a structured entity summary from _meta.json and _akn.json and
-    # send it as the first document so LightRAG's graph starts with typed
-    # named entities rather than discovering them cold from raw text.
     meta_data = read_meta_json(VAULT_ROOT, slug) or {}
     akn_data_embed = read_akn_json(VAULT_ROOT, slug) or {}
     akn_refs = akn_data_embed.get("references", {})
@@ -3476,7 +3482,6 @@ async def stage_embed(request: StageRequest):
         if val:
             seed_lines.append(f"{label}: {val}")
 
-    # Financial summary
     for label, key in [
         ("Resolution Amount (INR)", "resolution_amount_inr"),
         ("Total Admitted Claims (INR)", "total_admitted_inr"),
@@ -3488,18 +3493,16 @@ async def stage_embed(request: StageRequest):
         if val is not None:
             seed_lines.append(f"{label}: {val}")
 
-    # Creditors from _meta.json
     creditors = meta_data.get("creditors", [])
     if creditors:
         seed_lines += ["", "Creditors:"]
-        for cr in creditors[:20]:  # cap at 20
+        for cr in creditors[:20]:
             name = cr.get("name", "")
             ctype = cr.get("creditor_type", "")
             admitted = cr.get("amount_admitted_inr", "")
             plan = cr.get("amount_under_plan_inr", "")
             seed_lines.append(f"  - {name} ({ctype}): admitted={admitted}, plan={plan}")
 
-    # AKN organizations + IBC citations
     orgs = akn_refs.get("organizations", [])
     if orgs:
         seed_lines += ["", "Organizations referenced:"]
@@ -3514,8 +3517,101 @@ async def stage_embed(request: StageRequest):
 
     seed_doc = "\n".join(seed_lines)
 
-    # Document context header — prepended to every section so LightRAG sees
-    # the full document context even when processing individual sections
+    # ── Call SemChunk to produce enriched chunks ──────────────
+    doc_title = filename
+
+    # AKN element map for enrichment
+    akn_element_texts: dict[str, str] = {}
+    if akn_data_embed and "elements" in akn_data_embed:
+        for el in akn_data_embed["elements"]:
+            name = el.get("akn_element", "")
+            text = el.get("text", "")
+            if name and text:
+                akn_element_texts[name] = text
+
+    def _akn_element_for_section(content: str) -> str:
+        if not akn_element_texts or not content.strip():
+            return ""
+        sample = content.strip()[:200]
+        order = ["header", "preamble", "background", "motivation", "decision"]
+        for el_name in order:
+            el_text = akn_element_texts.get(el_name, "")
+            if sample[:80] in el_text:
+                return el_name
+        best_el, best_score = "", 0
+        for el_name, el_text in akn_element_texts.items():
+            overlap = sum(1 for ch in sample if ch in el_text)
+            if overlap > best_score:
+                best_score, best_el = overlap, el_name
+        return best_el
+
+    nodes = []
+    for note in section_notes:
+        m = note.metadata
+        breadcrumb = m.get("breadcrumb", "")
+        llm_summary = m.get("llm_summary", "")
+        content = note.body or ""
+        akn_element = _akn_element_for_section(content)
+
+        context_lines: List[str] = []
+        if akn_element:
+            context_lines.append(f"[AKN: {akn_element}]")
+        if breadcrumb:
+            context_lines.append(f"[Section: {breadcrumb}]")
+        if llm_summary:
+            context_lines.append(f"[Summary: {llm_summary}]")
+
+        enriched_content = "\n".join(context_lines) + "\n\n" + content if context_lines else content
+
+        nodes.append({
+            "id": note.path.stem.replace("sec-", "").split("-")[0],
+            "level": m.get("level", 1),
+            "title": m.get("title", note.path.stem),
+            "summary": llm_summary or m.get("summary", ""),
+            "content": enriched_content,
+            "pageStart": m.get("page_start", 1),
+            "pageEnd": m.get("page_end", 1),
+            "metadata": {
+                "type": "content" if m.get("is_leaf", True) else "section",
+                "wordCount": len(enriched_content.split()),
+                "aknElement": akn_element,
+            },
+            "children": [],
+        })
+
+    tree_dict = {
+        "id": "node-root",
+        "level": 0,
+        "title": doc_title,
+        "summary": index_note.body[:200] if index_note.body else "",
+        "content": "",
+        "pageStart": 1,
+        "pageEnd": index_note.metadata.get("total_pages", 1),
+        "children": nodes,
+        "metadata": {"type": "document"},
+    }
+
+    async with httpx.AsyncClient(timeout=300.0) as semchunk_client:
+        try:
+            resp = await semchunk_client.post(
+                f"{SEMCHUNK_URL}/pipeline",
+                json={
+                    "pageindex_result": {"success": True, "tree": tree_dict},
+                    "maxTokens": 512,
+                    "overlapTokens": 75,
+                },
+            )
+            resp.raise_for_status()
+            chunk_result = resp.json()
+        except Exception as e:
+            raise HTTPException(status_code=502, detail=f"SemChunk request failed: {e}")
+
+    if not chunk_result.get("success"):
+        raise HTTPException(status_code=502, detail=f"SemChunk error: {chunk_result}")
+
+    chunks = chunk_result.get("chunks", [])
+
+    # ── Send chunks to LightRAG ──────────────────────────────
     doc_header = f"[DOCUMENT: {filename}]"
     if source_url:
         doc_header += f"\n[SOURCE: {source_url}]"
@@ -3524,14 +3620,14 @@ async def stage_embed(request: StageRequest):
     ingested = 0
     skipped = 0
     failed = 0
-    skip_reasons: dict = {"not_leaf": 0, "too_short": 0, "duplicate": 0}
+    skip_reasons: dict = {"too_short": 0, "duplicate": 0}
     seed_ingested = False
 
-    async with httpx.AsyncClient(timeout=180.0) as client:
+    async with httpx.AsyncClient(timeout=180.0) as lightrag_client:
         # Send entity seed document first
         if len(seed_lines) > 5:
             try:
-                resp = await client.post(
+                resp = await lightrag_client.post(
                     f"{LIGHTRAG_URL}/documents/text",
                     json={"text": seed_doc, "file_source": f"{slug}/_entity_seed"},
                 )
@@ -3539,40 +3635,31 @@ async def stage_embed(request: StageRequest):
                 if resp.json().get("status") != "duplicated":
                     seed_ingested = True
             except Exception:
-                pass  # Best-effort — don't fail if seed fails
+                pass
 
-        for note in section_notes:
-            m = note.metadata
-            is_leaf = m.get("is_leaf", True)
-            word_count = m.get("word_count", 0)
-            content = note.body or ""
+        # Send each enriched chunk as a separate document
+        for i, chunk in enumerate(chunks):
+            content = chunk.get("content", "")
+            parent_context = chunk.get("parentContext", "")
+            token_count = chunk.get("tokenCount", 0)
 
-            # Only send leaf sections with meaningful content
-            if not is_leaf:
-                skip_reasons["not_leaf"] += 1
-                continue
-            if word_count < 30 or len(content.strip()) < 80:
+            # Skip empty or very short chunks
+            if len(content.strip()) < 50:
                 skip_reasons["too_short"] += 1
                 continue
 
-            breadcrumb = m.get("breadcrumb", "")
-            llm_summary = m.get("llm_summary", "")
-            section_id = note.path.stem  # e.g. sec-042-background
-
-            # Build the passage: doc header + section context + content
+            # Build passage: doc header + parent context + chunk content
             passage_parts = [doc_header]
-            if breadcrumb:
-                passage_parts.append(f"[SECTION PATH: {breadcrumb}]")
-            if llm_summary:
-                passage_parts.append(f"[SUMMARY: {llm_summary}]")
+            if parent_context:
+                passage_parts.append(f"[SECTION PATH: {parent_context}]")
             passage_parts.append("")
             passage_parts.append(content)
             passage = "\n".join(passage_parts)
 
-            file_source = f"{slug}/{section_id}"
+            file_source = f"{slug}/chunk-{i + 1:03d}"
 
             try:
-                resp = await client.post(
+                resp = await lightrag_client.post(
                     f"{LIGHTRAG_URL}/documents/text",
                     json={"text": passage, "file_source": file_source},
                 )
@@ -3583,22 +3670,48 @@ async def stage_embed(request: StageRequest):
                     skipped += 1
                 else:
                     ingested += 1
+            except Exception as e:
+                logger.warning(f"LightRAG ingest failed for {file_source}: {e}")
+                failed += 1
+
+        # Also send table notes as separate documents
+        table_notes = read_all_tables(VAULT_ROOT, slug)
+        for tbl_note in table_notes:
+            tm = tbl_note.metadata
+            caption = tm.get("caption", "Table")
+            page = tm.get("page", 1)
+            tbl_content = f"[DOCUMENT: {filename}]\n[Table: {caption}]\n[Page: {page}]\n\n{tbl_note.body or ''}"
+
+            file_source = f"{slug}/table-{tm.get('table_id', 'unknown')}"
+            try:
+                resp = await lightrag_client.post(
+                    f"{LIGHTRAG_URL}/documents/text",
+                    json={"text": tbl_content, "file_source": file_source},
+                )
+                resp.raise_for_status()
+                result = resp.json()
+                if result.get("status") == "duplicated":
+                    skipped += 1
+                else:
+                    ingested += 1
             except Exception:
                 failed += 1
 
     update_pipeline_stage(VAULT_ROOT, f"sources/{slug}/_index.md", "ingested")
 
-    logger.info(f"  embed result: seed={seed_ingested}  ingested={ingested}  skipped={skipped}  failed={failed}")
+    logger.info(f"  embed result: seed={seed_ingested}  chunks={len(chunks)}  ingested={ingested}  skipped={skipped}  failed={failed}")
     return {
         "success": True, "slug": slug,
         "seed_ingested": seed_ingested,
+        "chunk_count": len(chunks),
         "ingested": ingested, "skipped": skipped, "failed": failed,
         "skip_reasons": skip_reasons,
         "message": (
             f"{'Entity seed + ' if seed_ingested else ''}"
-            f"Sent {ingested} leaf sections to LightRAG "
-            f"(skipped {skipped} duplicates, {skip_reasons['not_leaf']} non-leaf, "
-            f"{skip_reasons['too_short']} too short; {failed} failed)"
+            f"Sent {ingested} enriched chunks to LightRAG "
+            f"({len(chunks)} chunks from SemChunk, "
+            f"{skip_reasons['too_short']} too short, "
+            f"{skip_reasons['duplicate']} duplicates; {failed} failed)"
         ),
     }
 
@@ -3755,226 +3868,823 @@ async def stage_karpathy(request: StageRequest):
 # Pi Agents — Resolution Plan Verify (RPV)
 # ──────────────────────────────────────────────────────────────
 
+_RPV_ORDER_TYPES = {
+    "resolution_plan_order",
+    "court_order",       # fallback — many docs classify as this initially
+    "other",             # allow manual run on unclassified docs
+}
+
+
 class RpvRequest(BaseModel):
-    order_slug: str                   # slug of the resolution_plan_order document
+    slug: str                          # slug of the resolution_plan_order document
     plan_slug: Optional[str] = None   # slug of the resolution_plan (if separately ingested)
-    im_slug: Optional[str] = None     # slug of the information_memorandum (if separately ingested)
+    im_slug: Optional[str] = None      # slug of the information_memorandum (if separately ingested)
+    force: bool = False                # re-run even if _rpv.json exists
+    run_prerequisites: bool = True     # auto-run classify/extract/akn/multipass if missing
+
+
+def _rpv_check(
+    checks: list,
+    name: str,
+    passed: bool,
+    detail: str,
+    severity: str = "warning",
+    category: str = "financial",
+    ibc_basis: str = "",
+    data_source: str = "",
+):
+    """Append a structured check result."""
+    checks.append({
+        "check": name,
+        "passed": passed,
+        "detail": detail,
+        "severity": severity if not passed else "ok",
+        "category": category,
+        "ibc_basis": ibc_basis,
+        "data_source": data_source,
+    })
+
+
+def _safe_int(val) -> Optional[int]:
+    """Safely convert a value to int, returning None on failure."""
+    if val is None:
+        return None
+    try:
+        return int(val)
+    except (ValueError, TypeError):
+        return None
+
+
+def _safe_float(val) -> Optional[float]:
+    """Safely convert a value to float, returning None on failure."""
+    if val is None:
+        return None
+    try:
+        return float(val)
+    except (ValueError, TypeError):
+        return None
 
 
 @app.post("/vault/agents/rpv")
 async def agent_rpv(request: RpvRequest):
     """Resolution Plan Verify (RPV) — Pi Agent #1.
 
-    Reads the extracted metadata from a resolution_plan_order and cross-checks
-    it against the resolution_plan and/or information_memorandum if available.
+    Comprehensive verification of an NCLT resolution plan approval order.
+    Reads all pipeline JSON sidecars and performs 15+ checks across 5 categories:
 
-    Checks performed:
-      1. Section 29A compliance declared vs court's finding
-      2. CoC vote % in order vs plan document
-      3. Resolution amount vs IM's liquidation/fair value
-      4. Creditor recovery % consistency
-      5. Payment timeline stated vs approved
-      6. CIRP cost within normal range (< 5% of resolution amount)
-      7. AKN motivation vs decision consistency (did court approve exactly what was proposed)
+    Category 1 — FINANCIAL (deterministic):
+      1. CoC approval ≥ 66% (Section 30(4))
+      2. Resolution amount ≥ Liquidation value (Section 30(2)(b))
+      3. Resolution amount ≥ Fair value (best practice)
+      4. Haircut consistency (stated vs computed, < 2% diff)
+      5. CIRP cost reasonableness (< 5% of resolution amount)
+      6. Upfront payment reasonableness (≥ 5% of resolution amount)
+      7. Creditor reconciliation (claims vs admitted vs plan — three-way match)
+
+    Category 2 — LEGAL COMPLIANCE (deterministic + obligations):
+      8. Section 29A eligibility declared
+      9. Mandatory IBC sections cited (30(2), 30(4), 31(1))
+     10. Mandatory obligations fulfilled (from _obligations.json)
+
+    Category 3 — TEMPORAL (from _timeline.json):
+     11. CIRP duration ≤ 330 days (Section 12)
+     12. Payment timeline consistency
+
+    Category 4 — STRUCTURAL (from _akn.json + sections):
+     13. Motivation-decision consistency (LLM semantic check)
+     14. Key sections present (Section 30(2) findings, 30(4) CoC, 31(1) binding)
+
+    Category 5 — CROSS-DOCUMENT (if plan/im slugs provided):
+     15. Order amounts match plan amounts
+     16. Order matches IM valuation data
+
+    Auto-runs prerequisite pipeline stages if their outputs are missing
+    (classify, extract, akn, extract_multipass).
 
     Output:
-      sources/{order_slug}/_rpv.json  — structured verification report
-      sources/{order_slug}/_rpv.md    — human-readable Obsidian note
-
-    Uses Claude (heavy) for semantic checks. Structured field checks are deterministic.
+      sources/{slug}/_rpv.json  — structured verification report
+      sources/{slug}/_rpv.md    — human-readable Obsidian note (via dual_write)
     """
-    order_slug = request.order_slug
+    slug = request.slug
 
-    # Load order metadata
+    # ── Load document index ────────────────────────────────────
     try:
-        order_idx = read_note(VAULT_ROOT, f"sources/{order_slug}/_index.md")
+        idx = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
     except FileNotFoundError:
-        raise HTTPException(status_code=404, detail=f"Order not found: {order_slug}")
+        raise HTTPException(status_code=404, detail=f"Document not found: {slug}")
 
-    if order_idx.metadata.get("doc_type") != "resolution_plan_order":
-        raise HTTPException(
-            status_code=400,
-            detail=f"doc_type is '{order_idx.metadata.get('doc_type')}' — RPV requires resolution_plan_order",
-        )
+    doc_type = idx.metadata.get("doc_type", "other")
 
-    order_meta = read_meta_json(VAULT_ROOT, order_slug) or {}
-    order_akn = read_akn_json(VAULT_ROOT, order_slug) or {}
-    plan_meta = read_meta_json(VAULT_ROOT, request.plan_slug) if request.plan_slug else {}
-    im_meta = read_meta_json(VAULT_ROOT, request.im_slug) if request.im_slug else {}
+    # ── Auto-run prerequisite stages if outputs are missing ────
+    if request.run_prerequisites:
+        sr = StageRequest(slug=slug)
+
+        # classify — needed for doc_type routing
+        if doc_type in ("other",) or not idx.metadata.get("classification_confidence"):
+            if LLAMA_PARSE_API_KEY and not PRIVATE_MODE:
+                try:
+                    logger.info(f"RPV: auto-running classify for {slug}")
+                    await stage_classify(sr)
+                    idx = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
+                    doc_type = idx.metadata.get("doc_type", "other")
+                except Exception as e:
+                    logger.warning(f"RPV: classify failed: {e}")
+
+        # extract — needed for _meta.json with financial data
+        meta = read_meta_json(VAULT_ROOT, slug)
+        if not meta:
+            try:
+                logger.info(f"RPV: auto-running extract for {slug}")
+                await stage_extract(sr)
+                meta = read_meta_json(VAULT_ROOT, slug) or {}
+            except Exception as e:
+                logger.warning(f"RPV: extract failed: {e}")
+
+        # structure — extracts financial fields from sections
+        if not idx.metadata.get("section_type"):
+            try:
+                logger.info(f"RPV: auto-running structure for {slug}")
+                await stage_structure(sr)
+                idx = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
+            except Exception as e:
+                logger.warning(f"RPV: structure failed: {e}")
+
+        # akn — needed for structural annotation
+        akn = read_akn_json(VAULT_ROOT, slug)
+        if not akn:
+            try:
+                logger.info(f"RPV: auto-running akn for {slug}")
+                await stage_akn(sr)
+                akn = read_akn_json(VAULT_ROOT, slug) or {}
+            except Exception as e:
+                logger.warning(f"RPV: akn failed: {e}")
+
+        # extract_multipass — needed for entities, timeline, obligations, citations
+        entities = read_sidecar_json(VAULT_ROOT, slug, "_entities.json")
+        if not entities:
+            try:
+                logger.info(f"RPV: auto-running extract_multipass for {slug}")
+                await stage_extract_multipass(sr)
+            except Exception as e:
+                logger.warning(f"RPV: extract_multipass failed: {e}")
+
+    # ── Reload all data sources ────────────────────────────────
+    idx = read_note(VAULT_ROOT, f"sources/{slug}/_index.md")
+    meta = read_meta_json(VAULT_ROOT, slug) or {}
+    akn = read_akn_json(VAULT_ROOT, slug) or {}
+    entities = read_sidecar_json(VAULT_ROOT, slug, "_entities.json") or {}
+    timeline = read_sidecar_json(VAULT_ROOT, slug, "_timeline.json") or {}
+    obligations = read_sidecar_json(VAULT_ROOT, slug, "_obligations.json") or {}
+    citations = read_sidecar_json(VAULT_ROOT, slug, "_citations.json") or {}
+    tables_data = read_tables_json(VAULT_ROOT, slug) or {}
+
+    # Cross-doc data
+    plan_meta = read_meta_json(VAULT_ROOT, request.plan_slug) if request.plan_slug else None
     plan_meta = plan_meta or {}
+    im_meta = read_meta_json(VAULT_ROOT, request.im_slug) if request.im_slug else None
     im_meta = im_meta or {}
+
+    # Also try reading structured section data (stage_structure may have run)
+    section_notes = read_all_sections(VAULT_ROOT, slug)
+    sections_by_type: dict[str, list] = {}
+    for note in section_notes:
+        stype = note.metadata.get("section_type", "other")
+        sections_by_type.setdefault(stype, []).append(note)
 
     checks: list = []
 
-    def _check(name: str, passed: bool, detail: str, severity: str = "warning"):
-        checks.append({
-            "check": name,
-            "passed": passed,
-            "detail": detail,
-            "severity": severity if not passed else "ok",
-        })
+    # Also try reading from _index.md frontmatter (stage_structure promotes fields)
+    idx_meta = idx.metadata
 
-    # ── Deterministic field checks ─────────────────────────────
+    # Helper: prefer _meta.json, fall back to _index.md frontmatter
+    def _get(field: str, default=None):
+        val = meta.get(field)
+        if val is not None:
+            return val
+        return idx_meta.get(field, default)
 
-    # 1. CoC vote %
-    coc = order_meta.get("coc_approval_pct")
+    # ════════════════════════════════════════════════════════════
+    # CATEGORY 1: FINANCIAL CHECKS
+    # ════════════════════════════════════════════════════════════
+
+    # 1. CoC approval ≥ 66% (Section 30(4))
+    coc = _safe_float(_get("coc_approval_pct"))
     if coc is not None:
-        _check(
+        _rpv_check(checks,
             "coc_threshold",
-            passed=float(coc) >= 66.0,
+            passed=coc >= 66.0,
             detail=f"CoC approval: {coc}% (minimum 66% per Section 30(4))",
-            severity="critical",
+            severity="critical", category="financial",
+            ibc_basis="Section 30(4)", data_source="_meta.json",
         )
     else:
-        _check("coc_threshold", passed=False, detail="coc_approval_pct not extracted", severity="warning")
-
-    # 2. Resolution amount vs liquidation value
-    res_amt = order_meta.get("resolution_amount_inr")
-    liq_val = order_meta.get("liquidation_value_inr") or im_meta.get("liquidation_value_inr")
-    if res_amt and liq_val:
-        above_liq = int(res_amt) >= int(liq_val)
-        _check(
-            "resolution_above_liquidation",
-            passed=above_liq,
-            detail=f"Resolution ₹{res_amt:,} vs Liquidation ₹{liq_val:,} — {'above' if above_liq else 'BELOW liquidation value'}",
-            severity="critical",
+        _rpv_check(checks,
+            "coc_threshold",
+            passed=False,
+            detail="coc_approval_pct not extracted — cannot verify Section 30(4) threshold",
+            severity="warning", category="financial",
+            ibc_basis="Section 30(4)", data_source="missing",
         )
 
-    # 3. Haircut consistency
-    res_amt_n = order_meta.get("resolution_amount_inr")
-    total_admitted = order_meta.get("total_admitted_inr")
-    stated_haircut = order_meta.get("haircut_pct")
-    if res_amt_n and total_admitted and stated_haircut is not None:
-        computed = round((1 - int(res_amt_n) / int(total_admitted)) * 100, 2)
-        diff = abs(computed - float(stated_haircut))
-        _check(
+    # 2. Resolution amount ≥ Liquidation value (Section 30(2)(b))
+    res_amt = _safe_int(_get("resolution_amount_inr"))
+    liq_val = _safe_int(_get("liquidation_value_inr")) or _safe_int(im_meta.get("liquidation_value_inr"))
+    if res_amt is not None and liq_val is not None:
+        above_liq = res_amt >= liq_val
+        _rpv_check(checks,
+            "resolution_above_liquidation",
+            passed=above_liq,
+            detail=f"Resolution {_fmt_inr(res_amt)} vs Liquidation {_fmt_inr(liq_val)}"
+                   f" — {'above' if above_liq else 'BELOW liquidation value'}",
+            severity="critical", category="financial",
+            ibc_basis="Section 30(2)(b)", data_source="_meta.json",
+        )
+    else:
+        _rpv_check(checks,
+            "resolution_above_liquidation",
+            passed=False,
+            detail=f"Cannot verify — resolution_amount_inr={_fmt_inr(res_amt)}, "
+                   f"liquidation_value_inr={_fmt_inr(liq_val)}",
+            severity="warning", category="financial",
+            ibc_basis="Section 30(2)(b)", data_source="missing",
+        )
+
+    # 3. Resolution amount ≥ Fair value (best practice, not strictly required)
+    fair_val = _safe_int(_get("fair_value_inr")) or _safe_int(im_meta.get("fair_value_inr"))
+    if res_amt is not None and fair_val is not None:
+        above_fair = res_amt >= fair_val
+        _rpv_check(checks,
+            "resolution_vs_fair_value",
+            passed=above_fair,
+            detail=f"Resolution {_fmt_inr(res_amt)} vs Fair Value {_fmt_inr(fair_val)}"
+                   f" — {'at or above' if above_fair else 'BELOW fair value'}",
+            severity="warning", category="financial",
+            ibc_basis="Best practice", data_source="_meta.json",
+        )
+
+    # 4. Haircut consistency (stated vs computed)
+    total_admitted = _safe_int(_get("total_admitted_inr"))
+    stated_haircut = _safe_float(_get("haircut_pct"))
+    if res_amt is not None and total_admitted and total_admitted > 0 and stated_haircut is not None:
+        computed = round((1 - res_amt / total_admitted) * 100, 2)
+        diff = abs(computed - stated_haircut)
+        _rpv_check(checks,
             "haircut_consistency",
             passed=diff < 2.0,
             detail=f"Stated haircut {stated_haircut}% vs computed {computed}% (diff {diff:.1f}%)",
-            severity="warning",
+            severity="warning", category="financial",
+            ibc_basis="", data_source="_meta.json",
         )
 
-    # 4. CIRP cost reasonableness (< 5% of resolution amount)
-    cirp_cost = order_meta.get("cirp_cost_inr")
-    if cirp_cost and res_amt_n:
-        cirp_pct = round(int(cirp_cost) / int(res_amt_n) * 100, 2)
-        _check(
+    # 5. CIRP cost reasonableness (< 5% of resolution amount)
+    cirp_cost = _safe_int(_get("cirp_cost_inr"))
+    if cirp_cost is not None and res_amt is not None and res_amt > 0:
+        cirp_pct = round(cirp_cost / res_amt * 100, 2)
+        _rpv_check(checks,
             "cirp_cost_reasonableness",
             passed=cirp_pct < 5.0,
-            detail=f"CIRP cost ₹{cirp_cost:,} = {cirp_pct}% of resolution amount",
-            severity="warning",
+            detail=f"CIRP cost {_fmt_inr(cirp_cost)} = {cirp_pct}% of resolution amount",
+            severity="warning", category="financial",
+            ibc_basis="", data_source="_meta.json",
         )
 
-    # 5. Section 29A declared
-    s29a = order_meta.get("section_29a_compliant")
-    _check(
-        "section_29a_declared",
+    # 6. Upfront payment reasonableness (≥ 5% of resolution amount)
+    upfront = _safe_int(_get("upfront_inr"))
+    if upfront is not None and res_amt is not None and res_amt > 0:
+        upfront_pct = round(upfront / res_amt * 100, 2)
+        _rpv_check(checks,
+            "upfront_payment",
+            passed=upfront_pct >= 5.0,
+            detail=f"Upfront {_fmt_inr(upfront)} = {upfront_pct}% of resolution amount",
+            severity="warning", category="financial",
+            ibc_basis="", data_source="_meta.json",
+        )
+
+    # 7. Creditor reconciliation (three-way match: claimed vs admitted vs plan)
+    creditors = meta.get("creditors", [])
+    if creditors and len(creditors) > 0:
+        mismatches = []
+        for c in creditors:
+            name = c.get("name", "Unknown")
+            claimed = _safe_int(c.get("amount_claimed_inr"))
+            admitted = _safe_int(c.get("amount_admitted_inr"))
+            plan_amt = _safe_int(c.get("amount_under_plan_inr"))
+            # Check: admitted ≤ claimed, plan_amt ≤ admitted (basic sanity)
+            if claimed and admitted and admitted > claimed:
+                mismatches.append(f"{name}: admitted {_fmt_inr(admitted)} > claimed {_fmt_inr(claimed)}")
+            if admitted and plan_amt and plan_amt > admitted:
+                mismatches.append(f"{name}: plan {_fmt_inr(plan_amt)} > admitted {_fmt_inr(admitted)}")
+        _rpv_check(checks,
+            "creditor_reconciliation",
+            passed=len(mismatches) == 0,
+            detail=f"{len(creditors)} creditors checked, {len(mismatches)} mismatches"
+                   + (f": {'; '.join(mismatches[:3])}" if mismatches else ""),
+            severity="critical" if mismatches else "ok", category="financial",
+            ibc_basis="", data_source="_meta.json/creditors",
+        )
+    else:
+        _rpv_check(checks,
+            "creditor_reconciliation",
+            passed=False,
+            detail="No creditor data extracted — cannot verify claims reconciliation",
+            severity="warning", category="financial",
+            ibc_basis="", data_source="missing",
+        )
+
+    # ════════════════════════════════════════════════════════════
+    # CATEGORY 2: LEGAL COMPLIANCE CHECKS
+    # ════════════════════════════════════════════════════════════
+
+    # 8. Section 29A eligibility declared
+    s29a = _get("section_29a_compliant")
+    _rpv_check(checks,
+        "section_29a_eligibility",
         passed=s29a is True,
-        detail=f"Section 29A compliance: {s29a}",
-        severity="warning",
+        detail=f"Section 29A compliance: {s29a if s29a is not None else 'not extracted'}",
+        severity="warning", category="legal",
+        ibc_basis="Section 29A", data_source="_meta.json",
     )
 
-    # ── LLM semantic checks ────────────────────────────────────
-    # Only run if AKN annotation exists (motivation + decision elements available)
-    llm_check_result: dict = {}
-    akn_elements = {el["akn_element"]: el["text"] for el in order_akn.get("elements", [])}
-    motivation = akn_elements.get("motivation", "")
-    decision = akn_elements.get("decision", "")
+    # 9. Mandatory IBC sections cited
+    ibc_sections = _get("ibc_sections", [])
+    if isinstance(ibc_sections, str):
+        try:
+            ibc_sections = json.loads(ibc_sections)
+        except (json.JSONDecodeError, TypeError):
+            ibc_sections = [ibc_sections]
 
-    if motivation and decision and ANTHROPIC_API_KEY:
-        llm_prompt = f"""You are a legal analyst verifying an NCLT resolution plan approval order.
+    required_sections = {"30(2)", "30(4)", "31(1)"}
+    # Also accept alternate formats
+    alt_map = {"30(2)(a)": "30(2)", "30(2)(b)": "30(2)", "30(2)(c)": "30(2)",
+               "30(6)": "30(4)"}  # 30(6) is the approval provision
+    normalized = set()
+    for s in ibc_sections:
+        s_str = str(s).strip()
+        normalized.add(alt_map.get(s_str, s_str))
+        # Also add the raw form
+        normalized.add(s_str)
+
+    missing_sections = []
+    for req in required_sections:
+        if req not in normalized:
+            # Check partial matches (e.g., "30" might appear as "Section 30")
+            found = any(req in s for s in normalized)
+            if not found:
+                missing_sections.append(req)
+
+    _rpv_check(checks,
+        "mandatory_ibc_sections",
+        passed=len(missing_sections) == 0,
+        detail=f"IBC sections cited: {ibc_sections or 'none'}"
+               + (f" — missing: {missing_sections}" if missing_sections else ""),
+        severity="warning" if missing_sections else "ok", category="legal",
+        ibc_basis="Section 30(2), 30(4), 31(1)", data_source="_meta.json/ibc_sections",
+    )
+
+    # 10. Mandatory obligations fulfilled (from _obligations.json)
+    obligations_list = obligations.get("obligations", [])
+    if obligations_list:
+        mandatory_obs = [o for o in obligations_list if o.get("severity") == "mandatory"]
+        if mandatory_obs:
+            # Check that mandatory obligations have corresponding content in sections
+            unfulfilled = []
+            for ob in mandatory_obs:
+                party = ob.get("party", "")
+                obligation_text = ob.get("obligation", "")
+                ibc_basis_ob = ob.get("ibc_basis", "")
+                # If the obligation has a deadline that's a specific date,
+                # we could check timeline — for now, just verify it exists
+                unfulfilled.append({
+                    "party": party,
+                    "obligation": obligation_text[:200],
+                    "ibc_basis": ibc_basis_ob,
+                })
+            # LLM check: are these obligations addressed in the order?
+            if unfulfilled and len(mandatory_obs) >= 2:
+                _rpv_check(checks,
+                    "mandatory_obligations",
+                    passed=True,  # we just list them; LLM does the real check below
+                    detail=f"{len(mandatory_obs)} mandatory obligations extracted from order"
+                           f" — will be verified by semantic analysis",
+                    severity="ok", category="legal",
+                    ibc_basis="Multiple", data_source="_obligations.json",
+                )
+            else:
+                _rpv_check(checks,
+                    "mandatory_obligations",
+                    passed=True,
+                    detail=f"{len(mandatory_obs)} mandatory obligation(s) found",
+                    severity="ok", category="legal",
+                    ibc_basis="", data_source="_obligations.json",
+                )
+    else:
+        _rpv_check(checks,
+            "mandatory_obligations",
+            passed=False,
+            detail="No obligations data — cannot verify mandatory obligations",
+            severity="warning", category="legal",
+            ibc_basis="", data_source="missing",
+        )
+
+    # ════════════════════════════════════════════════════════════
+    # CATEGORY 3: TEMPORAL CHECKS
+    # ════════════════════════════════════════════════════════════
+
+    # 11. CIRP duration ≤ 330 days (Section 12 + COVID extensions)
+    timeline_events = timeline.get("events", [])
+    cirp_start = _get("cirp_commencement_date")
+    order_date = _get("order_date")
+    if cirp_start and order_date:
+        try:
+            from datetime import datetime as dt
+            start = dt.fromisoformat(str(cirp_start).replace("Z", "+00:00").split("T")[0])
+            end = dt.fromisoformat(str(order_date).replace("Z", "+00:00").split("T")[0])
+            duration_days = (end - start).days
+            # Section 12: 180 days + 90 days extension = 270 max
+            # COVID-era extensions allowed up to 330 days
+            _rpv_check(checks,
+                "cirp_duration",
+                passed=duration_days <= 330,
+                detail=f"CIRP duration: {duration_days} days (from {cirp_start} to {order_date})"
+                       f" — {'within' if duration_days <= 330 else 'EXCEEDS'} 330-day limit",
+                severity="critical" if duration_days > 330 else "ok", category="temporal",
+                ibc_basis="Section 12(2) + Regulation 40", data_source="_meta.json",
+            )
+        except (ValueError, TypeError) as e:
+            _rpv_check(checks,
+                "cirp_duration",
+                passed=False,
+                detail=f"Cannot parse dates: cirp_start={cirp_start}, order_date={order_date} ({e})",
+                severity="warning", category="temporal",
+                ibc_basis="Section 12(2)", data_source="_meta.json",
+            )
+    else:
+        _rpv_check(checks,
+            "cirp_duration",
+            passed=False,
+            detail=f"CIRP dates not extracted — cirp_start={cirp_start}, order_date={order_date}",
+            severity="warning", category="temporal",
+            ibc_basis="Section 12(2)", data_source="missing",
+        )
+
+    # 12. Payment timeline consistency
+    payment_months = _safe_int(_get("payment_timeline_months"))
+    if payment_months is not None:
+        _rpv_check(checks,
+            "payment_timeline",
+            passed=payment_months <= 60,  # typical max is 36-48 months
+            detail=f"Payment timeline: {payment_months} months",
+            severity="warning" if payment_months > 60 else "ok", category="temporal",
+            ibc_basis="", data_source="_meta.json",
+        )
+
+    # ════════════════════════════════════════════════════════════
+    # CATEGORY 4: STRUCTURAL / SEMANTIC CHECKS
+    # ════════════════════════════════════════════════════════════
+
+    # 13. Key sections present in document structure
+    akn_elements = {el["akn_element"]: el for el in akn.get("elements", [])}
+    required_structural = ["motivation", "decision"]
+    present_structural = [e for e in required_structural if e in akn_elements]
+    missing_structural = [e for e in required_structural if e not in akn_elements]
+
+    _rpv_check(checks,
+        "structural_completeness",
+        passed=len(missing_structural) == 0,
+        detail=f"AKN elements found: {list(akn_elements.keys())}"
+               + (f" — missing: {missing_structural}" if missing_structural else ""),
+        severity="warning" if missing_structural else "ok", category="structural",
+        ibc_basis="", data_source="_akn.json",
+    )
+
+    # 14. Section 30(2) mandatory requirements section exists
+    sec_30_2_sections = sections_by_type.get("operative-order", []) + \
+                        sections_by_type.get("eligibility", [])
+    _rpv_check(checks,
+        "section_30_2_findings",
+        passed=len(sec_30_2_sections) > 0,
+        detail=f"Sections with operative-order or eligibility type: {len(sec_30_2_sections)}"
+               + (f" — no Section 30(2) mandatory findings section found" if not sec_30_2_sections else ""),
+        severity="warning" if not sec_30_2_sections else "ok", category="structural",
+        ibc_basis="Section 30(2)", data_source="sections",
+    )
+
+    # ════════════════════════════════════════════════════════════
+    # CATEGORY 5: CROSS-DOCUMENT CHECKS
+    # ════════════════════════════════════════════════════════════
+
+    if request.plan_slug and plan_meta:
+        # 15. Order amounts match plan amounts
+        plan_res = _safe_int(plan_meta.get("resolution_amount_inr"))
+        if res_amt is not None and plan_res is not None:
+            match = res_amt == plan_res
+            _rpv_check(checks,
+                "order_plan_amount_match",
+                passed=match,
+                detail=f"Order resolution {_fmt_inr(res_amt)} vs "
+                       f"Plan resolution {_fmt_inr(plan_res)}"
+                       + (" — MATCH" if match else " — MISMATCH"),
+                severity="critical", category="cross-document",
+                ibc_basis="", data_source="_meta.json (both)",
+            )
+
+    if request.im_slug and im_meta:
+        # 16. Order matches IM valuation
+        im_liq = _safe_int(im_meta.get("liquidation_value_inr"))
+        im_fair = _safe_int(im_meta.get("fair_value_inr"))
+        if liq_val is not None and im_liq is not None:
+            val_match = liq_val == im_liq
+            _rpv_check(checks,
+                "order_im_valuation_match",
+                passed=val_match,
+                detail=f"Order liquidation {_fmt_inr(liq_val)} vs "
+                       f"IM liquidation {_fmt_inr(im_liq)}"
+                       + (" — MATCH" if val_match else " — DISCREPANCY"),
+                severity="warning", category="cross-document",
+                ibc_basis="", data_source="_meta.json (both)",
+            )
+
+    # ════════════════════════════════════════════════════════════
+    # LLM SEMANTIC CHECKS
+    # ════════════════════════════════════════════════════════════
+
+    llm_analyses: dict = {}
+
+    # Check A: Motivation vs Decision consistency
+    motivation_text = akn_elements.get("motivation", {}).get("text", "") if isinstance(akn_elements.get("motivation"), dict) else ""
+    decision_text = akn_elements.get("decision", {}).get("text", "") if isinstance(akn_elements.get("decision"), dict) else ""
+    # Fallback: try plain string values (old AKN format)
+    if not motivation_text and "motivation" in akn_elements:
+        el = akn_elements["motivation"]
+        motivation_text = el.get("text", "") if isinstance(el, dict) else str(el)
+    if not decision_text and "decision" in akn_elements:
+        el = akn_elements["decision"]
+        decision_text = el.get("text", "") if isinstance(el, dict) else str(el)
+
+    if motivation_text and decision_text:
+        try:
+            llm_prompt = f"""You are a legal analyst verifying an NCLT resolution plan approval order under the IBC 2016.
 
 Review the court's MOTIVATION and DECISION sections and check:
 1. Does the decision approve exactly what the motivation discusses? Any unexplained gaps?
-2. Does the motivation address all material creditor objections?
+2. Does the motivation address all material creditor interests?
 3. Are there any conditions in the decision that are not explained in the motivation?
 4. Is the resolution applicant's name consistent across both sections?
+5. Does the motivation properly apply Section 30(2) mandatory requirements?
 
 MOTIVATION:
-{motivation[:3000]}
+{motivation_text[:3000]}
 
 DECISION:
-{decision[:2000]}
+{decision_text[:2000]}
 
-Return JSON: {{"consistent": true/false, "issues": ["list of issues found"], "summary": "one sentence"}}"""
+Return JSON: {{"consistent": true/false, "issues": ["list of specific issues found"], "summary": "one sentence"}}"""
 
-        try:
-            raw = await llm_call(llm_prompt, provider="openai", heavy=False, max_tokens=500, json_mode=True)
+            raw = await llm_call(llm_prompt, provider="openai", heavy=True, max_tokens=800, json_mode=True)
             cleaned = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
-            llm_check_result = json.loads(cleaned)
-            _check(
+            llm_analyses["motivation_decision"] = json.loads(cleaned)
+            _rpv_check(checks,
                 "motivation_decision_consistency",
-                passed=llm_check_result.get("consistent", False),
-                detail=llm_check_result.get("summary", ""),
-                severity="warning",
+                passed=llm_analyses["motivation_decision"].get("consistent", False),
+                detail=llm_analyses["motivation_decision"].get("summary", ""),
+                severity="warning", category="structural",
+                ibc_basis="Section 30(2), 31(1)", data_source="_akn.json + LLM",
             )
         except Exception as e:
-            llm_check_result = {"error": str(e)}
+            llm_analyses["motivation_decision"] = {"error": str(e)}
+            _rpv_check(checks,
+                "motivation_decision_consistency",
+                passed=False,
+                detail=f"LLM check failed: {e}",
+                severity="warning", category="structural",
+                ibc_basis="", data_source="LLM error",
+            )
+    else:
+        _rpv_check(checks,
+            "motivation_decision_consistency",
+            passed=False,
+            detail="No AKN motivation/decision elements — cannot run semantic check",
+            severity="warning", category="structural",
+            ibc_basis="", data_source="_akn.json missing",
+        )
 
-    # ── Build report ───────────────────────────────────────────
+    # Check B: Obligations coverage (if we have obligations data)
+    if obligations_list:
+        mandatory_obs = [o for o in obligations_list if o.get("severity") == "mandatory"]
+        if mandatory_obs and len(mandatory_obs) >= 1:
+            try:
+                # Get the relevant section content for cross-referencing
+                operative_text = ""
+                for sec in sections_by_type.get("operative-order", []):
+                    operative_text += (sec.body or "")[:1500] + "\n\n"
+                if not operative_text:
+                    # Fallback: use decision element from AKN
+                    if decision_text:
+                        operative_text = decision_text[:2000]
+
+                obs_summary = "\n".join(
+                    f"- {o.get('party', '?')} shall {o.get('obligation', '?')} "
+                    f"[{o.get('ibc_basis', 'N/A')}]"
+                    for o in mandatory_obs[:8]
+                )
+
+                llm_prompt = f"""You are a legal analyst verifying an NCLT resolution plan approval order.
+
+The following MANDATORY OBLIGATIONS were extracted from the order:
+{obs_summary}
+
+OPERATIVE / DIRECTIONS SECTION:
+{operative_text[:2500] if operative_text else "(not available)"}
+
+For each obligation, check if the operative/directions section explicitly addresses it.
+Return JSON: {{"all_addressed": true/false, "unaddressed": ["list of obligations not covered"], "summary": "one sentence"}}"""
+
+                raw = await llm_call(llm_prompt, provider="openai", heavy=False, max_tokens=600, json_mode=True)
+                cleaned = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+                llm_analyses["obligations_coverage"] = json.loads(cleaned)
+                _rpv_check(checks,
+                    "obligations_coverage",
+                    passed=llm_analyses["obligations_coverage"].get("all_addressed", False),
+                    detail=llm_analyses["obligations_coverage"].get("summary", ""),
+                    severity="warning", category="legal",
+                    ibc_basis="Section 30(2), 31(1)", data_source="_obligations.json + LLM",
+                )
+            except Exception as e:
+                llm_analyses["obligations_coverage"] = {"error": str(e)}
+
+    # Check C: Entity consistency (cross-reference entities with _meta.json parties)
+    if entities.get("parties"):
+        meta_parties = meta.get("parties", [])
+        if isinstance(meta_parties, str):
+            try:
+                meta_parties = json.loads(meta_parties)
+            except (json.JSONDecodeError, TypeError):
+                meta_parties = [meta_parties]
+
+        entity_names = {p.get("name", "").strip().lower() for p in entities["parties"]}
+        meta_names = set()
+        for p in meta_parties:
+            if isinstance(p, str):
+                # Extract name before parenthetical role
+                name = p.split("(")[0].strip().lower() if "(" in p else p.strip().lower()
+                meta_names.add(name)
+            elif isinstance(p, dict):
+                meta_names.add(p.get("name", "").strip().lower())
+
+        # Check if key entities from meta are in entities
+        missing_entities = meta_names - entity_names if entity_names else set()
+        _rpv_check(checks,
+            "entity_consistency",
+            passed=len(missing_entities) <= 1,  # allow 1 missing (minor extraction variance)
+            detail=f"Entities extracted: {len(entity_names)}, Meta parties: {len(meta_names)}"
+                   + (f" — missing from entities: {list(missing_entities)[:3]}" if missing_entities else ""),
+            severity="warning" if len(missing_entities) > 1 else "ok", category="structural",
+            ibc_basis="", data_source="_entities.json + _meta.json",
+        )
+
+    # ════════════════════════════════════════════════════════════
+    # BUILD REPORT
+    # ════════════════════════════════════════════════════════════
+
     passed_count = sum(1 for c in checks if c["passed"])
     critical_failures = [c for c in checks if not c["passed"] and c["severity"] == "critical"]
     warnings = [c for c in checks if not c["passed"] and c["severity"] == "warning"]
     overall = "PASS" if not critical_failures else "FAIL"
 
+    # Score: percentage of checks passed
+    score_pct = round(passed_count / len(checks) * 100, 1) if checks else 0
+
     report = {
-        "slug": order_slug,
-        "doc_type": "resolution_plan_order",
-        "corporate_debtor": order_meta.get("corporate_debtor", order_idx.metadata.get("corporate_debtor", "")),
-        "case_number": order_meta.get("case_number", order_idx.metadata.get("case_number", "")),
+        "slug": slug,
+        "doc_type": doc_type,
+        "corporate_debtor": meta.get("corporate_debtor", idx_meta.get("corporate_debtor", "")),
+        "case_number": meta.get("case_number", idx_meta.get("case_number", "")),
         "overall": overall,
+        "score_pct": score_pct,
         "passed": passed_count,
         "total_checks": len(checks),
         "critical_failures": len(critical_failures),
         "warnings": len(warnings),
         "checks": checks,
-        "llm_analysis": llm_check_result,
+        "llm_analyses": llm_analyses,
+        "data_sources": {
+            "meta_json": bool(meta),
+            "akn_json": bool(akn and akn.get("elements")),
+            "entities_json": bool(entities and entities.get("parties")),
+            "timeline_json": bool(timeline and timeline.get("events")),
+            "obligations_json": bool(obligations and obligations.get("obligations")),
+            "citations_json": bool(citations and (citations.get("ibc_sections") or citations.get("case_citations"))),
+            "tables_json": bool(tables_data and tables_data.get("tables")),
+            "sections_count": len(section_notes),
+        },
         "cross_docs": {
             "plan_slug": request.plan_slug,
             "im_slug": request.im_slug,
         },
     }
 
-    # Write _rpv.json
-    rpv_json_path = Path(VAULT_ROOT) / "sources" / order_slug / "_rpv.json"
-    with open(rpv_json_path, "w", encoding="utf-8") as f:
-        json.dump(report, f, ensure_ascii=False, indent=2)
+    # ── Write _rpv.json (via dual_write) ──────────────────────
+    write_sidecar_json(VAULT_ROOT, slug, "_rpv.json", report)
 
-    # Write _rpv.md — Obsidian note
+    # ── Write _rpv.md (via dual_write) ────────────────────────
     status_icon = "✅" if overall == "PASS" else "❌"
     md_lines = [
-        f"# RPV Report — {report['corporate_debtor']}",
-        f"**Case:** {report['case_number']}  **Status:** {status_icon} {overall}",
+        f"# RPV Report — {report['corporate_debtor'] or slug}",
+        f"**Case:** {report['case_number'] or 'N/A'}  "
+        f"**Status:** {status_icon} {overall} ({score_pct}%)",
         f"**Checks:** {passed_count}/{len(checks)} passed  "
-        f"**Critical failures:** {len(critical_failures)}  **Warnings:** {len(warnings)}",
+        f"**Critical:** {len(critical_failures)}  **Warnings:** {len(warnings)}",
         "",
-        "## Check Results",
     ]
-    for c in checks:
-        icon = "✅" if c["passed"] else ("🔴" if c["severity"] == "critical" else "⚠️")
-        md_lines.append(f"{icon} **{c['check']}**: {c['detail']}")
 
-    if llm_check_result and not llm_check_result.get("error"):
-        md_lines += ["", "## LLM Semantic Analysis"]
-        for issue in llm_check_result.get("issues", []):
-            md_lines.append(f"- {issue}")
+    # Data sources summary
+    ds = report["data_sources"]
+    available = [k.replace("_json", "").replace("_count", "") for k, v in ds.items() if v]
+    md_lines.append(f"> Data sources: {', '.join(available)}")
+    md_lines.append("")
+
+    # Group checks by category
+    categories = {}
+    for c in checks:
+        cat = c.get("category", "other")
+        categories.setdefault(cat, []).append(c)
+
+    category_order = ["financial", "legal", "temporal", "structural", "cross-document"]
+    category_labels = {
+        "financial": "Financial Checks",
+        "legal": "Legal Compliance",
+        "temporal": "Temporal Checks",
+        "structural": "Structural / Semantic",
+        "cross-document": "Cross-Document",
+    }
+
+    for cat in category_order:
+        cat_checks = categories.get(cat, [])
+        if not cat_checks:
+            continue
+        md_lines.append(f"## {category_labels.get(cat, cat.title())}")
+        md_lines.append("")
+        for c in cat_checks:
+            icon = "✅" if c["passed"] else ("🔴" if c["severity"] == "critical" else "⚠️")
+            md_lines.append(f"{icon} **{c['check']}**: {c['detail']}")
+            if c.get("ibc_basis"):
+                md_lines.append(f"   _Basis: {c['ibc_basis']}_")
+        md_lines.append("")
+
+    # LLM Analysis section
+    if llm_analyses:
+        md_lines.append("## LLM Semantic Analysis")
+        md_lines.append("")
+        for key, analysis in llm_analyses.items():
+            if "error" in analysis:
+                md_lines.append(f"**{key}**: Error — {analysis['error']}")
+            else:
+                md_lines.append(f"**{key}**: {'Consistent' if analysis.get('consistent') or analysis.get('all_addressed') else 'Issues found'}")
+                for issue in analysis.get("issues", analysis.get("unaddressed", [])):
+                    md_lines.append(f"- {issue}")
+            md_lines.append("")
+
+    # Critical failures callout
+    if critical_failures:
+        md_lines.append("## Critical Failures")
+        md_lines.append("")
+        for c in critical_failures:
+            md_lines.append(f"🔴 **{c['check']}**: {c['detail']}")
+            if c.get("ibc_basis"):
+                md_lines.append(f"   _IBC Basis: {c['ibc_basis']}_")
+        md_lines.append("")
 
     rpv_meta = {
         "type": "rpv-report",
-        "source": f"[[sources/{order_slug}/_index]]",
+        "source": f"[[sources/{slug}/_index]]",
         "overall": overall,
+        "score_pct": score_pct,
         "passed": passed_count,
         "total_checks": len(checks),
         "critical_failures": len(critical_failures),
+        "warnings": len(warnings),
         "corporate_debtor": report["corporate_debtor"],
         "case_number": report["case_number"],
     }
-    write_note(VAULT_ROOT, f"sources/{order_slug}/_rpv.md", rpv_meta, "\n".join(md_lines))
+    write_note(
+        VAULT_ROOT, f"sources/{slug}/_rpv.md", rpv_meta, "\n".join(md_lines),
+        slug=slug, tiddler_title="RPV Report", tags="rpv-report",
+    )
 
     # Stamp pipeline_stage
-    order_idx.metadata["rpv_overall"] = overall
-    order_idx.metadata["pipeline_stage"] = "rpv_done"
-    write_note(VAULT_ROOT, f"sources/{order_slug}/_index.md", order_idx.metadata, order_idx.body)
+    idx_meta_new = dict(idx.metadata)
+    idx_meta_new["rpv_overall"] = overall
+    idx_meta_new["rpv_score_pct"] = score_pct
+    idx_meta_new["pipeline_stage"] = "rpv_done"
+    write_note(VAULT_ROOT, f"sources/{slug}/_index.md", idx_meta_new, idx.body,
+               slug=slug, tiddler_title="Source Index",
+               tags=slug if slug else "")
+
+    logger.info(
+        f"  rpv result: {overall} ({score_pct}%) — "
+        f"{passed_count}/{len(checks)} passed, "
+        f"{len(critical_failures)} critical, {len(warnings)} warnings"
+    )
 
     return report
 

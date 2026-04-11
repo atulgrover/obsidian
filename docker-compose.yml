@@ -89,7 +89,7 @@ services:
       LIGHTRAG_DOC_STATUS_STORAGE: PGDocStatusStorage
       # LLM — OpenAI
       LLM_BINDING: openai
-      LLM_BINDING_HOST: https://api.openai.com
+      LLM_BINDING_HOST: https://api.openai.com/v1
       LLM_MODEL: gpt-4o-mini
       OPENAI_API_KEY: "${OPENAI_API_KEY:-}"
       # Embeddings — SBERT (OpenAI-compatible)
@@ -100,6 +100,9 @@ services:
       EMBEDDING_BINDING_API_KEY: "dummy"
       # Entity types for legal domain
       ENTITY_TYPES: '["Person","Organization","Location","CourtTribunal","StatuteProvision","LegalConcept","RegulatoryInstrument","PartyRole","CaseReference"]'
+      # Chunking — set very high so LightRAG doesn't re-chunk our pre-chunked passages
+      CHUNK_SIZE: "50000"
+      CHUNK_OVERLAP_SIZE: "0"
       # No auth for local dev
       LIGHTRAG_API_KEY: ""
     volumes:
@@ -169,6 +172,9 @@ services:
       MWS_URL: http://mws:8080
       MWS_ADMIN_USER: "${MWS_ADMIN_USER:-admin}"
       MWS_ADMIN_PASSWORD: "${MWS_ADMIN_PASSWORD:-1234}"
+      MWS_DB_PATH: /data/mws-store/database.sqlite
+    volumes:
+      - mws_data:/data/mws-store:ro
     ports:
       - "5003:5003"
     healthcheck:
@@ -192,12 +198,14 @@ services:
       MWS_ADMIN_PASSWORD: "${MWS_ADMIN_PASSWORD:-1234}"
       MWS_PORT: "8080"
       MWS_DATA_DIR: /data/store
+      AUTO_LOGIN_PORT: "8081"
     volumes:
       - mws_data:/data/store
     ports:
       - "8080:8080"
+      - "8081:8081"
     healthcheck:
-      test: ["CMD-SHELL", "wget --spider -q http://localhost:8080/ || exit 1"]
+      test: ["CMD", "curl", "-f", "http://localhost:8080/"]
       interval: 15s
       timeout: 10s
       retries: 10
@@ -222,6 +230,8 @@ services:
       MWS_URL: http://mws:8080
       MWS_ADMIN_USER: "${MWS_ADMIN_USER:-admin}"
       MWS_ADMIN_PASSWORD: "${MWS_ADMIN_PASSWORD:-1234}"
+      # Path to MWS SQLite database (for session injection auth)
+      MWS_DB_PATH: /data/mws-store/database.sqlite
       LITEPARSE_URL: http://liteparse:5001
       PAGEINDEX_URL: http://pageindex:5002
       SEMCHUNK_URL: http://semchunk:5003
@@ -247,6 +257,7 @@ services:
       LLM_MODEL_OPENAI_HEAVY: "gpt-4o"
     volumes:
       - ./vault:/vault
+      - mws_data:/data/mws-store:rw
     ports:
       - "5004:5004"
     healthcheck:

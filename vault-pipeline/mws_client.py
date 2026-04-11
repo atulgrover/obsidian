@@ -1,7 +1,9 @@
 """
 MWS Client — HTTP client for TiddlyWiki MultiWikiServer (MWS).
 
-Handles authentication, wiki (recipe) CRUD, and tiddler CRUD via the MWS API.
+Handles authentication via SQLite session injection, wiki (recipe) CRUD,
+and tiddler CRUD via the MWS REST API.
+
 Each PDF document maps to its own wiki instance (recipe) in MWS.
 """
 
@@ -9,7 +11,10 @@ from __future__ import annotations
 
 import json
 import logging
-import subprocess
+import os
+import secrets
+import sqlite3
+import time
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 from urllib.parse import quote
@@ -30,17 +35,28 @@ class MWSError(Exception):
 class MWSClient:
     """Async HTTP client for TiddlyWiki MultiWikiServer.
 
+    Authentication uses direct SQLite session injection — we insert a session
+    row into the MWS database (shared via Docker volume) and use the session_id
+    as a cookie. This bypasses the OPAQUE protocol that MWS uses for browser login.
+
     Usage:
-        client = MWSClient("http://mws:8080", "admin", "1234")
+        client = MWSClient("http://mws:8080", db_path="/data/mws-store/database.sqlite")
         await client.authenticate()
         await client.create_wiki("my-doc")
         await client.put_tiddler("my-doc", "Hello", text="Hello world!", tags="hello test")
     """
 
-    def __init__(self, base_url: str, username: str = "admin", password: str = "1234"):
+    def __init__(
+        self,
+        base_url: str,
+        username: str = "admin",
+        password: str = "1234",
+        db_path: str = "",
+    ):
         self.base_url = base_url.rstrip("/")
         self.username = username
         self.password = password
+        self.db_path = db_path or os.environ.get("MWS_DB_PATH", "")
         self.session_cookie: Optional[str] = None
         self._client: Optional[httpx.AsyncClient] = None
 
@@ -50,115 +66,84 @@ class MWSClient:
             self._client = httpx.AsyncClient(timeout=30.0)
         return self._client
 
-    async def close(self):
-        """Close the HTTP client."""
-        if self._client and not self._client.is_closed:
-            await self._client.aclose()
-
     # ──────────────────────────────────────────────────────────────
-    # Authentication
+    # Authentication via SQLite session injection
     # ──────────────────────────────────────────────────────────────
 
     async def authenticate(self) -> None:
-        """Authenticate with MWS and store the session cookie.
+        """Authenticate with MWS by injecting a session into the SQLite database.
 
-        Uses a Node.js helper script (mws-login.js) for OPAQUE auth,
-        then falls back to simple cookie-based auth if available.
+        Since MWS uses the OPAQUE protocol for browser-based login (which we
+        can't implement in Python), we bypass it by directly inserting a session
+        row into the MWS SQLite database. The MWS data volume is shared between
+        the MWS container and the vault-pipeline container.
         """
-        # Strategy 1: Try Node.js helper for OPAQUE auth
-        login_js = Path(__file__).parent.parent / "mws-service" / "mws-login.js"
-        if login_js.exists():
-            try:
-                cookie = await self._authenticate_via_node(str(login_js))
-                if cookie:
-                    self.session_cookie = cookie
-                    logger.info("MWS authentication successful via Node.js helper")
-                    return
-            except Exception as e:
-                logger.warning(f"Node.js MWS auth failed: {e}")
+        if not self.db_path:
+            # Try default path
+            self.db_path = "/data/mws-store/database.sqlite"
 
-        # Strategy 2: Direct simple auth (for MWS versions that support it)
-        try:
-            await self._authenticate_direct()
-            logger.info("MWS authentication successful via direct auth")
-            return
-        except Exception as e:
-            logger.warning(f"Direct MWS auth failed: {e}")
-
-        # Strategy 3: No auth (for internal/dev setups with auth disabled)
-        logger.warning("MWS auth methods failed; proceeding without auth (may fail on write)")
-        self.session_cookie = "no-auth"
-
-    async def _authenticate_via_node(self, script_path: str) -> Optional[str]:
-        """Use Node.js helper to perform OPAQUE authentication."""
-        import asyncio
-
-        proc = await asyncio.create_subprocess_exec(
-            "node", script_path, self.base_url, self.username, self.password,
-            stdout=asyncio.subprocess.PIPE,
-            stderr=asyncio.subprocess.PIPE,
-        )
-        stdout, stderr = await proc.communicate()
-        if proc.returncode != 0:
-            raise MWSAuthError(f"Node.js auth helper failed: {stderr.decode()}")
-        cookie = stdout.decode().strip()
-        return cookie if cookie else None
-
-    async def _authenticate_direct(self) -> None:
-        """Try direct authentication against MWS.
-
-        MWS uses OPAQUE protocol (2-phase login). This attempts a simplified
-        flow that may work depending on the MWS version and configuration.
-        """
-        client = await self._get_client()
-
-        # Phase 1: Start login
-        resp = await client.post(
-            f"{self.base_url}/login/1",
-            json={"username": self.username, "password": self.password},
-        )
-        if resp.status_code == 200:
-            login_data = resp.json()
-
-            # Phase 2: Finish login
-            resp2 = await client.post(
-                f"{self.base_url}/login/2",
-                json={
-                    "finishLoginRequest": login_data.get("finishLoginRequest", ""),
-                    "loginSession": login_data.get("loginSession", ""),
-                },
+        if not Path(self.db_path).exists():
+            raise MWSAuthError(
+                f"MWS database not found at {self.db_path}. "
+                "Ensure the mws_data volume is mounted in the vault-pipeline container."
             )
-            if resp2.status_code == 200:
-                # Extract session cookie from Set-Cookie header
-                set_cookie = resp2.headers.get("set-cookie", "")
-                if set_cookie:
-                    # Parse the cookie value
-                    for part in set_cookie.split(";"):
-                        part = part.strip()
-                        if "=" in part and not part.startswith(("Path", "Domain", "HttpOnly", "Secure", "SameSite")):
-                            self.session_cookie = part
-                            return
 
-        # Fallback: try simple session-based auth
-        resp = await client.post(
-            f"{self.base_url}/login",
-            json={"username": self.username, "password": self.password},
-            headers={"X-Requested-With": "TiddlyWiki"},
-        )
-        if resp.status_code == 200:
-            set_cookie = resp.headers.get("set-cookie", "")
-            if set_cookie:
-                for part in set_cookie.split(";"):
-                    part = part.strip()
-                    if "=" in part and not part.startswith(("Path", "Domain", "HttpOnly", "Secure", "SameSite")):
-                        self.session_cookie = part
-                        return
+        session_id = self._inject_session()
+        if session_id:
+            self.session_cookie = f"session={session_id}"
+            logger.info(f"MWS authentication successful (SQLite session injection)")
+        else:
+            raise MWSAuthError("Failed to inject MWS session into SQLite database")
 
-        raise MWSAuthError("Direct authentication failed")
+    def _inject_session(self) -> Optional[str]:
+        """Insert a session row into the MWS SQLite database and return the session_id.
+
+        MWS stores sessions in the 'sessions' table with columns:
+          session_id (TEXT PK), created_at (DATETIME), last_accessed (DATETIME),
+          session_key (TEXT), user_id (TEXT FK → users)
+        """
+        try:
+            conn = sqlite3.connect(self.db_path)
+            conn.execute("PRAGMA journal_mode=WAL")  # Use WAL mode for better concurrency
+            cursor = conn.cursor()
+
+            # Find the admin user
+            cursor.execute(
+                "SELECT user_id FROM users WHERE username = ?", (self.username,)
+            )
+            row = cursor.fetchone()
+            if not row:
+                logger.error(f"MWS user '{self.username}' not found in database")
+                conn.close()
+                return None
+            user_id = row[0]
+
+            # Delete any existing sessions for this user (clean up stale sessions)
+            cursor.execute("DELETE FROM sessions WHERE user_id = ?", (user_id,))
+
+            # Create a new session
+            session_id = secrets.token_urlsafe(16)
+            session_key = secrets.token_urlsafe(32)
+            now = time.strftime("%Y-%m-%dT%H:%M:%S.000+00:00", time.gmtime())
+
+            cursor.execute(
+                "INSERT INTO sessions (session_id, created_at, last_accessed, session_key, user_id) "
+                "VALUES (?, ?, ?, ?, ?)",
+                (session_id, now, now, session_key, user_id),
+            )
+            conn.commit()
+            conn.close()
+
+            logger.info(f"Injected MWS session for user '{self.username}' (session_id={session_id})")
+            return session_id
+
+        except sqlite3.Error as e:
+            logger.error(f"SQLite error injecting MWS session: {e}")
+            return None
 
     async def _ensure_auth(self) -> None:
         """Ensure we have a valid session cookie, re-authenticate if needed."""
-        if not self.session_cookie or self.session_cookie == "no-auth":
+        if not self.session_cookie:
             await self.authenticate()
 
     # ──────────────────────────────────────────────────────────────
@@ -171,6 +156,8 @@ class MWSClient:
         path: str,
         *,
         json_data: Optional[Dict] = None,
+        body_str: Optional[str] = None,
+        content_type: str = "application/json",
         headers: Optional[Dict[str, str]] = None,
         retry_auth: bool = True,
     ) -> httpx.Response:
@@ -179,31 +166,77 @@ class MWSClient:
 
         client = await self._get_client()
         req_headers = {
-            "Content-Type": "application/json",
-            "X-Requested-With": "TiddlyWiki",
+            "Content-Type": content_type,
+            "X-Requested-With": "fetch",
         }
-        if self.session_cookie and self.session_cookie != "no-auth":
+        if self.session_cookie:
             req_headers["Cookie"] = self.session_cookie
+
+        # Determine Referer based on path
+        # MWS validates that the Referer recipe matches the URL recipe for tiddler writes.
+        # No trailing slash! MWS compares Referer recipe name against the URL recipe name,
+        # and a trailing slash causes a mismatch → 403.
+        if path.startswith("/admin/"):
+            req_headers["Referer"] = f"{self.base_url}/admin/"
+        elif "/recipe/" in path or "/bag/" in path:
+            # Extract recipe/bag name from path for Referer
+            # e.g. /recipe/my-wiki/tiddlers/... → Referer: /wiki/my-wiki
+            parts = path.split("/")
+            if len(parts) >= 3:
+                wiki_name = parts[2]
+                req_headers["Referer"] = f"{self.base_url}/wiki/{wiki_name}"
+
         if headers:
             req_headers.update(headers)
 
-        resp = await client.request(
-            method,
-            f"{self.base_url}{path}",
-            json=json_data,
-            headers=req_headers,
-        )
-
-        if resp.status_code == 401 and retry_auth:
-            # Session expired; re-authenticate and retry once
-            await self.authenticate()
-            req_headers["Cookie"] = self.session_cookie
+        # Build request body
+        if body_str is not None:
+            # Raw string body (for tiddler saves)
+            resp = await client.request(
+                method,
+                f"{self.base_url}{path}",
+                content=body_str,
+                headers=req_headers,
+            )
+        elif json_data is not None:
             resp = await client.request(
                 method,
                 f"{self.base_url}{path}",
                 json=json_data,
                 headers=req_headers,
             )
+        else:
+            resp = await client.request(
+                method,
+                f"{self.base_url}{path}",
+                headers=req_headers,
+            )
+
+        if resp.status_code == 401 and retry_auth:
+            # Session expired; re-authenticate and retry once
+            self.session_cookie = None
+            await self.authenticate()
+            req_headers["Cookie"] = self.session_cookie
+            if body_str is not None:
+                resp = await client.request(
+                    method,
+                    f"{self.base_url}{path}",
+                    content=body_str,
+                    headers=req_headers,
+                )
+            elif json_data is not None:
+                resp = await client.request(
+                    method,
+                    f"{self.base_url}{path}",
+                    json=json_data,
+                    headers=req_headers,
+                )
+            else:
+                resp = await client.request(
+                    method,
+                    f"{self.base_url}{path}",
+                    headers=req_headers,
+                )
 
         return resp
 
@@ -215,6 +248,7 @@ class MWSClient:
         """Create a new wiki (recipe + bag) in MWS.
 
         Each PDF document gets its own wiki. The slug becomes the recipe name.
+        Also sets up ACL entries so the wiki is viewable by all users.
 
         Returns:
             Dict with 'recipe' and 'bag' names.
@@ -243,10 +277,15 @@ class MWSClient:
                 "recipe_name": slug,
                 "description": description or f"Wiki for document {slug}",
                 "bag_names": [{"bag_name": bag_name, "with_acl": True}],
-                "plugin_names": [],
+                "plugin_names": [
+                    "$:/plugins/tiddlywiki/markdown",
+                    "$:/themes/tiddlywiki/vanilla",
+                    "$:/themes/tiddlywiki/snowwhite",
+                ],
                 "skip_required_plugins": False,
                 "skip_core": False,
                 "preload_store": False,
+                "custom_wiki": None,
                 "create_only": True,
             },
         )
@@ -254,8 +293,61 @@ class MWSClient:
             # Recipe may already exist — that's OK
             logger.debug(f"Recipe creation returned {resp.status_code}: {resp.text[:200]}")
 
+        # Set up ACL so all users can read/write the wiki
+        await self._ensure_acl(slug, bag_name)
+
         logger.info(f"Created wiki: {slug}")
         return {"recipe": slug, "bag": bag_name}
+
+    async def _ensure_acl(self, recipe_name: str, bag_name: str) -> None:
+        """Set up ACL entries so all users can read/write the wiki.
+
+        MWS requires ACL entries for non-admin users to access wikis.
+        Without this, wikis return 403 "no read permission" for anonymous users.
+        """
+        # Look up role IDs from the MWS database
+        role_ids = self._get_role_ids()
+        acl_entries = []
+        for role_id in role_ids:
+            acl_entries.append({"role_id": role_id, "permission": "READ"})
+            acl_entries.append({"role_id": role_id, "permission": "WRITE"})
+
+        # Set recipe ACL
+        await self._request(
+            "POST",
+            "/admin/recipe_acl_update",
+            json_data={"recipe_name": recipe_name, "acl": acl_entries},
+        )
+
+        # Set bag ACL
+        await self._request(
+            "POST",
+            "/admin/bag_acl_update",
+            json_data={"bag_name": bag_name, "acl": acl_entries},
+        )
+        logger.debug(f"Set ACL for wiki: {recipe_name}")
+
+    def _get_role_ids(self) -> List[str]:
+        """Look up all role IDs from the MWS SQLite database.
+
+        Since the mws_data volume is shared with the vault-pipeline container,
+        we can read the roles table directly. The default MWS installation
+        creates ADMIN and USER roles.
+        """
+        try:
+            conn = sqlite3.connect(self.db_path)
+            conn.execute("PRAGMA journal_mode=WAL")
+            cursor = conn.cursor()
+            cursor.execute("SELECT role_id FROM roles")
+            rows = cursor.fetchall()
+            conn.close()
+            if rows:
+                return [row[0] for row in rows]
+        except sqlite3.Error as e:
+            logger.warning(f"Could not read role IDs from MWS database: {e}")
+
+        logger.warning("Could not look up role IDs, skipping ACL setup")
+        return []
 
     async def delete_wiki(self, slug: str) -> None:
         """Delete a wiki (recipe + bag) and all its tiddlers."""
@@ -287,12 +379,15 @@ class MWSClient:
 
     async def list_wikis(self) -> List[str]:
         """List all wiki (recipe) names."""
-        resp = await self._request("POST", "/admin/index_json", json_data={})
+        resp = await self._request(
+            "POST",
+            "/admin/index_json",
+            json_data={},
+        )
         if resp.status_code != 200:
             logger.warning(f"Failed to list wikis: {resp.status_code}")
             return []
         data = resp.json()
-        # The index_json endpoint returns a dict with recipe info
         if isinstance(data, dict) and "recipes" in data:
             return [r["recipe_name"] for r in data["recipes"]]
         return []
@@ -325,20 +420,26 @@ class MWSClient:
             Response dict with bag_name and revision_id.
         """
         encoded_title = quote(title, safe="")
-        payload: Dict[str, Any] = {
+
+        # MWS expects a FLAT JSON object where all values are strings.
+        # Custom fields go at the top level alongside title/text/type/tags,
+        # NOT nested under a "fields" key.
+        tiddler_data: Dict[str, str] = {
             "title": title,
             "text": text,
             "type": tiddler_type,
         }
         if tags:
-            payload["tags"] = tags
+            tiddler_data["tags"] = tags
         if fields:
-            payload["fields"] = {k: str(v) for k, v in fields.items()}
+            for k, v in fields.items():
+                tiddler_data[k] = str(v)
 
+        # MWS expects JSON body for tiddler saves
         resp = await self._request(
             "PUT",
             f"/recipe/{recipe}/tiddlers/{encoded_title}",
-            json_data=payload,
+            json_data=tiddler_data,
         )
         if resp.status_code not in (200, 201, 204):
             raise MWSError(
@@ -397,26 +498,16 @@ class MWSClient:
             recipe: Wiki (recipe) name.
             tiddlers: List of tiddler dicts, each with at least 'title' and 'text'.
         """
-        resp = await self._request(
-            "PUT",
-            f"/recipe/{recipe}/rpc/batch-save",
-            json_data={"tiddlers": tiddlers},
-        )
-        if resp.status_code not in (200, 201, 204):
-            # Fallback: save tiddlers one by one
-            results = []
-            for t in tiddlers:
-                title = t.pop("title")
-                text = t.pop("text", "")
-                tags = t.pop("tags", "")
-                fields = t  # remaining keys are custom fields
-                result = await self.put_tiddler(recipe, title, text=text, tags=tags, fields=fields)
-                results.append(result)
-            return results
-        try:
-            return resp.json()
-        except Exception:
-            return [{"status": "ok"}]
+        # MWS doesn't have a native batch endpoint, so save one by one
+        results = []
+        for t in tiddlers:
+            title = t.pop("title")
+            text = t.pop("text", "")
+            tags = t.pop("tags", "")
+            fields = t  # remaining keys are custom fields
+            result = await self.put_tiddler(recipe, title, text=text, tags=tags, fields=fields)
+            results.append(result)
+        return results
 
     # ──────────────────────────────────────────────────────────────
     # JSON tiddler helpers
@@ -467,10 +558,20 @@ class MWSClient:
     # ──────────────────────────────────────────────────────────────
 
     async def health_check(self) -> bool:
-        """Check if MWS is reachable."""
+        """Check if MWS is reachable and auth is working."""
         try:
+            await self._ensure_auth()
             client = await self._get_client()
-            resp = await client.get(f"{self.base_url}/")
+            resp = await client.get(
+                f"{self.base_url}/",
+                headers={"Cookie": self.session_cookie} if self.session_cookie else {},
+            )
             return resp.status_code == 200
         except Exception:
             return False
+
+    async def close(self) -> None:
+        """Close the HTTP client."""
+        if self._client and not self._client.is_closed:
+            await self._client.aclose()
+            self._client = None

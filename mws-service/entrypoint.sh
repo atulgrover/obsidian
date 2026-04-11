@@ -9,9 +9,12 @@ ADMIN_PASSWORD="${MWS_ADMIN_PASSWORD:-1234}"
 if [ ! -f "$DATA_DIR/.mws-initialized" ]; then
     echo "Initializing MWS store..."
     cd /data
-    npx mws init-store --admin-password "$ADMIN_PASSWORD" 2>&1 || true
+    npx mws init-store --admin-password "$ADMIN_PASSWORD" 2>&1 || {
+        echo "WARNING: MWS init-store failed. The store may need to be initialized manually."
+        echo "Try: docker compose exec mws npx mws init-store"
+    }
     touch "$DATA_DIR/.mws-initialized"
-    echo "MWS store initialized."
+    echo "MWS store initialization attempted."
 fi
 
 echo "Starting TiddlyWiki MWS on port ${MWS_PORT:-8080}..."
