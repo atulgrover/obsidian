@@ -47,11 +47,15 @@ from vault_io import (
     read_sidecar_json,
     read_tables_json,
     read_tree_json,
-    update_pipeline_stage,
+)
+
+# ── Dual write: vault (primary) + TiddlyWiki MWS (mirror) ──
+from dual_write import (
     write_akn_json,
     write_chunk_index,
     write_chunk_note,
     write_full_text,
+    write_note,
     write_parse_json,
     write_section_note,
     write_sidecar_json,
@@ -59,19 +63,17 @@ from vault_io import (
     write_table_note,
     write_tables_json,
     write_tree_json,
-    write_note,
+    update_pipeline_stage,
 )
 
-# ── Storage backend: vault (Obsidian) or wiki (TiddlyWiki MWS) ──
-from wiki_manager import is_wiki_mode, get_client, ensure_wiki, authenticate as mws_authenticate
+# ── MWS client for dual-write ──
+from wiki_manager import get_client, ensure_wiki, authenticate as mws_authenticate
 
 # ──────────────────────────────────────────────────────────────
 # Config
 # ──────────────────────────────────────────────────────────────
 
 VAULT_ROOT = os.environ.get("VAULT_ROOT", "/vault")
-# Storage backend: "vault" (Obsidian files) or "wiki" (TiddlyWiki MWS)
-STORAGE_BACKEND = os.environ.get("STORAGE_BACKEND", "vault").lower()
 LITEPARSE_URL = os.environ.get("LITEPARSE_URL", "http://localhost:5001")
 PAGEINDEX_URL = os.environ.get("PAGEINDEX_URL", "http://localhost:5002")
 SEMCHUNK_URL = os.environ.get("SEMCHUNK_URL", "http://localhost:5003")
@@ -167,11 +169,13 @@ app.add_middleware(RequestLogMiddleware)
 @app.on_event("startup")
 async def startup():
     init_vault(VAULT_ROOT)
-    if is_wiki_mode():
+    # Authenticate with TiddlyWiki MWS for dual-write mirroring
+    # If MWS is not available, pipeline continues with vault-only writes
+    try:
         await mws_authenticate()
-        logger.info("Storage backend: TiddlyWiki MWS (wiki mode)")
-    else:
-        logger.info("Storage backend: Obsidian vault (vault mode)")
+        logger.info("MWS authentication successful — dual-write enabled (vault + TiddlyWiki)")
+    except Exception as e:
+        logger.warning(f"MWS not available — vault-only mode: {e}")
 
 
 @app.get("/")
@@ -180,17 +184,19 @@ async def root():
         "message": "vault-pipeline",
         "version": "1.0.0",
         "vault_root": VAULT_ROOT,
-        "storage_backend": STORAGE_BACKEND,
+        "dual_write": True,
     }
 
 
 @app.get("/health")
 async def health():
-    result = {"status": "ok", "vault_root": VAULT_ROOT, "storage_backend": STORAGE_BACKEND}
-    if is_wiki_mode():
-        from wiki_manager import health_check as mws_health
+    result = {"status": "ok", "vault_root": VAULT_ROOT, "dual_write": True}
+    from wiki_manager import health_check as mws_health
+    try:
         mws_ok = await mws_health()
         result["mws_reachable"] = mws_ok
+    except Exception:
+        result["mws_reachable"] = False
     return result
 
 

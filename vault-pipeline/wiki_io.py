@@ -522,3 +522,25 @@ async def read_sidecar_json(
     """Read a sidecar JSON tiddler. Returns None if not yet produced."""
     title = _SIDECAR_TITLE_MAP.get(filename, filename.replace("_", " ").replace(".json", " Data").title())
     return await client.get_json_tiddler(slug, title)
+
+
+# ──────────────────────────────────────────────────────────────
+# Generic note write (for vault_io.write_note equivalent)
+# ──────────────────────────────────────────────────────────────
+
+async def write_note_generic(
+    client: MWSClient,
+    slug: str,
+    title: str,
+    *,
+    text: str = "",
+    tags: str = "",
+    fields: Optional[Dict[str, str]] = None,
+) -> None:
+    """Write a generic tiddler. Used for vault_io.write_note() equivalent
+    where the vault path maps to a tiddler title.
+
+    This is the catch-all for notes that don't have a specific wiki_io
+    function (e.g., _links.md, _rpv.md, _financials.md, karpathy notes, etc.).
+    """
+    await client.put_tiddler(slug, title, text=text, tags=tags, fields=fields or {})
