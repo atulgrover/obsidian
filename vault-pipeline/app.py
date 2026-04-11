@@ -1,11 +1,14 @@
 """
-vault-pipeline — FastAPI service that orchestrates the RAG2 pipeline
-and writes all output to an Obsidian vault (markdown + YAML frontmatter).
+vault-pipeline — FastAPI service that orchestrates the RAG2 pipeline.
+
+Storage backends:
+  - "vault" (default): writes to Obsidian vault (markdown + YAML frontmatter)
+  - "wiki": writes to TiddlyWiki MWS (tiddlers via HTTP API)
 
 Stages:
-  Stage 1: PDF → LiteParse → PageIndex → vault markdown (sources/)
-  Stage 2: vault sections → SemChunk → vault chunks (chunks/)
-  Stage 3: vault chunks → LightRAG → Postgres (updates chunk frontmatter)
+  Stage 1: PDF → LiteParse → PageIndex → vault/wiki (sources/)
+  Stage 2: vault/wiki sections → SemChunk → vault/wiki chunks (chunks/)
+  Stage 3: vault/wiki chunks → LightRAG → Postgres (updates chunk frontmatter)
 
 Also provides vault CRUD endpoints for the web frontend.
 """
@@ -59,11 +62,16 @@ from vault_io import (
     write_note,
 )
 
+# ── Storage backend: vault (Obsidian) or wiki (TiddlyWiki MWS) ──
+from wiki_manager import is_wiki_mode, get_client, ensure_wiki, authenticate as mws_authenticate
+
 # ──────────────────────────────────────────────────────────────
 # Config
 # ──────────────────────────────────────────────────────────────
 
 VAULT_ROOT = os.environ.get("VAULT_ROOT", "/vault")
+# Storage backend: "vault" (Obsidian files) or "wiki" (TiddlyWiki MWS)
+STORAGE_BACKEND = os.environ.get("STORAGE_BACKEND", "vault").lower()
 LITEPARSE_URL = os.environ.get("LITEPARSE_URL", "http://localhost:5001")
 PAGEINDEX_URL = os.environ.get("PAGEINDEX_URL", "http://localhost:5002")
 SEMCHUNK_URL = os.environ.get("SEMCHUNK_URL", "http://localhost:5003")
@@ -159,16 +167,31 @@ app.add_middleware(RequestLogMiddleware)
 @app.on_event("startup")
 async def startup():
     init_vault(VAULT_ROOT)
+    if is_wiki_mode():
+        await mws_authenticate()
+        logger.info("Storage backend: TiddlyWiki MWS (wiki mode)")
+    else:
+        logger.info("Storage backend: Obsidian vault (vault mode)")
 
 
 @app.get("/")
 async def root():
-    return {"message": "vault-pipeline", "version": "1.0.0", "vault_root": VAULT_ROOT}
+    return {
+        "message": "vault-pipeline",
+        "version": "1.0.0",
+        "vault_root": VAULT_ROOT,
+        "storage_backend": STORAGE_BACKEND,
+    }
 
 
 @app.get("/health")
 async def health():
-    return {"status": "ok", "vault_root": VAULT_ROOT}
+    result = {"status": "ok", "vault_root": VAULT_ROOT, "storage_backend": STORAGE_BACKEND}
+    if is_wiki_mode():
+        from wiki_manager import health_check as mws_health
+        mws_ok = await mws_health()
+        result["mws_reachable"] = mws_ok
+    return result
 
 
 # ──────────────────────────────────────────────────────────────

@@ -13,3 +13,5 @@ pipeline_test.log
 vault-pipeline/pipeline_test.log
 vault-pipeline/.obsidian/
 vault/
+wikis/
+mws-service/store/

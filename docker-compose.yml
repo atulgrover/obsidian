@@ -10,6 +10,7 @@
 #   PageIndex      :5002   (Python section tree builder)
 #   SemChunk       :5003   (Python semantic chunker)
 #   Vault Pipeline  :5004   (Python vault orchestrator)
+#   MWS            :8080   (TiddlyWiki MultiWikiServer)
 #   RAG2-Web       :5173   (Svelte frontend dev server)
 #   LightRAG       :8020   (Python ingestion + query + compliance)
 #   SBERT          :8021   (Python InLegal-SBERT embeddings)
@@ -172,8 +173,35 @@ services:
       retries: 10
 
   # ──────────────────────────────────────────────────────────
+  # TiddlyWiki MWS — MultiWikiServer (Node.js)
+  # Each PDF document becomes its own wiki instance
+  # ──────────────────────────────────────────────────────────
+  mws:
+    build:
+      context: ./mws-service
+      dockerfile: Dockerfile
+    container_name: rag2-mws
+    restart: unless-stopped
+    environment:
+      MWS_ADMIN_USER: "${MWS_ADMIN_USER:-admin}"
+      MWS_ADMIN_PASSWORD: "${MWS_ADMIN_PASSWORD:-1234}"
+      MWS_PORT: "8080"
+      MWS_DATA_DIR: /data/store
+    volumes:
+      - mws_data:/data/store
+    ports:
+      - "8080:8080"
+    healthcheck:
+      test: ["CMD-SHELL", "wget --spider -q http://localhost:8080/ || exit 1"]
+      interval: 15s
+      timeout: 10s
+      retries: 10
+      start_period: 30s
+
+  # ──────────────────────────────────────────────────────────
   # Vault Pipeline — orchestrator (Python/FastAPI)
   # Reads/writes Obsidian vault (markdown + YAML frontmatter)
+  #   or TiddlyWiki MWS when STORAGE_BACKEND=wiki
   # ──────────────────────────────────────────────────────────
   vault-pipeline:
     build:
@@ -183,6 +211,12 @@ services:
     restart: unless-stopped
     environment:
       VAULT_ROOT: /vault
+      # ── Storage backend ────────────────────────────────────
+      # Options: vault (Obsidian file-based) | wiki (TiddlyWiki MWS)
+      STORAGE_BACKEND: "${STORAGE_BACKEND:-vault}"
+      MWS_URL: http://mws:8080
+      MWS_ADMIN_USER: "${MWS_ADMIN_USER:-admin}"
+      MWS_ADMIN_PASSWORD: "${MWS_ADMIN_PASSWORD:-1234}"
       LITEPARSE_URL: http://liteparse:5001
       PAGEINDEX_URL: http://pageindex:5002
       SEMCHUNK_URL: http://semchunk:5003
@@ -224,6 +258,8 @@ services:
         condition: service_healthy
       lightrag:
         condition: service_healthy
+      mws:
+        condition: service_healthy
 
   # ──────────────────────────────────────────────────────────
   # RAG2-Web — Svelte frontend (dev server)
@@ -237,6 +273,7 @@ services:
     environment:
       VITE_VAULT_URL: http://localhost:5004
       VITE_LIGHTRAG_URL: http://localhost:8020
+      VITE_MWS_URL: http://localhost:8080
     volumes:
       - ./rag2-web/src:/app/src
     ports:
@@ -268,3 +305,4 @@ volumes:
   sbert_cache:
   lightrag_data:
   pgadmin_data:
+  mws_data:
