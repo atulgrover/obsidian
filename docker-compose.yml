@@ -164,6 +164,11 @@ services:
       dockerfile: Dockerfile
     container_name: rag2-semchunk
     restart: unless-stopped
+    environment:
+      STORAGE_BACKEND: "${STORAGE_BACKEND:-vault}"
+      MWS_URL: http://mws:8080
+      MWS_ADMIN_USER: "${MWS_ADMIN_USER:-admin}"
+      MWS_ADMIN_PASSWORD: "${MWS_ADMIN_PASSWORD:-1234}"
     ports:
       - "5003:5003"
     healthcheck:

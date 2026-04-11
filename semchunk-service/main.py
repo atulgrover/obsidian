@@ -395,9 +395,14 @@ async def url_pipeline(request: UrlPipelineRequest):
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # VAULT ENDPOINT — read from Obsidian vault, write chunks back to vault
+# Or: WIKI ENDPOINT — read from TiddlyWiki MWS, write chunks back to MWS
 # ═══════════════════════════════════════════════════════════════════════════════
 
 VAULT_ROOT = os.environ.get("VAULT_ROOT", "/vault")
+STORAGE_BACKEND = os.environ.get("STORAGE_BACKEND", "vault").lower()
+MWS_URL = os.environ.get("MWS_URL", "http://mws:8080")
+MWS_ADMIN_USER = os.environ.get("MWS_ADMIN_USER", "admin")
+MWS_ADMIN_PASSWORD = os.environ.get("MWS_ADMIN_PASSWORD", "1234")
 
 
 class ChunkFromVaultRequest(BaseModel):
@@ -532,15 +537,132 @@ def _write_chunks_to_vault(slug: str, chunks: List[ContextualizedChunk], documen
         frontmatter.dump(post, f)
 
 
+# ──────────────────────────────────────────────────────────────
+# WIKI MODE — read sections from TiddlyWiki MWS, write chunks to MWS
+# ──────────────────────────────────────────────────────────────
+
+async def _reconstruct_tree_from_wiki(slug: str) -> "PageIndexNode":
+    """
+    Read section tiddlers from TiddlyWiki MWS and reconstruct a PageIndexNode tree.
+    Falls back to vault mode if MWS is not available.
+    """
+    import sys
+    sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'vault-pipeline'))
+    from mws_client import MWSClient
+    from wiki_io import read_all_sections, read_source_index
+
+    client = MWSClient(MWS_URL, MWS_ADMIN_USER, MWS_ADMIN_PASSWORD)
+    await client.authenticate()
+
+    # Read source index tiddler for root metadata
+    index_tiddler = await client.get_tiddler(slug, "Source Index")
+    if not index_tiddler:
+        raise HTTPException(status_code=404, detail=f"Source document not found in wiki: {slug}")
+
+    index_fields = index_tiddler.get("fields", {})
+    doc_title = index_fields.get("filename", slug)
+
+    # Read all section tiddlers
+    section_tiddlers = await read_all_sections(client, slug)
+    if not section_tiddlers:
+        raise HTTPException(status_code=404, detail=f"No sections found in wiki for: {slug}")
+
+    section_nodes = []
+    for s in section_tiddlers:
+        fields = s.metadata.get("fields", s.metadata)
+        node = PageIndexNode(
+            id=fields.get("section_id", "0"),
+            level=int(fields.get("level", 1)),
+            title=fields.get("summary", s.body[:80])[:80] if fields.get("summary") else (s.body[:80] if s.body else ""),
+            summary=fields.get("summary", ""),
+            content=s.body,
+            pageStart=int(fields.get("page_start", 1)),
+            pageEnd=int(fields.get("page_end", 1)),
+            children=[],
+            parentId=None,
+            metadata={
+                "type": "content" if fields.get("is_leaf", "true").lower() == "true" else "section",
+                "wordCount": int(fields.get("word_count", len(s.body.split()) if s.body else 0)),
+                "nodeId": fields.get("section_id", "0"),
+            },
+        )
+        section_nodes.append(node)
+
+    root = PageIndexNode(
+        id="root",
+        level=0,
+        title=doc_title,
+        summary=index_tiddler.get("text", "")[:200],
+        content="",
+        pageStart=1,
+        pageEnd=int(index_fields.get("total_pages", 1)),
+        children=section_nodes,
+        parentId=None,
+        metadata={"type": "document", "totalPages": int(index_fields.get("total_pages", 0))},
+    )
+    return root
+
+
+async def _write_chunks_to_wiki(slug: str, chunks: List["ContextualizedChunk"], document_title: str, document_summary: str):
+    """Write chunk tiddlers to TiddlyWiki MWS."""
+    import sys
+    sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'vault-pipeline'))
+    from mws_client import MWSClient
+    from wiki_io import write_chunk_note, write_chunk_index
+    from wiki_manager import ensure_wiki
+
+    client = MWSClient(MWS_URL, MWS_ADMIN_USER, MWS_ADMIN_PASSWORD)
+    await client.authenticate()
+    await ensure_wiki(slug)
+
+    for chunk in chunks:
+        i = chunk.metadata.get("chunkIndex", 0)
+        m = chunk.metadata
+        await write_chunk_note(
+            client, slug, i,
+            total_chunks=m.get("totalChunks", len(chunks)),
+            content=chunk.content,
+            parent_context=chunk.parentContext,
+            page_start=chunk.pageStart,
+            page_end=chunk.pageEnd,
+            token_count=chunk.tokenCount,
+            level=chunk.level,
+            has_overlap=m.get("hasOverlap", False),
+            source_wikilink=f"[[Source Index]]",
+        )
+
+    await write_chunk_index(
+        client, slug,
+        total_chunks=len(chunks),
+        total_tokens=sum(c.tokenCount for c in chunks),
+        document_title=document_title,
+        document_summary=document_summary,
+    )
+
+
 @app.post("/chunk-from-vault", response_model=ChunkFromVaultResponse)
 async def chunk_from_vault(request: ChunkFromVaultRequest):
     """
-    Read section notes from Obsidian vault, chunk them, and write chunk notes back.
-    This is the vault-native equivalent of /pipeline — no JSON cache, no DokuWiki.
+    Read section notes, chunk them, and write chunk notes back.
+    Routes to Obsidian vault or TiddlyWiki MWS based on STORAGE_BACKEND.
     """
     try:
-        tree = _reconstruct_tree_from_vault(request.slug)
-        chunker = SemanticChunker(
+        if STORAGE_BACKEND == "wiki":
+            tree = await _reconstruct_tree_from_wiki(request.slug)
+            chunker = SemanticChunker(
+                max_tokens=request.maxTokens,
+                overlap_tokens=request.overlapTokens,
+            )
+            chunks = chunker.generate_chunks(tree)
+            await _write_chunks_to_wiki(request.slug, chunks, tree.title, tree.summary)
+        else:
+            tree = _reconstruct_tree_from_vault(request.slug)
+            chunker = SemanticChunker(
+                max_tokens=request.maxTokens,
+                overlap_tokens=request.overlapTokens,
+            )
+            chunks = chunker.generate_chunks(tree)
+            _write_chunks_to_vault(request.slug, chunks, tree.title, tree.summary)
             max_tokens=request.maxTokens,
             overlap_tokens=request.overlapTokens,
         )

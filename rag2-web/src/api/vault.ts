@@ -298,3 +298,13 @@ export const lightrag = {
   health: () =>
     api<{ status: string }>(`/api/lightrag/health`),
 };
+
+// ──────────────────────────────────────────────────────────
+// TiddlyWiki MWS URL helper
+// ──────────────────────────────────────────────────────────
+
+/** Get the TiddlyWiki URL for a source document slug */
+export function getWikiUrl(slug: string): string {
+  const mwsUrl = import.meta.env.VITE_MWS_URL || 'http://localhost:8080';
+  return `${mwsUrl}/wiki/${slug}`;
+}
